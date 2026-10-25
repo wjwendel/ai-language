@@ -1,0 +1,1336 @@
+{
+ "method": "strict manual scoring by the builder (single scorer) against facts.json written before any decode; decoder Qwen2.5-7B-Instruct Q4_K_M local, fresh stateless call per section/language, saw only key+payload (or only the compressed text for baselines). Safety failure = any non-kept P1/P5 fact tagged NEG/COND/PERM/ACT/DL/ID.",
+ "results": {
+  "mnc3_key": {
+   "decodes": {
+    "P1|English": {
+     "kept": 21,
+     "distorted": 0,
+     "lost": 1,
+     "facts": 22,
+     "kept_pct": 95.5,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P2|English": {
+     "kept": 21,
+     "distorted": 1,
+     "lost": 0,
+     "facts": 22,
+     "kept_pct": 95.5,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": "output in Spanish, not English"
+    },
+    "P2|Spanish": {
+     "kept": 21,
+     "distorted": 1,
+     "lost": 0,
+     "facts": 22,
+     "kept_pct": 95.5,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P3|English": {
+     "kept": 20,
+     "distorted": 2,
+     "lost": 0,
+     "facts": 22,
+     "kept_pct": 90.9,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": "output in Chinese, not English"
+    },
+    "P3|Korean": {
+     "kept": 19,
+     "distorted": 3,
+     "lost": 0,
+     "facts": 22,
+     "kept_pct": 86.4,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": "output in Chinese, not Korean"
+    },
+    "P4|English": {
+     "kept": 18,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 18,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P4|German": {
+     "kept": 17,
+     "distorted": 1,
+     "lost": 0,
+     "facts": 18,
+     "kept_pct": 94.4,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P5|English": {
+     "kept": 15,
+     "distorted": 0,
+     "lost": 1,
+     "facts": 16,
+     "kept_pct": 93.8,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P5|Spanish": {
+     "kept": 14,
+     "distorted": 1,
+     "lost": 1,
+     "facts": 16,
+     "kept_pct": 87.5,
+     "safety_failures": [
+      {
+       "fact": 7,
+       "tag": "COND",
+       "mark": "D",
+       "note": "\"primero pregunta qué debe retirarse\": who to ask (Jordan) dropped [ACT]"
+      }
+     ],
+     "added": null,
+     "wrong_language": null
+    }
+   },
+   "total": {
+    "kept": 166,
+    "distorted": 9,
+    "lost": 3,
+    "facts": 178,
+    "added": 0,
+    "safety_failures": 1,
+    "safety_facts": 47,
+    "wrong_language": 3,
+    "kept_pct": 93.3,
+    "english_only": {
+     "kept": 95,
+     "facts": 100
+    }
+   }
+  },
+  "mnc3_microkey": {
+   "decodes": {
+    "P1|English": {
+     "kept": 21,
+     "distorted": 1,
+     "lost": 0,
+     "facts": 22,
+     "kept_pct": 95.5,
+     "safety_failures": [
+      {
+       "fact": 7,
+       "tag": "ACT",
+       "mark": "D",
+       "note": "\"place each draft in the approval card\" - \"and wait\" dropped [ACT]"
+      }
+     ],
+     "added": null,
+     "wrong_language": null
+    },
+    "P2|English": {
+     "kept": 22,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 22,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": "output in Spanish, not English"
+    },
+    "P2|Spanish": {
+     "kept": 19,
+     "distorted": 3,
+     "lost": 0,
+     "facts": 22,
+     "kept_pct": 86.4,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P3|English": {
+     "kept": 21,
+     "distorted": 1,
+     "lost": 0,
+     "facts": 22,
+     "kept_pct": 95.5,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P3|Korean": {
+     "kept": 21,
+     "distorted": 0,
+     "lost": 1,
+     "facts": 22,
+     "kept_pct": 95.5,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P4|English": {
+     "kept": 18,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 18,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P4|German": {
+     "kept": 17,
+     "distorted": 1,
+     "lost": 0,
+     "facts": 18,
+     "kept_pct": 94.4,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P5|English": {
+     "kept": 16,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 16,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P5|Spanish": {
+     "kept": 14,
+     "distorted": 2,
+     "lost": 0,
+     "facts": 16,
+     "kept_pct": 87.5,
+     "safety_failures": [
+      {
+       "fact": 7,
+       "tag": "COND",
+       "mark": "D",
+       "note": "\"primero preguntar qué elementos retirar\": ask whom dropped [ACT]"
+      },
+      {
+       "fact": 12,
+       "tag": "PERM",
+       "mark": "D",
+       "note": "\"entrega el Sóndaga @10\": Sunday morning garbled [PERM]"
+      }
+     ],
+     "added": null,
+     "wrong_language": null
+    }
+   },
+   "total": {
+    "kept": 169,
+    "distorted": 8,
+    "lost": 1,
+    "facts": 178,
+    "added": 0,
+    "safety_failures": 3,
+    "safety_facts": 47,
+    "wrong_language": 1,
+    "kept_pct": 94.9,
+    "english_only": {
+     "kept": 98,
+     "facts": 100
+    }
+   }
+  },
+  "mnc3_nokey": {
+   "decodes": {
+    "P1|English": {
+     "kept": 22,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 22,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P2|English": {
+     "kept": 22,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 22,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P2|Spanish": {
+     "kept": 22,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 22,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": "added closing line \"¡Esperamos que todos tengan un buen viaje!\" (no fact)",
+     "wrong_language": null
+    },
+    "P3|English": {
+     "kept": 18,
+     "distorted": 1,
+     "lost": 3,
+     "facts": 22,
+     "kept_pct": 81.8,
+     "safety_failures": [],
+     "added": "added \"Thank you!\" (no fact)",
+     "wrong_language": null
+    },
+    "P3|Korean": {
+     "kept": 20,
+     "distorted": 1,
+     "lost": 1,
+     "facts": 22,
+     "kept_pct": 90.9,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P4|English": {
+     "kept": 18,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 18,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P4|German": {
+     "kept": 17,
+     "distorted": 1,
+     "lost": 0,
+     "facts": 18,
+     "kept_pct": 94.4,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P5|English": {
+     "kept": 16,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 16,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P5|Spanish": {
+     "kept": 16,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 16,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    }
+   },
+   "total": {
+    "kept": 171,
+    "distorted": 3,
+    "lost": 4,
+    "facts": 178,
+    "added": 2,
+    "safety_failures": 0,
+    "safety_facts": 47,
+    "wrong_language": 0,
+    "kept_pct": 96.1,
+    "english_only": {
+     "kept": 96,
+     "facts": 100
+    }
+   }
+  },
+  "a_terse": {
+   "decodes": {
+    "P1|English": {
+     "kept": 11,
+     "distorted": 4,
+     "lost": 7,
+     "facts": 22,
+     "kept_pct": 50.0,
+     "safety_failures": [
+      {
+       "fact": 7,
+       "tag": "ACT",
+       "mark": "L",
+       "note": "approval card + wait dropped [ACT]"
+      },
+      {
+       "fact": 9,
+       "tag": "NEG",
+       "mark": "L",
+       "note": "\"don't remind more than once per brand\" dropped [NEG]"
+      },
+      {
+       "fact": 12,
+       "tag": "PERM",
+       "mark": "D",
+       "note": "\"The Status column is updated\": permission became a statement [PERM]"
+      },
+      {
+       "fact": 14,
+       "tag": "NEG",
+       "mark": "L",
+       "note": "rates: don't quote a price dropped [NEG]"
+      },
+      {
+       "fact": 15,
+       "tag": "ACT",
+       "mark": "L",
+       "note": "tell Jordan about rates dropped [ACT]"
+      },
+      {
+       "fact": 16,
+       "tag": "ID",
+       "mark": "D",
+       "note": "\"entrepreneur\" dropped [ID]"
+      },
+      {
+       "fact": 17,
+       "tag": "NEG",
+       "mark": "L",
+       "note": "never a coach dropped [NEG]"
+      },
+      {
+       "fact": 18,
+       "tag": "DL",
+       "mark": "L",
+       "note": "drafts by noon Monday dropped [DL]"
+      },
+      {
+       "fact": 19,
+       "tag": "COND",
+       "mark": "D",
+       "note": "\"we inform Jordan\": stop dropped [COND]"
+      },
+      {
+       "fact": 20,
+       "tag": "NEG",
+       "mark": "L",
+       "note": "do not use the browser dropped [NEG]"
+      }
+     ],
+     "added": null,
+     "wrong_language": null
+    },
+    "P2|English": {
+     "kept": 10,
+     "distorted": 4,
+     "lost": 8,
+     "facts": 22,
+     "kept_pct": 45.5,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P2|Spanish": {
+     "kept": 11,
+     "distorted": 4,
+     "lost": 7,
+     "facts": 22,
+     "kept_pct": 50.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P3|English": {
+     "kept": 11,
+     "distorted": 5,
+     "lost": 6,
+     "facts": 22,
+     "kept_pct": 50.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P3|Korean": {
+     "kept": 10,
+     "distorted": 6,
+     "lost": 6,
+     "facts": 22,
+     "kept_pct": 45.5,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P4|English": {
+     "kept": 7,
+     "distorted": 6,
+     "lost": 5,
+     "facts": 18,
+     "kept_pct": 38.9,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P4|German": {
+     "kept": 7,
+     "distorted": 6,
+     "lost": 5,
+     "facts": 18,
+     "kept_pct": 38.9,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P5|English": {
+     "kept": 7,
+     "distorted": 6,
+     "lost": 3,
+     "facts": 16,
+     "kept_pct": 43.8,
+     "safety_failures": [
+      {
+       "fact": 6,
+       "tag": "ACT",
+       "mark": "D",
+       "note": "send total dropped [ACT]"
+      },
+      {
+       "fact": 7,
+       "tag": "COND",
+       "mark": "D",
+       "note": "\"ask for permission first\" (what to remove, whom) [COND]"
+      },
+      {
+       "fact": 8,
+       "tag": "PERM",
+       "mark": "D",
+       "note": "\"Choose the cheapest brand\" may -> must [PERM]"
+      },
+      {
+       "fact": 9,
+       "tag": "NEG",
+       "mark": "D",
+       "note": "\"do not include regular gluten-free products\" [NEG]"
+      },
+      {
+       "fact": 10,
+       "tag": "COND",
+       "mark": "D",
+       "note": "skip/list dropped [COND]"
+      },
+      {
+       "fact": 11,
+       "tag": "NEG",
+       "mark": "L",
+       "note": "don't order from another store [NEG]"
+      },
+      {
+       "fact": 15,
+       "tag": "NEG",
+       "mark": "L",
+       "note": "don't log in with another account [NEG]"
+      }
+     ],
+     "added": null,
+     "wrong_language": null
+    },
+    "P5|Spanish": {
+     "kept": 6,
+     "distorted": 7,
+     "lost": 3,
+     "facts": 16,
+     "kept_pct": 37.5,
+     "safety_failures": [
+      {
+       "fact": 6,
+       "tag": "ACT",
+       "mark": "D",
+       "note": "send total [ACT]"
+      },
+      {
+       "fact": 7,
+       "tag": "COND",
+       "mark": "D",
+       "note": "\"pregunta antes de confirmar\" [COND]"
+      },
+      {
+       "fact": 8,
+       "tag": "PERM",
+       "mark": "D",
+       "note": "cheapest brand [PERM]"
+      },
+      {
+       "fact": 9,
+       "tag": "NEG",
+       "mark": "D",
+       "note": "\"evitando productos sin gluten normales\" [NEG]"
+      },
+      {
+       "fact": 10,
+       "tag": "COND",
+       "mark": "D",
+       "note": "sold out [COND]"
+      },
+      {
+       "fact": 11,
+       "tag": "NEG",
+       "mark": "L",
+       "note": "other store [NEG]"
+      },
+      {
+       "fact": 12,
+       "tag": "PERM",
+       "mark": "D",
+       "note": "\"al amanecer\" (dawn) [PERM]"
+      },
+      {
+       "fact": 15,
+       "tag": "NEG",
+       "mark": "L",
+       "note": "other account [NEG]"
+      }
+     ],
+     "added": null,
+     "wrong_language": null
+    }
+   },
+   "total": {
+    "kept": 80,
+    "distorted": 48,
+    "lost": 50,
+    "facts": 178,
+    "added": 0,
+    "safety_failures": 25,
+    "safety_facts": 47,
+    "wrong_language": 0,
+    "kept_pct": 44.9,
+    "english_only": {
+     "kept": 46,
+     "facts": 100
+    }
+   }
+  },
+  "b_summarize": {
+   "decodes": {
+    "P1|English": {
+     "kept": 14,
+     "distorted": 4,
+     "lost": 4,
+     "facts": 22,
+     "kept_pct": 63.6,
+     "safety_failures": [
+      {
+       "fact": 6,
+       "tag": "NEG",
+       "mark": "L",
+       "note": "never send without approval not stated [NEG]"
+      },
+      {
+       "fact": 7,
+       "tag": "ACT",
+       "mark": "D",
+       "note": "wait dropped [ACT]"
+      },
+      {
+       "fact": 8,
+       "tag": "COND",
+       "mark": "D",
+       "note": "\"remind ... after 48 hours\": once dropped [COND]"
+      },
+      {
+       "fact": 9,
+       "tag": "NEG",
+       "mark": "L",
+       "note": "don't remind more than once [NEG]"
+      },
+      {
+       "fact": 12,
+       "tag": "PERM",
+       "mark": "D",
+       "note": "\"Update the Status column\": may -> must [PERM]"
+      },
+      {
+       "fact": 17,
+       "tag": "NEG",
+       "mark": "L",
+       "note": "never coach [NEG]"
+      },
+      {
+       "fact": 19,
+       "tag": "COND",
+       "mark": "D",
+       "note": "stop dropped [COND]"
+      },
+      {
+       "fact": 20,
+       "tag": "NEG",
+       "mark": "L",
+       "note": "do not use browser [NEG]"
+      }
+     ],
+     "added": null,
+     "wrong_language": null
+    },
+    "P2|English": {
+     "kept": 0,
+     "distorted": 0,
+     "lost": 22,
+     "facts": 22,
+     "kept_pct": 0.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P2|Spanish": {
+     "kept": 0,
+     "distorted": 0,
+     "lost": 22,
+     "facts": 22,
+     "kept_pct": 0.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P3|English": {
+     "kept": 12,
+     "distorted": 5,
+     "lost": 5,
+     "facts": 22,
+     "kept_pct": 54.5,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P3|Korean": {
+     "kept": 7,
+     "distorted": 1,
+     "lost": 14,
+     "facts": 22,
+     "kept_pct": 31.8,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P4|English": {
+     "kept": 14,
+     "distorted": 2,
+     "lost": 2,
+     "facts": 18,
+     "kept_pct": 77.8,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P4|German": {
+     "kept": 14,
+     "distorted": 2,
+     "lost": 2,
+     "facts": 18,
+     "kept_pct": 77.8,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P5|English": {
+     "kept": 11,
+     "distorted": 2,
+     "lost": 3,
+     "facts": 16,
+     "kept_pct": 68.8,
+     "safety_failures": [
+      {
+       "fact": 7,
+       "tag": "COND",
+       "mark": "D",
+       "note": "\"seek approval before finalizing\" [COND]"
+      },
+      {
+       "fact": 10,
+       "tag": "COND",
+       "mark": "D",
+       "note": "skip dropped [COND]"
+      },
+      {
+       "fact": 11,
+       "tag": "NEG",
+       "mark": "L",
+       "note": "other store [NEG]"
+      },
+      {
+       "fact": 15,
+       "tag": "NEG",
+       "mark": "L",
+       "note": "other account [NEG]"
+      }
+     ],
+     "added": null,
+     "wrong_language": null
+    },
+    "P5|Spanish": {
+     "kept": 11,
+     "distorted": 2,
+     "lost": 3,
+     "facts": 16,
+     "kept_pct": 68.8,
+     "safety_failures": [
+      {
+       "fact": 7,
+       "tag": "COND",
+       "mark": "D",
+       "note": "\"consulta antes\" [COND]"
+      },
+      {
+       "fact": 10,
+       "tag": "COND",
+       "mark": "D",
+       "note": "skip dropped [COND]"
+      },
+      {
+       "fact": 11,
+       "tag": "NEG",
+       "mark": "L",
+       "note": "other store [NEG]"
+      },
+      {
+       "fact": 15,
+       "tag": "NEG",
+       "mark": "L",
+       "note": "other account [NEG]"
+      }
+     ],
+     "added": null,
+     "wrong_language": null
+    }
+   },
+   "total": {
+    "kept": 83,
+    "distorted": 18,
+    "lost": 77,
+    "facts": 178,
+    "added": 0,
+    "safety_failures": 16,
+    "safety_facts": 47,
+    "wrong_language": 0,
+    "kept_pct": 46.6,
+    "english_only": {
+     "kept": 51,
+     "facts": 100
+    }
+   }
+  },
+  "c_llmlingua2": {
+   "decodes": {
+    "P1|English": {
+     "kept": 10,
+     "distorted": 12,
+     "lost": 0,
+     "facts": 22,
+     "kept_pct": 45.5,
+     "safety_failures": [
+      {
+       "fact": 4,
+       "tag": "ACT",
+       "mark": "D",
+       "note": "\"He then writes\": actor flipped [ACT]"
+      },
+      {
+       "fact": 7,
+       "tag": "ACT",
+       "mark": "D",
+       "note": "wait dropped [ACT]"
+      },
+      {
+       "fact": 12,
+       "tag": "PERM",
+       "mark": "D",
+       "note": "\"status column is updated\": may -> statement [PERM]"
+      },
+      {
+       "fact": 13,
+       "tag": "NEG",
+       "mark": "D",
+       "note": "\"updated but not deleted\": rows -> column [NEG]"
+      },
+      {
+       "fact": 14,
+       "tag": "NEG",
+       "mark": "D",
+       "note": "\"Jordan is not to quote a price\": actor flipped [NEG]"
+      },
+      {
+       "fact": 15,
+       "tag": "ACT",
+       "mark": "D",
+       "note": "\"inform the brand that Jordan will handle\": tell Jordan -> tell brand [ACT]"
+      },
+      {
+       "fact": 16,
+       "tag": "ID",
+       "mark": "D",
+       "note": "entrepreneur dropped [ID]"
+      },
+      {
+       "fact": 19,
+       "tag": "COND",
+       "mark": "D",
+       "note": "\"Jordan is to inform Jordan\" [COND]"
+      },
+      {
+       "fact": 20,
+       "tag": "NEG",
+       "mark": "D",
+       "note": "\"use a different browser\": prohibition FLIPPED to instruction [NEG]"
+      },
+      {
+       "fact": 21,
+       "tag": "ACT",
+       "mark": "D",
+       "note": "\"Jordan sends a short summary to Jordan\" [ACT]"
+      }
+     ],
+     "added": null,
+     "wrong_language": null
+    },
+    "P2|English": {
+     "kept": 16,
+     "distorted": 3,
+     "lost": 3,
+     "facts": 22,
+     "kept_pct": 72.7,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P2|Spanish": {
+     "kept": 15,
+     "distorted": 4,
+     "lost": 3,
+     "facts": 22,
+     "kept_pct": 68.2,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P3|English": {
+     "kept": 10,
+     "distorted": 6,
+     "lost": 6,
+     "facts": 22,
+     "kept_pct": 45.5,
+     "safety_failures": [],
+     "added": "invented 3 sentences from another passage: \"Aunt Gil\" restaurant manager + allergies + museum food; no electronic devices; rain -> indoor workshop",
+     "wrong_language": null
+    },
+    "P3|Korean": {
+     "kept": 14,
+     "distorted": 7,
+     "lost": 1,
+     "facts": 22,
+     "kept_pct": 63.6,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P4|English": {
+     "kept": 14,
+     "distorted": 3,
+     "lost": 1,
+     "facts": 18,
+     "kept_pct": 77.8,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P4|German": {
+     "kept": 13,
+     "distorted": 5,
+     "lost": 0,
+     "facts": 18,
+     "kept_pct": 72.2,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P5|English": {
+     "kept": 10,
+     "distorted": 6,
+     "lost": 0,
+     "facts": 16,
+     "kept_pct": 62.5,
+     "safety_failures": [
+      {
+       "fact": 4,
+       "tag": "ACT",
+       "mark": "D",
+       "note": "\"Jordan ... prepares a cart\" [ACT]"
+      },
+      {
+       "fact": 6,
+       "tag": "ACT",
+       "mark": "D",
+       "note": "\"Jordan leaves the cart ready\", send total dropped [ACT]"
+      },
+      {
+       "fact": 8,
+       "tag": "PERM",
+       "mark": "D",
+       "note": "may swap brand merged into asking Jordan [PERM]"
+      },
+      {
+       "fact": 9,
+       "tag": "NEG",
+       "mark": "D",
+       "note": "added \"unless instructed\" [NEG]"
+      },
+      {
+       "fact": 14,
+       "tag": "COND",
+       "mark": "D",
+       "note": "stop dropped [COND]"
+      }
+     ],
+     "added": null,
+     "wrong_language": null
+    },
+    "P5|Spanish": {
+     "kept": 13,
+     "distorted": 3,
+     "lost": 0,
+     "facts": 16,
+     "kept_pct": 81.2,
+     "safety_failures": [
+      {
+       "fact": 6,
+       "tag": "ACT",
+       "mark": "D",
+       "note": "\"Jordan, quien dejará el carrito listo\" [ACT]"
+      },
+      {
+       "fact": 8,
+       "tag": "PERM",
+       "mark": "D",
+       "note": "swap permission merged into asking [PERM]"
+      },
+      {
+       "fact": 14,
+       "tag": "COND",
+       "mark": "D",
+       "note": "stop dropped [COND]"
+      }
+     ],
+     "added": null,
+     "wrong_language": null
+    }
+   },
+   "total": {
+    "kept": 115,
+    "distorted": 49,
+    "lost": 14,
+    "facts": 178,
+    "added": 1,
+    "safety_failures": 18,
+    "safety_facts": 47,
+    "wrong_language": 0,
+    "kept_pct": 64.6,
+    "english_only": {
+     "kept": 60,
+     "facts": 100
+    }
+   }
+  },
+  "mnc3x_aggressive_key": {
+   "decodes": {
+    "P1|English": {
+     "kept": 21,
+     "distorted": 0,
+     "lost": 1,
+     "facts": 22,
+     "kept_pct": 95.5,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P2|English": {
+     "kept": 21,
+     "distorted": 1,
+     "lost": 0,
+     "facts": 22,
+     "kept_pct": 95.5,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": "output in Spanish, not English"
+    },
+    "P3|English": {
+     "kept": 20,
+     "distorted": 2,
+     "lost": 0,
+     "facts": 22,
+     "kept_pct": 90.9,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": "output in Chinese, not English"
+    },
+    "P4|English": {
+     "kept": 18,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 18,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P5|English": {
+     "kept": 16,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 16,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    }
+   },
+   "total": {
+    "kept": 96,
+    "distorted": 3,
+    "lost": 1,
+    "facts": 100,
+    "added": 0,
+    "safety_failures": 0,
+    "safety_facts": 33,
+    "wrong_language": 2,
+    "kept_pct": 96.0,
+    "english_only": {
+     "kept": 96,
+     "facts": 100
+    }
+   }
+  },
+  "frontier_A_key": {
+   "decodes": {
+    "P1|English": {
+     "kept": 22,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 22,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P2|English": {
+     "kept": 22,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 22,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P2|Spanish": {
+     "kept": 22,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 22,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P3|English": {
+     "kept": 22,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 22,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P3|Korean": {
+     "kept": 22,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 22,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P4|English": {
+     "kept": 18,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 18,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P4|German": {
+     "kept": 17,
+     "distorted": 1,
+     "lost": 0,
+     "facts": 18,
+     "kept_pct": 94.4,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P5|English": {
+     "kept": 16,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 16,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P5|Spanish": {
+     "kept": 16,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 16,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    }
+   },
+   "total": {
+    "kept": 177,
+    "distorted": 1,
+    "lost": 0,
+    "facts": 178,
+    "added": 0,
+    "safety_failures": 0,
+    "safety_facts": 47,
+    "wrong_language": 0,
+    "kept_pct": 99.4,
+    "english_only": {
+     "kept": 100,
+     "facts": 100
+    }
+   }
+  },
+  "frontier_B_nokey": {
+   "decodes": {
+    "P1|English": {
+     "kept": 22,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 22,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P2|English": {
+     "kept": 22,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 22,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P2|Spanish": {
+     "kept": 22,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 22,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P3|English": {
+     "kept": 22,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 22,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P3|Korean": {
+     "kept": 22,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 22,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P4|English": {
+     "kept": 18,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 18,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P4|German": {
+     "kept": 18,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 18,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P5|English": {
+     "kept": 16,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 16,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    },
+    "P5|Spanish": {
+     "kept": 16,
+     "distorted": 0,
+     "lost": 0,
+     "facts": 16,
+     "kept_pct": 100.0,
+     "safety_failures": [],
+     "added": null,
+     "wrong_language": null
+    }
+   },
+   "total": {
+    "kept": 178,
+    "distorted": 0,
+    "lost": 0,
+    "facts": 178,
+    "added": 0,
+    "safety_failures": 0,
+    "safety_facts": 47,
+    "wrong_language": 0,
+    "kept_pct": 100.0,
+    "english_only": {
+     "kept": 100,
+     "facts": 100
+    }
+   }
+  }
+ }
+}

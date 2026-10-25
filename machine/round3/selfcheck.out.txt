@@ -1,0 +1,6 @@
+P1[en] numbers_missing=[] negations src=6 payload=7 hedges src=1 payload=0 bang_ops=[] bare_count_digits=[] -> OK
+P2[es] numbers_missing=[] negations src=5 payload=5 hedges src=1 payload=1 bang_ops=[] bare_count_digits=[] -> OK
+P3[ko] numbers_missing=[] negations src=4 payload=4 hedges src=2 payload=0 bang_ops=[] bare_count_digits=[] -> OK
+P4[de] numbers_missing=[] negations src=3 payload=4 hedges src=3 payload=3 bang_ops=[] bare_count_digits=[] -> OK
+P5[es] numbers_missing=[] negations src=7 payload=6 hedges src=0 payload=0 bang_ops=[] bare_count_digits=[] -> OK
+SELF-CHECK PASS
