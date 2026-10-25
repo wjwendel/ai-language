@@ -1,0 +1,578 @@
+{
+ "schema": "language-neutral fact list: [subject, relation, object, optional qualifiers]; labels are concept identifiers, not text to match literally; score a decode by whether each fact is stated correctly in any output language; qualifiers mark hedge/modal/tense/gender/deadline that must survive",
+ "source_languages": {
+  "P1": "en",
+  "P2": "es",
+  "P3": "ja",
+  "P4": "fr"
+ },
+ "counts": {
+  "P1": 27,
+  "P2": 26,
+  "P3": 23,
+  "P4": 26
+ },
+ "facts": {
+  "P1": [
+   [
+    "writer",
+    "thanks",
+    "Sam",
+    "for watching Luna"
+   ],
+   [
+    "Sam",
+    "watch/care for",
+    "Luna",
+    "while writer's family is in Denver"
+   ],
+   [
+    "writer's family",
+    "leave",
+    "home",
+    "time=Thu 06:15"
+   ],
+   [
+    "writer's family",
+    "expected (should) be back",
+    "home",
+    "time=Sun, by about 20:00"
+   ],
+   [
+    "flight",
+    "might be",
+    "late",
+    "hedge=might"
+   ],
+   [
+    "Luna",
+    "eats",
+    "twice a day",
+    "times=07:00 and about 17:00"
+   ],
+   [
+    "Luna meal",
+    "consists of",
+    "1 cup dry food mixed with half a can of wet food"
+   ],
+   [
+    "dry food",
+    "location",
+    "pantry, bottom shelf"
+   ],
+   [
+    "wet food cans",
+    "location",
+    "garage fridge"
+   ],
+   [
+    "Luna",
+    "must take",
+    "allergy pill",
+    "with breakfast"
+   ],
+   [
+    "allergy pill",
+    "hidden in",
+    "small piece of cheese",
+    "mode=request to Sam"
+   ],
+   [
+    "Sam",
+    "walk",
+    "Luna",
+    "at least 3 times a day; about 20 min each; mode=request"
+   ],
+   [
+    "Luna",
+    "pulls hard",
+    "on leash",
+    "when she sees cats"
+   ],
+   [
+    "Sam",
+    "keep",
+    "leash short",
+    "reason=pulls at cats; mode=request"
+   ],
+   [
+    "Luna",
+    "cannot go",
+    "dog park",
+    "time=this week"
+   ],
+   [
+    "dog park ban",
+    "reason",
+    "vaccine booster not until next Tue"
+   ],
+   [
+    "spare key",
+    "location",
+    "under blue flowerpot next to back door"
+   ],
+   [
+    "Wi-Fi password",
+    "location",
+    "on card on writer's desk"
+   ],
+   [
+    "condition",
+    "if Luna stops eating or seems sick",
+    "call Dr. Patel's clinic"
+   ],
+   [
+    "Dr. Patel's clinic",
+    "phone",
+    "555-0142"
+   ],
+   [
+    "clinic",
+    "hours",
+    "opens 08:00, closes 18:00"
+   ],
+   [
+    "neighbor Ruth",
+    "also has",
+    "key"
+   ],
+   [
+    "Ruth",
+    "can help",
+    "Sam",
+    "condition=if Sam gets stuck"
+   ],
+   [
+    "trash",
+    "must go out",
+    "by 07:00 Fri",
+    "deadline=by"
+   ],
+   [
+    "writer's family",
+    "left",
+    "$40",
+    "location=kitchen counter"
+   ],
+   [
+    "$40",
+    "purpose",
+    "pizza"
+   ],
+   [
+    "writer",
+    "hopes",
+    "Luna behaves"
+   ]
+  ],
+  "P2": [
+   [
+    "Rioseco city hall",
+    "presented",
+    "new shared-bike service",
+    "time=Tue; tense=past"
+   ],
+   [
+    "bike service",
+    "will start operating",
+    "June 3",
+    "tense=future"
+   ],
+   [
+    "Lucía Ferrer",
+    "role",
+    "councillor for mobility",
+    "gender=female (concejala)"
+   ],
+   [
+    "Lucía Ferrer",
+    "said",
+    "service details",
+    "tense=past"
+   ],
+   [
+    "service",
+    "will have",
+    "about 250 bikes",
+    "hedge=about"
+   ],
+   [
+    "80 of the bikes",
+    "are",
+    "electric"
+   ],
+   [
+    "bikes",
+    "spread across",
+    "25 stations"
+   ],
+   [
+    "most stations",
+    "will be located",
+    "city center and near train station"
+   ],
+   [
+    "4 stations",
+    "will be installed",
+    "university campus"
+   ],
+   [
+    "annual pass",
+    "will cost",
+    "30 euros"
+   ],
+   [
+    "each trip",
+    "free",
+    "first 30 minutes"
+   ],
+   [
+    "after first 30 min",
+    "charge",
+    "0.50 euros per half hour"
+   ],
+   [
+    "users",
+    "must (will have to)",
+    "register via mobile app"
+   ],
+   [
+    "users",
+    "must be",
+    "at least 16 years old"
+   ],
+   [
+    "bikes",
+    "usable",
+    "06:00-24:00"
+   ],
+   [
+    "bikes",
+    "cannot be left",
+    "outside stations"
+   ],
+   [
+    "Ferrer",
+    "explained",
+    "project cost about 1.2 million euros",
+    "hedge=about; tense=past"
+   ],
+   [
+    "project",
+    "partly funded by",
+    "European (EU) funds"
+   ],
+   [
+    "San Blas neighborhood residents association",
+    "asked for",
+    "more stations in their area",
+    "tense=past"
+   ],
+   [
+    "association request",
+    "reason",
+    "nearest station almost 1 km away",
+    "hedge=almost"
+   ],
+   [
+    "city hall",
+    "replied",
+    "will study expanding network next year",
+    "tense=future"
+   ],
+   [
+    "network expansion study",
+    "condition",
+    "if use exceeds 2,000 trips per day"
+   ],
+   [
+    "regular cyclist",
+    "gender",
+    "female (una ciclista)"
+   ],
+   [
+    "regular cyclist",
+    "consulted by",
+    "this newspaper"
+   ],
+   [
+    "cyclist",
+    "hopes",
+    "Calle Ancha bike lane finished soon"
+   ],
+   [
+    "Calle Ancha bike lane",
+    "is now",
+    "dangerous",
+    "reason for hope; tense=present"
+   ]
+  ],
+  "P3": [
+   [
+    "notice",
+    "addressed to",
+    "residents of Sun Heights Sakuramachi (サンハイツ桜町)"
+   ],
+   [
+    "water supply",
+    "cut off",
+    "all units"
+   ],
+   [
+    "water cutoff",
+    "reason",
+    "water supply pipe inspection work"
+   ],
+   [
+    "water cutoff",
+    "time",
+    "Nov 14 (Sat), 09:00 to about 15:00",
+    "hedge=about (end time)"
+   ],
+   [
+    "condition",
+    "if work ends early",
+    "water returns at that point"
+   ],
+   [
+    "toilets",
+    "cannot flush",
+    "during outage"
+   ],
+   [
+    "residents",
+    "should store water",
+    "in bathtub or buckets",
+    "deadline=by previous night; mode=request"
+   ],
+   [
+    "drinking water",
+    "provided as",
+    "PET bottles, 2 per person"
+   ],
+   [
+    "drinking water",
+    "location",
+    "1st-floor entrance"
+   ],
+   [
+    "bottled water",
+    "quantity",
+    "limited"
+   ],
+   [
+    "water",
+    "may be",
+    "cloudy",
+    "right after water returns; hedge=may"
+   ],
+   [
+    "residents",
+    "run water",
+    "about 2-3 minutes before using",
+    "hedge=about; mode=request"
+   ],
+   [
+    "residents",
+    "must not set",
+    "timers on washing machines or dishwashers",
+    "mode=request (don't)"
+   ],
+   [
+    "timer use",
+    "may cause",
+    "breakdown",
+    "hedge=may"
+   ],
+   [
+    "workers",
+    "check",
+    "pipes on balcony side of each unit"
+   ],
+   [
+    "workers",
+    "may enter",
+    "units",
+    "time=10:00-12:00; hedge=may"
+   ],
+   [
+    "absent residents",
+    "contact",
+    "manager's office",
+    "deadline=by Nov 10"
+   ],
+   [
+    "work",
+    "proceeds as scheduled",
+    "even if it rains"
+   ],
+   [
+    "management",
+    "apologizes for",
+    "inconvenience"
+   ],
+   [
+    "management",
+    "thanks/asks for",
+    "cooperation"
+   ],
+   [
+    "management company",
+    "name",
+    "Green Jutaku Service (グリーン住宅サービス)"
+   ],
+   [
+    "person in charge",
+    "name",
+    "Yamamoto (山本)"
+   ],
+   [
+    "contact phone",
+    "number",
+    "03-5550-2871"
+   ]
+  ],
+  "P4": [
+   [
+    "Inès",
+    "writes to",
+    "Théo",
+    "topic=move-out update"
+   ],
+   [
+    "move-out inspection",
+    "scheduled",
+    "Fri 28th at 10:00"
+   ],
+   [
+    "move-out inspection",
+    "with",
+    "landlord Mme Lefèvre",
+    "gender=female (la propriétaire)"
+   ],
+   [
+    "everything",
+    "must be clean",
+    "before inspection"
+   ],
+   [
+    "Inès+Théo",
+    "must finish cleaning",
+    "by Thu evening at the latest",
+    "deadline=by"
+   ],
+   [
+    "truck",
+    "reserved at",
+    "Locabox"
+   ],
+   [
+    "truck reservation",
+    "time",
+    "Sat 08:00-13:00"
+   ],
+   [
+    "truck",
+    "costs",
+    "89 euros"
+   ],
+   [
+    "fuel",
+    "extra cost",
+    "about 30 euros",
+    "hedge=about"
+   ],
+   [
+    "Inès's brother",
+    "comes to help",
+    "with his car"
+   ],
+   [
+    "Inès's brother",
+    "cannot arrive",
+    "before 09:00"
+   ],
+   [
+    "remaining task",
+    "fill holes",
+    "living room wall"
+   ],
+   [
+    "remaining task",
+    "clean",
+    "oven"
+   ],
+   [
+    "Inès",
+    "will do",
+    "oven"
+   ],
+   [
+    "Inès",
+    "asks Théo",
+    "to do the holes",
+    "mode=question"
+   ],
+   [
+    "filler (mastic)",
+    "location",
+    "in blue box under sink"
+   ],
+   [
+    "deposit",
+    "paid",
+    "1,700 euros",
+    "tense=past (pluperfect)"
+   ],
+   [
+    "landlord",
+    "should return",
+    "deposit within 2 months",
+    "hedge=should (expected)"
+   ],
+   [
+    "deposit return",
+    "exception",
+    "unless there is damage"
+   ],
+   [
+    "Théo",
+    "must cancel",
+    "his internet subscription",
+    "deadline=before the 30th; mode=reminder"
+   ],
+   [
+    "condition",
+    "if not cancelled before the 30th",
+    "Théo will pay one more month",
+    "tense=future"
+   ],
+   [
+    "Inès+Théo",
+    "have",
+    "4 keys"
+   ],
+   [
+    "all keys",
+    "must be returned",
+    "including mailbox key"
+   ],
+   [
+    "Inès",
+    "hopes",
+    "they finish about 15:00",
+    "hedge=about"
+   ],
+   [
+    "finish",
+    "purpose",
+    "celebrate at café across the street"
+   ],
+   [
+    "Inès",
+    "signs off",
+    "with hugs (bises)"
+   ]
+  ]
+ }
+}

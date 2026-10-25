@@ -1,0 +1,1288 @@
+{
+ "method": "strict manual scoring against facts.json (written before the blind decode); one judgment per fact per decode; P1 scored once (English); P2/P3/P4 scored twice (English decode and source-language decode). Kept = fact stated correctly with qualifiers (hedge/modal/tense/gender/deadline); distorted = present but changed; lost = absent.",
+ "scorer_note": "Scoring is manual by the same assistant that built the round; the decode itself is blind (fresh helper, only key.md + payload.txt).",
+ "decodes": {
+  "P1_en": {
+   "kept": 27,
+   "distorted": 0,
+   "lost": 0,
+   "total": 27,
+   "kept_pct": 100.0,
+   "facts": [
+    {
+     "fact": 1,
+     "text": "writer | thanks | Sam | for watching Luna",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 2,
+     "text": "Sam | watch/care for | Luna | while writer's family is in Denver",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 3,
+     "text": "writer's family | leave | home | time=Thu 06:15",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 4,
+     "text": "writer's family | expected (should) be back | home | time=Sun, by about 20:00",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 5,
+     "text": "flight | might be | late | hedge=might",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 6,
+     "text": "Luna | eats | twice a day | times=07:00 and about 17:00",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 7,
+     "text": "Luna meal | consists of | 1 cup dry food mixed with half a can of wet food",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 8,
+     "text": "dry food | location | pantry, bottom shelf",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 9,
+     "text": "wet food cans | location | garage fridge",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 10,
+     "text": "Luna | must take | allergy pill | with breakfast",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 11,
+     "text": "allergy pill | hidden in | small piece of cheese | mode=request to Sam",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 12,
+     "text": "Sam | walk | Luna | at least 3 times a day; about 20 min each; mode=request",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 13,
+     "text": "Luna | pulls hard | on leash | when she sees cats",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 14,
+     "text": "Sam | keep | leash short | reason=pulls at cats; mode=request",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 15,
+     "text": "Luna | cannot go | dog park | time=this week",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 16,
+     "text": "dog park ban | reason | vaccine booster not until next Tue",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 17,
+     "text": "spare key | location | under blue flowerpot next to back door",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 18,
+     "text": "Wi-Fi password | location | on card on writer's desk",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 19,
+     "text": "condition | if Luna stops eating or seems sick | call Dr. Patel's clinic",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 20,
+     "text": "Dr. Patel's clinic | phone | 555-0142",
+     "mark": "kept",
+     "cause": null,
+     "note": "digits exact (5550142); hyphenation 555-0142 not restored (surface)"
+    },
+    {
+     "fact": 21,
+     "text": "clinic | hours | opens 08:00, closes 18:00",
+     "mark": "kept",
+     "cause": null,
+     "note": "08:00-18:00 matches facts.json; \"close at 6\"=18:00 was an encoder inference"
+    },
+    {
+     "fact": 22,
+     "text": "neighbor Ruth | also has | key",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 23,
+     "text": "Ruth | can help | Sam | condition=if Sam gets stuck",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 24,
+     "text": "trash | must go out | by 07:00 Fri | deadline=by",
+     "mark": "kept",
+     "cause": null,
+     "note": "by7 read as 07:00 under 24h rule, correct for this source (7 a.m.)"
+    },
+    {
+     "fact": 25,
+     "text": "writer's family | left | $40 | location=kitchen counter",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 26,
+     "text": "$40 | purpose | pizza",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 27,
+     "text": "writer | hopes | Luna behaves",
+     "mark": "kept",
+     "cause": null
+    }
+   ]
+  },
+  "P2_en": {
+   "kept": 24,
+   "distorted": 2,
+   "lost": 0,
+   "total": 26,
+   "kept_pct": 92.3,
+   "facts": [
+    {
+     "fact": 1,
+     "text": "Rioseco city hall | presented | new shared-bike service | time=Tue; tense=past",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 2,
+     "text": "bike service | will start operating | June 3 | tense=future",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 3,
+     "text": "Lucía Ferrer | role | councillor for mobility | gender=female (concejala)",
+     "mark": "kept",
+     "cause": null,
+     "note": "English: gender carried by the name Lucía (no gendered noun in English); Spanish: \"La concejala\" correct"
+    },
+    {
+     "fact": 4,
+     "text": "Lucía Ferrer | said | service details | tense=past",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 5,
+     "text": "service | will have | about 250 bikes | hedge=about",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 6,
+     "text": "80 of the bikes | are | electric",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 7,
+     "text": "bikes | spread across | 25 stations",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 8,
+     "text": "most stations | will be located | city center and near train station",
+     "mark": "kept",
+     "cause": null,
+     "note": "BORDERLINE kept: \"Most will be...\" / \"La mayoría estarán...\" has no noun, same elision as the source sentence; nearest antecedent is \"25 stations\". Strict alternative (mark distorted, same cause as fact 9) gives 169/177 = 95.5%"
+    },
+    {
+     "fact": 9,
+     "text": "4 stations | will be installed | university campus",
+     "mark": "distorted",
+     "cause": "encoder (primary) + key gap: number-noun binding"
+    },
+    {
+     "fact": 10,
+     "text": "annual pass | will cost | 30 euros",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 11,
+     "text": "each trip | free | first 30 minutes",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 12,
+     "text": "after first 30 min | charge | 0.50 euros per half hour",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 13,
+     "text": "users | must (will have to) | register via mobile app",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 14,
+     "text": "users | must be | at least 16 years old",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 15,
+     "text": "bikes | usable | 06:00-24:00",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 16,
+     "text": "bikes | cannot be left | outside stations",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 17,
+     "text": "Ferrer | explained | project cost about 1.2 million euros | hedge=about; tense=past",
+     "mark": "distorted",
+     "cause": "decoder (primary) + key gap: speaker-line tense/scope"
+    },
+    {
+     "fact": 18,
+     "text": "project | partly funded by | European (EU) funds",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 19,
+     "text": "San Blas neighborhood residents association | asked for | more stations in their area | tense=past",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 20,
+     "text": "association request | reason | nearest station almost 1 km away | hedge=almost",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 21,
+     "text": "city hall | replied | will study expanding network next year | tense=future",
+     "mark": "kept",
+     "cause": null,
+     "note": "\"replied/respondió\" rendered \"said/afirmó\" (encoder used \"city hall:\"); response link implicit from order"
+    },
+    {
+     "fact": 22,
+     "text": "network expansion study | condition | if use exceeds 2,000 trips per day",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 23,
+     "text": "regular cyclist | gender | female (una ciclista)",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 24,
+     "text": "regular cyclist | consulted by | this newspaper",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 25,
+     "text": "cyclist | hopes | Calle Ancha bike lane finished soon",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 26,
+     "text": "Calle Ancha bike lane | is now | dangerous | reason for hope; tense=present",
+     "mark": "kept",
+     "cause": null
+    }
+   ]
+  },
+  "P2_es": {
+   "kept": 24,
+   "distorted": 2,
+   "lost": 0,
+   "total": 26,
+   "kept_pct": 92.3,
+   "facts": [
+    {
+     "fact": 1,
+     "text": "Rioseco city hall | presented | new shared-bike service | time=Tue; tense=past",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 2,
+     "text": "bike service | will start operating | June 3 | tense=future",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 3,
+     "text": "Lucía Ferrer | role | councillor for mobility | gender=female (concejala)",
+     "mark": "kept",
+     "cause": null,
+     "note": "English: gender carried by the name Lucía (no gendered noun in English); Spanish: \"La concejala\" correct"
+    },
+    {
+     "fact": 4,
+     "text": "Lucía Ferrer | said | service details | tense=past",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 5,
+     "text": "service | will have | about 250 bikes | hedge=about",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 6,
+     "text": "80 of the bikes | are | electric",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 7,
+     "text": "bikes | spread across | 25 stations",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 8,
+     "text": "most stations | will be located | city center and near train station",
+     "mark": "kept",
+     "cause": null,
+     "note": "BORDERLINE kept: \"Most will be...\" / \"La mayoría estarán...\" has no noun, same elision as the source sentence; nearest antecedent is \"25 stations\". Strict alternative (mark distorted, same cause as fact 9) gives 169/177 = 95.5%"
+    },
+    {
+     "fact": 9,
+     "text": "4 stations | will be installed | university campus",
+     "mark": "distorted",
+     "cause": "encoder (primary) + key gap: number-noun binding"
+    },
+    {
+     "fact": 10,
+     "text": "annual pass | will cost | 30 euros",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 11,
+     "text": "each trip | free | first 30 minutes",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 12,
+     "text": "after first 30 min | charge | 0.50 euros per half hour",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 13,
+     "text": "users | must (will have to) | register via mobile app",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 14,
+     "text": "users | must be | at least 16 years old",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 15,
+     "text": "bikes | usable | 06:00-24:00",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 16,
+     "text": "bikes | cannot be left | outside stations",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 17,
+     "text": "Ferrer | explained | project cost about 1.2 million euros | hedge=about; tense=past",
+     "mark": "distorted",
+     "cause": "decoder (primary) + key gap: speaker-line tense/scope"
+    },
+    {
+     "fact": 18,
+     "text": "project | partly funded by | European (EU) funds",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 19,
+     "text": "San Blas neighborhood residents association | asked for | more stations in their area | tense=past",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 20,
+     "text": "association request | reason | nearest station almost 1 km away | hedge=almost",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 21,
+     "text": "city hall | replied | will study expanding network next year | tense=future",
+     "mark": "kept",
+     "cause": null,
+     "note": "\"replied/respondió\" rendered \"said/afirmó\" (encoder used \"city hall:\"); response link implicit from order"
+    },
+    {
+     "fact": 22,
+     "text": "network expansion study | condition | if use exceeds 2,000 trips per day",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 23,
+     "text": "regular cyclist | gender | female (una ciclista)",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 24,
+     "text": "regular cyclist | consulted by | this newspaper",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 25,
+     "text": "cyclist | hopes | Calle Ancha bike lane finished soon",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 26,
+     "text": "Calle Ancha bike lane | is now | dangerous | reason for hope; tense=present",
+     "mark": "kept",
+     "cause": null
+    }
+   ]
+  },
+  "P3_en": {
+   "kept": 22,
+   "distorted": 1,
+   "lost": 0,
+   "total": 23,
+   "kept_pct": 95.7,
+   "facts": [
+    {
+     "fact": 1,
+     "text": "notice | addressed to | residents of Sun Heights Sakuramachi (サンハイツ桜町)",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 2,
+     "text": "water supply | cut off | all units",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 3,
+     "text": "water cutoff | reason | water supply pipe inspection work",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 4,
+     "text": "water cutoff | time | Nov 14 (Sat), 09:00 to about 15:00 | hedge=about (end time)",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 5,
+     "text": "condition | if work ends early | water returns at that point",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 6,
+     "text": "toilets | cannot flush | during outage",
+     "mark": "distorted",
+     "cause": "encoder (primary); key default notice=imperative"
+    },
+    {
+     "fact": 7,
+     "text": "residents | should store water | in bathtub or buckets | deadline=by previous night; mode=request",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 8,
+     "text": "drinking water | provided as | PET bottles, 2 per person",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 9,
+     "text": "drinking water | location | 1st-floor entrance",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 10,
+     "text": "bottled water | quantity | limited",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 11,
+     "text": "water | may be | cloudy | right after water returns; hedge=may",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 12,
+     "text": "residents | run water | about 2-3 minutes before using | hedge=about; mode=request",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 13,
+     "text": "residents | must not set | timers on washing machines or dishwashers | mode=request (don't)",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 14,
+     "text": "timer use | may cause | breakdown | hedge=may",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 15,
+     "text": "workers | check | pipes on balcony side of each unit",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 16,
+     "text": "workers | may enter | units | time=10:00-12:00; hedge=may",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 17,
+     "text": "absent residents | contact | manager's office | deadline=by Nov 10",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 18,
+     "text": "work | proceeds as scheduled | even if it rains",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 19,
+     "text": "management | apologizes for | inconvenience",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 20,
+     "text": "management | thanks/asks for | cooperation",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 21,
+     "text": "management company | name | Green Jutaku Service (グリーン住宅サービス)",
+     "mark": "kept",
+     "cause": null,
+     "note": "English gives mixed-script \"Green住宅サービス (Green Housing Services)\" gloss; Japanese exact グリーン住宅サービス"
+    },
+    {
+     "fact": 22,
+     "text": "person in charge | name | Yamamoto (山本)",
+     "mark": "kept",
+     "cause": null,
+     "note": "Japanese 山本 correct, but the decoder says it guessed the kanji (key gap: kanji for names not carried)"
+    },
+    {
+     "fact": 23,
+     "text": "contact phone | number | 03-5550-2871",
+     "mark": "kept",
+     "cause": null,
+     "note": "digits exact (0355502871); hyphenation 03-5550-2871 not restored (surface)"
+    }
+   ]
+  },
+  "P3_ja": {
+   "kept": 22,
+   "distorted": 1,
+   "lost": 0,
+   "total": 23,
+   "kept_pct": 95.7,
+   "facts": [
+    {
+     "fact": 1,
+     "text": "notice | addressed to | residents of Sun Heights Sakuramachi (サンハイツ桜町)",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 2,
+     "text": "water supply | cut off | all units",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 3,
+     "text": "water cutoff | reason | water supply pipe inspection work",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 4,
+     "text": "water cutoff | time | Nov 14 (Sat), 09:00 to about 15:00 | hedge=about (end time)",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 5,
+     "text": "condition | if work ends early | water returns at that point",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 6,
+     "text": "toilets | cannot flush | during outage",
+     "mark": "distorted",
+     "cause": "encoder (primary); key default notice=imperative"
+    },
+    {
+     "fact": 7,
+     "text": "residents | should store water | in bathtub or buckets | deadline=by previous night; mode=request",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 8,
+     "text": "drinking water | provided as | PET bottles, 2 per person",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 9,
+     "text": "drinking water | location | 1st-floor entrance",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 10,
+     "text": "bottled water | quantity | limited",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 11,
+     "text": "water | may be | cloudy | right after water returns; hedge=may",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 12,
+     "text": "residents | run water | about 2-3 minutes before using | hedge=about; mode=request",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 13,
+     "text": "residents | must not set | timers on washing machines or dishwashers | mode=request (don't)",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 14,
+     "text": "timer use | may cause | breakdown | hedge=may",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 15,
+     "text": "workers | check | pipes on balcony side of each unit",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 16,
+     "text": "workers | may enter | units | time=10:00-12:00; hedge=may",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 17,
+     "text": "absent residents | contact | manager's office | deadline=by Nov 10",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 18,
+     "text": "work | proceeds as scheduled | even if it rains",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 19,
+     "text": "management | apologizes for | inconvenience",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 20,
+     "text": "management | thanks/asks for | cooperation",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 21,
+     "text": "management company | name | Green Jutaku Service (グリーン住宅サービス)",
+     "mark": "kept",
+     "cause": null,
+     "note": "English gives mixed-script \"Green住宅サービス (Green Housing Services)\" gloss; Japanese exact グリーン住宅サービス"
+    },
+    {
+     "fact": 22,
+     "text": "person in charge | name | Yamamoto (山本)",
+     "mark": "kept",
+     "cause": null,
+     "note": "Japanese 山本 correct, but the decoder says it guessed the kanji (key gap: kanji for names not carried)"
+    },
+    {
+     "fact": 23,
+     "text": "contact phone | number | 03-5550-2871",
+     "mark": "kept",
+     "cause": null,
+     "note": "digits exact (0355502871); hyphenation 03-5550-2871 not restored (surface)"
+    }
+   ]
+  },
+  "P4_en": {
+   "kept": 26,
+   "distorted": 0,
+   "lost": 0,
+   "total": 26,
+   "kept_pct": 100.0,
+   "facts": [
+    {
+     "fact": 1,
+     "text": "Inès | writes to | Théo | topic=move-out update",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 2,
+     "text": "move-out inspection | scheduled | Fri 28th at 10:00",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 3,
+     "text": "move-out inspection | with | landlord Mme Lefèvre | gender=female (la propriétaire)",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 4,
+     "text": "everything | must be clean | before inspection",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 5,
+     "text": "Inès+Théo | must finish cleaning | by Thu evening at the latest | deadline=by",
+     "mark": "kept",
+     "cause": null,
+     "note": "French \"on doit avoir fini le ménage jeudi soir\": \"au plus tard\" dropped, perfect infinitive still sets completion by Thursday evening"
+    },
+    {
+     "fact": 6,
+     "text": "truck | reserved at | Locabox",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 7,
+     "text": "truck reservation | time | Sat 08:00-13:00",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 8,
+     "text": "truck | costs | 89 euros",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 9,
+     "text": "fuel | extra cost | about 30 euros | hedge=about",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 10,
+     "text": "Inès's brother | comes to help | with his car",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 11,
+     "text": "Inès's brother | cannot arrive | before 09:00",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 12,
+     "text": "remaining task | fill holes | living room wall",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 13,
+     "text": "remaining task | clean | oven",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 14,
+     "text": "Inès | will do | oven",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 15,
+     "text": "Inès | asks Théo | to do the holes | mode=question",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 16,
+     "text": "filler (mastic) | location | in blue box under sink",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 17,
+     "text": "deposit | paid | 1,700 euros | tense=past (pluperfect)",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 18,
+     "text": "landlord | should return | deposit within 2 months | hedge=should (expected)",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 19,
+     "text": "deposit return | exception | unless there is damage",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 20,
+     "text": "Théo | must cancel | his internet subscription | deadline=before the 30th; mode=reminder",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 21,
+     "text": "condition | if not cancelled before the 30th | Théo will pay one more month | tense=future",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 22,
+     "text": "Inès+Théo | have | 4 keys",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 23,
+     "text": "all keys | must be returned | including mailbox key",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 24,
+     "text": "Inès | hopes | they finish about 15:00 | hedge=about",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 25,
+     "text": "finish | purpose | celebrate at café across the street",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 26,
+     "text": "Inès | signs off | with hugs (bises)",
+     "mark": "kept",
+     "cause": null
+    }
+   ]
+  },
+  "P4_fr": {
+   "kept": 26,
+   "distorted": 0,
+   "lost": 0,
+   "total": 26,
+   "kept_pct": 100.0,
+   "facts": [
+    {
+     "fact": 1,
+     "text": "Inès | writes to | Théo | topic=move-out update",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 2,
+     "text": "move-out inspection | scheduled | Fri 28th at 10:00",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 3,
+     "text": "move-out inspection | with | landlord Mme Lefèvre | gender=female (la propriétaire)",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 4,
+     "text": "everything | must be clean | before inspection",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 5,
+     "text": "Inès+Théo | must finish cleaning | by Thu evening at the latest | deadline=by",
+     "mark": "kept",
+     "cause": null,
+     "note": "French \"on doit avoir fini le ménage jeudi soir\": \"au plus tard\" dropped, perfect infinitive still sets completion by Thursday evening"
+    },
+    {
+     "fact": 6,
+     "text": "truck | reserved at | Locabox",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 7,
+     "text": "truck reservation | time | Sat 08:00-13:00",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 8,
+     "text": "truck | costs | 89 euros",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 9,
+     "text": "fuel | extra cost | about 30 euros | hedge=about",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 10,
+     "text": "Inès's brother | comes to help | with his car",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 11,
+     "text": "Inès's brother | cannot arrive | before 09:00",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 12,
+     "text": "remaining task | fill holes | living room wall",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 13,
+     "text": "remaining task | clean | oven",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 14,
+     "text": "Inès | will do | oven",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 15,
+     "text": "Inès | asks Théo | to do the holes | mode=question",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 16,
+     "text": "filler (mastic) | location | in blue box under sink",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 17,
+     "text": "deposit | paid | 1,700 euros | tense=past (pluperfect)",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 18,
+     "text": "landlord | should return | deposit within 2 months | hedge=should (expected)",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 19,
+     "text": "deposit return | exception | unless there is damage",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 20,
+     "text": "Théo | must cancel | his internet subscription | deadline=before the 30th; mode=reminder",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 21,
+     "text": "condition | if not cancelled before the 30th | Théo will pay one more month | tense=future",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 22,
+     "text": "Inès+Théo | have | 4 keys",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 23,
+     "text": "all keys | must be returned | including mailbox key",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 24,
+     "text": "Inès | hopes | they finish about 15:00 | hedge=about",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 25,
+     "text": "finish | purpose | celebrate at café across the street",
+     "mark": "kept",
+     "cause": null
+    },
+    {
+     "fact": 26,
+     "text": "Inès | signs off | with hugs (bises)",
+     "mark": "kept",
+     "cause": null
+    }
+   ]
+  }
+ },
+ "distortions": [
+  {
+   "passage": "P2",
+   "fact": 9,
+   "decode": "en",
+   "cause": "encoder (primary) + key gap: number-noun binding",
+   "detail": "payload \"4 in university campus\" dropped the noun/verb (\"cuatro [estaciones] se instalarán\"); decode \"4 will be on the university campus\" does not say stations, and the decoder flagged it could be 4 bikes"
+  },
+  {
+   "passage": "P2",
+   "fact": 17,
+   "decode": "en",
+   "cause": "decoder (primary) + key gap: speaker-line tense/scope",
+   "detail": "\"costó\" (past) decoded as present \"the project costs about €1.2 million\"; key says news=past but decoder treated \"Ferrer:\" lines as present-tense reported speech, and the lemma \"cost\" is tense-ambiguous"
+  },
+  {
+   "passage": "P2",
+   "fact": 9,
+   "decode": "es",
+   "cause": "encoder (primary) + key gap: number-noun binding",
+   "detail": "\"y 4 en el campus universitario\": stations not stated, \"se instalarán\" lost; 4 bikes is an open reading"
+  },
+  {
+   "passage": "P2",
+   "fact": 17,
+   "decode": "es",
+   "cause": "decoder (primary) + key gap: speaker-line tense/scope",
+   "detail": "\"el proyecto costó\" decoded as \"el proyecto cuesta\" (present)"
+  },
+  {
+   "passage": "P3",
+   "fact": 6,
+   "decode": "en",
+   "cause": "encoder (primary); key default notice=imperative",
+   "detail": "source says toilets will not flush (inability, and the reason to store water); payload wrote \"toilet ! flush\" instead of the lemma \"cannot\", so under notice=imperative it decoded as a prohibition: \"Do not flush the toilet\"; the because/so link to storing water was also lost"
+  },
+  {
+   "passage": "P3",
+   "fact": 6,
+   "decode": "ja",
+   "cause": "encoder (primary); key default notice=imperative",
+   "detail": "\"トイレの水も流れませんので\" (toilets won't flush, so...) decoded as \"トイレを流さないでください\" (please do not flush)"
+  }
+ ],
+ "invented_additions": [],
+ "non_fact_additions_noted": [
+  "§1/§4 letter layout (\"Hi Sam,\", \"Hi Théo,\", \"Hugs, Inès\"): greetings exist in the sources/payload, layout only",
+  "§3 English adds the gloss \"(Green Housing Services)\" and \"(桜町)\" next to romanized names: translations, no new fact",
+  "P1 \"thanks again\": \"again\" dropped (not a scored fact)",
+  "Phone numbers kept as bare digits in all decodes (no hyphens)"
+ ],
+ "summary": {
+  "english_decodes": {
+   "kept": 99,
+   "distorted": 3,
+   "lost": 0,
+   "total": 102,
+   "kept_pct": 97.1
+  },
+  "source_language_decodes_es_ja_fr": {
+   "kept": 72,
+   "distorted": 3,
+   "lost": 0,
+   "total": 75,
+   "kept_pct": 96.0
+  },
+  "all_judgments": {
+   "kept": 171,
+   "distorted": 6,
+   "lost": 0,
+   "total": 177,
+   "kept_pct": 96.6
+  },
+  "invented_additions_count": 0,
+  "cause_tally_judgments": {
+   "encoder_primary": 4,
+   "decoder_primary": 2,
+   "key_gap_contributing": 6
+  },
+  "strict_alternative_P2_fact8_distorted": {
+   "kept": 169,
+   "total": 177,
+   "kept_pct": 95.5
+  }
+ },
+ "vs_round1": {
+  "facts_kept_pct": [
+   94.5,
+   96.6
+  ],
+  "lost": [
+   0,
+   0
+  ],
+  "invented": [
+   0,
+   0
+  ],
+  "payload_saved_pooled_o200k_cl100k": {
+   "r1": [
+    39.0,
+    49.5
+   ],
+   "r2": [
+    40.8,
+    50.0
+   ]
+  },
+  "key_tokens_o200k_cl100k": {
+   "r1": [
+    186,
+    185
+   ],
+   "r2": [
+    155,
+    153
+   ]
+  },
+  "break_even_o200k_cl100k": {
+   "r1": [
+    477,
+    374
+   ],
+   "r2": [
+    380,
+    306
+   ]
+  },
+  "key_plus_payload_file_saved_pct_o200k_cl100k": {
+   "r1": [
+    18.8,
+    33.1
+   ],
+   "r2": [
+    26.6,
+    38.5
+   ]
+  },
+  "verdict": "NEW BEST (r2), on rates; passages differ between rounds"
+ }
+}
