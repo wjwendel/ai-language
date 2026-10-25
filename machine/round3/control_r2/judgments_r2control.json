@@ -1,0 +1,8 @@
+{"note":"strict manual rescoring (single scorer) of r2 key+payload decoded by the same Qwen2.5-7B; facts = round2/facts.json (177 judgments over 7 decodes). Unlisted facts = kept.",
+"P1|English":{"4":"D back ~20:00 -> 2 PM","6":"D twice a day/~17:00 lost","9":"D garage fridge -> garage and fridge","13":"L pulls hard at cats","16":"D reason reworded: booster not until Tue -> can't go until Tue"},
+"P2|English":{"_lang":"output in Spanish","1":"D presented(past)->presentará","4":"D explained->explicará","8":"D stations->bicycles","9":"D 4 stations -> 'habrá 4' unbound","22":"D condition '?' -> 'ya que' (cause)","23":"D female cyclist -> un ciclista"},
+"P2|Spanish":{"1":"D tense","8":"D stations->bicicletas","9":"D 4 unbound","22":"D condition->fact","23":"D gender"},
+"P3|English":{"_lang":"output in Chinese","1":"L addressee","4":"D 'about' end hedge lost","8":"L 2 bottles/person","9":"L 1F entrance","10":"L limited","13":"D don't-set-timers -> 'may be damaged by delay'","14":"D","19":"L apology"},
+"P3|Japanese":{"1":"D Sun Heights lost","4":"D hedge","5":"D early-end clause garbled","6":"L toilets","7":"D by previous night lost","8":"D per person lost, provision -> request","13":"D prohibition weakened to caution"},
+"P4|English":{"18":"D 2 months -> next month"},
+"P4|French":{"12":"D living room -> salle à manger","18":"D 2 months -> mois suivant"}}

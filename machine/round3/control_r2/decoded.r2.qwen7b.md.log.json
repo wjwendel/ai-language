@@ -1,0 +1,86 @@
+[
+ {
+  "job": "1:English",
+  "seconds": 41.1,
+  "usage": {
+   "completion_tokens": 266,
+   "prompt_tokens": 954,
+   "total_tokens": 1220,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "2:English",
+  "seconds": 55.4,
+  "usage": {
+   "completion_tokens": 370,
+   "prompt_tokens": 954,
+   "total_tokens": 1324,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "2:Spanish",
+  "seconds": 50.6,
+  "usage": {
+   "completion_tokens": 350,
+   "prompt_tokens": 954,
+   "total_tokens": 1304,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "3:English",
+  "seconds": 26.4,
+  "usage": {
+   "completion_tokens": 164,
+   "prompt_tokens": 954,
+   "total_tokens": 1118,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "3:Japanese",
+  "seconds": 111.0,
+  "usage": {
+   "completion_tokens": 292,
+   "prompt_tokens": 954,
+   "total_tokens": 1246,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "4:English",
+  "seconds": 45.8,
+  "usage": {
+   "completion_tokens": 198,
+   "prompt_tokens": 954,
+   "total_tokens": 1152,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "4:French",
+  "seconds": 54.4,
+  "usage": {
+   "completion_tokens": 268,
+   "prompt_tokens": 954,
+   "total_tokens": 1222,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ }
+]
