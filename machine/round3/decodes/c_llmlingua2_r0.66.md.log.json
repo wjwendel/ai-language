@@ -1,0 +1,110 @@
+[
+ {
+  "job": "1:English",
+  "seconds": 34.9,
+  "usage": {
+   "completion_tokens": 228,
+   "prompt_tokens": 917,
+   "total_tokens": 1145,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "2:English",
+  "seconds": 28.7,
+  "usage": {
+   "completion_tokens": 190,
+   "prompt_tokens": 917,
+   "total_tokens": 1107,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "2:Spanish",
+  "seconds": 34.4,
+  "usage": {
+   "completion_tokens": 237,
+   "prompt_tokens": 917,
+   "total_tokens": 1154,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "3:English",
+  "seconds": 54.9,
+  "usage": {
+   "completion_tokens": 222,
+   "prompt_tokens": 917,
+   "total_tokens": 1139,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "3:Korean",
+  "seconds": 37.1,
+  "usage": {
+   "completion_tokens": 260,
+   "prompt_tokens": 917,
+   "total_tokens": 1177,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "4:English",
+  "seconds": 24.8,
+  "usage": {
+   "completion_tokens": 174,
+   "prompt_tokens": 917,
+   "total_tokens": 1091,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "4:German",
+  "seconds": 31.4,
+  "usage": {
+   "completion_tokens": 238,
+   "prompt_tokens": 917,
+   "total_tokens": 1155,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "5:English",
+  "seconds": 29.8,
+  "usage": {
+   "completion_tokens": 176,
+   "prompt_tokens": 917,
+   "total_tokens": 1093,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "5:Spanish",
+  "seconds": 26.5,
+  "usage": {
+   "completion_tokens": 201,
+   "prompt_tokens": 917,
+   "total_tokens": 1118,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ }
+]

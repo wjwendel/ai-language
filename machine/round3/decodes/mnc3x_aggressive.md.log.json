@@ -1,0 +1,62 @@
+[
+ {
+  "job": "1:English",
+  "seconds": 27.9,
+  "usage": {
+   "completion_tokens": 198,
+   "prompt_tokens": 965,
+   "total_tokens": 1163,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "2:English",
+  "seconds": 32.6,
+  "usage": {
+   "completion_tokens": 248,
+   "prompt_tokens": 965,
+   "total_tokens": 1213,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "3:English",
+  "seconds": 29.7,
+  "usage": {
+   "completion_tokens": 166,
+   "prompt_tokens": 965,
+   "total_tokens": 1131,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "4:English",
+  "seconds": 25.6,
+  "usage": {
+   "completion_tokens": 180,
+   "prompt_tokens": 965,
+   "total_tokens": 1145,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "5:English",
+  "seconds": 22.7,
+  "usage": {
+   "completion_tokens": 152,
+   "prompt_tokens": 965,
+   "total_tokens": 1117,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ }
+]
