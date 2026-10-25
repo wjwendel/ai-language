@@ -1,0 +1,72 @@
+# Manual strict judgments by the builder (single scorer). Only non-kept facts listed: fact number (1-based in facts.json) -> 'D' distorted / 'L' lost, with a note.
+# Every fact not listed = kept. 'X' entries = added content (not a fact from source).
+J={
+'mnc3_key':{  # decoded.blind.md (key.md, 148 o200k)
+ 'P1|English':{1:('L','routine name "weekly brand outreach routine" dropped')},
+ 'P2|English':{15:('D','"no deben traer dinero" = must not bring (needn\'t -> prohibition)'),'_lang':'output in Spanish, not English'},
+ 'P2|Spanish':{3:('D','"el próximo lunes 12 de marzo": Thursday -> Monday')},
+ 'P3|English':{18:('D','고모 rendered 奶奶 (grandma): speaker changed'),19:('D','"奶奶很难受": hard time attributed to grandma'),'_lang':'output in Chinese, not English'},
+ 'P3|Korean':{4:('D','restaurant name 韩家람 (mangled)'),18:('D','고모 -> 奶奶'),19:('D','hard time attributed to grandma'),'_lang':'output in Chinese, not Korean'},
+ 'P4|English':{},
+ 'P4|German':{10:('D','"von Montag bis Freitag": Tue -> Mon')},
+ 'P5|English':{1:('L','routine name "weekly grocery routine" dropped')},
+ 'P5|Spanish':{1:('L','routine name dropped'),7:('D','"primero pregunta qué debe retirarse": who to ask (Jordan) dropped [ACT]')}},
+'mnc3_microkey':{  # experiments/key_micro.md (41 o200k)
+ 'P1|English':{7:('D','"place each draft in the approval card" - "and wait" dropped [ACT]')},
+ 'P2|English':{'_lang':'output in Spanish, not English'},
+ 'P2|Spanish':{3:('D','"el próximo jueves": date March 12 dropped'),8:('D','"antes del lunes a las 9:00": Mon 9 (date) read as 9:00'),20:('D','"antes del viernes a las 16:00": Fri 6 read as a time')},
+ 'P3|English':{8:('D','"cannot park more than 6 cars" (source: 6 or more)')},
+ 'P3|Korean':{12:('L','"don\'t buy individual gifts" dropped')},
+ 'P4|English':{},
+ 'P4|German':{10:('D','Montag bis Freitag: Tue -> Mon')},
+ 'P5|English':{},
+ 'P5|Spanish':{7:('D','"primero preguntar qué elementos retirar": ask whom dropped [ACT]'),12:('D','"entrega el Sóndaga @10": Sunday morning garbled [PERM]')}},
+'mnc3_nokey':{  # payload.txt only, no key
+ 'P1|English':{},
+ 'P2|English':{},
+ 'P2|Spanish':{'X':'added closing line "¡Esperamos que todos tengan un buen viaje!" (no fact)'},
+ 'P3|English':{8:('D','"cannot accommodate more than six cars" (source: 6 or more)'),12:('L','"don\'t buy individual gifts" dropped'),18:('L','고모 line dropped'),19:('L','last year 70th birthday line dropped'),'X':'added "Thank you!" (no fact)'},
+ 'P3|Korean':{12:('L','"don\'t buy individual gifts" dropped'),15:('D','"4월 10일까지 내주세요": to my account dropped')},
+ 'P4|English':{},
+ 'P4|German':{10:('D','Montag bis Freitag: Tue -> Mon')},
+ 'P5|English':{},
+ 'P5|Spanish':{}},
+'a_terse':{
+ 'P1|English':{5:('D','"the template": Pitch doc dropped'),7:('L','approval card + wait dropped [ACT]'),9:('L','"don\'t remind more than once per brand" dropped [NEG]'),12:('D','"The Status column is updated": permission became a statement [PERM]'),14:('L','rates: don\'t quote a price dropped [NEG]'),15:('L','tell Jordan about rates dropped [ACT]'),16:('D','"entrepreneur" dropped [ID]'),17:('L','never a coach dropped [NEG]'),18:('L','drafts by noon Monday dropped [DL]'),19:('D','"we inform Jordan": stop dropped [COND]'),20:('L','do not use the browser dropped [NEG]')},
+ 'P2|English':{1:('L','addressee'),5:('L','three buses'),6:('D','about 16:00 -> 16:00'),9:('L','principal'),10:('L','reminded'),11:('L','last year €18'),12:('L','city hall pays part'),14:('D','cannot board without permission dropped'),15:('D','"no money ... allowed" (needn\'t -> prohibition)'),17:('D','rain swap garbled'),19:('L','Mrs Gil'),22:('L','reason food cannot be bought')},
+ 'P2|Spanish':{5:('L','three buses'),6:('D','hedge'),9:('L','principal'),10:('L','reminded'),11:('L','€18'),12:('L','city hall'),14:('D','board-bus consequence'),15:('D','needn\'t -> prohibition'),17:('D','"taller en el Jardín Botánico"'),19:('L','Mrs Gil'),22:('L','reason')},
+ 'P3|English':{1:('L','addressee'),4:('D','"Hanガ람" name mangled'),6:('D','"reservations need to be made by April 15"'),7:('L','parking small'),8:('D','"No more than 6 cars are allowed"'),12:('L','don\'t buy individual gifts'),15:('D','account dropped'),18:('L','고모'),19:('L','last year'),20:('L','grandma cannot eat spicy'),21:('D','mild menu reason dropped')},
+ 'P3|Korean':{1:('L','addressee'),4:('D','한갈람'),6:('D','reserve by Apr 15'),7:('L','parking small'),8:('D','hearsay dropped'),12:('L','gifts'),15:('D','account'),17:('D','"숨기기로 결정": never-tell weakened'),18:('L','고모'),19:('L','last year'),20:('L','spicy'),21:('D','reason')},
+ 'P4|English':{2:('D','hedge about dropped'),4:('L','Vogel'),5:('D','three dropped'),7:('D','hedge dropped'),10:('L','hours'),11:('L','need not be returned'),12:('D','borrow until end of June (loan extension lost)'),15:('L','reason no space'),16:('L','80,000 visitors'),17:('D','early June -> June'),18:('D','delay condition dropped')},
+ 'P4|German':{2:('D','hedge'),4:('L','Vogel'),5:('D','three'),7:('D','"24 Millionen Euro" and hedge'),10:('L','hours'),11:('L','need not'),12:('D','extension'),15:('L','reason'),16:('L','visitors'),17:('D','early'),18:('D','condition')},
+ 'P5|English':{1:('L','routine name'),3:('D','"Casa section on Mercadona"'),6:('D','send total dropped [ACT]'),7:('D','"ask for permission first" (what to remove, whom) [COND]'),8:('D','"Choose the cheapest brand" may -> must [PERM]'),9:('D','"do not include regular gluten-free products" [NEG]'),10:('D','skip/list dropped [COND]'),11:('L','don\'t order from another store [NEG]'),15:('L','don\'t log in with another account [NEG]')},
+ 'P5|Spanish':{1:('L','name'),3:('D','sección Casa'),6:('D','send total [ACT]'),7:('D','"pregunta antes de confirmar" [COND]'),8:('D','cheapest brand [PERM]'),9:('D','"evitando productos sin gluten normales" [NEG]'),10:('D','sold out [COND]'),11:('L','other store [NEG]'),12:('D','"al amanecer" (dawn) [PERM]'),15:('L','other account [NEG]')}},
+'b_summarize':{
+ 'P1|English':{6:('L','never send without approval not stated [NEG]'),7:('D','wait dropped [ACT]'),8:('D','"remind ... after 48 hours": once dropped [COND]'),9:('L','don\'t remind more than once [NEG]'),12:('D','"Update the Status column": may -> must [PERM]'),17:('L','never coach [NEG]'),19:('D','stop dropped [COND]'),20:('L','do not use browser [NEG]')},
+ 'P2|English':{i:('L','decoder rendered §5 content under §2 (section mix-up); §2 facts absent') for i in range(1,23)},
+ 'P2|Spanish':{i:('L','decoder rendered §5 content under §2 (section mix-up)') for i in range(1,23)},
+ 'P3|English':{1:('L','addressee'),2:('L','grandma 80th birthday'),3:('D','Sunday dropped'),4:('D','"Room 2"'),8:('D','"limited to only six cars"'),12:('L','gifts'),14:('D','per household dropped'),18:('L','고모'),19:('L','last year'),20:('D','"dietary restrictions"')},
+ 'P3|Korean':{**{i:('L','output truncated/garbled ("마사지チェ链式对话结束")') for i in [1,2,7,12,13,14,15,16,17,18,19,20,21,22]},8:('D','"6대만 주차 가능"')},
+ 'P4|English':{4:('L','Vogel'),7:('D','hedge'),10:('D','hours dropped'),11:('L','need not be returned')},
+ 'P4|German':{4:('L','Vogel'),7:('D','hedge'),10:('D','hours'),11:('L','need not')},
+ 'P5|English':{1:('L','name'),7:('D','"seek approval before finalizing" [COND]'),10:('D','skip dropped [COND]'),11:('L','other store [NEG]'),15:('L','other account [NEG]')},
+ 'P5|Spanish':{1:('L','name'),7:('D','"consulta antes" [COND]'),10:('D','skip dropped [COND]'),11:('L','other store [NEG]'),15:('L','other account [NEG]')}},
+ 'c_llmlingua2':{
+ 'P1|English':{3:('D','"Jordan begins... opening the sheet": actor flipped to Jordan'),4:('D','"He then writes": actor flipped [ACT]'),5:('D','"pre-approved template": Pitch doc dropped'),7:('D','wait dropped [ACT]'),12:('D','"status column is updated": may -> statement [PERM]'),13:('D','"updated but not deleted": rows -> column [NEG]'),14:('D','"Jordan is not to quote a price": actor flipped [NEG]'),15:('D','"inform the brand that Jordan will handle": tell Jordan -> tell brand [ACT]'),16:('D','entrepreneur dropped [ID]'),19:('D','"Jordan is to inform Jordan" [COND]'),20:('D','"use a different browser": prohibition FLIPPED to instruction [NEG]'),21:('D','"Jordan sends a short summary to Jordan" [ACT]')},
+ 'P2|English':{1:('L','addressee'),5:('L','three buses'),6:('D','hedge'),15:('L','needn\'t bring money'),17:('D','botanical garden dropped'),22:('D','"museum cannot provide food"')},
+ 'P2|Spanish':{1:('L','addressee'),5:('L','three buses'),6:('D','hedge'),12:('D','"el ayuntamiento pagó": this time -> past'),15:('L','needn\'t bring money'),17:('D','garden dropped'),22:('D','"el museo no puede comprar comida para ellos"')},
+ 'P3|English':{1:('L','addressee'),4:('D','"Hangeuralam" restaurant "on Suwon\'s second floor"'),5:('D','"can accommodate twelve guests"'),6:('D','"inform the restaurant"'),8:('D','"only six cars"'),12:('L','gifts'),13:('L','pool money / massage chair'),17:('L','never tell grandma [NEG]'),18:('L','고모'),19:('D','"I remember last year\'s..."'),20:('L','spicy'),21:('D','reason'),'X':'invented 3 sentences from another passage: "Aunt Gil" restaurant manager + allergies + museum food; no electronic devices; rain -> indoor workshop'},
+ 'P3|Korean':{1:('D','"안녕하세요, 할머니": addressed to grandma'),8:('D','"여섯 대만 주차할 수 있습니다"'),12:('D','"선물은 할머니 집에 각 10만 원씩 보내드릴게요"'),14:('D','per household -> sent to grandma'),17:('D','"미리 말씀해주셨으면 합니다": never tell FLIPPED to please tell'),18:('L','고모'),19:('D','"매운 음식을 못 먹었는데"'),20:('D','spicy reason garbled')},
+ 'P4|English':{2:('D','hedge'),7:('D','hedge'),11:('L','need not be returned'),16:('D','"counted visitors": number dropped')},
+ 'P4|German':{2:('D','hedge'),5:('D','three dropped'),7:('D','hedge'),11:('D','"werden nicht zurückgegeben": needn\'t -> will not'),16:('D','number dropped')},
+ 'P5|English':{3:('D','"Jordan reviews": actor flipped'),4:('D','"Jordan ... prepares a cart" [ACT]'),6:('D','"Jordan leaves the cart ready", send total dropped [ACT]'),8:('D','may swap brand merged into asking Jordan [PERM]'),9:('D','added "unless instructed" [NEG]'),14:('D','stop dropped [COND]')},
+ 'P5|Spanish':{6:('D','"Jordan, quien dejará el carrito listo" [ACT]'),8:('D','swap permission merged into asking [PERM]'),14:('D','stop dropped [COND]')}},
+ 'mnc3x_aggressive_key':{  # experiments/payload_v3x_aggressive.txt + key.md; English decodes only
+ 'P1|English':{1:('L','routine name dropped')},
+ 'P2|English':{15:('D','"no deben llevar dinero": needn\'t -> prohibition'),'_lang':'output in Spanish, not English'},
+ 'P3|English':{18:('D','고모 -> 奶奶'),19:('D','hard time attributed to grandma'),'_lang':'output in Chinese, not English'},
+ 'P4|English':{},
+ 'P5|English':{}},
+ 'frontier_A_key':{'P1|English': {}, 'P2|English': {}, 'P2|Spanish': {}, 'P3|English': {}, 'P3|Korean': {}, 'P4|English': {}, 'P4|German': {8: ('D', '"der Staat übernimmt zwei Drittel": Land (federal state) rendered as Staat (national state)')}, 'P5|English': {}, 'P5|Spanish': {}},  # decodes/frontier_A.md: fresh no-context frontier-class helper, FRONTIER_DECODE_PROMPT with KEY
+ 'frontier_B_nokey':{'P1|English': {}, 'P2|English': {}, 'P2|Spanish': {}, 'P3|English': {}, 'P3|Korean': {}, 'P4|English': {}, 'P4|German': {}, 'P5|English': {}, 'P5|Spanish': {}},  # decodes/frontier_B.md: same, KEY block removed
+}
