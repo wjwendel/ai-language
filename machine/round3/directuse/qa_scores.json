@@ -1,0 +1,4990 @@
+{
+ "rows": [
+  {
+   "tag": "original|P1|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, this routine runs every Monday at 9 a.m. Central.",
+   "gold": "Monday 9:00 Central",
+   "override": null
+  },
+  {
+   "tag": "original|P1|en",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not send the email now. You must wait for Jordan's approval, which you should put in an approval card.",
+   "gold": "No, never without Jordan's approval",
+   "override": null
+  },
+  {
+   "tag": "original|P1|en",
+   "q": 3,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, Jordan must approve an email before it is sent.",
+   "gold": "Jordan",
+   "override": null
+  },
+  {
+   "tag": "original|P1|en",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not remind him again. The instructions state not to remind more than once per brand.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "original|P1|en",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not contact a brand with fewer than 5,000 followers.",
+   "gold": "No (minimum 5,000)",
+   "override": null
+  },
+  {
+   "tag": "original|P1|en",
+   "q": 6,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not contact a brand that replied within the last 30 days.",
+   "gold": "No, skip",
+   "override": null
+  },
+  {
+   "tag": "original|P1|en",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you are not allowed to delete rows in the sheet. Yes, you are allowed to change the Status column.",
+   "gold": "Delete: no. Status: yes",
+   "override": null
+  },
+  {
+   "tag": "original|P1|en",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "You should describe Jordan as a business developer and entrepreneur, and you should not tell the brand what Jordan charges. Instead, you should inform the brand to contact Jordan for rates.",
+   "gold": "Don't quote a price; tell Jordan and let him answer",
+   "override": null
+  },
+  {
+   "tag": "original|P1|en",
+   "q": 9,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, Jordan should be described as a business developer and entrepreneur. No, he cannot be called a coach.",
+   "gold": "Business developer and entrepreneur; never a coach",
+   "override": null
+  },
+  {
+   "tag": "original|P1|en",
+   "q": 10,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not send the emails through the browser instead. You should stop and inform Jordan.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "original|P1|en",
+   "q": 11,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The drafts must be ready by noon on Monday, and the summary must be sent by 5 p.m.",
+   "gold": "Drafts by noon Monday; summary by 5 p.m.",
+   "override": null
+  },
+  {
+   "tag": "original|P1|es",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, esta rutina se ejecuta todos los lunes a las 9 a.m. Central.",
+   "gold": "Monday 9:00 Central",
+   "override": null
+  },
+  {
+   "tag": "original|P1|es",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debo enviar el correo ahora. Debo seguir esperando la aprobación de Jordan y dejar el borrador en una tarjeta de aprobación hasta que él responda.",
+   "gold": "No, never without Jordan's approval",
+   "override": null
+  },
+  {
+   "tag": "original|P1|es",
+   "q": 3,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, un correo debe ser aprobado por Jordan antes de enviarlo.",
+   "gold": "Jordan",
+   "override": null
+  },
+  {
+   "tag": "original|P1|es",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debo recordar a Jordan más de una vez por marca, incluso si lleva 3 días sin responder.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "original|P1|es",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debo contactar a una marca que tenga menos de 5,000 seguidores.",
+   "gold": "No (minimum 5,000)",
+   "override": null
+  },
+  {
+   "tag": "original|P1|es",
+   "q": 6,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, debo ignorar una marca que ya respondió en los últimos 30 días.",
+   "gold": "No, skip",
+   "override": null
+  },
+  {
+   "tag": "original|P1|es",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no puedo borrar filas de la hoja, pero sí puedo actualizar la columna Status.",
+   "gold": "Delete: no. Status: yes",
+   "override": null
+  },
+  {
+   "tag": "original|P1|es",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Si una marca pregunta sobre los precios, no debo dar una respuesta. Debo informar a Jordan y dejar que él responda.",
+   "gold": "Don't quote a price; tell Jordan and let him answer",
+   "override": null
+  },
+  {
+   "tag": "original|P1|es",
+   "q": 9,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Se debe describir a Jordan como un desarrollador de negocios y emprendedor, no como un coach o entrenador.",
+   "gold": "Business developer and entrepreneur; never a coach",
+   "override": null
+  },
+  {
+   "tag": "original|P1|es",
+   "q": 10,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, si el conector de Gmail está desconectado, debo detenerme y informar a Jordan en lugar de usar el navegador.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "original|P1|es",
+   "q": 11,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Los borradores deben estar listos para las 12 p.m. de lunes, y debo enviar el resumen a las 5 p.m. de lunes.",
+   "gold": "Drafts by noon Monday; summary by 5 p.m.",
+   "override": null
+  },
+  {
+   "tag": "original|P2|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, fourth-grade students go on the trip to the Valdemar Science Museum on March 12.",
+   "gold": "4th grade, Valdemar Science Museum, Thu March 12",
+   "override": null
+  },
+  {
+   "tag": "original|P2|en",
+   "q": 2,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, three buses.",
+   "gold": "3",
+   "override": null
+  },
+  {
+   "tag": "original|P2|en",
+   "q": 3,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the trip costs 14 euros this year, and 18 euros last year.",
+   "gold": "€14; €18 last year",
+   "override": null
+  },
+  {
+   "tag": "original|P2|en",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no money is needed.",
+   "gold": "No, not needed (not forbidden)",
+   "override": null
+  },
+  {
+   "tag": "original|P2|en",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, without the signed permission, they cannot board the bus.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "original|P2|en",
+   "q": 6,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, volunteer parents should write to the tutor, Mrs. Gil, by Friday, March 6.",
+   "gold": "Mrs Gil (tutor), before Friday 6",
+   "override": null
+  },
+  {
+   "tag": "original|P2|en",
+   "q": 7,
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "Yes, students with allergies must inform the teachers because the museum does not sell food.",
+   "gold": "Food cannot be bought at the museum",
+   "override": "'museum does not sell food' = gold; regex miss"
+  },
+  {
+   "tag": "original|P2|es",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, los alumnos de cuarto van de excursión al Museo de Ciencias de Valdemar el jueves 12 de marzo.",
+   "gold": "4th grade, Valdemar Science Museum, Thu March 12",
+   "override": null
+  },
+  {
+   "tag": "original|P2|es",
+   "q": 2,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, saldremos en tres autobuses.",
+   "gold": "3",
+   "override": null
+  },
+  {
+   "tag": "original|P2|es",
+   "q": 3,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, la excursión cuesta 14 euros por alumno este año, mientras que el año pasado costó 18 euros.",
+   "gold": "€14; €18 last year",
+   "override": null
+  },
+  {
+   "tag": "original|P2|es",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no hace falta llevar dinero.",
+   "gold": "No, not needed (not forbidden)",
+   "override": null
+  },
+  {
+   "tag": "original|P2|es",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, sin autorización no podrá subir al autobús.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "original|P2|es",
+   "q": 6,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, los padres voluntarios deben escribir a la tutora, la señora Gil, antes del viernes 6.",
+   "gold": "Mrs Gil (tutor), before Friday 6",
+   "override": null
+  },
+  {
+   "tag": "original|P2|es",
+   "q": 7,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, los alumnos con alergias deben avisar al profesorado porque en el museo no se puede comprar comida.",
+   "gold": "Food cannot be bought at the museum",
+   "override": null
+  },
+  {
+   "tag": "original|P3|en",
+   "q": 1,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes",
+   "gold": "Grandma's 80th, Sunday April 20 at 18:00",
+   "override": null
+  },
+  {
+   "tag": "original|P3|en",
+   "q": 2,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Twelve",
+   "gold": "12",
+   "override": null
+  },
+  {
+   "tag": "original|P3|en",
+   "q": 3,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes",
+   "gold": "Parking is small; reportedly can't fit 6 or more cars",
+   "override": null
+  },
+  {
+   "tag": "original|P3|en",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Minjun brings the cake; the speaker prepares the flowers",
+   "gold": "Minjun cake; writer flowers",
+   "override": null
+  },
+  {
+   "tag": "original|P3|en",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No; pool money for a massage chair",
+   "override": null
+  },
+  {
+   "tag": "original|P3|en",
+   "q": 6,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Ten million won each, by April 10th",
+   "gold": "100,000 won by April 10",
+   "override": null
+  },
+  {
+   "tag": "original|P3|en",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No, never (surprise)",
+   "override": null
+  },
+  {
+   "tag": "original|P3|en",
+   "q": 8,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes",
+   "gold": "Grandma can't eat spicy food",
+   "override": null
+  },
+  {
+   "tag": "original|P4|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the library is closed from 3rd February for about four months due to renovation works.",
+   "gold": "From Feb 3, about 4 months, renovation",
+   "override": null
+  },
+  {
+   "tag": "original|P4|en",
+   "q": 2,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the three reading rooms are merged, and twelve new computer stations are added.",
+   "gold": "3 merged; 12 new",
+   "override": null
+  },
+  {
+   "tag": "original|P4|en",
+   "q": 3,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, borrowed books do not have to be returned during the closure.",
+   "gold": "No (need not; extended to end of June)",
+   "override": null
+  },
+  {
+   "tag": "original|P4|en",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, magazines cannot be borrowed at the temporary branch.",
+   "gold": "No (no space)",
+   "override": null
+  },
+  {
+   "tag": "original|P4|en",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the renovation costs around 2.4 million Euros, with two-thirds paid by the state.",
+   "gold": "About €2.4M; the state",
+   "override": null
+  },
+  {
+   "tag": "original|P4|en",
+   "q": 6,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the temporary branch is open from Tuesday to Friday from 10 to 17 hours.",
+   "gold": "Tue-Fri 10-17",
+   "override": null
+  },
+  {
+   "tag": "original|P4|en",
+   "q": 7,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the library had over 80,000 visitors last year.",
+   "gold": "Over 80,000",
+   "override": null
+  },
+  {
+   "tag": "original|P5|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, this routine runs every Saturday at 10:00, and Mercadona online is used.",
+   "gold": "Saturday 10:00, Mercadona online",
+   "override": null
+  },
+  {
+   "tag": "original|P5|en",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not pay now; you need Jordan's confirmation.",
+   "gold": "No, never pay without Jordan's confirmation",
+   "override": null
+  },
+  {
+   "tag": "original|P5|en",
+   "q": 3,
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes, you must ask Jordan before paying if the total is over 120 euros.",
+   "gold": "Ask Jordan what to remove",
+   "override": null
+  },
+  {
+   "tag": "original|P5|en",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you cannot swap gluten-free products for regular ones.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "original|P5|en",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, you can swap a brand for a cheaper equivalent brand.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "tag": "original|P5|en",
+   "q": 6,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you cannot order it from another store; skip it and note it in the list.",
+   "gold": "Skip it, note it on the list; don't order elsewhere",
+   "override": null
+  },
+  {
+   "tag": "original|P5|en",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, you choose the delivery on Sunday morning.",
+   "gold": "Sunday morning",
+   "override": null
+  },
+  {
+   "tag": "original|P5|en",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you cannot log in with another account; stop and inform Jordan.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "original|P5|en",
+   "q": 9,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the cart must be ready before 13:00 on Saturday.",
+   "gold": "Before 13:00 Saturday",
+   "override": null
+  },
+  {
+   "tag": "original|P5|es",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, esta rutina se ejecuta cada sábado a las 10:00 y se usa Mercadona online.",
+   "gold": "Saturday 10:00, Mercadona online",
+   "override": null
+  },
+  {
+   "tag": "original|P5|es",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debes pagar ahora. Debes esperar la confirmación de Jordan.",
+   "gold": "No, never pay without Jordan's confirmation",
+   "override": null
+  },
+  {
+   "tag": "original|P5|es",
+   "q": 3,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, primero debes preguntar a Jordan qué quitar.",
+   "gold": "Ask Jordan what to remove",
+   "override": null
+  },
+  {
+   "tag": "original|P5|es",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no puedes cambiarlo. Debes mantener los productos sin gluten.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "original|P5|es",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, puedes cambiarla por la marca más barata equivalente.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "tag": "original|P5|es",
+   "q": 6,
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "No, no puedes pedirla en otra tienda. La saltas y la apuntas en la lista.",
+   "gold": "Skip it, note it on the list; don't order elsewhere",
+   "override": "'no puedes pedirla en otra tienda. La saltas y la apuntas' = gold; regex order miss"
+  },
+  {
+   "tag": "original|P5|es",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, eliges siempre la entrega del domingo por la mañana.",
+   "gold": "Sunday morning",
+   "override": null
+  },
+  {
+   "tag": "original|P5|es",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no puedes entrar con otra cuenta. Debes para y avisar a Jordan.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "original|P5|es",
+   "q": 9,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, el carrito tiene que estar listo antes de las 13:00 del sábado.",
+   "gold": "Before 13:00 Saturday",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P1|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, this routine runs every Monday at 9 CT.",
+   "gold": "Monday 9:00 Central",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P1|en",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not send the email now. You should wait for Jordan's approval.",
+   "gold": "No, never without Jordan's approval",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P1|en",
+   "q": 3,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, Jordan must approve an email before it is sent.",
+   "gold": "Jordan",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P1|en",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not remind him again. The text states you should not remind more than once per brand.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P1|en",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not contact a brand with fewer than 5000 followers.",
+   "gold": "No (minimum 5,000)",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P1|en",
+   "q": 6,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not contact a brand that replied in the last 30 days.",
+   "gold": "No, skip",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P1|en",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you are not allowed to delete rows in the sheet. You must update the Status column.",
+   "gold": "Delete: no. Status: yes",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P1|en",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not quote a price. You should inform Jordan and let him answer.",
+   "gold": "Don't quote a price; tell Jordan and let him answer",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P1|en",
+   "q": 9,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, Jordan should be described as a business developer and entrepreneur. No, he cannot be called a coach.",
+   "gold": "Business developer and entrepreneur; never a coach",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P1|en",
+   "q": 10,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should stop and tell Jordan instead of using the browser.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P1|en",
+   "q": 11,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, drafts should be ready by noon on Monday. By 17, you should send Jordan a short summary with the number of waiting drafts.",
+   "gold": "Drafts by noon Monday; summary by 5 p.m.",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P1|es",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, esta rutina se ejecuta todos los lunes a las 9 AM CT.",
+   "gold": "Monday 9:00 Central",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P1|es",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debo enviar el correo ahora. Debo esperar hasta que Jordan apruebe el borrador.",
+   "gold": "No, never without Jordan's approval",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P1|es",
+   "q": 3,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Jordan debe aprobar un correo antes de enviarlo.",
+   "gold": "Jordan",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P1|es",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debo recordar a Jordan más de una vez por marca.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P1|es",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debo contactar a una marca con menos de 5000 seguidores.",
+   "gold": "No (minimum 5,000)",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P1|es",
+   "q": 6,
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Sí, debo contactar a una marca que haya respondido hace más de 30 días.",
+   "gold": "No, skip",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P1|es",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no puedo borrar filas de la hoja; sí, puedo cambiar la columna Status.",
+   "gold": "Delete: no. Status: yes",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P1|es",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debo cotizar precio. Debo informar a Jordan y dejar que él responda.",
+   "gold": "Don't quote a price; tell Jordan and let him answer",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P1|es",
+   "q": 9,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Se debe describir a Jordan como business developer + entrepreneur; no, no se le puede llamar coach/entrenador.",
+   "gold": "Business developer and entrepreneur; never a coach",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P1|es",
+   "q": 10,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, si el conector de Gmail está desconectado, debo detenerme y informar a Jordan en lugar de usar el navegador.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P1|es",
+   "q": 11,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Los borradores deben estar listos para el mediodía del lunes; el resumen debe enviarse a Jordan a las 5 PM del lunes.",
+   "gold": "Drafts by noon Monday; summary by 5 p.m.",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P2|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, grade4 students go on the trip to Valdemar Science Museum on Thu Mar12.",
+   "gold": "4th grade, Valdemar Science Museum, Thu March 12",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P2|en",
+   "q": 2,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, three buses.",
+   "gold": "3",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P2|en",
+   "q": 3,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the trip costs €14 per student this year, and last year it was €18.",
+   "gold": "€14; €18 last year",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P2|en",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, students need not bring money.",
+   "gold": "No, not needed (not forbidden)",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P2|en",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, without permission, they cannot board the bus.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P2|en",
+   "q": 6,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, parent volunteers should write to tutor Mrs Gil by Fri6.",
+   "gold": "Mrs Gil (tutor), before Friday 6",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P2|en",
+   "q": 7,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, because they cannot buy food in the museum.",
+   "gold": "Food cannot be bought at the museum",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P2|es",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, los alumnos de 4º grado van de excursión al Valdemar Science Museum el jueves 12 de marzo.",
+   "gold": "4th grade, Valdemar Science Museum, Thu March 12",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P2|es",
+   "q": 2,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, se utilizarán tres autobuses.",
+   "gold": "3",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P2|es",
+   "q": 3,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, el costo de la excursión este año es de €14 por estudiante, mientras que el año pasado era de €18.",
+   "gold": "€14; €18 last year",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P2|es",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, los alumnos no tienen que llevar dinero.",
+   "gold": "No, not needed (not forbidden)",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P2|es",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, sin la autorización firmada, un estudiante no puede subir al autobús.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P2|es",
+   "q": 6,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, los padres voluntarios deben escribir a la tutora Mrs. Gil antes del viernes 6.",
+   "gold": "Mrs Gil (tutor), before Friday 6",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P2|es",
+   "q": 7,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, los alumnos con alergias deben informar a los profesores porque no se puede comprar comida en el museo.",
+   "gold": "Food cannot be bought at the museum",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P3|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, it is Grandma's party for her 80th birthday on Sun Apr20.",
+   "gold": "Grandma's 80th, Sunday April 20 at 18:00",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P3|en",
+   "q": 2,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Twelve people are reserved for the party.",
+   "gold": "12",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P3|en",
+   "q": 3,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, people should come by subway because the restaurant parking is small and reportedly cannot park ≥6 cars.",
+   "gold": "Parking is small; reportedly can't fit 6 or more cars",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P3|en",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "민준 brings the cake, and the speaker will prepare the flowers.",
+   "gold": "Minjun cake; writer flowers",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P3|en",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, each person should not buy their own gift.",
+   "gold": "No; pool money for a massage chair",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P3|en",
+   "q": 6,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, each household should send ₩100000 by Apr10.",
+   "gold": "100,000 won by April 10",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P3|en",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should never tell grandma about the party in advance.",
+   "gold": "No, never (surprise)",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P3|en",
+   "q": 8,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, a mild menu was chosen because Grandma cannot eat spicy food.",
+   "gold": "Grandma can't eat spicy food",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P4|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the library closes from Feb3 for four months because of renovation.",
+   "gold": "From Feb 3, about 4 months, renovation",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P4|en",
+   "q": 2,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, three reading rooms are merged and twelve new computer stations are added.",
+   "gold": "3 merged; 12 new",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P4|en",
+   "q": 3,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, borrowed books do not have to be returned during the closure.",
+   "gold": "No (need not; extended to end of June)",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P4|en",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, magazines cannot be borrowed at the temporary branch.",
+   "gold": "No (no space)",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P4|en",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the renovation costs €2.4M, and the state pays two thirds.",
+   "gold": "About €2.4M; the state",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P4|en",
+   "q": 6,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the temporary branch is open Tue-Fri @10-17.",
+   "gold": "Tue-Fri 10-17",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P4|en",
+   "q": 7,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the library had over 80,000 visitors last year.",
+   "gold": "Over 80,000",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P5|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, this routine runs every Saturday, and Mercadona is the store used.",
+   "gold": "Saturday 10:00, Mercadona online",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P5|en",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not pay now.",
+   "gold": "No, never pay without Jordan's confirmation",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P5|en",
+   "q": 3,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, you must first ask Jordan what to remove.",
+   "gold": "Ask Jordan what to remove",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P5|en",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you cannot swap it.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P5|en",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, you can swap it.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P5|en",
+   "q": 6,
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, you cannot order it from another store.",
+   "gold": "Skip it, note it on the list; don't order elsewhere",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P5|en",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "You choose Sun morning delivery.",
+   "gold": "Sunday morning",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P5|en",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you cannot log in with another account.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P5|en",
+   "q": 9,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The cart must be ready before 13:00 on Saturday.",
+   "gold": "Before 13:00 Saturday",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P5|es",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, esta rutina se ejecuta cada sábado y se usa Mercadona.",
+   "gold": "Saturday 10:00, Mercadona online",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P5|es",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no se debe pagar ahora.",
+   "gold": "No, never pay without Jordan's confirmation",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P5|es",
+   "q": 3,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, primero debes preguntar a Jordan qué items remover.",
+   "gold": "Ask Jordan what to remove",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P5|es",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no puedes cambiar el pan sin gluten por uno normal.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P5|es",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, puedes cambiar el aceite por la marca más barata.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P5|es",
+   "q": 6,
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, no puedes pedirla en otra tienda.",
+   "gold": "Skip it, note it on the list; don't order elsewhere",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P5|es",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, siempre eliges la entrega de domingo por la mañana.",
+   "gold": "Sunday morning",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P5|es",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no puedes entrar con otra cuenta.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "mnc3|P5|es",
+   "q": 9,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, el carrito debe estar listo antes de las 13:00 el sábado.",
+   "gold": "Before 13:00 Saturday",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P1|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, this routine runs every Monday at 9 CT.",
+   "gold": "Monday 9:00 Central",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P1|en",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not send the email now. The text states that you should never send an email without Jordan's approval.",
+   "gold": "No, never without Jordan's approval",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P1|en",
+   "q": 3,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, Jordan must approve an email before it is sent.",
+   "gold": "Jordan",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P1|en",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not remind him again. The text specifies that you should not remind more than once per brand.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P1|en",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not contact a brand with fewer than 5000 followers.",
+   "gold": "No (minimum 5,000)",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P1|en",
+   "q": 6,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not contact a brand that replied in the last 30 days.",
+   "gold": "No, skip",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P1|en",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you are not allowed to delete rows in the sheet. You must update the Status column but not delete rows.",
+   "gold": "Delete: no. Status: yes",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P1|en",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should tell Jordan to answer the brand about the rates.",
+   "gold": "Don't quote a price; tell Jordan and let him answer",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P1|en",
+   "q": 9,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, Jordan should be described as a business developer entrepreneur, and he cannot be called a coach.",
+   "gold": "Business developer and entrepreneur; never a coach",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P1|en",
+   "q": 10,
+   "type": "S",
+   "auto": 1,
+   "final": 0,
+   "answer": "No, you should not send the emails through the browser. The text states that you should stop telling Jordan if the Gmail connector is disconnected.",
+   "gold": "No; stop and tell Jordan",
+   "override": "'you should stop telling Jordan' reads as the opposite of stop+tell; strict fail"
+  },
+  {
+   "tag": "mnc3x|P1|en",
+   "q": 11,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the drafts should be ready by noon on Monday, and the summary must be sent by 17:00 on Monday.",
+   "gold": "Drafts by noon Monday; summary by 5 p.m.",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P1|es",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, esta rutina se ejecuta todos los lunes a las 9 AM CT.",
+   "gold": "Monday 9:00 Central",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P1|es",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debo enviar el correo ahora. Debo esperar hasta que Jordan apruebe el borrador.",
+   "gold": "No, never without Jordan's approval",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P1|es",
+   "q": 3,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Jordan debe aprobar el correo antes de enviarlo.",
+   "gold": "Jordan",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P1|es",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debo recordar a Jordan de nuevo sobre esta marca. No se deben recordar más de una vez por marca.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P1|es",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debo contactar a una marca con menos de 5000 seguidores.",
+   "gold": "No (minimum 5,000)",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P1|es",
+   "q": 6,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debo contactar a una marca que haya respondido en los últimos 30 días.",
+   "gold": "No, skip",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P1|es",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no puedo borrar filas de la hoja. Sí, puedo actualizar la columna Status.",
+   "gold": "Delete: no. Status: yes",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P1|es",
+   "q": 8,
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "No, no puedo responder sobre precios. Debo decir a Jordan que lo haga.",
+   "gold": "Don't quote a price; tell Jordan and let him answer",
+   "override": "'no puedo responder sobre precios. Debo decir a Jordan' = gold; regex miss"
+  },
+  {
+   "tag": "mnc3x|P1|es",
+   "q": 9,
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Sí, se debe describir a Jordan como un empresario desarrollador de negocios. No, no se le puede llamar coach o entrenador.",
+   "gold": "Business developer and entrepreneur; never a coach",
+   "override": "'empresario desarrollador de negocios... no coach' = gold; regex miss"
+  },
+  {
+   "tag": "mnc3x|P1|es",
+   "q": 10,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debo enviar los correos desde el navegador. Debo informar a Jordan sobre la desconexión.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P1|es",
+   "q": 11,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Los borradores deben estar listos para el mediodía del lunes. El resumen se debe enviar a las 5 PM del lunes.",
+   "gold": "Drafts by noon Monday; summary by 5 p.m.",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P2|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, grade4 students go on the trip to Valdemar Science Museum on Thu Mar12.",
+   "gold": "4th grade, Valdemar Science Museum, Thu March 12",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P2|en",
+   "q": 2,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, three buses.",
+   "gold": "3",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P2|en",
+   "q": 3,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the trip costs €14 per student this year, and last year it was €18.",
+   "gold": "€14; €18 last year",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P2|en",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, students need not bring money.",
+   "gold": "No, not needed (not forbidden)",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P2|en",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, without permission, they cannot board the bus.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P2|en",
+   "q": 6,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, parent volunteers should write to tutor Mrs Gil by Fri6.",
+   "gold": "Mrs Gil (tutor), before Friday 6",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P2|en",
+   "q": 7,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, because they cannot buy food in the museum.",
+   "gold": "Food cannot be bought at the museum",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P2|es",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, los alumnos de 4º grado van de excursión al Valdemar Science Museum el jueves 12 de marzo.",
+   "gold": "4th grade, Valdemar Science Museum, Thu March 12",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P2|es",
+   "q": 2,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, tres autobuses.",
+   "gold": "3",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P2|es",
+   "q": 3,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, el costo este año es €14 por estudiante, mientras que el año pasado era €18.",
+   "gold": "€14; €18 last year",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P2|es",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no tienen que llevar dinero.",
+   "gold": "No, not needed (not forbidden)",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P2|es",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, sin autorización firmada no pueden subir al autobús.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P2|es",
+   "q": 6,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, los padres voluntarios deben escribir al tutor Mrs. Gil antes del viernes 6 de marzo.",
+   "gold": "Mrs Gil (tutor), before Friday 6",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P2|es",
+   "q": 7,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, los alumnos con alergias deben avisar a los profesores porque no se puede comprar comida en el museo.",
+   "gold": "Food cannot be bought at the museum",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P3|en",
+   "q": 1,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes, it is Grandma's party for her 80th birthday.",
+   "gold": "Grandma's 80th, Sunday April 20 at 18:00",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P3|en",
+   "q": 2,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Twelve people are reserved for the party.",
+   "gold": "12",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P3|en",
+   "q": 3,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, people should come by subway because the restaurant's parking is small and reportedly cannot park more than 6 cars.",
+   "gold": "Parking is small; reportedly can't fit 6 or more cars",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P3|en",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "민준 brings the cake, and the speaker will prepare the flowers.",
+   "gold": "Minjun cake; writer flowers",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P3|en",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, each person should not buy their own gift.",
+   "gold": "No; pool money for a massage chair",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P3|en",
+   "q": 6,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, each household should send ₩100,000, and it should be sent by Apr10.",
+   "gold": "100,000 won by April 10",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P3|en",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should never tell grandma about the party in advance.",
+   "gold": "No, never (surprise)",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P3|en",
+   "q": 8,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, a mild menu was chosen because Grandma cannot eat spicy food.",
+   "gold": "Grandma can't eat spicy food",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P4|en",
+   "q": 1,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes",
+   "gold": "From Feb 3, about 4 months, renovation",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P4|en",
+   "q": 2,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes",
+   "gold": "3 merged; 12 new",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P4|en",
+   "q": 3,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No (need not; extended to end of June)",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P4|en",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No (no space)",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P4|en",
+   "q": 5,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes",
+   "gold": "About €2.4M; the state",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P4|en",
+   "q": 6,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes",
+   "gold": "Tue-Fri 10-17",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P4|en",
+   "q": 7,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes",
+   "gold": "Over 80,000",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P5|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, this routine runs every Saturday, and Mercadona is the store used.",
+   "gold": "Saturday 10:00, Mercadona online",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P5|en",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not pay now.",
+   "gold": "No, never pay without Jordan's confirmation",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P5|en",
+   "q": 3,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, you must first ask Jordan what to remove.",
+   "gold": "Ask Jordan what to remove",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P5|en",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you cannot swap it.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P5|en",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, you can swap it.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P5|en",
+   "q": 6,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you cannot order it from another store; skip it and note the list.",
+   "gold": "Skip it, note it on the list; don't order elsewhere",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P5|en",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, you always choose Sun morning delivery.",
+   "gold": "Sunday morning",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P5|en",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you must tell Jordan and not try logging in with another account.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P5|en",
+   "q": 9,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "By 13:00 on Saturday, the cart must be ready.",
+   "gold": "Before 13:00 Saturday",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P5|es",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, esta rutina se ejecuta cada sábado y se usa Mercadona.",
+   "gold": "Saturday 10:00, Mercadona online",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P5|es",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no se debe pagar ahora.",
+   "gold": "No, never pay without Jordan's confirmation",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P5|es",
+   "q": 3,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, primero debes preguntar a Jordan qué items debe eliminar.",
+   "gold": "Ask Jordan what to remove",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P5|es",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no puedes cambiar el pan sin gluten por uno normal.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P5|es",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, puedes cambiar el aceite por la marca más barata.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P5|es",
+   "q": 6,
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, no puedes pedirla en otra tienda.",
+   "gold": "Skip it, note it on the list; don't order elsewhere",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P5|es",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, siempre eliges la entrega el día domingo por la mañana.",
+   "gold": "Sunday morning",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P5|es",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no puedes entrar con otra cuenta.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "mnc3x|P5|es",
+   "q": 9,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, el carrito debe estar listo antes de las 13:00 el sábado.",
+   "gold": "Before 13:00 Saturday",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P1|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, every Monday at 9 CT.",
+   "gold": "Monday 9:00 Central",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P1|en",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, because you must wait for Jordan's approval before sending the email.",
+   "gold": "No, never without Jordan's approval",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P1|en",
+   "q": 3,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, Jordan must approve an email before it is sent.",
+   "gold": "Jordan",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P1|en",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, because you are not allowed to remind him more than once per brand.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P1|en",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, because the brand must have at least 5000 followers.",
+   "gold": "No (minimum 5,000)",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P1|en",
+   "q": 6,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, because you should skip brands that replied in the last 30 days.",
+   "gold": "No, skip",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P1|en",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you must not delete rows but can update the Status column.",
+   "gold": "Delete: no. Status: yes",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P1|en",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "You should tell Jordan and let him answer.",
+   "gold": "Don't quote a price; tell Jordan and let him answer",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P1|en",
+   "q": 9,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, Jordan should be described as a business developer and entrepreneur; no, he cannot be called a coach.",
+   "gold": "Business developer and entrepreneur; never a coach",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P1|en",
+   "q": 10,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should stop and inform Jordan instead of using the browser.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P1|en",
+   "q": 11,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Drafts should be ready by noon on Monday, and the summary must be sent by 17:00.",
+   "gold": "Drafts by noon Monday; summary by 5 p.m.",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P1|es",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, esta rutina se ejecuta todos los lunes a las 9:00 CT.",
+   "gold": "Monday 9:00 Central",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P1|es",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debes enviar el correo ahora. Debes esperar hasta que Jordan apruebe el borrador y lo incluyas en la tarjeta de aprobación.",
+   "gold": "No, never without Jordan's approval",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P1|es",
+   "q": 3,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, un correo debe ser aprobado por Jordan antes de enviarlo.",
+   "gold": "Jordan",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P1|es",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debes recordar a Jordan más de una vez por marca.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P1|es",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, solo debes contactar marcas con ≥5000 seguidores.",
+   "gold": "No (minimum 5,000)",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P1|es",
+   "q": 6,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, debes saltarte marcas que hayan respondido en los últimos 30 días.",
+   "gold": "No, skip",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P1|es",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no puedes borrar filas, pero sí puedes actualizar la columna Status.",
+   "gold": "Delete: no. Status: yes",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P1|es",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, si una marca pregunta por los precios, debes informar a Jordan y dejar que él responda.",
+   "gold": "Don't quote a price; tell Jordan and let him answer",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P1|es",
+   "q": 9,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, se debe describir a Jordan como un desarrollador de negocios y emprendedor. No se debe llamar a Jordan coach o entrenador.",
+   "gold": "Business developer and entrepreneur; never a coach",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P1|es",
+   "q": 10,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, si el conector de Gmail está desconectado, debes detener la rutina y informar a Jordan en lugar de usar el navegador.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P1|es",
+   "q": 11,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Los borradores deben estar listos para el mediodía de lunes. El resumen debe enviarse a las 17:00 de lunes.",
+   "gold": "Drafts by noon Monday; summary by 5 p.m.",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P2|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, grade 4 students go on the trip to Valdemar Science Museum on Thu Mar 12.",
+   "gold": "4th grade, Valdemar Science Museum, Thu March 12",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P2|en",
+   "q": 2,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, three buses.",
+   "gold": "3",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P2|en",
+   "q": 3,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the trip costs €14 per student this year, and last year it was €18.",
+   "gold": "€14; €18 last year",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P2|en",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, students do not need to bring money.",
+   "gold": "No, not needed (not forbidden)",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P2|en",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, without permission, they cannot board the bus.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P2|en",
+   "q": 6,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, parents should write to tutor Mrs Gil by Fri 6.",
+   "gold": "Mrs Gil (tutor), before Friday 6",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P2|en",
+   "q": 7,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, because they cannot buy food in the museum.",
+   "gold": "Food cannot be bought at the museum",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P2|es",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, los alumnos de 4º grado van de excursión al Valdemar Science Museum el jueves 12 de marzo.",
+   "gold": "4th grade, Valdemar Science Museum, Thu March 12",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P2|es",
+   "q": 2,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, se utilizarán tres autobuses.",
+   "gold": "3",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P2|es",
+   "q": 3,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, este año la excursión cuesta €14 por estudiante, mientras que el año pasado costaba €18.",
+   "gold": "€14; €18 last year",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P2|es",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, los alumnos no tienen que llevar dinero.",
+   "gold": "No, not needed (not forbidden)",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P2|es",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, sin la autorización firmada no pueden subir al autobús.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P2|es",
+   "q": 6,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, los padres voluntarios deben escribir a la tutora Mrs Gil antes del viernes 6 de marzo.",
+   "gold": "Mrs Gil (tutor), before Friday 6",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P2|es",
+   "q": 7,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, los alumnos con alergias deben avisar al profesorado porque no se puede comprar comida en el museo.",
+   "gold": "Food cannot be bought at the museum",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P3|en",
+   "q": 1,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes, it is for grandma's 80th birthday party.",
+   "gold": "Grandma's 80th, Sunday April 20 at 18:00",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P3|en",
+   "q": 2,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Twelve people are reserved.",
+   "gold": "12",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P3|en",
+   "q": 3,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, because the restaurant parking is small and reportedly cannot park ≥6 cars.",
+   "gold": "Parking is small; reportedly can't fit 6 or more cars",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P3|en",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "민준 brings the cake; the sender will prepare flowers.",
+   "gold": "Minjun cake; writer flowers",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P3|en",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, they should not buy each.",
+   "gold": "No; pool money for a massage chair",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P3|en",
+   "q": 6,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, each household sends ₩100000, by Apr10.",
+   "gold": "100,000 won by April 10",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P3|en",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not tell grandma beforehand!",
+   "gold": "No, never (surprise)",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P3|en",
+   "q": 8,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, because grandma cannot eat spicy food.",
+   "gold": "Grandma can't eat spicy food",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P4|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the library closes from Feb 3 for about four months because of renovation.",
+   "gold": "From Feb 3, about 4 months, renovation",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P4|en",
+   "q": 2,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, three reading rooms are merged and twelve new computer stations are set up.",
+   "gold": "3 merged; 12 new",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P4|en",
+   "q": 3,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, borrowed books do not have to be returned during the closure.",
+   "gold": "No (need not; extended to end of June)",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P4|en",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, magazines cannot be borrowed at the temporary branch.",
+   "gold": "No (no space)",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P4|en",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the renovation costs about €2.4M, and the state pays two thirds.",
+   "gold": "About €2.4M; the state",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P4|en",
+   "q": 6,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the temporary branch is open Tuesday to Friday from 10-17.",
+   "gold": "Tue-Fri 10-17",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P4|en",
+   "q": 7,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the library had over 80,000 visitors last year.",
+   "gold": "Over 80,000",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P5|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, this routine runs every Saturday at Casa, using Mercadona online.",
+   "gold": "Saturday 10:00, Mercadona online",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P5|en",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not pay now.",
+   "gold": "No, never pay without Jordan's confirmation",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P5|en",
+   "q": 3,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, you must first ask Jordan what to remove.",
+   "gold": "Ask Jordan what to remove",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P5|en",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you cannot swap it.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P5|en",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, you can swap it.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P5|en",
+   "q": 6,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you cannot order it from another store; skip it and note on the list.",
+   "gold": "Skip it, note it on the list; don't order elsewhere",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P5|en",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sun morning delivery.",
+   "gold": "Sunday morning",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P5|en",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you cannot log in with another account.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P5|en",
+   "q": 9,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "By 13:00 on Saturday.",
+   "gold": "Before 13:00 Saturday",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P5|es",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, se ejecuta cada sábado y se usa Mercadona.",
+   "gold": "Saturday 10:00, Mercadona online",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P5|es",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debes pagar ahora.",
+   "gold": "No, never pay without Jordan's confirmation",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P5|es",
+   "q": 3,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, primero debes preguntar a Jordan qué se debe eliminar.",
+   "gold": "Ask Jordan what to remove",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P5|es",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no puedes cambiarlo.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P5|es",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, puedes cambiarla por la marca equivalente más barata.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P5|es",
+   "q": 6,
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "No, no puedes pedirla en otra tienda; la notas en la lista y la omites.",
+   "gold": "Skip it, note it on the list; don't order elsewhere",
+   "override": "'no puedes pedirla en otra tienda; la notas en la lista y la omites' = gold"
+  },
+  {
+   "tag": "mnc3_nokey|P5|es",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, eliges la entrega el domingo por la mañana.",
+   "gold": "Sunday morning",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P5|es",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no puedes entrar con otra cuenta.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "mnc3_nokey|P5|es",
+   "q": 9,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, el carrito debe estar listo antes de las 13:00 el sábado.",
+   "gold": "Before 13:00 Saturday",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P1|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, every Monday at 9 a.m. Central.",
+   "gold": "Monday 9:00 Central",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P1|en",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 0,
+   "answer": "No, you should not send the email now. You are instructed to remind once if no response in 48 hours.",
+   "gold": "No, never without Jordan's approval",
+   "override": "yes/no right but 'why' wrong (cites reminder rule, not approval)"
+  },
+  {
+   "tag": "a_terse|P1|en",
+   "q": 3,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, Jordan must approve an email before it is sent.",
+   "gold": "Jordan",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P1|en",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not remind him again. The text states to remind once if no response in 48 hours.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P1|en",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not contact a brand with fewer than 5,000 followers.",
+   "gold": "No (minimum 5,000)",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P1|en",
+   "q": 6,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should skip brands that replied in the last 30 days.",
+   "gold": "No, skip",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P1|en",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you are not allowed to delete rows in the sheet. You are allowed to update the Status column.",
+   "gold": "Delete: no. Status: yes",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P1|en",
+   "q": 8,
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "You describe Jordan as a business developer, not a coach, and do not quote rates if asked.",
+   "gold": "Don't quote a price; tell Jordan and let him answer",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P1|en",
+   "q": 9,
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, Jordan should be described as a business developer, not a coach.",
+   "gold": "Business developer and entrepreneur; never a coach",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P1|en",
+   "q": 10,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should inform Jordan if the Gmail connector is disconnected.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P1|en",
+   "q": 11,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, drafts are due by noon, and the summary must be sent by 5 p.m.",
+   "gold": "Drafts by noon Monday; summary by 5 p.m.",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P1|es",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, esta rutina se ejecuta todos los lunes a las 9 a.m. Central.",
+   "gold": "Monday 9:00 Central",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P1|es",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 0,
+   "answer": "No, no debo enviar el correo ahora. Debo esperar 48 horas más sin respuesta de Jordan antes de enviarlo.",
+   "gold": "No, never without Jordan's approval",
+   "override": "'esperar 48 horas más... antes de enviarlo' implies sending without approval"
+  },
+  {
+   "tag": "a_terse|P1|es",
+   "q": 3,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, un correo debe ser aprobado por Jordan antes de enviarlo.",
+   "gold": "Jordan",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P1|es",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debo recordar a Jordan otra vez. El procedimiento es recordarle una vez si no hay respuesta en 48 horas.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P1|es",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debo contactar a una marca que tenga menos de 5,000 seguidores.",
+   "gold": "No (minimum 5,000)",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P1|es",
+   "q": 6,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debo contactar a una marca que haya respondido en los últimos 30 días.",
+   "gold": "No, skip",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P1|es",
+   "q": 7,
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "No, no se pueden borrar filas de la hoja. Se puede actualizar la columna Status, pero no se pueden eliminar filas.",
+   "gold": "Delete: no. Status: yes",
+   "override": "delete no / Status yes = gold; regex miss"
+  },
+  {
+   "tag": "a_terse|P1|es",
+   "q": 8,
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Si una marca pregunta cuánto cobra Jordan, describo los servicios y dejo claro que no puedo citar tarifas.",
+   "gold": "Don't quote a price; tell Jordan and let him answer",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P1|es",
+   "q": 9,
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Se debe describir a Jordan como business developer, no como coach o entrenador.",
+   "gold": "Business developer and entrepreneur; never a coach",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P1|es",
+   "q": 10,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, si el conector de Gmail está desconectado, debo informar a Jordan para que lo solucione.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P1|es",
+   "q": 11,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Los borradores deben estar listos para las 12 p.m., y el resumen debe ser enviado a las 5 p.m.",
+   "gold": "Drafts by noon Monday; summary by 5 p.m.",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P2|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, 12th of March, fourth-grade students go on the trip to the Museo de Ciencias Valdemar.",
+   "gold": "4th grade, Valdemar Science Museum, Thu March 12",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P2|en",
+   "q": 2,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, the number of buses is not specified.",
+   "gold": "3",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P2|en",
+   "q": 3,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, the cost for this year is 14 euros per student, but last year's cost is not mentioned.",
+   "gold": "€14; €18 last year",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P2|en",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 0,
+   "answer": "No, students are not to bring money.",
+   "gold": "No, not needed (not forbidden)",
+   "override": "'not to bring money' = needn't flipped to prohibition"
+  },
+  {
+   "tag": "a_terse|P2|en",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, students need to have the signed permission to board the bus.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P2|en",
+   "q": 6,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes, parents should write to the secretaría before the 6th of March.",
+   "gold": "Mrs Gil (tutor), before Friday 6",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P2|en",
+   "q": 7,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes, students with allergies should tell the teachers to be aware of their condition.",
+   "gold": "Food cannot be bought at the museum",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P2|es",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, los alumnos del cuarto grado van de excursión al Museo de Ciencias Valdemar el 12 de marzo.",
+   "gold": "4th grade, Valdemar Science Museum, Thu March 12",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P2|es",
+   "q": 2,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, el número de autobuses no se menciona en el texto.",
+   "gold": "3",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P2|es",
+   "q": 3,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Sí, el costo por alumno es de 14 euros este año, pero no se menciona el costo del año pasado.",
+   "gold": "€14; €18 last year",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P2|es",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, los alumnos no tienen que llevar dinero.",
+   "gold": "No, not needed (not forbidden)",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P2|es",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, un alumno que olvidó la autorización firmada no puede subir al autobús.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P2|es",
+   "q": 6,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Sí, los padres voluntarios deben escribir al profesorado antes del 6 de marzo.",
+   "gold": "Mrs Gil (tutor), before Friday 6",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P2|es",
+   "q": 7,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Sí, los alumnos con alergias deben avisar al profesorado para que puedan tomar medidas de seguridad.",
+   "gold": "Food cannot be bought at the museum",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P3|en",
+   "q": 1,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes",
+   "gold": "Grandma's 80th, Sunday April 20 at 18:00",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P3|en",
+   "q": 2,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12",
+   "gold": "12",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P3|en",
+   "q": 3,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes",
+   "gold": "Parking is small; reportedly can't fit 6 or more cars",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P3|en",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Minjun, you",
+   "gold": "Minjun cake; writer flowers",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P3|en",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No; pool money for a massage chair",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P3|en",
+   "q": 6,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "100,000 won per family by Apr 10",
+   "gold": "100,000 won by April 10",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P3|en",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No, never (surprise)",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P3|en",
+   "q": 8,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes",
+   "gold": "Grandma can't eat spicy food",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P4|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, from 3 February for 4 months due to renovation.",
+   "gold": "From Feb 3, about 4 months, renovation",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P4|en",
+   "q": 2,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, reading rooms are not merged, but 12 new computer stations are added.",
+   "gold": "3 merged; 12 new",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P4|en",
+   "q": 3,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, books can be borrowed at the temporary branch without having to return them during the closure.",
+   "gold": "No (need not; extended to end of June)",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P4|en",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, magazines are not available.",
+   "gold": "No (no space)",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P4|en",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the renovation costs 2.4 million Euros, and the land pays two-thirds.",
+   "gold": "About €2.4M; the state",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P4|en",
+   "q": 6,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, the text does not specify opening hours for the temporary branch.",
+   "gold": "Tue-Fri 10-17",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P4|en",
+   "q": 7,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, the text does not mention the number of visitors the library had last year.",
+   "gold": "Over 80,000",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P5|en",
+   "q": 1,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "No",
+   "gold": "Saturday 10:00, Mercadona online",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P5|en",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No, never pay without Jordan's confirmation",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P5|en",
+   "q": 3,
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Ask Jordan first",
+   "gold": "Ask Jordan what to remove",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P5|en",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P5|en",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P5|en",
+   "q": 6,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Anote, no cambies",
+   "gold": "Skip it, note it on the list; don't order elsewhere",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P5|en",
+   "q": 7,
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Domingo amanecer",
+   "gold": "Sunday morning",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P5|en",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P5|en",
+   "q": 9,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Antes 13:00 sábado",
+   "gold": "Before 13:00 Saturday",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P5|es",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, esta rutina se ejecuta el sábado y se usa Mercadona online.",
+   "gold": "Saturday 10:00, Mercadona online",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P5|es",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debes pagar ahora si el carrito está listo y cuesta 95 €.",
+   "gold": "No, never pay without Jordan's confirmation",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P5|es",
+   "q": 3,
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Debes preguntar antes si el total es 140 €.",
+   "gold": "Ask Jordan what to remove",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P5|es",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no puedes cambiarlo si el pan sin gluten es caro y uno normal es más barato.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P5|es",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, puedes cambiarla por una marca equivalente más barata.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P5|es",
+   "q": 6,
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Anotas que está agotado y no cambias el producto. No puedes pedirla en otra tienda según el texto.",
+   "gold": "Skip it, note it on the list; don't order elsewhere",
+   "override": "notes it + won't order elsewhere; skip implied"
+  },
+  {
+   "tag": "a_terse|P5|es",
+   "q": 7,
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Eliges entrega domingo amanecer si Jordan no ha dicho nada.",
+   "gold": "Sunday morning",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P5|es",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no puedes entrar con otra cuenta si la web pide un código de verificación.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "a_terse|P5|es",
+   "q": 9,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "El carrito debe estar listo antes de las 13:00 sábado.",
+   "gold": "Before 13:00 Saturday",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P1|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, this routine runs on Monday at 9 a.m. Central.",
+   "gold": "Monday 9:00 Central",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P1|en",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not send the email now. You are required to place drafts in approval cards and remind after 48 hours if not answered.",
+   "gold": "No, never without Jordan's approval",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P1|en",
+   "q": 3,
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes, approval is required before sending.",
+   "gold": "Jordan",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P1|en",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not remind him again. The text states to remind after 48 hours if not answered, and you have already done that.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P1|en",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not contact it as it has fewer than 5,000 followers.",
+   "gold": "No (minimum 5,000)",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P1|en",
+   "q": 6,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not contact it as it replied within the last 30 days.",
+   "gold": "No, skip",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P1|en",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you are not allowed to delete rows in the sheet. You are allowed to change the Status column.",
+   "gold": "Delete: no. Status: yes",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P1|en",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should inform Jordan without quoting prices.",
+   "gold": "Don't quote a price; tell Jordan and let him answer",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P1|en",
+   "q": 9,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, Jordan should be described as a business developer and entrepreneur. No, he cannot be called a coach.",
+   "gold": "Business developer and entrepreneur; never a coach",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P1|en",
+   "q": 10,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should inform Jordan that the Gmail connector is disconnected.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P1|en",
+   "q": 11,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, drafts must be ready by noon on Monday, and the summary must be sent by 5 p.m.",
+   "gold": "Drafts by noon Monday; summary by 5 p.m.",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P1|es",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, esta rutina se ejecuta todos los lunes a las 9 a.m. Central.",
+   "gold": "Monday 9:00 Central",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P1|es",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debo enviar el correo ahora. Debo colocar el borrador en las tarjetas de aprobación y recordar a Jordan después de 48 horas si no ha respondido.",
+   "gold": "No, never without Jordan's approval",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P1|es",
+   "q": 3,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, un borrador debe ser aprobado por Jordan antes de enviarlo.",
+   "gold": "Jordan",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P1|es",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 0,
+   "answer": "No, ya que ha pasado más de 48 horas desde que le recordaste, no es necesario recordárselo otra vez.",
+   "gold": "No",
+   "override": "'No' but reason wrong ('ya pasaron 48 h, no es necesario')"
+  },
+  {
+   "tag": "b_summarize|P1|es",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no se debe contactar a una marca que tenga menos de 5,000 seguidores.",
+   "gold": "No (minimum 5,000)",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P1|es",
+   "q": 6,
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Sí, se debe contactar a una marca que haya respondido hace más de 30 días.",
+   "gold": "No, skip",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P1|es",
+   "q": 7,
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "No, no se pueden borrar filas de la hoja. Se puede actualizar la columna Status, pero no se deben eliminar filas.",
+   "gold": "Delete: no. Status: yes",
+   "override": "delete no / Status yes = gold; regex miss"
+  },
+  {
+   "tag": "b_summarize|P1|es",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Informo a Jordan sobre la consulta de tarifa sin citar un precio.",
+   "gold": "Don't quote a price; tell Jordan and let him answer",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P1|es",
+   "q": 9,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Se debe describir a Jordan como un desarrollador de negocios y emprendedor. No se puede llamar a Jordan coach/entrenador según el texto.",
+   "gold": "Business developer and entrepreneur; never a coach",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P1|es",
+   "q": 10,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, si el conector de Gmail está desconectado, debo informar a Jordan.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P1|es",
+   "q": 11,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Los borradores deben estar listos para las 12 p.m. y se debe enviar el resumen a las 5 p.m.",
+   "gold": "Drafts by noon Monday; summary by 5 p.m.",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P2|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, fourth-grade students go on the trip to the Valdemar Science Museum on March 12.",
+   "gold": "4th grade, Valdemar Science Museum, Thu March 12",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P2|en",
+   "q": 2,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, the number of buses is not mentioned.",
+   "gold": "3",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P2|en",
+   "q": 3,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, the cost for last year is not mentioned.",
+   "gold": "€14; €18 last year",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P2|en",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, students do not need to bring money.",
+   "gold": "No, not needed (not forbidden)",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P2|en",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, students cannot board the bus without the signed permission.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P2|en",
+   "q": 6,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes, parents should write to the tutor by March 6.",
+   "gold": "Mrs Gil (tutor), before Friday 6",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P2|en",
+   "q": 7,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes, students with allergies must inform the teachers about their situation.",
+   "gold": "Food cannot be bought at the museum",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P2|es",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, los alumnos de cuarto van de excursión al Museo de Ciencias de Valdemar el 12 de marzo.",
+   "gold": "4th grade, Valdemar Science Museum, Thu March 12",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P2|es",
+   "q": 2,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "No se menciona el número de autobuses.",
+   "gold": "3",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P2|es",
+   "q": 3,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "No se menciona el costo del año pasado.",
+   "gold": "€14; €18 last year",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P2|es",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no es necesario llevar dinero.",
+   "gold": "No, not needed (not forbidden)",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P2|es",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no puede subir al autobús sin la autorización firmada.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P2|es",
+   "q": 6,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Sí, los padres voluntarios deben escribir a la tutora antes del 6 de marzo.",
+   "gold": "Mrs Gil (tutor), before Friday 6",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P2|es",
+   "q": 7,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Sí, los alumnos con alergias deben informar al profesorado sobre su situación para que puedan tomar medidas adecuadas.",
+   "gold": "Food cannot be bought at the museum",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P3|en",
+   "q": 1,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "No",
+   "gold": "Grandma's 80th, Sunday April 20 at 18:00",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P3|en",
+   "q": 2,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12 people",
+   "gold": "12",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P3|en",
+   "q": 3,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes",
+   "gold": "Parking is small; reportedly can't fit 6 or more cars",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P3|en",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "민준带蛋糕, 我准备花束",
+   "gold": "Minjun cake; writer flowers",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P3|en",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No; pool money for a massage chair",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P3|en",
+   "q": 6,
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "10万韩元, 4月10日前",
+   "gold": "100,000 won by April 10",
+   "override": "correct (100,000 won, by Apr 10) but answered in Chinese"
+  },
+  {
+   "tag": "b_summarize|P3|en",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No, never (surprise)",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P3|en",
+   "q": 8,
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "因奶奶不能吃辣",
+   "gold": "Grandma can't eat spicy food",
+   "override": "correct (grandma can't eat spicy) but answered in Chinese"
+  },
+  {
+   "tag": "b_summarize|P4|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the library is closed from 3rd February for about four months due to renovation work.",
+   "gold": "From Feb 3, about 4 months, renovation",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P4|en",
+   "q": 2,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, three reading rooms are merged, and twelve new computer stations are added.",
+   "gold": "3 merged; 12 new",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P4|en",
+   "q": 3,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, borrowed books do not have to be returned during the closure.",
+   "gold": "No (need not; extended to end of June)",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P4|en",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, magazines cannot be borrowed at the temporary branch.",
+   "gold": "No (no space)",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P4|en",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the renovation costs 2.4 million Euros, with the state paying two-thirds.",
+   "gold": "About €2.4M; the state",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P4|en",
+   "q": 6,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes, the temporary branch is open from dienstags bis freitags (Tuesday to Friday).",
+   "gold": "Tue-Fri 10-17",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P4|en",
+   "q": 7,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the library had over 80,000 visitors last year.",
+   "gold": "Over 80,000",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P5|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, this routine runs on Saturday at 10:00, using Mercadona online.",
+   "gold": "Saturday 10:00, Mercadona online",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P5|en",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not pay now.",
+   "gold": "No, never pay without Jordan's confirmation",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P5|en",
+   "q": 3,
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes, you must consult Jordan first.",
+   "gold": "Ask Jordan what to remove",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P5|en",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you cannot swap it.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P5|en",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, you can swap it.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P5|en",
+   "q": 6,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Anote that it is sold out in the list; no, you cannot order it from another store.",
+   "gold": "Skip it, note it on the list; don't order elsewhere",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P5|en",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "You choose delivery on Sunday morning.",
+   "gold": "Sunday morning",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P5|en",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you cannot log in with another account.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P5|en",
+   "q": 9,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The cart must be ready before 13:00 on Saturday.",
+   "gold": "Before 13:00 Saturday",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P5|es",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, esta rutina se ejecuta el sábado a las 10:00 y se usa Mercadona online.",
+   "gold": "Saturday 10:00, Mercadona online",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P5|es",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debes pagar ahora.",
+   "gold": "No, never pay without Jordan's confirmation",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P5|es",
+   "q": 3,
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Sí, primero debes consultar con Jordan.",
+   "gold": "Ask Jordan what to remove",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P5|es",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no puedes cambiarlo.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P5|es",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, puedes cambiarla.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P5|es",
+   "q": 6,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Anótalo en la lista. No, no puedes pedirla en otra tienda.",
+   "gold": "Skip it, note it on the list; don't order elsewhere",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P5|es",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, eliges entrega domingo por la mañana.",
+   "gold": "Sunday morning",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P5|es",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, si la web pide un código de verificación, debes detenerte y avisar a Jordan.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "b_summarize|P5|es",
+   "q": 9,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, el carrito debe estar listo antes de las 13:00 del sábado.",
+   "gold": "Before 13:00 Saturday",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P1|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, every Monday at 9 a.m. Central.",
+   "gold": "Monday 9:00 Central",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P1|en",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, because Jordan must approve the email before it is sent.",
+   "gold": "No, never without Jordan's approval",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P1|en",
+   "q": 3,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, Jordan must approve an email before it is sent.",
+   "gold": "Jordan",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P1|en",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, because you should not remind Jordan more than once per brand.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P1|en",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, brands with 5,000 followers or fewer should be skipped.",
+   "gold": "No (minimum 5,000)",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P1|en",
+   "q": 6,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, brands that replied within the last 30 days should not be contacted.",
+   "gold": "No, skip",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P1|en",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you are not allowed to delete rows or change the Status column.",
+   "gold": "Delete: no. Status: yes",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P1|en",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "You should not quote price; tell the brand to contact Jordan.",
+   "gold": "Don't quote a price; tell Jordan and let him answer",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P1|en",
+   "q": 9,
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Jordan should be described as a business developer; no, he cannot be called a coach.",
+   "gold": "Business developer and entrepreneur; never a coach",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P1|en",
+   "q": 10,
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes, you should tell Jordan to use the browser if the Gmail connector is disconnected.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P1|en",
+   "q": 11,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Drafts should be ready by noon Monday; the summary should be sent by 5 p.m.",
+   "gold": "Drafts by noon Monday; summary by 5 p.m.",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P1|es",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, esta rutina se ejecuta todos los lunes a las 9 a.m. Central.",
+   "gold": "Monday 9:00 Central",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P1|es",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debes enviar el correo ahora. Debes esperar hasta que Jordan apruebe el borrador.",
+   "gold": "No, never without Jordan's approval",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P1|es",
+   "q": 3,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, Jordan debe aprobar el correo antes de enviarlo.",
+   "gold": "Jordan",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P1|es",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debes recordar a Jordan otra vez. Solo lo haces una vez por marca.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P1|es",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debes contactar a una marca con menos de 5,000 seguidores.",
+   "gold": "No (minimum 5,000)",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P1|es",
+   "q": 6,
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Sí, debes contactar a una marca que haya respondido hace más de 30 días.",
+   "gold": "No, skip",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P1|es",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no puedes borrar filas de la hoja ni cambiar la columna Status.",
+   "gold": "Delete: no. Status: yes",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P1|es",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, si una marca pregunta por los precios, no debes dar una respuesta. Deberás informar a Jordan para que él responda.",
+   "gold": "Don't quote a price; tell Jordan and let him answer",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P1|es",
+   "q": 9,
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, se debe describir a Jordan como business developer y no como coach o entrenador.",
+   "gold": "Business developer and entrepreneur; never a coach",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P1|es",
+   "q": 10,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, si el conector de Gmail está desconectado, debes informar a Jordan para que lo solucione desde su navegador.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P1|es",
+   "q": 11,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Los borradores deben estar listos para la hora del almuerzo, es decir, antes de mediodía. El resumen se debe enviar a las 5 p.m.",
+   "gold": "Drafts by noon Monday; summary by 5 p.m.",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P2|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, fourth-grade students go on the trip to the Museum of Sciences in Valdemar on March 12.",
+   "gold": "4th grade, Valdemar Science Museum, Thu March 12",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P2|en",
+   "q": 2,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, three buses.",
+   "gold": "3",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P2|en",
+   "q": 3,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the trip costs 14 euros this year, and 18 euros last year.",
+   "gold": "€14; €18 last year",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P2|en",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, students do not need to bring money.",
+   "gold": "No, not needed (not forbidden)",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P2|en",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, a student who forgot the signed permission cannot board the bus.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P2|en",
+   "q": 6,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, parents should write to the tutora, señora Gil, by Friday, the 6th.",
+   "gold": "Mrs Gil (tutor), before Friday 6",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P2|en",
+   "q": 7,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes, students with allergies should tell the teachers.",
+   "gold": "Food cannot be bought at the museum",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P2|es",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, los alumnos de cuarto van de excursión al Museo de Ciencias de Valdemar el jueves 12 de marzo.",
+   "gold": "4th grade, Valdemar Science Museum, Thu March 12",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P2|es",
+   "q": 2,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, saldrán tres autobuses.",
+   "gold": "3",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P2|es",
+   "q": 3,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, la excursión cuesta 14 euros por alumno este año, mientras que el año pasado costó 18 euros.",
+   "gold": "€14; €18 last year",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P2|es",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no se menciona que los alumnos tengan que llevar dinero.",
+   "gold": "No, not needed (not forbidden)",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P2|es",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, si un alumno olvidó la autorización firmada, no puede subir al autobús.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P2|es",
+   "q": 6,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, los padres voluntarios deben escribir a la tutora, señora Gil, antes del viernes 6.",
+   "gold": "Mrs Gil (tutor), before Friday 6",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P2|es",
+   "q": 7,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Sí, los alumnos con alergias deben avisar al profesorado para que tengan conocimiento de la situación.",
+   "gold": "Food cannot be bought at the museum",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P3|en",
+   "q": 1,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes",
+   "gold": "Grandma's 80th, Sunday April 20 at 18:00",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P3|en",
+   "q": 2,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Twelve",
+   "gold": "12",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P3|en",
+   "q": 3,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes",
+   "gold": "Parking is small; reportedly can't fit 6 or more cars",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P3|en",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, Minjun; No",
+   "gold": "Minjun cake; writer flowers",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P3|en",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No; pool money for a massage chair",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P3|en",
+   "q": 6,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Ten thousand won; By April 10th",
+   "gold": "100,000 won by April 10",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P3|en",
+   "q": 7,
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes",
+   "gold": "No, never (surprise)",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P3|en",
+   "q": 8,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes",
+   "gold": "Grandma can't eat spicy food",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P4|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the library is closed from 3rd February and will be closed for four months due to renovation works.",
+   "gold": "From Feb 3, about 4 months, renovation",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P4|en",
+   "q": 2,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, three reading rooms are merged, and twelve new computer stations are added.",
+   "gold": "3 merged; 12 new",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P4|en",
+   "q": 3,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, borrowed books do not have to be returned during the closure.",
+   "gold": "No (need not; extended to end of June)",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P4|en",
+   "q": 4,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, magazines cannot be borrowed at the temporary branch.",
+   "gold": "No (no space)",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P4|en",
+   "q": 5,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the renovation costs 2.4 million Euros, with two-thirds paid by the Land.",
+   "gold": "About €2.4M; the state",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P4|en",
+   "q": 6,
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "Yes, the temporary branch is open from 10 to 17 hours, from Tuesdays to Fridays.",
+   "gold": "Tue-Fri 10-17",
+   "override": "Tue-Fri 10-17 = gold; regex miss"
+  },
+  {
+   "tag": "c_llmlingua2|P4|en",
+   "q": 7,
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, the exact number of visitors last year is not provided in the text.",
+   "gold": "Over 80,000",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P5|en",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, this routine runs on Saturday at 10:00 and uses Mercadona online.",
+   "gold": "Saturday 10:00, Mercadona online",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P5|en",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should not pay now.",
+   "gold": "No, never pay without Jordan's confirmation",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P5|en",
+   "q": 3,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, you must first ask Jordan what to remove or change.",
+   "gold": "Ask Jordan what to remove",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P5|en",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 0,
+   "answer": "No, you cannot swap it without Jordan's confirmation.",
+   "gold": "No",
+   "override": "'cannot swap it without Jordan's confirmation': absolute ban turned conditional"
+  },
+  {
+   "tag": "c_llmlingua2|P5|en",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, you can swap it for the cheaper brand.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P5|en",
+   "q": 6,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you cannot order it from another store; skip it and note it in the list.",
+   "gold": "Skip it, note it on the list; don't order elsewhere",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P5|en",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, you choose delivery on Sunday morning.",
+   "gold": "Sunday morning",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P5|en",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, do not try to log in with another account.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P5|en",
+   "q": 9,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, the cart must be ready by 13:00 on Saturday.",
+   "gold": "Before 13:00 Saturday",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P5|es",
+   "q": 1,
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, esta rutina se ejecuta el sábado a las 10:00 en Mercadona online.",
+   "gold": "Saturday 10:00, Mercadona online",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P5|es",
+   "q": 2,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debes pagar ahora si el carrito cuesta 95 €.",
+   "gold": "No, never pay without Jordan's confirmation",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P5|es",
+   "q": 3,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, primero debes preguntar qué quitar si el total es 140 €.",
+   "gold": "Ask Jordan what to remove",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P5|es",
+   "q": 4,
+   "type": "S",
+   "auto": 1,
+   "final": 0,
+   "answer": "No, no puedes cambiar el pan sin gluten por uno normal sin confirmación.",
+   "gold": "No",
+   "override": "'sin confirmación': absolute ban turned conditional"
+  },
+  {
+   "tag": "c_llmlingua2|P5|es",
+   "q": 5,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, puedes cambiar la marca del aceite por la más barata.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P5|es",
+   "q": 6,
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, no puedes pedirla en otra tienda si está agotada.",
+   "gold": "Skip it, note it on the list; don't order elsewhere",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P5|es",
+   "q": 7,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, eliges entrega domingo mañana si Jordan no ha dicho nada.",
+   "gold": "Sunday morning",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P5|es",
+   "q": 8,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no puedes entrar con otra cuenta si la web pide un código de verificación.",
+   "gold": "No; stop and tell Jordan",
+   "override": null
+  },
+  {
+   "tag": "c_llmlingua2|P5|es",
+   "q": 9,
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, el carrito debe estar listo antes de las 13:00 del sábado.",
+   "gold": "Before 13:00 Saturday",
+   "override": null
+  }
+ ],
+ "summary": {
+  "original": {
+   "all": [
+    64,
+    69
+   ],
+   "S": [
+    34,
+    35
+   ],
+   "F": [
+    30,
+    34
+   ],
+   "en": [
+    37,
+    42
+   ],
+   "es": [
+    27,
+    27
+   ]
+  },
+  "mnc3": {
+   "all": [
+    66,
+    69
+   ],
+   "S": [
+    32,
+    35
+   ],
+   "F": [
+    34,
+    34
+   ],
+   "en": [
+    41,
+    42
+   ],
+   "es": [
+    25,
+    27
+   ]
+  },
+  "mnc3x": {
+   "all": [
+    61,
+    69
+   ],
+   "S": [
+    33,
+    35
+   ],
+   "F": [
+    28,
+    34
+   ],
+   "en": [
+    35,
+    42
+   ],
+   "es": [
+    26,
+    27
+   ]
+  },
+  "mnc3_nokey": {
+   "all": [
+    68,
+    69
+   ],
+   "S": [
+    35,
+    35
+   ],
+   "F": [
+    33,
+    34
+   ],
+   "en": [
+    41,
+    42
+   ],
+   "es": [
+    27,
+    27
+   ]
+  },
+  "a_terse": {
+   "all": [
+    43,
+    69
+   ],
+   "S": [
+    25,
+    35
+   ],
+   "F": [
+    18,
+    34
+   ],
+   "en": [
+    25,
+    42
+   ],
+   "es": [
+    18,
+    27
+   ]
+  },
+  "b_summarize": {
+   "all": [
+    53,
+    69
+   ],
+   "S": [
+    30,
+    35
+   ],
+   "F": [
+    23,
+    34
+   ],
+   "en": [
+    33,
+    42
+   ],
+   "es": [
+    20,
+    27
+   ]
+  },
+  "c_llmlingua2": {
+   "all": [
+    54,
+    69
+   ],
+   "S": [
+    27,
+    35
+   ],
+   "F": [
+    27,
+    34
+   ],
+   "en": [
+    32,
+    42
+   ],
+   "es": [
+    22,
+    27
+   ]
+  }
+ }
+}

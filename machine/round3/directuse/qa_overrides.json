@@ -1,0 +1,102 @@
+{
+ "original|P2|en": {
+  "7": [
+   1,
+   "'museum does not sell food' = gold; regex miss"
+  ]
+ },
+ "original|P5|es": {
+  "6": [
+   1,
+   "'no puedes pedirla en otra tienda. La saltas y la apuntas' = gold; regex order miss"
+  ]
+ },
+ "mnc3x|P1|es": {
+  "8": [
+   1,
+   "'no puedo responder sobre precios. Debo decir a Jordan' = gold; regex miss"
+  ],
+  "9": [
+   1,
+   "'empresario desarrollador de negocios... no coach' = gold; regex miss"
+  ]
+ },
+ "mnc3_nokey|P5|es": {
+  "6": [
+   1,
+   "'no puedes pedirla en otra tienda; la notas en la lista y la omites' = gold"
+  ]
+ },
+ "a_terse|P1|es": {
+  "7": [
+   1,
+   "delete no / Status yes = gold; regex miss"
+  ],
+  "2": [
+   0,
+   "'esperar 48 horas más... antes de enviarlo' implies sending without approval"
+  ]
+ },
+ "b_summarize|P1|es": {
+  "7": [
+   1,
+   "delete no / Status yes = gold; regex miss"
+  ],
+  "4": [
+   0,
+   "'No' but reason wrong ('ya pasaron 48 h, no es necesario')"
+  ]
+ },
+ "a_terse|P5|es": {
+  "6": [
+   1,
+   "notes it + won't order elsewhere; skip implied"
+  ]
+ },
+ "b_summarize|P3|en": {
+  "6": [
+   1,
+   "correct (100,000 won, by Apr 10) but answered in Chinese"
+  ],
+  "8": [
+   1,
+   "correct (grandma can't eat spicy) but answered in Chinese"
+  ]
+ },
+ "c_llmlingua2|P4|en": {
+  "6": [
+   1,
+   "Tue-Fri 10-17 = gold; regex miss"
+  ]
+ },
+ "a_terse|P2|en": {
+  "4": [
+   0,
+   "'not to bring money' = needn't flipped to prohibition"
+  ]
+ },
+ "a_terse|P1|en": {
+  "2": [
+   0,
+   "yes/no right but 'why' wrong (cites reminder rule, not approval)"
+  ]
+ },
+ "c_llmlingua2|P5|en": {
+  "4": [
+   0,
+   "'cannot swap it without Jordan's confirmation': absolute ban turned conditional"
+  ]
+ },
+ "c_llmlingua2|P5|es": {
+  "4": [
+   0,
+   "'sin confirmación': absolute ban turned conditional"
+  ]
+ },
+ "mnc3x|P1|en": {
+  "10": [
+   0,
+   "'you should stop telling Jordan' reads as the opposite of stop+tell; strict fail"
+  ]
+ }
+}
