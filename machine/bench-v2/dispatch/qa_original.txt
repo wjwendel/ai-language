@@ -1,0 +1,111 @@
+TEXT:
+§1
+Instructions for the assistant: supply orders and patient billing emails at Harbor Dental Group, which has three offices: Eastport, Millbrook and Sandy Cove. Every weekday at 7:30 a.m. Pacific, read the orders@harbordental.com inbox and the "Supply Requests" sheet. You may place a reorder with Pacific Dental Supply on your own if the order total is under $400 and every item on it is already on the approved list. Orders from $400 to $1,500 need approval from the office manager of the office that requested them; orders above $1,500 need approval from Dr. Anita Rao, the practice owner, even if an office manager has already approved them. Exception: never order nitrous oxide or any controlled substance yourself, at any amount; forward those requests to Dr. Rao. If an item has been on backorder for more than 10 business days, you may substitute the equivalent item from Coastline Medical, but only if it costs no more than 15% above the original price; otherwise ask the requesting office manager. The office managers are Luis Ortega (Eastport), Hannah Kim (Millbrook) and Grace Obi (Sandy Cove). Grace Obi is on leave until December 4; until then, Hannah Kim also approves Sandy Cove orders. For patient billing emails, you may explain charges and send a copy of an invoice to the patient it belongs to, but never discuss a patient's account with anyone else unless the patient's file lists that person as an authorized contact. Never promise a refund: refunds of up to $200 can be approved by the office manager, and larger refunds only by Dr. Rao. If a patient mentions pain, swelling or bleeding after a procedure, do not give clinical advice; tell them to call the office's emergency line at (555) 014-2290, and flag the email "URGENT – clinical" for the dentist on call. Send each office manager a summary of open orders by 3 p.m. every Thursday, and send Dr. Rao the monthly spending report no later than the 5th of each month.
+
+§2
+Anweisung für den Assistenten der Hausverwaltung Lindner & Söhne (Leipzig): Prüfe montags bis freitags um 8:00 Uhr das Postfach schaden@lindner-hv.de. Meldet ein Mieter einen Schaden, beauftragst du einen Handwerker aus der Partnerliste selbst, wenn die geschätzten Kosten unter 250 € liegen. Bei Kosten von 250 € bis 1.000 € brauchst du die Freigabe von Frau Albers (Objektbetreuerin); über 1.000 € entscheidet nur Herr Lindner (Geschäftsführer). Bei Wasserrohrbruch, Gasgeruch oder Stromausfall im ganzen Haus gilt keine Kostengrenze: Ruf sofort den Notdienst Krause unter 0341 998877 an, auch nachts und am Wochenende, und informiere Frau Albers spätestens innerhalb von 2 Stunden. Bei Gasgeruch sag dem Mieter, dass er das Haus sofort verlassen und keine Lichtschalter benutzen soll. Gib niemals Telefonnummern oder E-Mail-Adressen von Mietern an andere Mieter oder an Handwerker weiter; Handwerker erhalten nur Name, Wohnungsnummer und das vereinbarte Zeitfenster. Ersatzschlüssel darfst du nur an Mieter ausgeben, die im Mietvertrag eingetragen sind, und nur gegen Vorlage des Personalausweises; Untermieter erhalten keine Schlüssel, auch nicht mit Vollmacht. Mieterhöhungen und Kündigungen beantwortest du nie selbst, sondern leitest sie an Herrn Lindner weiter. Frau Albers ist Objektbetreuerin, nicht Eigentümerin; Eigentümerin ist die Sachsenhof GmbH, die nie in Kopie an Mieter-E-Mails gesetzt wird. Schicke Frau Albers jeden Freitag bis 14:00 Uhr eine Liste aller offenen Schäden mit dem Datum der Meldung. Die Nebenkostenabrechnungen werden bis einschließlich 30. November verschickt; Widersprüche, die nach dem 31. Januar eingehen, beantwortest du nicht, sondern leitest sie an Herrn Lindner weiter.
+
+§3
+La Métropole de Lyon a présenté le mardi 10 mars son plan vélo 2026-2030. Le budget total atteint 186 millions d'euros, dont 42 millions financés par l'État et 15 millions par la région Auvergne-Rhône-Alpes ; le reste est à la charge de la Métropole. Le plan prévoit 120 kilomètres de nouvelles pistes cyclables séparées, dont 35 km sur les quais du Rhône et de la Saône, ainsi que 8 000 places de stationnement sécurisé près des gares. Le vice-président chargé des mobilités, Thomas Girard, a précisé que les travaux commenceront en septembre 2026 par la ligne Part-Dieu–Villeurbanne, longue de 6,4 km. Selon les comptages de 2025, la part du vélo dans les trajets domicile-travail est passée de 4 % à 7 % en cinq ans ; l'objectif est d'atteindre 12 % en 2030. L'opposition, par la voix de Claire Morel, critique « un plan qui oublie les communes de l'ouest ». Thomas Girard a répondu que 30 % des nouveaux kilomètres seront situés hors de Lyon et de Villeurbanne. Une consultation publique est ouverte du 16 mars au 30 avril inclus sur le site de la Métropole ; les associations pourront en outre déposer des contributions écrites jusqu'au 15 mai. Le vote définitif du conseil métropolitain est prévu le 22 juin.
+
+§4
+アシスタントへの指示：「さくら進学塾」（横浜校・川崎校）の保護者対応。毎日16時に hogosha@sakura-juku.jp の受信箱を確認すること。振替授業は、授業日の前日18時までに連絡があった場合に限り、あなたが同じ週の空き枠に入れてよい。それより遅い連絡や、別の週への振替は教室長の判断が必要なので、受け付けずに教室長へ回すこと。教室長は横浜校が田中健、川崎校が木村早苗。ただし12月20日から1月7日までの冬期講習期間は、振替を一切受け付けない。月謝の返金は絶対に約束しないこと。退塾の申し出は本部の山口真理（事務長）だけが扱う。体調不良で欠席する生徒の保護者には「お大事になさってください」と返信し、38度以上の発熱がある場合は、登塾前に必ず塾へ電話するよう伝えること。成績や順位は、登録された保護者以外には教えない。祖父母からの問い合わせでも、登録された保護者でなければ答えないこと。毎週金曜日の19時までに、各教室長にその週の振替件数を報告すること。木村さんは教室長であって校長ではない。塾長は佐々木隆で、保護者へのメールのCCに入れてはならない。
+
+§5
+Acta de la junta de la comunidad de propietarios de la calle Alcalá 214 (Madrid), 3 de febrero. Asisten 23 de los 40 propietarios; preside Rosa Jiménez (presidenta) y levanta acta Iván Soto (administrador, que no es propietario). 1) Ascensor: se aprueba sustituirlo por 68.400 € (IVA incluido) con la empresa Elevaciones Sur, con 15 votos a favor, 6 en contra y 2 abstenciones. Se pagará en 12 cuotas mensuales a partir de abril; los locales comerciales de la planta baja quedan exentos, salvo el local B, que usa el ascensor para su almacén del sótano. 2) Fachada: no se aprueba; se repetirá la votación en la junta de junio. 3) Piscina: abrirá del 15 de junio al 15 de septiembre, de 11:00 a 21:00; los menores de 12 años solo podrán entrar acompañados de un adulto. Se prohíben los envases de cristal. 4) Morosos: el propietario del 5.º C debe 2.310 €; si no paga antes del 1 de marzo, se iniciará la reclamación judicial. Rosa Jiménez recordó: «Las llaves de la azotea solo las tiene el conserje». 5) Próxima junta ordinaria: 9 de junio, a las 19:00 en primera convocatoria y a las 19:30 en segunda.
+
+§6
+给助手的指令：「青禾茶叶」网店售后处理（上海仓）。每天上午10:00和下午4:00检查 shouhou@qinghetea.cn 邮箱和后台工单。签收后7天内（含第7天）且包装未拆封的订单，你可以直接同意退货并发送退货地址；已拆封的茶叶一律不退，但如果顾客反映有霉变或异味，请顾客提供照片和批次号，然后转给质检主管周静处理，不要自己判断。订单金额超过800元的退款只能由财务王磊批准，即使周静已经确认了质量问题。你可以给物流延误超过3天的顾客发一张20元无门槛优惠券，每位顾客每月最多一张；不能给退货订单发优惠券。顾客要求开发票的，开票信息必须在下单后30天内提交，超过30天的请转给王磊。不要向顾客透露其他顾客的订单信息或地址。周静是质检主管，不是店长；店长是陈晓东，任何顾客邮件都不要抄送他。每周一中午12点前，把上周的退货原因汇总表发给周静。春节期间（2月14日至2月22日）仓库不发货，相关咨询请回复固定话术：「春节期间暂停发货，2月23日起按下单顺序发出。」
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: On which days, at what time and in which time zone does this routine run?
+§1.q2: Millbrook asks for a $350 reorder from Pacific Dental Supply, but one item is not on the approved list. May you place it on your own?
+§1.q3: An Eastport order totals exactly $400. Whose approval is needed?
+§1.q4: Luis Ortega has approved a $1,800 Eastport order. May you place it now?
+§1.q5: On November 20, Sandy Cove requests a $900 order. Who must approve it?
+§1.q6: A $120 request for nitrous oxide comes in. What do you do?
+§1.q7: An item has been on backorder for 12 business days, and Coastline Medical's equivalent costs 20% more. May you substitute it yourself? If not, what do you do?
+§1.q8: An item has been on backorder for 8 business days, and Coastline Medical's equivalent costs 5% more. May you substitute it yourself?
+§1.q9: A patient's sister emails asking about the patient's balance; the patient's file lists no authorized contacts. May you discuss the balance with her?
+§1.q10: A patient asks for a $250 refund. Who can approve it?
+§1.q11: A patient writes that her gum has been bleeding since a filling. What do you tell her, and what else do you do?
+§1.q12: What summary must each office manager get, and on which weekday?
+§1.q13: Is sending the open-orders summary at 2 p.m. on a Thursday acceptable under the rules?
+§1.q14: Is sending Dr. Rao the monthly spending report on the 6th of the month acceptable?
+§1.q15: Who is the office manager at Millbrook?
+§2.q1: Which mailbox do you check, and when?
+§2.q2: A tenant reports a broken door lock with an estimated repair cost of €180. May you commission a tradesman from the partner list yourself?
+§2.q3: A repair is estimated at exactly €250. Whose approval do you need?
+§2.q4: On Sunday at 11 p.m. a tenant reports a burst water pipe; the repair is estimated at €3,000. What do you do?
+§2.q5: In that burst-pipe case, do you need Herr Lindner's approval before calling the emergency service?
+§2.q6: A tenant reports a smell of gas. What must you tell the tenant?
+§2.q7: A plumber asks you for a tenant's mobile number to arrange access. May you give it?
+§2.q8: A subtenant with a written power of attorney from the main tenant asks for a spare key. May you give one?
+§2.q9: A tenant named in the lease asks for a spare key but has no ID card with them. May you hand it over?
+§2.q10: A tenant asks whether the announced rent increase is legal. What do you do?
+§2.q11: Who must never be put in copy on tenant emails?
+§2.q12: Is Frau Albers the owner of the property?
+§2.q13: Is sending Frau Albers the open-damages list at 15:00 on Friday on time?
+§2.q14: A tenant's objection to the utility statement arrives on February 3. Do you answer it yourself?
+§2.q15: By what date are the utility statements sent?
+§3.q1: On what date was the plan presented?
+§3.q2: How much of the budget does the Métropole itself pay?
+§3.q3: How many kilometres of new separated bike lanes are planned, and how many of them on the quays?
+§3.q4: How many kilometres of the new lanes will be outside Lyon and Villeurbanne?
+§3.q5: Which line is built first, how long is it, and when do works start?
+§3.q6: By how many percentage points did cycling's share of home-to-work trips rise over the five years?
+§3.q7: What share is targeted for 2030?
+§3.q8: Can a resident still take part in the public consultation on 30 April?
+§3.q9: Can an association submit a written contribution on 10 May?
+§3.q10: Who criticised the plan, and what exactly did she say?
+§3.q11: How many secure parking spaces are planned, and where?
+§3.q12: When is the final council vote planned?
+§3.q13: What is Thomas Girard's role?
+§3.q14: How much does the region contribute, and which region is it?
+§4.q1: When must the parent inbox be checked?
+§4.q2: A Kawasaki parent writes at 17:30 the day before a Thursday class, asking for a make-up on Saturday of the same week, where a slot is open. It is not the winter-course period. May you arrange it yourself?
+§4.q3: The same Kawasaki parent instead writes at 19:00 the day before the class. What do you do?
+§4.q4: A parent writes three days ahead asking to move a class to the following week. May you arrange it yourself?
+§4.q5: On 22 December, a parent asks in good time for a make-up class in the same week. May you accept it?
+§4.q6: A parent asks whether they will be refunded for missed months. May you promise a refund?
+§4.q7: Who handles withdrawal requests?
+§4.q8: A student is absent with a fever of 38.5°C. What do you reply, and what do you tell the parent?
+§4.q9: A student has a fever of 37.8°C. Do you have to tell the parent to phone the school before coming in?
+§4.q10: A grandmother who is not a registered parent asks about her grandson's ranking. May you answer?
+§4.q11: Is reporting the week's make-up count to the classroom heads at 19:30 on Friday on time?
+§4.q12: What must you report to each classroom head every Friday?
+§4.q13: What rule applies to 佐々木隆 (Sasaki Takashi)?
+§4.q14: Is 木村早苗 (Kimura Sanae) the principal?
+§4.q15: Who is the Yokohama classroom head?
+§5.q1: How many owners attended, out of how many?
+§5.q2: Who took the minutes, and is he an owner?
+§5.q3: If the lift cost is split into equal instalments, how much is each monthly instalment for the whole community?
+§5.q4: Did more than half of the owners present vote in favour of the lift?
+§5.q5: Does a ground-floor shop other than shop B pay the lift instalments?
+§5.q6: Does shop B pay the lift instalments?
+§5.q7: In which month does the first lift instalment fall?
+§5.q8: What happened with the façade?
+§5.q9: May an 11-year-old use the pool alone?
+§5.q10: May a 12-year-old use the pool without an adult?
+§5.q11: During which dates and hours is the pool open?
+§5.q12: The owner of 5ºC pays the full debt on 1 March. Under the agreement, can the legal claim be started?
+§5.q13: What exactly did Rosa Jiménez say?
+§5.q14: On what date and at what time is the second call of the next ordinary meeting?
+§5.q15: Are glass containers allowed at the pool?
+§6.q1: At what times are the mailbox and ticket backend checked?
+§6.q2: A customer signed for an order exactly 7 days ago; the package is unopened, and they want to return it. May you approve the return yourself?
+§6.q3: A customer signed for an order 8 days ago; the package is unopened. May you approve the return yourself?
+§6.q4: A customer opened the tea and says it smells odd. What do you do?
+§6.q5: 周静 has confirmed mould on a ¥1,000 order. Who may approve the refund?
+§6.q6: A delivery was delayed by exactly 3 days. May you give the customer the ¥20 coupon?
+§6.q7: A delivery was delayed by 5 days, but the customer already received a coupon this month. May you give another?
+§6.q8: A customer who is returning an order asks for a coupon. May you give one?
+§6.q9: A customer asks for an invoice 40 days after ordering. What do you do?
+§6.q10: Who must never be CC'd on customer emails?
+§6.q11: Is 周静 the store manager?
+§6.q12: Is sending 周静 the return-reasons summary at exactly 12:00 on Monday on time?
+§6.q13: What exact reply do you send to shipping inquiries during the Spring Festival?
+§6.q14: On 18 February a customer asks when their order will ship. From what date does shipping resume, per the reply you must send?
+§6.q15: May you tell a customer another customer's delivery address?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

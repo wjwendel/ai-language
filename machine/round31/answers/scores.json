@@ -1,0 +1,3696 @@
+{
+ "rows": [
+  {
+   "f": "llm05_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Marta Kowalczyk must approve refunds above $150",
+   "gold": "no; Marta Kowalczyk, the operations manager"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no; above $60 it needs sign-off from Daniel Oyelaran and is held until signed off",
+   "gold": "no; it needs approval and must be held, but the approver is not stated"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no; Marta may only reduce the cleaning fee by half, not waive it",
+   "gold": "no; only Daniel Oyelaran, the owner, may waive it (Marta may only reduce it by up to half)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "call the technician at 555-0187; tell the customer to prop the cabin door open; the second instruction is not stated",
+   "gold": "call the on-call technician at 555-0187 yourself; tell the customer a technician is on the way, and that they must prop the cabin door open and step outside"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only at 8:00 and 13:30",
+   "gold": "no; only at 8:00 and 13:30"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; winter festival promotion deposits are never refunded",
+   "gold": "no; winter festival promotion deposits are never refunded"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; forward delivery questions to Lena's phone queue (and don't promise a delivery slot before checking the calendar)",
+   "gold": "no; forward it to Lena's phone queue"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated (half price applies, but the base fee is not stated)",
+   "gold": "240 yuan"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "275 yuan"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; they pay the full 480 yuan"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no; no need to buy them yourself",
+   "gold": "no; the night school provides the rice paper (students must bring their own brush, ink and felt pad)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no class on Dec 24 (classroom maintenance); make-up class not stated",
+   "gold": "no; the make-up class is on December 27 at 7:00 pm"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no; refund or transfer requests must be submitted in writing by November 30 at 5:00 pm"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "academic affairs teacher Zhou Yaqin, 0512-6683 2471 (weekdays 9:00-17:00)",
+   "gold": "Zhou Yaqin (周雅琴), the academic affairs teacher, 0512-6683 2471"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "yes, with the completion certificate"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "35 yuan; no, the textbook fee gets no discount"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Giulia Ferraro approves discounts on rentals shorter than 7 nights",
+   "gold": "no; Giulia Ferraro, the sales manager"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sergio Neri",
+   "gold": "Sergio Neri, the owner"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "call the 24-hour assistance service (0185…); tell the customer to close the gas valve; the second instruction is not stated",
+   "gold": "call the 24-hour assistance at 0185 774 392 yourself; tell the customer help is coming and that they must close the gas bottle valve themselves and get out of the camper"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; the balance is paid and arrival is after 19:00",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the code is given only once the balance is paid",
+   "gold": "no; the balance must already be paid"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Sergio Neri may authorize drivers under 25",
+   "gold": "no; only Sergio Neri, the owner, may authorize drivers under 25"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; non-members get free cancellation only up to 15 days before departure",
+   "gold": "no; for non-members it is free only up to 15 days before departure"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; pets are not allowed in the «Aurora» camper (allergies)",
+   "gold": "no; Aurora is reserved for allergic customers, no animals"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "108 zł",
+   "gold": "108 zł"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "refund 252 zł; no, it exceeds 200 zł so Kamil Wróbel must approve",
+   "gold": "252 zł; no, it exceeds 200 zł, so Kamil Wróbel, the shift manager, must approve"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Kamil Wróbel approves",
+   "gold": "no; Kamil Wróbel, the shift manager"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; invoice matters go to the bookkeeper Iwona Pawlak",
+   "gold": "no; to Iwona Pawlak, the accountant (Ewa is the owner)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Ewa Sadowska may issue free vouchers",
+   "gold": "no; only Ewa Sadowska, the owner, may grant free vouchers"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; groups over 6 in Krypta need Kamil's approval, which was given",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Laboratorium has a limit of 5 people",
+   "gold": "no; the Laboratorium limit is 5 with no exceptions"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "call the on-duty number 482 935; staff press the green emergency button; the two things to tell the player are not clearly stated",
+   "gold": "call the duty phone 601 482 935 yourself; tell the player staff are on the way and that they must press the green emergency button by the door themselves; the player presses it"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the 15% group discount applies only up to Thursday",
+   "gold": "no; the school discount applies only Monday to Thursday"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, refunds up to $150 per booking are within its authority",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; refunds above $150 must be approved by Marta Kowalczyk",
+   "gold": "no; Marta Kowalczyk, the operations manager"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; orders above $60 need approval and are held until signed off (approver not stated)",
+   "gold": "no; it needs approval and must be held, but the approver is not stated"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, orders up to $60 may be approved",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Marta may only reduce the cleaning fee by up to half, only Daniel Oyelaran (owner) may waive it",
+   "gold": "no; only Daniel Oyelaran, the owner, may waive it (Marta may only reduce it by up to half)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician at 555-0187; tell the customer the technician is on the way, and to prop the cabin door open and step outside",
+   "gold": "call the on-call technician at 555-0187 yourself; tell the customer a technician is on the way, and that they must prop the cabin door open and step outside"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only at 8:00 and 13:30",
+   "gold": "no; only at 8:00 and 13:30"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, winter festival promotion deposits are never refunded",
+   "gold": "no; winter festival promotion deposits are never refunded"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; forward delivery questions on weekends to Lena's phone queue",
+   "gold": "no; forward it to Lena's phone queue"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "240 yuan (half price)",
+   "gold": "240 yuan"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "275 yuan (240 tuition + 35 textbook)",
+   "gold": "275 yuan"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; they pay the full 480 yuan"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no; the night school provides the rice paper (students must bring their own brush, ink and felt pad)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no class on December 24; make-up class not stated",
+   "gold": "no; the make-up class is on December 27 at 7:00 pm"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, written requests must be submitted before 5:00 pm on November 30",
+   "gold": "no; refund or transfer requests must be submitted in writing by November 30 at 5:00 pm"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Zhou Yaqin (周雅琴), 0512-6683 2471 (weekdays 9:00-17:00)",
+   "gold": "Zhou Yaqin (周雅琴), the academic affairs teacher, 0512-6683 2471"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "yes, with the completion certificate"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "35 yuan; the half-price discount is stated only for tuition, not the textbook fee",
+   "gold": "35 yuan; no, the textbook fee gets no discount"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 10% for rentals of at least 7 nights",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; for rentals shorter than 7 nights discounts are approved by Giulia Ferraro",
+   "gold": "no; Giulia Ferraro, the sales manager"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sergio Neri (owner)",
+   "gold": "Sergio Neri, the owner"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "call the 24-hour assistance at 0185 774 392; tell the customer to close the gas bottle valve and to get out of the camper",
+   "gold": "call the 24-hour assistance at 0185 774 392 yourself; tell the customer help is coming and that they must close the gas bottle valve themselves and get out of the camper"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, the balance is paid",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the code is given only after the balance is paid",
+   "gold": "no; the balance must already be paid"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Sergio Neri can authorize drivers under 25 (Giulia can only authorize a second driver)",
+   "gold": "no; only Sergio Neri, the owner, may authorize drivers under 25"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; non-members cancel free only up to 15 days before departure",
+   "gold": "no; for non-members it is free only up to 15 days before departure"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, pets are not allowed on the «Aurora» camper",
+   "gold": "no; Aurora is reserved for allergic customers, no animals"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "108 zł (30% of 360 zł)",
+   "gold": "108 zł"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "refund 252 zł; no, it exceeds 200 zł, so Kamil Wróbel must approve",
+   "gold": "252 zł; no, it exceeds 200 zł, so Kamil Wróbel, the shift manager, must approve"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, refunds up to 200 zł",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Kamil Wróbel (shift manager) approves",
+   "gold": "no; Kamil Wróbel, the shift manager"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; invoice matters go to the accountant Iwona Pawlak",
+   "gold": "no; to Iwona Pawlak, the accountant (Ewa is the owner)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only Ewa Sadowska may grant free vouchers",
+   "gold": "no; only Ewa Sadowska, the owner, may grant free vouchers"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, Kamil confirmed it",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, «Laboratorium» has a 5-person limit with no exceptions",
+   "gold": "no; the Laboratorium limit is 5 with no exceptions"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "call the duty phone 482 935; tell the player staff is on the way and to press the green emergency button by the door; the player presses it",
+   "gold": "call the duty phone 601 482 935 yourself; tell the player staff are on the way and that they must press the green emergency button by the door themselves; the player presses it"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the school discount applies Monday to Thursday only",
+   "gold": "no; the school discount applies only Monday to Thursday"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, refunds up to $150 per booking may be approved by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Marta Kowalczyk (operations manager) must approve",
+   "gold": "no; Marta Kowalczyk, the operations manager"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; over $60 needs approval, but the approver is not stated; hold the order until signed off",
+   "gold": "no; it needs approval and must be held, but the approver is not stated"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, orders up to $60 may be approved",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Daniel Oyelaran (owner) may waive; Marta may only reduce it by up to half",
+   "gold": "no; only Daniel Oyelaran, the owner, may waive it (Marta may only reduce it by up to half)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician at 555-0187 itself, then tell the customer a technician is on the way and that they must prop the cabin door open and step outside",
+   "gold": "call the on-call technician at 555-0187 yourself; tell the customer a technician is on the way, and that they must prop the cabin door open and step outside"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only at 8:00 and 13:30",
+   "gold": "no; only at 8:00 and 13:30"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, winter festival promotion deposits are never refunded",
+   "gold": "no; winter festival promotion deposits are never refunded"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, forward it to Lena's phone queue (Sat/Sun rule)",
+   "gold": "no; forward it to Lena's phone queue"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "240 yuan",
+   "gold": "240 yuan"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "275 yuan (240 tuition + 35 textbook)",
+   "gold": "275 yuan"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the half-price age condition is only for those over 60 (and students)",
+   "gold": "no; they pay the full 480 yuan"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, practice rice paper is provided by the night school",
+   "gold": "no; the night school provides the rice paper (students must bring their own brush, ink and felt pad)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the make-up class is December 27 at 19:00",
+   "gold": "no; the make-up class is on December 27 at 7:00 pm"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, transfer requests must be in writing before November 30 17:00; late requests are not accepted",
+   "gold": "no; refund or transfer requests must be submitted in writing by November 30 at 5:00 pm"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "academic affairs teacher Zhou Yaqin, 0512-6683 2471 (weekdays 9:00-17:00)",
+   "gold": "Zhou Yaqin (周雅琴), the academic affairs teacher, 0512-6683 2471"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, with his completion certificate from last spring's class",
+   "gold": "yes, with the completion certificate"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "35 yuan; no, no discount applies to it",
+   "gold": "35 yuan; no, the textbook fee gets no discount"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, rentals of 7+ nights may get up to 10%",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Giulia Ferraro (sales manager) must approve",
+   "gold": "no; Giulia Ferraro, the sales manager"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sergio Neri, the owner",
+   "gold": "Sergio Neri, the owner"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call 24h assistance at 0185 774 392 itself, then tell the customer assistance is on its way and they must close the gas-bottle valve themselves and leave the camper",
+   "gold": "call the 24-hour assistance at 0185 774 392 yourself; tell the customer help is coming and that they must close the gas bottle valve themselves and get out of the camper"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, balance paid and arriving after 19:00",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the balance must be paid first",
+   "gold": "no; the balance must already be paid"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only Sergio Neri may authorize drivers under 25",
+   "gold": "no; only Sergio Neri, the owner, may authorize drivers under 25"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, non-members cancel free only until 15 days before departure",
+   "gold": "no; for non-members it is free only up to 15 days before departure"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, «Aurora» allows no pets",
+   "gold": "no; Aurora is reserved for allergic customers, no animals"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "108 zł (30% of 360 zł), unless paid with a gift voucher (then no refund)",
+   "gold": "108 zł"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "refund 252 zł; no, it exceeds 200 zł so Kamil Wróbel (shift manager) must approve",
+   "gold": "252 zł; no, it exceeds 200 zł, so Kamil Wróbel, the shift manager, must approve"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 200 zł may be approved",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Kamil Wróbel (shift manager) must approve",
+   "gold": "no; Kamil Wróbel, the shift manager"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, invoice matters go to accountant Iwona Pawlak",
+   "gold": "no; to Iwona Pawlak, the accountant (Ewa is the owner)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only Ewa Sadowska may grant free game vouchers",
+   "gold": "no; only Ewa Sadowska, the owner, may grant free vouchers"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, Kamil's written confirmation allows a group over 6 in «Krypta»",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, «Laboratorium» is limited to 5 with no exceptions",
+   "gold": "no; the Laboratorium limit is 5 with no exceptions"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the duty phone 601 482 935 itself, then tell the player staff are on the way and they must press the green emergency button by the door themselves (it unlocks the door); the player presses it",
+   "gold": "call the duty phone 601 482 935 yourself; tell the player staff are on the way and that they must press the green emergency button by the door themselves; the player presses it"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the school discount is Mon-Thu only",
+   "gold": "no; the school discount applies only Monday to Thursday"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, refunds up to $150 per booking may be approved by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Marta Kowalczyk (operations manager) must approve",
+   "gold": "no; Marta Kowalczyk, the operations manager"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it needs approval (over $60), approver not stated; hold the order until signed off",
+   "gold": "no; it needs approval and must be held, but the approver is not stated"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Daniel Oyelaran (owner) may waive it; Marta may only reduce it by up to half",
+   "gold": "no; only Daniel Oyelaran, the owner, may waive it (Marta may only reduce it by up to half)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician at 555-0187 itself; then tell the customer the technician is on the way and that they must prop the cabin door open and step outside",
+   "gold": "call the on-call technician at 555-0187 yourself; tell the customer a technician is on the way, and that they must prop the cabin door open and step outside"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the inbox is checked only at 8:00 and 13:30",
+   "gold": "no; only at 8:00 and 13:30"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; winter festival promotion deposits are never refunded",
+   "gold": "no; winter festival promotion deposits are never refunded"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; forward it to Lena's phone queue",
+   "gold": "no; forward it to Lena's phone queue"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "240 yuan",
+   "gold": "240 yuan"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "275 yuan (240 tuition + 35 textbook fee)",
+   "gold": "275 yuan"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the age discount is only for those over 60, and they are not a student",
+   "gold": "no; they pay the full 480 yuan"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; practice rice paper is provided by the night school",
+   "gold": "no; the night school provides the rice paper (students must bring their own brush, ink and felt pad)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the make-up class is December 27 at 19:00",
+   "gold": "no; the make-up class is on December 27 at 7:00 pm"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; requests must be submitted in writing before November 30 at 17:00",
+   "gold": "no; refund or transfer requests must be submitted in writing by November 30 at 5:00 pm"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Zhou Yaqin (周雅琴), academic affairs teacher, 0512-6683 2471, weekdays 9:00-17:00",
+   "gold": "Zhou Yaqin (周雅琴), the academic affairs teacher, 0512-6683 2471"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, with the completion certificate from last spring's class",
+   "gold": "yes, with the completion certificate"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "35 yuan; no, the discount does not apply",
+   "gold": "35 yuan; no, the textbook fee gets no discount"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Giulia Ferraro (sales manager) must approve",
+   "gold": "no; Giulia Ferraro, the sales manager"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sergio Neri (owner)",
+   "gold": "Sergio Neri, the owner"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call 24h assistance at 0185 774 392 itself; then tell the customer assistance is on its way and that they must close the gas-bottle valve themselves and leave the camper",
+   "gold": "call the 24-hour assistance at 0185 774 392 yourself; tell the customer help is coming and that they must close the gas bottle valve themselves and get out of the camper"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the balance must be paid",
+   "gold": "no; the balance must already be paid"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Sergio Neri may authorize drivers under 25",
+   "gold": "no; only Sergio Neri, the owner, may authorize drivers under 25"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; for non-members cancellation is free only until 15 days before departure",
+   "gold": "no; for non-members it is free only up to 15 days before departure"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Aurora allows no pets",
+   "gold": "no; Aurora is reserved for allergic customers, no animals"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "108 zł",
+   "gold": "108 zł"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "refund 252 zł; no, it exceeds 200 zł so Kamil Wróbel must approve",
+   "gold": "252 zł; no, it exceeds 200 zł, so Kamil Wróbel, the shift manager, must approve"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Kamil Wróbel (shift manager) must approve",
+   "gold": "no; Kamil Wróbel, the shift manager"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; invoice matters go to accountant Iwona Pawlak",
+   "gold": "no; to Iwona Pawlak, the accountant (Ewa is the owner)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Ewa Sadowska may grant free game vouchers",
+   "gold": "no; only Ewa Sadowska, the owner, may grant free vouchers"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Laboratorium is limited to 5 people with no exceptions",
+   "gold": "no; the Laboratorium limit is 5 with no exceptions"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the duty phone 601 482 935 itself; then tell the player staff are on the way and they must press the green emergency button by the door themselves (it unlocks the door); the player presses it",
+   "gold": "call the duty phone 601 482 935 yourself; tell the player staff are on the way and that they must press the green emergency button by the door themselves; the player presses it"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the school discount applies Mon-Thu only",
+   "gold": "no; the school discount applies only Monday to Thursday"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, refunds up to $150 per booking are within its limit",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Marta Kowalczyk (ops manager) must approve",
+   "gold": "no; Marta Kowalczyk, the operations manager"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; over $60 needs approval, but the approver is not stated; hold the order until it is signed off",
+   "gold": "no; it needs approval and must be held, but the approver is not stated"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to $60 is within its limit",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Daniel Oyelaran (owner) may waive it; Marta may only cut it by up to half",
+   "gold": "no; only Daniel Oyelaran, the owner, may waive it (Marta may only reduce it by up to half)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the technician at 555-0187 itself; tell the customer a technician is coming and that they must prop the cabin door open and step outside",
+   "gold": "call the on-call technician at 555-0187 yourself; tell the customer a technician is on the way, and that they must prop the cabin door open and step outside"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the inbox is checked only at 8:00 and 13:30",
+   "gold": "no; only at 8:00 and 13:30"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; winter festival promo deposits are never refunded",
+   "gold": "no; winter festival promotion deposits are never refunded"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; on weekends it must forward the delivery question to Lena's phone queue and not answer it",
+   "gold": "no; forward it to Lena's phone queue"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "240 yuan (half price for people over 60)",
+   "gold": "240 yuan"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "275 yuan (240 tuition + 35 textbook fee)",
+   "gold": "275 yuan"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the age discount is only for people over 60, and they are not a student, so they pay 480 yuan",
+   "gold": "no; they pay the full 480 yuan"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the night school provides the rice paper",
+   "gold": "no; the night school provides the rice paper (students must bring their own brush, ink and felt pad)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no (class is cancelled for maintenance); the make-up class is December 27 at 19:00",
+   "gold": "no; the make-up class is on December 27 at 7:00 pm"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; written requests had to be in by November 30 at 17:00",
+   "gold": "no; refund or transfer requests must be submitted in writing by November 30 at 5:00 pm"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Teacher Zhou Yaqin (周雅琴), 0512-6683 2471, weekdays 9:00-17:00",
+   "gold": "Zhou Yaqin (周雅琴), the academic affairs teacher, 0512-6683 2471"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, if he shows his completion certificate from last year's spring class",
+   "gold": "yes, with the completion certificate"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "35 yuan; no, no discount applies to it",
+   "gold": "35 yuan; no, the textbook fee gets no discount"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; rentals of 7 nights or more may get up to 10%",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; for rentals under 7 nights, Giulia Ferraro (sales manager) must approve any discount",
+   "gold": "no; Giulia Ferraro, the sales manager"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sergio Neri (owner)",
+   "gold": "Sergio Neri, the owner"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call 24h assistance at 0185 774 392 itself; tell the customer help is coming and that they must close the gas-bottle valve themselves and leave the camper",
+   "gold": "call the 24-hour assistance at 0185 774 392 yourself; tell the customer help is coming and that they must close the gas bottle valve themselves and get out of the camper"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; the balance is paid and they arrive after 19:00 when the office is closed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the balance has not been paid",
+   "gold": "no; the balance must already be paid"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Sergio may authorize drivers under 25",
+   "gold": "no; only Sergio Neri, the owner, may authorize drivers under 25"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; non-members cancel free only until 15 days before departure",
+   "gold": "no; for non-members it is free only up to 15 days before departure"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; no pets are allowed in «Aurora»",
+   "gold": "no; Aurora is reserved for allergic customers, no animals"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "108 zł (30% of 360 zł)",
+   "gold": "108 zł"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "refund 252 zł; no, it is over 200 zł, so Kamil Wróbel (shift manager) must approve (unless it is a gift-voucher booking, which gets no refund)",
+   "gold": "252 zł; no, it exceeds 200 zł, so Kamil Wróbel, the shift manager, must approve"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 200 zł is within its limit",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Kamil Wróbel (shift manager) approves",
+   "gold": "no; Kamil Wróbel, the shift manager"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; invoices go to the accountant, Iwona Pawlak",
+   "gold": "no; to Iwona Pawlak, the accountant (Ewa is the owner)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Ewa may grant free vouchers",
+   "gold": "no; only Ewa Sadowska, the owner, may grant free vouchers"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; more than 6 is allowed if Kamil confirms in writing",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; «Laboratorium» is max 5 with no exceptions",
+   "gold": "no; the Laboratorium limit is 5 with no exceptions"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the duty phone at 601 482 935 itself; tell the player staff are coming and that they must press the green emergency button by the door themselves; the player presses it",
+   "gold": "call the duty phone 601 482 935 yourself; tell the player staff are on the way and that they must press the green emergency button by the door themselves; the player presses it"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the school discount is Mon-Thu only",
+   "gold": "no; the school discount applies only Monday to Thursday"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, refunds up to $150 per booking are within the assistant's limit",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Marta Kowalczyk (ops manager) must approve",
+   "gold": "no; Marta Kowalczyk, the operations manager"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it exceeds $60 and needs approval, but the approver is not stated (unnamed); hold the order until signed off",
+   "gold": "no; it needs approval and must be held, but the approver is not stated"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to $60 is allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Daniel Oyelaran (owner) may waive the cleaning fee; Marta may only cut it by up to half",
+   "gold": "no; only Daniel Oyelaran, the owner, may waive it (Marta may only reduce it by up to half)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the technician at 555-0187 itself; tell the customer a technician is coming and that they must prop the cabin door open and step outside",
+   "gold": "call the on-call technician at 555-0187 yourself; tell the customer a technician is on the way, and that they must prop the cabin door open and step outside"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the inbox is checked only at 8:00 and 13:30",
+   "gold": "no; only at 8:00 and 13:30"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; winter festival promo deposits are never refunded",
+   "gold": "no; winter festival promotion deposits are never refunded"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; on weekends forward delivery questions to Lena's phone queue",
+   "gold": "no; forward it to Lena's phone queue"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "240 yuan",
+   "gold": "240 yuan"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "275 yuan (240 tuition + 35 textbook fee)",
+   "gold": "275 yuan"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the age discount is only for those over 60 and they are not a student",
+   "gold": "no; they pay the full 480 yuan"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the night school provides the rice paper",
+   "gold": "no; the night school provides the rice paper (students must bring their own brush, ink and felt pad)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; class is cancelled for maintenance; make-up on December 27 at 19:00",
+   "gold": "no; the make-up class is on December 27 at 7:00 pm"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; written requests had to be submitted before 11/30 17:00; late requests are not accepted",
+   "gold": "no; refund or transfer requests must be submitted in writing by November 30 at 5:00 pm"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Teacher Zhou Yaqin (周雅琴), 0512-6683 2471, weekdays 9:00-17:00",
+   "gold": "Zhou Yaqin (周雅琴), the academic affairs teacher, 0512-6683 2471"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, with last year's spring class completion certificate",
+   "gold": "yes, with the completion certificate"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "35 yuan; no, it has no discount",
+   "gold": "35 yuan; no, the textbook fee gets no discount"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; rentals of 7+ nights may be discounted up to 10%",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; any discount for rentals under 7 nights needs approval from Giulia Ferraro (sales manager)",
+   "gold": "no; Giulia Ferraro, the sales manager"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sergio Neri (owner)",
+   "gold": "Sergio Neri, the owner"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call 24h assistance at 0185 774 392 itself; tell the customer help is coming and that they must close the gas-bottle valve themselves and leave the camper",
+   "gold": "call the 24-hour assistance at 0185 774 392 yourself; tell the customer help is coming and that they must close the gas bottle valve themselves and get out of the camper"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; balance paid and arriving after 19:00 with the office closed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the balance has not been paid",
+   "gold": "no; the balance must already be paid"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Sergio may authorize drivers under 25 (Giulia may only authorize a 2nd driver)",
+   "gold": "no; only Sergio Neri, the owner, may authorize drivers under 25"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; non-members get free cancellation only until 15 days before departure",
+   "gold": "no; for non-members it is free only up to 15 days before departure"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; no pets are allowed on «Aurora»",
+   "gold": "no; Aurora is reserved for allergic customers, no animals"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "108 zł (30% of 360 zł)",
+   "gold": "108 zł"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "refund 252 zł; no, it exceeds the 200 zł limit, so Kamil Wróbel must approve (unless it is a gift-voucher booking, which gets no refund)",
+   "gold": "252 zł; no, it exceeds 200 zł, so Kamil Wróbel, the shift manager, must approve"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 200 zł is allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Kamil Wróbel (shift manager) approves",
+   "gold": "no; Kamil Wróbel, the shift manager"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; invoices go to accountant Iwona Pawlak",
+   "gold": "no; to Iwona Pawlak, the accountant (Ewa is the owner)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Ewa may grant free vouchers",
+   "gold": "no; only Ewa Sadowska, the owner, may grant free vouchers"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; more than 6 is allowed in «Krypta» when Kamil confirms in writing",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; «Laboratorium» is max 5 with no exceptions",
+   "gold": "no; the Laboratorium limit is 5 with no exceptions"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the duty phone 601 482 935 itself; tell the player staff are coming and that they must press the green emergency button by the door themselves (it unlocks the door); the player presses it",
+   "gold": "call the duty phone 601 482 935 yourself; tell the player staff are on the way and that they must press the green emergency button by the door themselves; the player presses it"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the school discount is Mon-Thu only",
+   "gold": "no; the school discount applies only Monday to Thursday"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; refunds up to $150 per booking are within its own authority",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; refunds above $150 must be approved by Marta Kowalczyk",
+   "gold": "no; Marta Kowalczyk, the operations manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; orders above $60 need approval (approver not stated) and must be held until signed off",
+   "gold": "no; it needs approval and must be held, but the approver is not stated"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; up to $60 it may approve on its own",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Daniel Oyelaran (owner) may waive it; Marta may only reduce it by up to half",
+   "gold": "no; only Daniel Oyelaran, the owner, may waive it (Marta may only reduce it by up to half)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician at 555-0187 itself, then tell the customer a technician is on the way and that they must prop the cabin door open and step outside",
+   "gold": "call the on-call technician at 555-0187 yourself; tell the customer a technician is on the way, and that they must prop the cabin door open and step outside"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only at 8:00 and 13:30",
+   "gold": "no; only at 8:00 and 13:30"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; winter festival promotion deposits are never refunded",
+   "gold": "no; winter festival promotion deposits are never refunded"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; on Saturdays forward delivery questions to Lena's phone queue",
+   "gold": "no; forward it to Lena's phone queue"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "240 yuan (half price for over 60)",
+   "gold": "240 yuan"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "275 yuan (240 tuition + 35 textbook fee)",
+   "gold": "275 yuan"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; half price is only for those over 60 or students",
+   "gold": "no; they pay the full 480 yuan"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; practice rice paper is provided by the night school",
+   "gold": "no; the night school provides the rice paper (students must bring their own brush, ink and felt pad)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the make-up class is December 27 at 7:00 pm",
+   "gold": "no; the make-up class is on December 27 at 7:00 pm"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; transfer requests must be in writing by November 30, 5:00 pm",
+   "gold": "no; refund or transfer requests must be submitted in writing by November 30 at 5:00 pm"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Zhou Yaqin, academic affairs teacher, 0512-6683 2471 (weekdays 9:00-17:00)",
+   "gold": "Zhou Yaqin (周雅琴), the academic affairs teacher, 0512-6683 2471"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; last spring's graduates are exempt with their completion certificate",
+   "gold": "yes, with the completion certificate"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "35 yuan; no, the textbook fee gets no discount",
+   "gold": "35 yuan; no, the textbook fee gets no discount"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; up to 10% on rentals of at least 7 nights",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; any discount on rentals under 7 nights must be approved by Giulia Ferraro",
+   "gold": "no; Giulia Ferraro, the sales manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sergio Neri, the owner",
+   "gold": "Sergio Neri, the owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the 24-hour assistance at 0185 774 392 itself, then tell the customer assistance is coming and that they must close the gas bottle valve themselves and get out of the camper",
+   "gold": "call the 24-hour assistance at 0185 774 392 yourself; tell the customer help is coming and that they must close the gas bottle valve themselves and get out of the camper"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; balance paid and arriving after 19:00",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the balance has not been paid",
+   "gold": "no; the balance must already be paid"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Sergio Neri may authorize drivers under 25",
+   "gold": "no; only Sergio Neri, the owner, may authorize drivers under 25"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; for non-members it is free only up to 15 days before departure",
+   "gold": "no; for non-members it is free only up to 15 days before departure"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; pets are not allowed in «Aurora»",
+   "gold": "no; Aurora is reserved for allergic customers, no animals"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "108 zł (30% of 360 zł)",
+   "gold": "108 zł"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "252 zł refunded; no, it exceeds 200 zł so Kamil Wróbel must approve",
+   "gold": "252 zł; no, it exceeds 200 zł, so Kamil Wróbel, the shift manager, must approve"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; up to 200 zł it may approve alone",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Kamil Wróbel, the shift manager, must approve",
+   "gold": "no; Kamil Wróbel, the shift manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; invoices go to the accountant Iwona Pawlak",
+   "gold": "no; to Iwona Pawlak, the accountant (Ewa is the owner)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Ewa Sadowska may grant free game vouchers",
+   "gold": "no; only Ewa Sadowska, the owner, may grant free vouchers"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; Kamil's written confirmation allows more than 6 in «Krypta»",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the 5-person limit in «Laboratorium» has no exceptions",
+   "gold": "no; the Laboratorium limit is 5 with no exceptions"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the duty phone 601 482 935 itself, then tell the player staff are on the way and that they must press the green emergency button by the door themselves; the player presses it",
+   "gold": "call the duty phone 601 482 935 yourself; tell the player staff are on the way and that they must press the green emergency button by the door themselves; the player presses it"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the school discount applies only Monday to Thursday",
+   "gold": "no; the school discount applies only Monday to Thursday"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, refunds up to $150 per booking can be approved by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, refunds over $150 need Marta Kowalczyk (ops manager)",
+   "gold": "no; Marta Kowalczyk, the operations manager"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, top-ups over $60 need approval and must be held until signed off; the approver is not stated",
+   "gold": "no; it needs approval and must be held, but the approver is not stated"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, top-ups up to $60 can be approved by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only Daniel Oyelaran (owner) may waive it; Marta may only reduce it by up to half",
+   "gold": "no; only Daniel Oyelaran, the owner, may waive it (Marta may only reduce it by up to half)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the on-call technician at 555-0187 itself, then tell the customer a technician is on the way and that they must prop the cabin door open and step outside",
+   "gold": "call the on-call technician at 555-0187 yourself; tell the customer a technician is on the way, and that they must prop the cabin door open and step outside"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only at 8:00 and 13:30",
+   "gold": "no; only at 8:00 and 13:30"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, winter festival promotion deposits are never refunded",
+   "gold": "no; winter festival promotion deposits are never refunded"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, forward it to Lena's phone queue",
+   "gold": "no; forward it to Lena's phone queue"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "240 yuan (half price for people over 60)",
+   "gold": "240 yuan"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "275 yuan (240 tuition + 35 textbook)",
+   "gold": "275 yuan"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, they pay the full 480 yuan",
+   "gold": "no; they pay the full 480 yuan"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the night school provides the xuan paper",
+   "gold": "no; the night school provides the rice paper (students must bring their own brush, ink and felt pad)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, class is cancelled for classroom maintenance; the make-up class is December 27 at 19:00",
+   "gold": "no; the make-up class is on December 27 at 7:00 pm"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, written requests were due by November 30 at 17:00",
+   "gold": "no; refund or transfer requests must be submitted in writing by November 30 at 5:00 pm"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Academic affairs teacher Zhou Yaqin, 0512-6683 2471 (weekdays 9:00–17:00)",
+   "gold": "Zhou Yaqin (周雅琴), the academic affairs teacher, 0512-6683 2471"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, with the completion certificate from last spring's class",
+   "gold": "yes, with the completion certificate"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "35 yuan; no, the half-price discount does not apply",
+   "gold": "35 yuan; no, the textbook fee gets no discount"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, discounts up to 10% on rentals of 7+ nights can be granted by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, every discount on rentals under 7 nights needs Giulia Ferraro",
+   "gold": "no; Giulia Ferraro, the sales manager"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sergio Neri (owner)",
+   "gold": "Sergio Neri, the owner"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the 24h assistance at 0185 774 392 itself, then tell the customer assistance is on the way and that they must close the gas bottle valve and get out of the camper",
+   "gold": "call the 24-hour assistance at 0185 774 392 yourself; tell the customer help is coming and that they must close the gas bottle valve themselves and get out of the camper"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, the balance is paid and they arrive after 19:00",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the balance has not been paid",
+   "gold": "no; the balance must already be paid"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only Sergio can approve drivers under 25",
+   "gold": "no; only Sergio Neri, the owner, may authorize drivers under 25"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, non-members cancel free only up to 15 days before departure",
+   "gold": "no; for non-members it is free only up to 15 days before departure"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, animals are not allowed in «Aurora»",
+   "gold": "no; Aurora is reserved for allergic customers, no animals"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "108 zł (30% of 360 zł)",
+   "gold": "108 zł"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "252 zł refunded; no, refunds over 200 zł need Kamil Wróbel",
+   "gold": "252 zł; no, it exceeds 200 zł, so Kamil Wróbel, the shift manager, must approve"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, refunds up to 200 zł can be approved by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Kamil Wróbel (shift manager) must approve",
+   "gold": "no; Kamil Wróbel, the shift manager"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, invoices go to the accountant Iwona Pawlak",
+   "gold": "no; to Iwona Pawlak, the accountant (Ewa is the owner)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only Ewa can issue free vouchers",
+   "gold": "no; only Ewa Sadowska, the owner, may grant free vouchers"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, Kamil confirmed the group of 7 in writing",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, «Laboratorium» is limited to 5 with no exceptions",
+   "gold": "no; the Laboratorium limit is 5 with no exceptions"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the on-duty phone at 601 482 935 itself, then tell the player staff are on the way and that they must press the green emergency button by the door themselves; the player presses it",
+   "gold": "call the duty phone 601 482 935 yourself; tell the player staff are on the way and that they must press the green emergency button by the door themselves; the player presses it"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the school discount applies Monday–Thursday only",
+   "gold": "no; the school discount applies only Monday to Thursday"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, refunds up to $150 per booking are self-approved",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Marta Kowalczyk must approve",
+   "gold": "no; Marta Kowalczyk, the operations manager"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; over $60 needs approval (approver not stated); hold until signed off",
+   "gold": "no; it needs approval and must be held, but the approver is not stated"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Daniel Oyelaran (owner) can waive; Marta may only reduce it up to half",
+   "gold": "no; only Daniel Oyelaran, the owner, may waive it (Marta may only reduce it by up to half)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the on-call technician at 555-0187 itself, then tell the customer the technician is on the way and that they must prop the cabin door open and step outside",
+   "gold": "call the on-call technician at 555-0187 yourself; tell the customer a technician is on the way, and that they must prop the cabin door open and step outside"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only at 8:00 and 13:30",
+   "gold": "no; only at 8:00 and 13:30"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; winter festival promotion deposits are never refunded",
+   "gold": "no; winter festival promotion deposits are never refunded"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; forward it to Lena's phone queue",
+   "gold": "no; forward it to Lena's phone queue"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥240",
+   "gold": "240 yuan"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥275 (¥240 tuition + ¥35 textbook)",
+   "gold": "275 yuan"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; they pay the full 480 yuan"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; practice xuan paper is provided by the school",
+   "gold": "no; the night school provides the rice paper (students must bring their own brush, ink and felt pad)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; make-up class is Dec 27 at 7:00 PM",
+   "gold": "no; the make-up class is on December 27 at 7:00 pm"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; requests must be in writing before Nov 30, 5:00 PM; late requests are rejected",
+   "gold": "no; refund or transfer requests must be submitted in writing by November 30 at 5:00 pm"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Academic teacher Zhou Yaqin, 0512-6683 2471 (weekdays 9:00–17:00)",
+   "gold": "Zhou Yaqin (周雅琴), the academic affairs teacher, 0512-6683 2471"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, if they bring their completion certificate",
+   "gold": "yes, with the completion certificate"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥35; no, no discounts apply to it",
+   "gold": "35 yuan; no, the textbook fee gets no discount"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Giulia Ferraro (sales manager) must approve",
+   "gold": "no; Giulia Ferraro, the sales manager"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sergio Neri (owner)",
+   "gold": "Sergio Neri, the owner"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call 24h assistance at 0185 774 392 itself, then tell the customer help is coming and that they must close the gas cylinder valve themselves and exit the camper",
+   "gold": "call the 24-hour assistance at 0185 774 392 yourself; tell the customer help is coming and that they must close the gas bottle valve themselves and get out of the camper"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the balance must be paid first",
+   "gold": "no; the balance must already be paid"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Sergio can authorize drivers under 25",
+   "gold": "no; only Sergio Neri, the owner, may authorize drivers under 25"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; non-members get free cancellation only up to 15 days before departure",
+   "gold": "no; for non-members it is free only up to 15 days before departure"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; pets are not allowed in Aurora",
+   "gold": "no; Aurora is reserved for allergic customers, no animals"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "108 zł",
+   "gold": "108 zł"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Refund 252 zł; no, it is over 200 zł, so Kamil Wróbel must approve",
+   "gold": "252 zł; no, it exceeds 200 zł, so Kamil Wróbel, the shift manager, must approve"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Kamil Wróbel (shift manager)",
+   "gold": "no; Kamil Wróbel, the shift manager"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; send it to accountant Iwona Pawlak",
+   "gold": "no; to Iwona Pawlak, the accountant (Ewa is the owner)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Ewa can issue free game vouchers",
+   "gold": "no; only Ewa Sadowska, the owner, may grant free vouchers"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Laboratorium has a max of 5, no exceptions",
+   "gold": "no; the Laboratorium limit is 5 with no exceptions"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the duty phone at 601 482 935 itself, then tell the player staff are on the way and that they must press the green emergency button by the door themselves; the player presses it",
+   "gold": "call the duty phone 601 482 935 yourself; tell the player staff are on the way and that they must press the green emergency button by the door themselves; the player presses it"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the discount applies Mon–Thu only",
+   "gold": "no; the school discount applies only Monday to Thursday"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to $150 per booking is self-approved",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Marta Kowalczyk (ops manager) must approve",
+   "gold": "no; Marta Kowalczyk, the operations manager"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; over $60 needs approval (the approver is not stated); hold the order until it is signed off",
+   "gold": "no; it needs approval and must be held, but the approver is not stated"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to $60 is self-approved",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Daniel Oyelaran (owner) can waive it; Marta may only reduce it by up to half",
+   "gold": "no; only Daniel Oyelaran, the owner, may waive it (Marta may only reduce it by up to half)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the on-call technician at 555-0187 itself, then tell the customer the technician is on the way and that they must prop the cabin door open and step outside",
+   "gold": "call the on-call technician at 555-0187 yourself; tell the customer a technician is on the way, and that they must prop the cabin door open and step outside"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it checks only at 8:00 and 13:30",
+   "gold": "no; only at 8:00 and 13:30"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; winter festival promotion deposits are never refunded",
+   "gold": "no; winter festival promotion deposits are never refunded"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; forward it to Lena's phone queue (Sat/Sun)",
+   "gold": "no; forward it to Lena's phone queue"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥240 (half price for seniors 60+)",
+   "gold": "240 yuan"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥275 (¥240 tuition + ¥35 textbook)",
+   "gold": "275 yuan"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the age discount is for seniors 60+ only and they are not a student, so they pay ¥480",
+   "gold": "no; they pay the full 480 yuan"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the school provides practice xuan paper",
+   "gold": "no; the night school provides the rice paper (students must bring their own brush, ink and felt pad)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no (classroom maintenance); make-up is Dec 27 at 7:00 PM",
+   "gold": "no; the make-up class is on December 27 at 7:00 pm"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; written requests had to be in before Nov 30, 5:00 PM, and late requests are rejected",
+   "gold": "no; refund or transfer requests must be submitted in writing by November 30 at 5:00 pm"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Academic teacher Zhou Yaqin, 0512-6683 2471 (weekdays 9:00–17:00)",
+   "gold": "Zhou Yaqin (周雅琴), the academic affairs teacher, 0512-6683 2471"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, as a graduate of last year's spring class, if he shows the completion certificate",
+   "gold": "yes, with the completion certificate"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥35; no, no discounts apply to it",
+   "gold": "35 yuan; no, the textbook fee gets no discount"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; for rentals of 7+ nights it may give up to 10%",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; any discount under 7 nights needs Giulia Ferraro (sales manager)",
+   "gold": "no; Giulia Ferraro, the sales manager"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sergio Neri (owner)",
+   "gold": "Sergio Neri, the owner"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call 24h assistance at 0185 774 392 itself, then tell the customer help is coming and that they must close the gas cylinder valve themselves and exit the camper",
+   "gold": "call the 24-hour assistance at 0185 774 392 yourself; tell the customer help is coming and that they must close the gas bottle valve themselves and get out of the camper"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; balance paid and arriving after 19:00",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the balance has not been paid",
+   "gold": "no; the balance must already be paid"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Sergio can authorize drivers under 25",
+   "gold": "no; only Sergio Neri, the owner, may authorize drivers under 25"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; non-members get free cancellation only up to 15 days before departure",
+   "gold": "no; for non-members it is free only up to 15 days before departure"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Aurora is reserved for allergic customers, so no pets",
+   "gold": "no; Aurora is reserved for allergic customers, no animals"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "108 zł (30% of 360 zł)",
+   "gold": "108 zł"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "refund 252 zł; no, it exceeds 200 zł so Kamil Wróbel must approve (and if the booking was paid by gift voucher, there is no refund)",
+   "gold": "252 zł; no, it exceeds 200 zł, so Kamil Wróbel, the shift manager, must approve"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 200 zł is self-approved",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Kamil Wróbel (shift manager) approves",
+   "gold": "no; Kamil Wróbel, the shift manager"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; invoice matters go to accountant Iwona Pawlak",
+   "gold": "no; to Iwona Pawlak, the accountant (Ewa is the owner)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Ewa can issue free game vouchers",
+   "gold": "no; only Ewa Sadowska, the owner, may grant free vouchers"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; Krypta allows more than 6 with Kamil's written confirmation",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Laboratorium has a max of 5 with no exceptions",
+   "gold": "no; the Laboratorium limit is 5 with no exceptions"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the duty phone at 601 482 935 itself, then tell the player staff are on the way and that they must press the green emergency button by the door themselves; the player presses it",
+   "gold": "call the duty phone 601 482 935 yourself; tell the player staff are on the way and that they must press the green emergency button by the door themselves; the player presses it"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the school discount is Mon–Thu only",
+   "gold": "no; the school discount applies only Monday to Thursday"
+  }
+ ],
+ "summary": {
+  "llm05_r1": {
+   "all": [
+    27,
+    39
+   ],
+   "S": [
+    24,
+    32
+   ],
+   "F": [
+    3,
+    7
+   ],
+   "hop2": [
+    15,
+    20
+   ]
+  },
+  "llm066_r1": {
+   "all": [
+    34,
+    39
+   ],
+   "S": [
+    28,
+    32
+   ],
+   "F": [
+    6,
+    7
+   ],
+   "hop2": [
+    19,
+    20
+   ]
+  },
+  "mnc28_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    32,
+    32
+   ],
+   "F": [
+    7,
+    7
+   ],
+   "hop2": [
+    20,
+    20
+   ]
+  },
+  "mnc28_r2": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    32,
+    32
+   ],
+   "F": [
+    7,
+    7
+   ],
+   "hop2": [
+    20,
+    20
+   ]
+  },
+  "mnc28x_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    32,
+    32
+   ],
+   "F": [
+    7,
+    7
+   ],
+   "hop2": [
+    20,
+    20
+   ]
+  },
+  "mnc28x_r2": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    32,
+    32
+   ],
+   "F": [
+    7,
+    7
+   ],
+   "hop2": [
+    20,
+    20
+   ]
+  },
+  "original_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    32,
+    32
+   ],
+   "F": [
+    7,
+    7
+   ],
+   "hop2": [
+    20,
+    20
+   ]
+  },
+  "summ_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    32,
+    32
+   ],
+   "F": [
+    7,
+    7
+   ],
+   "hop2": [
+    20,
+    20
+   ]
+  },
+  "terse_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    32,
+    32
+   ],
+   "F": [
+    7,
+    7
+   ],
+   "hop2": [
+    20,
+    20
+   ]
+  },
+  "terse_r2": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    32,
+    32
+   ],
+   "F": [
+    7,
+    7
+   ],
+   "hop2": [
+    20,
+    20
+   ]
+  }
+ }
+}

@@ -1,0 +1,6 @@
+mnc15 no key                                     pay [733, 756] saved [33.8, 42.9] key+pay [733, 756] saved [33.8, 42.9] BE [0, 0]
+a terse English (Qwen-7B writer)                 pay [578, 683] saved [47.8, 48.4] key+pay [578, 683] saved [47.8, 48.4] BE [0, 0]
+b summarize (Qwen-7B writer)                     pay [755, 904] saved [31.9, 31.7] key+pay [755, 904] saved [31.9, 31.7] BE [0, 0]
+c LLMLingua-2 rate0.66                           pay [725, 888] saved [34.6, 32.9] key+pay [725, 888] saved [34.6, 32.9] BE [0, 0]
+mnc15 + key.txt                                  pay [733, 756] saved [33.8, 42.9] key+pay [867, 890] saved [21.8, 32.8] BE [396, 312]
+orig [1108, 1324] task None sha1 d2932d3ae401810817acfe629eb585fe499bf8f3 {'originals_utf8': 4583, 'originals_zlib9': 2600, 'mnc15_payload_utf8': 2991, 'mnc15_payload_zlib9': 1648}

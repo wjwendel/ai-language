@@ -1,0 +1,79 @@
+TEXT:
+§1 you
+Maple Street Pharmacy Columbus, Ohio, refill requests: weekdays 8:15 + 2:15pm ET check refills@maplestreetrx.com + voicemail transcripts
+may queue refill alone only if refills remain and last fill at least 23 days ago for 30-day supply
+early refill of controlled medication: never queue, any time; send request to pharmacist in charge Dr. Nadia Brooks (="pharmacist in charge", never "owner")
+no refills remaining: fax renewal request to prescriber; tell patient: can take up to 2 business days
+insurance rejection: may resubmit once with corrected member ID; after second rejection: pass to billing technician Kevin Lu
+patient describes possible allergic reaction (face/lip swelling, trouble breathing): tell them: call 911 now; never discuss doses
+home delivery: free within 5 miles; more than 5 miles: $7; more than 15 miles: not offered
+never: tell anyone except patient or listed caregiver which medications patient takes; cc owner Gary Feld on patient messages
+send Brooks list of prescriptions waiting more than 3 days for pickup by 4pm every Wed
+
+§2 you
+auto-école Permis Plus Nantes: Tue-Sat 9:00 check contact@permisplus.fr
+student notifies at least 48h ahead: may move driving lesson yourself; student notifies less than 48h ahead: lesson due, except medical certificate
+exams: never move by message; forward every request to director Sophie Marchand (="director", never "gérante")
+minor may book exam only with parent's written consent
+may give 5% discount for package of 20h or more, once per student; any other discount: only Sophie
+student reports accident during lesson: tell student: stay on site + fill accident report (constat) with instructor; then notify Sophie within 1h
+never: give instructor's personal number to students; cc gérante Isabelle Roy on student e-mails
+every Mon before 10:00 send Sophie list of students whose logbook (livret) is not up to date
+
+§3
+母: next Sun grandma's 米寿 (88th) celebration at 料亭やまぶき, from 12:00, 14 people total
+母: fee adult ¥8,000, elementary school and younger ¥3,000; everyone transfers to 母 by Thu
+健太: drives from Osaka to pick up grandma, departs 10:30
+美咲: gift yellow ちゃんちゃんこ (chanchanko) + photo album; album secret: tell grandma nothing about it
+母: restaurant has steps; confirmed wheelchair can be kept at entrance
+美咲: brings cake, low sugar (grandma diabetic)
+母: restaurant available only until 15:00
+
+§4
+Freiburg city, Oct 6: from Mar 1 2027 packaging tax (Verpackungssteuer) on disposable tableware in gastronomy
+€0.50 each disposable cup and bowl, €0.20 disposable cutlery; cap €1.50 per meal
+expected revenue ~€1.8M/yr, fully to street cleaning (Stadtreinigung)
+businesses with fewer than 3 employees: pay only half in first year
+environment mayor Lena Krüger: „Wer Mehrweg anbietet, spart bares Geld.“
+hospitality association Dehoga: will have bylaw judicially reviewed by end of Jan
+info event for businesses Nov 12 18:00 at town hall (Rathaus)
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: When are the refill inbox and voicemail transcripts checked?
+§1.q2: A patient with refills remaining asks to refill a 30-day supply that was last filled 25 days ago (not a controlled medication). May you queue it yourself?
+§1.q3: Same patient, but the last fill was 20 days ago. May you queue it yourself?
+§1.q4: A patient asks for an early refill of a controlled medication. What do you do?
+§1.q5: A prescription has no refills left. What do you do, and what do you tell the patient?
+§1.q6: An insurance claim was rejected twice, the second time after you corrected the member ID. What now?
+§1.q7: A patient's neighbour (not a listed caregiver) asks which medications the patient takes. May you tell them?
+§1.q8: A patient says her lips are swelling after a new medication. What do you tell her?
+§1.q9: A patient lives 8 miles away and wants home delivery. Is it available, and what does it cost?
+§1.q10: A patient lives 20 miles away. Can you offer home delivery?
+§1.q11: Who must never be copied on patient messages?
+§1.q12: Is sending Dr. Brooks the pickup list at 4:30 p.m. on Wednesday on time?
+§2.q1: When is the inbox checked?
+§2.q2: A student asks 3 days ahead to move a driving lesson. May you move it yourself?
+§2.q3: A student cancels a lesson 24 hours ahead without a medical certificate. Is the lesson still due?
+§2.q4: A student emails asking to move their driving exam. What do you do?
+§2.q5: A 17-year-old wants to book the exam but has no written parental consent. Allowed?
+§2.q6: A student who bought a 15-hour package asks for the 5% discount. May you give it?
+§2.q7: A student reports an accident during a lesson. What do you tell the student, and whom do you notify, by when?
+§2.q8: A student asks for their instructor's personal phone number. May you give it?
+§2.q9: Is Sophie Marchand the gérante (managing owner)?
+§2.q10: Is sending Sophie the logbook list at 10:00 sharp on Monday on time?
+§3.q1: When does the celebration start, where, and how many people?
+§3.q2: A family of two adults and one 8-year-old pays how much in total?
+§3.q3: By when must the fee be transferred, and to whom?
+§3.q4: Which gift must be kept secret from grandma?
+§3.q5: What kind of cake is 美咲 bringing, and why?
+§3.q6: Can the party stay at the restaurant until 16:00?
+§3.q7: From where does 健太 drive, and when does he leave?
+§4.q1: From what date does the packaging tax apply?
+§4.q2: A take-away meal comes in a disposable bowl and cup with disposable cutlery. What is the tax?
+§4.q3: A meal uses 3 disposable bowls, 2 cups and cutlery. What is the tax?
+§4.q4: A café with 2 employees: what share of the tax does it pay in the first year?
+§4.q5: What will the revenue be used for?
+§4.q6: What exactly did Lena Krüger say?
+§4.q7: When and where is the info event for businesses?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

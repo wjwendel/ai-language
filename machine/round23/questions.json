@@ -1,0 +1,522 @@
+{
+ "written": "2026-11-18 by independent author (r23)",
+ "questions": [
+  {
+   "id": "§1.q1",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer's misprinted job needs a reprint costing exactly $120. May the assistant approve it on its own?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q2",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A reprint would cost $121. Can the assistant approve it alone? If not, who must approve it?",
+   "gold": "no — Dana Okafor, the shop manager, must approve",
+   "accept": [
+    "^\\W*no\\b",
+    "dana|okafor"
+   ],
+   "reject": [
+    "victor|hale"
+   ]
+  },
+  {
+   "id": "§1.q3",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Who is the owner of Inkwell & Press?",
+   "gold": "Victor Hale",
+   "accept": [
+    "victor|hale"
+   ],
+   "reject": [
+    "dana|okafor"
+   ]
+  },
+  {
+   "id": "§1.q4",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer complains about a smudged poster. Should the assistant copy Victor Hale on the reply?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q5",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "Un cliente invia un ordine urgente di inviti di nozze lunedì alle 9:00. Possono essere stampati il giorno lavorativo successivo?",
+   "gold": "no — wedding invitations always need three business days",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q6",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A rush flyer order arrives at 10:45 am. Can it be printed on the next business day?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q7",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer asks the assistant to promise same-day delivery for a large order. May it promise that?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q8",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Someone emails that there is a burning smell at the shop. What must the assistant do, and what should it tell the customer?",
+   "gold": "call the building's alarm service yourself at 555-0147 and tell the customer to leave the building and wait outside",
+   "accept": [
+    "555\\W?0147",
+    "leave|outside|exit"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q9",
+   "sec": 1,
+   "type": "F",
+   "hop": 1,
+   "q": "Which exact sentence must every quote email end with?",
+   "gold": "Prices are valid for 14 days from the date of this quote.",
+   "accept": [
+    "valid for (14|fourteen) days",
+    "date of this quote"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q10",
+   "sec": 1,
+   "type": "F",
+   "hop": 1,
+   "q": "Vilken dag och tid ska veckorapporten skickas till Dana, och vad ska den innehålla?",
+   "gold": "Friday at 4:00 pm; open orders and unpaid invoices",
+   "accept": [
+    "friday",
+    "(\\b4(:00)?\\s*p\\.?m|16[:.]00)",
+    "unpaid invoices|invoices"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q1",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "秋祭りはいつ、どこで開催されますか？",
+   "gold": "October 12–13 at Sakuradai Daini (No. 2) Park",
+   "accept": [
+    "12",
+    "13",
+    "park|公園"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q2",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "What time does the Bon dance on October 13 end?",
+   "gold": "8:30 pm",
+   "accept": [
+    "(\\b8[:.]30\\s*p\\.?m|20[:.]30)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q3",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "A household whose dues are paid brings two adults, one elementary-school child and one 4-year-old. What is the total participation fee?",
+   "gold": "1,200 yen",
+   "accept": [
+    "\\b1,?200\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q4",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "町内会費が未納の世帯の大人2人と小学生1人の場合、参加費の合計はいくらですか？",
+   "gold": "1,800 yen",
+   "accept": [
+    "\\b1,?800\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q5",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "By when must stall applications be submitted, and how much is the stall fee?",
+   "gold": "by September 20; 3,000 yen",
+   "accept": [
+    "(sep|9\\s*/|9月)",
+    "\\b20",
+    "3,?000"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q6",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "If it rains, to which date is the festival moved, and when are residents told?",
+   "gold": "October 19 (Saturday); announced over the neighborhood PA at 7 am that day",
+   "accept": [
+    "\\b19",
+    "(\\b0?7(:00)?\\s*a\\.?m|\\b0?7[:.]00|午前7)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q7",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "It rains on the festival date and again on the postponement date. What happens to the festival and to the stall fee?",
+   "gold": "the festival is cancelled and the stall fee is fully refunded",
+   "accept": [
+    "cancel",
+    "refund"
+   ],
+   "reject": [
+    "no refund|not (be )?refunded|non-?refundable"
+   ]
+  },
+  {
+   "id": "§2.q8",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "May an ordinary visitor drive to the festival and park at the venue?",
+   "gold": "no — there is no parking; only wheelchair users may use the temporary north-side spaces",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q9",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "車いすを利用している人は車で来場できますか？どこに駐車できますか？",
+   "gold": "yes — in the temporary parking area on the north side of the park (5 spaces)",
+   "accept": [
+    "^\\W*yes\\b",
+    "north|北"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q10",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "Who is the contact person for questions, and what is the phone number?",
+   "gold": "Kazuo Morita, festival committee chair, 090-4417-2286",
+   "accept": [
+    "morita|森田",
+    "090\\W?4417\\W?2286"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q1",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "May the assistant confirm a custom cake order of exactly 80 euros on its own?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q2",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Un cliente ordina una torta personalizzata da 95 euro. L'assistente può confermarla da solo? Se no, chi deve approvarla?",
+   "gold": "no — Chiara Rinaldi, the head pastry chef, must approve",
+   "accept": [
+    "^\\W*no\\b",
+    "chiara|rinaldi"
+   ],
+   "reject": [
+    "graziella",
+    "marco|ferri"
+   ]
+  },
+  {
+   "id": "§3.q3",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Who is the owner (titolare) of the pasticceria?",
+   "gold": "Graziella Bellandi",
+   "accept": [
+    "graziella"
+   ],
+   "reject": [
+    "chiara|rinaldi"
+   ]
+  },
+  {
+   "id": "§3.q4",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer complains about stale croissants. May the assistant copy Marco Ferri, the flour supplier, on the reply?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q5",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Un cliente chiede se la torta può essere garantita senza glutine. L'assistente può prometterlo?",
+   "gold": "no — the lab is not certified gluten-free",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q6",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "On Friday at 10:00 a customer orders a birthday cake for the next day (Saturday). Can the assistant accept it?",
+   "gold": "no — Saturday orders must arrive by Thursday 18:00",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q7",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "On Thursday at 17:00 a customer orders a wedding cake for the Saturday two days later. Can the assistant accept it?",
+   "gold": "no — wedding cakes need at least ten days' notice",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q8",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer cancels an order three days before pickup. Do they get the deposit back, and how much?",
+   "gold": "yes — the full 20 euro deposit",
+   "accept": [
+    "^\\W*yes\\b",
+    "\\b20\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q9",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer reports an allergic reaction after eating one of the pastries. What must the assistant do, and what should it tell the customer?",
+   "gold": "call the owner yourself immediately at 347 812 5530 and tell the customer to call 118 immediately",
+   "accept": [
+    "347\\W?812\\W?5530",
+    "\\b118\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q10",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "Con quale frase esatta deve terminare ogni conferma d'ordine?",
+   "gold": "«Grazie per aver scelto la Pasticceria Bellandi, vi aspettiamo in negozio.»",
+   "accept": [
+    "grazie per aver scelto",
+    "vi aspettiamo in negozio"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q1",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "May the assistant extend an annual pass by exactly 14 days on its own?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q2",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "En medlem vill förlänga sitt årskort med 15 dagar. Får assistenten göra det själv, och vem måste annars godkänna?",
+   "gold": "no — Sara Lindqvist, the hall manager, must approve",
+   "accept": [
+    "^\\W*no\\b",
+    "sara|lindqvist"
+   ],
+   "reject": [
+    "\\bper\\b|åström|astrom",
+    "jonas"
+   ]
+  },
+  {
+   "id": "§4.q3",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Is Sara Lindqvist the owner of Bergväggen?",
+   "gold": "no — she is the hall manager; the owner is Per Åström",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q4",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A parent complains about a climbing course. May the assistant copy Jonas Berg, the course leader?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q5",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A 12-year-old wants to climb alone on a Saturday without an adult. Is that allowed?",
+   "gold": "no — children under 13 must climb with an adult (except the Wednesday kids' course)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q6",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "En 11-åring kommer utan vuxen till barnkursen på onsdag. Får barnet klättra?",
+   "gold": "yes — the instructors are responsible during the Wednesday kids' course",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q7",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "A customer cancels the introductory course three days before it starts. How much money is refunded?",
+   "gold": "337.50 kronor (75% of 450)",
+   "accept": [
+    "337([.,]50?)?"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q8",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "En kund avbokar introduktionskursen 24 timmar före kursstart. Hur mycket återbetalas?",
+   "gold": "nothing (0 kronor)",
+   "accept": [
+    "^\\W*(nothing|0\\b|none|no\\b|zero|ingenting)"
+   ],
+   "reject": [
+    "337|450"
+   ]
+  },
+  {
+   "id": "§4.q9",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Someone reports an accident with an injured climber in the hall. What must the assistant do, and what should it tell the customer?",
+   "gold": "call the on-call phone 070-318 44 96 yourself; tell the customer not to move the injured person and to call 112",
+   "accept": [
+    "070\\W?318\\W?44\\W?96",
+    "(not|n't|never) (to )?move",
+    "\\b112\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q10",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "Med vilken exakt mening ska varje bokningsbekräftelse börja?",
+   "gold": "\"Välkommen till Bergväggen – kom ihåg inneskor och giltigt klätterkort.\"",
+   "accept": [
+    "välkommen till bergväggen",
+    "inneskor"
+   ],
+   "reject": []
+  }
+ ]
+}

@@ -1,0 +1,3696 @@
+{
+ "rows": [
+  {
+   "f": "llm05_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes, up to $35 on standard sweeps is allowed"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Nadia Fenwick must approve",
+   "gold": "no, camera inspection discounts need approval from Nadia Fenwick, the office manager"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only refunds above $120 need her approval",
+   "gold": "no, only refunds above $120 need her approval"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; the owner is Ruth Calloway (Tobias Grell is the lead technician)",
+   "gold": "no, Tobias Grell is the lead technician; the owner is Ruth Calloway"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated; the TEXT mentions Emil Calloway and copying on complaints but gives no clear rule",
+   "gold": "no, Emil Calloway must never be copied on a customer complaint"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Only Ms. Avery's; without a plan, a free move needs 48 hours' notice",
+   "gold": "only Ms. Avery's (service-plan customers can move free up to 12 hours before); Mr. Bose would need 48 hours"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "By 17:00 on Friday, the next business day",
+   "gold": "by Friday 17:00 (next business day)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the on-call technician at 555-0148, then tell the customer to close the stove's air damper and leave the house; the TEXT also says the technician has been alerted",
+   "gold": "call the on-call technician line 555-0148 yourself; tell the customer a technician has been alerted, and that they must close the stove's air damper and leave the house"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "It must end with \"Thank you for hearth safe.\" (the sentence is garbled in the TEXT); the summary goes to Nadia Fenwick on Friday at 16:00",
+   "gold": "\"Thank you for helping us keep your hearth safe.\"; every Friday at 16:00 to Nadia Fenwick"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "March 8, 2027",
+   "gold": "8 March 2027 (Monday)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Ordinary parcels: 24 hours free; cold-chain fresh parcels: not stated",
+   "gold": "24 hours for ordinary parcels, 12 hours for cold-chain parcels"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The TEXT conflicts: 36 overtime hours cost 1.5 yuan at 0.5 yuan per 12 hours, or 6 yuan at 1 yuan per 6 hours",
+   "gold": "1.5 yuan (36 hours over = 3 × 0.5 yuan)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; no exclusion for large parcels is stated",
+   "gold": "yes, the March 15 date limit applies only to cold-chain parcels, not large parcels"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes; no exclusion for cold-chain parcels is stated",
+   "gold": "no, only cold-chain parcels deposited after March 15 qualify"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "on the next day (Thursday), 9:00 to 11:00"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Zheng Xiaolan (郑晓岚); the phone number appears only as 0571 (incomplete)",
+   "gold": "Zheng Xiaolan, 138 0571 2269"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated where it goes or what to bring; the TEXT mentions a 5-yuan storage fee",
+   "gold": "it is moved to the property service center; bring an ID card; 5 yuan storage fee"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the locker doors cannot be opened after 23:00",
+   "gold": "no, the lockers are open only 6:00–23:00"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; orders up to 250 euros may be confirmed",
+   "gold": "yes, chemical reorders up to 250 euros may be confirmed on its own"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; who approves is not stated",
+   "gold": "no, it exceeds 250 euros; the text names Lukas Brandauer only for spare parts, so the approver for larger chemical orders is not stated"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; orders for spare parts and filters need approval from Lukas Brandauer",
+   "gold": "no, spare parts always need approval from Lukas Brandauer, the workshop manager, regardless of amount"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; the owner is Sabine Hornung (Lukas Brandauer is the workshop manager)",
+   "gold": "no, the owner is Sabine Hornung; Lukas Brandauer is the workshop manager"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated; the TEXT mentions Kessel, complaints and copying but gives no clear rule",
+   "gold": "no, never"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Herr Ott cannot book, since the general deadline is April 15; Frau Maier can book only if she counts as a regular customer (deadline April 30), and the TEXT does not say a maintenance contract makes someone a regular customer",
+   "gold": "only Frau Maier (contract customers can book until 30 April; others only until 15 April)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated clearly; the TEXT mentions chlorine dosage advice by email without a clear rule",
+   "gold": "no, never give chlorine dosage recommendations by email"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Notify the on-call technician at 0171 4482905, then tell the customer to switch off the pool pump and leave the room",
+   "gold": "call the on-call technician at 0171 4482905 yourself; tell the customer a technician has been notified, and that they must switch off the pool pump at the main switch and leave the technical room"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "It must begin with thanks, but the exact sentence is not stated; the overview is sent Monday at 9:00",
+   "gold": "\"Vielen Dank, dass Sie uns darauf hinweisen.\"; every Monday at 9:00"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes, up to 180 zł is allowed"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Agnieszka Wróbel must approve",
+   "gold": "no, it needs approval from Agnieszka Wróbel, the office manager"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "80 zł (25% of 320 zł)",
+   "gold": "80 zł (25% of 320 zł)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Most likely 0 zł; a doctor's certificate appears to waive the fee, though the TEXT does not state this explicitly",
+   "gold": "nothing (0 zł)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "400 zł (two-thirds of the 600 zł deposit)",
+   "gold": "400 zł (two thirds of 600 zł)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "280 zł (80 zł fee + 200 zł kept from the deposit)",
+   "gold": "280 zł (80 zł fee + 200 zł retained deposit)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; the owner is Tomasz Nowak (Marek Zieliński is a technician)",
+   "gold": "no, he is the main technician; the owner is Tomasz Nowak"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated; the TEXT mentions Irena Nowak and billing but gives no clear rule",
+   "gold": "no, never"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call 602 315 778, then tell the customer to unplug the heater and unplug the filter",
+   "gold": "call the on-call technician at 602 315 778 yourself; tell the customer the technician has been notified, and that they must immediately unplug the heater and filter themselves"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; standard sweep discounts of up to $35 per booking are allowed",
+   "gold": "yes, up to $35 on standard sweeps is allowed"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; camera inspection discounts need Nadia Fenwick's approval",
+   "gold": "no, camera inspection discounts need approval from Nadia Fenwick, the office manager"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only refunds above $120 need her approval",
+   "gold": "no, only refunds above $120 need her approval"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the owner is Ruth Calloway",
+   "gold": "no, Tobias Grell is the lead technician; the owner is Ruth Calloway"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Emil Calloway is never copied on customer complaints",
+   "gold": "no, Emil Calloway must never be copied on a customer complaint"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Ms. Avery's move is free; Mr. Bose needed 48 hours' notice",
+   "gold": "only Ms. Avery's (service-plan customers can move free up to 12 hours before); Mr. Bose would need 48 hours"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 17:00 on Friday, the next business day",
+   "gold": "by Friday 17:00 (next business day)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician line at 555-0148, then tell the customer that a technician has been alerted and that they should close the stove's air damper and leave the house",
+   "gold": "call the on-call technician line 555-0148 yourself; tell the customer a technician has been alerted, and that they must close the stove's air damper and leave the house"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "\"Thank you for helping keep hearth safe.\"; the summary goes to Nadia Fenwick every Friday at 16:00",
+   "gold": "\"Thank you for helping us keep your hearth safe.\"; every Friday at 16:00 to Nadia Fenwick"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "8 March 2027",
+   "gold": "8 March 2027 (Monday)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "24 hours for an ordinary parcel; 12 hours for a cold-chain parcel",
+   "gold": "24 hours for ordinary parcels, 12 hours for cold-chain parcels"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1.5 yuan",
+   "gold": "1.5 yuan (36 hours over = 3 × 0.5 yuan)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; the TEXT puts no restriction on the free pickup service",
+   "gold": "yes, the March 15 date limit applies only to cold-chain parcels, not large parcels"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes; the TEXT puts no restriction on the free pickup service",
+   "gold": "no, only cold-chain parcels deposited after March 15 qualify"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "on the next day (Thursday), 9:00 to 11:00"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Zheng Xiaolan; the phone number is given only as 0571 (rest not stated)",
+   "gold": "Zheng Xiaolan, 138 0571 2269"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "it is moved to the property service center; bring an ID card; 5 yuan storage fee"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the locker doors cannot be opened after 23:00",
+   "gold": "no, the lockers are open only 6:00–23:00"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; orders up to 250 euros can be confirmed",
+   "gold": "yes, chemical reorders up to 250 euros may be confirmed on its own"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the TEXT does not say who approves",
+   "gold": "no, it exceeds 250 euros; the text names Lukas Brandauer only for spare parts, so the approver for larger chemical orders is not stated"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; replacement parts always need Lukas Brandauer's approval, whatever the amount",
+   "gold": "no, spare parts always need approval from Lukas Brandauer, the workshop manager, regardless of amount"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the owner is Sabine Hornung",
+   "gold": "no, the owner is Sabine Hornung; Lukas Brandauer is the workshop manager"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes; as written, the TEXT says he may be copied (a negation may be missing)",
+   "gold": "no, never"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Frau Maier; others can book only until 15 April, contract customers until 30 April",
+   "gold": "only Frau Maier (contract customers can book until 30 April; others only until 15 April)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes; as written, the TEXT says to give chlorine dosage advice by email (a negation may be missing)",
+   "gold": "no, never give chlorine dosage recommendations by email"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician at 0171 4482905, then tell the customer that the technician has been notified and that they must switch off the pool pump and leave the technical room",
+   "gold": "call the on-call technician at 0171 4482905 yourself; tell the customer a technician has been notified, and that they must switch off the pool pump at the main switch and leave the technical room"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer; the main switch is not stated",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "it begins with \"Vielen Dank, ...\" (rest cut off in the TEXT); the overview goes out every Monday at 9:00",
+   "gold": "\"Vielen Dank, dass Sie uns darauf hinweisen.\"; every Monday at 9:00"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; orders up to 180 zł can be confirmed",
+   "gold": "yes, up to 180 zł is allowed"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Agnieszka Wróbel must approve",
+   "gold": "no, it needs approval from Agnieszka Wróbel, the office manager"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "80 zł (25% of 320 zł)",
+   "gold": "80 zł (25% of 320 zł)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing (0 zł)",
+   "gold": "nothing (0 zł)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "400 zł (two-thirds of the 600 zł deposit)",
+   "gold": "400 zł (two thirds of 600 zł)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "280 zł (80 zł fee plus 200 zł kept from the deposit)",
+   "gold": "280 zł (80 zł fee + 200 zł retained deposit)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the owner is Tomasz Nowak",
+   "gold": "no, he is the main technician; the owner is Tomasz Nowak"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no, never"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician at 602 315 778, then tell the customer that the technician has been notified and that they should unplug the heater and filter",
+   "gold": "call the on-call technician at 602 315 778 yourself; tell the customer the technician has been notified, and that they must immediately unplug the heater and filter themselves"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $35 is within the $35 limit for standard sweep bookings",
+   "gold": "yes, up to $35 on standard sweeps is allowed"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, any discount on a camera inspection needs approval from Nadia Fenwick, the office manager",
+   "gold": "no, camera inspection discounts need approval from Nadia Fenwick, the office manager"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only refunds over $120 need her approval",
+   "gold": "no, only refunds above $120 need her approval"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Tobias Grell is the lead technician; the owner is Ruth Calloway",
+   "gold": "no, Tobias Grell is the lead technician; the owner is Ruth Calloway"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Emil Calloway must never be copied on a customer complaint",
+   "gold": "no, Emil Calloway must never be copied on a customer complaint"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Ms. Avery's move is free (plan customers: free up to 12h before); Mr. Bose needed to ask at least 48h before",
+   "gold": "only Ms. Avery's (service-plan customers can move free up to 12 hours before); Mr. Bose would need 48 hours"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 17:00 on Friday, the next business day",
+   "gold": "by Friday 17:00 (next business day)"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician line 555-0148 yourself; tell the customer that a technician has been alerted and that they must close the stove's air damper and leave the house themselves",
+   "gold": "call the on-call technician line 555-0148 yourself; tell the customer a technician has been alerted, and that they must close the stove's air damper and leave the house"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Thank you for helping us keep your hearth safe.\"; the summary goes to Nadia Fenwick on Fridays at 16:00",
+   "gold": "\"Thank you for helping us keep your hearth safe.\"; every Friday at 16:00 to Nadia Fenwick"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "from 8 March 2027 (Monday)",
+   "gold": "8 March 2027 (Monday)"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "24 hours for an ordinary parcel; 12 hours for a cold-chain fresh parcel",
+   "gold": "24 hours for ordinary parcels, 12 hours for cold-chain parcels"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1.5 yuan (36 hours over = 3 × 12h × 0.5 yuan, below the 3-yuan cap)",
+   "gold": "1.5 yuan (36 hours over = 3 × 0.5 yuan)"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, large parcels qualify on any date (register with the property 1 day in advance)",
+   "gold": "yes, the March 15 date limit applies only to cold-chain parcels, not large parcels"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, cold-chain parcels qualify only if put in the locker after 15 March",
+   "gold": "no, only cold-chain parcels deposited after March 15 qualify"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the next day (Thursday), 9:00-11:00",
+   "gold": "on the next day (Thursday), 9:00 to 11:00"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Zheng Xiaolan (郑晓岚), 138 0571 2269",
+   "gold": "Zheng Xiaolan, 138 0571 2269"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "it goes to the property service center; the resident collects it at the front desk with their ID card and pays a 5-yuan storage fee",
+   "gold": "it is moved to the property service center; bring an ID card; 5 yuan storage fee"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the doors can't open after 23:00",
+   "gold": "no, the lockers are open only 6:00–23:00"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, 250 euros is within the 250-euro limit",
+   "gold": "yes, chemical reorders up to 250 euros may be confirmed on its own"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is over 250 euros; the TEXT does not say who approves",
+   "gold": "no, it exceeds 250 euros; the text names Lukas Brandauer only for spare parts, so the approver for larger chemical orders is not stated"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, spare-part orders such as filters always need approval from Lukas Brandauer, whatever the amount",
+   "gold": "no, spare parts always need approval from Lukas Brandauer, the workshop manager, regardless of amount"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Lukas Brandauer is the workshop manager; the owner is Sabine Hornung",
+   "gold": "no, the owner is Sabine Hornung; Lukas Brandauer is the workshop manager"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no, never"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Frau Maier (contract customers can book until 30 April); Herr Ott's deadline was 15 April",
+   "gold": "only Frau Maier (contract customers can book until 30 April; others only until 15 April)"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, chlorine dosing recommendations are never given by email",
+   "gold": "no, never give chlorine dosage recommendations by email"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician at 0171 4482905 yourself; tell the customer that the technician has been notified and that they must switch off the pool pump at the main switch and leave the equipment room themselves",
+   "gold": "call the on-call technician at 0171 4482905 yourself; tell the customer a technician has been notified, and that they must switch off the pool pump at the main switch and leave the technical room"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Vielen Dank, dass Sie uns darauf hinweisen.\"; the overview goes to Sabine Hornung on Mondays at 9:00",
+   "gold": "\"Vielen Dank, dass Sie uns darauf hinweisen.\"; every Monday at 9:00"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, 180 zł is within the 180 zł limit",
+   "gold": "yes, up to 180 zł is allowed"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, orders over 180 zł need approval from Agnieszka Wróbel, the office manager",
+   "gold": "no, it needs approval from Agnieszka Wróbel, the office manager"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "80 zł (25% of 320 zł)",
+   "gold": "80 zł (25% of 320 zł)"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing (0 zł)",
+   "gold": "nothing (0 zł)"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "400 zł (two-thirds of the 600 zł deposit)",
+   "gold": "400 zł (two thirds of 600 zł)"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "280 zł (80 zł fee + 200 zł kept from the deposit)",
+   "gold": "280 zł (80 zł fee + 200 zł retained deposit)"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Marek Zieliński is the lead technician; the owner is Tomasz Nowak",
+   "gold": "no, he is the main technician; the owner is Tomasz Nowak"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no, never"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-duty technician at 602 315 778 yourself; tell the customer that the technician has been notified and that they must unplug the heater and filter immediately themselves",
+   "gold": "call the on-call technician at 602 315 778 yourself; tell the customer the technician has been notified, and that they must immediately unplug the heater and filter themselves"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $35 is within the assistant's limit of $35 or less per standard sweep booking",
+   "gold": "yes, up to $35 on standard sweeps is allowed"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, any discount on a camera inspection needs approval from Nadia Fenwick, the office manager",
+   "gold": "no, camera inspection discounts need approval from Nadia Fenwick, the office manager"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, approval is only needed for refunds over $120",
+   "gold": "no, only refunds above $120 need her approval"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Tobias Grell is the lead technician; the owner is Ruth Calloway",
+   "gold": "no, Tobias Grell is the lead technician; the owner is Ruth Calloway"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Emil Calloway must never be copied on a customer complaint",
+   "gold": "no, Emil Calloway must never be copied on a customer complaint"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Ms. Avery's move is free, because her active annual service plan allows free moves up to 12 hours before; Mr. Bose would have needed to ask at least 48 hours before",
+   "gold": "only Ms. Avery's (service-plan customers can move free up to 12 hours before); Mr. Bose would need 48 hours"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 17:00 on Friday, the next business day",
+   "gold": "by Friday 17:00 (next business day)"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant must call the on-call technician line 555-0148 itself, then tell the customer (1) the technician has been alerted and (2) they must close the stove's air damper and leave the house themselves",
+   "gold": "call the on-call technician line 555-0148 yourself; tell the customer a technician has been alerted, and that they must close the stove's air damper and leave the house"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Thank you for helping us keep your hearth safe.\"; the summary goes to Nadia Fenwick on Fridays at 16:00",
+   "gold": "\"Thank you for helping us keep your hearth safe.\"; every Friday at 16:00 to Nadia Fenwick"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "March 8, 2027 (Monday)",
+   "gold": "8 March 2027 (Monday)"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "ordinary parcel: 24 hours; cold-chain fresh parcel: 12 hours",
+   "gold": "24 hours for ordinary parcels, 12 hours for cold-chain parcels"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1.5元 (36 hours over the free period = 3 × 12 hours × 0.5元)",
+   "gold": "1.5 yuan (36 hours over = 3 × 0.5 yuan)"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, large parcels qualify on any date, if the owner registers with the property 1 day in advance",
+   "gold": "yes, the March 15 date limit applies only to cold-chain parcels, not large parcels"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, free service for cold-chain parcels only covers those put in the locker after March 15",
+   "gold": "no, only cold-chain parcels deposited after March 15 qualify"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the next day (Thursday), same hours 9:00-11:00",
+   "gold": "on the next day (Thursday), 9:00 to 11:00"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "郑晓岚, 138 0571 2269",
+   "gold": "Zheng Xiaolan, 138 0571 2269"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "it is moved to the property service center; the resident collects it at the front desk with their ID card and pays a 5元 storage fee",
+   "gold": "it is moved to the property service center; bring an ID card; 5 yuan storage fee"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the lockers open 6:00-23:00 and doors can't open after 23:00",
+   "gold": "no, the lockers are open only 6:00–23:00"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, 250 euros is within the assistant's limit of 250 euros or less",
+   "gold": "yes, chemical reorders up to 250 euros may be confirmed on its own"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is over the 250-euro limit; who approves is not stated",
+   "gold": "no, it exceeds 250 euros; the text names Lukas Brandauer only for spare parts, so the approver for larger chemical orders is not stated"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, spare-part orders of any amount always need approval from Lukas Brandauer",
+   "gold": "no, spare parts always need approval from Lukas Brandauer, the workshop manager, regardless of amount"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Lukas Brandauer is the workshop manager; the owner is Sabine Hornung",
+   "gold": "no, the owner is Sabine Hornung; Lukas Brandauer is the workshop manager"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no, never"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Frau Maier, because regular customers with a maintenance contract can book until April 30; for others the cutoff was April 15",
+   "gold": "only Frau Maier (contract customers can book until 30 April; others only until 15 April)"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no, never give chlorine dosage recommendations by email"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant must call the on-call technician at 0171 4482905 itself, then tell the customer (1) the technician has been notified and (2) they must switch off the pool pump at the main switch and leave the equipment room themselves",
+   "gold": "call the on-call technician at 0171 4482905 yourself; tell the customer a technician has been notified, and that they must switch off the pool pump at the main switch and leave the technical room"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "„Vielen Dank, dass Sie uns darauf hinweisen.\"; the overview goes to Sabine Hornung on Mondays at 9:00",
+   "gold": "\"Vielen Dank, dass Sie uns darauf hinweisen.\"; every Monday at 9:00"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, 180 zł is within the assistant's limit of 180 zł or less",
+   "gold": "yes, up to 180 zł is allowed"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it needs approval from Agnieszka Wróbel, the office manager",
+   "gold": "no, it needs approval from Agnieszka Wróbel, the office manager"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "80 zł (25% of 320 zł)",
+   "gold": "80 zł (25% of 320 zł)"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing",
+   "gold": "nothing (0 zł)"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "400 zł (two-thirds of the 600 zł deposit)",
+   "gold": "400 zł (two thirds of 600 zł)"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "280 zł (80 zł fee + 200 zł kept from the deposit)",
+   "gold": "280 zł (80 zł fee + 200 zł retained deposit)"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, he is the lead technician; the owner is Tomasz Nowak",
+   "gold": "no, he is the main technician; the owner is Tomasz Nowak"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no, never"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant must call the on-duty technician at 602 315 778 itself, then tell the customer (1) the technician has been notified and (2) they must unplug the heater and filter immediately themselves",
+   "gold": "call the on-call technician at 602 315 778 yourself; tell the customer the technician has been notified, and that they must immediately unplug the heater and filter themselves"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $35 is within the $35 limit for standard sweeps",
+   "gold": "yes, up to $35 on standard sweeps is allowed"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, any discount on a camera inspection needs approval from Nadia Fenwick, the office manager",
+   "gold": "no, camera inspection discounts need approval from Nadia Fenwick, the office manager"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only refunds over $120 need her approval",
+   "gold": "no, only refunds above $120 need her approval"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the owner is Ruth Calloway; Tobias Grell is the lead technician",
+   "gold": "no, Tobias Grell is the lead technician; the owner is Ruth Calloway"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Emil Calloway must never be copied on customer complaints",
+   "gold": "no, Emil Calloway must never be copied on a customer complaint"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Ms. Avery's move is free; with an active annual service plan the move is free up to 12h before, while Mr. Bose needed to ask at least 48h before",
+   "gold": "only Ms. Avery's (service-plan customers can move free up to 12 hours before); Mr. Bose would need 48 hours"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 17:00 on Friday, the next business day",
+   "gold": "by Friday 17:00 (next business day)"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant must call the on-call technician at 555-0148 itself, then tell the customer that the technician has been alerted and that they must close the stove air damper and leave the house",
+   "gold": "call the on-call technician line 555-0148 yourself; tell the customer a technician has been alerted, and that they must close the stove's air damper and leave the house"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "every complaint reply ends with \"Thank you for helping us keep your hearth safe.\"; the open-quotes summary goes to Nadia on Fridays at 16:00",
+   "gold": "\"Thank you for helping us keep your hearth safe.\"; every Friday at 16:00 to Nadia Fenwick"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "from Monday, March 8, 2027",
+   "gold": "8 March 2027 (Monday)"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "ordinary parcel: 24 hours free; cold-chain fresh parcel: 12 hours free",
+   "gold": "24 hours for ordinary parcels, 12 hours for cold-chain parcels"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1.5 yuan (36 hours over the free period = 3 × 12h × 0.5 yuan, under the 3-yuan cap)",
+   "gold": "1.5 yuan (36 hours over = 3 × 0.5 yuan)"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, large parcels qualify on any date, but the owner must register with the property 1 day ahead",
+   "gold": "yes, the March 15 date limit applies only to cold-chain parcels, not large parcels"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, cold-chain parcels only qualify if put in after March 15",
+   "gold": "no, only cold-chain parcels deposited after March 15 qualify"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the next day (Thursday), 9:00–11:00",
+   "gold": "on the next day (Thursday), 9:00 to 11:00"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Zheng Xiaolan (郑晓岚), phone 138 0571 2269",
+   "gold": "Zheng Xiaolan, 138 0571 2269"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "it goes to the property service center; the resident collects it at the front desk with an ID card and pays a 5-yuan storage fee",
+   "gold": "it is moved to the property service center; bring an ID card; 5 yuan storage fee"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the doors can't open after 23:00",
+   "gold": "no, the lockers are open only 6:00–23:00"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, 250 euros is within the 250-euro limit",
+   "gold": "yes, chemical reorders up to 250 euros may be confirmed on its own"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, it is over the limit and needs approval from Lukas Brandauer, the workshop manager",
+   "gold": "no, it exceeds 250 euros; the text names Lukas Brandauer only for spare parts, so the approver for larger chemical orders is not stated"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, spare parts of any amount always need Lukas Brandauer's approval",
+   "gold": "no, spare parts always need approval from Lukas Brandauer, the workshop manager, regardless of amount"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the owner is Sabine Hornung; Lukas Brandauer is the workshop manager",
+   "gold": "no, the owner is Sabine Hornung; Lukas Brandauer is the workshop manager"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no, never"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Frau Maier, because regular customers with a maintenance contract can book until April 30; Herr Ott's deadline was April 15",
+   "gold": "only Frau Maier (contract customers can book until 30 April; others only until 15 April)"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, chlorine dosing advice must never be given by email",
+   "gold": "no, never give chlorine dosage recommendations by email"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant must call the on-call technician at 0171 4482905 itself, then tell the customer that the technician has been notified and that they must switch off the pool pump at the main switch and leave the equipment room",
+   "gold": "call the on-call technician at 0171 4482905 yourself; tell the customer a technician has been notified, and that they must switch off the pool pump at the main switch and leave the technical room"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "every complaint reply begins with „Vielen Dank, dass Sie uns darauf hinweisen.\"; the overview goes to Sabine on Mondays at 9:00",
+   "gold": "\"Vielen Dank, dass Sie uns darauf hinweisen.\"; every Monday at 9:00"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, 180 zł is within the limit",
+   "gold": "yes, up to 180 zł is allowed"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it needs approval from Agnieszka Wróbel, the office manager",
+   "gold": "no, it needs approval from Agnieszka Wróbel, the office manager"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "80 zł (25% of 320 zł)",
+   "gold": "80 zł (25% of 320 zł)"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing, 0 zł",
+   "gold": "nothing (0 zł)"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "400 zł (2/3 of the 600 zł deposit)",
+   "gold": "400 zł (two thirds of 600 zł)"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "280 zł (80 zł fee + 200 zł kept from the deposit)",
+   "gold": "280 zł (80 zł fee + 200 zł retained deposit)"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the owner is Tomasz Nowak; Marek Zieliński is the lead technician",
+   "gold": "no, he is the main technician; the owner is Tomasz Nowak"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no, never"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant must call the on-duty technician at 602 315 778 itself, then tell the customer that the technician has been notified and that they must unplug the heater and filter immediately themselves",
+   "gold": "call the on-call technician at 602 315 778 yourself; tell the customer the technician has been notified, and that they must immediately unplug the heater and filter themselves"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $35 is within the ≤$35 limit for standard sweeps",
+   "gold": "yes, up to $35 on standard sweeps is allowed"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, any camera inspection discount needs approval from Nadia Fenwick, office manager",
+   "gold": "no, camera inspection discounts need approval from Nadia Fenwick, the office manager"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only refunds over $120 need Nadia's approval",
+   "gold": "no, only refunds above $120 need her approval"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Tobias Grell is the lead technician; the owner is Ruth Calloway",
+   "gold": "no, Tobias Grell is the lead technician; the owner is Ruth Calloway"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Emil Calloway must never be copied on customer complaints",
+   "gold": "no, Emil Calloway must never be copied on a customer complaint"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Only Ms. Avery's move is free, because her annual plan allows free moves up to 12h before; Mr. Bose would have needed to ask ≥48h before",
+   "gold": "only Ms. Avery's (service-plan customers can move free up to 12 hours before); Mr. Bose would need 48 hours"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 17:00 on Friday, the next business day",
+   "gold": "by Friday 17:00 (next business day)"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The assistant must call the on-call technician at 555-0148 itself, then tell the customer (1) the technician has been alerted and (2) they must close the stove air damper and leave the house",
+   "gold": "call the on-call technician line 555-0148 yourself; tell the customer a technician has been alerted, and that they must close the stove's air damper and leave the house"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Every complaint reply ends with \"Thank you for helping us keep your hearth safe.\" The open-quotes summary goes to Nadia on Fridays at 16:00",
+   "gold": "\"Thank you for helping us keep your hearth safe.\"; every Friday at 16:00 to Nadia Fenwick"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "from Monday, March 8, 2027",
+   "gold": "8 March 2027 (Monday)"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "ordinary parcel: 24 hours free; cold-chain fresh parcel: 12 hours free",
+   "gold": "24 hours for ordinary parcels, 12 hours for cold-chain parcels"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1.5 yuan (36 hours of overtime = 3 × 12h × 0.5 yuan)",
+   "gold": "1.5 yuan (36 hours over = 3 × 0.5 yuan)"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, large parcels qualify on any date (the owner must register with the property 1 day ahead)",
+   "gold": "yes, the March 15 date limit applies only to cold-chain parcels, not large parcels"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, cold-chain parcels only qualify if put in after March 15",
+   "gold": "no, only cold-chain parcels deposited after March 15 qualify"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the next day (Thursday), 9:00-11:00",
+   "gold": "on the next day (Thursday), 9:00 to 11:00"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "郑晓岚 (Zheng Xiaolan), 138 0571 2269",
+   "gold": "Zheng Xiaolan, 138 0571 2269"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "It is moved to the property service center. The resident collects it at the front desk with their ID card and pays a 5 yuan storage fee",
+   "gold": "it is moved to the property service center; bring an ID card; 5 yuan storage fee"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the doors can't open after 23:00",
+   "gold": "no, the lockers are open only 6:00–23:00"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, 250 euros is within the ≤250€ limit",
+   "gold": "yes, chemical reorders up to 250 euros may be confirmed on its own"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is over the 250€ limit; the TEXT does not say who approves",
+   "gold": "no, it exceeds 250 euros; the text names Lukas Brandauer only for spare parts, so the approver for larger chemical orders is not stated"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, spare parts like filters always need approval from Lukas Brandauer, whatever the amount",
+   "gold": "no, spare parts always need approval from Lukas Brandauer, the workshop manager, regardless of amount"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Lukas Brandauer is the workshop manager; the owner is Sabine Hornung",
+   "gold": "no, the owner is Sabine Hornung; Lukas Brandauer is the workshop manager"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no, never"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Only Frau Maier can book, because maintenance-contract customers can book until April 30; for others the cutoff was April 15",
+   "gold": "only Frau Maier (contract customers can book until 30 April; others only until 15 April)"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no, never give chlorine dosage recommendations by email"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The assistant must call the on-call technician at 0171 4482905 itself, then tell the customer (1) the technician has been notified and (2) they must switch off the pool pump at the main switch and leave the equipment room themselves",
+   "gold": "call the on-call technician at 0171 4482905 yourself; tell the customer a technician has been notified, and that they must switch off the pool pump at the main switch and leave the technical room"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Every complaint reply starts with „Vielen Dank, dass Sie uns darauf hinweisen.\" The overview goes to Sabine on Mondays at 9:00",
+   "gold": "\"Vielen Dank, dass Sie uns darauf hinweisen.\"; every Monday at 9:00"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, 180 zł is within the ≤180 zł limit",
+   "gold": "yes, up to 180 zł is allowed"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it needs approval from Agnieszka Wróbel, office manager",
+   "gold": "no, it needs approval from Agnieszka Wróbel, the office manager"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "80 zł (25% of 320 zł)",
+   "gold": "80 zł (25% of 320 zł)"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing (0 zł)",
+   "gold": "nothing (0 zł)"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "400 zł (2/3 of the 600 zł deposit)",
+   "gold": "400 zł (two thirds of 600 zł)"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "280 zł (80 zł fee + 200 zł kept from the deposit)",
+   "gold": "280 zł (80 zł fee + 200 zł retained deposit)"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, he is the lead technician; the owner is Tomasz Nowak",
+   "gold": "no, he is the main technician; the owner is Tomasz Nowak"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no, never"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The assistant must call the on-duty technician at 602 315 778 itself, then tell the customer (1) the technician has been notified and (2) they must unplug the heater and filter immediately themselves",
+   "gold": "call the on-call technician at 602 315 778 yourself; tell the customer the technician has been notified, and that they must immediately unplug the heater and filter themselves"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, standard sweep discounts up to $35 per booking need no approval",
+   "gold": "yes, up to $35 on standard sweeps is allowed"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Nadia Fenwick (office manager) must approve any camera-inspection discount",
+   "gold": "no, camera inspection discounts need approval from Nadia Fenwick, the office manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only refunds above $120 need her approval",
+   "gold": "no, only refunds above $120 need her approval"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Tobias Grell is the lead technician; the owner is Ruth Calloway",
+   "gold": "no, Tobias Grell is the lead technician; the owner is Ruth Calloway"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Emil Calloway must never be copied on a customer complaint",
+   "gold": "no, Emil Calloway must never be copied on a customer complaint"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ms. Avery's move is free (annual plan, 12-hour limit); Mr. Bose's is not (48-hour limit)",
+   "gold": "only Ms. Avery's (service-plan customers can move free up to 12 hours before); Mr. Bose would need 48 hours"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 17:00 on Friday (the next business day)",
+   "gold": "by Friday 17:00 (next business day)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician line at 555-0148 itself, then tell the customer (1) a technician has been alerted and (2) they must close the stove's air damper and leave the house",
+   "gold": "call the on-call technician line 555-0148 yourself; tell the customer a technician has been alerted, and that they must close the stove's air damper and leave the house"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Thank you for helping us keep your hearth safe.\"; the summary goes to Nadia Fenwick every Friday at 16:00",
+   "gold": "\"Thank you for helping us keep your hearth safe.\"; every Friday at 16:00 to Nadia Fenwick"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "from 8 March 2027 (Monday)",
+   "gold": "8 March 2027 (Monday)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "ordinary parcel: 24 hours free; cold-chain fresh parcel: 12 hours free",
+   "gold": "24 hours for ordinary parcels, 12 hours for cold-chain parcels"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1.5 yuan (36 hours over = 3 × 12-hour periods × 0.5 yuan)",
+   "gold": "1.5 yuan (36 hours over = 3 × 0.5 yuan)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, large parcels have no date limit; the resident must register with property management one day in advance",
+   "gold": "yes, the March 15 date limit applies only to cold-chain parcels, not large parcels"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the service only covers cold-chain parcels put in the locker after 15 March",
+   "gold": "no, only cold-chain parcels deposited after March 15 qualify"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the next day (Thursday), 9:00–11:00",
+   "gold": "on the next day (Thursday), 9:00 to 11:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Zheng Xiaolan, phone 138 0571 2269",
+   "gold": "Zheng Xiaolan, 138 0571 2269"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "it is moved to the property service center; the resident must bring their ID card and pay a 5-yuan storage fee",
+   "gold": "it is moved to the property service center; bring an ID card; 5 yuan storage fee"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the locker doors cannot be opened after 23:00",
+   "gold": "no, the lockers are open only 6:00–23:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, chemical reorders up to 250 euros may be confirmed on its own",
+   "gold": "yes, chemical reorders up to 250 euros may be confirmed on its own"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is over the 250-euro limit; who approves is not stated",
+   "gold": "no, it exceeds 250 euros; the text names Lukas Brandauer only for spare parts, so the approver for larger chemical orders is not stated"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, spare-part orders always need approval from Lukas Brandauer, whatever the amount",
+   "gold": "no, spare parts always need approval from Lukas Brandauer, the workshop manager, regardless of amount"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Lukas Brandauer is the workshop manager; the owner is Sabine Hornung",
+   "gold": "no, the owner is Sabine Hornung; Lukas Brandauer is the workshop manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no, never"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Frau Maier (maintenance-contract customers can book until 30 April; others only until 15 April)",
+   "gold": "only Frau Maier (contract customers can book until 30 April; others only until 15 April)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never give chlorine dosage recommendations by email",
+   "gold": "no, never give chlorine dosage recommendations by email"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician at 0171 4482905 itself, then tell the customer (1) a technician has been notified and (2) they must switch off the pool pump at the main switch and leave the equipment room",
+   "gold": "call the on-call technician at 0171 4482905 yourself; tell the customer a technician has been notified, and that they must switch off the pool pump at the main switch and leave the technical room"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Vielen Dank, dass Sie uns darauf hinweisen.\"; the overview goes to Sabine Hornung every Monday at 9:00",
+   "gold": "\"Vielen Dank, dass Sie uns darauf hinweisen.\"; every Monday at 9:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, orders up to 180 zł may be confirmed on its own",
+   "gold": "yes, up to 180 zł is allowed"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Agnieszka Wróbel (office manager) must approve",
+   "gold": "no, it needs approval from Agnieszka Wróbel, the office manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "80 zł (25% of 320 zł)",
+   "gold": "80 zł (25% of 320 zł)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing (0 zł)",
+   "gold": "nothing (0 zł)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "400 zł (two-thirds of the 600 zł deposit)",
+   "gold": "400 zł (two thirds of 600 zł)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "280 zł (80 zł fee + 200 zł retained deposit)",
+   "gold": "280 zł (80 zł fee + 200 zł retained deposit)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Marek Zieliński is the lead technician; the owner is Tomasz Nowak",
+   "gold": "no, he is the main technician; the owner is Tomasz Nowak"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no, never"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician at 602 315 778 itself, then tell the customer (1) a technician has been notified and (2) they must immediately unplug the heater and filter themselves",
+   "gold": "call the on-call technician at 602 315 778 yourself; tell the customer the technician has been notified, and that they must immediately unplug the heater and filter themselves"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, standard sweeps allow up to $35 per booking without approval",
+   "gold": "yes, up to $35 on standard sweeps is allowed"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, a camera inspection discount of any size needs approval from Nadia Fenwick (office manager)",
+   "gold": "no, camera inspection discounts need approval from Nadia Fenwick, the office manager"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only refunds over $120 need Nadia's approval",
+   "gold": "no, only refunds above $120 need her approval"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Tobias Grell is the lead technician; the owner is Ruth Calloway",
+   "gold": "no, Tobias Grell is the lead technician; the owner is Ruth Calloway"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Emil Calloway must never be CC'd on customer complaints",
+   "gold": "no, Emil Calloway must never be copied on a customer complaint"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ms. Avery's move is free (annual plan customers need ≥12h); Mr. Bose's is not free (he needs ≥48h)",
+   "gold": "only Ms. Avery's (service-plan customers can move free up to 12 hours before); Mr. Bose would need 48 hours"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 17:00 on Friday, the next business day",
+   "gold": "by Friday 17:00 (next business day)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call tech at 555-0148 yourself, then tell the customer that a technician has been alerted and that they must close the stove's air damper and leave the house",
+   "gold": "call the on-call technician line 555-0148 yourself; tell the customer a technician has been alerted, and that they must close the stove's air damper and leave the house"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Thank you for helping us keep your hearth safe.\"; the summary goes to Nadia on Fridays at 16:00",
+   "gold": "\"Thank you for helping us keep your hearth safe.\"; every Friday at 16:00 to Nadia Fenwick"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "from Monday, 2027-03-08",
+   "gold": "8 March 2027 (Monday)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "ordinary parcels: 24 hours free; cold-chain fresh parcels: 12 hours free",
+   "gold": "24 hours for ordinary parcels, 12 hours for cold-chain parcels"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1.5 yuan (36 extra hours = 3 × 12h × 0.5 yuan)",
+   "gold": "1.5 yuan (36 hours over = 3 × 0.5 yuan)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, large parcels have no date limit; the resident must register at the property office one day in advance",
+   "gold": "yes, the March 15 date limit applies only to cold-chain parcels, not large parcels"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the free service only covers cold-chain parcels put in the locker after March 15",
+   "gold": "no, only cold-chain parcels deposited after March 15 qualify"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the next day (Thursday), 9:00–11:00",
+   "gold": "on the next day (Thursday), 9:00 to 11:00"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Zheng Xiaolan (郑晓岚), 138 0571 2269",
+   "gold": "Zheng Xiaolan, 138 0571 2269"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "it goes to the property service center; the resident brings their ID card to the front desk and pays a 5 yuan storage fee",
+   "gold": "it is moved to the property service center; bring an ID card; 5 yuan storage fee"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, locker doors cannot be opened after 23:00",
+   "gold": "no, the lockers are open only 6:00–23:00"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, chemical reorders up to 250 € can be confirmed on its own",
+   "gold": "yes, chemical reorders up to 250 euros may be confirmed on its own"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is over the 250 € limit; who approves is not stated",
+   "gold": "no, it exceeds 250 euros; the text names Lukas Brandauer only for spare parts, so the approver for larger chemical orders is not stated"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, spare parts like filters always need Lukas Brandauer's approval, whatever the amount",
+   "gold": "no, spare parts always need approval from Lukas Brandauer, the workshop manager, regardless of amount"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Lukas is the workshop manager; the owner is Sabine Hornung",
+   "gold": "no, the owner is Sabine Hornung; Lukas Brandauer is the workshop manager"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no, never"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "only Frau Maier (contract customers can book until 30.04); Herr Ott cannot (his cutoff was 15.04)",
+   "gold": "only Frau Maier (contract customers can book until 30 April; others only until 15 April)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, chlorine dosage recommendations must never be given by email",
+   "gold": "no, never give chlorine dosage recommendations by email"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician at 0171 4482905 yourself, then tell the customer that a technician has been notified and that they must switch off the pool pump at the main switch and leave the technical room",
+   "gold": "call the on-call technician at 0171 4482905 yourself; tell the customer a technician has been notified, and that they must switch off the pool pump at the main switch and leave the technical room"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "„Vielen Dank, dass Sie uns darauf hinweisen.“; the overview goes to Sabine on Mondays at 9:00",
+   "gold": "\"Vielen Dank, dass Sie uns darauf hinweisen.\"; every Monday at 9:00"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, orders up to 180 zł can be confirmed on its own",
+   "gold": "yes, up to 180 zł is allowed"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Agnieszka Wróbel (office manager) must approve",
+   "gold": "no, it needs approval from Agnieszka Wróbel, the office manager"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "80 zł",
+   "gold": "80 zł (25% of 320 zł)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0 zł",
+   "gold": "nothing (0 zł)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "400 zł (2/3 of the deposit)",
+   "gold": "400 zł (two thirds of 600 zł)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "280 zł (80 zł fee + 200 zł kept from the deposit)",
+   "gold": "280 zł (80 zł fee + 200 zł retained deposit)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, he is the lead technician; the owner is Tomasz Nowak",
+   "gold": "no, he is the main technician; the owner is Tomasz Nowak"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no, never"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician at 602 315 778 yourself, then tell the customer that the technician has been notified and that they must immediately unplug the heater and filter themselves",
+   "gold": "call the on-call technician at 602 315 778 yourself; tell the customer the technician has been notified, and that they must immediately unplug the heater and filter themselves"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; a discount of up to $35 on a standard sweep booking needs no approval",
+   "gold": "yes, up to $35 on standard sweeps is allowed"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Nadia Fenwick (office manager) must approve",
+   "gold": "no, camera inspection discounts need approval from Nadia Fenwick, the office manager"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only refunds over $120 need her approval",
+   "gold": "no, only refunds above $120 need her approval"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the owner is Ruth Calloway (Tobias Grell is the lead technician)",
+   "gold": "no, Tobias Grell is the lead technician; the owner is Ruth Calloway"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Emil Calloway must never be CC'd on a customer complaint",
+   "gold": "no, Emil Calloway must never be copied on a customer complaint"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ms. Avery only; with an annual plan she can move free up to 12h before, while Mr. Bose needed to ask at least 48h before",
+   "gold": "only Ms. Avery's (service-plan customers can move free up to 12 hours before); Mr. Bose would need 48 hours"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 17:00 on Friday, the next business day",
+   "gold": "by Friday 17:00 (next business day)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The assistant must call the on-call tech line 555-0148 itself, then tell the customer (1) a tech has been alerted and (2) they must close the stove air damper and leave the house",
+   "gold": "call the on-call technician line 555-0148 yourself; tell the customer a technician has been alerted, and that they must close the stove's air damper and leave the house"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Thank you for helping us keep your hearth safe.\"; the summary goes to Nadia on Fridays at 16:00",
+   "gold": "\"Thank you for helping us keep your hearth safe.\"; every Friday at 16:00 to Nadia Fenwick"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday 8 March 2027",
+   "gold": "8 March 2027 (Monday)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "ordinary: 24 hours free; cold-chain: 12 hours free",
+   "gold": "24 hours for ordinary parcels, 12 hours for cold-chain parcels"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥1.5 (36 hours over = 3 × ¥0.5)",
+   "gold": "1.5 yuan (36 hours over = 3 × 0.5 yuan)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; large parcels have no date limit (the owner must register with management one day ahead)",
+   "gold": "yes, the March 15 date limit applies only to cold-chain parcels, not large parcels"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only cold-chain parcels deposited after 15 March qualify",
+   "gold": "no, only cold-chain parcels deposited after March 15 qualify"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "on the next day (Thursday), 9:00–11:00",
+   "gold": "on the next day (Thursday), 9:00 to 11:00"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Zheng Xiaolan, 138 0571 2269",
+   "gold": "Zheng Xiaolan, 138 0571 2269"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "It goes to the property service center; the resident collects it at the front desk with ID and pays a ¥5 storage fee",
+   "gold": "it is moved to the property service center; bring an ID card; 5 yuan storage fee"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; lockers open only 6:00–23:00",
+   "gold": "no, the lockers are open only 6:00–23:00"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; up to €250 is allowed without approval",
+   "gold": "yes, chemical reorders up to 250 euros may be confirmed on its own"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it is over the €250 limit, and the approver is not stated",
+   "gold": "no, it exceeds 250 euros; the text names Lukas Brandauer only for spare parts, so the approver for larger chemical orders is not stated"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; spare parts always need Lukas Brandauer's approval",
+   "gold": "no, spare parts always need approval from Lukas Brandauer, the workshop manager, regardless of amount"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the owner is Sabine Hornung (Lukas is the workshop manager)",
+   "gold": "no, the owner is Sabine Hornung; Lukas Brandauer is the workshop manager"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no, never"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Frau Maier (contract customers until 30 Apr; others only until 15 Apr)",
+   "gold": "only Frau Maier (contract customers can book until 30 April; others only until 15 April)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; chlorine dosing advice is never given by email",
+   "gold": "no, never give chlorine dosage recommendations by email"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The assistant must call the standby tech at 0171 4482905 itself, then tell the customer (1) a tech has been notified and (2) they must switch off the pool pump at the main switch and leave the equipment room",
+   "gold": "call the on-call technician at 0171 4482905 yourself; tell the customer a technician has been notified, and that they must switch off the pool pump at the main switch and leave the technical room"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Vielen Dank, dass Sie uns darauf hinweisen.\"; the overview goes on Mondays at 9:00",
+   "gold": "\"Vielen Dank, dass Sie uns darauf hinweisen.\"; every Monday at 9:00"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; up to 180 zł is allowed",
+   "gold": "yes, up to 180 zł is allowed"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Agnieszka Wróbel must approve",
+   "gold": "no, it needs approval from Agnieszka Wróbel, the office manager"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "80 zł (25% of 320 zł)",
+   "gold": "80 zł (25% of 320 zł)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0 zł",
+   "gold": "nothing (0 zł)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "400 zł (two-thirds of 600 zł)",
+   "gold": "400 zł (two thirds of 600 zł)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "280 zł (80 zł fee + 200 zł retained deposit)",
+   "gold": "280 zł (80 zł fee + 200 zł retained deposit)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the owner is Tomasz Nowak (Marek is the lead technician)",
+   "gold": "no, he is the main technician; the owner is Tomasz Nowak"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no, never"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The assistant must call the on-duty tech at 602 315 778 itself, then tell the customer (1) a tech has been notified and (2) they must immediately unplug the heater and filter themselves",
+   "gold": "call the on-call technician at 602 315 778 yourself; tell the customer the technician has been notified, and that they must immediately unplug the heater and filter themselves"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, the limit is up to $35 per standard sweep booking, so $35 is allowed",
+   "gold": "yes, up to $35 on standard sweeps is allowed"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, any discount on a camera inspection needs approval from Nadia Fenwick (office manager)",
+   "gold": "no, camera inspection discounts need approval from Nadia Fenwick, the office manager"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only refunds over $120 need Nadia's approval",
+   "gold": "no, only refunds above $120 need her approval"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Tobias Grell is the lead technician; the owner is Ruth Calloway",
+   "gold": "no, Tobias Grell is the lead technician; the owner is Ruth Calloway"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Emil Calloway must never be CC'd on a customer complaint",
+   "gold": "no, Emil Calloway must never be copied on a customer complaint"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Ms. Avery's move is free, because her annual plan allows free rebooking up to 12h before; Mr. Bose needed to ask at least 48h before",
+   "gold": "only Ms. Avery's (service-plan customers can move free up to 12 hours before); Mr. Bose would need 48 hours"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 17:00 on Friday, the next business day",
+   "gold": "by Friday 17:00 (next business day)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The assistant must call the on-call tech line 555-0148 itself. Then it tells the customer that a tech has been alerted, and that they must close the stove air damper and leave the house",
+   "gold": "call the on-call technician line 555-0148 yourself; tell the customer a technician has been alerted, and that they must close the stove's air damper and leave the house"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Every complaint reply ends with \"Thank you for helping us keep your hearth safe.\" The open-quotes summary goes to Nadia on Fridays at 16:00",
+   "gold": "\"Thank you for helping us keep your hearth safe.\"; every Friday at 16:00 to Nadia Fenwick"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday 8 March 2027",
+   "gold": "8 March 2027 (Monday)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "ordinary parcel: 24 hours free; cold-chain fresh parcel: 12 hours free",
+   "gold": "24 hours for ordinary parcels, 12 hours for cold-chain parcels"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥1.5 (36 hours over the free time = 3 × ¥0.5, which is under the ¥3 cap)",
+   "gold": "1.5 yuan (36 hours over = 3 × 0.5 yuan)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, large parcels have no date limit (the owner must register with management one day ahead)",
+   "gold": "yes, the March 15 date limit applies only to cold-chain parcels, not large parcels"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the free service only covers cold-chain parcels deposited after 15 March",
+   "gold": "no, only cold-chain parcels deposited after March 15 qualify"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the next day (Thursday), 9:00–11:00",
+   "gold": "on the next day (Thursday), 9:00 to 11:00"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Zheng Xiaolan, 138 0571 2269",
+   "gold": "Zheng Xiaolan, 138 0571 2269"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "It goes to the property service center. The resident collects it at the front desk with ID and pays a ¥5 storage fee",
+   "gold": "it is moved to the property service center; bring an ID card; 5 yuan storage fee"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the doors won't open after 23:00",
+   "gold": "no, the lockers are open only 6:00–23:00"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, orders up to €250 can be confirmed without approval",
+   "gold": "yes, chemical reorders up to 250 euros may be confirmed on its own"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is over €250; who must approve is not stated",
+   "gold": "no, it exceeds 250 euros; the text names Lukas Brandauer only for spare parts, so the approver for larger chemical orders is not stated"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, spare parts always need approval from Lukas Brandauer, whatever the amount",
+   "gold": "no, spare parts always need approval from Lukas Brandauer, the workshop manager, regardless of amount"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Lukas Brandauer is the workshop manager; the owner is Sabine Hornung",
+   "gold": "no, the owner is Sabine Hornung; Lukas Brandauer is the workshop manager"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no, never"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Frau Maier, because contract customers can book until 30 Apr; the general deadline was 15 Apr",
+   "gold": "only Frau Maier (contract customers can book until 30 April; others only until 15 April)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, chlorine dosing advice must never be given by email",
+   "gold": "no, never give chlorine dosage recommendations by email"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The assistant must call the standby tech at 0171 4482905 itself. Then it tells the customer that a tech has been notified, and that they must switch off the pool pump at the main switch and leave the equipment room",
+   "gold": "call the on-call technician at 0171 4482905 yourself; tell the customer a technician has been notified, and that they must switch off the pool pump at the main switch and leave the technical room"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Every complaint reply begins with „Vielen Dank, dass Sie uns darauf hinweisen.“ The overview goes to Sabine Hornung on Mondays at 9:00",
+   "gold": "\"Vielen Dank, dass Sie uns darauf hinweisen.\"; every Monday at 9:00"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, orders up to 180 zł can be confirmed without approval",
+   "gold": "yes, up to 180 zł is allowed"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Agnieszka Wróbel must approve",
+   "gold": "no, it needs approval from Agnieszka Wróbel, the office manager"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "80 zł (25% of 320 zł)",
+   "gold": "80 zł (25% of 320 zł)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0 zł, because the medical certificate waives the fee",
+   "gold": "nothing (0 zł)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "400 zł (two-thirds of the 600 zł deposit)",
+   "gold": "400 zł (two thirds of 600 zł)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "280 zł (80 zł fee + 200 zł retained deposit)",
+   "gold": "280 zł (80 zł fee + 200 zł retained deposit)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, he is the lead technician; the owner is Tomasz Nowak",
+   "gold": "no, he is the main technician; the owner is Tomasz Nowak"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no, never"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The assistant must call the on-duty tech at 602 315 778 itself. Then it tells the customer that a tech has been notified, and that they must immediately unplug the heater and filter themselves",
+   "gold": "call the on-call technician at 602 315 778 yourself; tell the customer the technician has been notified, and that they must immediately unplug the heater and filter themselves"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  }
+ ],
+ "summary": {
+  "llm05_r1": {
+   "all": [
+    27,
+    39
+   ],
+   "S": [
+    20,
+    25
+   ],
+   "F": [
+    7,
+    14
+   ],
+   "hop2": [
+    12,
+    15
+   ]
+  },
+  "llm066_r1": {
+   "all": [
+    31,
+    39
+   ],
+   "S": [
+    23,
+    25
+   ],
+   "F": [
+    8,
+    14
+   ],
+   "hop2": [
+    13,
+    15
+   ]
+  },
+  "mnc26_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    15,
+    15
+   ]
+  },
+  "mnc26_r2": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    15,
+    15
+   ]
+  },
+  "mnc26x_r1": {
+   "all": [
+    38,
+    39
+   ],
+   "S": [
+    24,
+    25
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    15,
+    15
+   ]
+  },
+  "mnc26x_r2": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    15,
+    15
+   ]
+  },
+  "original_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    15,
+    15
+   ]
+  },
+  "summ_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    15,
+    15
+   ]
+  },
+  "terse_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    15,
+    15
+   ]
+  },
+  "terse_r2": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    15,
+    15
+   ]
+  }
+ }
+}

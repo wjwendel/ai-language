@@ -1,0 +1,582 @@
+{
+ "written": "2026-11-21 by independent author (r32)",
+ "questions": [
+  {
+   "id": "§1.q1",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A crew member asks to buy storage bins costing exactly 60 dollars. Can you approve the purchase yourself?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": [
+    "^\\W*no\\b"
+   ]
+  },
+  {
+   "id": "§1.q2",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A crew member asks to buy supplies costing 61 dollars. Can you approve it yourself, and if not, who approves?",
+   "gold": "no; it needs approval, approver not stated",
+   "accept": [
+    "^\\W*no\\b",
+    "not (stated|specified|named|given|mentioned|said)|unspecified|unnamed|no approver|doesn'?t (say|name|specify|state)|does not (say|name|specify|state)"
+   ],
+   "reject": [
+    "priya",
+    "marco",
+    "dana"
+   ]
+  },
+  {
+   "id": "§1.q3",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "On a Saturday, a brand-new client sends a first booking inquiry asking for a 10 percent discount. Can you grant the discount yourself?",
+   "gold": "no; on Saturdays new inquiries are forwarded to Dana, and self-granted discounts are only for repeat clients",
+   "accept": [
+    "^\\W*no\\b",
+    "dana"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§1.q4",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Un cliente habitual pide un 10 % de descuento un martes. ¿Puedes concederlo tú solo?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": [
+    "^\\W*no\\b"
+   ]
+  },
+  {
+   "id": "§1.q5",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A repeat client asks for an 11 percent discount. Can you grant it yourself, and if not, who must approve it?",
+   "gold": "no; Priya Raman, the operations manager, must approve",
+   "accept": [
+    "^\\W*no\\b",
+    "priya"
+   ],
+   "reject": [
+    "marco",
+    "dana"
+   ]
+  },
+  {
+   "id": "§1.q6",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "An existing client emails on a Saturday asking to reschedule a moving-day packing session; it is their first reschedule request this month. Can you approve it yourself?",
+   "gold": "no; moving-day packing sessions always go to Priya Raman (the 2-per-month limit covers only standard sessions)",
+   "accept": [
+    "^\\W*no\\b",
+    "priya"
+   ],
+   "reject": [
+    "^\\W*yes\\b",
+    "marco"
+   ]
+  },
+  {
+   "id": "§1.q7",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "クライアントから、現場で作業員がけがをしたとメールが来ました。あなたは何をし、クライアントに何を伝えますか？",
+   "gold": "Call the crew safety line at 555-0147 yourself; tell the client help is on the way, and tell the client to keep everyone away from the crew member and not move them",
+   "accept": [
+    "555\\W*0147",
+    "help|on (the|its) way|coming",
+    "away|not move|don'?t move|do not move"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q8",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "In the crew-injury emergency, who must keep everyone away from the injured crew member: you (the assistant) or the client?",
+   "gold": "the client",
+   "accept": [
+    "client|customer"
+   ],
+   "reject": [
+    "^\\W*(you|me|i|the assistant|assistant)\\b"
+   ]
+  },
+  {
+   "id": "§1.q9",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A client who has signed the access form asks you to email their home address to the crew. Is that allowed?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": [
+    "^\\W*no\\b"
+   ]
+  },
+  {
+   "id": "§1.q10",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A client cancels 47 hours before a standard session and sends no doctor's note. How much are they charged?",
+   "gold": "180 dollars (the full session fee)",
+   "accept": [
+    "(?<!\\d)180(?!\\d)"
+   ],
+   "reject": [
+    "^\\W*(0|nothing|no charge)\\b"
+   ]
+  },
+  {
+   "id": "§2.q1",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "A household that applied for nothing in advance: will it receive emergency drinking water at the drill, and how much?",
+   "gold": "yes; 2 bottles per household (the 25 October date limits only the helmets)",
+   "accept": [
+    "^\\W*yes\\b",
+    "(?<!\\d)2(?!\\d)|two"
+   ],
+   "reject": [
+    "^\\W*no\\b"
+   ]
+  },
+  {
+   "id": "§2.q2",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "10月26日に防災ヘルメットを申し込んだ世帯は、当日ヘルメットを受け取れますか？",
+   "gold": "no; only helmets applied for by 25 October are handed out",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§2.q3",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "How much does a household pay for one helmet, and how must it pay?",
+   "gold": "1,200 yen (1,800 yen minus the 1/3 subsidy), cash only at reception on the day",
+   "accept": [
+    "(?<!\\d)1\\W?200(?!\\d)",
+    "cash"
+   ],
+   "reject": [
+    "^\\W*(600|1\\W?800)(?!\\d)"
+   ]
+  },
+  {
+   "id": "§2.q4",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "懐中電灯は町内会が貸してくれますか？",
+   "gold": "no; each participant must bring their own flashlight",
+   "accept": [
+    "^\\W*no\\b",
+    "own|bring"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§2.q5",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "May a 6th-grade elementary school pupil try the fire-extinguisher experience?",
+   "gold": "no; it is limited to junior-high students and older",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§2.q6",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "If a heavy-rain warning is issued, what happens to the drill?",
+   "gold": "it is cancelled and postponed to 15 November at the same time",
+   "accept": [
+    "(?<!\\d)15(?!\\d)",
+    "cancel|postpon|moved|resched"
+   ],
+   "reject": [
+    "gym"
+   ]
+  },
+  {
+   "id": "§2.q7",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "Does the 6 November phone deadline apply to questions as well as to absence notices?",
+   "gold": "yes; both absence notices and questions go to Morita Kenji by phone by 6 November",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": [
+    "^\\W*no\\b"
+   ]
+  },
+  {
+   "id": "§2.q8",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "当日受付担当の高橋美咲さんに電話で欠席を伝えてもいいですか？",
+   "gold": "no; Takahashi does not take phone contact; call Morita Kenji at 090-4417-2385 by 6 November",
+   "accept": [
+    "^\\W*no\\b",
+    "morita|090\\W*4417\\W*2385"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§2.q9",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "A family with a toddler cannot come to the park. How can they still count as having taken part?",
+   "gold": "by displaying the safety-confirmation card at their front door at home",
+   "accept": [
+    "card"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q10",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "When and where can the safety-confirmation cards be picked up?",
+   "gold": "1 to 5 November, 13:00 to 17:00, at the neighbourhood association meeting hall",
+   "accept": [
+    "(1\\s*p\\.?\\s*m|13:00)",
+    "(5\\s*p\\.?\\s*m|17:00)",
+    "hall|集会所|meeting|community|association"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q1",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Un cliente pide un reembolso de 8 euros por una secadora averiada. ¿Puedes aprobarlo tú?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": [
+    "^\\W*no\\b"
+   ]
+  },
+  {
+   "id": "§3.q2",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer asks for a 9-euro refund for a broken machine. Who approves it?",
+   "gold": "Lucía Ferrer, the shop manager",
+   "accept": [
+    "luc[ií]a"
+   ],
+   "reject": [
+    "andr[eé]s",
+    "rosa"
+   ]
+  },
+  {
+   "id": "§3.q3",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A company sends a wash-and-fold order of 16 kilos. Can you accept it yourself, and if not, who approves?",
+   "gold": "no; it needs approval, approver not stated",
+   "accept": [
+    "^\\W*no\\b",
+    "not (stated|specified|named|given|mentioned|said)|unspecified|unnamed|no approver|doesn'?t (say|name|specify|state)|does not (say|name|specify|state)"
+   ],
+   "reject": [
+    "luc[ií]a",
+    "andr[eé]s"
+   ]
+  },
+  {
+   "id": "§3.q4",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Un pedido de 5 kilos llega a las 9:00. ¿Puedes prometer la entrega en el mismo día?",
+   "gold": "no; same-day is only allowed for orders under 5 kilos arriving before 10:00",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§3.q5",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "Is the inbox checked at 16:00?",
+   "gold": "no; only at 9:00, 14:00 and 19:30",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§3.q6",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Can Lucía sign a monthly contract with a hotel?",
+   "gold": "no; only Andrés Vidal, the owner, may sign; Lucía may only send quotes",
+   "accept": [
+    "^\\W*no\\b",
+    "andr[eé]s"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§3.q7",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer writes that a machine is leaking and flooding the floor. What do you do?",
+   "gold": "Call the on-call technician at 600 312 845 yourself; tell the customer the technician is on the way, and tell them to press the red emergency stop button by the door themselves",
+   "accept": [
+    "600\\W*312\\W*845",
+    "technician|on (the|its) way|coming",
+    "button|stop"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q8",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "¿Quién debe pulsar el botón rojo de parada de emergencia: el asistente o el cliente?",
+   "gold": "the customer",
+   "accept": [
+    "customer|client"
+   ],
+   "reject": [
+    "^\\W*(the )?assistant\\b"
+   ]
+  },
+  {
+   "id": "§3.q9",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "On a Tuesday, a member-card customer orders a duvet (edredón) wash. Do they get a discount, and when is it delivered?",
+   "gold": "no discount (the Tuesday 20% does not apply to duvets); delivered in 72 hours",
+   "accept": [
+    "^\\W*no\\b",
+    "(?<!\\d)72(?!\\d)"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§3.q10",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "¿Debes reenviar una queja de un cliente a Rosa Méndez?",
+   "gold": "no; she is the maintenance technician, not the manager",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§4.q1",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "12 metrekarelik bir ev halısı siparişinin fiyat teklifini kendin onaylayabilir misin?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": [
+    "^\\W*no\\b"
+   ]
+  },
+  {
+   "id": "§4.q2",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer orders cleaning of a 13 m² home carpet. Who approves the quote?",
+   "gold": "Elif Aydın, the business manager",
+   "accept": [
+    "elif"
+   ],
+   "reject": [
+    "murat"
+   ]
+  },
+  {
+   "id": "§4.q3",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "An office orders cleaning of a 4 m² carpet. Can you approve the quote yourself?",
+   "gold": "no; office and hotel orders are always approved by Murat Kaya, the owner",
+   "accept": [
+    "^\\W*no\\b",
+    "murat"
+   ],
+   "reject": [
+    "elif",
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§4.q4",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "Daha önce sipariş vermiş bir müşteri, teslimattan 20 saat önce siparişini iptal ediyor. Ne kadar kesinti yapılır?",
+   "gold": "100 TL (25% of the 400 TL service fee)",
+   "accept": [
+    "(?<!\\d)100(?!\\d)"
+   ],
+   "reject": [
+    "^\\W*(400|0)(?!\\d)"
+   ]
+  },
+  {
+   "id": "§4.q5",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A first-time customer cancels 23 hours before delivery. How much is deducted?",
+   "gold": "nothing; first-time customers are exempt",
+   "accept": [
+    "\\b(nothing|no|none|zero)\\b|(?<!\\d)0\\s*TL"
+   ],
+   "reject": [
+    "(?<!\\d)100(?!\\d)"
+   ]
+  },
+  {
+   "id": "§4.q6",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "A 10 m² wool carpet's stain did not fully come out. How much is refunded?",
+   "gold": "600 TL (half of 10 × 120 = 1,200 TL)",
+   "accept": [
+    "(?<!\\d)600(?!\\d)"
+   ],
+   "reject": [
+    "^\\W*(450|900|1\\W?200)(?!\\d)"
+   ]
+  },
+  {
+   "id": "§4.q7",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer reports a strong chemical smell from the delivered carpet and someone at home feels dizzy. What do you do?",
+   "gold": "Call the emergency line 0212 555 0193 yourself; tell the customer the team is on its way, and tell them they must open the windows themselves right away",
+   "accept": [
+    "0212\\W*555\\W*0193",
+    "window",
+    "team|on (the|its) way|coming"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q8",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Kimyasal koku acil durumunda pencereleri kim açmalı: asistan mı, müşteri mi?",
+   "gold": "the customer",
+   "accept": [
+    "customer|client"
+   ],
+   "reject": [
+    "^\\W*(the )?assistant\\b"
+   ]
+  },
+  {
+   "id": "§4.q9",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "Cumartesi günü Anadolu yakasındaki bir müşteri 10 metrekarelik ev halısı için teklif ve aynı gün teslim alma istiyor. Teklifi kendin onaylayabilir misin, ve halı o gün teslim alınabilir mi?",
+   "gold": "yes, you can approve the quote (up to 12 m²), but no Saturday pickup: on Saturdays pickups are only from European-side addresses",
+   "accept": [
+    "^\\W*yes\\b",
+    "europe|avrupa"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q10",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Can you forward a customer's payment question to Ercan Demir?",
+   "gold": "no; he is the delivery driver, not the accountant",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  }
+ ]
+}

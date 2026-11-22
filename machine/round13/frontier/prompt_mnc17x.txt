@@ -1,0 +1,164 @@
+TEXT:
+§1 you
+Riverside Food Bank Mon+Wed 9:00 ET: Volunteers sheet, shifts@riversidefoodbank.org; may remind next-day volunteers unasked, "Shift Reminder" template
+new volunteer 1st shift: confirm only after Priya approves background check; approval card, wait
+<4 on a shift at 18:00 day before: text warehouse lead Marcus, without public group post
+may move volunteer same day on request; other day only with their written agreement
+injury: no medical advice; serious: they call 911; email Priya within 1h
+director Elaine Foster, not Priya; never add Elaine to volunteer emails
+Priya="volunteer coordinator", never "director"
+never share phone numbers between volunteers
+hours logged before Fri 12:00; only 1st Mon/month: Priya gets list missing ≥2 shifts
+
+§2
+県立美術館 shut Jan15-Jul31 next yr: ~¥2.4B, state 40%
+director 佐藤恵美子: new AC+roof, +2 rooms
+~300 works→city 文化センター tour show; adult ¥500, ≤high school free
+1998 renovation 3mo late; 佐藤: night work for schedule
+reopen Aug1, first 1000 get catalogue
+
+§3
+Lucía: abuela's birthday Sat Mar14 14:00 El Olivo, Toledo; 18, €35, <10 half
+Andrés: tíos Madrid→, 11:30 Atocha
+gift Lisbon trip abuela+tía Carmen; €40/adult Bizum Lucía before Mar5
+surprise, tell abuela nothing; she thinks lunch only with papá
+Andrés: no lift, room 1st floor→ground-floor table for abuela
+Marta: chocolate cake, no nuts (Pablo allergic)
+room until 18:00
+
+§4
+San Lorenzo al Mare council: from Apr1 new door-to-door sorting
+environment councillor Marco Ferri: ~€1.2M/yr, -10% vs current
+organic Mon/Wed/Fri, plastic Tue, paper Thu; glass street bins
+bags out 20:00 eve before-6:00
+kids <3: may ask extra Sat nappy pickup
+wrong: warning, then €50 fine
+bins free town hall Mar10-28 w/ TARI bill
+
+§5 you
+FietsPlaats returns: workdays 9:00 retour@fietsplaats.nl
+≤30 days since delivery: may send label; >30: no label, refer De Vries
+never refund; only Bakker (accounting)
+dangerous breakage: ask photos, warn De Vries at once, without admitting fault
+may give ≤10% code for late delivery; never for return
+owner Pieter Jansen, not De Vries; never cc Jansen to customers
+De Vries="klantenservicemanager", never "eigenaar"
+before 16:00 De Vries gets day's returns overview
+
+QUESTIONS (each is about the section named in its ID):
+§1.en1: When does this routine run?
+§1.en2: Which inbox do you check?
+§1.en3: May you send tomorrow's shift reminders without asking anyone?
+§1.en4: Priya has not yet approved a new volunteer's background check. May you confirm their first shift?
+§1.en5: At 6 p.m. the day before, a shift has 3 volunteers. What do you do, and may you post about it in the public volunteer group?
+§1.en6: At 6 p.m. the day before, a shift has exactly 4 volunteers. Do you need to text Marcus?
+§1.en7: A volunteer asks to switch from the morning shift to the afternoon shift on the same day. May you do it?
+§1.en8: A volunteer says on the phone they'd prefer Thursday instead of Wednesday but hasn't put it in writing. May you move them?
+§1.en9: A volunteer reports a sprained wrist. Do you suggest a treatment, and whom do you email, and by when?
+§1.en10: Who is the director, and may she be added to volunteer emails?
+§1.en11: How should you refer to Priya?
+§1.en12: A volunteer asks for another volunteer's phone number to arrange a carpool. May you give it?
+§1.en13: By when must weekly hours be logged?
+§1.en14: It is the second Monday of the month. Do you send Priya the list of volunteers who missed two or more shifts?
+§1.de1: Wann läuft diese Routine?
+§1.de2: Welches Postfach prüfst du?
+§1.de3: Darfst du die Schichterinnerungen für morgen verschicken, ohne jemanden zu fragen?
+§1.de4: Priya hat die Hintergrundprüfung eines neuen Freiwilligen noch nicht freigegeben. Darfst du seine erste Schicht bestätigen?
+§1.de5: Um 18 Uhr am Vortag hat eine Schicht 3 Freiwillige. Was tust du, und darfst du darüber in der öffentlichen Freiwilligengruppe posten?
+§1.de6: Um 18 Uhr am Vortag hat eine Schicht genau 4 Freiwillige. Musst du Marcus schreiben?
+§1.de7: Ein Freiwilliger möchte am selben Tag von der Früh- in die Nachmittagsschicht wechseln. Darfst du das?
+§1.de8: Ein Freiwilliger sagt am Telefon, er hätte lieber Donnerstag statt Mittwoch, hat es aber nicht schriftlich gegeben. Darfst du ihn verschieben?
+§1.de9: Ein Freiwilliger meldet ein verstauchtes Handgelenk. Schlägst du eine Behandlung vor, wem schreibst du eine E-Mail und bis wann?
+§1.de10: Wer ist die Direktorin, und darf sie zu E-Mails an Freiwillige hinzugefügt werden?
+§1.de11: Wie sollst du Priya bezeichnen?
+§1.de12: Ein Freiwilliger bittet um die Telefonnummer eines anderen Freiwilligen für eine Fahrgemeinschaft. Darfst du sie herausgeben?
+§1.de13: Bis wann müssen die Wochenstunden eingetragen sein?
+§1.de14: Es ist der zweite Montag im Monat. Schickst du Priya die Liste der Freiwilligen, die zwei oder mehr Schichten verpasst haben?
+§2.en1: When is the museum closed?
+§2.en2: What will be replaced in the renovation?
+§2.en3: How much does the work cost and what share does the national government pay?
+§2.en4: Who is the museum director?
+§2.en5: How many exhibition rooms will be added?
+§2.en6: During the closure, how many works are shown and where?
+§2.en7: At the touring exhibition, what do an adult and a 16-year-old high-school student pay?
+§2.en8: When was the last major renovation and how did it go?
+§2.en9: What will be done this time to keep to the schedule?
+§2.en10: When does it reopen and what happens that day?
+§2.ja1: 美術館はいつからいつまで休館しますか？
+§2.ja2: 改修で何を入れ替えますか？
+§2.ja3: 工事費はいくらで、国はどのくらい負担しますか？
+§2.ja4: 館長は誰ですか？
+§2.ja5: 展示室は何室増えますか？
+§2.ja6: 休館中、何点の作品がどこで公開されますか？
+§2.ja7: 巡回展で、大人と16歳の高校生はいくら払いますか？
+§2.ja8: 前回の大規模改修はいつで、どうでしたか？
+§2.ja9: 今回、工期を守るために何をしますか？
+§2.ja10: 再開はいつで、その日に何がありますか？
+§3.en1: When and where is the lunch?
+§3.en2: How many people are going and how much is the menu per person?
+§3.en3: How much does the menu cost for a 7-year-old?
+§3.en4: How much does the menu cost for a 12-year-old?
+§3.en5: Who drives the aunts and uncles, from where, and at what time?
+§3.en6: What is the gift and who is it for?
+§3.en7: How much does each adult contribute, to whom, and by when?
+§3.en8: May you mention the party to grandma?
+§3.en9: Why was a ground-floor table requested, and who requested it?
+§3.en10: What cake will there be, what must it not contain, and why?
+§3.en11: Until what time is the room reserved?
+§3.es1: ¿Cuándo y dónde es la comida?
+§3.es2: ¿Cuántas personas van y cuánto cuesta el menú por persona?
+§3.es3: ¿Cuánto cuesta el menú para un niño de 7 años?
+§3.es4: ¿Cuánto cuesta el menú para un niño de 12 años?
+§3.es5: ¿Quién lleva a los tíos, desde dónde y a qué hora?
+§3.es6: ¿Cuál es el regalo y para quién es?
+§3.es7: ¿Cuánto pone cada adulto, a quién y para cuándo?
+§3.es8: ¿Puedes mencionarle la fiesta a la abuela?
+§3.es9: ¿Por qué se pidió una mesa en la planta baja y quién la pidió?
+§3.es10: ¿Qué tarta habrá, qué no debe llevar y por qué?
+§3.es11: ¿Hasta qué hora está reservado el salón?
+§4.en1: Who makes the announcement, what changes, and from when?
+§4.en2: Who is quoted and what is his role?
+§4.en3: How much will the new service cost and how does that compare with the current contract?
+§4.en4: On which days is organic waste collected?
+§4.en5: Is glass collected door to door?
+§4.en6: May you put your bags out at 7 p.m. the evening before?
+§4.en7: May you put your bags out at 7 a.m. on collection day?
+§4.en8: A family with a 2-year-old: what extra service can they request?
+§4.en9: Can a family whose youngest child is 4 request that service?
+§4.en10: The first time someone puts their waste out incorrectly, do they get a fine?
+§4.en11: Where and when can you get the new bins, and what must you bring?
+§4.it1: Chi fa l'annuncio, cosa cambia e da quando?
+§4.it2: Chi viene citato e che ruolo ha?
+§4.it3: Quanto costerà il nuovo servizio e come si confronta con il contratto attuale?
+§4.it4: In quali giorni viene ritirato l'umido?
+§4.it5: Il vetro viene ritirato porta a porta?
+§4.it6: Puoi esporre i sacchetti alle 19 della sera prima?
+§4.it7: Puoi esporre i sacchetti alle 7 del mattino del giorno di raccolta?
+§4.it8: Una famiglia con un bambino di 2 anni: quale servizio extra può chiedere?
+§4.it9: Una famiglia il cui figlio più piccolo ha 4 anni può chiedere quel servizio?
+§4.it10: La prima volta che qualcuno espone male i rifiuti, riceve una multa?
+§4.it11: Dove e quando si ritirano i nuovi bidoni e cosa bisogna portare?
+§5.en1: When does this procedure run and which mailbox do you check?
+§5.en2: A customer returns an item 20 days after delivery. May you send a return label yourself?
+§5.en3: A customer wants to return an item 45 days after delivery. What do you do?
+§5.en4: A customer asks for a refund. May you refund them, and who does?
+§5.en5: A customer reports that a handlebar snapped dangerously. What do you do, and may you admit fault?
+§5.en6: A delivery was late. May you offer an 8% discount code?
+§5.en7: A delivery was late. May you offer a 15% discount code?
+§5.en8: A customer sending back a product asks for a discount code. May you give one?
+§5.en9: Who is the owner, and may you cc him on customer emails?
+§5.en10: How should you refer to Ms De Vries?
+§5.en11: What must you send before 4 p.m., and to whom?
+§5.nl1: Wanneer loopt deze procedure en welke mailbox controleer je?
+§5.nl2: Een klant stuurt iets terug 20 dagen na levering. Mag je zelf een retourlabel sturen?
+§5.nl3: Een klant wil iets terugsturen 45 dagen na levering. Wat doe je?
+§5.nl4: Een klant vraagt om terugbetaling. Mag jij terugbetalen, en wie doet het?
+§5.nl5: Een klant meldt dat een stuur gevaarlijk is afgebroken. Wat doe je, en mag je schuld erkennen?
+§5.nl6: Een levering was te laat. Mag je een kortingscode van 8% geven?
+§5.nl7: Een levering was te laat. Mag je een kortingscode van 15% geven?
+§5.nl8: Een klant die een product terugstuurt vraagt om een kortingscode. Mag je die geven?
+§5.nl9: Wie is de eigenaar, en mag je hem in cc zetten bij klantmails?
+§5.nl10: Hoe moet je mevrouw De Vries noemen?
+§5.nl11: Wat moet je vóór 16:00 sturen, en aan wie?
+
+Answer using only the TEXT. Reply with one JSON object only, mapping each question ID to a short answer string. Answer each question in the language named in its ID: ".en" English, ".de" German, ".ja" Japanese, ".es" Spanish, ".it" Italian, ".nl" Dutch. If the TEXT does not say, answer "not stated".

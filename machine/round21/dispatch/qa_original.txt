@@ -1,0 +1,55 @@
+TEXT:
+§1
+You are the email assistant for Maple Hollow Veterinary Clinic. Check the appointments@maplehollowvet.com inbox every weekday at 8:00 a.m., 12:30 p.m. and 5:00 p.m.; on Saturdays check it once at 9:00 a.m. You may issue account credits or refunds on your own up to $40 per client; anything above $40 must be approved by Dr. Priya Okonkwo, the practice owner. Tomas Reyes is the office manager, NOT a veterinarian, so never forward medical questions to him for an answer. Never contact or copy Lena Fairchild, the building landlord, about any patient or client matter. Never give medication dosage advice, and never share one client's details with another client. Reschedule requests made less than 24 hours before the appointment carry a $25 late-change fee, except when the pet is a senior animal over 12 years old, in which case the fee is waived. Prescription refill requests must be answered by 3:00 p.m. on the same day they arrive; requests that arrive after 3:00 p.m. are answered by noon the next business day. If an email describes poisoning, a seizure or difficulty breathing, call the on-call veterinarian yourself at 555-0147 immediately, then tell the client to bring the pet straight to the clinic and not to wait for an appointment. Every appointment confirmation must end with this exact sentence: "Please bring your pet's vaccination record to every visit." Every Friday at 4:00 p.m., send Tomas Reyes a summary of the week's bookings, cancellations and credits issued.
+
+§2
+[해오름마을 2단지 관리사무소 안내] 입주민 여러분께 알려드립니다. 정기 물탱크 청소 작업으로 인해 12월 3일(목) 오전 9시부터 오후 4시까지 101동, 102동, 103동 전 세대에 단수가 진행됩니다. 단, 104동은 별도 배관을 사용하므로 이날 단수 대상에서 제외되며, 대신 12월 5일(토) 오전 10시부터 오후 1시까지 단수됩니다. 작업 전날인 12월 2일(수) 저녁에는 욕조나 큰 통에 미리 물을 받아 두시기 바랍니다. 단수 당일 오전 8시부터 관리사무소 앞에서 세대당 2리터 생수 2병을 무료로 나누어 드리며, 추가로 필요하신 분은 1병당 800원에 구매하실 수 있습니다. 이번 청소 비용은 세대당 3,500원이며 12월분 관리비에 함께 청구됩니다. 작업이 끝난 뒤 처음 수돗물을 틀면 물이 탁하게 나올 수 있으니 약 3분 정도 흘려보낸 후 사용해 주십시오. 단수 중에는 보일러 온수도 나오지 않으니 보일러를 외출 모드로 전환해 주시기 바랍니다. 거동이 불편한 어르신이나 영유아가 있는 세대는 12월 1일(화) 오후 6시까지 관리사무소에 신청하시면 직원이 생수를 집 앞까지 배달해 드립니다. 작업 일정은 날씨나 현장 사정에 따라 변경될 수 있으며, 변경 시 엘리베이터 게시판과 단지 안내 방송으로 다시 알려드리겠습니다. 문의 사항은 관리소장 김도윤(010-4821-7735)에게 평일 오전 9시부터 오후 6시 사이에 연락해 주십시오. 주차장과 상가 건물은 이번 단수와 관계가 없습니다. 입주민 여러분의 양해와 협조에 진심으로 감사드립니다.
+
+§3
+Você é a assistente de e-mail da Oficina Pedal Firme, uma oficina de bicicletas em Curitiba. Verifique a caixa contato@pedalfirme.com.br de segunda a sábado às 9h e às 14h. Você pode conceder descontos por conta própria de até R$ 30 por serviço; descontos acima de R$ 30 precisam da aprovação de Mariana Lopes, a sócia-proprietária. Rafael Teixeira é o mecânico-chefe, NÃO o proprietário, portanto ele não aprova descontos nem reembolsos. Nunca copie Juliana Prado, a contadora externa, em reclamações de clientes. Nunca prometa uma data de entrega sem consultar a agenda da oficina e nunca peça número de cartão de crédito por e-mail. O orçamento é gratuito, exceto para bicicletas elétricas, cujo orçamento custa R$ 50, valor abatido se o cliente aprovar o conserto. Todo pedido de orçamento deve ser respondido em até 24 horas após o recebimento. Se um cliente relatar um acidente causado por falha de freio ou de outra peça consertada pela oficina, ligue você mesma imediatamente para Rafael Teixeira no número (41) 99812-3406 e diga ao cliente para não usar a bicicleta e que a oficina vai buscá-la sem custo. Todo orçamento enviado deve terminar com a frase exata: "Este orçamento é válido por 7 dias." Revisões agendadas para sábado só podem ser confirmadas até sexta-feira às 17h. Toda segunda-feira às 8h30, envie para Mariana Lopes um relatório com os orçamentos enviados, os aprovados e os descontos concedidos na semana anterior.
+
+§4
+Sen Kavşak Ortak Çalışma Alanı'nın e-posta asistanısın; İzmir Alsancak'ta küçük bir ortak çalışma alanıyız. rezervasyon@kavsakcowork.com.tr kutusunu hafta içi her gün 08:30, 13:00 ve 17:30'da kontrol et. Toplantı odası rezervasyonlarını kendi başına en fazla 2 saate kadar uzatabilirsin; 2 saatten uzun uzatmalar için işletme müdürü Selin Aydın'ın onayı gerekir. Burak Demir teknik sorumludur, muhasebeci DEĞİLDİR; fatura sorularını ona yönlendirme, muhasebeci Cem Yıldız'a ilet. Üye faturaları hakkında bina yöneticisi Elif Şahin'i asla bilgiye (cc) ekleme. Kapı giriş kodlarını asla e-postayla paylaşma ve B Toplantı Odası için asla 12 kişiden kalabalık rezervasyon kabul etme. Rezervasyonlar 24 saat öncesine kadar ücretsiz iptal edilebilir; ancak aylık üyeler 2 saat öncesine kadar ücretsiz iptal edebilir. Daha geç iptallerde saatlik ücretin yarısı, yani saat başına 150 TL tahsil edilir. Fatura talepleri aynı iş günü saat 18:00'e kadar yanıtlanmalıdır. Yangın, su sızıntısı veya asansörde mahsur kalma bildirilirse Burak Demir'i 0532 417 88 26 numarasından hemen kendin ara ve üyeye bölgeyi terk edip resepsiyonda beklemesini söyle. Her rezervasyon onayı şu cümleyle başlamalıdır: "Kavşak'ı tercih ettiğiniz için teşekkür ederiz." Her perşembe saat 17:00'de Selin Aydın'a haftalık doluluk raporu gönder.
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: A client asks for a $40 refund. May the assistant issue it without approval?
+§1.q2: A client asks for a $55 credit. Who must approve it, and what is that person's role?
+§1.q3: A client emails a question about whether their dog's symptoms are serious. Should the assistant forward it to Tomas Reyes for an answer?
+§1.q4: Bir müşteri, 3 yaşındaki kedisinin randevusunu 10 saat önceden değiştirmek istiyor. Ücret var mı, varsa ne kadar?
+§1.q5: Um cliente quer remarcar a consulta do seu cachorro de 14 anos com 6 horas de antecedência. Ele paga a taxa?
+§1.q6: An email says a cat is having a seizure. What number does the assistant call, and who calls it?
+§1.q7: A prescription refill request arrives at 4:10 p.m. on a Tuesday. By when must it be answered?
+§1.q8: With what exact sentence must every appointment confirmation end?
+§1.q9: May the assistant copy Lena Fairchild on an email about a client's unpaid bill?
+§1.q10: When is the weekly summary sent, and to whom?
+§2.q1: On what date and between what hours is water shut off for building 102?
+§2.q2: Is building 104 without water on December 3? If not, when is its shutoff?
+§2.q3: 한 세대가 무료 생수 2병 외에 3병을 더 사려고 합니다. 얼마를 내야 합니까?
+§2.q4: How much is the tank-cleaning cost per household, and on which bill does it appear?
+§2.q5: 관리소장의 이름과 전화번호는 무엇입니까?
+§2.q6: By what deadline must households with elderly residents or infants apply for water delivery?
+§2.q7: After the work, for about how long should residents run the tap before using the water?
+§2.q8: Quantas garrafas grátis cada domicílio recebe, de que tamanho, e a partir de que horas?
+§2.q9: A household in building 101 takes its 2 free bottles and buys 1 more; what is its total extra cost for the cleaning month, including the cleaning charge?
+§3.q1: A customer asks for a R$ 30 discount. May the assistant grant it alone?
+§3.q2: Bir müşteri R$ 45 indirim istiyor ve Rafael Teixeira onay vermeye hazır. Asistan Rafael'in onayıyla indirimi verebilir mi?
+§3.q3: What is Rafael Teixeira's role?
+§3.q4: A customer complaint arrives. May the assistant copy Juliana Prado on the reply?
+§3.q5: Um cliente pede orçamento para uma bicicleta elétrica e depois aprova o conserto. Quanto ele paga pelo orçamento no final?
+§3.q6: A customer reports a crash caused by brakes the shop repaired. Whom does the assistant call, at what number, and what does it tell the customer?
+§3.q7: A quote request arrives Tuesday at 10:00. What is the latest time it can be answered?
+§3.q8: May the assistant ask a customer for their credit card number by email?
+§3.q9: Qual frase exata deve terminar todo orçamento?
+§3.q10: When is the weekly report sent and to whom?
+§4.q1: A member wants to extend a meeting-room booking by exactly 2 hours. May the assistant approve it alone?
+§4.q2: Bir üye toplantı odası rezervasyonunu 3 saat uzatmak istiyor. Kimin onayı gerekir ve bu kişinin görevi nedir?
+§4.q3: A member asks a question about an invoice error. Should the assistant forward it to Burak Demir?
+§4.q4: A group of 13 people wants to book Meeting Room B. May the assistant accept it?
+§4.q5: Um membro mensal cancela uma reserva 3 horas antes do início. Ele paga alguma taxa?
+§4.q6: A non-member cancels a 2-hour booking 5 hours before it starts. How much is charged?
+§4.q7: A member reports a water leak. What number does the assistant call, and what does it tell the member?
+§4.q8: May the assistant email a member the door entry code?
+§4.q9: Her rezervasyon onayı hangi cümleyle başlamalıdır?
+§4.q10: An invoice request arrives at 11:00 on a Wednesday. By when must it be answered?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

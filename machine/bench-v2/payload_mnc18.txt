@@ -1,0 +1,75 @@
+§1 you
+Harbor Dental Group, offices Eastport/Millbrook/Sandy Cove: supply orders + patient billing emails
+weekdays 7:30 PT: read orders@harbordental.com + "Supply Requests" sheet
+may reorder from Pacific Dental Supply alone only if total <$400 and every item on approved list
+$400-$1,500: needs approval of requesting office's manager
+>$1,500: needs Dr. Anita Rao (practice owner), even if office manager approved
+never order nitrous oxide or any controlled substance, any amount; forward request to Rao
+item backorder >10 business days: may substitute Coastline Medical equivalent only if ≤15% above original price; otherwise ask requesting office manager
+office managers: Luis Ortega Eastport, Hannah Kim Millbrook, Grace Obi Sandy Cove
+Obi on leave until Dec 4; until then Kim also approves Sandy Cove orders
+billing: may explain charges + send invoice copy to patient it belongs to
+never discuss patient account with anyone else unless patient file lists them as authorized contact
+never promise refund; refund ≤$200: office manager approves; larger: only Rao
+patient reports pain/swelling/bleeding after procedure: never give clinical advice; tell them: call office emergency line (555) 014-2290; flag email "URGENT – clinical" for dentist on call
+send each office manager summary of open orders by 3pm every Thu
+send Rao monthly spending report by the 5th each month
+
+§2 you
+Hausverwaltung Lindner & Söhne Leipzig: Mon-Fri 8:00 check schaden@lindner-hv.de
+tenant reports damage, estimate <€250: commission tradesman from partner list yourself
+€250-€1,000: needs approval of Albers (Objektbetreuerin)
+>€1,000: only Lindner (Geschäftsführer) decides
+burst water pipe / gas smell / whole-building power outage: no cost limit; call Notdienst Krause 0341 998877 immediately, also nights + weekends; inform Albers within 2h at latest
+gas smell: tell tenant: leave house immediately, use no light switches
+never give tenant phone numbers or e-mails to other tenants or tradesmen; tradesmen get only name, flat number, agreed time window
+spare keys: only to tenants listed in lease, only on showing ID card; subtenants never get keys, even with power of attorney
+rent increases + terminations: never answer yourself; forward to Lindner
+Albers="Objektbetreuerin", never "owner"; owner Sachsenhof GmbH: never cc on tenant e-mails
+every Fri by 14:00 send Albers list of all open damages with report date
+utility statements sent by Nov 30 incl.; objections arriving after Jan 31: never answer, forward to Lindner
+
+§3
+Métropole de Lyon, Tue Mar 10: cycling plan 2026-2030
+budget €186M: State €42M, region Auvergne-Rhône-Alpes €15M, rest Métropole
+120 km new separated bike lanes, 35 km of them on Rhône + Saône quays; 8,000 secure parking spaces near stations
+Thomas Girard (VP mobility): works start Sep 2026 with Part-Dieu–Villeurbanne line, 6.4 km
+2025 counts: bike share of home-work trips 4%→7% in 5 yrs; goal 12% in 2030
+opposition Claire Morel: « un plan qui oublie les communes de l'ouest »
+Girard: 30% of new km outside Lyon + Villeurbanne
+public consultation on Métropole site Mar 16-Apr 30 incl.; associations may also submit written contributions until May 15
+final metropolitan council vote planned Jun 22
+
+§4 you
+さくら進学塾 (Yokohama, Kawasaki) parent contact: daily 16:00 check hogosha@sakura-juku.jp
+make-up class: only if contacted by 18:00 the day before class, may put student in open slot same week
+later contact or make-up to other week: never accept; forward to classroom head (needs their decision)
+classroom heads: Yokohama 田中健, Kawasaki 木村早苗
+Dec 20-Jan 7 winter course: no make-ups at all
+never promise tuition refund; withdrawals: only 山口真理 (HQ office manager)
+student absent sick: reply "お大事になさってください" to parent; fever ≥38°C: tell parent: phone school before coming
+grades + ranks: only to registered parents; grandparents too: never answer unless registered
+every Fri by 19:00 report week's make-up count to each classroom head
+木村="classroom head", never "principal"; 塾長 佐々木隆: never cc on parent e-mails
+
+§5
+minutes, owners' community Calle Alcalá 214 Madrid, Feb 3: 23 of 40 owners present; chair Rosa Jiménez (president), minutes Iván Soto (administrator, not owner)
+1 lift: replacement approved, €68,400 VAT incl., Elevaciones Sur; 15 for, 6 against, 2 abstain
+paid in 12 monthly instalments from Apr; ground-floor shops exempt, except shop B (uses lift for basement storage)
+2 façade: not approved; vote repeated at June meeting
+3 pool: Jun 15-Sep 15, 11:00-21:00; under 12 only with adult; glass containers banned
+4 arrears: 5ºC owner owes €2,310; not paid before Mar 1 → legal claim starts
+Rosa Jiménez: «Las llaves de la azotea solo las tiene el conserje»
+5 next ordinary meeting Jun 9: 19:00 first call, 19:30 second call
+
+§6 you
+青禾茶叶 online tea shop after-sales (Shanghai warehouse): daily 10:00 + 16:00 check shouhou@qinghetea.cn + ticket backend
+within 7d of receipt (day 7 incl.) and unopened: may approve return + send return address
+opened tea: never return; but mould or odd smell reported: ask customer for photos + batch number, forward to 周静 (QC head); don't judge yourself
+refund >¥800: only finance 王磊 approves, even if 周静 confirmed quality problem
+delivery delay >3 days: may give ¥20 no-minimum coupon, max 1 per customer per month; never for return orders
+invoice requests: invoice info within 30d of order; later: forward to 王磊
+never reveal other customers' order info or addresses
+周静="QC head", never "store manager"; store manager 陈晓东: never cc on customer e-mails
+every Mon before 12:00 send 周静 last week's return-reasons summary table
+Spring Festival Feb 14-22: warehouse no shipping; inquiries: reply fixed script 「春节期间暂停发货，2月23日起按下单顺序发出。」

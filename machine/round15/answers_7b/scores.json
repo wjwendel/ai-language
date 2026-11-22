@@ -1,0 +1,798 @@
+{
+ "rows": [
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "register@northfieldysl.org, daily 8pm CT",
+   "gold": "register@northfieldysl.org, daily at 8 p.m. Central"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, with $25 late fee",
+   "gold": "Yes; $25 late fee"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "U12, no",
+   "gold": "U12; no"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "written approval of age-group coordinator, U14 coordinator",
+   "gold": "Written approval from the U14 coordinator, Priyanka Rao"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "2, 10% off each",
+   "gold": "Two (each additional child, not the first)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "50%",
+   "gold": "50%"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "none",
+   "gold": "Full refund minus the $15 processing fee"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "No; treasurer Tom Alvarez must approve"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "tell parent: player must not return to practice until doctor signs league's return-to-play form; notify safety officer Elena Ruiz same day",
+   "gold": "The player must not return to practice until a doctor signs the league's return-to-play form; notify safety officer Elena Ruiz the same day"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (by 6 p.m.)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "WhatsApp + agenda@bichobom.vet, Mon-Sat 7:30",
+   "gold": "Reception WhatsApp and agenda@bichobom.vet, Monday to Saturday at 7:30"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No; only Dra. Fernanda Lopes books surgeries"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "tell owner: bring animal immediately to 24h emergency service; notify vet on duty",
+   "gold": "Tell them to bring the animal immediately to the 24-hour emergency service; notify the vet on duty; no treatment advice"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, R$50 fee",
+   "gold": "Yes, R$50"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No; only Juliana Prado can give more than 10%"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No; she is the manager"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "partner Dr. Ricardo Alves",
+   "gold": "Dr. Ricardo Alves (the partner)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "No (more than 30 days only)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (by 18:00)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Nov 3, by Dec 15",
+   "gold": "Nov 3; by July 2027"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₩145bn * 70% = ₩101.5bn",
+   "gold": "About ₩101.5 billion (70% of ₩145 billion)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4.2 km, 3 stations, 2,400 passengers/h",
+   "gold": "4.2 km, 3 stations, 2,400 people per hour"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₩25,000 * 60% = ₩15,000",
+   "gold": "₩15,000 (40% off ₩25,000)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "fears damage to migratory bird habitat, demands construction halt",
+   "gold": "A halt to construction; fears damage to migratory bird habitat"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by Dec 15",
+   "gold": "By Dec 15"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dec 20 14:00 at Haeundae-gu office",
+   "gold": "Dec 20, 2 p.m., Haeundae-gu office"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "120,000 additional tourists per year",
+   "gold": "1.2 million additional tourists"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "it@polkart.pl + ticket queue, daily 7:00",
+   "gold": "it@polkart.pl and the ticket queue, at 7:00"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No; only the work number from the HR system"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "HR head Anna Wiśniewska",
+   "gold": "Only HR head Anna Wiśniewska"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "notify Kamil Nowak (security admin) immediately, also weekends",
+   "gold": "Tell them not to click or pay anything; notify Kamil Nowak immediately (also at weekends)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "CFO Ewa Lis",
+   "gold": "The requesting department's head"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "CFO Ewa Lis",
+   "gold": "CFO Ewa Lis"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No; he is the security administrator"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "partner Dr. Ricardo Alves",
+   "gold": "Marek Duda, the IT head"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (more than 5 working days only)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q11",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "Yes (by 15:00)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "register@northfieldysl.org inbox at 8 p.m. Central",
+   "gold": "register@northfieldysl.org, daily at 8 p.m. Central"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, with a $25 fee",
+   "gold": "Yes; $25 late fee"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "U12, no",
+   "gold": "U12; no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "written approval from the U14 coordinator, Priyanka Rao",
+   "gold": "Written approval from the U14 coordinator, Priyanka Rao"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "two of them",
+   "gold": "Two (each additional child, not the first)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "50%",
+   "gold": "50%"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "full refund minus a $15 processing fee",
+   "gold": "Full refund minus the $15 processing fee"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "No; treasurer Tom Alvarez must approve"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the player must not return to practice until a doctor signs the league's return-to-play form, and notify the safety officer, Elena Ruiz, the same day",
+   "gold": "The player must not return to practice until a doctor signs the league's return-to-play form; notify safety officer Elena Ruiz the same day"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (by 6 p.m.)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "WhatsApp and e-mail agenda@bichobom.vet from 7:30 a.m. to 6 p.m. on weekdays",
+   "gold": "Reception WhatsApp and agenda@bichobom.vet, Monday to Saturday at 7:30"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only the director, Dr. Fernanda Lopes, can book surgeries",
+   "gold": "No; only Dra. Fernanda Lopes books surgeries"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "tell the owner to bring the animal immediately to the emergency room and notify the on-call veterinarian",
+   "gold": "Tell them to bring the animal immediately to the 24-hour emergency service; notify the vet on duty; no treatment advice"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $50 fee",
+   "gold": "Yes, R$50"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, no fee",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only the manager, Juliana Prado, can grant discounts over 10%",
+   "gold": "No; only Juliana Prado can give more than 10%"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, not without written authorization from the owner",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Juliana is the manager, not a partner",
+   "gold": "No; she is the manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the director, Dr. Ricardo Alves",
+   "gold": "Dr. Ricardo Alves (the partner)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "No (more than 30 days only)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q11",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "No (by 18:00)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "11/3/2022, by 7/31/2027",
+   "gold": "Nov 3; by July 2027"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "70%",
+   "gold": "About ₩101.5 billion (70% of ₩145 billion)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4.2km, 3, 2,400 people per hour",
+   "gold": "4.2 km, 3 stations, 2,400 people per hour"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "16,000원",
+   "gold": "₩15,000 (40% off ₩25,000)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "environmental group wants to stop construction, concerned about habitat destruction",
+   "gold": "A halt to construction; fears damage to migratory bird habitat"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "12/15/2022",
+   "gold": "By Dec 15"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "12/20/2022, Haean-dae District Office",
+   "gold": "Dec 20, 2 p.m., Haeundae-gu office"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "120,000 visitors per year",
+   "gold": "1.2 million additional tourists"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "it@polkart.pl and the IT ticket queue at 7:00 a.m.",
+   "gold": "it@polkart.pl and the ticket queue, at 7:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, verify through the system's recorded work number",
+   "gold": "No; only the work number from the HR system"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Anna Wiśniewska",
+   "gold": "Only HR head Anna Wiśniewska"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "the department head",
+   "gold": "Tell them not to click or pay anything; notify Kamil Nowak immediately (also at weekends)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only the employee can collect it",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the department head",
+   "gold": "The requesting department's head"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ewa Lis",
+   "gold": "CFO Ewa Lis"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Kamil Nowak is the security administrator",
+   "gold": "No; he is the security administrator"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "the security administrator, Kamila Nowaka",
+   "gold": "Marek Duda, the IT head"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (more than 5 working days only)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q11",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "Yes (by 15:00)"
+  }
+ ],
+ "summary": {
+  "mnc18_r1": {
+   "all": [
+    33,
+    42
+   ],
+   "S": [
+    25,
+    32
+   ],
+   "F": [
+    8,
+    10
+   ],
+   "hop2": [
+    18,
+    23
+   ]
+  },
+  "original_r1": {
+   "all": [
+    29,
+    42
+   ],
+   "S": [
+    25,
+    32
+   ],
+   "F": [
+    4,
+    10
+   ],
+   "hop2": [
+    18,
+    23
+   ]
+  }
+ }
+}

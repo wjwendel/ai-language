@@ -1,0 +1,562 @@
+{
+ "facts": [
+  {
+   "id": "f1",
+   "sec": "§1",
+   "type": "F",
+   "text": "Actor is email assistant for Hartwell Tailoring"
+  },
+  {
+   "id": "f2",
+   "sec": "§1",
+   "type": "F",
+   "text": "Shop is three-person alterations and bespoke tailoring shop"
+  },
+  {
+   "id": "f3",
+   "sec": "§1",
+   "type": "F",
+   "text": "Inbox orders@hartwelltailoring.example"
+  },
+  {
+   "id": "f4",
+   "sec": "§1",
+   "type": "F",
+   "text": "Check each weekday at 8:30"
+  },
+  {
+   "id": "f5",
+   "sec": "§1",
+   "type": "F",
+   "text": "Check each weekday at 13:30"
+  },
+  {
+   "id": "f6",
+   "sec": "§1",
+   "type": "S",
+   "text": "Do not check inbox at other times"
+  },
+  {
+   "id": "f7",
+   "sec": "§1",
+   "type": "S",
+   "text": "Alteration orders: may approve discount on own up to $40"
+  },
+  {
+   "id": "f8",
+   "sec": "§1",
+   "type": "S",
+   "text": "Alteration discount above $40 must be approved by Marta Okafor"
+  },
+  {
+   "id": "f9",
+   "sec": "§1",
+   "type": "S",
+   "text": "Marta Okafor is the shop manager"
+  },
+  {
+   "id": "f10",
+   "sec": "§1",
+   "type": "S",
+   "text": "Bespoke suit orders: own limit only $20"
+  },
+  {
+   "id": "f11",
+   "sec": "§1",
+   "type": "S",
+   "text": "Bespoke discount above $20 needs approval before replying (approver unnamed)"
+  },
+  {
+   "id": "f12",
+   "sec": "§1",
+   "type": "S",
+   "text": "Dennis Varga is head cutter, NOT the owner"
+  },
+  {
+   "id": "f13",
+   "sec": "§1",
+   "type": "S",
+   "text": "Owner is Lillian Hartwell"
+  },
+  {
+   "id": "f14",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never copy Priya Sandhu on customer complaints"
+  },
+  {
+   "id": "f15",
+   "sec": "§1",
+   "type": "S",
+   "text": "Priya Sandhu is outside bookkeeper"
+  },
+  {
+   "id": "f16",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never send customer body measurements by email"
+  },
+  {
+   "id": "f17",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never promise finished alteration in fewer than five working days"
+  },
+  {
+   "id": "f18",
+   "sec": "§1",
+   "type": "S",
+   "text": "Wedding garments require 50% deposit before work starts"
+  },
+  {
+   "id": "f19",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception: returning customers with 3+ previous orders pay on collection"
+  },
+  {
+   "id": "f20",
+   "sec": "§1",
+   "type": "S",
+   "text": "Fitting appointments confirmed to customer by 17:00 day before fitting"
+  },
+  {
+   "id": "f21",
+   "sec": "§1",
+   "type": "S",
+   "text": "Trigger: collected garment has needle/pin inside and someone hurt"
+  },
+  {
+   "id": "f22",
+   "sec": "§1",
+   "type": "S",
+   "text": "Call on-call line 555-0147 yourself"
+  },
+  {
+   "id": "f23",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell customer Marta will phone within 30 minutes"
+  },
+  {
+   "id": "f24",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell customer to place garment in sealed bag and not wear it again"
+  },
+  {
+   "id": "f25",
+   "sec": "§1",
+   "type": "F",
+   "text": "Pickup-ready messages end with exact sentence \"Please bring your ticket stub when you collect.\""
+  },
+  {
+   "id": "f26",
+   "sec": "§1",
+   "type": "S",
+   "text": "Each Monday 9:00 send Marta summary of previous week's orders and complaints"
+  },
+  {
+   "id": "f27",
+   "sec": "§2",
+   "type": "F",
+   "text": "Issuer: 緑ヶ丘地区センター, notice on meeting facility use"
+  },
+  {
+   "id": "f28",
+   "sec": "§2",
+   "type": "F",
+   "text": "Bookings for January 2027 for 集会室 and 和室"
+  },
+  {
+   "id": "f29",
+   "sec": "§2",
+   "type": "F",
+   "text": "Booking opens 12月1日 (Tue) 9:00"
+  },
+  {
+   "id": "f30",
+   "sec": "§2",
+   "type": "F",
+   "text": "Usage hours 9:00-21:00"
+  },
+  {
+   "id": "f31",
+   "sec": "§2",
+   "type": "F",
+   "text": "集会室 fee 600円/hour"
+  },
+  {
+   "id": "f32",
+   "sec": "§2",
+   "type": "F",
+   "text": "和室 fee 400円/hour"
+  },
+  {
+   "id": "f33",
+   "sec": "§2",
+   "type": "S",
+   "text": "和室 use requires prior caretaker permission"
+  },
+  {
+   "id": "f34",
+   "sec": "§2",
+   "type": "S",
+   "text": "集会室 use after 18:00 requires prior caretaker permission"
+  },
+  {
+   "id": "f35",
+   "sec": "§2",
+   "type": "F",
+   "text": "Bookings accepted at counter or by phone"
+  },
+  {
+   "id": "f36",
+   "sec": "§2",
+   "type": "S",
+   "text": "Limit 4 bookings per group per month"
+  },
+  {
+   "id": "f37",
+   "sec": "§2",
+   "type": "S",
+   "text": "Cancellation free up to 3 days before use date"
+  },
+  {
+   "id": "f38",
+   "sec": "§2",
+   "type": "S",
+   "text": "Later cancellation costs half the usage fee"
+  },
+  {
+   "id": "f39",
+   "sec": "§2",
+   "type": "S",
+   "text": "Exception: 緑ヶ丘子ども会 usage fee waived"
+  },
+  {
+   "id": "f40",
+   "sec": "§2",
+   "type": "S",
+   "text": "子ども会 still pays 200円/hour heating/cooling fee when used"
+  },
+  {
+   "id": "f41",
+   "sec": "§2",
+   "type": "F",
+   "text": "Closed Dec 29 - Jan 3 (year-end/new-year)"
+  },
+  {
+   "id": "f42",
+   "sec": "§2",
+   "type": "S",
+   "text": "After use return desks and chairs to original position"
+  },
+  {
+   "id": "f43",
+   "sec": "§2",
+   "type": "S",
+   "text": "Always take trash home"
+  },
+  {
+   "id": "f44",
+   "sec": "§2",
+   "type": "S",
+   "text": "Contact: caretaker 森下敏夫"
+  },
+  {
+   "id": "f45",
+   "sec": "§2",
+   "type": "F",
+   "text": "Caretaker phone 045-312-7788"
+  },
+  {
+   "id": "f46",
+   "sec": "§2",
+   "type": "F",
+   "text": "Contact hours weekdays 9:00-17:00"
+  },
+  {
+   "id": "f47",
+   "sec": "§3",
+   "type": "F",
+   "text": "Actor is email assistant for Estudio Luz de Alba, small wedding photography studio"
+  },
+  {
+   "id": "f48",
+   "sec": "§3",
+   "type": "F",
+   "text": "Inbox reservas@luzdealba.example"
+  },
+  {
+   "id": "f49",
+   "sec": "§3",
+   "type": "F",
+   "text": "Check every day at 9:00 and 18:00"
+  },
+  {
+   "id": "f50",
+   "sec": "§3",
+   "type": "F",
+   "text": "Clásico package costs 2,400 euros"
+  },
+  {
+   "id": "f51",
+   "sec": "§3",
+   "type": "S",
+   "text": "May offer up to 10% discount on any package on own"
+  },
+  {
+   "id": "f52",
+   "sec": "§3",
+   "type": "S",
+   "text": "Larger discount needs approval of Carmen Ibarra"
+  },
+  {
+   "id": "f53",
+   "sec": "§3",
+   "type": "S",
+   "text": "Carmen Ibarra is studio manager"
+  },
+  {
+   "id": "f54",
+   "sec": "§3",
+   "type": "S",
+   "text": "Tomás Herrera is lead photographer, NOT owner"
+  },
+  {
+   "id": "f55",
+   "sec": "§3",
+   "type": "S",
+   "text": "Owner is Raúl Mendoza"
+  },
+  {
+   "id": "f56",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never contact or cc Lucía Paredes (former partner) about contracts or payments"
+  },
+  {
+   "id": "f57",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never send RAW files to clients"
+  },
+  {
+   "id": "f58",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never confirm a date without receiving deposit"
+  },
+  {
+   "id": "f59",
+   "sec": "§3",
+   "type": "F",
+   "text": "Deposit is 30% of package"
+  },
+  {
+   "id": "f60",
+   "sec": "§3",
+   "type": "S",
+   "text": "Deposit due within 48 hours after booking"
+  },
+  {
+   "id": "f61",
+   "sec": "§3",
+   "type": "S",
+   "text": "Exception: Monday-Thursday weddings deposit 20%"
+  },
+  {
+   "id": "f62",
+   "sec": "§3",
+   "type": "S",
+   "text": "Respond to every new inquiry within 24 hours"
+  },
+  {
+   "id": "f63",
+   "sec": "§3",
+   "type": "S",
+   "text": "Trigger: during session client reports rented studio lamp smoking/sparking"
+  },
+  {
+   "id": "f64",
+   "sec": "§3",
+   "type": "S",
+   "text": "Call on-call technician 612 448 903 yourself"
+  },
+  {
+   "id": "f65",
+   "sec": "§3",
+   "type": "S",
+   "text": "Tell client technician is on the way"
+  },
+  {
+   "id": "f66",
+   "sec": "§3",
+   "type": "S",
+   "text": "Tell client to unplug equipment and not touch it"
+  },
+  {
+   "id": "f67",
+   "sec": "§3",
+   "type": "F",
+   "text": "Messages with a quote must start exactly with \"Gracias por pensar en Luz de Alba para su día.\""
+  },
+  {
+   "id": "f68",
+   "sec": "§3",
+   "type": "S",
+   "text": "Every Friday 16:00 send Carmen report of bookings and pending deposits"
+  },
+  {
+   "id": "f69",
+   "sec": "§4",
+   "type": "F",
+   "text": "Actor is email assistant for Petek Arıcılık Malzemeleri, small beekeeping supplies shop"
+  },
+  {
+   "id": "f70",
+   "sec": "§4",
+   "type": "F",
+   "text": "Inbox siparis@petekaricilik.example"
+  },
+  {
+   "id": "f71",
+   "sec": "§4",
+   "type": "F",
+   "text": "Check weekdays at 10:00 and 15:00"
+  },
+  {
+   "id": "f72",
+   "sec": "§4",
+   "type": "S",
+   "text": "May approve shipping-fee refunds up to 200 TL on own"
+  },
+  {
+   "id": "f73",
+   "sec": "§4",
+   "type": "S",
+   "text": "Above 200 TL needs approval of Hülya Demir"
+  },
+  {
+   "id": "f74",
+   "sec": "§4",
+   "type": "S",
+   "text": "Hülya Demir is shop owner"
+  },
+  {
+   "id": "f75",
+   "sec": "§4",
+   "type": "S",
+   "text": "Murat Kaya is on-call beekeeper, NOT shop owner"
+  },
+  {
+   "id": "f76",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never contact former supplier Can Erdem about prices"
+  },
+  {
+   "id": "f77",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never cc Can Erdem on any email"
+  },
+  {
+   "id": "f78",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never give customers medical advice"
+  },
+  {
+   "id": "f79",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never promise live bee packages delivered before April 1"
+  },
+  {
+   "id": "f80",
+   "sec": "§4",
+   "type": "F",
+   "text": "Orders over 1,500 TL get free shipping"
+  },
+  {
+   "id": "f81",
+   "sec": "§4",
+   "type": "S",
+   "text": "Exception: orders with live bee package always 150 TL shipping"
+  },
+  {
+   "id": "f82",
+   "sec": "§4",
+   "type": "S",
+   "text": "Cancellation requests before 14:00 processed same day"
+  },
+  {
+   "id": "f83",
+   "sec": "§4",
+   "type": "F",
+   "text": "Starter Set costs 2,400 TL"
+  },
+  {
+   "id": "f84",
+   "sec": "§4",
+   "type": "F",
+   "text": "Cancelled after shipping: refund 75% of order amount"
+  },
+  {
+   "id": "f85",
+   "sec": "§4",
+   "type": "S",
+   "text": "Trigger: delivered live bee package damaged and bees spread in house"
+  },
+  {
+   "id": "f86",
+   "sec": "§4",
+   "type": "S",
+   "text": "Call on-call beekeeper Murat Kaya at 0532 614 22 90 yourself"
+  },
+  {
+   "id": "f87",
+   "sec": "§4",
+   "type": "S",
+   "text": "Tell customer Murat will come within 1 hour"
+  },
+  {
+   "id": "f88",
+   "sec": "§4",
+   "type": "S",
+   "text": "Tell customer to close room door and open window"
+  },
+  {
+   "id": "f89",
+   "sec": "§4",
+   "type": "F",
+   "text": "Shipping confirmations end exactly with \"Arılarınız ve siz için iyi bir sezon dileriz.\""
+  },
+  {
+   "id": "f90",
+   "sec": "§4",
+   "type": "S",
+   "text": "Every Thursday 17:00 send Hülya weekly report of refunds and cancellations"
+  }
+ ],
+ "A": {
+  "kept": 90,
+  "distorted": [],
+  "lost": [],
+  "added": [
+   "§2: adds the year 2026 to the booking-open date (original gives only 12月1日（火）, no year); consistent with the weekday but not in the original",
+   "§1: meta-note that the bespoke >$20 approver is not named (accurate about the original, adds no new rule)"
+  ]
+ },
+ "B": {
+  "kept": 90,
+  "distorted": [],
+  "lost": [],
+  "added": [
+   "§2: adds the year 2026 to the booking-open date (original gives only 12月1日（火）, no year); consistent with the weekday but not in the original",
+   "§1: meta-note that the bespoke >$20 approver is not named (accurate about the original, adds no new rule)"
+  ]
+ }
+}

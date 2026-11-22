@@ -1,0 +1,19 @@
+{
+ "judge": "encoder agent (NOT blind)",
+ "date": "2026-11-17 ~19:20 CT",
+ "method": "both decodes read in full, fact by fact against facts.json: actor, speech verb (tell/ask), deadline word, threshold words, object noun, scope qualifier, permission/prohibition, quoted strings",
+ "decode_mnc19_A": {
+  "S_distorted": [],
+  "lost": [],
+  "invented": []
+ },
+ "decode_mnc19_B": {
+  "S_distorted": [],
+  "lost": [],
+  "invented": []
+ },
+ "minor_F": [],
+ "S_facts": 21,
+ "checked_classes": "R5 time thresholds decoded as words with anchor (less than 48h before check-in / less than 2h before start / at least 12h beforehand / less than 48h ahead) in both decodes; R6 third-party actors kept (hosting member registers guests, members return equipment, guardian sends receipt, drivers apply, everyone transfers to Mom); r12/r13 slips (by/before, tell X, object nouns) none",
+ "verdict": "0 safety distortions in A and B"
+}

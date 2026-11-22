@@ -1,0 +1,501 @@
+{
+ "written": "2026-11-20 by independent author (r30)",
+ "questions": [
+  {
+   "id": "§1.q1",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer wants a stump-grinding job priced at exactly $600. Can you confirm the booking on your own?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q2",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A stump-grinding job comes to $640. Who must approve it?",
+   "gold": "Marta Kowal, the operations manager",
+   "accept": [
+    "marta|kowal"
+   ],
+   "reject": [
+    "priya|haldane|dale"
+   ]
+  },
+  {
+   "id": "§1.q3",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer orders 5 cords of firewood. Can you confirm it on your own, and if not, who approves?",
+   "gold": "No; it needs approval, approver not stated",
+   "accept": [
+    "^\\W*no\\b",
+    "not\\s+(stated|named|specified|given|mentioned)|unspecified|no\\s+approver|unnamed"
+   ],
+   "reject": [
+    "marta|kowal|priya|haldane|dale"
+   ]
+  },
+  {
+   "id": "§1.q4",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A tree removal quote comes to only $350, below the $600 limit. Can you confirm it on your own?",
+   "gold": "No; every tree removal must be approved by Priya Haldane, the owner",
+   "accept": [
+    "^\\W*no\\b",
+    "priya|haldane"
+   ],
+   "reject": [
+    "marta|kowal"
+   ]
+  },
+  {
+   "id": "§1.q5",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Is the inbox checked at 10:00?",
+   "gold": "No; only at 07:30, 12:30 and 17:00",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q6",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer reports a tree has fallen on their car; no wires are mentioned. What must you do?",
+   "gold": "Call the emergency crew line 555-0148 yourself, tell the customer an emergency crew is on its way, and tell them to keep everyone out of the damaged rooms and at least 10 metres away from the tree",
+   "accept": [
+    "555\\W*0148",
+    "crew|help|team",
+    "(?<!\\d)10(?!\\d)"
+   ],
+   "reject": [
+    "0199"
+   ]
+  },
+  {
+   "id": "§1.q7",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "In the fallen-tree emergency, who must keep everyone at least 10 metres away from the tree: you (the assistant) or the customer?",
+   "gold": "The customer",
+   "accept": [
+    "customer|client|klant|cliente"
+   ],
+   "reject": [
+    "^\\W*(the\\s+)?(assistant|you|i|we)\\b"
+   ]
+  },
+  {
+   "id": "§1.q8",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "Een klant met een adres in Millbrook wil een bezichtiging (site visit) op zaterdag. Wat kost dat?",
+   "gold": "$45",
+   "accept": [
+    "(?<!\\d)45(?!\\d)"
+   ],
+   "reject": [
+    "^\\W*(free|nothing)"
+   ]
+  },
+  {
+   "id": "§1.q9",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A Seniors' Plan customer asks on a Wednesday for a hedge-trimming discount. What is the largest discount you may give on your own?",
+   "gold": "10%",
+   "accept": [
+    "(?<!\\d)10\\s*(%|percent)"
+   ],
+   "reject": [
+    "(?<!\\d)15\\s*(%|percent)"
+   ]
+  },
+  {
+   "id": "§1.q10",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "O cliente enviou a confirmação escrita da companhia de energia (utility) de que a linha está desligada. Você pode fazer um orçamento para o trabalho perto da linha elétrica?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q1",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "3월 2일에 등록한 자유수영 월 회원도 새 회원증을 받아야 하나요?",
+   "gold": "Yes; the date limit applies only to lesson members, all free-swim monthly members need the new card",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q2",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "A lesson (강습) member registered on March 2. Do they need to get a new membership card?",
+   "gold": "No; they keep using their existing card",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q3",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "What is the total day-pass fee for two adults and one youth (청소년) for free swimming?",
+   "gold": "12,000 won",
+   "accept": [
+    "12\\W?000"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q4",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "65세 이상 어르신의 자유수영 1일 이용료는 얼마인가요?",
+   "gold": "2,250 won",
+   "accept": [
+    "2\\W?250"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q5",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "During Wednesday-evening free swim, which lane should advanced swimmers use?",
+   "gold": "Lane 4",
+   "accept": [
+    "(?<!\\d)4(?!\\d)|four"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q6",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "새 회원증은 어디에서, 언제 받나요?",
+   "gold": "At the 1st-floor information desk, from March 25 to March 31",
+   "accept": [
+    "(?<!\\d)25(?!\\d)",
+    "(?<!\\d)31(?!\\d)",
+    "desk|안내|information|front|1st|first"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q7",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "How much does it cost to reissue a lost membership card?",
+   "gold": "3,000 won",
+   "accept": [
+    "3\\W?000"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q8",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "Who is the contact person for questions, and what is the phone number?",
+   "gold": "Park Jihoon (박지훈), facilities team, 031-555-0172",
+   "accept": [
+    "555\\W*0172",
+    "park|bak|박지훈|ji\\W?hoon"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q9",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "3번 레인에서 개인 오리발을 사용해도 되나요?",
+   "gold": "No; personal kickboards and fins are allowed only in lane 5",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q1",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A client wants a package of exactly 20 walks. Can you approve it on your own?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q2",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Um cliente pede um pacote de 21 passeios. Quem precisa aprovar?",
+   "gold": "Helena Duarte, the operations coordinator",
+   "accept": [
+    "helena|duarte"
+   ],
+   "reject": [
+    "bruno|teles|lucas"
+   ]
+  },
+  {
+   "id": "§3.q3",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A client asks for a 5% discount on a 2-night boarding (hospedagem) booking. Can you give it on your own?",
+   "gold": "No; any boarding discount needs approval from Bruno Teles, the owner",
+   "accept": [
+    "^\\W*no\\b",
+    "bruno|teles"
+   ],
+   "reject": [
+    "helena|duarte|lucas"
+   ]
+  },
+  {
+   "id": "§3.q4",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A client wants a 4-night boarding booking. Who must approve it?",
+   "gold": "Helena Duarte, the operations coordinator",
+   "accept": [
+    "helena|duarte"
+   ],
+   "reject": [
+    "bruno|teles|lucas"
+   ]
+  },
+  {
+   "id": "§3.q5",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A carteira de vacinação chega exatamente às 18h do dia anterior ao primeiro passeio. Você pode agendar o passeio?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q6",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A client reports their dog escaped during a walk. What must you do?",
+   "gold": "Call the team emergency line (41) 3555-0190 yourself, tell the client the search team is already leaving, and ask them to leave the house gate open and stay home with their phone on",
+   "accept": [
+    "3555\\W*0190",
+    "gate|port[aã]o"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q7",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "In the escaped-dog case, who must leave the gate open: you (the assistant) or the client?",
+   "gold": "The client",
+   "accept": [
+    "customer|client|klant|cliente"
+   ],
+   "reject": [
+    "^\\W*(the\\s+)?(assistant|you|i|we)\\b"
+   ]
+  },
+  {
+   "id": "§3.q8",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A Plano Anual client cancels a walk 3 hours before it starts. Do they get it at no cost?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q9",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Um cliente pede um passeio em grupo no domingo para o seu cão de 15 kg. Pode agendar?",
+   "gold": "No; on Sundays only individual walks are offered",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q10",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "May you copy Sérgio Lima on an email about a client complaint?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q1",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A business customer places an order of exactly €750. Can you approve it yourself?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q2",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Een particuliere klant bestelt voor €320. Wie moet dit goedkeuren?",
+   "gold": "Marleen Visser, the owner",
+   "accept": [
+    "marleen|visser"
+   ],
+   "reject": [
+    "anouk|vries|thijs"
+   ]
+  },
+  {
+   "id": "§4.q3",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A business order comes to €800. Who must approve it?",
+   "gold": "Anouk de Vries, the business manager",
+   "accept": [
+    "anouk|vries"
+   ],
+   "reject": [
+    "marleen|visser|thijs"
+   ]
+  },
+  {
+   "id": "§4.q4",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "A customer cancels a tasting ticket 72 hours in advance. How much is refunded?",
+   "gold": "€21",
+   "accept": [
+    "(?<!\\d)21(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q5",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "Een klant annuleert zijn proeverijkaartje precies 48 uur van tevoren. Hoeveel krijgt hij terug?",
+   "gold": "Nothing (€0); only cancellations more than 48 hours ahead get 60% back",
+   "accept": [
+    "nothing|(?<![\\d,.])0(?![\\d,.]*[1-9])|zero|no\\s+refund|none"
+   ],
+   "reject": [
+    "(?<!\\d)21(?!\\d)"
+   ]
+  },
+  {
+   "id": "§4.q6",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "A private customer in Utrecht orders €120 of wine for delivery on a Saturday. What is the total including delivery?",
+   "gold": "€127.50",
+   "accept": [
+    "127[.,]50?"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q7",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "Een Wijnclub-lid vraagt op vrijdag om 10% korting. Mag je die geven?",
+   "gold": "No; the Wijnclub discount applies only on Thursday",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q8",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer reports someone was injured during one of our deliveries. What must you do?",
+   "gold": "Call the delivery service yourself at 030-555-0136, then tell the customer our team is on the way and that they must call 112 themselves if someone is seriously injured",
+   "accept": [
+    "030\\W*555\\W*0136",
+    "112"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q9",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "In that delivery-injury case, who must call 112 if someone is seriously injured: you (the assistant) or the customer?",
+   "gold": "The customer",
+   "accept": [
+    "customer|client|klant|cliente"
+   ],
+   "reject": [
+    "^\\W*(the\\s+)?(assistant|you|i|we)\\b"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "terse_r1": {
+  "§2.q1": [
+   1,
+   "regex false negative: correct time written as '7–10 AM'"
+  ],
+  "§3.q3": [
+   1,
+   "faithful to the original: it says shop/condo quotes always need approval without naming the approver; this answer says so"
+  ]
+ },
+ "terse_r2": {
+  "§2.q1": [
+   1,
+   "regex false negative: correct time written as '7–10 AM'"
+  ]
+ }
+}

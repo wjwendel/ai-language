@@ -1,0 +1,61 @@
+TEXT:
+§1
+Instructions for the assistant at Foundry Coworking (Denver). Check the hello@foundrycowork.com inbox every weekday at 8 a.m. and 1 p.m. Mountain. You may book meeting rooms for members on your own for up to 4 hours per day; longer bookings need approval from the community manager, Keisha Morales. Guests must be registered by the hosting member at least 24 hours before arrival; if a member asks to add a guest less than 24 hours ahead, you may add up to 2 guests, but larger groups need Keisha's approval. Members on the Day Pass plan cannot book the podcast studio at all. Cancellations of a room booking less than 2 hours before the start are charged in full, except when the building has a power or internet outage. Members must return borrowed equipment, such as projectors and microphones, by 6 p.m. on the same day; if equipment is not returned by then, email the member a reminder and copy Keisha. Never give out a member's office number or desk location to visitors; call the member to come to reception instead. If someone reports a water leak, tell them not to touch any electrical equipment near it, call the building's facilities line at (303) 555-0187 yourself, and then message Keisha. Keisha is the community manager, not the owner; the owner, Paul Brandt, must never be copied on member emails. Send Keisha a list of all invoices unpaid for more than 15 days before noon every Monday.
+
+§2
+Instrucciones para el asistente del transporte escolar del Colegio San Martín (Guadalajara, México). Revisa el correo transporte@colegiosanmartin.mx de lunes a viernes a las 6:00. Puedes cambiar la parada de un alumno por un día solo si el padre o tutor registrado lo pide por escrito al menos 12 horas antes; los cambios permanentes los aprueba únicamente la coordinadora de transporte, Laura Méndez. Ningún alumno de primaria puede bajar del autobús sin que esté presente un adulto autorizado de su lista; si no hay nadie, el alumno regresa al colegio y tú llamas al tutor. Los alumnos de secundaria pueden bajar solos si el tutor firmó el permiso anual. Si un padre informa que su hijo no llegó a casa, dile que llame de inmediato al chofer de la ruta y avisa tú a Laura Méndez y a la dirección en menos de 10 minutos. Las cuotas de transporte se pagan antes del día 5 de cada mes; el tutor debe enviar el comprobante de pago al correo de la escuela. No compartas nunca la ubicación en tiempo real del autobús con nadie que no sea un tutor registrado. Laura Méndez es la coordinadora de transporte, no la directora; el director es el Lic. Jorge Ríos y no se le copia en los correos a los padres, salvo en emergencias. Cada viernes, antes de las 14:00, envía a Laura el reporte de retrasos de la semana.
+
+§3
+Jonas: Kurzes Update zum Vereinsfest des TSV Lindau: Samstag, 6. Juni, ab 14 Uhr auf dem Sportplatz am See.
+Jonas: Wir rechnen mit etwa 250 Gästen. Eintritt frei, Kinder unter 6 bekommen ein Freigetränk.
+Mira: Ich organisiere den Kuchenstand. Bitte Kuchen bis Freitag, 18 Uhr, im Vereinsheim abgeben – keine Sahnetorten wegen der Hitze.
+Felix: Die Hüpfburg kostet 180 Euro für den Tag, der Verein zahlt 100 Euro, den Rest übernimmt der Elternbeirat.
+Jonas: Für den Grill brauchen wir noch zwei Helfer zwischen 17 und 20 Uhr.
+Mira: Wichtig: Glasflaschen sind auf dem Platz verboten, das hat die Stadt zur Auflage gemacht.
+Felix: Und sagt dem Trainer Bernd nichts von der Ehrung, das ist eine Überraschung um 19 Uhr.
+Jonas: Aufbau ist schon um 10 Uhr, Abbau bis spätestens 23 Uhr.
+
+§4
+北海道の旭山町は11月5日、町内の公立小中学校5校を2028年4月までに2校へ統合する計画を発表した。児童生徒数は20年前の1,240人から現在は430人に減っている。統合後の新校舎の建設費は約38億円で、そのうち半分を国の交付金でまかなう。山本和夫町長は「子どもたちが多様な仲間と学べる環境をつくりたい」と述べた。通学距離が4キロを超える児童には無料のスクールバスを運行する。保護者説明会は12月7日午前10時から町民会館で開かれ、意見募集は12月20日まで受け付ける。一部の住民は、地域から学校がなくなることに反対している。
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: When is the inbox checked?
+§1.q2: A member asks you to book a meeting room for 5 hours tomorrow. May you book it yourself?
+§1.q3: A member asks, 30 hours before arrival, to register 4 guests. Is Keisha's approval needed?
+§1.q4: A member asks, 10 hours before arrival, to add 3 guests. May you add them yourself?
+§1.q5: A member asks, 10 hours before arrival, to add 2 guests. May you add them yourself?
+§1.q6: A Day Pass member asks to book the podcast studio. May you book it?
+§1.q7: A member cancels a room booking 90 minutes before the start; there is no outage. Are they charged?
+§1.q8: A member cancels 1 hour before the start because the building's internet is down. Are they charged?
+§1.q9: A projector borrowed this morning is still out at 7 p.m. What do you do?
+§1.q10: A visitor asks for a member's desk location. What do you do?
+§1.q11: Someone reports a water leak. What do you tell them, and what do you do yourself, in what order?
+§1.q12: Is sending Keisha the unpaid-invoices list at exactly 12:00 on Monday on time?
+§1.q13: An invoice has been unpaid for 15 days. Does it go on Monday's list?
+§2.q1: When is the transport inbox checked?
+§2.q2: A registered parent writes 8 hours ahead asking to change tomorrow's stop for one day. May you change it?
+§2.q3: A registered parent asks in writing 2 days ahead to change the stop permanently. May you approve it?
+§2.q4: No authorized adult is at the stop for a primary student. What happens?
+§2.q5: A secondary student whose guardian signed the annual permission wants to get off alone. Allowed?
+§2.q6: A parent reports their child didn't arrive home. What do you tell the parent, and whom do you notify, how fast?
+§2.q7: Who must send the payment receipt, and by when are fees paid?
+§2.q8: A grandparent who is not a registered guardian asks for the bus's live location. May you share it?
+§2.q9: During an emergency, may the principal be copied on a parent email?
+§2.q10: Is Laura Méndez the principal?
+§2.q11: Is sending Laura the delay report at 14:00 sharp on Friday on time?
+§3.q1: When and where is the club fest?
+§3.q2: A parent brings a cake to the clubhouse on Saturday morning. Is that within the arrangement?
+§3.q3: May someone bring a whipped-cream cake?
+§3.q4: How much does the parents' council pay for the bouncy castle?
+§3.q5: Are glass bottles allowed on the field?
+§3.q6: What must nobody tell coach Bernd about, and when is it?
+§3.q7: By when must teardown be finished?
+§3.q8: Does a 5-year-old get a free drink?
+§4.q1: How many schools are merged into how many, and by when?
+§4.q2: By how many pupils has enrolment fallen?
+§4.q3: How much of the building cost does the national grant cover?
+§4.q4: A pupil lives 3.5 km from school. Do they get the free school bus?
+§4.q5: Can a resident still submit a comment on December 20?
+§4.q6: What exactly did the mayor say?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

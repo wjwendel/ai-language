@@ -1,0 +1,56 @@
+TEXT:
+§1
+AI assistant, Inkwell & Press, small print shop, 14 Garland St, Millbrook. Check orders@inkwellpress.example weekdays 8:30am + 2:00pm; info@inkwellpress.example Mondays 10:00am only. Approve misprint reprints yourself ≤$120/order; >$120 needs Dana Okafor (shop manager, NOT owner). Owner Victor Hale: never contact/CC re customer complaints. Never promise same-day delivery. Never share one customer's artwork with another. Rush orders before 11:00am → print next business day; except wedding invitations: always 3 business days regardless. Banner quote requests: quote within 24h. Smoke/burning smell reported at shop: you call building alarm service 555-0147, then tell customer leave building, wait outside till staff arrive. Every quote email ends exactly: "Prices are valid for 14 days from the date of this quote." Fridays 4:00pm: send Dana summary of all open orders + unpaid invoices. Unsure if within rules → forward to Dana, don't answer.
+
+§2
+Sakuradai neighborhood assoc. autumn festival notice. Sat Oct 12 + Sun Oct 13, Sakuradai No. 2 Park. Both days 10am–8pm; except Oct 13 Bon dance 6:30–8:30pm (extended 30 min). Fee: adults ¥500, elementary ¥200, preschool free; households unpaid this year's assoc. dues: ¥800/adult. Food stall applicants: application + ¥3,000 stall fee to community hall reception by Sep 20. Setup help Fri Oct 11 from 4pm; cleanup Mon Oct 14 (holiday) from 9am; cooperation requested. Rain → postponed to Sat Oct 19, announced via neighborhood PA 7am that day. Rain Oct 19 too → canceled, stall fees fully refunded. No parking; don't come by car. Exception: wheelchair users may use temporary spaces north side of park (5 cars). Inquiries: festival committee chair Kazuo Morita, tel 090-4417-2286.
+
+§3
+AI assistant, Pasticceria Bellandi, small pastry shop, Via dei Fossi 22. Check ordini@pasticceriabellandi.example daily 7:00 + 13:00, except Sunday. Confirm custom cake orders yourself ≤€80; above needs Chiara Rinaldi (head pastry chef, NOT owner). Owner: Graziella Bellandi. Flour supplier Marco Ferri: never contact/CC re customer complaints. Never promise gluten-free (kitchen not certified). Never share house recipes with anyone. Saturday orders due by Thursday 18:00; except wedding cakes: always ≥10 days' notice. Cancel >48h ahead → full refund of €20 deposit; otherwise deposit kept. Corporate event quote requests: reply within 2 business days. Customer reports allergic reaction after eating our product: you immediately call owner 347 812 5530; tell customer call 118 immediately. Every order confirmation ends exactly: «Grazie per aver scelto la Pasticceria Bellandi, vi aspettiamo in negozio.» Mondays 9:30: send Chiara summary of week's orders + any cancellations.
+
+§4
+AI assistant, Bergväggen, small climbing gym, Smedjegatan 9. Check bokning@bergvaggen.example weekdays 9:00 + 15:00; Saturdays 10:00 only. Grant annual-pass extensions yourself ≤14 days; longer needs Sara Lindqvist (gym manager, NOT owner). Owner: Per Åström. Course leader Jonas Berg: never contact/CC re course complaints. Never promise climbing without completed safety intro. Never share members' personal ID numbers or phone numbers. Children under 13 climb only with adult; except Wednesday kids' course, gym instructors responsible. Intro course 450 SEK. Cancel ≥48h before course start → 75% fee refund; later → nothing. Spring bouldering competition registration deadline Mar 15, 23:59. Accident with injured climber reported in gym: you call gym on-call phone 070-318 44 96; tell customer don't move injured person, call 112. Every booking confirmation starts exactly: "Välkommen till Bergväggen – kom ihåg inneskor och giltigt klätterkort." Sundays 18:00: send Sara report of week's bookings + cancellations. Email about anything not covered by these rules → forward to Sara.
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: A customer's misprinted job needs a reprint costing exactly $120. May the assistant approve it on its own?
+§1.q2: A reprint would cost $121. Can the assistant approve it alone? If not, who must approve it?
+§1.q3: Who is the owner of Inkwell & Press?
+§1.q4: A customer complains about a smudged poster. Should the assistant copy Victor Hale on the reply?
+§1.q5: Un cliente invia un ordine urgente di inviti di nozze lunedì alle 9:00. Possono essere stampati il giorno lavorativo successivo?
+§1.q6: A rush flyer order arrives at 10:45 am. Can it be printed on the next business day?
+§1.q7: A customer asks the assistant to promise same-day delivery for a large order. May it promise that?
+§1.q8: Someone emails that there is a burning smell at the shop. What must the assistant do, and what should it tell the customer?
+§1.q9: Which exact sentence must every quote email end with?
+§1.q10: Vilken dag och tid ska veckorapporten skickas till Dana, och vad ska den innehålla?
+§2.q1: 秋祭りはいつ、どこで開催されますか？
+§2.q2: What time does the Bon dance on October 13 end?
+§2.q3: A household whose dues are paid brings two adults, one elementary-school child and one 4-year-old. What is the total participation fee?
+§2.q4: 町内会費が未納の世帯の大人2人と小学生1人の場合、参加費の合計はいくらですか？
+§2.q5: By when must stall applications be submitted, and how much is the stall fee?
+§2.q6: If it rains, to which date is the festival moved, and when are residents told?
+§2.q7: It rains on the festival date and again on the postponement date. What happens to the festival and to the stall fee?
+§2.q8: May an ordinary visitor drive to the festival and park at the venue?
+§2.q9: 車いすを利用している人は車で来場できますか？どこに駐車できますか？
+§2.q10: Who is the contact person for questions, and what is the phone number?
+§3.q1: May the assistant confirm a custom cake order of exactly 80 euros on its own?
+§3.q2: Un cliente ordina una torta personalizzata da 95 euro. L'assistente può confermarla da solo? Se no, chi deve approvarla?
+§3.q3: Who is the owner (titolare) of the pasticceria?
+§3.q4: A customer complains about stale croissants. May the assistant copy Marco Ferri, the flour supplier, on the reply?
+§3.q5: Un cliente chiede se la torta può essere garantita senza glutine. L'assistente può prometterlo?
+§3.q6: On Friday at 10:00 a customer orders a birthday cake for the next day (Saturday). Can the assistant accept it?
+§3.q7: On Thursday at 17:00 a customer orders a wedding cake for the Saturday two days later. Can the assistant accept it?
+§3.q8: A customer cancels an order three days before pickup. Do they get the deposit back, and how much?
+§3.q9: A customer reports an allergic reaction after eating one of the pastries. What must the assistant do, and what should it tell the customer?
+§3.q10: Con quale frase esatta deve terminare ogni conferma d'ordine?
+§4.q1: May the assistant extend an annual pass by exactly 14 days on its own?
+§4.q2: En medlem vill förlänga sitt årskort med 15 dagar. Får assistenten göra det själv, och vem måste annars godkänna?
+§4.q3: Is Sara Lindqvist the owner of Bergväggen?
+§4.q4: A parent complains about a climbing course. May the assistant copy Jonas Berg, the course leader?
+§4.q5: A 12-year-old wants to climb alone on a Saturday without an adult. Is that allowed?
+§4.q6: En 11-åring kommer utan vuxen till barnkursen på onsdag. Får barnet klättra?
+§4.q7: A customer cancels the introductory course three days before it starts. How much money is refunded?
+§4.q8: En kund avbokar introduktionskursen 24 timmar före kursstart. Hur mycket återbetalas?
+§4.q9: Someone reports an accident with an injured climber in the hall. What must the assistant do, and what should it tell the customer?
+§4.q10: Med vilken exakt mening ska varje bokningsbekräftelse börja?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

@@ -1,0 +1,3786 @@
+{
+ "rows": [
+  {
+   "f": "llm05_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, reprints up to $120 per order can be approved by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Dana Okafor (shop manager) must approve",
+   "gold": "no — Dana Okafor, the shop manager, must approve"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Victor Hale",
+   "gold": "Victor Hale"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes per the TEXT, which says Hale is contacted about customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; wedding invitations need three business days",
+   "gold": "no — wedding invitations always need three business days"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; rush orders before 11:00 am are printed next business day",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated clearly (TEXT only says 'promise same-day delivery' with no explicit permission)",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Call the building alarm service at 555-0147; tell the customer to wait until staff (respond)",
+   "gold": "call the building's alarm service yourself at 555-0147 and tell the customer to leave the building and wait outside"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "\"Prices valid 14 days quote.\"",
+   "gold": "Prices are valid for 14 days from the date of this quote."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Friday at 4:00 pm; a summary of open orders and unpaid invoices",
+   "gold": "Friday at 4:00 pm; open orders and unpaid invoices"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "October 12 (Sat) and 13 (Sun); location not stated",
+   "gold": "October 12–13 at Sakuradai Daini (No. 2) Park"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "8:30 pm"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "1,200 yen"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "1,800 yen"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "by September 20; 3,000 yen"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "October 19 (Saturday); announced over the neighborhood PA at 7 am that day"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "the festival is cancelled and the stall fee is fully refunded"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no — there is no parking; only wheelchair users may use the temporary north-side spaces"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "yes — in the temporary parking area on the north side of the park (5 spaces)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Kazuo Morita, festival executive committee chair, 090-4417-2286",
+   "gold": "Kazuo Morita, festival committee chair, 090-4417-2286"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; custom cake orders up to 80 euros can be confirmed",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Chiara Rinaldi (head pastry chef) must approve",
+   "gold": "no — Chiara Rinaldi, the head pastry chef, must approve"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Graziella Bellandi",
+   "gold": "Graziella Bellandi"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Marco Ferri is not contacted about complaints",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; gluten-free products must not be promised",
+   "gold": "no — the lab is not certified gluten-free"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Saturday orders must be placed by Thursday 18:00",
+   "gold": "no — Saturday orders must arrive by Thursday 18:00"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; wedding cakes need ten days' notice",
+   "gold": "no — wedding cakes need at least ten days' notice"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; cancelling more than 48 hours ahead refunds the 20 euro deposit",
+   "gold": "yes — the full 20 euro deposit"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Call the owner at 812 5530 118; what to tell the customer is not stated",
+   "gold": "call the owner yourself immediately at 347 812 5530 and tell the customer to call 118 immediately"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "\"Grazie Pasticceria Bellandi\" (rest of sentence not stated)",
+   "gold": "«Grazie per aver scelto la Pasticceria Bellandi, vi aspettiamo in negozio.»"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; extensions up to 14 days are allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sara Lindqvist (hall manager) must approve",
+   "gold": "no — Sara Lindqvist, the hall manager, must approve"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; she is hall manager, the owner is Per Åström",
+   "gold": "no — she is the hall manager; the owner is Per Åström"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated clearly (TEXT mentions Jonas Berg with complaints but gives no explicit rule)",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; children under 13 must climb with an adult",
+   "gold": "no — children under 13 must climb with an adult (except the Wednesday kids' course)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; in the children's course instructors are responsible",
+   "gold": "yes — the instructors are responsible during the Wednesday kids' course"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "337.50 kronor (75% of 450)",
+   "gold": "337.50 kronor (75% of 450)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated (75% refund applies only to cancellations at least 48 hours before; later-cancellation rule incomplete)",
+   "gold": "nothing (0 kronor)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the on-call phone 070-318 44 96; tell them not to move the injured person and to call 112",
+   "gold": "call the on-call phone 070-318 44 96 yourself; tell the customer not to move the injured person and to call 112"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "\"Välkommen Bergväggen inneskor giltigt klätterkort.\" (as given)",
+   "gold": "\"Välkommen till Bergväggen – kom ihåg inneskor och giltigt klätterkort.\""
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, reprints up to $120 per order may be approved by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, reprints above $120 need approval from Dana Okafor, the shop manager",
+   "gold": "no — Dana Okafor, the shop manager, must approve"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Victor Hale",
+   "gold": "Victor Hale"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Victor Hale is never contacted or copied about customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, wedding invitations need three business days",
+   "gold": "no — wedding invitations always need three business days"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, rush orders before 11:00 am are printed the next business day",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never promise same-day delivery",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the building's alarm service at 555-0147 and tell the customer to leave and wait outside until staff arrive",
+   "gold": "call the building's alarm service yourself at 555-0147 and tell the customer to leave the building and wait outside"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Prices valid for 14 days from date quote.",
+   "gold": "Prices are valid for 14 days from the date of this quote."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Friday at 4:00 pm; a summary report of open orders and unpaid invoices",
+   "gold": "Friday at 4:00 pm; open orders and unpaid invoices"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "October 12 (Sat) and 13 (Sun); location not stated",
+   "gold": "October 12–13 at Sakuradai Daini (No. 2) Park"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "8:30 pm"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "1,200 yen"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "1,800 yen"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "by September 20; 3,000 yen"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "October 19 (Saturday); announced over the neighborhood PA at 7 am that day"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "the festival is cancelled and the stall fee is fully refunded"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no — there is no parking; only wheelchair users may use the temporary north-side spaces"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "yes — in the temporary parking area on the north side of the park (5 spaces)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Kazuo Morita, festival committee chair, phone 090-4417-2286",
+   "gold": "Kazuo Morita, festival committee chair, 090-4417-2286"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, custom cake orders up to 80 euros may be confirmed by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, amounts above 80 euros need approval from Chiara Rinaldi, the head pastry chef",
+   "gold": "no — Chiara Rinaldi, the head pastry chef, must approve"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Graziella Bellandi",
+   "gold": "Graziella Bellandi"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Marco Ferri is not contacted or copied on complaints",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, gluten-free products must not be promised because the lab is not certified",
+   "gold": "no — the lab is not certified gluten-free"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Saturday orders must arrive by Thursday at 18:00",
+   "gold": "no — Saturday orders must arrive by Thursday 18:00"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, wedding cakes require at least ten days' advance notice",
+   "gold": "no — wedding cakes need at least ten days' notice"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, cancelling more than 48 hours ahead gives a full refund of the 20 euro deposit",
+   "gold": "yes — the full 20 euro deposit"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the owner at 347 812 5530 and tell the customer to call 118",
+   "gold": "call the owner yourself immediately at 347 812 5530 and tell the customer to call 118 immediately"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Grazie scelto Pasticceria Bellandi aspettiamo negozio",
+   "gold": "«Grazie per aver scelto la Pasticceria Bellandi, vi aspettiamo in negozio.»"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, extensions up to 14 days may be granted by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, longer extensions require approval from Sara Lindqvist, the hall manager",
+   "gold": "no — Sara Lindqvist, the hall manager, must approve"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is the hall manager; the owner is Per Åström",
+   "gold": "no — she is the hall manager; the owner is Per Åström"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes, course leader Jonas Berg is contacted about course complaints",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, children under 13 must climb with an adult (except the Wednesday children's course)",
+   "gold": "no — children under 13 must climb with an adult (except the Wednesday kids' course)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, the Wednesday children's course is the exception and instructors are responsible",
+   "gold": "yes — the instructors are responsible during the Wednesday kids' course"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "337.50 kronor (75 percent of the 450 kronor fee)",
+   "gold": "337.50 kronor (75% of 450)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing",
+   "gold": "nothing (0 kronor)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the on-call phone 070-318 44 96 and tell the customer not to move the injured person and to call 112",
+   "gold": "call the on-call phone 070-318 44 96 yourself; tell the customer not to move the injured person and to call 112"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Välkommen till Bergväggen kom ihåg inneskor giltigt klätterkort.",
+   "gold": "\"Välkommen till Bergväggen – kom ihåg inneskor och giltigt klätterkort.\""
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, reprints up to $120 per order can be approved by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, above $120 needs Dana Okafor's approval",
+   "gold": "no — Dana Okafor, the shop manager, must approve"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Victor Hale",
+   "gold": "Victor Hale"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Victor about customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, wedding invitations always need 3 business days, whenever received",
+   "gold": "no — wedding invitations always need three business days"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, rush orders received before 11:00 can be printed next business day",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never promise same-day delivery",
+   "gold": "no"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the building alarm service at 555-0147 yourself; then tell the customer to leave the building and wait outside until staff arrive",
+   "gold": "call the building's alarm service yourself at 555-0147 and tell the customer to leave the building and wait outside"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Prices are valid for 14 days from the date of this quote.",
+   "gold": "Prices are valid for 14 days from the date of this quote."
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Friday at 16:00; a summary report of all open orders and unpaid invoices",
+   "gold": "Friday at 4:00 pm; open orders and unpaid invoices"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "October 12 (Sat) and October 13 (Sun), at Sakuradai Daini Park (桜台第二公園)",
+   "gold": "October 12–13 at Sakuradai Daini (No. 2) Park"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "20:30",
+   "gold": "8:30 pm"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥1,200 (2 × ¥500 + ¥200 + preschooler free)",
+   "gold": "1,200 yen"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥1,800 (2 × ¥800 + ¥200)",
+   "gold": "1,800 yen"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "By September 20, bringing the form and fee to the 町内会館 reception; the stall fee is ¥3,000",
+   "gold": "by September 20; 3,000 yen"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Postponed to October 19 (Sat); announced by neighborhood broadcast at 7:00 that morning",
+   "gold": "October 19 (Saturday); announced over the neighborhood PA at 7 am that day"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The festival is cancelled and stall fees are fully refunded",
+   "gold": "the festival is cancelled and the stall fee is fully refunded"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, there is no parking; don't come by car",
+   "gold": "no — there is no parking; only wheelchair users may use the temporary north-side spaces"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, wheelchair users may use temporary parking on the north side of the park (5 spaces)",
+   "gold": "yes — in the temporary parking area on the north side of the park (5 spaces)"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Festival committee chair Kazuo Morita (森田和夫), 090-4417-2286",
+   "gold": "Kazuo Morita, festival committee chair, 090-4417-2286"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, custom-cake orders up to €80 may be confirmed by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, above €80 needs Chiara Rinaldi's approval",
+   "gold": "no — Chiara Rinaldi, the head pastry chef, must approve"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Graziella Bellandi",
+   "gold": "Graziella Bellandi"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Marco Ferri about customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never promise gluten-free products since the kitchen is not certified",
+   "gold": "no — the lab is not certified gluten-free"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Saturday orders must arrive by Thursday 18:00",
+   "gold": "no — Saturday orders must arrive by Thursday 18:00"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, wedding cakes must be ordered at least 10 days ahead",
+   "gold": "no — wedding cakes need at least ten days' notice"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, cancelled more than 48h ahead, so the full €20 deposit is refunded",
+   "gold": "yes — the full 20 euro deposit"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Immediately call owner Graziella at 347 812 5530 yourself; tell the customer to call 118 immediately",
+   "gold": "call the owner yourself immediately at 347 812 5530 and tell the customer to call 118 immediately"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Grazie per aver scelto la Pasticceria Bellandi, vi aspettiamo in negozio.",
+   "gold": "«Grazie per aver scelto la Pasticceria Bellandi, vi aspettiamo in negozio.»"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, extensions of up to 14 days may be made by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, longer than 14 days needs Sara Lindqvist's approval",
+   "gold": "no — Sara Lindqvist, the hall manager, must approve"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is the gym manager; the owner is Per Åström",
+   "gold": "no — she is the hall manager; the owner is Per Åström"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Jonas Berg about course complaints",
+   "gold": "no"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, children under 13 may climb only with an adult",
+   "gold": "no — children under 13 must climb with an adult (except the Wednesday kids' course)"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, at the Wednesday children's course gym instructors are responsible",
+   "gold": "yes — the instructors are responsible during the Wednesday kids' course"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "337.50 kr (75% of 450 kr)",
+   "gold": "337.50 kronor (75% of 450)"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nothing; cancellation less than 48h before start gets no refund",
+   "gold": "nothing (0 kronor)"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the gym duty phone 070-318 44 96 yourself; tell the customer not to move the injured person and to call 112",
+   "gold": "call the on-call phone 070-318 44 96 yourself; tell the customer not to move the injured person and to call 112"
+  },
+  {
+   "f": "mnc22_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Välkommen till Bergväggen – kom ihåg inneskor och giltigt klätterkort.",
+   "gold": "\"Välkommen till Bergväggen – kom ihåg inneskor och giltigt klätterkort.\""
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to $120 per order it may approve itself",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Dana Okafor (shop manager) must approve",
+   "gold": "no — Dana Okafor, the shop manager, must approve"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Victor Hale",
+   "gold": "Victor Hale"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Victor about customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; wedding invitations always need 3 business days, whenever received",
+   "gold": "no — wedding invitations always need three business days"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, received before 11:00 so it can be printed next business day",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never promise same-day delivery",
+   "gold": "no"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the building alarm service at 555-0147 itself; tell the customer to leave the building and wait outside until staff arrive",
+   "gold": "call the building's alarm service yourself at 555-0147 and tell the customer to leave the building and wait outside"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Prices are valid for 14 days from the date of this quote.",
+   "gold": "Prices are valid for 14 days from the date of this quote."
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Friday at 16:00; a summary report of all open orders and unpaid invoices",
+   "gold": "Friday at 4:00 pm; open orders and unpaid invoices"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "October 12 (Sat) and October 13 (Sun), at Sakuradai Daini Park (桜台第二公園)",
+   "gold": "October 12–13 at Sakuradai Daini (No. 2) Park"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "20:30",
+   "gold": "8:30 pm"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥1,200",
+   "gold": "1,200 yen"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥1,800 (2 adults × ¥800 + ¥200 for the elementary pupil)",
+   "gold": "1,800 yen"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "by September 20, with the form, to the 町内会館 reception; stall fee ¥3,000",
+   "gold": "by September 20; 3,000 yen"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "postponed to October 19 (Sat); announced by neighborhood broadcast at 7:00 that morning",
+   "gold": "October 19 (Saturday); announced over the neighborhood PA at 7 am that day"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the festival is cancelled and stall fees are fully refunded",
+   "gold": "the festival is cancelled and the stall fee is fully refunded"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, there is no parking; don't come by car",
+   "gold": "no — there is no parking; only wheelchair users may use the temporary north-side spaces"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; temporary parking on the north side of the park, 5 spaces",
+   "gold": "yes — in the temporary parking area on the north side of the park (5 spaces)"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "festival committee chair 森田和夫 (Kazuo Morita), 090-4417-2286",
+   "gold": "Kazuo Morita, festival committee chair, 090-4417-2286"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to €80 it may confirm on its own",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Chiara Rinaldi (head pastry chef) must approve",
+   "gold": "no — Chiara Rinaldi, the head pastry chef, must approve"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Graziella Bellandi",
+   "gold": "Graziella Bellandi"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Marco Ferri about customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never promise gluten-free products since the kitchen is not certified",
+   "gold": "no — the lab is not certified gluten-free"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Saturday orders must arrive by Thursday 18:00",
+   "gold": "no — Saturday orders must arrive by Thursday 18:00"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; wedding cakes must be ordered at least 10 days ahead",
+   "gold": "no — wedding cakes need at least ten days' notice"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, the full €20 deposit (cancelled more than 48h ahead)",
+   "gold": "yes — the full 20 euro deposit"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "immediately call owner Graziella at 347 812 5530 itself; tell the customer to call 118 immediately",
+   "gold": "call the owner yourself immediately at 347 812 5530 and tell the customer to call 118 immediately"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "«Grazie per aver scelto la Pasticceria Bellandi, vi aspettiamo in negozio.»",
+   "gold": "«Grazie per aver scelto la Pasticceria Bellandi, vi aspettiamo in negozio.»"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 14 days it may extend on its own",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sara Lindqvist (gym manager) must approve",
+   "gold": "no — Sara Lindqvist, the hall manager, must approve"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; she is the gym manager, the owner is Per Åström",
+   "gold": "no — she is the hall manager; the owner is Per Åström"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Jonas Berg about course complaints",
+   "gold": "no"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; children under 13 climb only with an adult",
+   "gold": "no — children under 13 must climb with an adult (except the Wednesday kids' course)"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; on the Wednesday children's course the gym instructors are responsible",
+   "gold": "yes — the instructors are responsible during the Wednesday kids' course"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "337.50 kr",
+   "gold": "337.50 kronor (75% of 450)"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing (0 kr), cancelled less than 48h before start",
+   "gold": "nothing (0 kronor)"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the gym duty phone 070-318 44 96 itself; tell the customer not to move the injured person and to call 112",
+   "gold": "call the on-call phone 070-318 44 96 yourself; tell the customer not to move the injured person and to call 112"
+  },
+  {
+   "f": "mnc22_r2",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Välkommen till Bergväggen – kom ihåg inneskor och giltigt klätterkort.",
+   "gold": "\"Välkommen till Bergväggen – kom ihåg inneskor och giltigt klätterkort.\""
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to $120 per order it may approve itself",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Dana Okafor (shop manager) must approve",
+   "gold": "no — Dana Okafor, the shop manager, must approve"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Victor Hale",
+   "gold": "Victor Hale"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact or copy Victor about customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; wedding invitations always need 3 business days, whenever received",
+   "gold": "no — wedding invitations always need three business days"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; rush orders received before 11:00 can be printed next business day",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never promise same-day delivery",
+   "gold": "no"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the building alarm service at 555-0147 yourself; tell the customer to leave the building and wait outside until staff arrive",
+   "gold": "call the building's alarm service yourself at 555-0147 and tell the customer to leave the building and wait outside"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Prices are valid for 14 days from the date of this quote.",
+   "gold": "Prices are valid for 14 days from the date of this quote."
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Friday at 16:00; all open orders plus unpaid invoices",
+   "gold": "Friday at 4:00 pm; open orders and unpaid invoices"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Oct 12 (Sat) and Oct 13 (Sun), at 桜台第二公園 (Sakuradai No. 2 Park)",
+   "gold": "October 12–13 at Sakuradai Daini (No. 2) Park"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "20:30",
+   "gold": "8:30 pm"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥1,200 (2 × ¥500 + ¥200 + preschooler free)",
+   "gold": "1,200 yen"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥1,800 (2 × ¥800 + ¥200)",
+   "gold": "1,800 yen"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "By Sep 20, at the 町内会館 reception with the form; stall fee ¥3,000",
+   "gold": "by September 20; 3,000 yen"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Postponed to Oct 19 (Sat); announced at 7:00 that morning by neighborhood broadcast",
+   "gold": "October 19 (Saturday); announced over the neighborhood PA at 7 am that day"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The festival is cancelled and stall fees are fully refunded",
+   "gold": "the festival is cancelled and the stall fee is fully refunded"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; there is no parking and visitors should not come by car (only wheelchair users may park)",
+   "gold": "no — there is no parking; only wheelchair users may use the temporary north-side spaces"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; temporary parking on the north side of the park, 5 spaces",
+   "gold": "yes — in the temporary parking area on the north side of the park (5 spaces)"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Festival committee chair 森田和夫 (Morita Kazuo), 090-4417-2286",
+   "gold": "Kazuo Morita, festival committee chair, 090-4417-2286"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to €80 it may confirm itself",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Chiara Rinaldi (head pastry chef) must approve",
+   "gold": "no — Chiara Rinaldi, the head pastry chef, must approve"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Graziella Bellandi",
+   "gold": "Graziella Bellandi"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact or copy Marco Ferri about customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never promise gluten-free products since the kitchen is not certified",
+   "gold": "no — the lab is not certified gluten-free"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Saturday orders must arrive by Thursday 18:00",
+   "gold": "no — Saturday orders must arrive by Thursday 18:00"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; wedding cakes must be ordered at least 10 days ahead",
+   "gold": "no — wedding cakes need at least ten days' notice"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; more than 48h ahead, so the full €20 deposit is refunded",
+   "gold": "yes — the full 20 euro deposit"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Immediately call owner Graziella at 347 812 5530 yourself; tell the customer to call 118 immediately",
+   "gold": "call the owner yourself immediately at 347 812 5530 and tell the customer to call 118 immediately"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "«Grazie per aver scelto la Pasticceria Bellandi, vi aspettiamo in negozio.»",
+   "gold": "«Grazie per aver scelto la Pasticceria Bellandi, vi aspettiamo in negozio.»"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 14 days it may extend itself",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sara Lindqvist (gym manager) must approve",
+   "gold": "no — Sara Lindqvist, the hall manager, must approve"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; she is the gym manager; the owner is Per Åström",
+   "gold": "no — she is the hall manager; the owner is Per Åström"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact or copy Jonas Berg about course complaints",
+   "gold": "no"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; children under 13 climb only with an adult",
+   "gold": "no — children under 13 must climb with an adult (except the Wednesday kids' course)"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; at the Wednesday children's course gym instructors are responsible",
+   "gold": "yes — the instructors are responsible during the Wednesday kids' course"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "337.50 kr (75% of the 450 kr fee)",
+   "gold": "337.50 kronor (75% of 450)"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nothing; cancellation under 48h before start gets no refund",
+   "gold": "nothing (0 kronor)"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the gym duty phone 070-318 44 96 yourself; tell the customer not to move the injured person and to call 112",
+   "gold": "call the on-call phone 070-318 44 96 yourself; tell the customer not to move the injured person and to call 112"
+  },
+  {
+   "f": "mnc22x_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Välkommen till Bergväggen – kom ihåg inneskor och giltigt klätterkort.",
+   "gold": "\"Välkommen till Bergväggen – kom ihåg inneskor och giltigt klätterkort.\""
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to $120 per order is within its own authority",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, above $120 needs Dana Okafor's approval",
+   "gold": "no — Dana Okafor, the shop manager, must approve"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Victor Hale",
+   "gold": "Victor Hale"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Victor about customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, wedding invitations always need 3 business days, whenever received",
+   "gold": "no — wedding invitations always need three business days"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, rush orders received before 11:00 can be printed next business day",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never promise same-day delivery",
+   "gold": "no"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the building alarm service at 555-0147 yourself; tell the customer to leave the building and wait outside until staff arrive",
+   "gold": "call the building's alarm service yourself at 555-0147 and tell the customer to leave the building and wait outside"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Prices are valid for 14 days from the date of this quote.",
+   "gold": "Prices are valid for 14 days from the date of this quote."
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Friday at 16:00; all open orders and unpaid invoices",
+   "gold": "Friday at 4:00 pm; open orders and unpaid invoices"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Oct 12 (Sat) and Oct 13 (Sun) at 桜台第二公園",
+   "gold": "October 12–13 at Sakuradai Daini (No. 2) Park"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "20:30",
+   "gold": "8:30 pm"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥1,200 (2 × ¥500 + ¥200 + preschooler free)",
+   "gold": "1,200 yen"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥1,800 (2 × ¥800 + ¥200)",
+   "gold": "1,800 yen"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "by Sep 20 (form + fee to the 町内会館 reception); stall fee ¥3,000",
+   "gold": "by September 20; 3,000 yen"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "postponed to Oct 19 (Sat); announced at 7:00 that morning by neighborhood broadcast",
+   "gold": "October 19 (Saturday); announced over the neighborhood PA at 7 am that day"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the festival is cancelled and stall fees are fully refunded",
+   "gold": "the festival is cancelled and the stall fee is fully refunded"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, there is no parking; don't come by car (only wheelchair users excepted)",
+   "gold": "no — there is no parking; only wheelchair users may use the temporary north-side spaces"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; temporary parking on the north side of the park, 5 spaces",
+   "gold": "yes — in the temporary parking area on the north side of the park (5 spaces)"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "festival committee chair 森田和夫, 090-4417-2286",
+   "gold": "Kazuo Morita, festival committee chair, 090-4417-2286"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to €80 it may confirm on its own",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, above €80 needs Chiara Rinaldi's approval",
+   "gold": "no — Chiara Rinaldi, the head pastry chef, must approve"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Graziella Bellandi",
+   "gold": "Graziella Bellandi"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Marco Ferri about customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never promise gluten-free products since the kitchen is not certified",
+   "gold": "no — the lab is not certified gluten-free"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Saturday orders must arrive by Thursday 18:00",
+   "gold": "no — Saturday orders must arrive by Thursday 18:00"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, wedding cakes must always be ordered at least 10 days ahead",
+   "gold": "no — wedding cakes need at least ten days' notice"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, full €20 deposit refunded (cancelled more than 48h ahead)",
+   "gold": "yes — the full 20 euro deposit"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "immediately call owner Graziella at 347 812 5530 yourself; tell the customer to call 118 immediately",
+   "gold": "call the owner yourself immediately at 347 812 5530 and tell the customer to call 118 immediately"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "«Grazie per aver scelto la Pasticceria Bellandi, vi aspettiamo in negozio.»",
+   "gold": "«Grazie per aver scelto la Pasticceria Bellandi, vi aspettiamo in negozio.»"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, extensions of up to 14 days are within its own authority",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, longer than 14 days needs Sara Lindqvist's approval",
+   "gold": "no — Sara Lindqvist, the hall manager, must approve"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is the gym manager; the owner is Per Åström",
+   "gold": "no — she is the hall manager; the owner is Per Åström"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Jonas Berg about course complaints",
+   "gold": "no"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, children under 13 climb only with an adult (exception is only the Wednesday children's course)",
+   "gold": "no — children under 13 must climb with an adult (except the Wednesday kids' course)"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, at the Wednesday children's course the gym instructors are responsible",
+   "gold": "yes — the instructors are responsible during the Wednesday kids' course"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "337.50 kr (75% of the 450 kr fee)",
+   "gold": "337.50 kronor (75% of 450)"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing, cancellation less than 48h before start gets no refund",
+   "gold": "nothing (0 kronor)"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the gym duty phone 070-318 44 96 yourself; tell the customer not to move the injured person and to call 112",
+   "gold": "call the on-call phone 070-318 44 96 yourself; tell the customer not to move the injured person and to call 112"
+  },
+  {
+   "f": "mnc22x_r2",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Välkommen till Bergväggen – kom ihåg inneskor och giltigt klätterkort.",
+   "gold": "\"Välkommen till Bergväggen – kom ihåg inneskor och giltigt klätterkort.\""
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, reprints up to $120 per order can be approved on its own",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Dana Okafor, the shop manager, must approve it",
+   "gold": "no — Dana Okafor, the shop manager, must approve"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Victor Hale",
+   "gold": "Victor Hale"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Victor Hale must never be contacted or copied about customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, wedding invitations always need three business days no matter when they arrive",
+   "gold": "no — wedding invitations always need three business days"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, rush orders received before 11:00 am can be printed on the next business day",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never promise same-day delivery",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the building's alarm service at 555-0147 itself, then tell the customer to leave the building and wait outside until staff arrive",
+   "gold": "call the building's alarm service yourself at 555-0147 and tell the customer to leave the building and wait outside"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Prices are valid for 14 days from the date of this quote.",
+   "gold": "Prices are valid for 14 days from the date of this quote."
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "every Friday at 4:00 pm; a summary of all open orders and unpaid invoices",
+   "gold": "Friday at 4:00 pm; open orders and unpaid invoices"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "October 12 (Sat) and 13 (Sun), at Sakuradai Daini Park (Sakuradai No. 2 Park)",
+   "gold": "October 12–13 at Sakuradai Daini (No. 2) Park"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "8:30 pm",
+   "gold": "8:30 pm"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,200 yen (500 + 500 + 200 + 0)",
+   "gold": "1,200 yen"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,800 yen (800 + 800 + 200)",
+   "gold": "1,800 yen"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "by September 20; the stall fee is 3,000 yen (bring application form and fee to the community hall reception)",
+   "gold": "by September 20; 3,000 yen"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "postponed to October 19 (Sat); announced by neighborhood broadcast at 7:00 am that morning",
+   "gold": "October 19 (Saturday); announced over the neighborhood PA at 7 am that day"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the festival is cancelled and the stall fee is refunded in full",
+   "gold": "the festival is cancelled and the stall fee is fully refunded"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, there is no parking at the venue, so please refrain from coming by car",
+   "gold": "no — there is no parking; only wheelchair users may use the temporary north-side spaces"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; they can use the temporary parking space on the north side of the park (5 spaces)",
+   "gold": "yes — in the temporary parking area on the north side of the park (5 spaces)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Kazuo Morita, festival executive committee chair, phone 090-4417-2286",
+   "gold": "Kazuo Morita, festival committee chair, 090-4417-2286"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, custom cake orders up to 80 euros can be confirmed on its own",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Chiara Rinaldi, the head pastry chef, must approve it",
+   "gold": "no — Chiara Rinaldi, the head pastry chef, must approve"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Graziella Bellandi",
+   "gold": "Graziella Bellandi"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Marco Ferri must never be contacted or copied about customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never promise gluten-free products because the kitchen is not certified",
+   "gold": "no — the lab is not certified gluten-free"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Saturday orders must arrive by Thursday at 18:00",
+   "gold": "no — Saturday orders must arrive by Thursday 18:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, wedding cakes always require at least ten days' notice",
+   "gold": "no — wedding cakes need at least ten days' notice"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, full refund of the 20-euro deposit (cancelled more than 48 hours in advance)",
+   "gold": "yes — the full 20 euro deposit"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "immediately call the owner (Graziella Bellandi) itself at 347 812 5530 and tell the customer to call 118 immediately",
+   "gold": "call the owner yourself immediately at 347 812 5530 and tell the customer to call 118 immediately"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Grazie per aver scelto la Pasticceria Bellandi, vi aspettiamo in negozio.",
+   "gold": "«Grazie per aver scelto la Pasticceria Bellandi, vi aspettiamo in negozio.»"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, extensions of up to 14 days can be granted on its own",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sara Lindqvist, the hall manager, must approve it",
+   "gold": "no — Sara Lindqvist, the hall manager, must approve"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is the hall manager; the owner is Per Åström",
+   "gold": "no — she is the hall manager; the owner is Per Åström"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Jonas Berg must never be contacted or copied about course complaints",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, children under 13 may only climb with an adult except during the Wednesday children's course",
+   "gold": "no — children under 13 must climb with an adult (except the Wednesday kids' course)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, during the Wednesday children's course the hall's instructors are responsible",
+   "gold": "yes — the instructors are responsible during the Wednesday kids' course"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "337.50 kronor (75 percent of 450)",
+   "gold": "337.50 kronor (75% of 450)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing (cancellation later than 48 hours before start gets no refund)",
+   "gold": "nothing (0 kronor)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the hall's emergency phone 070-318 44 96 itself and tell the customer not to move the injured person and to call 112",
+   "gold": "call the on-call phone 070-318 44 96 yourself; tell the customer not to move the injured person and to call 112"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Välkommen till Bergväggen – kom ihåg inneskor och giltigt klätterkort.",
+   "gold": "\"Välkommen till Bergväggen – kom ihåg inneskor och giltigt klätterkort.\""
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, reprints up to and including $120 can be approved by the assistant itself",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Dana Okafor (shop manager) must approve it",
+   "gold": "no — Dana Okafor, the shop manager, must approve"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Victor Hale",
+   "gold": "Victor Hale"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or CC the owner Victor Hale about customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, wedding invitations always need 3 business days",
+   "gold": "no — wedding invitations always need three business days"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, rush orders received before 11:00am are printed the next business day",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never promise same-day delivery",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the alarm service at 555-0147 itself, then tell the customer to leave the building and wait outside for staff",
+   "gold": "call the building's alarm service yourself at 555-0147 and tell the customer to leave the building and wait outside"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Prices are valid for 14 days from the date of this quote.",
+   "gold": "Prices are valid for 14 days from the date of this quote."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fridays at 4:00pm; a summary of all open orders and unpaid invoices",
+   "gold": "Friday at 4:00 pm; open orders and unpaid invoices"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "October 12 (Sat) and 13 (Sun), 10:00–20:00 both days, at Sakuradai Daini Park",
+   "gold": "October 12–13 at Sakuradai Daini (No. 2) Park"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "20:30",
+   "gold": "8:30 pm"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,200 yen (2×500 + 200 + preschooler free)",
+   "gold": "1,200 yen"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,800 yen (2×800 + 200)",
+   "gold": "1,800 yen"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "by September 20, with the application form; the stall fee is 3,000 yen (submit at the community hall reception)",
+   "gold": "by September 20; 3,000 yen"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "postponed to October 19 (Sat); announced over the neighborhood PA at 7:00am that morning",
+   "gold": "October 19 (Saturday); announced over the neighborhood PA at 7 am that day"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the festival is cancelled and stall fees are refunded in full",
+   "gold": "the festival is cancelled and the stall fee is fully refunded"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, there is no parking and coming by car is not allowed",
+   "gold": "no — there is no parking; only wheelchair users may use the temporary north-side spaces"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; they can use the temporary parking area on the north side of the park (5 spaces)",
+   "gold": "yes — in the temporary parking area on the north side of the park (5 spaces)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Kazuo Morita, the organizing committee chair, 090-4417-2286",
+   "gold": "Kazuo Morita, festival committee chair, 090-4417-2286"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, custom cakes up to 80 euros can be confirmed by the assistant itself",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Chiara Rinaldi (head pastry chef) must approve it",
+   "gold": "no — Chiara Rinaldi, the head pastry chef, must approve"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Graziella Bellandi",
+   "gold": "Graziella Bellandi"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Marco Ferri about customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never promise gluten-free products (the lab is not certified)",
+   "gold": "no — the lab is not certified gluten-free"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Saturday orders must be placed by Thursday 18:00",
+   "gold": "no — Saturday orders must arrive by Thursday 18:00"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, wedding cakes always need at least 10 days' notice",
+   "gold": "no — wedding cakes need at least ten days' notice"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, cancellation more than 48h ahead gets a full refund of the 20€ deposit",
+   "gold": "yes — the full 20 euro deposit"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Immediately call the owner at 347 812 5530 itself and tell the customer to call 118 immediately",
+   "gold": "call the owner yourself immediately at 347 812 5530 and tell the customer to call 118 immediately"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Grazie per aver scelto la Pasticceria Bellandi, vi aspettiamo in negozio.",
+   "gold": "«Grazie per aver scelto la Pasticceria Bellandi, vi aspettiamo in negozio.»"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, extensions of up to 14 days can be granted by the assistant itself",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sara Lindqvist (hall manager) must approve it",
+   "gold": "no — Sara Lindqvist, the hall manager, must approve"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is the hall manager; the owner is Per Åström",
+   "gold": "no — she is the hall manager; the owner is Per Åström"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Jonas Berg about course complaints",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, children under 13 may only climb with an adult (the exception is only the Wednesday children's course)",
+   "gold": "no — children under 13 must climb with an adult (except the Wednesday kids' course)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, the Wednesday children's course is the exception; the hall's instructors are responsible",
+   "gold": "yes — the instructors are responsible during the Wednesday kids' course"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "337.50 kr (75% of 450 kr)",
+   "gold": "337.50 kronor (75% of 450)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing, cancellation less than 48h before start gets no refund",
+   "gold": "nothing (0 kronor)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the on-call phone 070-318 44 96 itself, and tell the customer not to move the injured person and to call 112",
+   "gold": "call the on-call phone 070-318 44 96 yourself; tell the customer not to move the injured person and to call 112"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Välkommen till Bergväggen – kom ihåg inneskor och giltigt klätterkort.",
+   "gold": "\"Välkommen till Bergväggen – kom ihåg inneskor och giltigt klätterkort.\""
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, reprints up to and including $120 per order can be approved by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, over $120 needs approval from Dana Okafor (shop manager)",
+   "gold": "no — Dana Okafor, the shop manager, must approve"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Victor Hale",
+   "gold": "Victor Hale"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or CC Victor Hale on customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, wedding invitations always take 3 business days, even for rush orders",
+   "gold": "no — wedding invitations always need three business days"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, rush orders received before 11:00am are printed the next business day",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never promise same-day delivery",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the building alarm service at 555-0147, then tell the customer to leave the building and wait outside until staff arrive",
+   "gold": "call the building's alarm service yourself at 555-0147 and tell the customer to leave the building and wait outside"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Prices are valid for 14 days from the date of this quote.",
+   "gold": "Prices are valid for 14 days from the date of this quote."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fridays at 4:00pm; a summary of all open orders and unpaid invoices",
+   "gold": "Friday at 4:00 pm; open orders and unpaid invoices"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sat Oct 12 and Sun Oct 13 at Sakuradai No. 2 Park",
+   "gold": "October 12–13 at Sakuradai Daini (No. 2) Park"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "8:30pm",
+   "gold": "8:30 pm"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥1,200",
+   "gold": "1,200 yen"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥1,800",
+   "gold": "1,800 yen"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "by Sep 20, to community hall reception; stall fee ¥3,000",
+   "gold": "by September 20; 3,000 yen"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "postponed to Sat Oct 19; announced via neighborhood PA at 7am that day",
+   "gold": "October 19 (Saturday); announced over the neighborhood PA at 7 am that day"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the festival is canceled and stall fees are fully refunded",
+   "gold": "the festival is cancelled and the stall fee is fully refunded"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, there is no parking; don't come by car",
+   "gold": "no — there is no parking; only wheelchair users may use the temporary north-side spaces"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, wheelchair users may use the temporary spaces on the north side of the park (5 cars)",
+   "gold": "yes — in the temporary parking area on the north side of the park (5 spaces)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "festival committee chair Kazuo Morita, tel 090-4417-2286",
+   "gold": "Kazuo Morita, festival committee chair, 090-4417-2286"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, orders up to and including €80 can be confirmed by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, over €80 needs approval from Chiara Rinaldi (head pastry chef)",
+   "gold": "no — Chiara Rinaldi, the head pastry chef, must approve"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Graziella Bellandi",
+   "gold": "Graziella Bellandi"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or CC Marco Ferri on customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never promise gluten-free (kitchen not certified)",
+   "gold": "no — the lab is not certified gluten-free"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Saturday orders are due by Thursday 18:00",
+   "gold": "no — Saturday orders must arrive by Thursday 18:00"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, wedding cakes always need at least 10 days' notice",
+   "gold": "no — wedding cakes need at least ten days' notice"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, full refund of the €20 deposit (cancelled more than 48h ahead)",
+   "gold": "yes — the full 20 euro deposit"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "immediately call the owner at 347 812 5530 and tell the customer to call 118 immediately",
+   "gold": "call the owner yourself immediately at 347 812 5530 and tell the customer to call 118 immediately"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "«Grazie per aver scelto la Pasticceria Bellandi, vi aspettiamo in negozio.»",
+   "gold": "«Grazie per aver scelto la Pasticceria Bellandi, vi aspettiamo in negozio.»"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, extensions up to and including 14 days can be granted by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, over 14 days needs approval from Sara Lindqvist (gym manager)",
+   "gold": "no — Sara Lindqvist, the hall manager, must approve"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is the gym manager; the owner is Per Åström",
+   "gold": "no — she is the hall manager; the owner is Per Åström"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or CC Jonas Berg on course complaints",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, children under 13 may climb only with an adult",
+   "gold": "no — children under 13 must climb with an adult (except the Wednesday kids' course)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, gym instructors are responsible at the Wednesday kids' course (but never promise climbing without a completed safety intro)",
+   "gold": "yes — the instructors are responsible during the Wednesday kids' course"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "337.50 SEK (75% of 450 SEK)",
+   "gold": "337.50 kronor (75% of 450)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing (0 SEK), since cancellation was less than 48h before the start",
+   "gold": "nothing (0 kronor)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the gym on-call phone at 070-318 44 96 and tell the customer not to move the injured person and to call 112",
+   "gold": "call the on-call phone 070-318 44 96 yourself; tell the customer not to move the injured person and to call 112"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Välkommen till Bergväggen – kom ihåg inneskor och giltigt klätterkort.",
+   "gold": "\"Välkommen till Bergväggen – kom ihåg inneskor och giltigt klätterkort.\""
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Dana Okafor (shop manager) must approve",
+   "gold": "no — Dana Okafor, the shop manager, must approve"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Victor Hale",
+   "gold": "Victor Hale"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; wedding invitations always take 3 business days",
+   "gold": "no — wedding invitations always need three business days"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the building alarm service at 555-0147; tell the customer to leave the building and wait outside until staff arrive",
+   "gold": "call the building's alarm service yourself at 555-0147 and tell the customer to leave the building and wait outside"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Prices are valid for 14 days from the date of this quote.",
+   "gold": "Prices are valid for 14 days from the date of this quote."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fridays at 4:00pm; a summary of all open orders and unpaid invoices",
+   "gold": "Friday at 4:00 pm; open orders and unpaid invoices"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sat Oct 12 and Sun Oct 13, at Sakuradai No. 2 Park",
+   "gold": "October 12–13 at Sakuradai Daini (No. 2) Park"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "8:30pm",
+   "gold": "8:30 pm"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥1,200",
+   "gold": "1,200 yen"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥1,800",
+   "gold": "1,800 yen"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "By Sep 20, to the community hall reception; stall fee ¥3,000",
+   "gold": "by September 20; 3,000 yen"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sat Oct 19; announced via the neighborhood PA at 7am that day",
+   "gold": "October 19 (Saturday); announced over the neighborhood PA at 7 am that day"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The festival is canceled and stall fees are fully refunded",
+   "gold": "the festival is cancelled and the stall fee is fully refunded"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; there is no parking, don't come by car",
+   "gold": "no — there is no parking; only wheelchair users may use the temporary north-side spaces"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; in the temporary spaces on the north side of the park (5 cars)",
+   "gold": "yes — in the temporary parking area on the north side of the park (5 spaces)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Festival committee chair Kazuo Morita, tel 090-4417-2286",
+   "gold": "Kazuo Morita, festival committee chair, 090-4417-2286"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Chiara Rinaldi (head pastry chef) must approve",
+   "gold": "no — Chiara Rinaldi, the head pastry chef, must approve"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Graziella Bellandi",
+   "gold": "Graziella Bellandi"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the kitchen is not certified gluten-free",
+   "gold": "no — the lab is not certified gluten-free"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Saturday orders are due by Thursday 18:00",
+   "gold": "no — Saturday orders must arrive by Thursday 18:00"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; wedding cakes need at least 10 days' notice",
+   "gold": "no — wedding cakes need at least ten days' notice"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; full refund of the €20 deposit",
+   "gold": "yes — the full 20 euro deposit"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Immediately call the owner at 347 812 5530; tell the customer to call 118 immediately",
+   "gold": "call the owner yourself immediately at 347 812 5530 and tell the customer to call 118 immediately"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Grazie per aver scelto la Pasticceria Bellandi, vi aspettiamo in negozio.",
+   "gold": "«Grazie per aver scelto la Pasticceria Bellandi, vi aspettiamo in negozio.»"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sara Lindqvist (gym manager) must approve",
+   "gold": "no — Sara Lindqvist, the hall manager, must approve"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; she is the gym manager, the owner is Per Åström",
+   "gold": "no — she is the hall manager; the owner is Per Åström"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; children under 13 climb only with an adult",
+   "gold": "no — children under 13 must climb with an adult (except the Wednesday kids' course)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; at the Wednesday kids' course the gym instructors are responsible",
+   "gold": "yes — the instructors are responsible during the Wednesday kids' course"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "75% of 450 SEK = 337.50 SEK",
+   "gold": "337.50 kronor (75% of 450)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing",
+   "gold": "nothing (0 kronor)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the gym on-call phone 070-318 44 96; tell the customer not to move the injured person and to call 112",
+   "gold": "call the on-call phone 070-318 44 96 yourself; tell the customer not to move the injured person and to call 112"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Välkommen till Bergväggen – kom ihåg inneskor och giltigt klätterkort.",
+   "gold": "\"Välkommen till Bergväggen – kom ihåg inneskor och giltigt klätterkort.\""
+  }
+ ],
+ "summary": {
+  "llm05_r1": {
+   "all": [
+    22,
+    40
+   ],
+   "S": [
+    19,
+    27
+   ],
+   "F": [
+    3,
+    13
+   ],
+   "hop2": [
+    11,
+    18
+   ]
+  },
+  "llm066_r1": {
+   "all": [
+    28,
+    40
+   ],
+   "S": [
+    24,
+    27
+   ],
+   "F": [
+    4,
+    13
+   ],
+   "hop2": [
+    13,
+    18
+   ]
+  },
+  "mnc22_r1": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    27,
+    27
+   ],
+   "F": [
+    13,
+    13
+   ],
+   "hop2": [
+    18,
+    18
+   ]
+  },
+  "mnc22_r2": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    27,
+    27
+   ],
+   "F": [
+    13,
+    13
+   ],
+   "hop2": [
+    18,
+    18
+   ]
+  },
+  "mnc22x_r1": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    27,
+    27
+   ],
+   "F": [
+    13,
+    13
+   ],
+   "hop2": [
+    18,
+    18
+   ]
+  },
+  "mnc22x_r2": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    27,
+    27
+   ],
+   "F": [
+    13,
+    13
+   ],
+   "hop2": [
+    18,
+    18
+   ]
+  },
+  "original_r1": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    27,
+    27
+   ],
+   "F": [
+    13,
+    13
+   ],
+   "hop2": [
+    18,
+    18
+   ]
+  },
+  "summ_r1": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    27,
+    27
+   ],
+   "F": [
+    13,
+    13
+   ],
+   "hop2": [
+    18,
+    18
+   ]
+  },
+  "terse_r1": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    27,
+    27
+   ],
+   "F": [
+    13,
+    13
+   ],
+   "hop2": [
+    18,
+    18
+   ]
+  },
+  "terse_r2": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    27,
+    27
+   ],
+   "F": [
+    13,
+    13
+   ],
+   "hop2": [
+    18,
+    18
+   ]
+  }
+ }
+}

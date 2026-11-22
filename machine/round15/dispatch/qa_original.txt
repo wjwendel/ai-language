@@ -1,0 +1,58 @@
+TEXT:
+§1
+Instructions for the assistant handling registrations for the Northfield Youth Soccer League (spring season). Check the register@northfieldysl.org inbox every day at 8 p.m. Central. Registration closes at 11:59 p.m. on February 28; you may accept late registrations until March 7, but only if the player's age group still has an open roster spot, and late registrations carry a $25 fee. Players are placed by birth year: U10 is born 2017 or later, U12 is born 2015–2016, and U14 is born 2013–2014. Never place a player in a younger age group than their birth year allows; a player may play up one age group only with written approval from the age-group coordinator. The coordinators are Dana Whitfield (U10), Marcus Bell (U12) and Priyanka Rao (U14). Families with two or more registered children get a 10% discount on each additional child, not on the first. Refunds: a full refund minus a $15 processing fee if requested before March 15; 50% if requested between March 15 and March 31; no refunds from April 1, except for a season-ending injury with a doctor's note, which the treasurer, Tom Alvarez, must approve. Never share a child's medical information with coaches unless the parent has ticked "share with coach" on the form. If a parent reports a concussion, tell them the player must not return to practice until a doctor signs the league's return-to-play form, and notify the safety officer, Elena Ruiz, the same day. Send the coordinators the updated rosters by 6 p.m. every Sunday.
+
+§2
+Instruções para o assistente da Clínica Veterinária Bicho Bom (Curitiba). Verifique o WhatsApp da recepção e o e-mail agenda@bichobom.vet de segunda a sábado às 7h30. Você pode marcar consultas de rotina sozinho em qualquer horário livre, mas cirurgias só podem ser marcadas pela Dra. Fernanda Lopes (diretora clínica). Se o tutor relatar que o animal comeu chocolate, uva, veneno de rato ou remédio humano, ou que está com dificuldade para respirar, diga a ele para trazer o animal imediatamente ao pronto-atendimento, que funciona 24 horas, e avise o veterinário de plantão; não dê nenhuma orientação de tratamento por mensagem. Cancelamentos feitos com menos de 24 horas de antecedência têm taxa de R$ 50, exceto em caso de emergência com o próprio animal. Você pode conceder desconto de até 10% para animais resgatados de ONGs cadastradas; descontos maiores, só a gerente Juliana Prado. Nunca envie o prontuário de um animal para alguém que não seja o tutor cadastrado, nem mesmo para outra clínica, sem autorização por escrito do tutor. A Juliana é gerente, não sócia; o sócio é o Dr. Ricardo Alves, que não deve ser copiado em e-mails de clientes. Envie à Juliana, até as 18h de toda sexta-feira, a lista de clientes com pagamentos atrasados há mais de 30 dias.
+
+§3
+부산시는 11월 3일 해운대 해수욕장 일대에 2027년 7월까지 해상 케이블카를 설치한다고 발표했다. 총사업비는 1,450억 원이며, 이 중 민간 투자가 70%를 차지한다. 노선 길이는 4.2km이고, 정류장은 3곳이며, 시간당 최대 2,400명을 수송할 수 있다. 박지훈 부산시 관광국장은 "성수기 교통 체증을 줄이고 연간 120만 명의 관광객을 추가로 유치하겠다"고 말했다. 요금은 성인 왕복 25,000원이며, 만 65세 이상과 초등학생은 40% 할인된다. 환경단체 '바다지킴이'는 철새 서식지 훼손을 우려하며 공사 중단을 요구했다. 시는 환경영향평가 결과를 12월 15일까지 공개하고, 주민설명회를 12월 20일 오후 2시에 해운대구청에서 열 예정이다.
+
+§4
+Instrukcja dla asystenta działu IT firmy Polkart sp. z o.o. (Wrocław). Codziennie o 7:00 sprawdzaj skrzynkę it@polkart.pl i kolejkę zgłoszeń. Możesz sam resetować hasła pracownikom, ale tylko po weryfikacji przez telefon na numer służbowy zapisany w systemie kadrowym, nigdy na numer podany w zgłoszeniu. Dostęp do folderu „Kadry” nadaje wyłącznie kierowniczka HR, Anna Wiśniewska; dostęp do systemu księgowego — tylko główny księgowy, Piotr Zając. Jeżeli ktoś zgłosi podejrzany e-mail z prośbą o przelew lub zmianę numeru konta, powiedz mu, żeby niczego nie klikał ani nie płacił, i natychmiast powiadom Kamila Nowaka (administratora bezpieczeństwa), także w weekend. Nowe laptopy wydajesz dopiero po podpisaniu protokołu przekazania; laptopa nie wolno wydać osobie trzeciej, nawet z upoważnieniem. Zakupy sprzętu do 2000 zł zatwierdza kierownik działu zgłaszającego, a powyżej 2000 zł — dyrektor finansowa Ewa Lis. Kamil Nowak jest administratorem bezpieczeństwa, a nie kierownikiem IT; kierownikiem IT jest Marek Duda, którego nie dodajesz do kopii w odpowiedziach dla pracowników. W każdy piątek do godziny 15:00 wyślij Markowi Dudzie zestawienie zgłoszeń otwartych dłużej niż 5 dni roboczych.
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: Which inbox is checked, and at what time?
+§1.q2: On March 5 a family registers a player whose age group has no open roster spot. May you accept the registration?
+§1.q3: On March 6 a family registers a player whose age group still has open spots. May you accept it, and is there an extra charge?
+§1.q4: A child born in 2016 — which age group, and may you place them in U10?
+§1.q5: A U12-aged player wants to play in U14. What is required, and from whom?
+§1.q6: A family registers three children. How many of them get the 10% discount?
+§1.q7: A parent requests a refund on March 15. What refund applies?
+§1.q8: A parent requests a refund on March 14. What refund applies?
+§1.q9: On April 10 a parent asks for a refund because of a season-ending injury and has a doctor's note. Can you approve it yourself?
+§1.q10: A coach asks about a player's asthma; the parent did not tick "share with coach". May you tell the coach?
+§1.q11: A parent reports a concussion. What do you tell the parent, and whom do you notify and when?
+§1.q12: Is sending the updated rosters to the coordinators at 7 p.m. on Sunday on time?
+§2.q1: Which channels are checked, and when?
+§2.q2: A client asks to book a surgery for their dog. May you book it yourself?
+§2.q3: An owner writes that their cat ate a grape an hour ago. What do you tell them, and what else do you do?
+§2.q4: A client cancels 20 hours before the appointment because they are travelling. Is there a fee?
+§2.q5: A client cancels 10 hours before the appointment because their own animal has an emergency. Is there a fee?
+§2.q6: A registered NGO asks for a 15% discount for a rescued dog. May you grant it yourself?
+§2.q7: Another clinic asks for a dog's medical record; the owner has not authorised it in writing. May you send it?
+§2.q8: Is Juliana Prado a partner in the clinic?
+§2.q9: Who must not be copied on client e-mails?
+§2.q10: A client's payment has been overdue for 25 days. Does the client go on Friday's list to Juliana?
+§2.q11: Is sending Juliana the overdue list at 18:30 on Friday on time?
+§3.q1: When was the cable car announced, and by when is it to be installed?
+§3.q2: How much of the total cost comes from private investment, in won?
+§3.q3: How long is the route, how many stations, and what is the maximum capacity?
+§3.q4: What does a 70-year-old pay for a round trip?
+§3.q5: What does the environmental group want, and why?
+§3.q6: By when will the environmental impact assessment results be published?
+§3.q7: When and where is the residents' briefing?
+§3.q8: What did 박지훈 say they aim to attract per year?
+§4.q1: What is checked daily, and when?
+§4.q2: An employee asks for a password reset and asks you to call them back on the mobile number written in the ticket. May you verify on that number?
+§4.q3: Who can grant access to the "Kadry" folder?
+§4.q4: On Saturday an employee reports an e-mail asking them to change a supplier's bank account number. What do you tell them, and what do you do?
+§4.q5: A colleague brings a signed authorisation to collect a new laptop on behalf of an employee. May you hand it over?
+§4.q6: A department requests a 2,000 zł monitor. Who approves it?
+§4.q7: A department requests a 2,400 zł laptop. Who approves it?
+§4.q8: Is Kamil Nowak the IT head?
+§4.q9: Who must not be copied on replies to employees?
+§4.q10: A ticket has been open for 4 working days on Friday. Does it go on the list to Marek Duda?
+§4.q11: Is sending the Friday list at 14:00 on time?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

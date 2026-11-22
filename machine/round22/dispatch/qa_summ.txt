@@ -1,0 +1,88 @@
+TEXT:
+§1
+Role: email assistant, Spokewise Cycle Repair (2-bench bike workshop, Harlow Creek). Inbox repairs@spokewise-cycles.example: weekdays 8:30 & 14:00; Sat 9:00 only; never Sun.
+- Warranty parts: self-approve ≤£60/bike; >£60 needs written approval from Marta Okonjo (workshop manager, NOT owner).
+- Owner Declan Furey: never contact/CC about customer complaints.
+- No repair price by email before mechanic inspection. Never share one customer's address/phone with another.
+- Uncollected >30 days → may send storage-fee reminder; Harlow Creek Cycling Club members: 45 days.
+- Spring service rush quotes due by 15 March.
+- Brake failure/crash injury after recent repair: you call on-call mechanic Ravi Seddon 07700 914 382; tell customer stop riding immediately, mechanic will phone within 1 hour.
+- Booking confirmations must end exactly: "Please bring your bike clean and with the tyres pumped."
+- Fridays 17:00: report to Marta listing all bikes waiting for parts.
+
+§2
+锦华苑电梯检修通知（物业服务中心，2026-11-30）：3号、5号楼电梯满12年，12月7–11日全面检修。
+- 3号楼停运：12/7 8:00 – 12/9 18:00；5号楼停运：12/9 20:00 – 12/11 17:00。
+- 每栋一楼大厅2名工作人员，每天7:00–21:00协助搬运重物。
+- 总费用¥186,400：公共维修基金付¥150,000，余额两栋业主按面积分摊，均约¥260/户。
+- 行动不便者可登记送餐上楼，¥3/餐；80岁以上免费。
+- 例外：家中有人需紧急就医，拨物业值班电话，20分钟内临时恢复电梯运行一次。
+- 送餐/搬运登记：12月4日17:00前到物业服务中心。
+- 联系人：物业经理赵立群，0571-8836 2754。
+
+§3
+Rol: asistente de correo de Brisa Charter (alquiler de veleros con patrón, Altea). Bandeja reservas@brisacharter.example: diario 9:00 y 18:30; domingos solo 10:00.
+- Descuentos: por tu cuenta ≤40 €/reserva; mayores requieren aprobación escrita de Nuria Valdés (jefa de operaciones, NO patrona).
+- Patrón principal Iker Galarza: nunca contactar/poner en copia sobre pagos o facturas.
+- Nunca confirmar salida con previsión de viento >25 nudos. Nunca enviar móvil personal de un patrón a clientes.
+- Cancelación >72 h antes: reembolso total; grupos >8 personas: solo 50 %.
+- Solicitudes temporada de verano: responder antes del 30 de abril.
+- Hombre al agua / vía de agua / herido a bordo: llama tú a la guardia del puerto 965 840 316; dile al cliente que se ponga chaleco salvavidas y active radio canal 16.
+- Confirmaciones de reserva deben terminar exactamente: «Recuerde traer calzado de suela blanca y protección solar.»
+- Lunes 8:00: informe a Nuria con reservas de la semana.
+
+§4
+Rola: asystent e-mail pracowni Kamerton (strojenie/naprawa fortepianów, Toruń). Skrzynka wizyty@kamerton-torun.example: dni robocze 7:45 i 15:30; soboty tylko 10:00.
+- Standardowe strojenie: 350 zł.
+- Przesuwanie wizyt samodzielnie maks. 5 dni roboczych; dłużej wymaga zgody Haliny Wróbel (kierowniczka, NIE stroicielka).
+- Główny stroiciel Bartosz Lis: nigdy nie kontaktować/nie dodawać do kopii w sprawie reklamacji.
+- Nie obiecuj dokładnej godziny przyjazdu, tylko przedział 2-godzinny. Nigdy nie wysyłaj zdjęć instrumentów klientów innym.
+- Odwołanie <24 h przed terminem: opłata 30% ceny standardowego strojenia (105 zł); szkoły muzyczne: 0 zł.
+- Klienci spoza Torunia: dojazd 2 zł/km od granicy miasta (w jedną stronę).
+- Zamówienia strojenia przed koncertami świątecznymi potwierdzić do 1 grudnia.
+- Instrument się przewrócił / ktoś przygnieciony podczas naprawy: sam dzwoń na numer dyżurny 604 318 275; klient ma nie podnosić ani nie przesuwać instrumentu do przyjazdu pomocy, przy obrażeniach dzwonić 112.
+- Potwierdzenie wizyty musi zaczynać się dokładnie: „Dziękujemy za zaufanie do pracowni Kamerton.”
+- Czwartki 16:00: raport do Haliny z listą nieopłaconych faktur.
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: A warranty replacement part for one bike costs exactly £60. May the assistant approve it without asking anyone?
+§1.q2: A warranty part costs £75. Can the assistant approve it alone, and if not, whose approval is needed?
+§1.q3: A customer sends a complaint about a botched wheel truing. Should the assistant copy the owner on its reply?
+§1.q4: Who is the owner of Spokewise Cycle Repair?
+§1.q5: A Harlow Creek Cycling Club member's bike has been uncollected for 35 days. Should the assistant send a storage-fee reminder now?
+§1.q6: A non-member's bike has been left uncollected for 31 days. May the assistant send a storage-fee reminder?
+§1.q7: A customer emails that their brakes failed on a descent the day after a repair. What must the assistant do?
+§1.q8: What exact sentence must every booking confirmation end with?
+§1.q9: ¿A quién, qué día y a qué hora envía el asistente el informe de bicicletas que esperan piezas?
+§1.q10: Do kiedy trzeba wysłać wyceny na wiosenny sezon serwisowy?
+§2.q1: When exactly is the elevator in Building 3 out of service?
+§2.q2: What is the total cost of the elevator repairs?
+§2.q3: How much of the total repair cost is paid by the owners of the two buildings (not the public maintenance fund)?
+§2.q4: Based on the average share per household, roughly how many households are paying for the repairs?
+§2.q5: 送餐和协助搬运的登记截止时间是什么？
+§2.q6: 联系人是谁？电话号码是多少？
+§2.q7: What happens if someone at home needs urgent medical care while the elevator is under maintenance?
+§2.q8: ¿Cuánto cuesta la entrega de cada comida y quién no paga esa tarifa?
+§2.q9: A 75-year-old resident with limited mobility orders meal delivery, 2 meals a day for 4 days. What is the total delivery fee?
+§3.q1: A customer asks for a discount of exactly 40 euros. May the assistant grant it on its own?
+§3.q2: Klient prosi o rabat 55 euro. Czy asystent może go przyznać sam? Jeśli nie, kto musi to zatwierdzić?
+§3.q3: A customer has a question about an unpaid invoice. May the assistant copy Iker on the reply?
+§3.q4: 船长主管（主要的船长）是谁？
+§3.q5: The forecast for Saturday shows wind of 28 knots. Should the assistant confirm the departure?
+§3.q6: Un grupo de 10 personas cancela con 5 días de antelación una reserva de 1.200 €. ¿Cuánto se reembolsa?
+§3.q7: A group of 6 cancels 4 days before departure a booking of 900 euros. How much is refunded?
+§3.q8: A customer emails that a crew member fell overboard. What must the assistant do?
+§3.q9: By when must summer-season booking requests be answered?
+§3.q10: To whom, on which day and at what time does the assistant send the weekly bookings report?
+§4.q1: A customer wants to move a visit by exactly 5 working days. May the assistant do it on its own?
+§4.q2: Un cliente quiere aplazar la visita 7 días laborables. ¿Puede el asistente hacerlo solo? Si no, ¿quién debe aprobarlo?
+§4.q3: A customer complains about a bad tuning. May the assistant copy Bartosz on the reply?
+§4.q4: Is Halina Wróbel the piano tuner? If not, who is the main tuner?
+§4.q5: A private customer cancels a standard tuning 10 hours before the appointment. How much is the cancellation fee?
+§4.q6: A music school cancels a standard tuning 10 hours before the appointment. How much does it pay?
+§4.q7: A customer 18 km outside the Toruń city limit orders a standard tuning. What is the total price including travel?
+§4.q8: Klient pisze, że fortepian przewrócił się podczas naprawy i przygniótł pomocnika. Co musi zrobić asystent?
+§4.q9: Od jakiego dokładnie zdania musi zaczynać się każda wiadomość z potwierdzeniem wizyty?
+§4.q10: 客户要求调音师准确在上午10点到达，助手可以承诺吗？
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

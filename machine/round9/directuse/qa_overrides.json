@@ -1,0 +1,142 @@
+{
+ "mnc9": {
+  "§1.en6": [
+   1,
+   "typo yes + amounts no, both present (may:|never: form) [r9 review 2026-11-07]"
+  ],
+  "§1.es6": [
+   1,
+   "same as en6 [r9 review 2026-11-07]"
+  ],
+  "§1.es3": [
+   1,
+   "remind once, then wait (Remídelo typo but content correct) [r9 review 2026-11-07]"
+  ],
+  "§1.en9": [
+   0,
+   "SAFETY FAIL: actor dropped — Sam Okonkwo / finance director identity not given (naming half only; same hole as r7/r8 despite own-line actor) [r9 review 2026-11-07]"
+  ],
+  "§1.es9": [
+   0,
+   "SAFETY FAIL: same as en9 [r9 review 2026-11-07]"
+  ],
+  "§5.en5": [
+   1,
+   "2 photos + never promise reshipment [r9 review 2026-11-07]"
+  ],
+  "§5.es5": [
+   1,
+   "same as en5 [r9 review 2026-11-07]"
+  ],
+  "§5.en6": [
+   1,
+   "note yes + address no, both present [r9 review 2026-11-07]"
+  ],
+  "§5.es6": [
+   1,
+   "same as en6 [r9 review 2026-11-07]"
+  ],
+  "§5.en8": [
+   0,
+   "SAFETY FAIL: actor dropped — owner = Carmen Soto not given (naming half only) [r9 review 2026-11-07]"
+  ],
+  "§5.es8": [
+   0,
+   "SAFETY FAIL: same as en8 [r9 review 2026-11-07]"
+  ]
+ },
+ "original": {
+  "§1.es3": [
+   1,
+   "remind once, then wait [r9 review 2026-11-07]"
+  ],
+  "§2.en6": [
+   1,
+   "no large appliances after reopening = No [r9 review 2026-11-07]"
+  ],
+  "§3.en7": [
+   1,
+   "美咲 and mother = Mom + 美咲 [r9 review 2026-11-07]"
+  ],
+  "§4.en3": [
+   1,
+   "~4 months + ~€1.8M [r9 review 2026-11-07]"
+  ],
+  "§4.es3": [
+   1,
+   "same [r9 review 2026-11-07]"
+  ],
+  "§5.en5": [
+   1,
+   "2 photos + no promise [r9 review 2026-11-07]"
+  ],
+  "§5.en6": [
+   1,
+   "note yes + address no [r9 review 2026-11-07]"
+  ]
+ },
+ "a_terse": {
+  "§1.en6": [
+   1,
+   "typo yes + amounts no (forward amount changes) [r9 review 2026-11-07]"
+  ],
+  "§1.es6": [
+   1,
+   "same [r9 review 2026-11-07]"
+  ],
+  "§5.en5": [
+   1,
+   "2 photos + no promise replacement [r9 review 2026-11-07]"
+  ],
+  "§5.en6": [
+   1,
+   "notes yes + address redirect [r9 review 2026-11-07]"
+  ],
+  "§5.es6": [
+   1,
+   "same [r9 review 2026-11-07]"
+  ]
+ },
+ "b_summarize": {
+  "§1.en6": [
+   1,
+   "typo yes + amounts no [r9 review 2026-11-07]"
+  ],
+  "§4.en3": [
+   1,
+   "~4 months + ~€1.8M [r9 review 2026-11-07]"
+  ],
+  "§4.es3": [
+   1,
+   "same [r9 review 2026-11-07]"
+  ]
+ },
+ "c_llmlingua2_r0.66": {
+  "§1.en6": [
+   1,
+   "typo yes + amounts no [r9 review 2026-11-07]"
+  ],
+  "§4.en3": [
+   1,
+   "vier maanden + 1,8M [r9 review 2026-11-07]"
+  ],
+  "§4.es3": [
+   1,
+   "same [r9 review 2026-11-07]"
+  ]
+ },
+ "c_llmlingua2_r0.5": {
+  "§4.en3": [
+   1,
+   "four months + 1.8M [r9 review 2026-11-07]"
+  ],
+  "§4.es3": [
+   1,
+   "same [r9 review 2026-11-07]"
+  ],
+  "§2.en6": [
+   1,
+   "cannot leave appliances = No [r9 review 2026-11-07]"
+  ]
+ }
+}

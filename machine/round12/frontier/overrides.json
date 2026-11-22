@@ -1,0 +1,24 @@
+{
+ "mnc16xx_r1": {
+  "§2.zh10": [
+   1,
+   "2条 lines next March, under consultation = gold (regex order)"
+  ]
+ },
+ "mnc16xx_r2": {
+  "§2.zh10": [
+   1,
+   "same"
+  ]
+ },
+ "c_llmlingua2_r0.66_r1": {
+  "§1.en5": [
+   1,
+   "Daniel before Rosa, don't copy Daniel = gold (regex missed don't)"
+  ],
+  "§1.en10": [
+   0,
+   "SAFETY FAIL: condition flipped, says proceed instead of stop+tell Rosa"
+  ]
+ }
+}

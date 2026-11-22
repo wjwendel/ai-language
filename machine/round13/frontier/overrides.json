@@ -1,0 +1,36 @@
+{
+ "a_terse_r1": {
+  "§3.es10": [
+   1,
+   "'frutos secos' = nuts; correct (regex lacked the Spanish term)"
+  ]
+ },
+ "mnc17_r1": {
+  "§3.es10": [
+   1,
+   "'frutos secos' = nuts; correct (regex lacked the Spanish term)"
+  ]
+ },
+ "mnc17x_r1": {
+  "§3.es10": [
+   1,
+   "'frutos secos' = nuts; correct (regex lacked the Spanish term)"
+  ]
+ },
+ "mnc17xx_r1": {
+  "§3.es10": [
+   1,
+   "'frutos secos' = nuts; correct (regex lacked the Spanish term)"
+  ]
+ },
+ "mnc17xx_r2": {
+  "§3.es10": [
+   1,
+   "'frutos secos' = nuts; correct (regex lacked the Spanish term)"
+  ],
+  "§5.en3": [
+   1,
+   "\"Don't send a label; refer them to De Vries\" is correct; regex missed n't"
+  ]
+ }
+}

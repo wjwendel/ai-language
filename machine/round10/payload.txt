@@ -1,0 +1,53 @@
+§1 task en; you:
+monthly vendor-invoice check
+1st business day each month 10:00 Eastern: open Vendors folder in Drive + Payables sheet
+each new invoice: check amount against purchase order, add row to Payables sheet
+never pay invoice; only Grace Liu, accounting, releases payments
+invoice more than $5000: Daniel Brooks, operations director, approves in writing before Grace pays
+may: fix misspelled vendor name in sheet
+never: edit invoice amounts or due dates
+if invoice has no PO number: email vendor once asking for it, without adding row until vendor replies
+Helen Park = controller; never copy Helen on vendor emails
+call Grace "payables lead", never "controller"
+if Payables sheet open by someone else: wait 15 min + retry, at most 2 times
+if vendor threatens late fees: forward to Grace without replying
+finish by 15:00
+every Fri 12:00 send Daniel summary of invoices waiting for approval
+
+§2 pt notice
+Academia Ponte Verde members: pool closed Mar3 to Mar14 to replace filtration system
+cost ~R$9500 from maintenance fund, no monthly fee increase
+meanwhile hidroginástica classes → Clube Atlético Vila Nova, Rua das Palmeiras 210, same times
+manager Ricardo Alves: last yr floor replacement delayed 10 days, parts from another state, so equipment already arrived
+sauna stays open normally
+no guests at partner club, even with visitor pass
+
+§3 zh family
+next weekend camping 千岛湖: Sat Nov22 @7 meet at home door, 2 cars
+小林: exam Sat morning; ~@14 comes alone by high-speed train
+tents: Dad; food: Mom buys; 小雨 brings power bank + flashlight
+camp: no open fire; only their rented electric grill, 80元 /night
+camp fee 120元 /person, transfer to Mom by Nov18
+dog can't come; 王阿姨 downstairs looks after it
+leave camp by Sun @16; late = pay extra half day
+
+§4 de news
+Lindenau: Stadtbibliothek at Marktplatz renovated from Feb2
+Kulturdezernentin Petra Hoffmann: ~6 months, ~€2.4M; Bund pays half
+during closure: Ausweichstelle Rathaus room 104, Tue-Sat 10-18
+loans possible there; returns only via Rückgabekasten at Bahnhof
+2022 Musikschule renovation ran 8 weeks late for missing craftsmen, so firms already under contract
+Mahngebühren suspended until reopening
+
+§5 task fr; you:
+each working day 8:15 open booking mailbox of gîte "Les Trois Chênes"
+may: confirm bookings of 2 nights or more yourself if dates free in calendar
+1 night only: forward to Julien Moreau + wait for his answer, without confirming anything
+never refund deposit; only Claire Fabre, comptabilité, does
+if client reports heating problem: ask room number, without promising any discount
+may: fix name spelling in calendar
+never: change prices
+Sophie Laurent = owner; never cc Sophie on client emails
+call Julien "responsable de l'accueil", never "propriétaire"
+more than 20 requests waiting: warn Julien immediately
+before 17:00 send Julien list of unanswered requests

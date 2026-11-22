@@ -1,0 +1,924 @@
+{
+ "rows": [
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Weekdays at 7:30am and 3pm ET.",
+   "gold": "Weekdays at 7:30 a.m. and 3 p.m. Eastern"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, pets up to and including 40 kg may be booked by you.",
+   "gold": "Yes (up to 40 kg)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Head technician Dana Okafor.",
+   "gold": "Dana Okafor, the head technician"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, confirmation was under 48h and only dental cleanings may keep the slot; put the spay back on the waitlist.",
+   "gold": "No; it goes back on the waitlist (only dental cleanings may be kept)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell them to drive in immediately; then phone the emergency line (207) 555-0143 yourself; then text Dana.",
+   "gold": "Tell them to drive in immediately; phone the emergency line (207) 555-0143 yourself; then text Dana"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only balances over $200 go on the list.",
+   "gold": "No (over $200 only)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never cc Martin Kell on client e-mails.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, it is due by 9am.",
+   "gold": "Yes (by 9 a.m.)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday to Saturday at 9:15.",
+   "gold": "Monday to Saturday at 9:15"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, you may extend up to 7 nights yourself.",
+   "gold": "Yes (up to 7 nights)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€54 (3 nights free, then nights 4-6 at €18 each).",
+   "gold": "€54 (3 free nights, then 3 × €18)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, deposits up to €600 you may refund yourself.",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell residents to exit by stairway B; then call the caretaker (gardien) at 04 72 55 01 38 yourself; then SMS Claire.",
+   "gold": "Tell them to exit by stairway B; call the caretaker at 04 72 55 01 38 yourself; then text Claire"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no on a routine rent reminder; yes on an exclusion email (exclusion cases are the exception).",
+   "gold": "No for a routine reminder; yes for an exclusion"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only rents unpaid more than 5 days go on the list.",
+   "gold": "No (more than 5 days only)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it must be sent before 10:00.",
+   "gold": "No (before 10:00)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Daily at 8:00 and 18:00.",
+   "gold": "Every day at 8 a.m. and 6 p.m."
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 2 per day you may book yourself.",
+   "gold": "Yes (up to 2 per day)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, 3 or more classes the same day need approval from operations manager 정수아.",
+   "gold": "No; needs manager Jung Sua"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, cancelling at least 3h before is free.",
+   "gold": "No (free up to 3 hours before)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, 1 session is deducted from the pass.",
+   "gold": "Yes, one session"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, allowed (4 or fewer used); 정수아 processes it; you only tell the member to fill out the refund form.",
+   "gold": "Yes; manager Jung Sua processes it (you only tell the member to fill in the refund form)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell the instructor not to move the member; then call 119 yourself; then text 정수아 at 010-5550-2741.",
+   "gold": "Tell the instructor not to move the member; call 119 yourself; then text Jung Sua at 010-5550-2741"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never cc CEO 박도현 on member e-mails.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday to Saturday at 7:00 and 16:00.",
+   "gold": "Monday to Saturday at 7:00 and 16:00"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, orders up to R$800.00 you may accept alone.",
+   "gold": "Yes (up to R$ 800)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, delivery is free for orders of R$150.00 or more.",
+   "gold": "No (free from R$ 150)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the coupon is only for orders more than 2 hours late.",
+   "gold": "No (more than 2 hours only)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Only financial analyst Juliana Prates does refunds; the customer must send a photo of the damaged product to qualidade@raizverde.com.br within 24h after delivery.",
+   "gold": "Juliana Prates does the refund; the customer must send a photo to qualidade@raizverde.com.br within 24 hours of delivery"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ask the driver to call central at (31) 5555-0192; no, never give the customer the driver's mobile number.",
+   "gold": "Ask the driver to call the central at (31) 5555-0192; no, never give the driver's phone"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Frutas maduras podem variar de cor e tamanho.",
+   "gold": "\"Frutas maduras podem variar de cor e tamanho.\""
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it must be sent before 11:00.",
+   "gold": "No (before 11:00)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Weekdays at 7:30am and 3pm ET.",
+   "gold": "Weekdays at 7:30 a.m. and 3 p.m. Eastern"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — pets up to and including 40 kg may be booked by you alone.",
+   "gold": "Yes (up to 40 kg)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Head technician Dana Okafor (pets over 40 kg are booked only by her).",
+   "gold": "Dana Okafor, the head technician"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — confirmed less than 48h before drop-off and it is not a dental cleaning, so put the surgery back on the waitlist.",
+   "gold": "No; it goes back on the waitlist (only dental cleanings may be kept)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "First tell them to drive in immediately; then phone the emergency line (207) 555-0143 yourself; then text Dana.",
+   "gold": "Tell them to drive in immediately; phone the emergency line (207) 555-0143 yourself; then text Dana"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — only balances over $200 go on the list.",
+   "gold": "No (over $200 only)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — never cc owner Martin Kell on client emails.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — the list is due by 9am Friday, so 9:00 is on time.",
+   "gold": "Yes (by 9 a.m.)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday to Saturday at 9:15.",
+   "gold": "Monday to Saturday at 9:15"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — you may extend up to 7 nights yourself.",
+   "gold": "Yes (up to 7 nights)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€54 total — first 3 nights free, nights 4–6 at €18 each.",
+   "gold": "€54 (3 free nights, then 3 × €18)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — deposits of €600 or less may be refunded by you.",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "First tell residents to exit by stairway B; then call the caretaker (gardien) at 04 72 55 01 38 yourself; then SMS Claire.",
+   "gold": "Tell them to exit by stairway B; call the caretaker at 04 72 55 01 38 yourself; then text Claire"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no for a routine rent reminder; yes for an exclusion email (exclusion cases are the exception).",
+   "gold": "No for a routine reminder; yes for an exclusion"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — only rents unpaid more than 5 days go on the list.",
+   "gold": "No (more than 5 days only)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — it must be sent before 10:00, so exactly 10:00 is late.",
+   "gold": "No (before 10:00)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Daily at 8:00 and 18:00.",
+   "gold": "Every day at 8 a.m. and 6 p.m."
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — up to 2 classes per day you may book yourself.",
+   "gold": "Yes (up to 2 per day)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — 3 or more classes the same day need approval from operations manager 정수아 (Jung Sua).",
+   "gold": "No; needs manager Jung Sua"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — cancelling at least 3h before start is free.",
+   "gold": "No (free up to 3 hours before)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — cancelling less than 3h before start deducts 1 session (instructor-change exception does not apply).",
+   "gold": "Yes, one session"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — refund allowed if 4 or fewer classes used; 정수아 (Jung Sua) processes it herself; you only tell the member to fill out the refund form.",
+   "gold": "Yes; manager Jung Sua processes it (you only tell the member to fill in the refund form)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "First tell the instructor not to move the member; then call 119 yourself; then text 정수아 at 010-5550-2741.",
+   "gold": "Tell the instructor not to move the member; call 119 yourself; then text Jung Sua at 010-5550-2741"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — never cc CEO 박도현 (Park Dohyun) on member emails.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday to Saturday at 7:00 and 16:00.",
+   "gold": "Monday to Saturday at 7:00 and 16:00"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — orders up to and including R$800.00 you may accept alone.",
+   "gold": "Yes (up to R$ 800)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — delivery is free for orders of R$150.00 or more.",
+   "gold": "No (free from R$ 150)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the coupon applies only when the order is more than 2 hours late.",
+   "gold": "No (more than 2 hours only)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Financial analyst Juliana Prates does refunds; the customer must send a photo of the damaged product to qualidade@raizverde.com.br within 24h after delivery.",
+   "gold": "Juliana Prates does the refund; the customer must send a photo to qualidade@raizverde.com.br within 24 hours of delivery"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ask the driver to call the central at (31) 5555-0192; no — never give the customer the driver's mobile number.",
+   "gold": "Ask the driver to call the central at (31) 5555-0192; no, never give the driver's phone"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Frutas maduras podem variar de cor e tamanho.\"",
+   "gold": "\"Frutas maduras podem variar de cor e tamanho.\""
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — it must be sent before 11:00, so 11:00 sharp is late.",
+   "gold": "No (before 11:00)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Every weekday at 7:30 a.m. and 3 p.m. Eastern",
+   "gold": "Weekdays at 7:30 a.m. and 3 p.m. Eastern"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, pets up to 40 kg may be booked by you",
+   "gold": "Yes (up to 40 kg)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dana Okafor, the head technician",
+   "gold": "Dana Okafor, the head technician"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it was confirmed less than 48 hours ahead and is not a dental cleaning, so it goes back on the waitlist",
+   "gold": "No; it goes back on the waitlist (only dental cleanings may be kept)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell them to drive in immediately; then you phone the emergency line at (207) 555-0143 yourself, and then text Dana",
+   "gold": "Tell them to drive in immediately; phone the emergency line (207) 555-0143 yourself; then text Dana"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only balances over $200",
+   "gold": "No (over $200 only)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, it is due by 9 a.m.",
+   "gold": "Yes (by 9 a.m.)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday to Saturday at 9:15",
+   "gold": "Monday to Saturday at 9:15"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, extensions up to 7 nights are allowed",
+   "gold": "Yes (up to 7 nights)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€54 (nights 4-6 at €18 each; first 3 free)",
+   "gold": "€54 (3 free nights, then 3 × €18)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, deposits up to €600 may be refunded by you",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell residents to exit by staircase B; then call the caretaker yourself at 04 72 55 01 38, then text Claire",
+   "gold": "Tell them to exit by stairway B; call the caretaker at 04 72 55 01 38 yourself; then text Claire"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no on a routine rent reminder; yes on an exclusion email",
+   "gold": "No for a routine reminder; yes for an exclusion"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only rents unpaid for more than 5 days",
+   "gold": "No (more than 5 days only)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it must be sent before 10:00",
+   "gold": "No (before 10:00)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Every day at 8 a.m. and 6 p.m.",
+   "gold": "Every day at 8 a.m. and 6 p.m."
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 2 per day",
+   "gold": "Yes (up to 2 per day)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, 3 or more on the same day needs approval from operations manager Jung Su-a",
+   "gold": "No; needs manager Jung Sua"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, cancelling up to 3 hours before is free",
+   "gold": "No (free up to 3 hours before)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, one session is deducted",
+   "gold": "Yes, one session"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, refunds are allowed when 4 or fewer sessions are used; Jung Su-a processes it, and you only tell the member to fill out the refund request form",
+   "gold": "Yes; manager Jung Sua processes it (you only tell the member to fill in the refund form)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell the instructor not to move the member; then call 119 yourself, then text Jung Su-a at 010-5550-2741",
+   "gold": "Tell the instructor not to move the member; call 119 yourself; then text Jung Sua at 010-5550-2741"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday to Saturday at 7:00 and 16:00",
+   "gold": "Monday to Saturday at 7:00 and 16:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, orders up to R$ 800,00 may be accepted by you",
+   "gold": "Yes (up to R$ 800)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, delivery is free from R$ 150,00",
+   "gold": "No (free from R$ 150)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only orders late more than 2 hours",
+   "gold": "No (more than 2 hours only)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Juliana Prates, the financial analyst, does the refund; the customer must send a photo of the damaged product to qualidade@raizverde.com.br within 24 hours of delivery",
+   "gold": "Juliana Prates does the refund; the customer must send a photo to qualidade@raizverde.com.br within 24 hours of delivery"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ask the driver to call the central at (31) 5555-0192; no, never give the driver's phone number",
+   "gold": "Ask the driver to call the central at (31) 5555-0192; no, never give the driver's phone"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Frutas maduras podem variar de cor e tamanho.",
+   "gold": "\"Frutas maduras podem variar de cor e tamanho.\""
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it must be sent before 11:00",
+   "gold": "No (before 11:00)"
+  }
+ ],
+ "summary": {
+  "mnc19_r1": {
+   "all": [
+    32,
+    32
+   ],
+   "S": [
+    26,
+    26
+   ],
+   "F": [
+    6,
+    6
+   ],
+   "hop2": [
+    17,
+    17
+   ]
+  },
+  "mnc19_r2": {
+   "all": [
+    32,
+    32
+   ],
+   "S": [
+    26,
+    26
+   ],
+   "F": [
+    6,
+    6
+   ],
+   "hop2": [
+    17,
+    17
+   ]
+  },
+  "original_r1": {
+   "all": [
+    32,
+    32
+   ],
+   "S": [
+    26,
+    26
+   ],
+   "F": [
+    6,
+    6
+   ],
+   "hop2": [
+    17,
+    17
+   ]
+  }
+ }
+}

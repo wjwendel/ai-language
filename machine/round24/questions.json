@@ -1,0 +1,561 @@
+{
+ "written": "2026-11-19 by independent author (r24)",
+ "questions": [
+  {
+   "id": "§1.q1",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer asks for a standard lock change quoted at exactly $180. May the assistant book it without anyone's approval?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": [
+    "^\\W*no\\b"
+   ]
+  },
+  {
+   "id": "§1.q2",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A standard lock change is quoted at $195. Who must approve it?",
+   "gold": "Dana Whitcombe, the operations manager",
+   "accept": [
+    "dana"
+   ],
+   "reject": [
+    "martin",
+    "priya",
+    "gareth"
+   ]
+  },
+  {
+   "id": "§1.q3",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A safe opening is quoted at only $120. May the assistant book it on its own?",
+   "gold": "no, safe openings always need Dana Whitcombe's approval",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§1.q4",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A key duplication order comes to $260. May the assistant confirm it on its own?",
+   "gold": "yes, key duplication can be confirmed at any price",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": [
+    "^\\W*no\\b"
+   ]
+  },
+  {
+   "id": "§1.q5",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Quem é o proprietário da Hollins Lock & Key?",
+   "gold": "Martin Hollins",
+   "accept": [
+    "martin"
+   ],
+   "reject": [
+    "priya",
+    "dana"
+   ]
+  },
+  {
+   "id": "§1.q6",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "The assistant is sending an invoice reminder. May Gareth Lunn be copied on it?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§1.q7",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer reports a faulty part 40 days after the job and asks for a refund. Is it within the refund rule?",
+   "gold": "yes, faulty parts can be refunded within 60 days",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": [
+    "^\\W*no\\b"
+   ]
+  },
+  {
+   "id": "§1.q8",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Um cliente escreve que está trancado fora de casa com o cachorro lá dentro. O que o assistente deve fazer?",
+   "gold": "Call the emergency dispatch line 555-0147 itself immediately, then tell the customer a technician is on the way and to call 911 if anyone is in danger",
+   "accept": [
+    "555\\W?0147"
+   ],
+   "reject": [
+    "^\\W*no\\b"
+   ]
+  },
+  {
+   "id": "§1.q9",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A quote request arrives on a Saturday at 9:00 check. By what time must it be answered?",
+   "gold": "by 17:00 the same day",
+   "accept": [
+    "(5\\s*(:00\\s*)?p\\.?m|17:00)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q10",
+   "sec": 1,
+   "type": "F",
+   "hop": 1,
+   "q": "Wanneer en aan wie wordt het wekelijkse rapport gestuurd?",
+   "gold": "Every Friday at 16:00 to Dana Whitcombe",
+   "accept": [
+    "friday",
+    "(4\\s*(:00\\s*)?p\\.?m|16:00)",
+    "dana"
+   ],
+   "reject": [
+    "martin"
+   ]
+  },
+  {
+   "id": "§2.q1",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "When is the water shut off for building 103?",
+   "gold": "December 3 (Thursday), 9:00 to 17:00",
+   "accept": [
+    "(12\\W*0?3\\b|dec\\w*\\.?\\s*3\\b|\\b3(rd)?\\s*(of\\s*)?dec|thursday)",
+    "(9\\s*(:00\\s*)?a\\.?m|\\b0?9:00)",
+    "(5\\s*(:00\\s*)?p\\.?m|17:00)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q2",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "105동은 언제 단수됩니까?",
+   "gold": "December 4 (Friday), 10:00 to 15:00",
+   "accept": [
+    "(12\\W*0?4\\b|dec\\w*\\.?\\s*4\\b|\\b4(th)?\\s*(of\\s*)?dec|friday)",
+    "(10\\s*(:00\\s*)?a\\.?m|10:00)",
+    "(3\\s*(:00\\s*)?p\\.?m|15:00)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q3",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "Will the Haetsal daycare on the 1st floor of building 106 be without water on December 4?",
+   "gold": "no, it is exempt because it is supplied by an emergency water tank",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§2.q4",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "How much free bottled water does each household receive?",
+   "gold": "six 2-liter bottles (12 liters)",
+   "accept": [
+    "((six|6)\\b.*(2|two)\\W*(l\\b|liter|litre)|(2|two)\\W*(l\\b|liter|litre).*(six|6)\\b|12\\W*(l\\b|liter|litre))"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q5",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "Two adults from the complex go to the Cheongsu bathhouse on their shutoff day with the certificate. How much do they pay in total?",
+   "gold": "10,000 won",
+   "accept": [
+    "10[,.]?000"
+   ],
+   "reject": [
+    "18[,.]?000"
+   ]
+  },
+  {
+   "id": "§2.q6",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "What must residents bring to get the bathhouse discount?",
+   "gold": "the confirmation certificate issued by the management office",
+   "accept": [
+    "(certificate|confirmation|확인증|voucher|slip)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q7",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "관리비는 얼마나 감면됩니까?",
+   "gold": "3,500 won per household from the December maintenance fee",
+   "accept": [
+    "3[,.]?500"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q8",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "Who should residents contact with questions on weekdays, and at what number?",
+   "gold": "Manager Kim Jeong-hun, 031-555-0182",
+   "accept": [
+    "(kim|김)",
+    "555\\W?0182"
+   ],
+   "reject": [
+    "0190"
+   ]
+  },
+  {
+   "id": "§2.q9",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "밤 11시에 긴급 누수가 발생했습니다. 어느 번호로 신고해야 합니까?",
+   "gold": "the security office, 031-555-0190",
+   "accept": [
+    "555\\W?0190"
+   ],
+   "reject": [
+    "0182"
+   ]
+  },
+  {
+   "id": "§2.q10",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "From what time is the free water distributed on shutoff days?",
+   "gold": "8:00 in the morning",
+   "accept": [
+    "(8\\s*(:00\\s*)?a\\.?m|\\b0?8:00)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q1",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A client asks for a R$ 25 discount. May the assistant grant it on its own?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": [
+    "^\\W*no\\b"
+   ]
+  },
+  {
+   "id": "§3.q2",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "고객이 R$ 40 할인을 요청합니다. 누가 승인해야 합니까?",
+   "gold": "Renata Siqueira, the financial manager",
+   "accept": [
+    "renata"
+   ],
+   "reject": [
+    "f[aá]bio",
+    "juliana"
+   ]
+  },
+  {
+   "id": "§3.q3",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Should the assistant check the inbox on Monday morning?",
+   "gold": "no, the salon is closed on Mondays",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§3.q4",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Is Juliana Prado the owner of Bigode Feliz?",
+   "gold": "no, she is the head groomer; the owner is Fábio Mendes",
+   "accept": [
+    "^\\W*no\\b",
+    "f[aá]bio"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§3.q5",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "May Leandro Prado be copied on an email about next week's schedule?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§3.q6",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Num feriado, um cliente cancela 15 horas antes do horário. Quanto custa o cancelamento?",
+   "gold": "R$ 30",
+   "accept": [
+    "30"
+   ],
+   "reject": [
+    "\\bfree\\b",
+    "no charge"
+   ]
+  },
+  {
+   "id": "§3.q7",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Um tutor relata que o cão está com dificuldade para respirar depois do banho. O que o assistente deve fazer?",
+   "gold": "Call the partner vet clinic at (19) 5555-0136 itself and tell the owner to take the dog to the clinic at Rua das Acácias 210 immediately",
+   "accept": [
+    "5555\\W?0136"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q8",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "With what exact sentence must every booking confirmation start?",
+   "gold": "\"Olá! Seu horário no Bigode Feliz está confirmado.\"",
+   "accept": [
+    "hor[aá]rio no bigode feliz est[aá] confirmado"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q9",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "On Wednesday at 10:00 a client asks for a slot on Thursday at 9:00. May the assistant confirm it directly?",
+   "gold": "no, it is less than 24 hours ahead, so it must first talk with Juliana",
+   "accept": [
+    "^\\W*no\\b",
+    "juliana"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§3.q10",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "Wanneer wordt het weekrapport verstuurd en naar wie?",
+   "gold": "Every Saturday at 17:00 to Fábio Mendes",
+   "accept": [
+    "saturday",
+    "(5\\s*(:00\\s*)?p\\.?m|17:00)",
+    "f[aá]bio"
+   ],
+   "reject": [
+    "renata"
+   ]
+  },
+  {
+   "id": "§4.q1",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A room-move quote comes to exactly €450. May the assistant confirm it on its own?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": [
+    "^\\W*no\\b"
+   ]
+  },
+  {
+   "id": "§4.q2",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A complete house-move quote comes to only €400. May the assistant confirm it on its own?",
+   "gold": "no, complete house moves always need Sanne Brouwer's approval",
+   "accept": [
+    "^\\W*no\\b",
+    "sanne"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§4.q3",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "Een klant annuleert 5 dagen voor de verhuisdatum, zonder bijzondere reden. Hoeveel van de aanbetaling krijgt de klant terug?",
+   "gold": "€150 (40% of €250, i.e. €100, is withheld)",
+   "accept": [
+    "150"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q4",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer cancels 3 days before the move because of a hospital admission. How much is refunded?",
+   "gold": "the full €250 deposit",
+   "accept": [
+    "(250|full|entire|whole)"
+   ],
+   "reject": [
+    "150"
+   ]
+  },
+  {
+   "id": "§4.q5",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Is Joost Verbeek de eigenaar van De Zwaluw?",
+   "gold": "no, he is the crew leader; the owner is Ellen Hagedoorn",
+   "accept": [
+    "^\\W*no\\b",
+    "ellen"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§4.q6",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "May the assistant contact Ruud Kamphuis about a storage contract?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§4.q7",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer asks the assistant to promise a move on a Sunday. May it?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§4.q8",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "How far ahead of the moving date must a request for a move with a piano arrive at the latest?",
+   "gold": "10 working days",
+   "accept": [
+    "\\b10\\b|\\bten\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q9",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Durante a mudança, o cliente sente cheiro de gás. O que o assistente deve fazer?",
+   "gold": "Call the outage service 0800-555-0173 itself and tell the customer everyone must leave the building and nobody may use light switches",
+   "accept": [
+    "0800\\W?555\\W?0173"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q10",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "When is the weekly overview sent and to whom?",
+   "gold": "Every Monday at 9:00 to Ellen Hagedoorn",
+   "accept": [
+    "monday",
+    "(9\\s*(:00\\s*)?a\\.?m|\\b0?9:00)",
+    "ellen"
+   ],
+   "reject": [
+    "sanne"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,133 @@
+TEXT:
+§1
+Weekly supplier order routine Hilltop Café Thursday at 2 p.m. Central open Stock sheet Suppliers inbox Gmail every item stock below reorder level add to draft order for matching supplier "Weekly Order" template Never send order without Rosa's approval post draft in approval card wait If order over $600 ask Daniel accounting look before Rosa approves don't copy on supplier email change quantities up to 10% to reach supplier's minimum order never switch to different product or brand If supplier price increase don't accept reply forward to Rosa Rosa café manager not owner owner Kevin Brandt never contacted about orders If Stock sheet updated since Monday stop tell Rosa Don't place orders by phone Drafts ready by 4 p.m. Thursday last Thursday month send Rosa total month's order costs
+
+§2
+本市地铁5号线南延段将于12月28日开通试运营。新线全长9.6公里,设6座车站,项目总投资约68亿元,从市中心到高铁南站的时间将由50分钟缩短到25分钟。试运营期间,早上6点到晚上10点运营,高峰时段每4分钟一班。头一个月所有乘客免费乘坐,原计划去年国庆开通
+
+§3
+Clara : récapitule week-end au chalet part vendredi 23 janvier rendez-vous 17 h devant chez moi
+ Clara prend deux voitures mienne et Hugo chalet à Morzine trois heures route
+ Hugo : OK moi pneus neige'arrière passe au garage mercredi
+ Clara location coûte 840 € week-end 120 € chacun nous sept. Virez-moi avant 15 janvier
+ Inès :'occupe courses samedi soir fondue tout monde Quelqu'un végétarien ?
+ Malik : Moi fondue va
+ Clara : Pas'animaux dans chalet Inès chien reste chez parents
+ Hugo :'an dernier oublié chaînes restés bloqués deux heures cette fois les prends
+ Clara rend clés dimanche avant 11 h au propriétaire M. Perrin
+
+§4
+Junta de Freguesia de Vila Nova da Serra informa piscina municipal coberta fechar 2 a 30 de março para substituição sistema de aquecimento vereadora do Desporto Ana Lopes obra custa 410 mil euros 75% de fundos europeus encerramento aulas de natação para crianças passam para piscina de Ribeirinha transporte gratuito terças e quintas mensalidades de março não cobradas utentes mais 65 anos podem usar ginásio pavilhão sem custo adicional última obra piscina 2019 terminou duas semanas antes reabertura para 31 de março entrada livre
+
+§5
+Procedura asystenta zgłoszenia serwisowe „Termo-Lux”. dzień roboczy 8:00 sprawdź skrzynkę serwis@termo-lux Zgłoszenia awarii pieców wpisać kalendarza techników wolny termin trzech dni klient zgłasza zapach gazu nie umawiaj wizyty każ zadzwonić 992 powiadom Pana Nowaka nie podawaj cen napraw robi Pani Wiśniewska przesunąć wizytę jeden dzień jeśli klient poprosi nie odwołuj bez zgody Nowaka więcej niż 12 wizyt dzień napisz do Pana Nowaka Nowak kierownik serwisu nie właściciel właścicielką Pani Zielińska dodawać maili klientów Do 15:00 wyślij listę wizyt następny dzień
+
+QUESTIONS (each is about the section named in its ID):
+§1.en1: When does this routine run?
+§1.en2: Which template do you use for draft orders?
+§1.en3: A draft order is ready and Rosa has not answered yet. Should you send it?
+§1.en4: An order totals $450. Does Daniel need to look at it?
+§1.en5: An order totals $750. Who must look at it, and should Daniel be copied on the email to the supplier?
+§1.en6: To reach a supplier's minimum, may you raise a quantity by 8%? May you switch to a cheaper brand?
+§1.en7: A supplier emails announcing a price increase. What do you do?
+§1.en8: Who is the owner, and may you email him about an order?
+§1.en9: How should you refer to Rosa?
+§1.en10: It is Thursday and the Stock sheet was last updated on Saturday. What do you do?
+§1.en11: A supplier's email is down. May you place the order by phone?
+§1.en12: By when must drafts be ready, and what extra report is due on the last Thursday of the month?
+§1.es1: ¿Cuándo se ejecuta esta rutina?
+§1.es2: ¿Qué plantilla usas para los borradores de pedido?
+§1.es3: Un borrador está listo y Rosa aún no ha respondido. ¿Debes enviarlo?
+§1.es4: Un pedido suma 450 $. ¿Tiene que revisarlo Daniel?
+§1.es5: Un pedido suma 750 $. ¿Quién debe revisarlo y hay que poner a Daniel en copia del correo al proveedor?
+§1.es6: Para llegar al mínimo de un proveedor, ¿puedes subir una cantidad un 8 %? ¿Puedes cambiar a una marca más barata?
+§1.es7: Un proveedor anuncia una subida de precio por correo. ¿Qué haces?
+§1.es8: ¿Quién es el dueño y puedes escribirle sobre un pedido?
+§1.es9: ¿Cómo debes referirte a Rosa?
+§1.es10: Es jueves y la hoja de Stock se actualizó por última vez el sábado. ¿Qué haces?
+§1.es11: El correo de un proveedor no funciona. ¿Puedes hacer el pedido por teléfono?
+§1.es12: ¿Para cuándo deben estar listos los borradores y qué informe extra toca el último jueves del mes?
+§2.en1: When does the Line 5 southern extension open for trial operation?
+§2.en2: How long is the new section and how many stations does it have?
+§2.en3: Between which two stations does it run?
+§2.en4: Who gave the details and what is his role?
+§2.en5: What is the total investment and who pays a third?
+§2.en6: How much shorter will the trip from the city centre to the high-speed south station be?
+§2.en7: During trial operation, what are the hours and the peak frequency?
+§2.en8: Is the first month free, and do riders still need to tap their card?
+§2.en9: Why was the opening delayed, and from when?
+§2.en10: What happens to bus lines along the route?
+§2.zh1: 5号线南延段什么时候开通试运营？
+§2.zh2: 新线全长多少，设几座车站？
+§2.zh3: 新线从哪个站通到哪个站？
+§2.zh4: 谁介绍的情况？他是什么职务？
+§2.zh5: 总投资多少？谁承担三分之一？
+§2.zh6: 从市中心到高铁南站的时间会怎样变化？
+§2.zh7: 试运营期间运营时间和高峰班次是怎样的？
+§2.zh8: 头一个月免费吗？还需要刷卡进站吗？
+§2.zh9: 为什么推迟开通？原计划什么时候？
+§2.zh10: 沿线公交线路会怎样？
+§3.en1: When and where does the group meet to leave?
+§3.en2: Where is the chalet and how long is the drive?
+§3.en3: Whose cars are they taking?
+§3.en4: Why does Hugo need to go to the garage, and when?
+§3.en5: How much does each person pay, how many people are there, and by when?
+§3.en6: Who buys food for Saturday dinner, and what is the meal?
+§3.en7: Is anyone vegetarian, and is the meal a problem for them?
+§3.en8: Can Inès bring her dog?
+§3.en9: What happened last year, and what will Hugo do this time?
+§3.en10: When and to whom are the keys returned?
+§3.fr1: Quand et où le groupe se retrouve-t-il pour partir ?
+§3.fr2: Où est le chalet et combien de temps de route ?
+§3.fr3: Quelles voitures prennent-ils ?
+§3.fr4: Pourquoi Hugo doit-il passer au garage, et quand ?
+§3.fr5: Combien paie chacun, combien sont-ils, et avant quand ?
+§3.fr6: Qui fait les courses pour samedi soir, et quel est le repas ?
+§3.fr7: Quelqu'un est-il végétarien, et le repas lui pose-t-il problème ?
+§3.fr8: Inès peut-elle amener son chien ?
+§3.fr9: Que s'est-il passé l'an dernier, et que fera Hugo cette fois ?
+§3.fr10: Quand et à qui rend-on les clés ?
+§4.en1: Which facility closes, when, and why?
+§4.en2: Who is the official quoted and what is her role?
+§4.en3: How much does the work cost and what share comes from European funds?
+§4.en4: Where do children's swimming lessons move, and how do the children get there?
+§4.en5: Is free transport available on Mondays?
+§4.en6: Will March fees be charged?
+§4.en7: A 70-year-old member wants to use the pavilion gym in March. Is there an extra charge?
+§4.en8: A 60-year-old asks the same. Does the free gym offer apply to them?
+§4.en9: How did the last works in 2019 go?
+§4.en10: When does the pool reopen and what is special that day?
+§4.pt1: Que instalação fecha, quando e porquê?
+§4.pt2: Quem é a responsável citada e qual o seu cargo?
+§4.pt3: Quanto custa a obra e que parte vem de fundos europeus?
+§4.pt4: Para onde passam as aulas de natação das crianças e como chegam lá?
+§4.pt5: Há transporte gratuito às segundas-feiras?
+§4.pt6: As mensalidades de março serão cobradas?
+§4.pt7: Um utente de 70 anos quer usar o ginásio do pavilhão em março. Paga mais?
+§4.pt8: Um utente de 60 anos pergunta o mesmo. A oferta aplica-se?
+§4.pt9: Como correu a última obra, em 2019?
+§4.pt10: Quando reabre a piscina e o que há de especial nesse dia?
+§5.en1: When does this routine run and which mailbox do you check?
+§5.en2: A boiler-failure ticket arrives and there is a free technician slot in two days. May you book it yourself?
+§5.en3: Same, but the first free slot is in five days. May you book it yourself?
+§5.en4: A customer reports a smell of gas. What do you do?
+§5.en5: A customer asks how much a repair will cost. Do you answer, and who does?
+§5.en6: A customer asks to move their visit by one day. May you do it?
+§5.en7: A customer asks to cancel their visit. May you cancel it yourself?
+§5.en8: The calendar shows exactly 12 visits for Friday. Must you write to Mr Nowak right away?
+§5.en9: Who is the owner, and may you copy her on emails to customers?
+§5.en10: How should you describe Mr Nowak?
+§5.en11: What must you send by 3 p.m., and to whom?
+§5.pl1: Kiedy działa ta procedura i którą skrzynkę sprawdzasz?
+§5.pl2: Przychodzi zgłoszenie awarii pieca, a wolny termin technika jest za dwa dni. Czy możesz sam go wpisać?
+§5.pl3: To samo, ale pierwszy wolny termin jest za pięć dni. Czy możesz sam go wpisać?
+§5.pl4: Klient zgłasza zapach gazu. Co robisz?
+§5.pl5: Klient pyta, ile będzie kosztować naprawa. Czy odpowiadasz i kto to robi?
+§5.pl6: Klient prosi o przesunięcie wizyty o jeden dzień. Czy możesz to zrobić?
+§5.pl7: Klient prosi o odwołanie wizyty. Czy możesz sam ją odwołać?
+§5.pl8: W kalendarzu jest dokładnie 12 wizyt na piątek. Czy musisz od razu pisać do Pana Nowaka?
+§5.pl9: Kto jest właścicielem i czy możesz dodać ją do kopii maili do klientów?
+§5.pl10: Jak należy określać Pana Nowaka?
+§5.pl11: Co musisz wysłać do 15:00 i komu?
+
+Answer using only the TEXT. Reply with one JSON object only, mapping each question ID to a short answer string. Answer each question in the language named in its ID: ".en" English, ".es" Spanish, ".zh" Chinese, ".fr" French, ".pt" Portuguese, ".pl" Polish. If the TEXT does not say, answer "not stated".

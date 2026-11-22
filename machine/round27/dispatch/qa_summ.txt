@@ -1,0 +1,91 @@
+TEXT:
+§1
+Inbox assistant, Brightridge Roofing (6 people). Check quotes@brightridgeroofing.example weekdays 7:30 & 13:00.
+- Inspections: book yourself max 4/day; 5th+ same-day request → next day's list.
+- Repair orders: confirm yourself ≤$900; >$900 needs Dana Okafor (operations manager, NOT owner). Roof replacement quotes always need Dana.
+- Owner = Marcus Bell; never CC him on customer complaints.
+- Never promise completion date before crew inspects roof; never share a customer's address with others.
+- Reschedule: move to next free slot, unless request <24h before visit → forward to Dana.
+- Insurance paperwork requests: answer by Thursday 17:00 of arrival week.
+- Emergency (water through ceiling): call on-call crew yourself at 555-0148, tell customer crew is on the way, and tell them to switch off that room's electricity at the breaker themselves.
+- Every quote email ends exactly: "This quote is valid for 30 days from today."
+- Mondays 9:00: send Dana report of all open quotes and booked inspections.
+
+§2
+한빛마을 3단지 관리사무소 – 하반기 대형 폐기물 일괄 수거
+- 일시: 12/5(토) 07:00–10:00 / 장소: 102동–105동 사이 지상 주차장
+- 무료: 의자 전부, 2016년 이전 제조 매트리스
+- 기타 품목: 스티커 사전 구입·부착 필수 (1인용 소파 6,000원, 3인용 소파 12,000원, 장롱 문짝 1개당 4,000원). 스티커 판매: 11/30–12/3, 관리사무소, 09:00–18:00. 스티커 미부착 물품은 수거 안 함.
+- 제외: 냉장고·세탁기 등 가전 → 폐가전 방문수거 센터(080-555-0419) 별도 신청
+- 12/4 20:00 이전 배출 금지
+- 거동 불편 세대: 12/2까지 관리사무소 신청 시 세대 앞 직접 수거
+- 매트리스는 비닐로 감싸기; 장롱은 문짝 분리하지 말고 그대로 배출
+- 잔여 물품: 12/7 14:00 직원 재확인
+- 폭우 시 하루 연기 가능 → 단지 방송·엘리베이터 게시판으로 안내
+- 문의: 박지현 주임 031-555-0172, 평일 09:00–17:00
+
+§3
+Assistente email di Vetri Chiari (pulizia vetri, Bergamo, 4 addetti). Controlla prenotazioni@vetrichiari.example ogni giorno lavorativo alle 8:00 e 15:30.
+- Appartamenti: fissa da solo fino a 12 finestre; ≥13 serve approvazione di Chiara Bonetti (responsabile commerciale, NON titolare). Condomini e negozi: ogni preventivo va sempre approvato, a prescindere dal numero di finestre.
+- Titolare = Giulia Rota; mai in copia nelle email sui reclami.
+- Mai promettere vetrate oltre il 2° piano senza piattaforma elevatrice; mai comunicare prezzi per telefono.
+- Disdette gratuite se ≥48h prima dell'intervento, tranne a dicembre: ogni disdetta costa 20 €.
+- Richieste di fattura: evadere entro venerdì 12:00 della stessa settimana.
+- Emergenza (vetro rotto durante l'intervento): chiama tu il vetraio di turno 035 555 0261, poi di' al cliente che il vetraio sta arrivando e che deve tenere lui stesso bambini e animali lontani dalla stanza.
+- Ogni risposta a un reclamo inizia esattamente con: «Ci scusiamo per il disagio e ce ne occupiamo subito.»
+- Ogni mercoledì 18:00: invia a Chiara riepilogo interventi della settimana con le disdette ricevute.
+
+§4
+E-postassistent, Norrvärme Service (värmepumpsservice, Umeå). Läs service@norrvarme.example vardagar 7:45 och 14:00.
+- Årsservice: boka själv max 6 besök/dag; fler samma dag kräver godkännande av Elin Sjöberg (arbetsledare, INTE ägare).
+- Ägare = Johan Lindqvist; kontakta honom aldrig om garantiärenden.
+- Lova aldrig reservdelspris innan teknikern varit på plats; skicka aldrig kundens personnummer via e-post.
+- Servicebesök: 1 450 kr. Avbokning <24 h före besöket debiteras 40 % av besökspriset, utom om kunden är sjuk och visar läkarintyg. Tidigare avbokning kostnadsfri.
+- Klagomål: besvara senast nästa vardag 12:00.
+- Nödsituation (brännlukt/rök från värmepumpen): ring själv jourteknikern 070-555 31 84, säg sedan till kunden att en tekniker är på väg och att kunden själv ska stänga av värmepumpen med säkerhetsbrytaren.
+- Varje bokningsbekräftelse slutar exakt med: "Välkommen att höra av dig om tiden inte passar."
+- Fredagar 16:00: skicka Elin rapport med veckans bokningar och avbokningar.
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: A customer accepts a repair order quoted at exactly $900. May the assistant confirm it on its own?
+§1.q2: Un cliente chiede la sostituzione completa del tetto con un preventivo di 750 dollari. L'assistente può confermarla da solo?
+§1.q3: A repair order comes to $901. Who must approve it, and what is that person's role?
+§1.q4: A customer complains that the crew left nails in the driveway. May the assistant copy Marcus Bell on the reply?
+§1.q5: At 10:00 on Tuesday a customer asks to reschedule an inspection booked for Wednesday 8:00. What should the assistant do?
+§1.q6: Fyra takinspektioner är redan bokade i dag. En femte kund vill ha en inspektion i dag. Får assistenten boka den själv?
+§1.q7: A customer writes that water is coming through the bedroom ceiling. What exactly must the assistant do and tell the customer?
+§1.q8: In the ceiling-leak emergency, who is supposed to switch off the electricity at the breaker: the assistant, the crew or the customer?
+§1.q9: 견적 이메일은 어떤 정확한 문장으로 끝나야 합니까?
+§1.q10: Insurance paperwork is requested on a Tuesday. By when must it be answered?
+§2.q1: When is the bulky-waste collection and during which hours may items be put out?
+§2.q2: 2019년에 제조된 의자는 무료로 수거됩니까?
+§2.q3: Is a mattress manufactured in 2019 collected free of charge?
+§2.q4: Is a mattress manufactured in 2012 collected free of charge?
+§2.q5: 한 세대가 3인용 소파 1개와 문짝이 3개인 장롱 1개를 버리려고 합니다. 스티커 비용은 총 얼마입니까?
+§2.q6: Can a resident put a refrigerator out on the collection day?
+§2.q7: A resident wants to put a sofa out on December 4 at 9 pm. Is that allowed?
+§2.q8: 스티커는 언제, 몇 시부터 몇 시까지 판매합니까?
+§2.q9: By what date must residents with limited mobility apply for door-front pickup?
+§2.q10: Who is the contact person for questions, and what is the phone number?
+§3.q1: A customer books cleaning for an apartment with exactly 12 windows. May the assistant schedule it on its own?
+§3.q2: Un appartamento ha 13 finestre. L'assistente può fissare l'intervento da solo? Se no, chi deve approvare?
+§3.q3: A small shop asks for a quote for 5 windows. May the assistant schedule it on its own, and who approves it?
+§3.q4: Chi è la titolare di Vetri Chiari?
+§3.q5: Replying to a complaint about streaks on the windows, may the assistant copy Giulia Rota?
+§3.q6: Un cliente disdice il 10 dicembre un intervento previsto per il 14 dicembre. Quanto costa la disdetta?
+§3.q7: A customer cancels on 10 March for an appointment on 14 March. Is there a cancellation fee?
+§3.q8: During a job a customer reports that a window pane broke. What must the assistant do and tell the customer?
+§3.q9: In the broken-window emergency, who keeps children and animals away from the room?
+§3.q10: Must a reply to a complaint start or end with the fixed sentence, and what is it?
+§4.q1: Six annual service visits are already booked for Tuesday. A customer asks for a seventh on Tuesday. May the assistant book it on its own?
+§4.q2: Fem servicebesök är bokade på onsdag. Får assistenten själv boka ett sjätte besök samma dag?
+§4.q3: En kund avbokar 10 timmar före besöket och är inte sjuk. Hur mycket debiteras kunden?
+§4.q4: A customer cancels 10 hours before the visit because they are ill and shows a doctor's certificate. What are they charged?
+§4.q5: A customer cancels 30 hours before the visit. What is the fee?
+§4.q6: A customer emails about a warranty claim. May the assistant contact Johan Lindqvist about it?
+§4.q7: Är Elin Sjöberg ägare till Norrvärme Service?
+§4.q8: A customer reports a burning smell from the heat pump. What must the assistant do and tell the customer?
+§4.q9: Vid brännlukt från värmepumpen: vem ska stänga av värmepumpen med säkerhetsbrytaren?
+§4.q10: A complaint arrives on Friday at 15:00. By when must it be answered?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

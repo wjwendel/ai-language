@@ -1,0 +1,86 @@
+{
+ "original_r1": {
+  "§1.q2": [
+   1,
+   "faithful to the original: the original says 'anything above $350 needs approval' without naming the approver for cushion quotes; the gold (Marta) over-infers; the original-text reader gave the same answer"
+  ],
+  "§2.q1": [
+   1,
+   "regex false negative: correct time written as 'a.m./p.m.' with ':00' or as '16h/17h'"
+  ],
+  "§2.q8": [
+   1,
+   "regex false negative: correct time written as 'a.m./p.m.' with ':00' or as '16h/17h'"
+  ]
+ },
+ "mnc25_r1": {
+  "§1.q2": [
+   1,
+   "faithful to the original: the original says 'anything above $350 needs approval' without naming the approver for cushion quotes; the gold (Marta) over-infers; the original-text reader gave the same answer"
+  ]
+ },
+ "mnc25_r2": {
+  "§1.q2": [
+   1,
+   "faithful to the original: the original says 'anything above $350 needs approval' without naming the approver for cushion quotes; the gold (Marta) over-infers; the original-text reader gave the same answer"
+  ],
+  "§2.q7": [
+   1,
+   "correct: 佐伯美穂 is Saeki Miho, number correct"
+  ]
+ },
+ "mnc25x_r1": {
+  "§1.q2": [
+   0,
+   "REAL S ERROR: named Lena Harlow (owner) as approver; the original names no approver for cushion quotes > $350 (invented actor)"
+  ],
+  "§1.q9": [
+   1,
+   "regex false negative: correct time written as 'a.m./p.m.' with ':00' or as '16h/17h'"
+  ],
+  "§4.q10": [
+   1,
+   "regex false negative: correct time written as 'a.m./p.m.' with ':00' or as '16h/17h'"
+  ]
+ },
+ "mnc25x_r2": {
+  "§1.q2": [
+   1,
+   "faithful to the original: the original says 'anything above $350 needs approval' without naming the approver for cushion quotes; the gold (Marta) over-infers; the original-text reader gave the same answer"
+  ]
+ },
+ "terse_r1": {
+  "§1.q2": [
+   1,
+   "faithful to the original: the original says 'anything above $350 needs approval' without naming the approver for cushion quotes; the gold (Marta) over-infers; the original-text reader gave the same answer"
+  ]
+ },
+ "terse_r2": {
+  "§1.q2": [
+   1,
+   "faithful to the original: the original says 'anything above $350 needs approval' without naming the approver for cushion quotes; the gold (Marta) over-infers; the original-text reader gave the same answer"
+  ]
+ },
+ "summ_r1": {
+  "§1.q2": [
+   1,
+   "faithful to the original: the original says 'anything above $350 needs approval' without naming the approver for cushion quotes; the gold (Marta) over-infers; the original-text reader gave the same answer"
+  ]
+ },
+ "llm066_r1": {
+  "§2.q1": [
+   1,
+   "regex false negative: correct time written as 'a.m./p.m.' with ':00' or as '16h/17h'"
+  ],
+  "§2.q8": [
+   1,
+   "regex false negative: correct time written as 'a.m./p.m.' with ':00' or as '16h/17h'"
+  ]
+ },
+ "llm05_r1": {
+  "§2.q8": [
+   1,
+   "regex false negative: correct time written as 'a.m./p.m.' with ':00' or as '16h/17h'"
+  ]
+ }
+}

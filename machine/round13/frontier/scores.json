@@ -1,0 +1,7398 @@
+{
+ "rows": [
+  {
+   "f": "a_terse_r1",
+   "id": "§1.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday and Wednesday at 9am ET",
+   "gold": "Mon and Wed 9 a.m. Eastern"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "shifts@riversidefoodbank.org",
+   "gold": "shifts@riversidefoodbank.org"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, using the \"Shift Reminder\" template",
+   "gold": "Yes"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; post in an approval card and wait until Priya approves the background check",
+   "gold": "No"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Text Marcus (warehouse lead); no, don't post in the public volunteer group",
+   "gold": "Text Marcus (warehouse lead); no public group post"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only if under 4",
+   "gold": "No"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, same-day moves are allowed if they ask",
+   "gold": "Yes"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, not without their written agreement",
+   "gold": "No (needs written agreement)"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No medical advice (tell them to call 911 if serious); email Priya within 1 hour",
+   "gold": "No medical advice; email Priya within one hour"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Elaine Foster; no, never add her",
+   "gold": "Elaine Foster; no, never"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.en11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "As the volunteer coordinator, not the director",
+   "gold": "As the volunteer coordinator, not the director"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.en12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.en13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Before Friday noon",
+   "gold": "Before Friday noon"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.en14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only on the first Monday of the month",
+   "gold": "No (first Monday only)"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.de1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Montag und Mittwoch um 9 Uhr ET",
+   "gold": "Mon and Wed 9 a.m. Eastern"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.de2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "shifts@riversidefoodbank.org",
+   "gold": "shifts@riversidefoodbank.org"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.de3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja, mit der Vorlage \"Shift Reminder\"",
+   "gold": "Yes"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.de4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein; in einer Freigabekarte posten und auf Priyas Freigabe warten",
+   "gold": "No"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.de5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marcus (Lagerleiter) per SMS benachrichtigen; nein, nicht in der öffentlichen Gruppe posten",
+   "gold": "Text Marcus (warehouse lead); no public group post"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.de6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein, nur bei weniger als 4",
+   "gold": "No"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.de7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja, am selben Tag ist das erlaubt, wenn er darum bittet",
+   "gold": "Yes"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.de8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein, nicht ohne seine schriftliche Zustimmung",
+   "gold": "No (needs written agreement)"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.de9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Keine medizinische Beratung (bei Ernstfall 911 anrufen lassen); Priya innerhalb von 1 Stunde mailen",
+   "gold": "No medical advice; email Priya within one hour"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.de10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Elaine Foster; nein, niemals hinzufügen",
+   "gold": "Elaine Foster; no, never"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.de11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Als Freiwilligenkoordinatorin, nicht als Direktorin",
+   "gold": "As the volunteer coordinator, not the director"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.de12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein",
+   "gold": "No"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.de13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Vor Freitag 12 Uhr",
+   "gold": "Before Friday noon"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§1.de14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein, nur am ersten Montag im Monat",
+   "gold": "No (first Monday only)"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§2.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Jan 15 to Jul 31 next year",
+   "gold": "Jan 15 to Jul 31 next year"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§2.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The air conditioning and the roof (full replacement)",
+   "gold": "Air conditioning and the roof"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§2.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "About ¥2.4 billion; national subsidy covers 40%",
+   "gold": "About 2.4 billion yen; 40%"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§2.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Emiko Sato",
+   "gold": "佐藤恵美子 (Sato Emiko)"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§2.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2",
+   "gold": "Two"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§2.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "About 300 collection works, as a touring exhibition at the city cultural center",
+   "gold": "About 300, at the city cultural centre (touring exhibition)"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§2.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Adult ¥500; the 16-year-old high-school student is free",
+   "gold": "Adult 500 yen; student free"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§2.en8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1998; it finished 3 months late",
+   "gold": "1998; three months late"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§2.en9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Night work",
+   "gold": "Night work"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§2.en10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Aug 1; commemorative catalogue given to the first 1,000 visitors",
+   "gold": "Aug 1; first 1000 visitors get a commemorative catalogue"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§2.ja1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "来年1月15日から7月31日まで",
+   "gold": "Jan 15 to Jul 31 next year"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§2.ja2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "空調と屋根（全面的に入れ替え）",
+   "gold": "Air conditioning and the roof"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§2.ja3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "約24億円で、国が40%を補助",
+   "gold": "About 2.4 billion yen; 40%"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§2.ja4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "佐藤恵美子（Emiko Sato）",
+   "gold": "佐藤恵美子 (Sato Emiko)"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§2.ja5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2室",
+   "gold": "Two"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§2.ja6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "収蔵品約300点を市の文化センターで巡回展として公開",
+   "gold": "About 300, at the city cultural centre (touring exhibition)"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§2.ja7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "大人500円、16歳の高校生は無料",
+   "gold": "Adult 500 yen; student free"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§2.ja8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1998年で、3か月遅れた",
+   "gold": "1998; three months late"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§2.ja9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "夜間工事を行う",
+   "gold": "Night work"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§2.ja10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "8月1日；先着1,000人に記念図録を配布",
+   "gold": "Aug 1; first 1000 visitors get a commemorative catalogue"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§3.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturday March 14 at 14:00, El Olivo restaurant in Toledo",
+   "gold": "Saturday March 14, 14:00, El Olivo in Toledo"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§3.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "18 people; €35 per person",
+   "gold": "18; €35"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§3.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€17.50 (half price, under 10)",
+   "gold": "Half: €17.50"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§3.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€35 (full price)",
+   "gold": "Full price, €35"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§3.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Andrés, from Atocha station in Madrid, leaving at 11:30",
+   "gold": "Andrés, from Atocha station in Madrid, 11:30"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§3.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "A trip to Lisbon for grandma and Aunt Carmen",
+   "gold": "Trip to Lisbon for grandma and aunt Carmen"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§3.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€40 each, by Bizum to Lucía, before March 5",
+   "gold": "€40, by Bizum to Lucía, before March 5"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§3.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, it's a surprise; tell her nothing",
+   "gold": "No, it's a surprise"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§3.en9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The restaurant has no elevator and the hall is on the first floor; Andrés requested it for grandma",
+   "gold": "Andrés; no lift and the room is on the first floor"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§3.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Chocolate cake by Marta; no nuts, because Pablo is allergic",
+   "gold": "Chocolate, no nuts, Pablo is allergic"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§3.en11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Until 18:00",
+   "gold": "18:00"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§3.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "El sábado 14 de marzo a las 14:00, en el restaurante El Olivo de Toledo",
+   "gold": "Saturday March 14, 14:00, El Olivo in Toledo"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§3.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "18 personas; 35 € por persona",
+   "gold": "18; €35"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§3.es3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "17,50 € (mitad, menor de 10)",
+   "gold": "Half: €17.50"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§3.es4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "35 € (precio completo)",
+   "gold": "Full price, €35"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§3.es5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Andrés, desde la estación de Atocha en Madrid, a las 11:30",
+   "gold": "Andrés, from Atocha station in Madrid, 11:30"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§3.es6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Un viaje a Lisboa para la abuela y la tía Carmen",
+   "gold": "Trip to Lisbon for grandma and aunt Carmen"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§3.es7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "40 € cada adulto, por Bizum a Lucía, antes del 5 de marzo",
+   "gold": "€40, by Bizum to Lucía, before March 5"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§3.es8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, es sorpresa; no hay que decirle nada",
+   "gold": "No, it's a surprise"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§3.es9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "El restaurante no tiene ascensor y el salón está en la primera planta; la pidió Andrés para la abuela",
+   "gold": "Andrés; no lift and the room is on the first floor"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§3.es10",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Tarta de chocolate de Marta; sin frutos secos, porque Pablo es alérgico",
+   "gold": "Chocolate, no nuts, Pablo is allergic"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§3.es11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hasta las 18:00",
+   "gold": "18:00"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§4.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "San Lorenzo al Mare municipality; door-to-door recycling changes; from April 1",
+   "gold": "The municipality (Comune) of San Lorenzo al Mare; door-to-door sorted collection; from April 1"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§4.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marco Ferri, environment councillor",
+   "gold": "Marco Ferri, environment councillor"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§4.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "About €1.2 million per year, 10% less than the current contract",
+   "gold": "About €1.2 million a year, 10% less"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§4.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday, Wednesday and Friday",
+   "gold": "Monday, Wednesday, Friday"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§4.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, glass stays in street bins",
+   "gold": "No, it stays in the street bins"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§4.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only after 20:00",
+   "gold": "No (only after 8 p.m.)"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§4.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no later than 6:00",
+   "gold": "No (not later than 6 a.m.)"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§4.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "An extra Saturday diaper pickup",
+   "gold": "Extra nappy pickup on Saturday"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§4.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only for kids under 3",
+   "gold": "No (only under 3)"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§4.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, first a warning; then a €50 fine",
+   "gold": "No, first a warning (then a €50 fine)"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§4.en11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "At the town hall, March 10–28, free; bring your TARI bill",
+   "gold": "Town hall, March 10-28, free; bring the TARI bill"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§4.it1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Il comune di San Lorenzo al Mare; cambia la raccolta differenziata porta a porta; dal 1° aprile",
+   "gold": "The municipality (Comune) of San Lorenzo al Mare; door-to-door sorted collection; from April 1"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§4.it2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marco Ferri, assessore all'ambiente",
+   "gold": "Marco Ferri, environment councillor"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§4.it3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Circa 1,2 milioni di € l'anno, il 10% in meno del contratto attuale",
+   "gold": "About €1.2 million a year, 10% less"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§4.it4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lunedì, mercoledì e venerdì",
+   "gold": "Monday, Wednesday, Friday"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§4.it5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, il vetro resta nei contenitori stradali",
+   "gold": "No, it stays in the street bins"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§4.it6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, solo dopo le 20:00",
+   "gold": "No (only after 8 p.m.)"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§4.it7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, entro le 6:00",
+   "gold": "No (not later than 6 a.m.)"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§4.it8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Un ritiro extra dei pannolini il sabato",
+   "gold": "Extra nappy pickup on Saturday"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§4.it9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, solo per bambini sotto i 3 anni",
+   "gold": "No (only under 3)"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§4.it10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, prima un avvertimento; poi multa di 50 €",
+   "gold": "No, first a warning (then a €50 fine)"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§4.it11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "In municipio, dal 10 al 28 marzo, gratis; portare la bolletta TARI",
+   "gold": "Town hall, March 10-28, free; bring the TARI bill"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§5.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Every workday at 9:00; retour@fietsplaats.nl",
+   "gold": "Every working day 9:00; retour@fietsplaats.nl"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§5.en2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, it's within 30 days",
+   "gold": "Yes"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§5.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Send no label; refer the request to Ms De Vries",
+   "gold": "No label; put the request to Ms De Vries"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§5.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; only Mr Bakker (accounting) refunds",
+   "gold": "No; only Mr Bakker from accounting"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§5.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ask for photos and alert Ms De Vries immediately; no, admit no fault",
+   "gold": "Ask for photos, warn Ms De Vries immediately, do not admit fault"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§5.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, up to 10% is allowed",
+   "gold": "Yes"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§5.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, max 10%",
+   "gold": "No (max 10%)"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§5.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, never for a return",
+   "gold": "No"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§5.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Pieter Jansen; no, never cc him",
+   "gold": "Pieter Jansen; no, never"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§5.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "As the customer service manager, not the owner",
+   "gold": "As the customer service manager, not the owner"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§5.en11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "An overview of the day's returns, to Ms De Vries",
+   "gold": "Overview of the day's returns to Ms De Vries"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§5.nl1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Elke werkdag om 9:00; retour@fietsplaats.nl",
+   "gold": "Every working day 9:00; retour@fietsplaats.nl"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§5.nl2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja, binnen 30 dagen",
+   "gold": "Yes"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§5.nl3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Geen label sturen; het verzoek doorverwijzen naar mevrouw De Vries",
+   "gold": "No label; put the request to Ms De Vries"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§5.nl4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee; alleen meneer Bakker (boekhouding) betaalt terug",
+   "gold": "No; only Mr Bakker from accounting"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§5.nl5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Om foto's vragen en mevrouw De Vries direct waarschuwen; nee, geen schuld erkennen",
+   "gold": "Ask for photos, warn Ms De Vries immediately, do not admit fault"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§5.nl6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja, maximaal 10% mag",
+   "gold": "Yes"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§5.nl7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee, maximaal 10%",
+   "gold": "No (max 10%)"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§5.nl8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee, nooit bij een retour",
+   "gold": "No"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§5.nl9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Pieter Jansen; nee, nooit in cc",
+   "gold": "Pieter Jansen; no, never"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§5.nl10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Als klantenservicemanager, niet als eigenaar",
+   "gold": "As the customer service manager, not the owner"
+  },
+  {
+   "f": "a_terse_r1",
+   "id": "§5.nl11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Een overzicht van de retouren van de dag, aan mevrouw De Vries",
+   "gold": "Overview of the day's returns to Ms De Vries"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday and Wednesday at 9 a.m. Eastern",
+   "gold": "Mon and Wed 9 a.m. Eastern"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.en2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "The shifts@riversidefoodbank inbox",
+   "gold": "shifts@riversidefoodbank.org"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, using the \"Shift Reminder\" template",
+   "gold": "Yes"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; post an approval card and wait for Priya's background check approval",
+   "gold": "No"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Text Marcus (warehouse lead); no, don't post in the public volunteer group",
+   "gold": "Text Marcus (warehouse lead); no public group post"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only if fewer than 4",
+   "gold": "No"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, not to a different day without written agreement",
+   "gold": "No (needs written agreement)"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No medical advice (call 911 if needed); email Priya within one hour",
+   "gold": "No medical advice; email Priya within one hour"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Elaine Foster; no, she must not be added to volunteer emails",
+   "gold": "Elaine Foster; no, never"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.en11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "As the volunteer coordinator, not the director",
+   "gold": "As the volunteer coordinator, not the director"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.en12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.en13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Before Friday noon",
+   "gold": "Before Friday noon"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.en14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only on the first Monday of the month",
+   "gold": "No (first Monday only)"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.de1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Montag und Mittwoch um 9 Uhr Eastern",
+   "gold": "Mon and Wed 9 a.m. Eastern"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.de2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Das Postfach shifts@riversidefoodbank",
+   "gold": "shifts@riversidefoodbank.org"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.de3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja, mit der Vorlage \"Shift Reminder\"",
+   "gold": "Yes"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.de4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein; Freigabekarte posten und auf Priyas Freigabe der Hintergrundprüfung warten",
+   "gold": "No"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.de5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marcus (Lagerleiter) per SMS informieren; nein, nicht in der öffentlichen Gruppe posten",
+   "gold": "Text Marcus (warehouse lead); no public group post"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.de6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein, nur bei weniger als 4",
+   "gold": "No"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.de7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja",
+   "gold": "Yes"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.de8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein, nicht an einen anderen Tag ohne schriftliche Zustimmung",
+   "gold": "No (needs written agreement)"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.de9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Keine medizinische Beratung (ggf. 911 anrufen); Priya innerhalb einer Stunde mailen",
+   "gold": "No medical advice; email Priya within one hour"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.de10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Elaine Foster; nein, sie darf nicht hinzugefügt werden",
+   "gold": "Elaine Foster; no, never"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.de11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Als Freiwilligenkoordinatorin, nicht als Direktorin",
+   "gold": "As the volunteer coordinator, not the director"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.de12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein",
+   "gold": "No"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.de13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Vor Freitag 12 Uhr",
+   "gold": "Before Friday noon"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§1.de14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein, nur am ersten Montag im Monat",
+   "gold": "No (first Monday only)"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§2.en1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Jan 15 to Jul 31 next year"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§2.en2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Air conditioning and the roof"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§2.en3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "About 2.4 billion yen; 40%"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§2.en4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "佐藤恵美子 (Sato Emiko)"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§2.en5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Two"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§2.en6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "About 300, at the city cultural centre (touring exhibition)"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§2.en7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Adult 500 yen; student free"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§2.en8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "1998; three months late"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§2.en9",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Night work"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§2.en10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Aug 1; first 1000 visitors get a commemorative catalogue"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§2.ja1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Jan 15 to Jul 31 next year"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§2.ja2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Air conditioning and the roof"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§2.ja3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "About 2.4 billion yen; 40%"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§2.ja4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "佐藤恵美子 (Sato Emiko)"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§2.ja5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Two"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§2.ja6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "About 300, at the city cultural centre (touring exhibition)"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§2.ja7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Adult 500 yen; student free"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§2.ja8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "1998; three months late"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§2.ja9",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Night work"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§2.ja10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Aug 1; first 1000 visitors get a commemorative catalogue"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§3.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturday March 14 at 14:00, El Olivo restaurant in Toledo",
+   "gold": "Saturday March 14, 14:00, El Olivo in Toledo"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§3.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "18; €35 per person",
+   "gold": "18; €35"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§3.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€17.50 (half price, under 10)",
+   "gold": "Half: €17.50"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§3.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€35",
+   "gold": "Full price, €35"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§3.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Andrés, from Madrid (Atocha station), at 11:30",
+   "gold": "Andrés, from Atocha station in Madrid, 11:30"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§3.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "A trip to Lisbon for grandma and Aunt Carmen",
+   "gold": "Trip to Lisbon for grandma and aunt Carmen"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§3.en7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "€40 per adult, before March 5; to whom not stated",
+   "gold": "€40, by Bizum to Lucía, before March 5"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§3.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, it's a surprise",
+   "gold": "No, it's a surprise"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§3.en9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The restaurant has no elevator and the hall is on the first floor; Andrés requested it for grandma",
+   "gold": "Andrés; no lift and the room is on the first floor"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§3.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Chocolate cake (made by Marta), without nuts because Pablo is allergic",
+   "gold": "Chocolate, no nuts, Pablo is allergic"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§3.en11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Until 18:00",
+   "gold": "18:00"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§3.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sábado 14 de marzo a las 14:00, restaurante El Olivo, Toledo",
+   "gold": "Saturday March 14, 14:00, El Olivo in Toledo"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§3.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "18; 35 € por persona",
+   "gold": "18; €35"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§3.es3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "17,50 € (mitad, menor de 10)",
+   "gold": "Half: €17.50"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§3.es4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "35 €",
+   "gold": "Full price, €35"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§3.es5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Andrés, desde Madrid (estación de Atocha), a las 11:30",
+   "gold": "Andrés, from Atocha station in Madrid, 11:30"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§3.es6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Un viaje a Lisboa para la abuela y la tía Carmen",
+   "gold": "Trip to Lisbon for grandma and aunt Carmen"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§3.es7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "40 € cada adulto, antes del 5 de marzo; a quién no se indica",
+   "gold": "€40, by Bizum to Lucía, before March 5"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§3.es8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, es sorpresa",
+   "gold": "No, it's a surprise"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§3.es9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "El restaurante no tiene ascensor y el salón está en la primera planta; lo pidió Andrés para la abuela",
+   "gold": "Andrés; no lift and the room is on the first floor"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§3.es10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tarta de chocolate (la hace Marta), sin nueces porque Pablo es alérgico",
+   "gold": "Chocolate, no nuts, Pablo is allergic"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§3.es11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hasta las 18:00",
+   "gold": "18:00"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§4.en1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "San Lorenzo al Mare; door-to-door recycling changes; from April 1",
+   "gold": "The municipality (Comune) of San Lorenzo al Mare; door-to-door sorted collection; from April 1"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§4.en2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Marco Ferri; role not stated",
+   "gold": "Marco Ferri, environment councillor"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§4.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€1.2 million; 10% less",
+   "gold": "About €1.2 million a year, 10% less"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§4.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday, Wednesday and Friday",
+   "gold": "Monday, Wednesday, Friday"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§4.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, glass goes in street bins",
+   "gold": "No, it stays in the street bins"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§4.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only after 20:00",
+   "gold": "No (only after 8 p.m.)"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§4.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no later than 6 a.m.",
+   "gold": "No (not later than 6 a.m.)"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§4.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "An extra Saturday diaper pickup",
+   "gold": "Extra nappy pickup on Saturday"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§4.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No (children under 3 only)",
+   "gold": "No (only under 3)"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§4.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, first a warning, then a €50 fine",
+   "gold": "No, first a warning (then a €50 fine)"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§4.en11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Free at the town hall, March 10–28; bring the TARI bill",
+   "gold": "Town hall, March 10-28, free; bring the TARI bill"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§4.it1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "San Lorenzo al Mare; cambia la raccolta differenziata porta a porta; dal 1° aprile",
+   "gold": "The municipality (Comune) of San Lorenzo al Mare; door-to-door sorted collection; from April 1"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§4.it2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Marco Ferri; ruolo non indicato",
+   "gold": "Marco Ferri, environment councillor"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§4.it3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,2 milioni di euro; il 10% in meno",
+   "gold": "About €1.2 million a year, 10% less"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§4.it4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lunedì, mercoledì e venerdì",
+   "gold": "Monday, Wednesday, Friday"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§4.it5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, il vetro va nelle campane stradali",
+   "gold": "No, it stays in the street bins"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§4.it6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, solo dopo le 20",
+   "gold": "No (only after 8 p.m.)"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§4.it7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, non oltre le 6 del mattino",
+   "gold": "No (not later than 6 a.m.)"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§4.it8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Un ritiro extra dei pannolini il sabato",
+   "gold": "Extra nappy pickup on Saturday"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§4.it9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No (solo bambini sotto i 3 anni)",
+   "gold": "No (only under 3)"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§4.it10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, prima un avviso, poi una multa di 50 euro",
+   "gold": "No, first a warning (then a €50 fine)"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§4.it11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Gratis in municipio, dal 10 al 28 marzo; portare la bolletta TARI",
+   "gold": "Town hall, March 10-28, free; bring the TARI bill"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§5.en1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "At 9:00 (days not stated); retour@fietsplaats",
+   "gold": "Every working day 9:00; retour@fietsplaats.nl"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§5.en2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, within 30 days",
+   "gold": "Yes"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§5.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No label; refer the request to De Vries",
+   "gold": "No label; put the request to Ms De Vries"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§5.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; Bakker (accounting) handles refunds",
+   "gold": "No; only Mr Bakker from accounting"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§5.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ask for photos, warn De Vries; no, don't admit fault",
+   "gold": "Ask for photos, warn Ms De Vries immediately, do not admit fault"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§5.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes (up to 10%)",
+   "gold": "Yes"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§5.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, max 10%",
+   "gold": "No (max 10%)"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§5.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, never for a return",
+   "gold": "No"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§5.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Pieter Jansen; no, not on customer emails",
+   "gold": "Pieter Jansen; no, never"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§5.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "As customer service manager, not owner",
+   "gold": "As the customer service manager, not the owner"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§5.en11",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "An overview of returns; recipient not stated",
+   "gold": "Overview of the day's returns to Ms De Vries"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§5.nl1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Om 9:00 (dagen niet vermeld); retour@fietsplaats",
+   "gold": "Every working day 9:00; retour@fietsplaats.nl"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§5.nl2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja, binnen 30 dagen",
+   "gold": "Yes"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§5.nl3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Geen label; aanvraag naar De Vries doorsturen",
+   "gold": "No label; put the request to Ms De Vries"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§5.nl4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee; Bakker (boekhouding) doet terugbetalingen",
+   "gold": "No; only Mr Bakker from accounting"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§5.nl5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Om foto's vragen, De Vries waarschuwen; nee, geen schuld erkennen",
+   "gold": "Ask for photos, warn Ms De Vries immediately, do not admit fault"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§5.nl6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja (maximaal 10%)",
+   "gold": "Yes"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§5.nl7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee, maximaal 10%",
+   "gold": "No (max 10%)"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§5.nl8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee, nooit bij een retour",
+   "gold": "No"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§5.nl9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Pieter Jansen; nee, niet bij klantmails",
+   "gold": "Pieter Jansen; no, never"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§5.nl10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Als klantenservicemanager, niet als eigenaar",
+   "gold": "As the customer service manager, not the owner"
+  },
+  {
+   "f": "c_llmlingua2_r0.5_r1",
+   "id": "§5.nl11",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Een overzicht van de retouren; ontvanger niet vermeld",
+   "gold": "Overview of the day's returns to Ms De Vries"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mondays and Wednesdays at 9:00 ET",
+   "gold": "Mon and Wed 9 a.m. Eastern"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "shifts@riversidefoodbank.org",
+   "gold": "shifts@riversidefoodbank.org"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; wait for Priya's approval (approval card)",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Text Marcus, the warehouse lead; no, don't post in the public volunteer group",
+   "gold": "Text Marcus (warehouse lead); no public group post"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No (only if fewer than 4)",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, if they ask (same day)",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, not without their written agreement",
+   "gold": "No (needs written agreement)"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No medical advice (if serious, tell them to call 911); email Priya within 1 hour",
+   "gold": "No medical advice; email Priya within one hour"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Elaine Foster; no, never add her to volunteer emails",
+   "gold": "Elaine Foster; no, never"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.en11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "As volunteer coordinator, never director",
+   "gold": "As the volunteer coordinator, not the director"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.en12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.en13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Before Friday 12:00",
+   "gold": "Before Friday noon"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.en14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only on the first Monday of the month",
+   "gold": "No (first Monday only)"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.de1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Montags und mittwochs um 9:00 ET",
+   "gold": "Mon and Wed 9 a.m. Eastern"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.de2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "shifts@riversidefoodbank.org",
+   "gold": "shifts@riversidefoodbank.org"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.de3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.de4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein; auf Priyas Freigabe warten (Freigabekarte)",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.de5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marcus (Lagerleiter) eine SMS schreiben; nein, nicht in der öffentlichen Freiwilligengruppe posten",
+   "gold": "Text Marcus (warehouse lead); no public group post"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.de6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein (nur bei weniger als 4)",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.de7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja, wenn er darum bittet (selber Tag)",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.de8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein, nicht ohne seine schriftliche Zustimmung",
+   "gold": "No (needs written agreement)"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.de9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Keine medizinische Beratung (bei Ernstfall 911 anrufen lassen); E-Mail an Priya innerhalb 1 Stunde",
+   "gold": "No medical advice; email Priya within one hour"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.de10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Elaine Foster; nein, niemals zu Freiwilligen-E-Mails hinzufügen",
+   "gold": "Elaine Foster; no, never"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.de11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Als Freiwilligenkoordinatorin (\"volunteer coordinator\"), nie als Direktorin",
+   "gold": "As the volunteer coordinator, not the director"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.de12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.de13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Vor Freitag 12:00",
+   "gold": "Before Friday noon"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§1.de14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein, nur am ersten Montag im Monat",
+   "gold": "No (first Monday only)"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§2.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "From Jan 15 to Jul 31 next year",
+   "gold": "Jan 15 to Jul 31 next year"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§2.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Air conditioning and roof",
+   "gold": "Air conditioning and the roof"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§2.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "About ¥2.4 billion; state subsidy covers 40%",
+   "gold": "About 2.4 billion yen; 40%"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§2.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Emiko Sato (佐藤恵美子)",
+   "gold": "佐藤恵美子 (Sato Emiko)"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§2.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2",
+   "gold": "Two"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§2.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "About 300 works, as a touring show at the city cultural center (文化センター)",
+   "gold": "About 300, at the city cultural centre (touring exhibition)"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§2.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Adult ¥500; the 16-year-old high-school student is free",
+   "gold": "Adult 500 yen; student free"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§2.en8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1998; it finished 3 months late",
+   "gold": "1998; three months late"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§2.en9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Night work",
+   "gold": "Night work"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§2.en10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Aug 1; the first 1,000 visitors get a catalogue",
+   "gold": "Aug 1; first 1000 visitors get a commemorative catalogue"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§2.ja1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "来年1月15日から7月31日まで",
+   "gold": "Jan 15 to Jul 31 next year"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§2.ja2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "空調と屋根",
+   "gold": "Air conditioning and the roof"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§2.ja3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "約24億円で、国(州)の補助は40%",
+   "gold": "About 2.4 billion yen; 40%"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§2.ja4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "佐藤恵美子",
+   "gold": "佐藤恵美子 (Sato Emiko)"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§2.ja5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2室",
+   "gold": "Two"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§2.ja6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "約300点、市の文化センターで巡回展として",
+   "gold": "About 300, at the city cultural centre (touring exhibition)"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§2.ja7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "大人500円、16歳の高校生は無料",
+   "gold": "Adult 500 yen; student free"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§2.ja8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1998年で、3か月遅れた",
+   "gold": "1998; three months late"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§2.ja9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "夜間工事",
+   "gold": "Night work"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§2.ja10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "8月1日、先着1000人に図録を贈呈",
+   "gold": "Aug 1; first 1000 visitors get a commemorative catalogue"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§3.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturday March 14 at 14:00, El Olivo, Toledo",
+   "gold": "Saturday March 14, 14:00, El Olivo in Toledo"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§3.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "18 people; €35 per person",
+   "gold": "18; €35"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§3.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€17.50 (half price)",
+   "gold": "Half: €17.50"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§3.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€35",
+   "gold": "Full price, €35"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§3.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Andrés, from Madrid (Atocha), at 11:30",
+   "gold": "Andrés, from Atocha station in Madrid, 11:30"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§3.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "A trip to Lisbon for grandma and aunt Carmen",
+   "gold": "Trip to Lisbon for grandma and aunt Carmen"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§3.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€40 per adult, via Bizum to Lucía, before March 5",
+   "gold": "€40, by Bizum to Lucía, before March 5"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§3.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, it's a surprise; tell her nothing",
+   "gold": "No, it's a surprise"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§3.en9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No lift and the room is on the 1st floor, so for grandma; Andrés asked",
+   "gold": "Andrés; no lift and the room is on the first floor"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§3.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Chocolate cake, without nuts, because Pablo is allergic",
+   "gold": "Chocolate, no nuts, Pablo is allergic"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§3.en11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Until 18:00",
+   "gold": "18:00"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§3.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sábado 14 de marzo a las 14:00, en El Olivo, Toledo",
+   "gold": "Saturday March 14, 14:00, El Olivo in Toledo"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§3.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "18 personas; 35 € por persona",
+   "gold": "18; €35"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§3.es3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "17,50 € (mitad de precio)",
+   "gold": "Half: €17.50"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§3.es4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "35 €",
+   "gold": "Full price, €35"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§3.es5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Andrés, desde Madrid (Atocha), a las 11:30",
+   "gold": "Andrés, from Atocha station in Madrid, 11:30"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§3.es6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Un viaje a Lisboa para la abuela y la tía Carmen",
+   "gold": "Trip to Lisbon for grandma and aunt Carmen"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§3.es7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "40 € por adulto, por Bizum a Lucía, antes del 5 de marzo",
+   "gold": "€40, by Bizum to Lucía, before March 5"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§3.es8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, es sorpresa; no le digas nada",
+   "gold": "No, it's a surprise"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§3.es9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No hay ascensor y el salón está en la 1.ª planta, por la abuela; la pidió Andrés",
+   "gold": "Andrés; no lift and the room is on the first floor"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§3.es10",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "De chocolate, sin frutos secos, porque Pablo es alérgico",
+   "gold": "Chocolate, no nuts, Pablo is allergic"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§3.es11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hasta las 18:00",
+   "gold": "18:00"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§4.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "San Lorenzo al Mare council; new door-to-door sorted waste collection; from April 1",
+   "gold": "The municipality (Comune) of San Lorenzo al Mare; door-to-door sorted collection; from April 1"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§4.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marco Ferri, environment councillor",
+   "gold": "Marco Ferri, environment councillor"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§4.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "About €1.2 million a year, 10% less than the current contract",
+   "gold": "About €1.2 million a year, 10% less"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§4.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday, Wednesday and Friday",
+   "gold": "Monday, Wednesday, Friday"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§4.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, glass stays in the street bins",
+   "gold": "No, it stays in the street bins"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§4.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only after 20:00",
+   "gold": "No (only after 8 p.m.)"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§4.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, not after 6:00",
+   "gold": "No (not later than 6 a.m.)"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§4.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "An extra Saturday nappy pickup",
+   "gold": "Extra nappy pickup on Saturday"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§4.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only for children under 3",
+   "gold": "No (only under 3)"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§4.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, first a warning, then a €50 fine",
+   "gold": "No, first a warning (then a €50 fine)"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§4.en11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Free at the town hall, March 10-28; bring your TARI bill",
+   "gold": "Town hall, March 10-28, free; bring the TARI bill"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§4.it1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Il comune di San Lorenzo al Mare; nuova raccolta differenziata porta a porta; dal 1° aprile",
+   "gold": "The municipality (Comune) of San Lorenzo al Mare; door-to-door sorted collection; from April 1"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§4.it2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marco Ferri, assessore all'ambiente",
+   "gold": "Marco Ferri, environment councillor"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§4.it3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Circa 1,2 milioni di € l'anno, il 10% in meno del contratto attuale",
+   "gold": "About €1.2 million a year, 10% less"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§4.it4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lunedì, mercoledì e venerdì",
+   "gold": "Monday, Wednesday, Friday"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§4.it5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, il vetro resta nei cassonetti stradali",
+   "gold": "No, it stays in the street bins"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§4.it6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, solo dopo le 20:00",
+   "gold": "No (only after 8 p.m.)"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§4.it7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, non dopo le 6:00",
+   "gold": "No (not later than 6 a.m.)"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§4.it8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Un ritiro extra di pannolini il sabato",
+   "gold": "Extra nappy pickup on Saturday"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§4.it9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, solo per bambini sotto i 3 anni",
+   "gold": "No (only under 3)"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§4.it10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, prima un avvertimento, poi una multa di 50 €",
+   "gold": "No, first a warning (then a €50 fine)"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§4.it11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Gratis in municipio, dal 10 al 28 marzo; portare la bolletta TARI",
+   "gold": "Town hall, March 10-28, free; bring the TARI bill"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§5.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Workdays at 9:00; retour@fietsplaats.nl",
+   "gold": "Every working day 9:00; retour@fietsplaats.nl"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§5.en2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes (within 30 days)",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§5.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No label; refer them to De Vries",
+   "gold": "No label; put the request to Ms De Vries"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§5.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; only Bakker (accounting) refunds",
+   "gold": "No; only Mr Bakker from accounting"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§5.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ask for photos and warn De Vries at once; no, don't admit fault",
+   "gold": "Ask for photos, warn Ms De Vries immediately, do not admit fault"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§5.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes (up to 10%)",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§5.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, max 10%",
+   "gold": "No (max 10%)"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§5.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, never for a return",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§5.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Pieter Jansen; no, never cc him",
+   "gold": "Pieter Jansen; no, never"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§5.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "As klantenservicemanager, never eigenaar (owner)",
+   "gold": "As the customer service manager, not the owner"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§5.en11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "An overview of the day's returns, to De Vries",
+   "gold": "Overview of the day's returns to Ms De Vries"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§5.nl1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Werkdagen om 9:00; retour@fietsplaats.nl",
+   "gold": "Every working day 9:00; retour@fietsplaats.nl"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§5.nl2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja (binnen 30 dagen)",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§5.nl3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Geen label; doorverwijzen naar De Vries",
+   "gold": "No label; put the request to Ms De Vries"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§5.nl4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee; alleen Bakker (boekhouding) betaalt terug",
+   "gold": "No; only Mr Bakker from accounting"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§5.nl5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Foto's vragen en De Vries direct waarschuwen; nee, geen schuld erkennen",
+   "gold": "Ask for photos, warn Ms De Vries immediately, do not admit fault"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§5.nl6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja (max. 10%)",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§5.nl7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee, max. 10%",
+   "gold": "No (max 10%)"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§5.nl8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee, nooit bij een retour",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§5.nl9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Pieter Jansen; nee, nooit in cc",
+   "gold": "Pieter Jansen; no, never"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§5.nl10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Klantenservicemanager, nooit eigenaar",
+   "gold": "As the customer service manager, not the owner"
+  },
+  {
+   "f": "mnc17_r1",
+   "id": "§5.nl11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Een overzicht van de retouren van de dag, aan De Vries",
+   "gold": "Overview of the day's returns to Ms De Vries"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mondays and Wednesdays at 9:00 ET",
+   "gold": "Mon and Wed 9 a.m. Eastern"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "shifts@riversidefoodbank.org",
+   "gold": "shifts@riversidefoodbank.org"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; only after Priya approves (approval card, wait)",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Text Marcus, the warehouse lead; no public group post",
+   "gold": "Text Marcus (warehouse lead); no public group post"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No (only if fewer than 4)",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, on request (same day)",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only with their written agreement",
+   "gold": "No (needs written agreement)"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No medical advice (if serious, they call 911); email Priya within 1 hour",
+   "gold": "No medical advice; email Priya within one hour"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Elaine Foster; no, never add her to volunteer emails",
+   "gold": "Elaine Foster; no, never"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.en11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Volunteer coordinator, never director",
+   "gold": "As the volunteer coordinator, not the director"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.en12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.en13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Before Friday 12:00",
+   "gold": "Before Friday noon"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.en14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only on the first Monday of the month",
+   "gold": "No (first Monday only)"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.de1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Montags und mittwochs um 9:00 ET",
+   "gold": "Mon and Wed 9 a.m. Eastern"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.de2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "shifts@riversidefoodbank.org",
+   "gold": "shifts@riversidefoodbank.org"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.de3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.de4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein; erst nach Priyas Freigabe (Freigabekarte, warten)",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.de5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lagerleiter Marcus eine SMS schreiben; nein, kein Post in der öffentlichen Gruppe",
+   "gold": "Text Marcus (warehouse lead); no public group post"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.de6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein (nur bei weniger als 4)",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.de7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja, auf Wunsch (selber Tag)",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.de8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein, nur mit seiner schriftlichen Zustimmung",
+   "gold": "No (needs written agreement)"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.de9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Keine medizinische Beratung (bei Ernstfall soll er 911 anrufen); E-Mail an Priya innerhalb 1 Stunde",
+   "gold": "No medical advice; email Priya within one hour"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.de10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Elaine Foster; nein, niemals zu Freiwilligen-E-Mails hinzufügen",
+   "gold": "Elaine Foster; no, never"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.de11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Als Freiwilligenkoordinatorin (\"volunteer coordinator\"), nie als Direktorin",
+   "gold": "As the volunteer coordinator, not the director"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.de12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.de13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Vor Freitag 12:00",
+   "gold": "Before Friday noon"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§1.de14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein, nur am ersten Montag im Monat",
+   "gold": "No (first Monday only)"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§2.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "From Jan 15 to Jul 31 next year",
+   "gold": "Jan 15 to Jul 31 next year"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§2.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Air conditioning and roof",
+   "gold": "Air conditioning and the roof"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§2.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "About ¥2.4 billion; state pays 40%",
+   "gold": "About 2.4 billion yen; 40%"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§2.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Emiko Sato (佐藤恵美子)",
+   "gold": "佐藤恵美子 (Sato Emiko)"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§2.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2",
+   "gold": "Two"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§2.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "About 300 works, as a touring show at the city cultural center (文化センター)",
+   "gold": "About 300, at the city cultural centre (touring exhibition)"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§2.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Adult ¥500; the 16-year-old high-school student is free",
+   "gold": "Adult 500 yen; student free"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§2.en8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1998; it ran 3 months late",
+   "gold": "1998; three months late"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§2.en9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Night work",
+   "gold": "Night work"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§2.en10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Aug 1; the first 1,000 visitors get a catalogue",
+   "gold": "Aug 1; first 1000 visitors get a commemorative catalogue"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§2.ja1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "来年1月15日から7月31日まで",
+   "gold": "Jan 15 to Jul 31 next year"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§2.ja2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "空調と屋根",
+   "gold": "Air conditioning and the roof"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§2.ja3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "約24億円で、国(州)が40%負担",
+   "gold": "About 2.4 billion yen; 40%"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§2.ja4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "佐藤恵美子",
+   "gold": "佐藤恵美子 (Sato Emiko)"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§2.ja5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2室",
+   "gold": "Two"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§2.ja6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "約300点、市の文化センターで巡回展として",
+   "gold": "About 300, at the city cultural centre (touring exhibition)"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§2.ja7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "大人500円、16歳の高校生は無料",
+   "gold": "Adult 500 yen; student free"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§2.ja8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1998年で、3か月遅れた",
+   "gold": "1998; three months late"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§2.ja9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "夜間工事",
+   "gold": "Night work"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§2.ja10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "8月1日、先着1000人に図録",
+   "gold": "Aug 1; first 1000 visitors get a commemorative catalogue"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§3.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturday March 14 at 14:00, El Olivo, Toledo",
+   "gold": "Saturday March 14, 14:00, El Olivo in Toledo"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§3.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "18 people; €35 per person",
+   "gold": "18; €35"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§3.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€17.50 (half price)",
+   "gold": "Half: €17.50"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§3.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€35",
+   "gold": "Full price, €35"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§3.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Andrés, from Madrid (Atocha), at 11:30",
+   "gold": "Andrés, from Atocha station in Madrid, 11:30"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§3.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "A trip to Lisbon for grandma and aunt Carmen",
+   "gold": "Trip to Lisbon for grandma and aunt Carmen"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§3.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€40 per adult, via Bizum to Lucía, before March 5",
+   "gold": "€40, by Bizum to Lucía, before March 5"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§3.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, it's a surprise; tell her nothing",
+   "gold": "No, it's a surprise"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§3.en9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No lift and the room is on the 1st floor, so for grandma; Andrés",
+   "gold": "Andrés; no lift and the room is on the first floor"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§3.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Chocolate cake, no nuts, because Pablo is allergic",
+   "gold": "Chocolate, no nuts, Pablo is allergic"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§3.en11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Until 18:00",
+   "gold": "18:00"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§3.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sábado 14 de marzo a las 14:00, en El Olivo, Toledo",
+   "gold": "Saturday March 14, 14:00, El Olivo in Toledo"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§3.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "18 personas; 35 € por persona",
+   "gold": "18; €35"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§3.es3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "17,50 € (mitad de precio)",
+   "gold": "Half: €17.50"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§3.es4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "35 €",
+   "gold": "Full price, €35"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§3.es5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Andrés, desde Madrid (Atocha), a las 11:30",
+   "gold": "Andrés, from Atocha station in Madrid, 11:30"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§3.es6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Un viaje a Lisboa para la abuela y la tía Carmen",
+   "gold": "Trip to Lisbon for grandma and aunt Carmen"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§3.es7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "40 € por adulto, por Bizum a Lucía, antes del 5 de marzo",
+   "gold": "€40, by Bizum to Lucía, before March 5"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§3.es8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, es sorpresa; no le digas nada",
+   "gold": "No, it's a surprise"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§3.es9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No hay ascensor y el salón está en la 1.ª planta, por la abuela; Andrés",
+   "gold": "Andrés; no lift and the room is on the first floor"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§3.es10",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "De chocolate, sin frutos secos, porque Pablo es alérgico",
+   "gold": "Chocolate, no nuts, Pablo is allergic"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§3.es11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hasta las 18:00",
+   "gold": "18:00"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§4.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "San Lorenzo al Mare council; new door-to-door sorted collection; from April 1",
+   "gold": "The municipality (Comune) of San Lorenzo al Mare; door-to-door sorted collection; from April 1"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§4.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marco Ferri, environment councillor",
+   "gold": "Marco Ferri, environment councillor"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§4.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "About €1.2 million a year, 10% less than the current contract",
+   "gold": "About €1.2 million a year, 10% less"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§4.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday, Wednesday and Friday",
+   "gold": "Monday, Wednesday, Friday"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§4.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, glass goes in the street bins",
+   "gold": "No, it stays in the street bins"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§4.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only from 20:00",
+   "gold": "No (only after 8 p.m.)"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§4.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only until 6:00",
+   "gold": "No (not later than 6 a.m.)"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§4.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "An extra Saturday nappy pickup",
+   "gold": "Extra nappy pickup on Saturday"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§4.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only for children under 3",
+   "gold": "No (only under 3)"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§4.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, first a warning, then a €50 fine",
+   "gold": "No, first a warning (then a €50 fine)"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§4.en11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Free at the town hall, March 10-28; bring your TARI bill",
+   "gold": "Town hall, March 10-28, free; bring the TARI bill"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§4.it1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Il comune di San Lorenzo al Mare; nuova raccolta differenziata porta a porta; dal 1° aprile",
+   "gold": "The municipality (Comune) of San Lorenzo al Mare; door-to-door sorted collection; from April 1"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§4.it2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marco Ferri, assessore all'ambiente",
+   "gold": "Marco Ferri, environment councillor"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§4.it3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Circa 1,2 milioni di € l'anno, il 10% in meno del contratto attuale",
+   "gold": "About €1.2 million a year, 10% less"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§4.it4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lunedì, mercoledì e venerdì",
+   "gold": "Monday, Wednesday, Friday"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§4.it5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, il vetro va nei cassonetti stradali",
+   "gold": "No, it stays in the street bins"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§4.it6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, solo dalle 20:00",
+   "gold": "No (only after 8 p.m.)"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§4.it7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, solo fino alle 6:00",
+   "gold": "No (not later than 6 a.m.)"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§4.it8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Un ritiro extra di pannolini il sabato",
+   "gold": "Extra nappy pickup on Saturday"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§4.it9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, solo per bambini sotto i 3 anni",
+   "gold": "No (only under 3)"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§4.it10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, prima un avvertimento, poi una multa di 50 €",
+   "gold": "No, first a warning (then a €50 fine)"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§4.it11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Gratis in municipio, dal 10 al 28 marzo; portare la bolletta TARI",
+   "gold": "Town hall, March 10-28, free; bring the TARI bill"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§5.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Workdays at 9:00; retour@fietsplaats.nl",
+   "gold": "Every working day 9:00; retour@fietsplaats.nl"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§5.en2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes (within 30 days)",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§5.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No label; refer them to De Vries",
+   "gold": "No label; put the request to Ms De Vries"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§5.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; only Bakker (accounting) refunds",
+   "gold": "No; only Mr Bakker from accounting"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§5.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ask for photos and warn De Vries at once; no, don't admit fault",
+   "gold": "Ask for photos, warn Ms De Vries immediately, do not admit fault"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§5.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes (up to 10%)",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§5.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, max 10%",
+   "gold": "No (max 10%)"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§5.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, never for a return",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§5.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Pieter Jansen; no, never cc him",
+   "gold": "Pieter Jansen; no, never"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§5.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "As klantenservicemanager, never eigenaar (owner)",
+   "gold": "As the customer service manager, not the owner"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§5.en11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "An overview of the day's returns, to De Vries",
+   "gold": "Overview of the day's returns to Ms De Vries"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§5.nl1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Werkdagen om 9:00; retour@fietsplaats.nl",
+   "gold": "Every working day 9:00; retour@fietsplaats.nl"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§5.nl2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja (binnen 30 dagen)",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§5.nl3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Geen label; doorverwijzen naar De Vries",
+   "gold": "No label; put the request to Ms De Vries"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§5.nl4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee; alleen Bakker (boekhouding) betaalt terug",
+   "gold": "No; only Mr Bakker from accounting"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§5.nl5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Foto's vragen en De Vries direct waarschuwen; nee, geen schuld erkennen",
+   "gold": "Ask for photos, warn Ms De Vries immediately, do not admit fault"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§5.nl6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja (max. 10%)",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§5.nl7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee, max. 10%",
+   "gold": "No (max 10%)"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§5.nl8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee, nooit bij een retour",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§5.nl9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Pieter Jansen; nee, nooit in cc",
+   "gold": "Pieter Jansen; no, never"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§5.nl10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Klantenservicemanager, nooit eigenaar",
+   "gold": "As the customer service manager, not the owner"
+  },
+  {
+   "f": "mnc17x_r1",
+   "id": "§5.nl11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Een overzicht van de retouren van de dag, aan De Vries",
+   "gold": "Overview of the day's returns to Ms De Vries"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mondays and Wednesdays at 9:00 ET",
+   "gold": "Mon and Wed 9 a.m. Eastern"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "shifts@riversidefoodbank.org (and the Volunteers sheet)",
+   "gold": "shifts@riversidefoodbank.org"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only after Priya approves the background check via the approval card",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Text Marcus (warehouse lead); no public group post",
+   "gold": "Text Marcus (warehouse lead); no public group post"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only if fewer than 4",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only with their written agreement",
+   "gold": "No (needs written agreement)"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No medical advice; email Priya within 1 hour (if serious, they call 911)",
+   "gold": "No medical advice; email Priya within one hour"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Elaine Foster; no, never add her",
+   "gold": "Elaine Foster; no, never"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.en11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "As \"volunteer coordinator\", never \"director\"",
+   "gold": "As the volunteer coordinator, not the director"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.en12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.en13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Before Friday 12:00",
+   "gold": "Before Friday noon"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.en14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only on the first Monday of the month",
+   "gold": "No (first Monday only)"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.de1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Montags und mittwochs um 9:00 ET",
+   "gold": "Mon and Wed 9 a.m. Eastern"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.de2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "shifts@riversidefoodbank.org (und die Volunteers-Tabelle)",
+   "gold": "shifts@riversidefoodbank.org"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.de3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.de4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein, erst nachdem Priya die Hintergrundprüfung per Freigabekarte genehmigt hat",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.de5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marcus (Lagerleiter) eine SMS schreiben; nicht in der öffentlichen Gruppe posten",
+   "gold": "Text Marcus (warehouse lead); no public group post"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.de6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein, nur bei weniger als 4",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.de7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.de8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein, nur mit seiner schriftlichen Zustimmung",
+   "gold": "No (needs written agreement)"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.de9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Keine medizinischen Ratschläge; Priya innerhalb von 1 Stunde mailen (bei Ernstfall ruft er 911)",
+   "gold": "No medical advice; email Priya within one hour"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.de10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Elaine Foster; nein, niemals hinzufügen",
+   "gold": "Elaine Foster; no, never"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.de11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Als \"volunteer coordinator\" (Freiwilligenkoordinatorin), nie \"director\"",
+   "gold": "As the volunteer coordinator, not the director"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.de12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.de13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Vor Freitag 12:00",
+   "gold": "Before Friday noon"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§1.de14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein, nur am ersten Montag im Monat",
+   "gold": "No (first Monday only)"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§2.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "From January 15 to July 31 next year",
+   "gold": "Jan 15 to Jul 31 next year"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§2.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The air conditioning and the roof",
+   "gold": "Air conditioning and the roof"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§2.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥2.4 billion; the state pays 40%",
+   "gold": "About 2.4 billion yen; 40%"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§2.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Emiko Sato (佐藤恵美子)",
+   "gold": "佐藤恵美子 (Sato Emiko)"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§2.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2",
+   "gold": "Two"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§2.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "About 300 works, at the city cultural center (文化センター)",
+   "gold": "About 300, at the city cultural centre (touring exhibition)"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§2.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Adult ¥500; the high-school student is free",
+   "gold": "Adult 500 yen; student free"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§2.en8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "In 1998; it finished 3 months late",
+   "gold": "1998; three months late"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§2.en9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Night work",
+   "gold": "Night work"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§2.en10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "August 1; the first 1,000 visitors get a catalogue",
+   "gold": "Aug 1; first 1000 visitors get a commemorative catalogue"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§2.ja1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "来年1月15日から7月31日まで",
+   "gold": "Jan 15 to Jul 31 next year"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§2.ja2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "空調と屋根",
+   "gold": "Air conditioning and the roof"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§2.ja3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "24億円で、国が40%を負担",
+   "gold": "About 2.4 billion yen; 40%"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§2.ja4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "佐藤恵美子",
+   "gold": "佐藤恵美子 (Sato Emiko)"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§2.ja5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2室",
+   "gold": "Two"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§2.ja6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "約300点、市の文化センターで",
+   "gold": "About 300, at the city cultural centre (touring exhibition)"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§2.ja7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "大人500円、高校生は無料",
+   "gold": "Adult 500 yen; student free"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§2.ja8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1998年で、3か月遅れた",
+   "gold": "1998; three months late"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§2.ja9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "夜間工事を行う",
+   "gold": "Night work"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§2.ja10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "8月1日、先着1000人に図録を配布",
+   "gold": "Aug 1; first 1000 visitors get a commemorative catalogue"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§3.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturday March 14 at 14:00, El Olivo in Toledo",
+   "gold": "Saturday March 14, 14:00, El Olivo in Toledo"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§3.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "18 people; €35 per person",
+   "gold": "18; €35"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§3.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Half price: €17.50",
+   "gold": "Half: €17.50"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§3.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€35",
+   "gold": "Full price, €35"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§3.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Andrés, from Madrid Atocha, at 11:30",
+   "gold": "Andrés, from Atocha station in Madrid, 11:30"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§3.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "A trip to Lisbon, for grandma and aunt Carmen",
+   "gold": "Trip to Lisbon for grandma and aunt Carmen"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§3.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€40, via Bizum to Lucía, before March 5",
+   "gold": "€40, by Bizum to Lucía, before March 5"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§3.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, tell her nothing (it's a surprise)",
+   "gold": "No, it's a surprise"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§3.en9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "There is no lift and the room is on the 1st floor; Andrés requested it",
+   "gold": "Andrés; no lift and the room is on the first floor"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§3.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Chocolate cake, nut-free, because Pablo is allergic",
+   "gold": "Chocolate, no nuts, Pablo is allergic"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§3.en11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Until 18:00",
+   "gold": "18:00"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§3.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "El sábado 14 de marzo a las 14:00, en El Olivo, Toledo",
+   "gold": "Saturday March 14, 14:00, El Olivo in Toledo"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§3.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "18 personas; 35 € por persona",
+   "gold": "18; €35"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§3.es3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "La mitad: 17,50 €",
+   "gold": "Half: €17.50"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§3.es4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "35 €",
+   "gold": "Full price, €35"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§3.es5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Andrés, desde Madrid Atocha, a las 11:30",
+   "gold": "Andrés, from Atocha station in Madrid, 11:30"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§3.es6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Un viaje a Lisboa, para la abuela y la tía Carmen",
+   "gold": "Trip to Lisbon for grandma and aunt Carmen"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§3.es7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "40 €, por Bizum a Lucía, antes del 5 de marzo",
+   "gold": "€40, by Bizum to Lucía, before March 5"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§3.es8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no hay que decirle nada (es sorpresa)",
+   "gold": "No, it's a surprise"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§3.es9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Porque no hay ascensor y el salón está en el primer piso; la pidió Andrés",
+   "gold": "Andrés; no lift and the room is on the first floor"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§3.es10",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Tarta de chocolate, sin frutos secos, porque Pablo es alérgico",
+   "gold": "Chocolate, no nuts, Pablo is allergic"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§3.es11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hasta las 18:00",
+   "gold": "18:00"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§4.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "San Lorenzo al Mare council; new door-to-door waste sorting from April 1",
+   "gold": "The municipality (Comune) of San Lorenzo al Mare; door-to-door sorted collection; from April 1"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§4.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marco Ferri, environment councillor",
+   "gold": "Marco Ferri, environment councillor"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§4.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€1.2 million per year, 10% less than the current contract",
+   "gold": "About €1.2 million a year, 10% less"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§4.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday, Wednesday and Friday",
+   "gold": "Monday, Wednesday, Friday"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§4.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, glass goes in street bins",
+   "gold": "No, it stays in the street bins"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§4.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only from 20:00",
+   "gold": "No (only after 8 p.m.)"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§4.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only until 6:00",
+   "gold": "No (not later than 6 a.m.)"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§4.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "An extra Saturday nappy pickup",
+   "gold": "Extra nappy pickup on Saturday"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§4.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only for children under 3",
+   "gold": "No (only under 3)"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§4.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, first a warning, then a €50 fine",
+   "gold": "No, first a warning (then a €50 fine)"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§4.en11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Free at the town hall, March 10-28, bring the TARI bill",
+   "gold": "Town hall, March 10-28, free; bring the TARI bill"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§4.it1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Il comune di San Lorenzo al Mare; nuova raccolta differenziata porta a porta dal 1° aprile",
+   "gold": "The municipality (Comune) of San Lorenzo al Mare; door-to-door sorted collection; from April 1"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§4.it2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marco Ferri, assessore all'ambiente",
+   "gold": "Marco Ferri, environment councillor"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§4.it3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,2 milioni di euro l'anno, il 10% in meno del contratto attuale",
+   "gold": "About €1.2 million a year, 10% less"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§4.it4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lunedì, mercoledì e venerdì",
+   "gold": "Monday, Wednesday, Friday"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§4.it5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, il vetro va nelle campane stradali",
+   "gold": "No, it stays in the street bins"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§4.it6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, solo dalle 20:00",
+   "gold": "No (only after 8 p.m.)"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§4.it7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, solo fino alle 6:00",
+   "gold": "No (not later than 6 a.m.)"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§4.it8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Un ritiro extra dei pannolini il sabato",
+   "gold": "Extra nappy pickup on Saturday"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§4.it9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, solo per bambini sotto i 3 anni",
+   "gold": "No (only under 3)"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§4.it10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, prima un avvertimento, poi una multa di 50 €",
+   "gold": "No, first a warning (then a €50 fine)"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§4.it11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Gratis in municipio, dal 10 al 28 marzo, portando la bolletta TARI",
+   "gold": "Town hall, March 10-28, free; bring the TARI bill"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§5.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Workdays at 9:00; retour@fietsplaats.nl",
+   "gold": "Every working day 9:00; retour@fietsplaats.nl"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§5.en2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§5.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No label; refer them to De Vries",
+   "gold": "No label; put the request to Ms De Vries"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§5.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; only Bakker (accounting) refunds",
+   "gold": "No; only Mr Bakker from accounting"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§5.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ask for photos and warn De Vries immediately; no, don't admit fault",
+   "gold": "Ask for photos, warn Ms De Vries immediately, do not admit fault"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§5.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§5.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, max 10%",
+   "gold": "No (max 10%)"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§5.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, never for a return",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§5.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Pieter Jansen; no, never cc him",
+   "gold": "Pieter Jansen; no, never"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§5.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "As \"klantenservicemanager\", never \"eigenaar\"",
+   "gold": "As the customer service manager, not the owner"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§5.en11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The day's returns, to De Vries",
+   "gold": "Overview of the day's returns to Ms De Vries"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§5.nl1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Op werkdagen om 9:00; retour@fietsplaats.nl",
+   "gold": "Every working day 9:00; retour@fietsplaats.nl"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§5.nl2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§5.nl3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Geen label; doorverwijzen naar De Vries",
+   "gold": "No label; put the request to Ms De Vries"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§5.nl4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee; alleen Bakker (boekhouding) betaalt terug",
+   "gold": "No; only Mr Bakker from accounting"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§5.nl5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Foto's vragen en De Vries direct waarschuwen; nee, geen schuld erkennen",
+   "gold": "Ask for photos, warn Ms De Vries immediately, do not admit fault"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§5.nl6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§5.nl7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee, maximaal 10%",
+   "gold": "No (max 10%)"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§5.nl8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee, nooit bij een retour",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§5.nl9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Pieter Jansen; nee, nooit in cc",
+   "gold": "Pieter Jansen; no, never"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§5.nl10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Als \"klantenservicemanager\", nooit \"eigenaar\"",
+   "gold": "As the customer service manager, not the owner"
+  },
+  {
+   "f": "mnc17xx_r1",
+   "id": "§5.nl11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "De retouren van die dag, aan De Vries",
+   "gold": "Overview of the day's returns to Ms De Vries"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mondays and Wednesdays at 9:00 ET",
+   "gold": "Mon and Wed 9 a.m. Eastern"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "shifts@riversidefoodbank.org",
+   "gold": "shifts@riversidefoodbank.org"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, you may send the \"Shift Reminder\" to next-day volunteers without asking",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; only after Priya OKs the background check via the approval card",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Text Marcus (warehouse lead); no, do not post in the public group",
+   "gold": "Text Marcus (warehouse lead); no public group post"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; only if fewer than 4",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, same-day moves are allowed on request",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; moving to another day needs their written agreement",
+   "gold": "No (needs written agreement)"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No medical advice; email Priya within 1 hour (if serious, they call 911)",
+   "gold": "No medical advice; email Priya within one hour"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Elaine Foster; no, never add her to volunteer emails",
+   "gold": "Elaine Foster; no, never"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.en11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "As \"volunteer coordinator\", never \"director\"",
+   "gold": "As the volunteer coordinator, not the director"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.en12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, never share phone numbers between volunteers",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.en13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Before Friday 12:00",
+   "gold": "Before Friday noon"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.en14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; only on the first Monday of the month",
+   "gold": "No (first Monday only)"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.de1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Montags und mittwochs um 9:00 ET",
+   "gold": "Mon and Wed 9 a.m. Eastern"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.de2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "shifts@riversidefoodbank.org",
+   "gold": "shifts@riversidefoodbank.org"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.de3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja, du darfst die \"Shift Reminder\" an die Freiwilligen des nächsten Tages ohne Nachfrage senden",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.de4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein; erst nachdem Priya die Hintergrundprüfung über die Freigabekarte genehmigt hat",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.de5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marcus (Lagerleiter) eine SMS schreiben; nein, nicht in der öffentlichen Gruppe posten",
+   "gold": "Text Marcus (warehouse lead); no public group post"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.de6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein; nur bei weniger als 4",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.de7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja, Verschiebungen am selben Tag auf Wunsch sind erlaubt",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.de8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein; für einen anderen Tag braucht es seine schriftliche Zustimmung",
+   "gold": "No (needs written agreement)"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.de9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Keine medizinischen Ratschläge; E-Mail an Priya innerhalb von 1 Stunde (bei Ernstfall ruft er 911)",
+   "gold": "No medical advice; email Priya within one hour"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.de10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Elaine Foster; nein, sie darf nie zu E-Mails an Freiwillige hinzugefügt werden",
+   "gold": "Elaine Foster; no, never"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.de11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Als \"volunteer coordinator\" (Freiwilligenkoordinatorin), nie als \"director\"",
+   "gold": "As the volunteer coordinator, not the director"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.de12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein, Telefonnummern werden nie zwischen Freiwilligen weitergegeben",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.de13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Vor Freitag 12:00",
+   "gold": "Before Friday noon"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§1.de14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein; nur am ersten Montag im Monat",
+   "gold": "No (first Monday only)"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§2.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "From January 15 to July 31 next year",
+   "gold": "Jan 15 to Jul 31 next year"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§2.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The air conditioning and the roof",
+   "gold": "Air conditioning and the roof"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§2.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥2.4 billion; the state pays 40%",
+   "gold": "About 2.4 billion yen; 40%"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§2.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Emiko Sato (佐藤恵美子)",
+   "gold": "佐藤恵美子 (Sato Emiko)"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§2.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2 rooms",
+   "gold": "Two"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§2.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "About 300 works, touring at the city cultural center (文化センター)",
+   "gold": "About 300, at the city cultural centre (touring exhibition)"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§2.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Adult ¥500; the 16-year-old high-school student is free",
+   "gold": "Adult 500 yen; student free"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§2.en8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "In 1998; it finished 3 months late",
+   "gold": "1998; three months late"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§2.en9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Night work (per Director Sato)",
+   "gold": "Night work"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§2.en10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "August 1; the first 1,000 visitors get a catalogue",
+   "gold": "Aug 1; first 1000 visitors get a commemorative catalogue"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§2.ja1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "来年1月15日から7月31日まで",
+   "gold": "Jan 15 to Jul 31 next year"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§2.ja2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "空調と屋根",
+   "gold": "Air conditioning and the roof"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§2.ja3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "24億円で、国が40%を負担",
+   "gold": "About 2.4 billion yen; 40%"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§2.ja4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "佐藤恵美子館長",
+   "gold": "佐藤恵美子 (Sato Emiko)"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§2.ja5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2室",
+   "gold": "Two"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§2.ja6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "約300点、市の文化センターで巡回展示",
+   "gold": "About 300, at the city cultural centre (touring exhibition)"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§2.ja7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "大人500円、16歳の高校生は無料",
+   "gold": "Adult 500 yen; student free"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§2.ja8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1998年で、3か月遅れた",
+   "gold": "1998; three months late"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§2.ja9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "夜間工事を行う",
+   "gold": "Night work"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§2.ja10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "8月1日に再開し、先着1000人に図録が配られる",
+   "gold": "Aug 1; first 1000 visitors get a commemorative catalogue"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§3.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturday March 14 at 14:00, El Olivo restaurant in Toledo",
+   "gold": "Saturday March 14, 14:00, El Olivo in Toledo"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§3.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "18 people; €35 per person",
+   "gold": "18; €35"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§3.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€17.50 (half price for under 10)",
+   "gold": "Half: €17.50"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§3.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€35 (full price)",
+   "gold": "Full price, €35"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§3.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Andrés, from Madrid Atocha, at 11:30",
+   "gold": "Andrés, from Atocha station in Madrid, 11:30"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§3.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "A trip to Lisbon for grandma and aunt Carmen",
+   "gold": "Trip to Lisbon for grandma and aunt Carmen"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§3.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€40 per adult, via Bizum to Lucía, before March 5",
+   "gold": "€40, by Bizum to Lucía, before March 5"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§3.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; it's a surprise, tell her nothing (she thinks it's lunch with dad only)",
+   "gold": "No, it's a surprise"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§3.en9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "There's no lift and the room is on the 1st floor; Andrés requested it",
+   "gold": "Andrés; no lift and the room is on the first floor"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§3.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Chocolate cake by Marta; no nuts, because Pablo is allergic",
+   "gold": "Chocolate, no nuts, Pablo is allergic"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§3.en11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Until 18:00",
+   "gold": "18:00"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§3.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "El sábado 14 de marzo a las 14:00, en El Olivo (Toledo)",
+   "gold": "Saturday March 14, 14:00, El Olivo in Toledo"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§3.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "18 personas; 35 € por persona",
+   "gold": "18; €35"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§3.es3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "17,50 € (mitad de precio para menores de 10)",
+   "gold": "Half: €17.50"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§3.es4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "35 € (precio completo)",
+   "gold": "Full price, €35"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§3.es5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Andrés, desde Madrid Atocha, a las 11:30",
+   "gold": "Andrés, from Atocha station in Madrid, 11:30"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§3.es6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Un viaje a Lisboa para la abuela y la tía Carmen",
+   "gold": "Trip to Lisbon for grandma and aunt Carmen"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§3.es7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "40 € por adulto, por Bizum a Lucía, antes del 5 de marzo",
+   "gold": "€40, by Bizum to Lucía, before March 5"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§3.es8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; es sorpresa, no le digas nada (cree que es una comida solo con papá)",
+   "gold": "No, it's a surprise"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§3.es9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Porque no hay ascensor y el salón está en el primer piso; la pidió Andrés",
+   "gold": "Andrés; no lift and the room is on the first floor"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§3.es10",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Tarta de chocolate de Marta, sin frutos secos, porque Pablo es alérgico",
+   "gold": "Chocolate, no nuts, Pablo is allergic"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§3.es11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hasta las 18:00",
+   "gold": "18:00"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§4.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "San Lorenzo al Mare council; new door-to-door waste sorting from April 1",
+   "gold": "The municipality (Comune) of San Lorenzo al Mare; door-to-door sorted collection; from April 1"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§4.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marco Ferri, environment councillor",
+   "gold": "Marco Ferri, environment councillor"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§4.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€1.2 million per year, 10% less than the current contract",
+   "gold": "About €1.2 million a year, 10% less"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§4.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday, Wednesday and Friday",
+   "gold": "Monday, Wednesday, Friday"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§4.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; glass goes in street bins",
+   "gold": "No, it stays in the street bins"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§4.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; only from 20:00",
+   "gold": "No (only after 8 p.m.)"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§4.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; only until 6:00",
+   "gold": "No (not later than 6 a.m.)"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§4.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "An extra Saturday nappy pickup",
+   "gold": "Extra nappy pickup on Saturday"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§4.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; only for children under 3",
+   "gold": "No (only under 3)"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§4.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; first a warning, then a €50 fine",
+   "gold": "No, first a warning (then a €50 fine)"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§4.en11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "At the town hall, free, March 10-28; bring the TARI bill",
+   "gold": "Town hall, March 10-28, free; bring the TARI bill"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§4.it1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Il Comune di San Lorenzo al Mare; nuova raccolta differenziata porta a porta dal 1° aprile",
+   "gold": "The municipality (Comune) of San Lorenzo al Mare; door-to-door sorted collection; from April 1"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§4.it2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marco Ferri, assessore all'ambiente",
+   "gold": "Marco Ferri, environment councillor"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§4.it3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,2 milioni di euro all'anno, il 10% in meno del contratto attuale",
+   "gold": "About €1.2 million a year, 10% less"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§4.it4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lunedì, mercoledì e venerdì",
+   "gold": "Monday, Wednesday, Friday"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§4.it5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; il vetro va nelle campane stradali",
+   "gold": "No, it stays in the street bins"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§4.it6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; solo dalle 20:00",
+   "gold": "No (only after 8 p.m.)"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§4.it7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; solo fino alle 6:00",
+   "gold": "No (not later than 6 a.m.)"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§4.it8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Un ritiro extra dei pannolini il sabato",
+   "gold": "Extra nappy pickup on Saturday"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§4.it9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; solo per bambini sotto i 3 anni",
+   "gold": "No (only under 3)"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§4.it10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; prima un avviso, poi una multa di 50 €",
+   "gold": "No, first a warning (then a €50 fine)"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§4.it11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "In municipio, gratis, dal 10 al 28 marzo; portando la bolletta TARI",
+   "gold": "Town hall, March 10-28, free; bring the TARI bill"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§5.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Workdays at 9:00; retour@fietsplaats.nl",
+   "gold": "Every working day 9:00; retour@fietsplaats.nl"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§5.en2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes (30 days or less since delivery)",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§5.en3",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Don't send a label; refer them to De Vries",
+   "gold": "No label; put the request to Ms De Vries"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§5.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; only Bakker (accounting) refunds",
+   "gold": "No; only Mr Bakker from accounting"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§5.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ask for photos and warn De Vries immediately; no, don't admit fault",
+   "gold": "Ask for photos, warn Ms De Vries immediately, do not admit fault"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§5.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes (up to 10%)",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§5.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; max 10%",
+   "gold": "No (max 10%)"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§5.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, never for a return",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§5.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Pieter Jansen; no, never cc him on customer emails",
+   "gold": "Pieter Jansen; no, never"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§5.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "As \"klantenservicemanager\", never \"eigenaar\"",
+   "gold": "As the customer service manager, not the owner"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§5.en11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The day's returns, to De Vries",
+   "gold": "Overview of the day's returns to Ms De Vries"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§5.nl1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Op werkdagen om 9:00; retour@fietsplaats.nl",
+   "gold": "Every working day 9:00; retour@fietsplaats.nl"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§5.nl2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja (30 dagen of minder na levering)",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§5.nl3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Geen label sturen; doorverwijzen naar De Vries",
+   "gold": "No label; put the request to Ms De Vries"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§5.nl4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee; alleen Bakker (boekhouding) betaalt terug",
+   "gold": "No; only Mr Bakker from accounting"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§5.nl5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Om foto's vragen en De Vries direct waarschuwen; nee, geen schuld erkennen",
+   "gold": "Ask for photos, warn Ms De Vries immediately, do not admit fault"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§5.nl6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja (maximaal 10%)",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§5.nl7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee; maximaal 10%",
+   "gold": "No (max 10%)"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§5.nl8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee, nooit bij een retour",
+   "gold": "No"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§5.nl9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Pieter Jansen; nee, nooit in cc bij klantmails",
+   "gold": "Pieter Jansen; no, never"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§5.nl10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Als \"klantenservicemanager\", nooit \"eigenaar\"",
+   "gold": "As the customer service manager, not the owner"
+  },
+  {
+   "f": "mnc17xx_r2",
+   "id": "§5.nl11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "De retouren van die dag, aan De Vries",
+   "gold": "Overview of the day's returns to Ms De Vries"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Every Monday and Wednesday at 9 a.m. Eastern",
+   "gold": "Mon and Wed 9 a.m. Eastern"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "shifts@riversidefoodbank.org",
+   "gold": "shifts@riversidefoodbank.org"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; post it in the approval card and wait for Priya's approval",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Text Marcus, the warehouse lead; no, don't post in the public volunteer group",
+   "gold": "Text Marcus (warehouse lead); no public group post"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No (only if fewer than 4)",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, same-day moves are allowed if they ask",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, not without their written agreement",
+   "gold": "No (needs written agreement)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No medical advice; tell them to call 911 if serious; email Priya within one hour",
+   "gold": "No medical advice; email Priya within one hour"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Elaine Foster; no, never",
+   "gold": "Elaine Foster; no, never"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.en11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "As the volunteer coordinator, not the director",
+   "gold": "As the volunteer coordinator, not the director"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.en12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.en13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Before Friday noon",
+   "gold": "Before Friday noon"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.en14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only on the first Monday of the month",
+   "gold": "No (first Monday only)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.de1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Jeden Montag und Mittwoch um 9 Uhr Eastern Time",
+   "gold": "Mon and Wed 9 a.m. Eastern"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.de2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "shifts@riversidefoodbank.org",
+   "gold": "shifts@riversidefoodbank.org"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.de3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.de4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein; in der Freigabekarte posten und auf Priyas Freigabe warten",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.de5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marcus, dem Lagerleiter, eine SMS schreiben; nein, nicht in der öffentlichen Freiwilligengruppe posten",
+   "gold": "Text Marcus (warehouse lead); no public group post"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.de6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein (nur bei weniger als 4)",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.de7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja, wenn er darum bittet (gleicher Tag)",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.de8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein, nicht ohne seine schriftliche Zustimmung",
+   "gold": "No (needs written agreement)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.de9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Keine medizinischen Ratschläge; bei Ernsthaftigkeit 911 anrufen lassen; Priya innerhalb einer Stunde eine E-Mail schreiben",
+   "gold": "No medical advice; email Priya within one hour"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.de10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Elaine Foster; nein, niemals",
+   "gold": "Elaine Foster; no, never"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.de11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Als Freiwilligenkoordinatorin, nicht als Direktorin",
+   "gold": "As the volunteer coordinator, not the director"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.de12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.de13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Vor Freitagmittag (12 Uhr)",
+   "gold": "Before Friday noon"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.de14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nein, nur am ersten Montag des Monats",
+   "gold": "No (first Monday only)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "From January 15 to July 31 next year",
+   "gold": "Jan 15 to Jul 31 next year"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The air-conditioning system and the roof (fully)",
+   "gold": "Air conditioning and the roof"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "About 2.4 billion yen; the national subsidy covers 40%",
+   "gold": "About 2.4 billion yen; 40%"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Emiko Sato",
+   "gold": "佐藤恵美子 (Sato Emiko)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Two",
+   "gold": "Two"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "About 300 works, as a touring exhibition at the city cultural center",
+   "gold": "About 300, at the city cultural centre (touring exhibition)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Adult 500 yen; the 16-year-old high-school student is free",
+   "gold": "Adult 500 yen; student free"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.en8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1998; it finished 3 months behind schedule",
+   "gold": "1998; three months late"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.en9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Night work will also be done",
+   "gold": "Night work"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.en10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "August 1; commemorative catalogs given to the first 1,000 visitors",
+   "gold": "Aug 1; first 1000 visitors get a commemorative catalogue"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.ja1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "来年1月15日から7月31日まで",
+   "gold": "Jan 15 to Jul 31 next year"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.ja2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "空調設備と屋根（全面的に）",
+   "gold": "Air conditioning and the roof"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.ja3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "約24億円で、そのうち4割を国の補助金でまかなう",
+   "gold": "About 2.4 billion yen; 40%"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.ja4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "佐藤恵美子氏",
+   "gold": "佐藤恵美子 (Sato Emiko)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.ja5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2室",
+   "gold": "Two"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.ja6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "約300点が市内の文化センターで巡回展として公開",
+   "gold": "About 300, at the city cultural centre (touring exhibition)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.ja7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "大人500円、16歳の高校生は無料",
+   "gold": "Adult 500 yen; student free"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.ja8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1998年で、予定より3か月遅れた",
+   "gold": "1998; three months late"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.ja9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "夜間作業も行う",
+   "gold": "Night work"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.ja10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "8月1日。先着1000人に記念の図録を配る",
+   "gold": "Aug 1; first 1000 visitors get a commemorative catalogue"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturday March 14 at 14:00, at El Olivo restaurant in Toledo",
+   "gold": "Saturday March 14, 14:00, El Olivo in Toledo"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "18 people; 35 € per person",
+   "gold": "18; €35"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "17.50 € (half price)",
+   "gold": "Half: €17.50"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "35 € (full price)",
+   "gold": "Full price, €35"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Andrés, from Madrid's Atocha station, leaving at 11:30",
+   "gold": "Andrés, from Atocha station in Madrid, 11:30"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "A trip to Lisbon, for grandma and aunt Carmen",
+   "gold": "Trip to Lisbon for grandma and aunt Carmen"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "40 € each, by Bizum to Lucía, before March 5",
+   "gold": "€40, by Bizum to Lucía, before March 5"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, it's a surprise",
+   "gold": "No, it's a surprise"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.en9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The restaurant has no elevator and the room is on the first floor; Andrés requested it",
+   "gold": "Andrés; no lift and the room is on the first floor"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Chocolate cake without nuts, because Pablo is allergic",
+   "gold": "Chocolate, no nuts, Pablo is allergic"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.en11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Until 18:00",
+   "gold": "18:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "El sábado 14 de marzo a las 14:00, en el restaurante El Olivo, en Toledo",
+   "gold": "Saturday March 14, 14:00, El Olivo in Toledo"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "18 personas; 35 € por persona",
+   "gold": "18; €35"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.es3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "17,50 € (la mitad)",
+   "gold": "Half: €17.50"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.es4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "35 € (precio completo)",
+   "gold": "Full price, €35"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.es5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Andrés, desde la estación de Atocha en Madrid, a las 11:30",
+   "gold": "Andrés, from Atocha station in Madrid, 11:30"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.es6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Un viaje a Lisboa, para la abuela y la tía Carmen",
+   "gold": "Trip to Lisbon for grandma and aunt Carmen"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.es7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "40 € cada uno, por Bizum a Lucía, antes del 5 de marzo",
+   "gold": "€40, by Bizum to Lucía, before March 5"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.es8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, es sorpresa",
+   "gold": "No, it's a surprise"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.es9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Porque el restaurante no tiene ascensor y el salón está en la primera planta; la pidió Andrés",
+   "gold": "Andrés; no lift and the room is on the first floor"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.es10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "De chocolate y sin nueces, porque Pablo es alérgico",
+   "gold": "Chocolate, no nuts, Pablo is allergic"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.es11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hasta las 18:00",
+   "gold": "18:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The Municipality of San Lorenzo al Mare; door-to-door separate waste collection changes; from April 1",
+   "gold": "The municipality (Comune) of San Lorenzo al Mare; door-to-door sorted collection; from April 1"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marco Ferri, councillor for the Environment",
+   "gold": "Marco Ferri, environment councillor"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "About 1.2 million euros a year, 10% less than the current contract",
+   "gold": "About €1.2 million a year, 10% less"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday, Wednesday and Friday",
+   "gold": "Monday, Wednesday, Friday"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, glass stays in the street bins",
+   "gold": "No, it stays in the street bins"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only after 8 p.m.",
+   "gold": "No (only after 8 p.m.)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no later than 6 a.m.",
+   "gold": "No (not later than 6 a.m.)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "An extra diaper collection on Saturday",
+   "gold": "Extra nappy pickup on Saturday"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only families with children under 3",
+   "gold": "No (only under 3)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, first a warning, then a 50-euro fine",
+   "gold": "No, first a warning (then a €50 fine)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.en11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Free at the town hall from March 10 to 28, bringing the TARI bill",
+   "gold": "Town hall, March 10-28, free; bring the TARI bill"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.it1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Il Comune di San Lorenzo al Mare; cambia la raccolta differenziata porta a porta; dal 1° aprile",
+   "gold": "The municipality (Comune) of San Lorenzo al Mare; door-to-door sorted collection; from April 1"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.it2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marco Ferri, assessore all'Ambiente",
+   "gold": "Marco Ferri, environment councillor"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.it3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Circa 1,2 milioni di euro all'anno, il 10% in meno del contratto attuale",
+   "gold": "About €1.2 million a year, 10% less"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.it4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lunedì, mercoledì e venerdì",
+   "gold": "Monday, Wednesday, Friday"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.it5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, il vetro resta nelle campane stradali",
+   "gold": "No, it stays in the street bins"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.it6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, solo dopo le 20",
+   "gold": "No (only after 8 p.m.)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.it7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, non oltre le 6 del mattino",
+   "gold": "No (not later than 6 a.m.)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.it8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Un ritiro extra dei pannolini il sabato",
+   "gold": "Extra nappy pickup on Saturday"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.it9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, solo famiglie con bambini sotto i 3 anni",
+   "gold": "No (only under 3)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.it10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, prima un avviso e poi una multa da 50 euro",
+   "gold": "No, first a warning (then a €50 fine)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.it11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Gratis in municipio dal 10 al 28 marzo, portando la bolletta TARI",
+   "gold": "Town hall, March 10-28, free; bring the TARI bill"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Every working day at 9:00; retour@fietsplaats.nl",
+   "gold": "Every working day 9:00; retour@fietsplaats.nl"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.en2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes (within 30 days)",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Send no label; refer the request to Ms De Vries",
+   "gold": "No label; put the request to Ms De Vries"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No; only Mr Bakker from accounting does refunds",
+   "gold": "No; only Mr Bakker from accounting"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ask for photos and alert Ms De Vries immediately; no, don't admit fault",
+   "gold": "Ask for photos, warn Ms De Vries immediately, do not admit fault"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes (max 10%)",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, maximum 10%",
+   "gold": "No (max 10%)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, never with a return",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Pieter Jansen; no, never cc him",
+   "gold": "Pieter Jansen; no, never"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "As the customer service manager, not the owner",
+   "gold": "As the customer service manager, not the owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.en11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "An overview of that day's returns, to Ms De Vries",
+   "gold": "Overview of the day's returns to Ms De Vries"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.nl1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Elke werkdag om 9:00; retour@fietsplaats.nl",
+   "gold": "Every working day 9:00; retour@fietsplaats.nl"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.nl2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja (binnen 30 dagen)",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.nl3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Geen label sturen; de aanvraag voorleggen aan mevrouw De Vries",
+   "gold": "No label; put the request to Ms De Vries"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.nl4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee; alleen meneer Bakker van de boekhouding",
+   "gold": "No; only Mr Bakker from accounting"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.nl5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Om foto's vragen en mevrouw De Vries direct waarschuwen; nee, geen schuld erkennen",
+   "gold": "Ask for photos, warn Ms De Vries immediately, do not admit fault"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.nl6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja (maximaal 10%)",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.nl7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee, maximaal 10%",
+   "gold": "No (max 10%)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.nl8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee, nooit bij een retour",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.nl9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Pieter Jansen; nee, nooit in cc",
+   "gold": "Pieter Jansen; no, never"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.nl10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Als klantenservicemanager, niet de eigenaar",
+   "gold": "As the customer service manager, not the owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.nl11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Een overzicht van de retouren van die dag, aan mevrouw De Vries",
+   "gold": "Overview of the day's returns to Ms De Vries"
+  }
+ ],
+ "summary": {
+  "a_terse_r1": {
+   "all": [
+    114,
+    114
+   ],
+   "S": [
+    68,
+    68
+   ],
+   "F": [
+    46,
+    46
+   ],
+   "en": [
+    57,
+    57
+   ],
+   "L2": [
+    57,
+    57
+   ],
+   "P1S": [
+    24,
+    24
+   ],
+   "P5S": [
+    20,
+    20
+   ]
+  },
+  "c_llmlingua2_r0.5_r1": {
+   "all": [
+    82,
+    114
+   ],
+   "S": [
+    62,
+    68
+   ],
+   "F": [
+    20,
+    46
+   ],
+   "en": [
+    41,
+    57
+   ],
+   "L2": [
+    41,
+    57
+   ],
+   "P1S": [
+    24,
+    24
+   ],
+   "P5S": [
+    18,
+    20
+   ]
+  },
+  "mnc17_r1": {
+   "all": [
+    114,
+    114
+   ],
+   "S": [
+    68,
+    68
+   ],
+   "F": [
+    46,
+    46
+   ],
+   "en": [
+    57,
+    57
+   ],
+   "L2": [
+    57,
+    57
+   ],
+   "P1S": [
+    24,
+    24
+   ],
+   "P5S": [
+    20,
+    20
+   ]
+  },
+  "mnc17x_r1": {
+   "all": [
+    114,
+    114
+   ],
+   "S": [
+    68,
+    68
+   ],
+   "F": [
+    46,
+    46
+   ],
+   "en": [
+    57,
+    57
+   ],
+   "L2": [
+    57,
+    57
+   ],
+   "P1S": [
+    24,
+    24
+   ],
+   "P5S": [
+    20,
+    20
+   ]
+  },
+  "mnc17xx_r1": {
+   "all": [
+    114,
+    114
+   ],
+   "S": [
+    68,
+    68
+   ],
+   "F": [
+    46,
+    46
+   ],
+   "en": [
+    57,
+    57
+   ],
+   "L2": [
+    57,
+    57
+   ],
+   "P1S": [
+    24,
+    24
+   ],
+   "P5S": [
+    20,
+    20
+   ]
+  },
+  "mnc17xx_r2": {
+   "all": [
+    114,
+    114
+   ],
+   "S": [
+    68,
+    68
+   ],
+   "F": [
+    46,
+    46
+   ],
+   "en": [
+    57,
+    57
+   ],
+   "L2": [
+    57,
+    57
+   ],
+   "P1S": [
+    24,
+    24
+   ],
+   "P5S": [
+    20,
+    20
+   ]
+  },
+  "original_r1": {
+   "all": [
+    114,
+    114
+   ],
+   "S": [
+    68,
+    68
+   ],
+   "F": [
+    46,
+    46
+   ],
+   "en": [
+    57,
+    57
+   ],
+   "L2": [
+    57,
+    57
+   ],
+   "P1S": [
+    24,
+    24
+   ],
+   "P5S": [
+    20,
+    20
+   ]
+  }
+ }
+}

@@ -1,0 +1,60 @@
+§1 task en; you:
+weekly travel-expense review
+every Tue 8:45 Central open Expenses inbox + Trips sheet
+each new expense report: match receipts to trip row + draft approval note in Expenses tracker
+submit no approval until Nora Kim approves in Teams
+if Nora no answer by 14:00: remind her once, then wait
+reports ≥$3000: Sam Okonkwo (finance director) must also sign off
+may: fix merchant name typo in Trips sheet | never: change reimbursement amounts, even if employee asks by email
+if employee asks amount change: forward to Nora
+skip reports without trip ID, unless Nora marked them "OK no trip"
+finance director = Sam Okonkwo
+call Nora "travel desk lead" | never "finance director"
+never add Sam to employee expense emails
+if tracker locked: stop + message Nora
+never keep notes elsewhere
+never approve report twice
+if duplicate report number: flag it, don't draft
+all drafts ready by 12:30
+every Wed 9:00 send Nora list of reports still waiting for trip ID
+
+§2 es notice
+urbanización Los Olivos: recycling point closed Nov10 to Nov18 for expansion
+cost ~€22000 from community fund, no extra fee
+meanwhile paper + glass bins → entrance calle Sauce, portal B
+community president Elena Vargas: last yr elevator works delayed 1 week for lack of parts, so material already in warehouse
+hall bookings still via porter, max 1 /home /month
+no large appliances in patio, also after reopening; must book municipal recycling appointment
+
+§3 ja family
+moving plan: Wed Nov12 @9 leave current house → Shinagawa new apartment
+健: morning impossible due to work; arrives ~@13
+boxes: Dad drives; 美咲 packs dishes
+fridge contents: throw all; finish tonight
+landlord: return key by Nov5; late = ¥3000/day
+parking at new apt: 1 car only; 健 uses station monthly lot
+neighbor greetings: Mom + 美咲 with sweets; Dad + 健 = luggage
+
+§4 nl news
+Middelhaven municipality replaces bridge over Oudevaart from Dec8
+traffic councillor Annelies de Boer: works ~4 months, ~€1.8M; province pays 2/3
+during closure free shuttle station↔center every 15min, weekdays @6 to @22
+cyclists may use temporary ferry | never: mopeds
+de Boer recalled: 2023 similar bridge reno ran 3 weeks late for late steel, so steel already ordered
+complaints: 14000, Mon to Fri @8 to @17
+
+§5 task es; you:
+every morning 7:30 check order mailbox of shop "Taller Norte"
+size changes ≤5 days after delivery: may: approve yourself + send return-label template
+size changes >5 days:
+  don't reply
+  forward to Paula Ríos + wait for her decision
+never: refund | only Marcos Díaz (contabilidad) refunds
+if customer reports damaged parcel: ask 2 photos | never promise reshipment
+may: fix typos in order notes | never: change shipping address
+if customer asks address change: forward to Paula
+owner = Carmen Soto
+call Paula "jefa de atención" | never "dueña"
+never add Carmen to customer emails
+if >40 unread (40 no): message Paula short note at once
+by 16:00 send Paula list of unresolved order numbers

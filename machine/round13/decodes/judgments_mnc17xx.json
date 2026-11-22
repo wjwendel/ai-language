@@ -1,0 +1,10 @@
+{"method":"blind decode of payload_mnc17xx.txt (no key), 2 fresh no-context frontier helpers (A, B), judged by the encoder agent against facts.json (51 facts) — judge is not blind",
+"kept":"45/51 kept exactly in both A and B; 2 safety distortions + 4 minor F items listed below",
+"distorted_safety":[
+ {"fact":"P1 injury: tell them to call 911 if serious","A":"If the injury is serious, they should call 911.","B":"same","why":"the assistant's action 'tell them' is lost: the instruction became a statement. Actor/action loss = instruction-safety FAIL. Cause: encoder wrote 'serious: they call 911' (r13 fix for 'serious→911' went the wrong way)."},
+ {"fact":"P5 before 16:00 send Ms De Vries an OVERVIEW of the day's returns","A":"send De Vries that day's returns","B":"send De Vries the day's returns","why":"'overview' dropped by encoder ('De Vries gets day's returns'); the object of a deadline task changed. Counted as a safety distortion."}],
+"minor_F":["P4 'not set out correctly' → 'sorting incorrectly' (A) / 'incorrectly sorted waste' (B)","P3 Marta's question 'does grandma know?' lost (answer kept)","P2 'commemorative' catalogue → 'catalogue'","P1 'public volunteer group' → 'public group'"],
+"invented":"none",
+"deadline_words":"before Friday 12:00, before March 5, before 16:00, within 1 hour, until 18:00 all kept in both decodes (r12 hole 1 fixed)",
+"section_tags":"'§1 you' decoded as 'instructions for you'; no language instruction invented (r12 hole 2 fixed)",
+"verdict":"blind-decode instruction-safety FAIL (2 distortions, both encoder slips). Ready counter stays 0/3."}

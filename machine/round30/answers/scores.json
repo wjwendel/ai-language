@@ -1,0 +1,3606 @@
+{
+ "rows": [
+  {
+   "f": "llm05_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marta Kowal (operations manager)",
+   "gold": "Marta Kowal, the operations manager"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; larger orders (over 4) need approval, approver not stated",
+   "gold": "No; it needs approval, approver not stated"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; every tree removal needs approval from Priya Haldane",
+   "gold": "No; every tree removal must be approved by Priya Haldane, the owner"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no (07:30, 12:30, 17:00)",
+   "gold": "No; only at 07:30, 12:30 and 17:00"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the emergency crew line 555-0148 and tell the customer to keep everyone out of damaged rooms and at least 10 metres from the tree",
+   "gold": "Call the emergency crew line 555-0148 yourself, tell the customer an emergency crew is on its way, and tell them to keep everyone out of the damaged rooms and at least 10 metres away from the tree"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "$45",
+   "gold": "$45"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "10% (Seniors' Plan 15% applies only on Tuesdays)",
+   "gold": "10%"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes; the date limit applies only to lesson members, all free-swim monthly members need the new card"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "No; they keep using their existing card"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "11,250 won",
+   "gold": "12,000 won"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,250 won",
+   "gold": "2,250 won"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "lane 4 (shared with intermediate)",
+   "gold": "Lane 4"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "at the 1st-floor information desk, March 25–31",
+   "gold": "At the 1st-floor information desk, from March 25 to March 31"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000 won",
+   "gold": "3,000 won"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Park Ji-hoon (박지훈), 031-555-0172",
+   "gold": "Park Jihoon (박지훈), facilities team, 031-555-0172"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; personal fins only in lane 5",
+   "gold": "No; personal kickboards and fins are allowed only in lane 5"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helena Duarte (coordinator)",
+   "gold": "Helena Duarte, the operations coordinator"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; boarding discounts need Bruno Teles's approval",
+   "gold": "No; any boarding discount needs approval from Bruno Teles, the owner"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helena Duarte",
+   "gold": "Helena Duarte, the operations coordinator"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the emergency line (41) 3555-0190 and tell the client to leave the gate open and keep their phone on",
+   "gold": "Call the team emergency line (41) 3555-0190 yourself, tell the client the search team is already leaving, and ask them to leave the house gate open and stay home with their phone on"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "The client"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes (up to 2 hours before is free)",
+   "gold": "Yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only individual walks on Sundays",
+   "gold": "No; on Sundays only individual walks are offered"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marleen Visser",
+   "gold": "Marleen Visser, the owner"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Anouk de Vries (manager)",
+   "gold": "Anouk de Vries, the business manager"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "60% of the ticket price (€21)",
+   "gold": "€21"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "60% of the ticket price (€21)",
+   "gold": "Nothing (€0); only cancellations more than 48 hours ahead get 60% back"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€127.50",
+   "gold": "€127.50"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the discount is only on Thursdays",
+   "gold": "No; the Wijnclub discount applies only on Thursday"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the delivery service 030-555-0136 and tell the customer to call 112 if someone is seriously injured",
+   "gold": "Call the delivery service yourself at 030-555-0136, then tell the customer our team is on the way and that they must call 112 themselves if someone is seriously injured"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marta Kowal, operations manager",
+   "gold": "Marta Kowal, the operations manager"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it needs approval (approver not stated)",
+   "gold": "No; it needs approval, approver not stated"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; tree removal quotes must be approved by Priya Haldane (owner)",
+   "gold": "No; every tree removal must be approved by Priya Haldane, the owner"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No; only at 07:30, 12:30 and 17:00"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the emergency crew line 555-0148 and tell the customer to keep everyone out of damaged rooms and at least 10 metres away from the tree",
+   "gold": "Call the emergency crew line 555-0148 yourself, tell the customer an emergency crew is on its way, and tell them to keep everyone out of the damaged rooms and at least 10 metres away from the tree"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "$45",
+   "gold": "$45"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "10% (the 15% Seniors' Plan discount is Tuesdays only)",
+   "gold": "10%"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes; the date limit applies only to lesson members, all free-swim monthly members need the new card"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "No; they keep using their existing card"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12,000 won",
+   "gold": "12,000 won"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,250 won (half price)",
+   "gold": "2,250 won"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "lane 4, with intermediate swimmers",
+   "gold": "Lane 4"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "at the 1st-floor information desk, March 25 to March 31",
+   "gold": "At the 1st-floor information desk, from March 25 to March 31"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000 won",
+   "gold": "3,000 won"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Park Ji-hoon (박지훈 주임), 031-555-0172",
+   "gold": "Park Jihoon (박지훈), facilities team, 031-555-0172"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; fins only in advanced lane 5",
+   "gold": "No; personal kickboards and fins are allowed only in lane 5"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helena Duarte, operations coordinator",
+   "gold": "Helena Duarte, the operations coordinator"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; boarding discounts need approval from Bruno Teles (owner)",
+   "gold": "No; any boarding discount needs approval from Bruno Teles, the owner"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helena Duarte",
+   "gold": "Helena Duarte, the operations coordinator"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the team emergency line (41) 3555-0190, tell the client the team is going out to search, and ask them to leave the gate open and keep their phone on",
+   "gold": "Call the team emergency line (41) 3555-0190 yourself, tell the client the search team is already leaving, and ask them to leave the house gate open and stay home with their phone on"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "The client"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; on Sundays only individual walks are offered",
+   "gold": "No; on Sundays only individual walks are offered"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marleen Visser, owner",
+   "gold": "Marleen Visser, the owner"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Anouk de Vries, manager",
+   "gold": "Anouk de Vries, the business manager"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "60% of the ticket price (€21)",
+   "gold": "€21"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing; only cancellations more than 48 hours ahead get 60% back",
+   "gold": "Nothing (€0); only cancellations more than 48 hours ahead get 60% back"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€127.50",
+   "gold": "€127.50"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the 10% discount is Thursdays only",
+   "gold": "No; the Wijnclub discount applies only on Thursday"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the delivery service at 030-555-0136 and tell the customer the team is on the way and that they must call 112 if someone is seriously injured",
+   "gold": "Call the delivery service yourself at 030-555-0136, then tell the customer our team is on the way and that they must call 112 themselves if someone is seriously injured"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, stump grinding ≤$600 may be confirmed yourself",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marta Kowal, operations manager",
+   "gold": "Marta Kowal, the operations manager"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; >4 cords needs approval, but the approver is not stated",
+   "gold": "No; it needs approval, approver not stated"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; every tree removal quote needs approval of Priya Haldane, owner",
+   "gold": "No; every tree removal must be approved by Priya Haldane, the owner"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only at 07:30, 12:30 and 17:00",
+   "gold": "No; only at 07:30, 12:30 and 17:00"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the emergency crew line 555-0148 yourself, then tell the customer the emergency crew is on its way and they must keep everyone out of damaged rooms and at least 10 m away from the tree",
+   "gold": "Call the emergency crew line 555-0148 yourself, tell the customer an emergency crew is on its way, and tell them to keep everyone out of the damaged rooms and at least 10 metres away from the tree"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "$45 (Saturday site visits cost $45, even inside Millbrook)",
+   "gold": "$45"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "10% (the Seniors' Plan 15% applies only on Tuesdays)",
+   "gold": "10%"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, the written utility confirmation is the exception",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, free-swim monthly members must collect a new card",
+   "gold": "Yes; the date limit applies only to lesson members, all free-swim monthly members need the new card"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, lesson members registered before Mar 4 keep their existing card",
+   "gold": "No; they keep using their existing card"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12,000원 (4,500 + 4,500 + 3,000)",
+   "gold": "12,000 won"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,250원 (half the adult fee)",
+   "gold": "2,250 won"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "lane 4, together with intermediate swimmers",
+   "gold": "Lane 4"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "at the 1F info desk, Mar 25-31",
+   "gold": "At the 1st-floor information desk, from March 25 to March 31"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000원",
+   "gold": "3,000 won"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "facilities team, 박지훈 주임, 031-555-0172 (weekdays 9-18h)",
+   "gold": "Park Jihoon (박지훈), facilities team, 031-555-0172"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, own fins only in lane 5",
+   "gold": "No; personal kickboards and fins are allowed only in lane 5"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, ≤20 walks may be approved yourself",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helena Duarte, operations coordinator",
+   "gold": "Helena Duarte, the operations coordinator"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; any boarding discount needs approval of Bruno Teles, owner",
+   "gold": "No; any boarding discount needs approval from Bruno Teles, the owner"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helena Duarte, operations coordinator",
+   "gold": "Helena Duarte, the operations coordinator"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, it arrived by 18h the day before",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the team emergency line (41) 3555-0190 yourself, then tell the client the search team is leaving and they must leave their home gate open and stay home with phone on",
+   "gold": "Call the team emergency line (41) 3555-0190 yourself, tell the client the search team is already leaving, and ask them to leave the house gate open and stay home with their phone on"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "The client"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, Annual Plan clients may cancel free until 2h before",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Sundays offer individual walks only",
+   "gold": "No; on Sundays only individual walks are offered"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, business orders ≤€750 may be approved yourself",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marleen Visser, owner",
+   "gold": "Marleen Visser, the owner"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Anouk de Vries, store manager",
+   "gold": "Anouk de Vries, the business manager"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€21 (60% of €35)",
+   "gold": "€21"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing; refund only if cancelled more than 48h ahead",
+   "gold": "Nothing (€0); only cancellations more than 48 hours ahead get 60% back"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€127.50 (€120 + €7.50 Saturday delivery)",
+   "gold": "€127.50"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Wine Club 10% off only on Thursday",
+   "gold": "No; the Wijnclub discount applies only on Thursday"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call our delivery service 030-555-0136 yourself, then tell the customer our team is on the way and they must call 112 themselves if someone is seriously injured",
+   "gold": "Call the delivery service yourself at 030-555-0136, then tell the customer our team is on the way and that they must call 112 themselves if someone is seriously injured"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; $600 is within the ≤$600 limit",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marta Kowal, operations manager",
+   "gold": "Marta Kowal, the operations manager"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; more than 4 cords needs approval, but the approver is not stated",
+   "gold": "No; it needs approval, approver not stated"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; every tree removal quote needs approval of Priya Haldane, owner",
+   "gold": "No; every tree removal must be approved by Priya Haldane, the owner"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only at 07:30, 12:30 and 17:00",
+   "gold": "No; only at 07:30, 12:30 and 17:00"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the emergency crew line 555-0148 yourself, then tell the customer the emergency crew is on its way and they must keep everyone out of damaged rooms and at least 10 m away from the tree",
+   "gold": "Call the emergency crew line 555-0148 yourself, tell the customer an emergency crew is on its way, and tell them to keep everyone out of the damaged rooms and at least 10 metres away from the tree"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "$45; every Saturday site visit costs $45",
+   "gold": "$45"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "10%; the Seniors' Plan 15% applies only on Tuesdays",
+   "gold": "10%"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; written utility confirmation that the line is switched off is the exception",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; free-swim monthly members must collect a new card",
+   "gold": "Yes; the date limit applies only to lesson members, all free-swim monthly members need the new card"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; lesson members registered before Mar 4 keep their existing card",
+   "gold": "No; they keep using their existing card"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12,000원",
+   "gold": "12,000 won"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,250원 (half the adult fee)",
+   "gold": "2,250 won"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "lane 4, together with intermediate swimmers",
+   "gold": "Lane 4"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "at the 1F info desk, Mar 25-31",
+   "gold": "At the 1st-floor information desk, from March 25 to March 31"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000원",
+   "gold": "3,000 won"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "박지훈 주임, facilities team, 031-555-0172 (weekdays 9-18h)",
+   "gold": "Park Jihoon (박지훈), facilities team, 031-555-0172"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; own fins only in lane 5",
+   "gold": "No; personal kickboards and fins are allowed only in lane 5"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; 20 walks is within the ≤20 limit",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helena Duarte, operations coordinator",
+   "gold": "Helena Duarte, the operations coordinator"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; any boarding discount needs approval of Bruno Teles, owner",
+   "gold": "No; any boarding discount needs approval from Bruno Teles, the owner"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helena Duarte, operations coordinator",
+   "gold": "Helena Duarte, the operations coordinator"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; it arrived by 18h the day before",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the team emergency line (41) 3555-0190 yourself, then tell the client the search team is leaving and they must leave the home gate open themselves and stay home with phone on",
+   "gold": "Call the team emergency line (41) 3555-0190 yourself, tell the client the search team is already leaving, and ask them to leave the house gate open and stay home with their phone on"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "The client"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; Annual Plan clients may cancel free until 2h before",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sundays only individual walks are offered",
+   "gold": "No; on Sundays only individual walks are offered"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; €750 is within the ≤€750 limit",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marleen Visser, owner",
+   "gold": "Marleen Visser, the owner"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Anouk de Vries, store manager",
+   "gold": "Anouk de Vries, the business manager"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€21 (60% of €35)",
+   "gold": "€21"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing; refund requires cancelling more than 48h ahead",
+   "gold": "Nothing (€0); only cancellations more than 48 hours ahead get 60% back"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€127.50 (€120 + €7.50 Saturday delivery)",
+   "gold": "€127.50"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Wine Club 10% applies only on Thursday",
+   "gold": "No; the Wijnclub discount applies only on Thursday"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call our delivery service 030-555-0136 yourself, then tell the customer our team is on the way and they must call 112 themselves if someone is seriously injured",
+   "gold": "Call the delivery service yourself at 030-555-0136, then tell the customer our team is on the way and that they must call 112 themselves if someone is seriously injured"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; $600 is within the ≤$600 limit",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marta Kowal, operations manager",
+   "gold": "Marta Kowal, the operations manager"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; more than 4 cords needs approval, but the approver is not stated",
+   "gold": "No; it needs approval, approver not stated"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; every tree removal quote needs approval of Priya Haldane, owner",
+   "gold": "No; every tree removal must be approved by Priya Haldane, the owner"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only at 07:30, 12:30 and 17:00",
+   "gold": "No; only at 07:30, 12:30 and 17:00"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the emergency crew at 555-0148 yourself; then tell the customer the emergency crew is on its way and they must keep everyone out of damaged rooms and at least 10 m from the tree",
+   "gold": "Call the emergency crew line 555-0148 yourself, tell the customer an emergency crew is on its way, and tell them to keep everyone out of the damaged rooms and at least 10 metres away from the tree"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "$45 (every Saturday site visit costs $45)",
+   "gold": "$45"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "10%; the Seniors' Plan 15% applies on Tuesdays only",
+   "gold": "10%"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; written utility confirmation that the line is switched off allows quoting",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; all free-swim monthly members get a new card (Mar 25-31 at the 1F info desk)",
+   "gold": "Yes; the date limit applies only to lesson members, all free-swim monthly members need the new card"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; lesson members registered before Mar 4 keep their existing card",
+   "gold": "No; they keep using their existing card"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12,000원 (2 × 4,500원 + 3,000원)",
+   "gold": "12,000 won"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,250원 (half the adult fee)",
+   "gold": "2,250 won"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "lane 4, shared with intermediate swimmers",
+   "gold": "Lane 4"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "at the 1F info desk, March 25-31",
+   "gold": "At the 1st-floor information desk, from March 25 to March 31"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000원",
+   "gold": "3,000 won"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "facilities team 박지훈 주임, 031-555-0172 (weekdays 9-18h)",
+   "gold": "Park Jihoon (박지훈), facilities team, 031-555-0172"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; own fins only in lane 5",
+   "gold": "No; personal kickboards and fins are allowed only in lane 5"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; 20 walks is within the ≤20 limit",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helena Duarte, operations coordinator",
+   "gold": "Helena Duarte, the operations coordinator"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; any boarding discount needs approval of Bruno Teles, owner",
+   "gold": "No; any boarding discount needs approval from Bruno Teles, the owner"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helena Duarte, operations coordinator",
+   "gold": "Helena Duarte, the operations coordinator"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; the card arrived by 18h the day before",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the team emergency line (41) 3555-0190 yourself; then tell the client the search team is leaving and they must leave their home gate open themselves and stay home with phone on",
+   "gold": "Call the team emergency line (41) 3555-0190 yourself, tell the client the search team is already leaving, and ask them to leave the house gate open and stay home with their phone on"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "The client"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; Annual Plan cancellation is free until 2h before",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sundays are individual walks only",
+   "gold": "No; on Sundays only individual walks are offered"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact or copy Sérgio Lima about customer complaints",
+   "gold": "No"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; €750 is within the ≤€750 limit",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marleen Visser, owner",
+   "gold": "Marleen Visser, the owner"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Anouk de Vries, store manager",
+   "gold": "Anouk de Vries, the business manager"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "60% back (€21 of €35)",
+   "gold": "€21"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing; refund only if cancelled more than 48h ahead",
+   "gold": "Nothing (€0); only cancellations more than 48 hours ahead get 60% back"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€127.50 (€120 + €7.50 Saturday delivery)",
+   "gold": "€127.50"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Wine Club discount is Thursday only",
+   "gold": "No; the Wijnclub discount applies only on Thursday"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call our delivery service 030-555-0136 yourself; then tell the customer our team is on the way and they must call 112 themselves if someone is seriously injured",
+   "gold": "Call the delivery service yourself at 030-555-0136, then tell the customer our team is on the way and that they must call 112 themselves if someone is seriously injured"
+  },
+  {
+   "f": "mnc27_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; stump-grinding up to $600 may be confirmed on your own",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marta Kowal, operations manager",
+   "gold": "Marta Kowal, the operations manager"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; more than 4 cords needs approval, but the approver is not stated",
+   "gold": "No; it needs approval, approver not stated"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; every tree removal quote needs approval of Priya Haldane, owner",
+   "gold": "No; every tree removal must be approved by Priya Haldane, the owner"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; inbox is checked only at 07:30, 12:30 and 17:00",
+   "gold": "No; only at 07:30, 12:30 and 17:00"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the emergency crew at 555-0148 yourself; then tell the customer the emergency crew is on its way and they must keep everyone out of damaged rooms and at least 10 m from the tree",
+   "gold": "Call the emergency crew line 555-0148 yourself, tell the customer an emergency crew is on its way, and tell them to keep everyone out of the damaged rooms and at least 10 metres away from the tree"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "$45 (every site visit on Saturdays costs $45)",
+   "gold": "$45"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "10%; the Seniors' Plan 15% applies on Tuesdays only",
+   "gold": "10%"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; written utility confirmation that the line is switched off allows it",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; all free-swim monthly members get a new card",
+   "gold": "Yes; the date limit applies only to lesson members, all free-swim monthly members need the new card"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; lesson members registered before Mar 4 keep their existing card",
+   "gold": "No; they keep using their existing card"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12,000원 (2 × 4,500원 + 3,000원)",
+   "gold": "12,000 won"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,250원 (half the adult fee)",
+   "gold": "2,250 won"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "lane 4, shared with intermediate swimmers",
+   "gold": "Lane 4"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "at the 1F info desk, Mar 25-31",
+   "gold": "At the 1st-floor information desk, from March 25 to March 31"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000원",
+   "gold": "3,000 won"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "facilities team 박지훈 주임, 031-555-0172 (weekdays 9-18h)",
+   "gold": "Park Jihoon (박지훈), facilities team, 031-555-0172"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; own kickboard and fins only in lane 5",
+   "gold": "No; personal kickboards and fins are allowed only in lane 5"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; up to 20 walks may be approved on your own",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helena Duarte, operations coordinator",
+   "gold": "Helena Duarte, the operations coordinator"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; any boarding discount needs approval of Bruno Teles, owner",
+   "gold": "No; any boarding discount needs approval from Bruno Teles, the owner"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helena Duarte, operations coordinator",
+   "gold": "Helena Duarte, the operations coordinator"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; the card was sent by 18h the day before the walk",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the team emergency line (41) 3555-0190 yourself; then tell the client the search team is leaving and they must leave the home gate open themselves and stay home with phone on",
+   "gold": "Call the team emergency line (41) 3555-0190 yourself, tell the client the search team is already leaving, and ask them to leave the house gate open and stay home with their phone on"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "The client"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; Annual Plan cancellations are free until 2h before",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sundays are individual walks only",
+   "gold": "No; on Sundays only individual walks are offered"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact or copy Sérgio Lima about customer complaints",
+   "gold": "No"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; business orders up to €750 may be approved on your own",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marleen Visser, owner",
+   "gold": "Marleen Visser, the owner"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Anouk de Vries, store manager",
+   "gold": "Anouk de Vries, the business manager"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€21 (60% of €35)",
+   "gold": "€21"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing; 60% back only if cancelled more than 48h ahead",
+   "gold": "Nothing (€0); only cancellations more than 48 hours ahead get 60% back"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€127.50 (€120 + €7.50 Saturday delivery)",
+   "gold": "€127.50"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the Wine Club discount applies on Thursday only",
+   "gold": "No; the Wijnclub discount applies only on Thursday"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call our delivery service at 030-555-0136 yourself; then tell the customer our team is on the way and they must call 112 themselves if someone is seriously injured",
+   "gold": "Call the delivery service yourself at 030-555-0136, then tell the customer our team is on the way and that they must call 112 themselves if someone is seriously injured"
+  },
+  {
+   "f": "mnc27_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $600 is within your limit (up to $600)",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marta Kowal, the operations manager",
+   "gold": "Marta Kowal, the operations manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, over 4 cords needs approval (approver not stated)",
+   "gold": "No; it needs approval, approver not stated"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, every tree removal quote must be approved by Priya Haldane, the owner",
+   "gold": "No; every tree removal must be approved by Priya Haldane, the owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only at 07:30, 12:30 and 17:00",
+   "gold": "No; only at 07:30, 12:30 and 17:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the emergency crew line 555-0148 yourself, then tell the customer an emergency crew is on its way and that they must keep everyone out of the damaged rooms and at least 10 metres from the tree",
+   "gold": "Call the emergency crew line 555-0148 yourself, tell the customer an emergency crew is on its way, and tell them to keep everyone out of the damaged rooms and at least 10 metres away from the tree"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "$45 (all Saturday site visits cost $45)",
+   "gold": "$45"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "10% (the 15% Seniors' Plan discount applies only on Tuesdays)",
+   "gold": "10%"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, written utility confirmation that the line is switched off lifts the ban",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, free-swim monthly members must get a new card (March 25–31 at the 1st-floor information desk)",
+   "gold": "Yes; the date limit applies only to lesson members, all free-swim monthly members need the new card"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, lesson members registered before March 4 keep their existing card",
+   "gold": "No; they keep using their existing card"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12,000 won",
+   "gold": "12,000 won"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,250 won (half the adult fee)",
+   "gold": "2,250 won"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "lane 4, shared with intermediate swimmers",
+   "gold": "Lane 4"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "at the 1st-floor information desk, from March 25 to March 31",
+   "gold": "At the 1st-floor information desk, from March 25 to March 31"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000 won",
+   "gold": "3,000 won"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Park Ji-hoon (facilities team), 031-555-0172, weekdays 9am–6pm",
+   "gold": "Park Jihoon (박지훈), facilities team, 031-555-0172"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, personal fins may be used only in lane 5",
+   "gold": "No; personal kickboards and fins are allowed only in lane 5"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, packages up to 20 walks are within your limit",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helena Duarte, the operations coordinator",
+   "gold": "Helena Duarte, the operations coordinator"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, any boarding discount needs approval from Bruno Teles, the owner",
+   "gold": "No; any boarding discount needs approval from Bruno Teles, the owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helena Duarte, the operations coordinator",
+   "gold": "Helena Duarte, the operations coordinator"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, it arrived by 18:00 the day before",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the team emergency line (41) 3555-0190 yourself, then tell the client the search team is leaving and ask them to leave their gate open and stay home with their phone on",
+   "gold": "Call the team emergency line (41) 3555-0190 yourself, tell the client the search team is already leaving, and ask them to leave the house gate open and stay home with their phone on"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "The client"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, Plano Anual clients can cancel up to 2 hours before at no cost",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, on Sundays only individual walks are offered",
+   "gold": "No; on Sundays only individual walks are offered"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Sérgio Lima about client complaints",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, business orders up to €750 are within your limit",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marleen Visser, the owner",
+   "gold": "Marleen Visser, the owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Anouk de Vries, the store manager",
+   "gold": "Anouk de Vries, the business manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€21 (60% of €35)",
+   "gold": "€21"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing (60% refund only for cancellations more than 48 hours ahead)",
+   "gold": "Nothing (€0); only cancellations more than 48 hours ahead get 60% back"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€127.50 (€120 + €7.50 Saturday delivery)",
+   "gold": "€127.50"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the Wijnclub 10% discount applies only on Thursdays",
+   "gold": "No; the Wijnclub discount applies only on Thursday"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call our delivery service at 030-555-0136 yourself, then tell the customer our team is on its way and that they must call 112 themselves if someone is seriously injured",
+   "gold": "Call the delivery service yourself at 030-555-0136, then tell the customer our team is on the way and that they must call 112 themselves if someone is seriously injured"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; stump grinding ≤$600 is self-approved",
+   "gold": "Yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marta Kowal (ops manager)",
+   "gold": "Marta Kowal, the operations manager"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; above 4 cords needs approval (approver not stated)",
+   "gold": "No; it needs approval, approver not stated"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; every tree removal quote goes to Priya Haldane",
+   "gold": "No; every tree removal must be approved by Priya Haldane, the owner"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; checked at 07:30, 12:30 and 17:00",
+   "gold": "No; only at 07:30, 12:30 and 17:00"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the emergency crew at 555-0148, then tell the customer the crew is on its way and they must keep everyone out of damaged rooms and at least 10 m from the tree (no utility call since no wire mentioned)",
+   "gold": "Call the emergency crew line 555-0148 yourself, tell the customer an emergency crew is on its way, and tell them to keep everyone out of the damaged rooms and at least 10 metres away from the tree"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "$45 (every Saturday site visit costs $45)",
+   "gold": "$45"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "10%; the Seniors' Plan 15% applies only on Tuesdays",
+   "gold": "10%"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; written utility confirmation that the line is off allows quoting",
+   "gold": "Yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; all free-swim monthly members get a new card (March 25–31, 1st-floor info desk)",
+   "gold": "Yes; the date limit applies only to lesson members, all free-swim monthly members need the new card"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; lesson members registered before March 4 keep their existing card",
+   "gold": "No; they keep using their existing card"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12,000 won",
+   "gold": "12,000 won"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,250 won",
+   "gold": "2,250 won"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "lane 4, together with intermediate swimmers",
+   "gold": "Lane 4"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "at the 1st-floor information desk, March 25–31",
+   "gold": "At the 1st-floor information desk, from March 25 to March 31"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000 won",
+   "gold": "3,000 won"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Park Ji-hoon (박지훈 주임), facilities team, 031-555-0172 (weekdays 09:00–18:00)",
+   "gold": "Park Jihoon (박지훈), facilities team, 031-555-0172"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; personal fins only in lane 5",
+   "gold": "No; personal kickboards and fins are allowed only in lane 5"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; packages ≤20 walks are self-approved",
+   "gold": "Yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helena Duarte (operations coordinator)",
+   "gold": "Helena Duarte, the operations coordinator"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; any boarding discount goes to Bruno Teles",
+   "gold": "No; any boarding discount needs approval from Bruno Teles, the owner"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helena Duarte",
+   "gold": "Helena Duarte, the operations coordinator"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; sent by 18h the day before is allowed",
+   "gold": "Yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the team emergency line (41) 3555-0190, then tell the client the search team is leaving and ask them to leave the home gate open and stay home with phone on",
+   "gold": "Call the team emergency line (41) 3555-0190 yourself, tell the client the search team is already leaving, and ask them to leave the house gate open and stay home with their phone on"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "The client"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; Plano Anual cancels free up to 2h before",
+   "gold": "Yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sundays are individual walks only",
+   "gold": "No; on Sundays only individual walks are offered"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; business orders ≤€750 are self-approved",
+   "gold": "Yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marleen Visser",
+   "gold": "Marleen Visser, the owner"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Anouk de Vries (manager)",
+   "gold": "Anouk de Vries, the business manager"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€21 (60% of €35)",
+   "gold": "€21"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing; refund requires more than 48 hours",
+   "gold": "Nothing (€0); only cancellations more than 48 hours ahead get 60% back"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€127.50 (€120 + €7.50 Saturday delivery); ID required at delivery",
+   "gold": "€127.50"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the 10% club discount is Thursday only",
+   "gold": "No; the Wijnclub discount applies only on Thursday"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the delivery service at 030-555-0136, then tell the customer our team is on its way and that they must call 112 themselves if the injury is serious",
+   "gold": "Call the delivery service yourself at 030-555-0136, then tell the customer our team is on the way and that they must call 112 themselves if someone is seriously injured"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, ≤$600 can be self-confirmed",
+   "gold": "Yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marta Kowal (operations manager)",
+   "gold": "Marta Kowal, the operations manager"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; needs approval (approver not stated)",
+   "gold": "No; it needs approval, approver not stated"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; every removal quote needs Priya Haldane (owner)",
+   "gold": "No; every tree removal must be approved by Priya Haldane, the owner"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; checked at 07:30, 12:30, 17:00",
+   "gold": "No; only at 07:30, 12:30 and 17:00"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call emergency crew 555-0148, then tell customer crew is on the way; they must keep everyone out of damaged rooms and ≥10 m from the tree (no utility call needed)",
+   "gold": "Call the emergency crew line 555-0148 yourself, tell the customer an emergency crew is on its way, and tell them to keep everyone out of the damaged rooms and at least 10 metres away from the tree"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "$45 (Saturday visits cost $45)",
+   "gold": "$45"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "10% (Seniors' Plan 15% applies Tuesdays only)",
+   "gold": "10%"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; all free-swim monthly members get a new card",
+   "gold": "Yes; the date limit applies only to lesson members, all free-swim monthly members need the new card"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; lesson members registered before 3/4 keep their existing card",
+   "gold": "No; they keep using their existing card"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12,000 won",
+   "gold": "12,000 won"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,250 won",
+   "gold": "2,250 won"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "lane 4, shared with intermediate swimmers",
+   "gold": "Lane 4"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "at the 1st-floor information desk, March 25–31",
+   "gold": "At the 1st-floor information desk, from March 25 to March 31"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000 won",
+   "gold": "3,000 won"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Park Ji-hoon (facilities team), 031-555-0172, weekdays 09:00–18:00",
+   "gold": "Park Jihoon (박지훈), facilities team, 031-555-0172"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; personal fins only in lane 5",
+   "gold": "No; personal kickboards and fins are allowed only in lane 5"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helena Duarte (operations coordinator)",
+   "gold": "Helena Duarte, the operations coordinator"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; any boarding discount needs Bruno Teles (owner)",
+   "gold": "No; any boarding discount needs approval from Bruno Teles, the owner"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helena Duarte (operations coordinator)",
+   "gold": "Helena Duarte, the operations coordinator"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the team emergency line (41) 3555-0190, then tell the client a search team is leaving and ask them to leave the gate open and stay home with phone on",
+   "gold": "Call the team emergency line (41) 3555-0190 yourself, tell the client the search team is already leaving, and ask them to leave the house gate open and stay home with their phone on"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "The client"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sundays are individual walks only",
+   "gold": "No; on Sundays only individual walks are offered"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marleen Visser (owner)",
+   "gold": "Marleen Visser, the owner"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Anouk de Vries (manager)",
+   "gold": "Anouk de Vries, the business manager"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€21 (60% of €35)",
+   "gold": "€21"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing (€0); only cancellations more than 48 hours ahead get 60%",
+   "gold": "Nothing (€0); only cancellations more than 48 hours ahead get 60% back"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€127.50",
+   "gold": "€127.50"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; discount only on Thursday",
+   "gold": "No; the Wijnclub discount applies only on Thursday"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the delivery service 030-555-0136, then tell the customer the team is on the way and that they must call 112 themselves if the injury is serious",
+   "gold": "Call the delivery service yourself at 030-555-0136, then tell the customer our team is on the way and that they must call 112 themselves if someone is seriously injured"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, ≤$600 can be self-confirmed",
+   "gold": "Yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marta Kowal (operations manager)",
+   "gold": "Marta Kowal, the operations manager"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, more than 4 cords needs approval; the approver is not stated",
+   "gold": "No; it needs approval, approver not stated"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, every removal quote needs Priya Haldane (owner)",
+   "gold": "No; every tree removal must be approved by Priya Haldane, the owner"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, checks are at 07:30, 12:30 and 17:00",
+   "gold": "No; only at 07:30, 12:30 and 17:00"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the emergency crew at 555-0148, then tell the customer the crew is on the way and that they must keep everyone out of damaged rooms and at least 10 m from the tree",
+   "gold": "Call the emergency crew line 555-0148 yourself, tell the customer an emergency crew is on its way, and tell them to keep everyone out of the damaged rooms and at least 10 metres away from the tree"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "$45 (Saturday visits always cost $45)",
+   "gold": "$45"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "10% (the Seniors' Plan 15% applies only on Tuesdays)",
+   "gold": "10%"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, all free-swim monthly members pick up a new card at the 1st-floor info desk, 3/25–3/31",
+   "gold": "Yes; the date limit applies only to lesson members, all free-swim monthly members need the new card"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, lesson members registered before 3/4 keep using their existing card",
+   "gold": "No; they keep using their existing card"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12,000 won",
+   "gold": "12,000 won"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,250 won (half the adult fee)",
+   "gold": "2,250 won"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "lane 4, shared with intermediate swimmers",
+   "gold": "Lane 4"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1st-floor information desk, 3/25–3/31",
+   "gold": "At the 1st-floor information desk, from March 25 to March 31"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000 won",
+   "gold": "3,000 won"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Park Ji-hoon (박지훈 주임), facilities team, 031-555-0172, weekdays 09:00–18:00",
+   "gold": "Park Jihoon (박지훈), facilities team, 031-555-0172"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, personal fins are allowed only in lane 5",
+   "gold": "No; personal kickboards and fins are allowed only in lane 5"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helena Duarte (operations coordinator)",
+   "gold": "Helena Duarte, the operations coordinator"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, any boarding discount needs Bruno Teles (owner)",
+   "gold": "No; any boarding discount needs approval from Bruno Teles, the owner"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helena Duarte",
+   "gold": "Helena Duarte, the operations coordinator"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, the deadline is 18:00 the day before",
+   "gold": "Yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the team emergency line at (41) 3555-0190, then tell the client the search team is leaving and ask them to leave the gate open and stay home with their phone on",
+   "gold": "Call the team emergency line (41) 3555-0190 yourself, tell the client the search team is already leaving, and ask them to leave the house gate open and stay home with their phone on"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "The client"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, Plano Anual allows free cancellation up to 2h before",
+   "gold": "Yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only individual walks on Sundays",
+   "gold": "No; on Sundays only individual walks are offered"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marleen Visser (owner)",
+   "gold": "Marleen Visser, the owner"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Anouk de Vries (store manager)",
+   "gold": "Anouk de Vries, the business manager"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€21 (60% of €35)",
+   "gold": "€21"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€0, a refund requires cancelling more than 48 hours ahead",
+   "gold": "Nothing (€0); only cancellations more than 48 hours ahead get 60% back"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€127.50 (€120 + €7.50 Saturday delivery)",
+   "gold": "€127.50"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the wine-club discount applies only on Thursdays",
+   "gold": "No; the Wijnclub discount applies only on Thursday"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the delivery service at 030-555-0136, then tell the customer the team is on the way and that they must call 112 themselves if anyone is seriously injured",
+   "gold": "Call the delivery service yourself at 030-555-0136, then tell the customer our team is on the way and that they must call 112 themselves if someone is seriously injured"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer"
+  }
+ ],
+ "summary": {
+  "llm05_r1": {
+   "all": [
+    35,
+    38
+   ],
+   "S": [
+    27,
+    28
+   ],
+   "F": [
+    8,
+    10
+   ],
+   "hop2": [
+    13,
+    16
+   ]
+  },
+  "llm066_r1": {
+   "all": [
+    37,
+    38
+   ],
+   "S": [
+    28,
+    28
+   ],
+   "F": [
+    9,
+    10
+   ],
+   "hop2": [
+    15,
+    16
+   ]
+  },
+  "mnc26_r1": {
+   "all": [
+    38,
+    38
+   ],
+   "S": [
+    28,
+    28
+   ],
+   "F": [
+    10,
+    10
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "mnc26_r2": {
+   "all": [
+    38,
+    38
+   ],
+   "S": [
+    28,
+    28
+   ],
+   "F": [
+    10,
+    10
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "mnc27_r1": {
+   "all": [
+    38,
+    38
+   ],
+   "S": [
+    28,
+    28
+   ],
+   "F": [
+    10,
+    10
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "mnc27_r2": {
+   "all": [
+    38,
+    38
+   ],
+   "S": [
+    28,
+    28
+   ],
+   "F": [
+    10,
+    10
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "original_r1": {
+   "all": [
+    38,
+    38
+   ],
+   "S": [
+    28,
+    28
+   ],
+   "F": [
+    10,
+    10
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "summ_r1": {
+   "all": [
+    38,
+    38
+   ],
+   "S": [
+    28,
+    28
+   ],
+   "F": [
+    10,
+    10
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "terse_r1": {
+   "all": [
+    38,
+    38
+   ],
+   "S": [
+    28,
+    28
+   ],
+   "F": [
+    10,
+    10
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "terse_r2": {
+   "all": [
+    38,
+    38
+   ],
+   "S": [
+    28,
+    28
+   ],
+   "F": [
+    10,
+    10
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  }
+ }
+}

@@ -1,0 +1,56 @@
+TEXT:
+§1
+Inbox assistant, Brightridge Roofing (6-person roofer). Check quotes@brightridgeroofing.example weekdays 7:30, 13:00. Book roof inspections alone, max 4/day; 5th+ same-day request waits for next day's list. Repair orders: confirm alone up to $900; above $900 needs Dana Okafor (operations manager) approval. Limit = repair orders only; roof replacement quotes always need Dana approval. Dana = ops manager, NOT owner; owner = Marcus Bell. Never CC Marcus on customer complaints. Never promise completion date before crew inspects roof. Never share customer address with others. Reschedule request: move to next free slot; if received <24h before visit, forward to Dana. Insurance paperwork requests: answer by Thursday 17:00, week received. Emergency, water through ceiling: you call on-call crew 555-0148, tell customer crew on way, tell customer to switch off that room's electricity at breaker themselves. Every quote email ends exactly: "This quote is valid for 30 days from today." Mondays 9:00: send Dana report, all open quotes + booked inspections.
+
+§2
+Hanbit Village Complex 3 management office notice to Complex 3 residents: second-half bulk waste collection. Date Sat Dec 5; put out 7–10 AM; location: ground parking lot between Bldgs 102 and 105. Free: all chairs; mattresses made before 2016. Other items need pre-bought disposal sticker: 1-seat sofa ₩6,000; 3-seat sofa ₩12,000; wardrobe ₩4,000 per door. Stickers sold at management office Nov 30–Dec 3, 9 AM–6 PM. Excluded: appliances (fridges, washers etc.) — apply separately to appliance pickup center 080-555-0419. Don't put items out before 8 PM Dec 4 (day before). Mobility-impaired households: apply to office by Dec 2; staff collect at unit door. Mattresses: wrap in plastic. Wardrobes: don't detach doors, put out as-is. Leftover items rechecked by office staff Dec 7, 2 PM. Unstickered items not collected. Heavy rain on collection day: may postpone one day; postponement announced via complex broadcast + elevator boards. Questions: Supervisor Park Ji-hyun, office, 031-555-0172, weekdays 9 AM–5 PM. Thanks for cooperation.
+
+§3
+Mail assistant, Vetri Chiari (Bergamo window cleaning, 4 staff). Check prenotazioni@vetrichiari.example workdays 8:00, 15:30. Book apartment jobs alone up to 12 windows; 13+ needs approval of Chiara Bonetti (sales manager). Condos + shops: every quote always needs approval, any window count. Chiara = sales manager, NOT owner; owner = Giulia Rota. Never CC Giulia on complaint emails. Never promise cleaning glass above 2nd floor without aerial lift platform. Never give prices by phone. Cancellations free if ≥48h before job, except December: every cancellation €20. Invoice requests: handle by Friday 12:00 same week. Emergency, customer reports broken glass during job: you call on-duty glazier 035 555 0261, tell customer glazier coming, tell customer to keep children + animals out of room themselves. Every complaint reply starts exactly: «Ci scusiamo per il disagio e ce ne occupiamo subito.» Wednesdays 18:00: send Chiara week's job summary incl. cancellations received.
+
+§4
+Email assistant, Norrvärme Service (small Umeå heat-pump servicing firm). Read service@norrvarme.example weekdays 7:45, 14:00. Book annual service alone up to 6 visits/day; more same day needs approval of Elin Sjöberg (work supervisor). Elin = supervisor, NOT owner; owner = Johan Lindqvist. Never contact Johan on warranty matters. Never promise spare-parts price before technician on site. Never email customer's personal ID number. Service visit: 1,450 SEK. Cancellation <24h before visit: charged 40% of visit price, unless customer sick with doctor's certificate. Earlier cancellations free. Complaints: answer by next weekday 12:00. Emergency, burning smell or smoke from heat pump: you call on-call technician 070-555 31 84, tell customer technician on way, tell customer to switch off heat pump at safety switch themselves. Every booking confirmation ends exactly: "Välkommen att höra av dig om tiden inte passar." Fridays 16:00: send Elin report of week's bookings + cancellations.
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: A customer accepts a repair order quoted at exactly $900. May the assistant confirm it on its own?
+§1.q2: Un cliente chiede la sostituzione completa del tetto con un preventivo di 750 dollari. L'assistente può confermarla da solo?
+§1.q3: A repair order comes to $901. Who must approve it, and what is that person's role?
+§1.q4: A customer complains that the crew left nails in the driveway. May the assistant copy Marcus Bell on the reply?
+§1.q5: At 10:00 on Tuesday a customer asks to reschedule an inspection booked for Wednesday 8:00. What should the assistant do?
+§1.q6: Fyra takinspektioner är redan bokade i dag. En femte kund vill ha en inspektion i dag. Får assistenten boka den själv?
+§1.q7: A customer writes that water is coming through the bedroom ceiling. What exactly must the assistant do and tell the customer?
+§1.q8: In the ceiling-leak emergency, who is supposed to switch off the electricity at the breaker: the assistant, the crew or the customer?
+§1.q9: 견적 이메일은 어떤 정확한 문장으로 끝나야 합니까?
+§1.q10: Insurance paperwork is requested on a Tuesday. By when must it be answered?
+§2.q1: When is the bulky-waste collection and during which hours may items be put out?
+§2.q2: 2019년에 제조된 의자는 무료로 수거됩니까?
+§2.q3: Is a mattress manufactured in 2019 collected free of charge?
+§2.q4: Is a mattress manufactured in 2012 collected free of charge?
+§2.q5: 한 세대가 3인용 소파 1개와 문짝이 3개인 장롱 1개를 버리려고 합니다. 스티커 비용은 총 얼마입니까?
+§2.q6: Can a resident put a refrigerator out on the collection day?
+§2.q7: A resident wants to put a sofa out on December 4 at 9 pm. Is that allowed?
+§2.q8: 스티커는 언제, 몇 시부터 몇 시까지 판매합니까?
+§2.q9: By what date must residents with limited mobility apply for door-front pickup?
+§2.q10: Who is the contact person for questions, and what is the phone number?
+§3.q1: A customer books cleaning for an apartment with exactly 12 windows. May the assistant schedule it on its own?
+§3.q2: Un appartamento ha 13 finestre. L'assistente può fissare l'intervento da solo? Se no, chi deve approvare?
+§3.q3: A small shop asks for a quote for 5 windows. May the assistant schedule it on its own, and who approves it?
+§3.q4: Chi è la titolare di Vetri Chiari?
+§3.q5: Replying to a complaint about streaks on the windows, may the assistant copy Giulia Rota?
+§3.q6: Un cliente disdice il 10 dicembre un intervento previsto per il 14 dicembre. Quanto costa la disdetta?
+§3.q7: A customer cancels on 10 March for an appointment on 14 March. Is there a cancellation fee?
+§3.q8: During a job a customer reports that a window pane broke. What must the assistant do and tell the customer?
+§3.q9: In the broken-window emergency, who keeps children and animals away from the room?
+§3.q10: Must a reply to a complaint start or end with the fixed sentence, and what is it?
+§4.q1: Six annual service visits are already booked for Tuesday. A customer asks for a seventh on Tuesday. May the assistant book it on its own?
+§4.q2: Fem servicebesök är bokade på onsdag. Får assistenten själv boka ett sjätte besök samma dag?
+§4.q3: En kund avbokar 10 timmar före besöket och är inte sjuk. Hur mycket debiteras kunden?
+§4.q4: A customer cancels 10 hours before the visit because they are ill and shows a doctor's certificate. What are they charged?
+§4.q5: A customer cancels 30 hours before the visit. What is the fee?
+§4.q6: A customer emails about a warranty claim. May the assistant contact Johan Lindqvist about it?
+§4.q7: Är Elin Sjöberg ägare till Norrvärme Service?
+§4.q8: A customer reports a burning smell from the heat pump. What must the assistant do and tell the customer?
+§4.q9: Vid brännlukt från värmepumpen: vem ska stänga av värmepumpen med säkerhetsbrytaren?
+§4.q10: A complaint arrives on Friday at 15:00. By when must it be answered?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

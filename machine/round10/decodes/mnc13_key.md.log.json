@@ -1,0 +1,122 @@
+[
+ {
+  "job": "1:English",
+  "seconds": 32.9,
+  "usage": {
+   "completion_tokens": 251,
+   "prompt_tokens": 1017,
+   "total_tokens": 1268,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "1:Spanish",
+  "seconds": 43.8,
+  "usage": {
+   "completion_tokens": 369,
+   "prompt_tokens": 1017,
+   "total_tokens": 1386,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "2:English",
+  "seconds": 23.9,
+  "usage": {
+   "completion_tokens": 137,
+   "prompt_tokens": 1017,
+   "total_tokens": 1154,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "2:Portuguese",
+  "seconds": 24.6,
+  "usage": {
+   "completion_tokens": 183,
+   "prompt_tokens": 1017,
+   "total_tokens": 1200,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "3:English",
+  "seconds": 20.0,
+  "usage": {
+   "completion_tokens": 137,
+   "prompt_tokens": 1017,
+   "total_tokens": 1154,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "3:Chinese",
+  "seconds": 20.1,
+  "usage": {
+   "completion_tokens": 139,
+   "prompt_tokens": 1017,
+   "total_tokens": 1156,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "4:English",
+  "seconds": 22.3,
+  "usage": {
+   "completion_tokens": 152,
+   "prompt_tokens": 1017,
+   "total_tokens": 1169,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "4:German",
+  "seconds": 32.0,
+  "usage": {
+   "completion_tokens": 209,
+   "prompt_tokens": 1017,
+   "total_tokens": 1226,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "5:English",
+  "seconds": 23.2,
+  "usage": {
+   "completion_tokens": 172,
+   "prompt_tokens": 1017,
+   "total_tokens": 1189,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ },
+ {
+  "job": "5:French",
+  "seconds": 29.3,
+  "usage": {
+   "completion_tokens": 235,
+   "prompt_tokens": 1017,
+   "total_tokens": 1252,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  }
+ }
+]

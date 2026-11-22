@@ -1,0 +1,515 @@
+{
+ "written": "2026-11-19 by independent author (r28)",
+ "questions": [
+  {
+   "id": "§1.q1",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer with a standard sweep booking asks for a $35 discount. Can the assistant grant it without asking anyone?",
+   "gold": "yes, up to $35 on standard sweeps is allowed",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q2",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer booking a camera inspection asks for a $20 discount. Can the assistant grant it on its own? If not, who must approve?",
+   "gold": "no, camera inspection discounts need approval from Nadia Fenwick, the office manager",
+   "accept": [
+    "^\\W*no\\b",
+    "nadia|fenwick"
+   ],
+   "reject": [
+    "ruth|tobias|emil"
+   ]
+  },
+  {
+   "id": "§1.q3",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer is owed a refund of exactly $120. Does it require Nadia Fenwick's approval?",
+   "gold": "no, only refunds above $120 need her approval",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q4",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Ist Tobias Grell der Inhaber von Kestrel Flue & Chimney? Wer ist es sonst?",
+   "gold": "no, Tobias Grell is the lead technician; the owner is Ruth Calloway",
+   "accept": [
+    "^\\W*no\\b",
+    "ruth|calloway"
+   ],
+   "reject": [
+    "owner is (tobias|emil|nadia)"
+   ]
+  },
+  {
+   "id": "§1.q5",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "While answering a customer complaint, may the assistant copy Emil Calloway on the reply?",
+   "gold": "no, Emil Calloway must never be copied on a customer complaint",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q6",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "Two customers each ask to move their booking 30 hours before the appointment. Ms. Avery has an active annual service plan; Mr. Bose does not. Whose move is free of charge?",
+   "gold": "only Ms. Avery's (service-plan customers can move free up to 12 hours before); Mr. Bose would need 48 hours",
+   "accept": [
+    "avery"
+   ],
+   "reject": [
+    "bose('s)? (move )?is free|both"
+   ]
+  },
+  {
+   "id": "§1.q7",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A quote request arrives by email on Thursday morning. By when must it be answered?",
+   "gold": "by Friday 17:00 (next business day)",
+   "accept": [
+    "friday",
+    "(5\\s*p\\.?\\s*m|17:00|17\\.00)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q8",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "客户来信说烟雾正在进入房屋。助手必须做什么？要告诉客户哪两件事？",
+   "gold": "call the on-call technician line 555-0148 yourself; tell the customer a technician has been alerted, and that they must close the stove's air damper and leave the house",
+   "accept": [
+    "555\\W?0148",
+    "damper",
+    "leave"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q9",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "In the smoke emergency, who is supposed to close the stove's air damper: the assistant, the technician, or the customer?",
+   "gold": "the customer",
+   "accept": [
+    "customer"
+   ],
+   "reject": [
+    "assistant (closes|should close|must close)|technician (closes|should close|must close)"
+   ]
+  },
+  {
+   "id": "§1.q10",
+   "sec": 1,
+   "type": "F",
+   "hop": 1,
+   "q": "With which sentence must every reply to a complaint end, and when is the open-quotes summary sent?",
+   "gold": "\"Thank you for helping us keep your hearth safe.\"; every Friday at 16:00 to Nadia Fenwick",
+   "accept": [
+    "keep your hearth safe",
+    "friday",
+    "(4\\s*p\\.?\\s*m|16:00|16\\.00)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q1",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "From what date do the new parcel-locker rules apply?",
+   "gold": "8 March 2027 (Monday)",
+   "accept": [
+    "(march|mar\\.?|3[/.-])\\s*0?8|0?8(th)?\\s*(of\\s*)?(march|mar)|2027-03-08"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q2",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "How long is free storage for an ordinary parcel, and how long for a cold-chain fresh parcel?",
+   "gold": "24 hours for ordinary parcels, 12 hours for cold-chain parcels",
+   "accept": [
+    "(?<!\\d)24(?!\\d)",
+    "(?<!\\d)12(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q3",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "An ordinary parcel is collected exactly 60 hours after it was put into the locker. How much is the overtime fee?",
+   "gold": "1.5 yuan (36 hours over = 3 × 0.5 yuan)",
+   "accept": [
+    "(?<!\\d)1\\.5(?!\\d)|1\\.50"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q4",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "一个大件包裹于3月10日入柜，行动不便的业主能否使用免费代取服务？",
+   "gold": "yes, the March 15 date limit applies only to cold-chain parcels, not large parcels",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q5",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "一个冷链包裹于3月12日入柜，行动不便的业主能否使用免费代取服务？",
+   "gold": "no, only cold-chain parcels deposited after March 15 qualify",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q6",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "The first Wednesday of a month is a public holiday. When does the locker maintenance take place that month?",
+   "gold": "on the next day (Thursday), 9:00 to 11:00",
+   "accept": [
+    "(next day|thursday|following day)",
+    "(9\\s*(:00)?\\s*a\\.?m|9:00|09:00)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q7",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "快递柜管理员是谁？电话是多少？",
+   "gold": "Zheng Xiaolan, 138 0571 2269",
+   "accept": [
+    "zheng|郑晓岚",
+    "138\\W?0571\\W?2269"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q8",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "A parcel has not been collected for more than 7 days. Where does it go, what must the resident bring, and what is the fee?",
+   "gold": "it is moved to the property service center; bring an ID card; 5 yuan storage fee",
+   "accept": [
+    "service (center|centre)|property|物业",
+    "\\bid\\b|identity|身份证",
+    "(?<!\\d)5(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q9",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "Can a resident open the locker to collect a parcel at 23:30?",
+   "gold": "no, the lockers are open only 6:00–23:00",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q1",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Ein Kunde bestellt Chlortabletten (Pflegechemikalien) für genau 250 Euro nach. Darf der Assistent die Bestellung selbst bestätigen?",
+   "gold": "yes, chemical reorders up to 250 euros may be confirmed on its own",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q2",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer reorders pool-care chemicals worth 265 euros. Can the assistant confirm it alone? If not, who approves?",
+   "gold": "no, it exceeds 250 euros; the text names Lukas Brandauer only for spare parts, so the approver for larger chemical orders is not stated",
+   "accept": [
+    "^\\W*no\\b",
+    "not stated|not specified|not named|unclear|doesn't say|does not say"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q3",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer orders a replacement filter cartridge for 40 euros. Can the assistant confirm it on its own, given the 250-euro limit?",
+   "gold": "no, spare parts always need approval from Lukas Brandauer, the workshop manager, regardless of amount",
+   "accept": [
+    "^\\W*no\\b",
+    "lukas|brandauer"
+   ],
+   "reject": [
+    "sabine|hornung|kessel"
+   ]
+  },
+  {
+   "id": "§3.q4",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Wer ist Inhaber bzw. Inhaberin des Betriebs – Lukas Brandauer?",
+   "gold": "no, the owner is Sabine Hornung; Lukas Brandauer is the workshop manager",
+   "accept": [
+    "sabine|hornung"
+   ],
+   "reject": [
+    "owner is lukas|lukas brandauer is the owner"
+   ]
+  },
+  {
+   "id": "§3.q5",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "May the tax adviser Herr Kessel be copied on an email about a customer complaint?",
+   "gold": "no, never",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q6",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Zwei Kunden wollen am 20. April einen Termin für die Saisoneröffnung buchen: Frau Maier hat einen Wartungsvertrag, Herr Ott nicht. Wer kann noch buchen?",
+   "gold": "only Frau Maier (contract customers can book until 30 April; others only until 15 April)",
+   "accept": [
+    "maier"
+   ],
+   "reject": [
+    "\\bboth\\b|ott can|ott may"
+   ]
+  },
+  {
+   "id": "§3.q7",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer asks by email how much chlorine to add to their pool. May the assistant give a dosage recommendation?",
+   "gold": "no, never give chlorine dosage recommendations by email",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q8",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Ein Kunde meldet starken Chlorgeruch im Technikraum. Was muss der Assistent tun und welche zwei Dinge sagt er dem Kunden?",
+   "gold": "call the on-call technician at 0171 4482905 yourself; tell the customer a technician has been notified, and that they must switch off the pool pump at the main switch and leave the technical room",
+   "accept": [
+    "0171\\W?4482\\W??905",
+    "pump",
+    "(leave|exit|get out)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q9",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "In the chlorine-smell emergency, who switches off the pool pump at the main switch?",
+   "gold": "the customer",
+   "accept": [
+    "customer"
+   ],
+   "reject": [
+    "assistant (switches|should switch|must switch)|technician (switches|should switch|must switch)"
+   ]
+  },
+  {
+   "id": "§3.q10",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "With which sentence must every complaint reply begin, and when is the open-offers overview sent to Sabine Hornung?",
+   "gold": "\"Vielen Dank, dass Sie uns darauf hinweisen.\"; every Monday at 9:00",
+   "accept": [
+    "vielen dank,? dass sie uns darauf hinweisen",
+    "monday|montag",
+    "(9\\s*(:00)?\\s*a\\.?m|9:00|09:00|9 uhr)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q1",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Klient zamawia rośliny i nawozy za dokładnie 180 zł. Czy asystent może samodzielnie potwierdzić zamówienie?",
+   "gold": "yes, up to 180 zł is allowed",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q2",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer orders plants for 181 zł. Can the assistant confirm it alone? If not, who must approve?",
+   "gold": "no, it needs approval from Agnieszka Wróbel, the office manager",
+   "accept": [
+    "^\\W*no\\b",
+    "agnieszk|wr[oó]bel"
+   ],
+   "reject": [
+    "tomasz|marek|irena"
+   ]
+  },
+  {
+   "id": "§4.q3",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "A customer cancels a standard aquarium cleaning 24 hours before the appointment and has no doctor's certificate. How much is the cancellation fee?",
+   "gold": "80 zł (25% of 320 zł)",
+   "accept": [
+    "(?<!\\d)80(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q4",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "The same late cancellation (24 hours before), but the customer sends a doctor's certificate. How much do they pay?",
+   "gold": "nothing (0 zł)",
+   "accept": [
+    "nothing|(?<!\\d)0(?!\\d)|no fee|zero|free"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q5",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "Klient rezygnuje z montażu nowego akwarium 20 dni przed terminem. Ile zaliczki mu zwracamy?",
+   "gold": "400 zł (two thirds of 600 zł)",
+   "accept": [
+    "(?<!\\d)400(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q6",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "One customer owes the late-cancellation fee for a standard cleaning (no certificate) and also resigned from an installation 20 days ahead. In total, how much does the business keep (fee plus the retained part of the deposit)?",
+   "gold": "280 zł (80 zł fee + 200 zł retained deposit)",
+   "accept": [
+    "(?<!\\d)280(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q7",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Is Marek Zieliński the owner of AkwaSerwis Nowak?",
+   "gold": "no, he is the main technician; the owner is Tomasz Nowak",
+   "accept": [
+    "^\\W*no\\b",
+    "tomasz"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q8",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "May the assistant contact Irena Nowak about a customer's billing?",
+   "gold": "no, never",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q9",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer reports a cracked aquarium glass with water leaking. What must the assistant do, and what two things must it tell the customer?",
+   "gold": "call the on-call technician at 602 315 778 yourself; tell the customer the technician has been notified, and that they must immediately unplug the heater and filter themselves",
+   "accept": [
+    "602\\W?315\\W?778",
+    "heater",
+    "filter"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q10",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Kto ma odłączyć grzałkę i filtr od prądu w przypadku wycieku: asystent, technik czy klient?",
+   "gold": "the customer",
+   "accept": [
+    "customer"
+   ],
+   "reject": [
+    "assistant (unplugs|should unplug|must unplug)|technician (unplugs|should unplug|must unplug)"
+   ]
+  }
+ ]
+}

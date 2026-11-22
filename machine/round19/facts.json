@@ -1,0 +1,551 @@
+{
+ "written": "2026-11-17 from originals.txt before any round-19 encoding; sealed questions not opened",
+ "facts": [
+  {
+   "id": "P1.1",
+   "sec": 1,
+   "type": "F",
+   "text": "Harborline Veterinary Clinic Portland Maine; weekdays 7:30 a.m. and 3 p.m. Eastern check frontdesk@harborlinevet.com",
+   "must": [
+    "Harborline",
+    "Portland",
+    "Maine",
+    "(weekday|Mon-Fri)",
+    "7:30",
+    "(3 ?pm|15:00)",
+    "(ET|Eastern)",
+    "frontdesk@harborlinevet\\.com"
+   ]
+  },
+  {
+   "id": "P1.2",
+   "sec": 1,
+   "type": "S",
+   "text": "may book routine appointments alone for pets ≤40 kg; >40 kg booked by head technician Dana Okafor",
+   "must": [
+    "may",
+    "routine",
+    "≤\\s*40\\s*kg",
+    ">\\s*40\\s*kg",
+    "Dana Okafor"
+   ]
+  },
+  {
+   "id": "P1.3",
+   "sec": 1,
+   "type": "S",
+   "text": "clients must confirm surgery ≥48h before drop-off; confirm <48h ahead: may keep slot only for dental cleanings; every other surgery back to waitlist",
+   "must": [
+    "client",
+    "confirm",
+    "≥\\s*48\\s*h before drop-off",
+    "<\\s*48\\s*h",
+    "may keep",
+    "only",
+    "dental clean",
+    "waitlist"
+   ]
+  },
+  {
+   "id": "P1.4",
+   "sec": 1,
+   "type": "S",
+   "text": "no-show fee $35 for appointments missed without notice, except Senior Pet Plan clients",
+   "must": [
+    "no-show",
+    "\\$35",
+    "without notice",
+    "except",
+    "Senior Pet Plan"
+   ]
+  },
+  {
+   "id": "P1.5",
+   "sec": 1,
+   "type": "S",
+   "text": "may approve refills up to 30 days yourself; more than 30 days need Dr. Ingrid Salo",
+   "must": [
+    "may",
+    "refill",
+    "≤\\s*30\\s*d",
+    ">\\s*30\\s*d",
+    "Ingrid Salo"
+   ]
+  },
+  {
+   "id": "P1.6",
+   "sec": 1,
+   "type": "S",
+   "text": "never read lab results to client by phone; tell client: log in to portal or wait for vet call",
+   "must": [
+    "never",
+    "lab results",
+    "phone",
+    "tell (client|them)\\s*:",
+    "portal",
+    "vet"
+   ]
+  },
+  {
+   "id": "P1.7",
+   "sec": 1,
+   "type": "S",
+   "text": "pet ate chocolate or rat poison: tell them drive in immediately; phone emergency line (207) 555-0143 yourself; then text Dana",
+   "must": [
+    "chocolate",
+    "rat poison",
+    "tell (them|caller)\\s*:",
+    "drive in",
+    "(immediately|now)",
+    "\\(207\\) 555-0143",
+    "yourself",
+    "then",
+    "text Dana"
+   ]
+  },
+  {
+   "id": "P1.8",
+   "sec": 1,
+   "type": "S",
+   "text": "Salo is medical director not owner; owner Martin Kell never cc on client emails",
+   "must": [
+    "Salo\\s*=",
+    "never \"?owner",
+    "Martin Kell",
+    "never cc"
+   ]
+  },
+  {
+   "id": "P1.9",
+   "sec": 1,
+   "type": "S",
+   "text": "every client reminder ends with \"Reply STOP to opt out of reminders.\"",
+   "must": [
+    "reminder",
+    "end",
+    "\"Reply STOP to opt out of reminders\\.\""
+   ]
+  },
+  {
+   "id": "P1.10",
+   "sec": 1,
+   "type": "S",
+   "text": "send Dana list of accounts with balances >$200 by 9 a.m. every Friday",
+   "must": [
+    "list",
+    "account",
+    "balance",
+    ">\\s*\\$200",
+    "by (9 ?am|9:00)",
+    "Fri"
+   ]
+  },
+  {
+   "id": "P2.1",
+   "sec": 2,
+   "type": "F",
+   "text": "Résidence étudiante Les Tilleuls Lyon; Mon-Sat 9:15 check accueil@residence-tilleuls.fr",
+   "must": [
+    "Les Tilleuls",
+    "Lyon",
+    "Mon-Sat",
+    "9:15",
+    "accueil@residence-tilleuls\\.fr"
+   ]
+  },
+  {
+   "id": "P2.2",
+   "sec": 2,
+   "type": "S",
+   "text": "may extend stay yourself up to 7 nights; beyond 7 nights only accommodation manager Claire Vasseur accepts",
+   "must": [
+    "may",
+    "extend",
+    "≤\\s*7 nights",
+    ">\\s*7 nights",
+    "only",
+    "Claire Vasseur"
+   ]
+  },
+  {
+   "id": "P2.3",
+   "sec": 2,
+   "type": "S",
+   "text": "resident may host guest free max 3 nights/month; from 4th night of month pays €18/night",
+   "must": [
+    "guest",
+    "free",
+    "(max|≤)\\s*3 nights",
+    "month",
+    "(from )?4th night",
+    "€18"
+   ]
+  },
+  {
+   "id": "P2.4",
+   "sec": 2,
+   "type": "S",
+   "text": "rent due by the 3rd of each month; resident (not assistant) must upload transfer proof",
+   "must": [
+    "rent",
+    "by (the )?3",
+    "month",
+    "resident",
+    "(proof|justificatif)",
+    "not (you|assistant)"
+   ]
+  },
+  {
+   "id": "P2.5",
+   "sec": 2,
+   "type": "S",
+   "text": "may refund deposit yourself up to €600; deposit >€600 refunded only after check-out inspection signed by Claire",
+   "must": [
+    "may",
+    "deposit",
+    "≤\\s*€?600",
+    ">\\s*€?600",
+    "only after",
+    "(inspection|état des lieux)",
+    "sign",
+    "Claire"
+   ]
+  },
+  {
+   "id": "P2.6",
+   "sec": 2,
+   "type": "S",
+   "text": "never give resident room number to visitor; call resident to come down to reception",
+   "must": [
+    "never",
+    "room number",
+    "visitor",
+    "call",
+    "reception"
+   ]
+  },
+  {
+   "id": "P2.7",
+   "sec": 2,
+   "type": "S",
+   "text": "fire alarm: tell residents exit by stairway B; call caretaker 04 72 55 01 38 yourself; then SMS Claire",
+   "must": [
+    "fire alarm",
+    "tell residents\\s*:",
+    "stair(way|s|case)? B",
+    "caretaker|gardien",
+    "04 72 55 01 38",
+    "yourself",
+    "then",
+    "(SMS|text)"
+   ]
+  },
+  {
+   "id": "P2.8",
+   "sec": 2,
+   "type": "S",
+   "text": "Claire is accommodation manager not director; director Mme Hélène Brisset never cc on resident emails except exclusion cases",
+   "must": [
+    "Claire\\s*=",
+    "never \"?director",
+    "Hélène Brisset",
+    "never cc",
+    "except",
+    "exclusion"
+   ]
+  },
+  {
+   "id": "P2.9",
+   "sec": 2,
+   "type": "S",
+   "text": "every reminder email contains exact sentence « Merci de régulariser votre situation sous huit jours. »",
+   "must": [
+    "reminder",
+    "Merci de régulariser votre situation sous huit jours\\."
+   ]
+  },
+  {
+   "id": "P2.10",
+   "sec": 2,
+   "type": "S",
+   "text": "every Monday before 10:00 send Claire list of rents unpaid >5 days",
+   "must": [
+    "Mon",
+    "before 10:00",
+    "list",
+    "rent",
+    "unpaid",
+    ">\\s*5\\s*d"
+   ]
+  },
+  {
+   "id": "P3.1",
+   "sec": 3,
+   "type": "F",
+   "text": "Hanbit Yoga Studio Mapo-gu Seoul; daily 8:00 and 18:00 check info@hanbityoga.kr",
+   "must": [
+    "(한빛|Hanbit)",
+    "(마포|Mapo)",
+    "(Seoul|서울)",
+    "daily",
+    "8:00",
+    "18:00",
+    "info@hanbityoga\\.kr"
+   ]
+  },
+  {
+   "id": "P3.2",
+   "sec": 3,
+   "type": "S",
+   "text": "may book member classes yourself up to 2 per day; 3+ same day needs operations manager 정수아 approval",
+   "must": [
+    "may",
+    "≤\\s*2",
+    "day",
+    "(≥\\s*3|3\\+)",
+    "same day",
+    "정수아"
+   ]
+  },
+  {
+   "id": "P3.3",
+   "sec": 3,
+   "type": "S",
+   "text": "cancel ≥3h before start free; <3h before start: 1 session deducted; except class changed due to instructor: no deduction",
+   "must": [
+    "cancel",
+    "(free)",
+    "(≥\\s*3\\s*h|until 3\\s*h)",
+    "<\\s*3\\s*h before start",
+    "deduct",
+    "except",
+    "instructor"
+   ]
+  },
+  {
+   "id": "P3.4",
+   "sec": 3,
+   "type": "S",
+   "text": "trial class once per person, ₩15,000",
+   "must": [
+    "trial",
+    "once per person",
+    "15,?000"
+   ]
+  },
+  {
+   "id": "P3.5",
+   "sec": 3,
+   "type": "S",
+   "text": "10-class pass refund only if used ≤4; refund processed by 정수아 not you; you only tell member to fill refund form",
+   "must": [
+    "10-class",
+    "refund",
+    "only if",
+    "≤\\s*4",
+    "정수아",
+    "not (you|yourself)",
+    "tell member\\s*:",
+    "refund (form|application)"
+   ]
+  },
+  {
+   "id": "P3.6",
+   "sec": 3,
+   "type": "S",
+   "text": "never tell member phone number or home address to other members",
+   "must": [
+    "never",
+    "phone",
+    "address",
+    "other member"
+   ]
+  },
+  {
+   "id": "P3.7",
+   "sec": 3,
+   "type": "S",
+   "text": "member injured in class: tell instructor: don't move member; call 119 yourself; then text 정수아 at 010-5550-2741",
+   "must": [
+    "injur",
+    "tell instructor\\s*:",
+    "(don.t|not|never) move",
+    "119",
+    "yourself",
+    "then",
+    "text",
+    "010-5550-2741"
+   ]
+  },
+  {
+   "id": "P3.8",
+   "sec": 3,
+   "type": "S",
+   "text": "정수아 is operations manager not CEO; CEO 박도현 never cc on member emails",
+   "must": [
+    "정수아\\s*=",
+    "never \"?(CEO|대표|owner|representative)",
+    "박도현",
+    "never cc"
+   ]
+  },
+  {
+   "id": "P3.9",
+   "sec": 3,
+   "type": "S",
+   "text": "every notice text ends with exact sentence \"수업 10분 전까지 입실해 주세요.\"",
+   "must": [
+    "(text|message|SMS)",
+    "end",
+    "수업 10분 전까지 입실해 주세요\\."
+   ]
+  },
+  {
+   "id": "P3.10",
+   "sec": 3,
+   "type": "S",
+   "text": "every Sunday before 21:00 send 정수아 week no-show list",
+   "must": [
+    "Sun",
+    "before 21:00",
+    "no-show",
+    "list"
+   ]
+  },
+  {
+   "id": "P4.1",
+   "sec": 4,
+   "type": "F",
+   "text": "Raiz Verde Hortifrúti Orgânico Belo Horizonte; Mon-Sat 7:00 and 16:00 check pedidos@raizverde.com.br",
+   "must": [
+    "Raiz Verde",
+    "Belo Horizonte",
+    "Mon-Sat",
+    "7:00",
+    "16:00",
+    "pedidos@raizverde\\.com\\.br"
+   ]
+  },
+  {
+   "id": "P4.2",
+   "sec": 4,
+   "type": "S",
+   "text": "may accept orders up to R$800 alone; above R$800 needs sales manager Thiago Ramalho",
+   "must": [
+    "may",
+    "≤\\s*R\\$ ?800",
+    ">\\s*R\\$ ?800",
+    "Thiago Ramalho"
+   ]
+  },
+  {
+   "id": "P4.3",
+   "sec": 4,
+   "type": "S",
+   "text": "delivery free from R$150; below R$12 fee, except Cesta Semanal plan customers",
+   "must": [
+    "deliver",
+    "free",
+    "(≥|from)\\s*R\\$ ?150",
+    "<\\s*R\\$ ?150|below",
+    "R\\$ ?12",
+    "except",
+    "Cesta Semanal"
+   ]
+  },
+  {
+   "id": "P4.4",
+   "sec": 4,
+   "type": "S",
+   "text": "next-day delivery orders by 20:00; after: offer delivery two days later",
+   "must": [
+    "next-day",
+    "by 20:00",
+    "after",
+    "offer",
+    "(2|two) days"
+   ]
+  },
+  {
+   "id": "P4.5",
+   "sec": 4,
+   "type": "S",
+   "text": "order late >2 hours: customer gets 10% coupon; you generate it yourself in panel",
+   "must": [
+    "late",
+    ">\\s*2\\s*h",
+    "10%",
+    "coupon",
+    "(you )?generate",
+    "(yourself|self)",
+    "panel"
+   ]
+  },
+  {
+   "id": "P4.6",
+   "sec": 4,
+   "type": "S",
+   "text": "refunds only financial analyst Juliana Prates; tell customer: send photo of damaged product to qualidade@raizverde.com.br within 24h after delivery",
+   "must": [
+    "refund",
+    "only",
+    "Juliana Prates",
+    "tell (customer|them)\\s*:",
+    "photo",
+    "damaged",
+    "qualidade@raizverde\\.com\\.br",
+    "within 24\\s*h"
+   ]
+  },
+  {
+   "id": "P4.7",
+   "sec": 4,
+   "type": "S",
+   "text": "never tell customer driver route or mobile; customer not home: ask driver to call central (31) 5555-0192",
+   "must": [
+    "never",
+    "route",
+    "(mobile|cell|phone)",
+    "not (at )?home",
+    "ask driver\\s*:",
+    "call",
+    "\\(31\\) 5555-0192"
+   ]
+  },
+  {
+   "id": "P4.8",
+   "sec": 4,
+   "type": "S",
+   "text": "Thiago sales manager not owner; owner Marta Ribeiro never cc on customer emails",
+   "must": [
+    "Thiago\\s*=",
+    "never \"?owner",
+    "Marta Ribeiro",
+    "never cc"
+   ]
+  },
+  {
+   "id": "P4.9",
+   "sec": 4,
+   "type": "S",
+   "text": "every order confirmation ends with exact sentence \"Frutas maduras podem variar de cor e tamanho.\"",
+   "must": [
+    "confirmation",
+    "end",
+    "Frutas maduras podem variar de cor e tamanho\\."
+   ]
+  },
+  {
+   "id": "P4.10",
+   "sec": 4,
+   "type": "S",
+   "text": "send Thiago cancelled orders report before 11:00 every Thursday",
+   "must": [
+    "Thu",
+    "before 11:00",
+    "cancel",
+    "report"
+   ]
+  }
+ ]
+}

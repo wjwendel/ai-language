@@ -1,0 +1,528 @@
+{
+ "written": "2026-11-21 by independent author (r31)",
+ "questions": [
+  {
+   "id": "§1.q1",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A sauna customer asks for a refund of exactly $150. May the assistant approve it on its own?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q2",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer asks for a refund of $151. May the assistant approve it alone, and if not, who must approve?",
+   "gold": "no; Marta Kowalczyk, the operations manager",
+   "accept": [
+    "^\\W*no\\b",
+    "marta"
+   ],
+   "reject": [
+    "daniel",
+    "lena",
+    "tom"
+   ]
+  },
+  {
+   "id": "§1.q3",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "Un cliente ordina legna da ardere per 75 dollari. L'assistente può approvarlo da solo? Se no, chi deve approvare?",
+   "gold": "no; it needs approval and must be held, but the approver is not stated",
+   "accept": [
+    "^\\W*no\\b",
+    "(not\\s+(stated|specified|named|given|mentioned)|unspecified|unnamed|no\\s+(approver|one|person)\\s+(is\\s+)?(named|stated|specified))"
+   ],
+   "reject": [
+    "marta",
+    "daniel",
+    "lena"
+   ]
+  },
+  {
+   "id": "§1.q4",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A firewood top-up order totals exactly $60. May the assistant approve it on its own?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q5",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer asks for their cleaning fee to be waived and Marta says she will approve the waiver. Is Marta's approval enough?",
+   "gold": "no; only Daniel Oyelaran, the owner, may waive it (Marta may only reduce it by up to half)",
+   "accept": [
+    "^\\W*no\\b",
+    "daniel"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q6",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer emails that there is smoke inside the sauna cabin. What must the assistant do, and what two things must it tell the customer?",
+   "gold": "call the on-call technician at 555-0187 yourself; tell the customer a technician is on the way, and that they must prop the cabin door open and step outside",
+   "accept": [
+    "555\\W?0187",
+    "(on\\s+(the|its|their)\\s+way|coming|en\\s+route|dispatched)",
+    "door",
+    "(outside|step\\s+out|leave)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q7",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "In the smoke emergency, who is supposed to prop the cabin door open: the assistant, the technician, or the customer?",
+   "gold": "the customer",
+   "accept": [
+    "customer"
+   ],
+   "reject": [
+    "^\\W*(the\\s+)?(assistant|technician)"
+   ]
+  },
+  {
+   "id": "§1.q8",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Czy asystent sprawdza skrzynkę bookings o 11:00?",
+   "gold": "no; only at 8:00 and 13:30",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q9",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer who booked through the winter festival promotion cancels 10 days before delivery. Is the deposit refunded?",
+   "gold": "no; winter festival promotion deposits are never refunded",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q10",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "On a Saturday a customer emails asking what time the trailer will be delivered. Should the assistant answer it itself?",
+   "gold": "no; forward it to Lena's phone queue",
+   "accept": [
+    "^\\W*no\\b",
+    "lena"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q1",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "一位65岁的退休居民（不是学生）报名书法班，学费是多少元（不含教材费）？",
+   "gold": "240 yuan",
+   "accept": [
+    "(?<!\\d)240(?!\\d)"
+   ],
+   "reject": [
+    "(?<!\\d)480(?!\\d)"
+   ]
+  },
+  {
+   "id": "§2.q2",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "A 25-year-old graduate student with a valid student ID enrolls. What is the total they pay, tuition plus textbook fee?",
+   "gold": "275 yuan",
+   "accept": [
+    "(?<!\\d)275(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q3",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "A 50-year-old resident who is not a student enrolls. Do they get the half-price rate?",
+   "gold": "no; they pay the full 480 yuan",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q4",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "学员必须自己购买练习用的宣纸吗？",
+   "gold": "no; the night school provides the rice paper (students must bring their own brush, ink and felt pad)",
+   "accept": [
+    "^\\W*no\\b",
+    "(provide|suppl|school|given)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q5",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "Is there class on the evening of December 24? If not, when is the make-up class?",
+   "gold": "no; the make-up class is on December 27 at 7:00 pm",
+   "accept": [
+    "^\\W*no\\b",
+    "(?<!\\d)27(?!\\d)",
+    "(7(:00)?\\s*p\\.?m|19:00)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q6",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A student submits a written request on December 2 to transfer to another class. Will it be accepted?",
+   "gold": "no; refund or transfer requests must be submitted in writing by November 30 at 5:00 pm",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q7",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "如有疑问应联系谁？电话是多少？",
+   "gold": "Zhou Yaqin (周雅琴), the academic affairs teacher, 0512-6683 2471",
+   "accept": [
+    "(zhou|周雅琴)",
+    "6683\\W?2471"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q8",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "一位不住在东湖街道、也没有居住证的人，去年春季班已结业。他能报名吗？",
+   "gold": "yes, with the completion certificate",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q9",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "How much is the textbook fee, and does the half-price discount apply to it?",
+   "gold": "35 yuan; no, the textbook fee gets no discount",
+   "accept": [
+    "(?<!\\d)35(?!\\d)",
+    "\\bno"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q1",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer renting for exactly 7 nights asks for a 10% discount. May the assistant grant it on its own?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q2",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Un cliente noleggia per 6 notti e chiede uno sconto del 5%. L'assistente può concederlo da solo? Se no, chi approva?",
+   "gold": "no; Giulia Ferraro, the sales manager",
+   "accept": [
+    "^\\W*no\\b",
+    "giulia"
+   ],
+   "reject": [
+    "sergio",
+    "paolo",
+    "chiara"
+   ]
+  },
+  {
+   "id": "§3.q3",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer renting for 9 nights asks for a 12% discount. Who decides?",
+   "gold": "Sergio Neri, the owner",
+   "accept": [
+    "sergio"
+   ],
+   "reject": [
+    "giulia",
+    "paolo",
+    "^\\W*(yes|the\\s+assistant)"
+   ]
+  },
+  {
+   "id": "§3.q4",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Un cliente scrive che sente odore di gas nel camper. Cosa deve fare l'assistente e quali due cose deve dire al cliente?",
+   "gold": "call the 24-hour assistance at 0185 774 392 yourself; tell the customer help is coming and that they must close the gas bottle valve themselves and get out of the camper",
+   "accept": [
+    "0185\\W?774\\W?392",
+    "(coming|on\\s+(the|its)\\s+way|arriv|en\\s+route)",
+    "valve"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q5",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "In the gas-smell case, who closes the gas bottle valve: the assistant, the assistance service, or the customer?",
+   "gold": "the customer",
+   "accept": [
+    "customer"
+   ],
+   "reject": [
+    "^\\W*(the\\s+)?(assistant|assistance)"
+   ]
+  },
+  {
+   "id": "§3.q6",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer has paid the balance and will arrive at 20:15, after the office closes. May the assistant give them the key-box code?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q7",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Un cliente arriva alle 21:00 ma ha pagato solo la caparra, non il saldo. L'assistente può comunicare il codice della cassetta delle chiavi?",
+   "gold": "no; the balance must already be paid",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q8",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A 23-year-old driver wants to rent. Giulia says she can authorize it. Is that enough?",
+   "gold": "no; only Sergio Neri, the owner, may authorize drivers under 25",
+   "accept": [
+    "^\\W*no\\b",
+    "sergio"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q9",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Un cliente che NON è socio del Club Campeggiatori Liguri cancella 10 giorni prima della partenza. La cancellazione è gratuita?",
+   "gold": "no; for non-members it is free only up to 15 days before departure",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q10",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer wants to bring a dog on the «Aurora» camper and offers to pay the 50 € supplement. Is that allowed?",
+   "gold": "no; Aurora is reserved for allergic customers, no animals",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q1",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "A group cancels its «Laboratorium» booking 24 hours before the game. How much is the cancellation fee in złoty?",
+   "gold": "108 zł",
+   "accept": [
+    "(?<!\\d)108(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q2",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "Grupa zapłaciła 360 zł za «Laboratorium» i odwołuje rezerwację 24 godziny przed grą. Ile zwracamy i czy asystent może sam zatwierdzić ten zwrot?",
+   "gold": "252 zł; no, it exceeds 200 zł, so Kamil Wróbel, the shift manager, must approve",
+   "accept": [
+    "(?<!\\d)252(?!\\d)",
+    "\\bno\\b",
+    "kamil"
+   ],
+   "reject": [
+    "\\bewa\\b",
+    "iwon"
+   ]
+  },
+  {
+   "id": "§4.q3",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer asks for a refund of exactly 200 zł. May the assistant approve it alone?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q4",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Klient prosi o zwrot 230 zł. Czy asystent może zatwierdzić go sam? Jeśli nie, kto zatwierdza?",
+   "gold": "no; Kamil Wróbel, the shift manager",
+   "accept": [
+    "^\\W*no\\b",
+    "kamil"
+   ],
+   "reject": [
+    "\\bewa\\b",
+    "iwon",
+    "robert"
+   ]
+  },
+  {
+   "id": "§4.q5",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Czy pytanie o fakturę należy skierować do Ewy Sadowskiej?",
+   "gold": "no; to Iwona Pawlak, the accountant (Ewa is the owner)",
+   "accept": [
+    "^\\W*no\\b",
+    "iwon"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q6",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer asks for a free game voucher and Kamil offers to issue it. May Kamil do that?",
+   "gold": "no; only Ewa Sadowska, the owner, may grant free vouchers",
+   "accept": [
+    "^\\W*no\\b",
+    "\\bewa\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q7",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A group of 7 wants to play in «Krypta» and Kamil has confirmed it in writing. May they be admitted?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q8",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A group of 6 wants to play in «Laboratorium» and Kamil confirms it in writing. May they be admitted?",
+   "gold": "no; the Laboratorium limit is 5 with no exceptions",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q9",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "During a game a player reports smoke. What must the assistant do, what two things must it tell the player, and who presses the green emergency button?",
+   "gold": "call the duty phone 601 482 935 yourself; tell the player staff are on the way and that they must press the green emergency button by the door themselves; the player presses it",
+   "accept": [
+    "601\\W?482\\W?935",
+    "(on\\s+(the|its|their)\\s+way|coming|en\\s+route)",
+    "green",
+    "player"
+   ],
+   "reject": [
+    "assistant\\s+(presses|pushes)"
+   ]
+  },
+  {
+   "id": "§4.q10",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A school group asks for the 15% discount for a Friday game. Do they get it?",
+   "gold": "no; the school discount applies only Monday to Thursday",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  }
+ ]
+}

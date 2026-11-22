@@ -1,0 +1,900 @@
+{
+ "facts": [
+  {
+   "id": "§1.1",
+   "sec": "§1",
+   "type": "S",
+   "text": "Actor/role: email assistant for Tidy Nest Home Organizing"
+  },
+  {
+   "id": "§1.2",
+   "sec": "§1",
+   "type": "F",
+   "text": "Inbox bookings@tidynest.example"
+  },
+  {
+   "id": "§1.3",
+   "sec": "§1",
+   "type": "S",
+   "text": "Check inbox at 8:00 and 13:30 only"
+  },
+  {
+   "id": "§1.4",
+   "sec": "§1",
+   "type": "S",
+   "text": "Answer new booking inquiries within 4 hours of finding them"
+  },
+  {
+   "id": "§1.5",
+   "sec": "§1",
+   "type": "S",
+   "text": "Full-house project quotes must go out by 17:00 next business day"
+  },
+  {
+   "id": "§1.6",
+   "sec": "§1",
+   "type": "S",
+   "text": "May approve rescheduling on own up to 2 requests per client per month"
+  },
+  {
+   "id": "§1.7",
+   "sec": "§1",
+   "type": "S",
+   "text": "Third rescheduling request goes to Priya Raman"
+  },
+  {
+   "id": "§1.8",
+   "sec": "§1",
+   "type": "S",
+   "text": "Priya Raman is operations manager"
+  },
+  {
+   "id": "§1.9",
+   "sec": "§1",
+   "type": "S",
+   "text": "Rescheduling limit applies only to standard sessions"
+  },
+  {
+   "id": "§1.10",
+   "sec": "§1",
+   "type": "S",
+   "text": "Moving-day packing sessions may never be rescheduled by assistant"
+  },
+  {
+   "id": "§1.11",
+   "sec": "§1",
+   "type": "S",
+   "text": "Moving-day packing sessions always go to Priya"
+  },
+  {
+   "id": "§1.12",
+   "sec": "§1",
+   "type": "S",
+   "text": "May approve crew supply purchases on own up to 60 dollars"
+  },
+  {
+   "id": "§1.13",
+   "sec": "§1",
+   "type": "S",
+   "text": "Supply purchases above 60 dollars need approval (approver unnamed)"
+  },
+  {
+   "id": "§1.14",
+   "sec": "§1",
+   "type": "S",
+   "text": "May grant client discounts on own up to 10 percent"
+  },
+  {
+   "id": "§1.15",
+   "sec": "§1",
+   "type": "S",
+   "text": "Discount condition: only to repeat clients"
+  },
+  {
+   "id": "§1.16",
+   "sec": "§1",
+   "type": "S",
+   "text": "Larger discounts must be approved by Priya Raman"
+  },
+  {
+   "id": "§1.17",
+   "sec": "§1",
+   "type": "S",
+   "text": "Only Marco Lindqvist may approve refunds"
+  },
+  {
+   "id": "§1.18",
+   "sec": "§1",
+   "type": "S",
+   "text": "Marco Lindqvist is the owner"
+  },
+  {
+   "id": "§1.19",
+   "sec": "§1",
+   "type": "S",
+   "text": "Priya may issue gift-card credits up to 40 dollars"
+  },
+  {
+   "id": "§1.20",
+   "sec": "§1",
+   "type": "S",
+   "text": "Priya may not issue refunds"
+  },
+  {
+   "id": "§1.21",
+   "sec": "§1",
+   "type": "S",
+   "text": "Dana Okafor is lead organizer, NOT the scheduler"
+  },
+  {
+   "id": "§1.22",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never copy Theo Brandt on any billing email"
+  },
+  {
+   "id": "§1.23",
+   "sec": "§1",
+   "type": "S",
+   "text": "Theo Brandt is former bookkeeper"
+  },
+  {
+   "id": "§1.24",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never promise same-day service"
+  },
+  {
+   "id": "§1.25",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never send client's home address to crew by email"
+  },
+  {
+   "id": "§1.26",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception: unless client signed the access form"
+  },
+  {
+   "id": "§1.27",
+   "sec": "§1",
+   "type": "S",
+   "text": "Cancellations under 48 hours before session cost full session fee"
+  },
+  {
+   "id": "§1.28",
+   "sec": "§1",
+   "type": "F",
+   "text": "Session fee is 180 dollars"
+  },
+  {
+   "id": "§1.29",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception: no fee when client sends doctor's note"
+  },
+  {
+   "id": "§1.30",
+   "sec": "§1",
+   "type": "S",
+   "text": "On Saturdays do not answer new inquiries yourself"
+  },
+  {
+   "id": "§1.31",
+   "sec": "§1",
+   "type": "S",
+   "text": "On Saturdays forward new inquiries to Dana"
+  },
+  {
+   "id": "§1.32",
+   "sec": "§1",
+   "type": "S",
+   "text": "Emergency trigger: client reports crew member hurt on site"
+  },
+  {
+   "id": "§1.33",
+   "sec": "§1",
+   "type": "S",
+   "text": "Call crew safety line yourself"
+  },
+  {
+   "id": "§1.34",
+   "sec": "§1",
+   "type": "F",
+   "text": "Crew safety line 555-0147"
+  },
+  {
+   "id": "§1.35",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell client help is on the way"
+  },
+  {
+   "id": "§1.36",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell client to keep everyone away from crew member"
+  },
+  {
+   "id": "§1.37",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell client not to move them"
+  },
+  {
+   "id": "§1.38",
+   "sec": "§1",
+   "type": "F",
+   "text": "Every quote must end with \"Prices are valid for 14 days.\""
+  },
+  {
+   "id": "§1.39",
+   "sec": "§1",
+   "type": "F",
+   "text": "Every invoice must start with \"Thank you for choosing Tidy Nest.\""
+  },
+  {
+   "id": "§1.40",
+   "sec": "§1",
+   "type": "F",
+   "text": "Send Marco weekly summary every Friday at 16:00"
+  },
+  {
+   "id": "§1.41",
+   "sec": "§1",
+   "type": "F",
+   "text": "Send Priya supply report first Monday of each month at 9:00"
+  },
+  {
+   "id": "§2.1",
+   "sec": "§2",
+   "type": "F",
+   "text": "Sakuradai 3-chome Neighborhood Association disaster drill notice"
+  },
+  {
+   "id": "§2.2",
+   "sec": "§2",
+   "type": "F",
+   "text": "Drill hosted by neighborhood association"
+  },
+  {
+   "id": "§2.3",
+   "sec": "§2",
+   "type": "F",
+   "text": "Drill date November 8"
+  },
+  {
+   "id": "§2.4",
+   "sec": "§2",
+   "type": "F",
+   "text": "Assembly at 9:30 a.m."
+  },
+  {
+   "id": "§2.5",
+   "sec": "§2",
+   "type": "F",
+   "text": "Location Sakuradai Second Park"
+  },
+  {
+   "id": "§2.6",
+   "sec": "§2",
+   "type": "F",
+   "text": "Drill starts 10:00"
+  },
+  {
+   "id": "§2.7",
+   "sec": "§2",
+   "type": "F",
+   "text": "Scheduled to end 11:45"
+  },
+  {
+   "id": "§2.8",
+   "sec": "§2",
+   "type": "F",
+   "text": "Participation free"
+  },
+  {
+   "id": "§2.9",
+   "sec": "§2",
+   "type": "F",
+   "text": "Emergency drinking water distributed to all households"
+  },
+  {
+   "id": "§2.10",
+   "sec": "§2",
+   "type": "F",
+   "text": "2 bottles per household"
+  },
+  {
+   "id": "§2.11",
+   "sec": "§2",
+   "type": "S",
+   "text": "Helmets distributed only if ordered by October 25"
+  },
+  {
+   "id": "§2.12",
+   "sec": "§2",
+   "type": "F",
+   "text": "Helmet price 1,800 yen each"
+  },
+  {
+   "id": "§2.13",
+   "sec": "§2",
+   "type": "F",
+   "text": "Association subsidizes one third"
+  },
+  {
+   "id": "§2.14",
+   "sec": "§2",
+   "type": "F",
+   "text": "Household pays remainder"
+  },
+  {
+   "id": "§2.15",
+   "sec": "§2",
+   "type": "S",
+   "text": "Payment on the day at reception"
+  },
+  {
+   "id": "§2.16",
+   "sec": "§2",
+   "type": "S",
+   "text": "Cash only"
+  },
+  {
+   "id": "§2.17",
+   "sec": "§2",
+   "type": "S",
+   "text": "Participants must bring own flashlight"
+  },
+  {
+   "id": "§2.18",
+   "sec": "§2",
+   "type": "S",
+   "text": "Association will not lend flashlights"
+  },
+  {
+   "id": "§2.19",
+   "sec": "§2",
+   "type": "S",
+   "text": "Fire extinguisher experience limited to junior-high students and older"
+  },
+  {
+   "id": "§2.20",
+   "sec": "§2",
+   "type": "S",
+   "text": "Rain: held at Second Elementary School gymnasium"
+  },
+  {
+   "id": "§2.21",
+   "sec": "§2",
+   "type": "S",
+   "text": "Heavy rain warning: drill cancelled"
+  },
+  {
+   "id": "§2.22",
+   "sec": "§2",
+   "type": "S",
+   "text": "Postponed to November 15 same time"
+  },
+  {
+   "id": "§2.23",
+   "sec": "§2",
+   "type": "S",
+   "text": "Exception: people 70+ and households with infants count as participating without coming"
+  },
+  {
+   "id": "§2.24",
+   "sec": "§2",
+   "type": "S",
+   "text": "Condition: display safety confirmation card at front door"
+  },
+  {
+   "id": "§2.25",
+   "sec": "§2",
+   "type": "F",
+   "text": "Cards distributed November 1-5"
+  },
+  {
+   "id": "§2.26",
+   "sec": "§2",
+   "type": "F",
+   "text": "Cards distributed 13:00-17:00"
+  },
+  {
+   "id": "§2.27",
+   "sec": "§2",
+   "type": "F",
+   "text": "Cards distributed at association meeting hall"
+  },
+  {
+   "id": "§2.28",
+   "sec": "§2",
+   "type": "S",
+   "text": "Stretcher practice only for group leaders designated by disaster officer"
+  },
+  {
+   "id": "§2.29",
+   "sec": "§2",
+   "type": "S",
+   "text": "Absence notices and questions by phone"
+  },
+  {
+   "id": "§2.30",
+   "sec": "§2",
+   "type": "S",
+   "text": "Deadline November 6"
+  },
+  {
+   "id": "§2.31",
+   "sec": "§2",
+   "type": "S",
+   "text": "Contact: disaster officer Kenji Morita"
+  },
+  {
+   "id": "§2.32",
+   "sec": "§2",
+   "type": "F",
+   "text": "Morita phone 090-4417-2385"
+  },
+  {
+   "id": "§2.33",
+   "sec": "§2",
+   "type": "S",
+   "text": "Deputy Misaki Takahashi handles reception on the day"
+  },
+  {
+   "id": "§2.34",
+   "sec": "§2",
+   "type": "S",
+   "text": "Takahashi does not accept phone contact"
+  },
+  {
+   "id": "§2.35",
+   "sec": "§2",
+   "type": "F",
+   "text": "After drill at 12:00 pork miso soup served"
+  },
+  {
+   "id": "§2.36",
+   "sec": "§2",
+   "type": "F",
+   "text": "Served at meeting hall"
+  },
+  {
+   "id": "§2.37",
+   "sec": "§2",
+   "type": "F",
+   "text": "One bowl per person"
+  },
+  {
+   "id": "§2.38",
+   "sec": "§2",
+   "type": "S",
+   "text": "Bring own tableware"
+  },
+  {
+   "id": "§3.1",
+   "sec": "§3",
+   "type": "S",
+   "text": "Actor/role: email assistant for Lavandería Burbuja, self-service laundromat"
+  },
+  {
+   "id": "§3.2",
+   "sec": "§3",
+   "type": "F",
+   "text": "Inbox clientes@burbuja.example"
+  },
+  {
+   "id": "§3.3",
+   "sec": "§3",
+   "type": "S",
+   "text": "Check at 9:00, 14:00, 19:30"
+  },
+  {
+   "id": "§3.4",
+   "sec": "§3",
+   "type": "S",
+   "text": "May approve broken-machine refunds on own up to 8 euros"
+  },
+  {
+   "id": "§3.5",
+   "sec": "§3",
+   "type": "S",
+   "text": "Larger refunds approved by Lucía Ferrer"
+  },
+  {
+   "id": "§3.6",
+   "sec": "§3",
+   "type": "S",
+   "text": "Lucía Ferrer is shop manager"
+  },
+  {
+   "id": "§3.7",
+   "sec": "§3",
+   "type": "S",
+   "text": "May accept business drop-off orders on own up to 15 kilos per order"
+  },
+  {
+   "id": "§3.8",
+   "sec": "§3",
+   "type": "S",
+   "text": "Larger orders need approval (approver unnamed)"
+  },
+  {
+   "id": "§3.9",
+   "sec": "§3",
+   "type": "S",
+   "text": "Only Andrés Vidal may sign monthly hotel contracts"
+  },
+  {
+   "id": "§3.10",
+   "sec": "§3",
+   "type": "S",
+   "text": "Andrés Vidal is owner"
+  },
+  {
+   "id": "§3.11",
+   "sec": "§3",
+   "type": "S",
+   "text": "Lucía may send quotes"
+  },
+  {
+   "id": "§3.12",
+   "sec": "§3",
+   "type": "S",
+   "text": "Lucía may not sign"
+  },
+  {
+   "id": "§3.13",
+   "sec": "§3",
+   "type": "S",
+   "text": "Rosa Méndez is maintenance technician, NOT manager"
+  },
+  {
+   "id": "§3.14",
+   "sec": "§3",
+   "type": "S",
+   "text": "Do not send Rosa customer complaints"
+  },
+  {
+   "id": "§3.15",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never copy Jaime Soto on any order email"
+  },
+  {
+   "id": "§3.16",
+   "sec": "§3",
+   "type": "S",
+   "text": "Jaime Soto is former detergent supplier"
+  },
+  {
+   "id": "§3.17",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never promise same-day delivery"
+  },
+  {
+   "id": "§3.18",
+   "sec": "§3",
+   "type": "S",
+   "text": "Exception: order under 5 kilos"
+  },
+  {
+   "id": "§3.19",
+   "sec": "§3",
+   "type": "S",
+   "text": "Exception condition: and arrives before 10:00"
+  },
+  {
+   "id": "§3.20",
+   "sec": "§3",
+   "type": "S",
+   "text": "Drop-off orders delivered in 48 hours"
+  },
+  {
+   "id": "§3.21",
+   "sec": "§3",
+   "type": "S",
+   "text": "Exception: duvets take 72 hours"
+  },
+  {
+   "id": "§3.22",
+   "sec": "§3",
+   "type": "S",
+   "text": "Reply to complaints within 24 hours"
+  },
+  {
+   "id": "§3.23",
+   "sec": "§3",
+   "type": "S",
+   "text": "Invoice requests answered within 3 business days"
+  },
+  {
+   "id": "§3.24",
+   "sec": "§3",
+   "type": "F",
+   "text": "Tuesdays member-card customers 20% off drop-off laundry"
+  },
+  {
+   "id": "§3.25",
+   "sec": "§3",
+   "type": "S",
+   "text": "Discount not applicable to duvets"
+  },
+  {
+   "id": "§3.26",
+   "sec": "§3",
+   "type": "S",
+   "text": "Emergency trigger: machine leaking water flooding floor"
+  },
+  {
+   "id": "§3.27",
+   "sec": "§3",
+   "type": "S",
+   "text": "Call on-call technician yourself"
+  },
+  {
+   "id": "§3.28",
+   "sec": "§3",
+   "type": "F",
+   "text": "Technician phone 600 312 845"
+  },
+  {
+   "id": "§3.29",
+   "sec": "§3",
+   "type": "S",
+   "text": "Tell customer technician on the way"
+  },
+  {
+   "id": "§3.30",
+   "sec": "§3",
+   "type": "S",
+   "text": "Tell customer to press red emergency stop button by the door themselves"
+  },
+  {
+   "id": "§3.31",
+   "sec": "§3",
+   "type": "F",
+   "text": "Complaint replies must end with «Gracias por su paciencia, el equipo de Burbuja.»"
+  },
+  {
+   "id": "§3.32",
+   "sec": "§3",
+   "type": "F",
+   "text": "Send Andrés revenue report every Monday 8:30"
+  },
+  {
+   "id": "§3.33",
+   "sec": "§3",
+   "type": "F",
+   "text": "Send Lucía breakdown report every Thursday 18:00"
+  },
+  {
+   "id": "§4.1",
+   "sec": "§4",
+   "type": "S",
+   "text": "Actor/role: email assistant for Parlak Halı Yıkama"
+  },
+  {
+   "id": "§4.2",
+   "sec": "§4",
+   "type": "F",
+   "text": "Inbox siparis@parlakhali.example"
+  },
+  {
+   "id": "§4.3",
+   "sec": "§4",
+   "type": "S",
+   "text": "Check every morning 7:30 and evening 18:00"
+  },
+  {
+   "id": "§4.4",
+   "sec": "§4",
+   "type": "S",
+   "text": "May approve home carpet quotes on own up to 12 m²"
+  },
+  {
+   "id": "§4.5",
+   "sec": "§4",
+   "type": "S",
+   "text": "Larger home carpet orders approved by Elif Aydın"
+  },
+  {
+   "id": "§4.6",
+   "sec": "§4",
+   "type": "S",
+   "text": "Elif Aydın is business manager"
+  },
+  {
+   "id": "§4.7",
+   "sec": "§4",
+   "type": "S",
+   "text": "Limit applies to home carpets only"
+  },
+  {
+   "id": "§4.8",
+   "sec": "§4",
+   "type": "S",
+   "text": "Office and hotel orders of any size always approved by Murat Kaya"
+  },
+  {
+   "id": "§4.9",
+   "sec": "§4",
+   "type": "S",
+   "text": "Murat Kaya is owner"
+  },
+  {
+   "id": "§4.10",
+   "sec": "§4",
+   "type": "S",
+   "text": "Ercan Demir is delivery driver, NOT accountant"
+  },
+  {
+   "id": "§4.11",
+   "sec": "§4",
+   "type": "S",
+   "text": "Do not route payment questions to Ercan"
+  },
+  {
+   "id": "§4.12",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never forward customer info to former employee Serkan Yılmaz"
+  },
+  {
+   "id": "§4.13",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never give definite stain-removal guarantee"
+  },
+  {
+   "id": "§4.14",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never share customer phone numbers with third parties"
+  },
+  {
+   "id": "§4.15",
+   "sec": "§4",
+   "type": "S",
+   "text": "Exception: customer gave written permission"
+  },
+  {
+   "id": "§4.16",
+   "sec": "§4",
+   "type": "F",
+   "text": "Standard wash 90 TL per m²"
+  },
+  {
+   "id": "§4.17",
+   "sec": "§4",
+   "type": "F",
+   "text": "Wool carpets 120 TL per m²"
+  },
+  {
+   "id": "§4.18",
+   "sec": "§4",
+   "type": "S",
+   "text": "Cancellation <24h before delivery: 25% of service fee deducted"
+  },
+  {
+   "id": "§4.19",
+   "sec": "§4",
+   "type": "F",
+   "text": "Service fee 400 TL"
+  },
+  {
+   "id": "§4.20",
+   "sec": "§4",
+   "type": "S",
+   "text": "Exception: first-time customers no deduction"
+  },
+  {
+   "id": "§4.21",
+   "sec": "§4",
+   "type": "S",
+   "text": "Stain not fully removed: refund half of that carpet's washing fee"
+  },
+  {
+   "id": "§4.22",
+   "sec": "§4",
+   "type": "S",
+   "text": "Reply to new order requests within 6 hours"
+  },
+  {
+   "id": "§4.23",
+   "sec": "§4",
+   "type": "S",
+   "text": "Reply to complaints within 2 hours"
+  },
+  {
+   "id": "§4.24",
+   "sec": "§4",
+   "type": "S",
+   "text": "Saturdays pickup only from Istanbul European side"
+  },
+  {
+   "id": "§4.25",
+   "sec": "§4",
+   "type": "F",
+   "text": "Other days pickup from both sides"
+  },
+  {
+   "id": "§4.26",
+   "sec": "§4",
+   "type": "S",
+   "text": "Emergency trigger: strong chemical smell from delivered carpet and someone dizzy"
+  },
+  {
+   "id": "§4.27",
+   "sec": "§4",
+   "type": "S",
+   "text": "Call emergency response line yourself"
+  },
+  {
+   "id": "§4.28",
+   "sec": "§4",
+   "type": "F",
+   "text": "Line 0212 555 0193"
+  },
+  {
+   "id": "§4.29",
+   "sec": "§4",
+   "type": "S",
+   "text": "Tell customer team is on the way"
+  },
+  {
+   "id": "§4.30",
+   "sec": "§4",
+   "type": "S",
+   "text": "Tell customer they must open windows themselves immediately"
+  },
+  {
+   "id": "§4.31",
+   "sec": "§4",
+   "type": "F",
+   "text": "Delivery confirmation emails end with \"Halınız özenle yıkanmıştır.\""
+  },
+  {
+   "id": "§4.32",
+   "sec": "§4",
+   "type": "F",
+   "text": "Send Murat weekly order report every Monday 10:00"
+  },
+  {
+   "id": "§4.33",
+   "sec": "§4",
+   "type": "F",
+   "text": "Send Elif refund report last Friday of each month 15:00"
+  },
+  {
+   "id": "§4.34",
+   "sec": "§4",
+   "type": "S",
+   "text": "Corporate invoices always prepared by accounting team"
+  },
+  {
+   "id": "§4.35",
+   "sec": "§4",
+   "type": "S",
+   "text": "Assistant only tells customer invoice request received"
+  }
+ ],
+ "A": {
+  "kept": 147,
+  "distorted": [],
+  "lost": [],
+  "added": [],
+  "notes": "Editorial clarification '(the approver is not named)' in §1 supply purchases and §3 large orders is accurate to ORIGINAL; not counted as added content."
+ },
+ "B": {
+  "kept": 147,
+  "distorted": [],
+  "lost": [],
+  "added": [],
+  "notes": "Same accurate '(the approver is not named)' clarifications in §1 and §3; not counted as added content."
+ }
+}

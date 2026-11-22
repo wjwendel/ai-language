@@ -1,0 +1,42 @@
+{
+ "mnc24_r1": {
+  "§2.q5": [
+   1,
+   "correct amount; regex \\b fails because 元 directly follows the digits (CJK char counts as \\w)"
+  ],
+  "§2.q6": [
+   1,
+   "correct amount; regex \\b fails because 元 directly follows the digits (CJK char counts as \\w)"
+  ]
+ },
+ "mnc24_r2": {
+  "§2.q5": [
+   1,
+   "correct amount; regex \\b fails because 元 directly follows the digits (CJK char counts as \\w)"
+  ],
+  "§2.q6": [
+   1,
+   "correct amount; regex \\b fails because 元 directly follows the digits (CJK char counts as \\w)"
+  ]
+ },
+ "mnc24x_r1": {
+  "§2.q5": [
+   1,
+   "correct amount; regex \\b fails because 元 directly follows the digits (CJK char counts as \\w)"
+  ],
+  "§2.q6": [
+   1,
+   "correct amount; regex \\b fails because 元 directly follows the digits (CJK char counts as \\w)"
+  ]
+ },
+ "mnc24x_r2": {
+  "§2.q5": [
+   1,
+   "correct amount; regex \\b fails because 元 directly follows the digits (CJK char counts as \\w)"
+  ],
+  "§2.q6": [
+   1,
+   "correct amount; regex \\b fails because 元 directly follows the digits (CJK char counts as \\w)"
+  ]
+ }
+}

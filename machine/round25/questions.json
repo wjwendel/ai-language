@@ -1,0 +1,534 @@
+{
+ "written": "2026-11-19 by independent author (r25)",
+ "questions": [
+  {
+   "id": "§1.q1",
+   "sec": 1,
+   "type": "F",
+   "hop": 1,
+   "q": "Which inbox does the assistant check, and at what times?",
+   "gold": "orders@petalstem.example, every weekday at 8:00 and 14:00",
+   "accept": [
+    "orders@petalstem",
+    "(8:00|8\\s*a\\.?m|\\b8\\b)",
+    "(14:00|2\\s*p\\.?m)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q2",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer emails a bouquet order for exactly $150. May the assistant confirm it without asking anyone?",
+   "gold": "yes, up to $150 it may confirm on its own",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q3",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A bouquet order comes in for $151. Who must approve it?",
+   "gold": "Maren Hollis, the owner",
+   "accept": [
+    "maren"
+   ],
+   "reject": [
+    "delia",
+    "tomas",
+    "owen"
+   ]
+  },
+  {
+   "id": "§1.q4",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "Una pareja pide flores para su boda por $90. ¿Puede el asistente confirmar el pedido por su cuenta?",
+   "gold": "no, wedding/event orders of any amount need Maren's approval; the $150 limit applies only to bouquets",
+   "accept": [
+    "^\\W*no\\b",
+    "maren"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q5",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer asks a question about when their delivery will arrive. Should it go to Delia Ruiz?",
+   "gold": "no, delivery questions go to Tomas Brandt, the delivery manager; Delia is the head designer",
+   "accept": [
+    "^\\W*no\\b",
+    "tomas"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q6",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer complains that a delivered arrangement wilted, and the assistant thinks Owen Pike supplied the roses. May the assistant copy Owen Pike on the complaint reply?",
+   "gold": "no, never contact or copy Owen Pike",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q7",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "An order is confirmed on Sunday at 9:30. When is it delivered?",
+   "gold": "Monday, because no deliveries go out on Sundays",
+   "accept": [
+    "monday"
+   ],
+   "reject": [
+    "same day",
+    "^\\W*sunday"
+   ]
+  },
+  {
+   "id": "§1.q8",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "顾客报告我们的送货司机在他家门口受伤了。助手应该自己打哪个电话？应该告诉顾客哪两件事？",
+   "gold": "call 555-0147 yourself; tell the customer help is on the way and that they (the customer) must keep the driver still and not move him",
+   "accept": [
+    "555\\W?0147",
+    "(on (the|its) way|coming)",
+    "(still|not move|don'?t move)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q9",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "In that driver-injury emergency, who must keep the driver still: the assistant or the customer?",
+   "gold": "the customer",
+   "accept": [
+    "customer"
+   ],
+   "reject": [
+    "^\\W*(the )?assistant"
+   ]
+  },
+  {
+   "id": "§1.q10",
+   "sec": 1,
+   "type": "F",
+   "hop": 1,
+   "q": "With what exact sentence must every complaint reply end, and when is the weekly report sent?",
+   "gold": "\"We will make this right for you.\"; every Friday at 17:00",
+   "accept": [
+    "we will make this right for you",
+    "friday",
+    "(17:00|5\\s*p\\.?m)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q1",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "When and where can people register for the spring courses?",
+   "gold": "March 1 to March 20, 2027, daily 9:00-18:00 at the first-floor service desk, except Mondays",
+   "accept": [
+    "(march|mar\\.?|3/)\\s*1\\b",
+    "20",
+    "monday"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q2",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "Is the service desk open for registration on Mondays?",
+   "gold": "no, it is closed on Mondays",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q3",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "一位居民在3月15日报名羽毛球课，能享受九折优惠吗？",
+   "gold": "yes, the March 10 deadline applies only to swimming students; badminton students always get 10% off",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q4",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "A resident registers for swimming on March 12. Does she get the 10% discount?",
+   "gold": "no, swimming students only get it if they register before March 10",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q5",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "A 45-year-old resident registers for swimming on March 5. How much does she pay in total, including any fees?",
+   "gold": "462 yuan (480 × 0.9 = 432 plus 30 registration fee)",
+   "accept": [
+    "\\b462\\b"
+   ],
+   "reject": [
+    "\\b510\\b",
+    "^\\W*432\\b"
+   ]
+  },
+  {
+   "id": "§2.q6",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "A 65-year-old registers for badminton on March 18. How much does he pay?",
+   "gold": "324 yuan (360 with 10% off, no registration fee over 60)",
+   "accept": [
+    "\\b324\\b"
+   ],
+   "reject": [
+    "\\b354\\b",
+    "\\b390\\b"
+   ]
+  },
+  {
+   "id": "§2.q7",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "游泳课5月1日停课后，什么时候补课？",
+   "gold": "Sunday, May 2, at 10:00 am",
+   "accept": [
+    "(may|5/)\\s*2\\b|2\\s*may",
+    "(10:00|10\\s*a\\.?m)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q8",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "After courses have started, a swimming student withdraws with a hospital certificate. How much of the fee is refunded?",
+   "gold": "half the tuition (e.g. 240 yuan of 480)",
+   "accept": [
+    "(half|50\\s*%|\\b240\\b|\\b216\\b)"
+   ],
+   "reject": [
+    "^\\W*(no|nothing|none|0)\\b",
+    "\\bfull\\b"
+   ]
+  },
+  {
+   "id": "§2.q9",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "Who is the contact person, what is the phone number, and when can it be reached?",
+   "gold": "Zhou Xiaomei, 138-0013-5726, weekdays 9:00-17:00",
+   "accept": [
+    "zhou|周晓梅",
+    "138\\W?0013\\W?5726",
+    "(17:00|5\\s*p\\.?m)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q1",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "¿Qué bandeja revisa el asistente y a qué horas?",
+   "gold": "contacto@rumbofirme.example, Monday to Saturday at 7:30 and 15:00",
+   "accept": [
+    "contacto@rumbofirme",
+    "7:30",
+    "(15:00|3\\s*p\\.?m)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q2",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A student asks to reschedule a practical lesson for the second time this month. May the assistant do it on its own?",
+   "gold": "yes, up to two reschedules per student per month",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q3",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Un alumno pide reagendar por tercera vez en el mismo mes. ¿Quién debe aprobarlo?",
+   "gold": "Graciela Montaño, the director",
+   "accept": [
+    "graciela"
+   ],
+   "reject": [
+    "rodrigo",
+    "paula",
+    "ernesto"
+   ]
+  },
+  {
+   "id": "§3.q4",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A student asks for a 12% discount on a package. Can the assistant grant it alone, and if not, who approves?",
+   "gold": "no; discounts over 10% need Graciela Montaño's approval",
+   "accept": [
+    "^\\W*no\\b",
+    "graciela"
+   ],
+   "reject": [
+    "rodrigo",
+    "paula"
+   ]
+  },
+  {
+   "id": "§3.q5",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A student has a question about a pending payment. Should it go to Rodrigo Salas?",
+   "gold": "no, payment questions go to Paula Ibarra, the payments manager; Rodrigo is the head instructor",
+   "accept": [
+    "^\\W*no\\b",
+    "paula"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q6",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A student cancels a lesson 10 hours before it starts and sends a medical certificate. Is the lesson charged in full?",
+   "gold": "no, the medical certificate is the exception to the full charge",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q7",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Un alumno pregunta si puede inscribirse al curso intensivo de julio el 21 de junio. ¿Puede?",
+   "gold": "no, registration closed June 20 at 18:00",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q8",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A student reports a crash during a lesson. Whom does the assistant call and at what number, and what must the student do himself?",
+   "gold": "call the insurer at 222-555-0193; tell the student the adjuster is on the way and that he himself must turn on the hazard lights and stay by the car",
+   "accept": [
+    "222\\W?555\\W?0193",
+    "(hazard|intermitente|emergency light|flasher)",
+    "(stay|remain).*(car|vehicle)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q9",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "In the crash emergency, who switches on the hazard lights: the assistant or the student?",
+   "gold": "the student",
+   "accept": [
+    "student|alumno"
+   ],
+   "reject": [
+    "^\\W*(the )?assistant"
+   ]
+  },
+  {
+   "id": "§3.q10",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "How must every lesson confirmation message end, and when is the weekly report sent and to whom?",
+   "gold": "\"Recuerda traer tu permiso de aprendiz.\"; every Monday at 9:00 to Graciela",
+   "accept": [
+    "recuerda traer tu permiso de aprendiz",
+    "monday|lunes",
+    "(9:00|9\\s*a\\.?m)",
+    "graciela"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q1",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "Which inbox is checked and when?",
+   "gold": "zamowienia@podlipa.example, Monday to Friday at 8:00 and 13:30",
+   "accept": [
+    "zamowienia@podlipa",
+    "13:30|1:30\\s*p\\.?m"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q2",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A company orders a business lunch for exactly 40 portions. May the assistant accept it alone?",
+   "gold": "yes, up to 40 portions it may accept on its own",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q3",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "Klient zamawia catering na chrzciny dla 25 osób. Czy asystent może samodzielnie przyjąć to zamówienie?",
+   "gold": "no, christening/wedding orders of any size need Halina Wróbel's approval; the 40-portion limit applies only to business lunches",
+   "accept": [
+    "^\\W*no\\b",
+    "halina"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q4",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer asks about a delivery time. Should the assistant send it to Marek Sowa?",
+   "gold": "no, delivery matters go to Iga Lis, the delivery coordinator; Marek is the head chef",
+   "accept": [
+    "^\\W*no\\b",
+    "\\biga\\b|\\blis\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q5",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer asks whether the menu can be made gluten-free. May the assistant promise it right away?",
+   "gold": "no, not without Marek Sowa's confirmation",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q6",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "Firma spoza Torunia zamawia catering o wartości 3000 zł. Ile wynosi łączna kwota z dopłatą za dostawę?",
+   "gold": "3450 zł (3000 + 15% = 450)",
+   "accept": [
+    "3\\W?450"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q7",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A couple cancels their wedding 20 days before the date, with no medical certificate. How much of the deposit is refunded?",
+   "gold": "1200 zł (half of the 2400 zł deposit)",
+   "accept": [
+    "1\\W?200"
+   ],
+   "reject": [
+    "^\\W*2\\W?400"
+   ]
+  },
+  {
+   "id": "§4.q8",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A couple cancels 10 days before the wedding because of an illness confirmed by a doctor's certificate. How much is refunded?",
+   "gold": "the full deposit, 2400 zł",
+   "accept": [
+    "(2\\W?400|full|entire|whole|all)"
+   ],
+   "reject": [
+    "1\\W?200"
+   ]
+  },
+  {
+   "id": "§4.q9",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "Klient zgłasza wyciek gazu z kuchenki polowej na przyjęciu. Do kogo i pod jaki numer dzwoni asystent i kto musi zakręcić zawór butli?",
+   "gold": "the assistant calls the duty manager at 601 555 274; the customer must close the gas cylinder valve themselves",
+   "accept": [
+    "601\\W?555\\W?274",
+    "(customer|client|klient)"
+   ],
+   "reject": [
+    "assistant (must|should|will) (close|turn off|shut)"
+   ]
+  },
+  {
+   "id": "§4.q10",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "With what sentence must every offer message begin, and when is the weekly report sent?",
+   "gold": "„Dziękujemy za zainteresowanie cateringiem Pod Lipą.”; every Thursday at 16:00",
+   "accept": [
+    "dzi[eę]kujemy za zainteresowanie cateringiem pod lip[aą]",
+    "thursday|czwartek",
+    "(16:00|4\\s*p\\.?m)"
+   ],
+   "reject": []
+  }
+ ]
+}

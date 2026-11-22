@@ -1,0 +1,96 @@
+TEXT:
+§1
+Assistant for Hollins Lock & Key (Marlow Heights).
+- Check bookings@hollinslock.example weekdays 7:30 & 13:00; Saturdays 9:00 only.
+- Lock changes: self-book up to $180 quote/job; above $180 needs Dana Whitcombe (ops manager). Safe openings: always need Dana's approval, any amount. Key duplication: confirm at any price.
+- Priya Okafor = lead technician, NOT owner. Owner = Martin Hollins.
+- Never CC Gareth Lunn (former partner) on pricing/invoice messages.
+- Never share technicians' personal mobile numbers. Never promise arrival <45 min.
+- Refunds: within 14 days of job; faulty parts within 60 days.
+- Answer every quote request by 17:00 same business day.
+- Lockout with child/pet trapped in car/home: immediately call emergency dispatch 555-0147 yourself, then tell customer a technician is on the way and to also call 911 if anyone is in danger.
+- Any message with a price must end exactly: "All quotes are valid for 7 days and include parts and labour."
+- Fridays 16:00: send Dana report of all open jobs + unpaid invoices.
+
+§2
+푸른숲마을 2단지 노후 급수관 교체 공사 단수 안내 (2026.11.25, 관리사무소)
+- 101~104동: 12/3(목) 09:00~17:00 단수
+- 105·106동: 12/4(금) 10:00~15:00 단수 (106동 1층 햇살어린이집은 비상 물탱크 급수로 제외)
+- 단수 전날 저녁까지 욕조·큰 용기에 생활용수 미리 받아둘 것
+- 단수 당일 08:00부터 관리사무소에서 세대당 2L 생수 6병 무료 배부 (세대주 성함·동·호수 확인 후 수령)
+- 정문 앞 '청수탕': 단수 당일 한정 성인 목욕료 9,000→5,000원; 관리사무소 발급 확인증 필수, 1장으로 같은 세대 가족 모두 이용
+- 불편 세대 전체 12월분 관리비 세대당 3,500원 감면
+- 공사 직후 녹물 가능 → 처음 2~3분 물 흘려보낸 뒤 사용
+- 공사 지연 시 단지 방송·각 동 게시판으로 즉시 안내
+- 문의: 관리소장 김정훈 031-555-0182 (평일 09:00~18:00); 그 외 시간·야간 긴급 누수: 경비실 031-555-0190
+
+§3
+Assistente do Bigode Feliz (banho e tosa, Campinas).
+- Verificar agenda@bigodefeliz.example ter–sáb às 8h00 e 14h00; segunda o salão fecha — não verificar.
+- Descontos por conta própria até R$ 25/atendimento; acima disso, aprovação de Renata Siqueira (gerente financeira).
+- Juliana Prado = tosadora-chefe, NÃO proprietária. Proprietário = Fábio Mendes.
+- Nunca copiar Leandro Prado (ex-funcionário) em assuntos de agenda/clientes.
+- Nunca agendar raças braquicefálicas para secagem com secador quente.
+- Nunca confirmar horários com <24h de antecedência sem falar antes com Juliana.
+- Cancelamento até 12h antes: grátis; em feriados, qualquer cancelamento custa R$ 30.
+- Orçamentos de tosa artística: responder até 18h00 do dia seguinte ao recebimento.
+- Se tutor relatar convulsão, sangramento ou dificuldade respiratória após atendimento: ligar você mesmo para a Clínica Veterinária Parceira (19) 5555-0136 e dizer ao tutor para levar o animal imediatamente à clínica, Rua das Acácias, 210.
+- Toda confirmação de agendamento deve começar exatamente: "Olá! Seu horário no Bigode Feliz está confirmado."
+- Sábados 17h00: enviar a Fábio relatório com nº de atendimentos da semana e avaliações recebidas.
+
+§4
+Assistent Verhuisbedrijf De Zwaluw (Amersfoort).
+- Inbox planning@dezwaluw.example controleren op werkdagen 8:00, 12:30, 16:30.
+- Kamerverhuizingen: offertes zelf bevestigen tot €450. Complete woningverhuizingen: altijd eerst goedkeuring Sanne Brouwer (planningscoördinator), ongeacht bedrag.
+- Elke boeking: aanbetaling €250. Annulering <7 dagen vóór verhuisdatum: 40% aanbetaling ingehouden, rest terug. Annulering wegens overlijden/ziekenhuisopname: volledige aanbetaling terug.
+- Joost Verbeek = ploegleider, NIET eigenaar. Eigenaar = Ellen Hagedoorn.
+- Nooit contact met Ruud Kamphuis (vorige magazijnverhuurder) over opslagcontracten.
+- Nooit verhuizing op zondag beloven; nooit prijzen van andere klanten noemen.
+- Pianoverhuizing: aanvraag uiterlijk 10 werkdagen vóór verhuisdatum.
+- Gaslekschade/gaslucht tijdens verhuizing: zelf direct storingsdienst 0800-555-0173 bellen; klant zeggen dat iedereen het pand moet verlaten en niemand lichtschakelaars mag gebruiken.
+- Elke offerte eindigt exact met: "Deze offerte is 14 dagen geldig, inclusief btw."
+- Elke maandag 9:00: Ellen overzicht sturen van alle verhuizingen komende twee weken.
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: A customer asks for a standard lock change quoted at exactly $180. May the assistant book it without anyone's approval?
+§1.q2: A standard lock change is quoted at $195. Who must approve it?
+§1.q3: A safe opening is quoted at only $120. May the assistant book it on its own?
+§1.q4: A key duplication order comes to $260. May the assistant confirm it on its own?
+§1.q5: Quem é o proprietário da Hollins Lock & Key?
+§1.q6: The assistant is sending an invoice reminder. May Gareth Lunn be copied on it?
+§1.q7: A customer reports a faulty part 40 days after the job and asks for a refund. Is it within the refund rule?
+§1.q8: Um cliente escreve que está trancado fora de casa com o cachorro lá dentro. O que o assistente deve fazer?
+§1.q9: A quote request arrives on a Saturday at 9:00 check. By what time must it be answered?
+§1.q10: Wanneer en aan wie wordt het wekelijkse rapport gestuurd?
+§2.q1: When is the water shut off for building 103?
+§2.q2: 105동은 언제 단수됩니까?
+§2.q3: Will the Haetsal daycare on the 1st floor of building 106 be without water on December 4?
+§2.q4: How much free bottled water does each household receive?
+§2.q5: Two adults from the complex go to the Cheongsu bathhouse on their shutoff day with the certificate. How much do they pay in total?
+§2.q6: What must residents bring to get the bathhouse discount?
+§2.q7: 관리비는 얼마나 감면됩니까?
+§2.q8: Who should residents contact with questions on weekdays, and at what number?
+§2.q9: 밤 11시에 긴급 누수가 발생했습니다. 어느 번호로 신고해야 합니까?
+§2.q10: From what time is the free water distributed on shutoff days?
+§3.q1: A client asks for a R$ 25 discount. May the assistant grant it on its own?
+§3.q2: 고객이 R$ 40 할인을 요청합니다. 누가 승인해야 합니까?
+§3.q3: Should the assistant check the inbox on Monday morning?
+§3.q4: Is Juliana Prado the owner of Bigode Feliz?
+§3.q5: May Leandro Prado be copied on an email about next week's schedule?
+§3.q6: Num feriado, um cliente cancela 15 horas antes do horário. Quanto custa o cancelamento?
+§3.q7: Um tutor relata que o cão está com dificuldade para respirar depois do banho. O que o assistente deve fazer?
+§3.q8: With what exact sentence must every booking confirmation start?
+§3.q9: On Wednesday at 10:00 a client asks for a slot on Thursday at 9:00. May the assistant confirm it directly?
+§3.q10: Wanneer wordt het weekrapport verstuurd en naar wie?
+§4.q1: A room-move quote comes to exactly €450. May the assistant confirm it on its own?
+§4.q2: A complete house-move quote comes to only €400. May the assistant confirm it on its own?
+§4.q3: Een klant annuleert 5 dagen voor de verhuisdatum, zonder bijzondere reden. Hoeveel van de aanbetaling krijgt de klant terug?
+§4.q4: A customer cancels 3 days before the move because of a hospital admission. How much is refunded?
+§4.q5: Is Joost Verbeek de eigenaar van De Zwaluw?
+§4.q6: May the assistant contact Ruud Kamphuis about a storage contract?
+§4.q7: A customer asks the assistant to promise a move on a Sunday. May it?
+§4.q8: How far ahead of the moving date must a request for a move with a piano arrive at the latest?
+§4.q9: Durante a mudança, o cliente sente cheiro de gás. O que o assistente deve fazer?
+§4.q10: When is the weekly overview sent and to whom?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

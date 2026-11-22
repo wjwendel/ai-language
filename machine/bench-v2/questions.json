@@ -1,0 +1,1108 @@
+{
+ "written": "2026-11-17 after encodings frozen",
+ "questions": [
+  {
+   "id": "§1.q1",
+   "sec": 1,
+   "type": "F",
+   "hop": 1,
+   "q": "On which days, at what time and in which time zone does this routine run?",
+   "gold": "Weekdays, 7:30 a.m. Pacific",
+   "accept": [
+    "7:30",
+    "(pacific|\\bPT\\b)",
+    "(weekday|mon\\w*\\W+(to|-|–|through)\\W*fri)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q2",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "Millbrook asks for a $350 reorder from Pacific Dental Supply, but one item is not on the approved list. May you place it on your own?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q3",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "An Eastport order totals exactly $400. Whose approval is needed?",
+   "gold": "Luis Ortega, Eastport office manager",
+   "accept": [
+    "(ortega|office manager)"
+   ],
+   "reject": [
+    "\\brao\\b"
+   ]
+  },
+  {
+   "id": "§1.q4",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "Luis Ortega has approved a $1,800 Eastport order. May you place it now?",
+   "gold": "No; needs Dr. Rao",
+   "accept": [
+    "^\\W*no\\b",
+    "rao"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q5",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "On November 20, Sandy Cove requests a $900 order. Who must approve it?",
+   "gold": "Hannah Kim",
+   "accept": [
+    "kim"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q6",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A $120 request for nitrous oxide comes in. What do you do?",
+   "gold": "Do not order it; forward to Dr. Rao",
+   "accept": [
+    "rao",
+    "(not|never|don|forward)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q7",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "An item has been on backorder for 12 business days, and Coastline Medical's equivalent costs 20% more. May you substitute it yourself? If not, what do you do?",
+   "gold": "No; ask the requesting office manager",
+   "accept": [
+    "^\\W*no\\b",
+    "manager"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q8",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "An item has been on backorder for 8 business days, and Coastline Medical's equivalent costs 5% more. May you substitute it yourself?",
+   "gold": "No (backorder must exceed 10 business days)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q9",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A patient's sister emails asking about the patient's balance; the patient's file lists no authorized contacts. May you discuss the balance with her?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q10",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A patient asks for a $250 refund. Who can approve it?",
+   "gold": "Only Dr. Rao",
+   "accept": [
+    "rao"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q11",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A patient writes that her gum has been bleeding since a filling. What do you tell her, and what else do you do?",
+   "gold": "Tell her to call the emergency line (555) 014-2290; flag the email \"URGENT – clinical\" for the dentist on call; no clinical advice",
+   "accept": [
+    "014-?2290",
+    "urgent",
+    "on.call"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q12",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "What summary must each office manager get, and on which weekday?",
+   "gold": "Summary of open orders, Thursdays by 3 p.m.",
+   "accept": [
+    "open orders",
+    "thu"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q13",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Is sending the open-orders summary at 2 p.m. on a Thursday acceptable under the rules?",
+   "gold": "Yes (deadline is by 3 p.m.)",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q14",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Is sending Dr. Rao the monthly spending report on the 6th of the month acceptable?",
+   "gold": "No (no later than the 5th)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q15",
+   "sec": 1,
+   "type": "F",
+   "hop": 1,
+   "q": "Who is the office manager at Millbrook?",
+   "gold": "Hannah Kim",
+   "accept": [
+    "hannah kim"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q1",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "Which mailbox do you check, and when?",
+   "gold": "schaden@lindner-hv.de, Monday to Friday at 8:00",
+   "accept": [
+    "schaden@lindner-hv\\.de",
+    "\\b8"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q2",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A tenant reports a broken door lock with an estimated repair cost of €180. May you commission a tradesman from the partner list yourself?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q3",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "A repair is estimated at exactly €250. Whose approval do you need?",
+   "gold": "Frau Albers",
+   "accept": [
+    "albers"
+   ],
+   "reject": [
+    "lindner"
+   ]
+  },
+  {
+   "id": "§2.q4",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "On Sunday at 11 p.m. a tenant reports a burst water pipe; the repair is estimated at €3,000. What do you do?",
+   "gold": "Call Notdienst Krause (0341 998877) immediately; inform Frau Albers within 2 hours",
+   "accept": [
+    "(krause|998877)",
+    "albers"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q5",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "In that burst-pipe case, do you need Herr Lindner's approval before calling the emergency service?",
+   "gold": "No (no cost limit)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q6",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "A tenant reports a smell of gas. What must you tell the tenant?",
+   "gold": "Leave the building immediately and do not use light switches",
+   "accept": [
+    "leave",
+    "(light ?switch|lichtschalter)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q7",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A plumber asks you for a tenant's mobile number to arrange access. May you give it?",
+   "gold": "No (only name, flat number and agreed time window)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q8",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A subtenant with a written power of attorney from the main tenant asks for a spare key. May you give one?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q9",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A tenant named in the lease asks for a spare key but has no ID card with them. May you hand it over?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q10",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "A tenant asks whether the announced rent increase is legal. What do you do?",
+   "gold": "Do not answer; forward to Herr Lindner",
+   "accept": [
+    "lindner"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q11",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "Who must never be put in copy on tenant emails?",
+   "gold": "Sachsenhof GmbH, the owner",
+   "accept": [
+    "sachsenhof"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q12",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "Is Frau Albers the owner of the property?",
+   "gold": "No; she is the property manager (Objektbetreuerin)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q13",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "Is sending Frau Albers the open-damages list at 15:00 on Friday on time?",
+   "gold": "No (by 14:00)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q14",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A tenant's objection to the utility statement arrives on February 3. Do you answer it yourself?",
+   "gold": "No; forward to Herr Lindner",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q15",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "By what date are the utility statements sent?",
+   "gold": "By 30 November (inclusive)",
+   "accept": [
+    "30",
+    "nov"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q1",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "On what date was the plan presented?",
+   "gold": "Tuesday 10 March",
+   "accept": [
+    "\\b10\\b",
+    "mar"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q2",
+   "sec": 3,
+   "type": "F",
+   "hop": 2,
+   "q": "How much of the budget does the Métropole itself pay?",
+   "gold": "€129 million",
+   "accept": [
+    "129"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q3",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "How many kilometres of new separated bike lanes are planned, and how many of them on the quays?",
+   "gold": "120 km; 35 km on the quays",
+   "accept": [
+    "120",
+    "35"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q4",
+   "sec": 3,
+   "type": "F",
+   "hop": 2,
+   "q": "How many kilometres of the new lanes will be outside Lyon and Villeurbanne?",
+   "gold": "36 km",
+   "accept": [
+    "\\b36\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q5",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "Which line is built first, how long is it, and when do works start?",
+   "gold": "Part-Dieu–Villeurbanne, 6.4 km, September 2026",
+   "accept": [
+    "part.dieu",
+    "6[.,]4",
+    "sep"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q6",
+   "sec": 3,
+   "type": "F",
+   "hop": 2,
+   "q": "By how many percentage points did cycling's share of home-to-work trips rise over the five years?",
+   "gold": "3 points (4% to 7%)",
+   "accept": [
+    "\\b3\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q7",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "What share is targeted for 2030?",
+   "gold": "12%",
+   "accept": [
+    "12"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q8",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Can a resident still take part in the public consultation on 30 April?",
+   "gold": "Yes (open until 30 April inclusive)",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q9",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Can an association submit a written contribution on 10 May?",
+   "gold": "Yes (until 15 May)",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q10",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "Who criticised the plan, and what exactly did she say?",
+   "gold": "Claire Morel: « un plan qui oublie les communes de l'ouest »",
+   "accept": [
+    "morel",
+    "oublie les communes de l.ouest"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q11",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "How many secure parking spaces are planned, and where?",
+   "gold": "8,000, near stations",
+   "accept": [
+    "8[ ,.\\u202f]?000",
+    "(station|gare)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q12",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "When is the final council vote planned?",
+   "gold": "22 June",
+   "accept": [
+    "22",
+    "jun"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q13",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "What is Thomas Girard's role?",
+   "gold": "Vice-president for mobility",
+   "accept": [
+    "mobilit"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q14",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "How much does the region contribute, and which region is it?",
+   "gold": "€15 million, Auvergne-Rhône-Alpes",
+   "accept": [
+    "15",
+    "auvergne"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q1",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "When must the parent inbox be checked?",
+   "gold": "Daily at 16:00",
+   "accept": [
+    "(16|4 ?p)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q2",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A Kawasaki parent writes at 17:30 the day before a Thursday class, asking for a make-up on Saturday of the same week, where a slot is open. It is not the winter-course period. May you arrange it yourself?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q3",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "The same Kawasaki parent instead writes at 19:00 the day before the class. What do you do?",
+   "gold": "Do not accept; pass it to classroom head Kimura Sanae (木村早苗)",
+   "accept": [
+    "(木村|kimura)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q4",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A parent writes three days ahead asking to move a class to the following week. May you arrange it yourself?",
+   "gold": "No; forward to the classroom head",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q5",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "On 22 December, a parent asks in good time for a make-up class in the same week. May you accept it?",
+   "gold": "No (winter course, Dec 20 – Jan 7)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q6",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A parent asks whether they will be refunded for missed months. May you promise a refund?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q7",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Who handles withdrawal requests?",
+   "gold": "Yamaguchi Mari (山口真理), HQ office manager",
+   "accept": [
+    "(山口|yamaguchi)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q8",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A student is absent with a fever of 38.5°C. What do you reply, and what do you tell the parent?",
+   "gold": "Reply \"お大事になさってください\" and tell the parent to phone the school before the student comes in",
+   "accept": [
+    "お大事に",
+    "(call|phone|telephone|電話)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q9",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A student has a fever of 37.8°C. Do you have to tell the parent to phone the school before coming in?",
+   "gold": "No (only at 38°C or above)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q10",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A grandmother who is not a registered parent asks about her grandson's ranking. May you answer?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q11",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Is reporting the week's make-up count to the classroom heads at 19:30 on Friday on time?",
+   "gold": "No (by 19:00)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q12",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "What must you report to each classroom head every Friday?",
+   "gold": "The number of make-up classes that week",
+   "accept": [
+    "(make.?up|振替)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q13",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "What rule applies to 佐々木隆 (Sasaki Takashi)?",
+   "gold": "He is the school head (塾長); never CC him on parent emails",
+   "accept": [
+    "(\\bcc\\b|carbon|copy)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q14",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Is 木村早苗 (Kimura Sanae) the principal?",
+   "gold": "No; she is the Kawasaki classroom head",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q15",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "Who is the Yokohama classroom head?",
+   "gold": "田中健 (Tanaka Ken)",
+   "accept": [
+    "(田中|tanaka)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§5.q1",
+   "sec": 5,
+   "type": "F",
+   "hop": 1,
+   "q": "How many owners attended, out of how many?",
+   "gold": "23 of 40",
+   "accept": [
+    "23",
+    "40"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§5.q2",
+   "sec": 5,
+   "type": "F",
+   "hop": 1,
+   "q": "Who took the minutes, and is he an owner?",
+   "gold": "Iván Soto, the administrator; not an owner",
+   "accept": [
+    "soto",
+    "\\b(not|no|isn)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§5.q3",
+   "sec": 5,
+   "type": "F",
+   "hop": 2,
+   "q": "If the lift cost is split into equal instalments, how much is each monthly instalment for the whole community?",
+   "gold": "€5,700",
+   "accept": [
+    "5[.,\\s]?700"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§5.q4",
+   "sec": 5,
+   "type": "F",
+   "hop": 2,
+   "q": "Did more than half of the owners present vote in favour of the lift?",
+   "gold": "Yes (15 of 23)",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§5.q5",
+   "sec": 5,
+   "type": "S",
+   "hop": 2,
+   "q": "Does a ground-floor shop other than shop B pay the lift instalments?",
+   "gold": "No (exempt)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§5.q6",
+   "sec": 5,
+   "type": "S",
+   "hop": 1,
+   "q": "Does shop B pay the lift instalments?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§5.q7",
+   "sec": 5,
+   "type": "F",
+   "hop": 1,
+   "q": "In which month does the first lift instalment fall?",
+   "gold": "April",
+   "accept": [
+    "apr"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§5.q8",
+   "sec": 5,
+   "type": "F",
+   "hop": 1,
+   "q": "What happened with the façade?",
+   "gold": "Not approved; vote to be repeated at the June meeting",
+   "accept": [
+    "(not|no|reject|fail)",
+    "jun"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§5.q9",
+   "sec": 5,
+   "type": "S",
+   "hop": 2,
+   "q": "May an 11-year-old use the pool alone?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§5.q10",
+   "sec": 5,
+   "type": "S",
+   "hop": 2,
+   "q": "May a 12-year-old use the pool without an adult?",
+   "gold": "Yes (the rule applies to under-12s)",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§5.q11",
+   "sec": 5,
+   "type": "S",
+   "hop": 1,
+   "q": "During which dates and hours is the pool open?",
+   "gold": "15 June – 15 September, 11:00–21:00",
+   "accept": [
+    "11",
+    "21",
+    "jun",
+    "sep"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§5.q12",
+   "sec": 5,
+   "type": "S",
+   "hop": 2,
+   "q": "The owner of 5ºC pays the full debt on 1 March. Under the agreement, can the legal claim be started?",
+   "gold": "Yes (payment had to be before 1 March)",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§5.q13",
+   "sec": 5,
+   "type": "F",
+   "hop": 1,
+   "q": "What exactly did Rosa Jiménez say?",
+   "gold": "«Las llaves de la azotea solo las tiene el conserje»",
+   "accept": [
+    "llaves de la azotea solo las tiene el conserje"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§5.q14",
+   "sec": 5,
+   "type": "F",
+   "hop": 1,
+   "q": "On what date and at what time is the second call of the next ordinary meeting?",
+   "gold": "9 June, 19:30",
+   "accept": [
+    "19:30",
+    "(\\b9\\b.*jun|jun\\w*\\.?\\s*9\\b)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§5.q15",
+   "sec": 5,
+   "type": "S",
+   "hop": 1,
+   "q": "Are glass containers allowed at the pool?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§6.q1",
+   "sec": 6,
+   "type": "F",
+   "hop": 1,
+   "q": "At what times are the mailbox and ticket backend checked?",
+   "gold": "Daily at 10:00 and 16:00",
+   "accept": [
+    "10",
+    "(16|4 ?p)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§6.q2",
+   "sec": 6,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer signed for an order exactly 7 days ago; the package is unopened, and they want to return it. May you approve the return yourself?",
+   "gold": "Yes (day 7 counts)",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§6.q3",
+   "sec": 6,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer signed for an order 8 days ago; the package is unopened. May you approve the return yourself?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§6.q4",
+   "sec": 6,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer opened the tea and says it smells odd. What do you do?",
+   "gold": "Ask for photos and the batch number, forward to 周静 (QC head); do not judge yourself",
+   "accept": [
+    "(photo|照片)",
+    "(batch|批次)",
+    "(周静|zhou)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§6.q5",
+   "sec": 6,
+   "type": "S",
+   "hop": 2,
+   "q": "周静 has confirmed mould on a ¥1,000 order. Who may approve the refund?",
+   "gold": "Only 王磊 (finance)",
+   "accept": [
+    "(王磊|wang)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§6.q6",
+   "sec": 6,
+   "type": "S",
+   "hop": 2,
+   "q": "A delivery was delayed by exactly 3 days. May you give the customer the ¥20 coupon?",
+   "gold": "No (only for more than 3 days)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§6.q7",
+   "sec": 6,
+   "type": "S",
+   "hop": 2,
+   "q": "A delivery was delayed by 5 days, but the customer already received a coupon this month. May you give another?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§6.q8",
+   "sec": 6,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer who is returning an order asks for a coupon. May you give one?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§6.q9",
+   "sec": 6,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer asks for an invoice 40 days after ordering. What do you do?",
+   "gold": "Forward to 王磊",
+   "accept": [
+    "(王磊|wang)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§6.q10",
+   "sec": 6,
+   "type": "S",
+   "hop": 1,
+   "q": "Who must never be CC'd on customer emails?",
+   "gold": "陈晓东, the store manager",
+   "accept": [
+    "(陈晓东|chen)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§6.q11",
+   "sec": 6,
+   "type": "S",
+   "hop": 1,
+   "q": "Is 周静 the store manager?",
+   "gold": "No; QC head",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§6.q12",
+   "sec": 6,
+   "type": "S",
+   "hop": 2,
+   "q": "Is sending 周静 the return-reasons summary at exactly 12:00 on Monday on time?",
+   "gold": "No (must be before 12:00)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§6.q13",
+   "sec": 6,
+   "type": "F",
+   "hop": 1,
+   "q": "What exact reply do you send to shipping inquiries during the Spring Festival?",
+   "gold": "「春节期间暂停发货，2月23日起按下单顺序发出。」",
+   "accept": [
+    "春节期间暂停发货，?\\s*2月23日起按下单顺序发出"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§6.q14",
+   "sec": 6,
+   "type": "S",
+   "hop": 2,
+   "q": "On 18 February a customer asks when their order will ship. From what date does shipping resume, per the reply you must send?",
+   "gold": "23 February",
+   "accept": [
+    "(2月23|feb\\w*\\.?\\s*23|23\\.?\\s*feb)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§6.q15",
+   "sec": 6,
+   "type": "S",
+   "hop": 1,
+   "q": "May you tell a customer another customer's delivery address?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  }
+ ]
+}

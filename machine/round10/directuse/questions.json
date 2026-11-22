@@ -1,0 +1,399 @@
+{
+ "P1": [
+  {
+   "q": "When does this routine run?",
+   "es": "¿Cuándo se ejecuta esta rutina?",
+   "gold": "First business day of each month, 10:00 a.m. Eastern",
+   "accept": [
+    "(first|1st|primer).*(10)|10.*(first|1st|primer)"
+   ],
+   "type": "F"
+  },
+  {
+   "q": "May you pay an invoice yourself? Who releases payments?",
+   "es": "¿Puedes pagar una factura tú mismo? ¿Quién libera los pagos?",
+   "gold": "No; Grace Liu (accounting)",
+   "accept": [
+    "^\\W*no\\b.*(grace|liu)"
+   ],
+   "type": "S"
+  },
+  {
+   "q": "An invoice is $7,400. Whose written approval is needed before Grace pays it?",
+   "es": "Una factura es de 7.400 $. ¿De quién se necesita aprobación por escrito antes de que Grace la pague?",
+   "gold": "Daniel Brooks, operations director",
+   "accept": [
+    "daniel|brooks"
+   ],
+   "type": "S"
+  },
+  {
+   "q": "An invoice is $4,800. Does it need Daniel Brooks's written approval?",
+   "es": "Una factura es de 4.800 $. ¿Necesita la aprobación por escrito de Daniel Brooks?",
+   "gold": "No (only over $5,000)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "type": "S"
+  },
+  {
+   "q": "May you fix a misspelled vendor name in the sheet? May you change an invoice due date?",
+   "es": "¿Puedes corregir un nombre de proveedor mal escrito en la hoja? ¿Puedes cambiar la fecha de vencimiento de una factura?",
+   "gold": "Name: yes. Due date: no",
+   "accept": [
+    "^\\W*(yes|s[ií])\\b.*\\bno\\b"
+   ],
+   "type": "S"
+  },
+  {
+   "q": "An invoice has no purchase order number. Should you add a row now? What do you do?",
+   "es": "Una factura no tiene número de orden de compra. ¿Debes añadir una fila ya? ¿Qué haces?",
+   "gold": "No; email the vendor once asking for it, wait for reply",
+   "accept": [
+    "^\\W*no\\b.*(email|correo|escrib|vendor|proveedor)"
+   ],
+   "type": "S"
+  },
+  {
+   "q": "How should you refer to Grace, and who is the controller?",
+   "es": "¿Cómo debes referirte a Grace y quién es el controller?",
+   "gold": "Payables lead; controller is Helen Park",
+   "accept": [
+    "(payables|cuentas por pagar|pagos|lead|responsable).*(helen|park)|(helen|park).*(payables|cuentas|pagos|lead|responsable)"
+   ],
+   "type": "S"
+  },
+  {
+   "q": "May you copy Helen Park on a vendor email?",
+   "es": "¿Puedes poner en copia a Helen Park en un correo a un proveedor?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "type": "S"
+  },
+  {
+   "q": "The Payables sheet is open by someone else. What do you do?",
+   "es": "La hoja Payables está abierta por otra persona. ¿Qué haces?",
+   "gold": "Wait 15 minutes and retry, at most twice",
+   "accept": [
+    "15.*(2|two|twice|dos|veces)"
+   ],
+   "type": "S"
+  },
+  {
+   "q": "A vendor threatens late fees. Should you reply to them? What do you do?",
+   "es": "Un proveedor amenaza con recargos por demora. ¿Debes responderle? ¿Qué haces?",
+   "gold": "No; forward to Grace without answering",
+   "accept": [
+    "^\\W*no\\b.*grace"
+   ],
+   "type": "S"
+  },
+  {
+   "q": "What must you send every Friday at noon, and to whom?",
+   "es": "¿Qué debes enviar cada viernes al mediodía y a quién?",
+   "gold": "Summary of invoices waiting for approval, to Daniel",
+   "accept": [
+    "(summary|resumen).*daniel|daniel.*(summary|resumen)"
+   ],
+   "type": "F"
+  }
+ ],
+ "P2": [
+  {
+   "q": "When is the pool closed, and why?",
+   "es": "¿Cuándo está cerrada la piscina y por qué?",
+   "gold": "Mar 3-14, replacing the filtration system",
+   "accept": [
+    "3.*14.*(filt)|(filt).*3.*14"
+   ],
+   "type": "F"
+  },
+  {
+   "q": "How much does the work cost, and does the monthly fee go up?",
+   "es": "¿Cuánto cuesta la obra y sube la cuota mensual?",
+   "gold": "~R$9,500 from maintenance fund; no increase",
+   "accept": [
+    "9[.,]?500.*(no|sin|without|not)|(no|sin|without|not).*9[.,]?500"
+   ],
+   "type": "F"
+  },
+  {
+   "q": "Where are the aqua aerobics classes held during the closure?",
+   "es": "¿Dónde son las clases de hidrogimnasia durante el cierre?",
+   "gold": "Clube Atlético Vila Nova, Rua das Palmeiras 210, same times",
+   "accept": [
+    "vila nova|palmeiras"
+   ],
+   "type": "F"
+  },
+  {
+   "q": "Who is the manager?",
+   "es": "¿Quién es el gerente?",
+   "gold": "Ricardo Alves",
+   "accept": [
+    "ricardo|alves"
+   ],
+   "type": "F"
+  },
+  {
+   "q": "Is the sauna open during the closure?",
+   "es": "¿Está abierta la sauna durante el cierre?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*(yes|s[ií])\\b"
+   ],
+   "type": "F"
+  },
+  {
+   "q": "May members bring guests to the partner club with a visitor pass?",
+   "es": "¿Pueden los socios llevar invitados al club asociado con un pase de visitante?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "type": "F"
+  },
+  {
+   "q": "What happened last year, and why is the equipment already there?",
+   "es": "¿Qué pasó el año pasado y por qué ya está el equipo?",
+   "gold": "Floor replacement delayed 10 days (parts from another state)",
+   "accept": [
+    "(10|ten|diez).*(day|d[ií]a)"
+   ],
+   "type": "F"
+  }
+ ],
+ "P3": [
+  {
+   "q": "When and where does the family meet?",
+   "es": "¿Cuándo y dónde se reúne la familia?",
+   "gold": "Sat Nov 22, 7 a.m., at the home door",
+   "accept": [
+    "(22|nov).*\\b7\\b|\\b7\\b.*(22|nov)"
+   ],
+   "type": "F"
+  },
+  {
+   "q": "When and how does 小林 arrive?",
+   "es": "¿Cuándo y cómo llega 小林?",
+   "gold": "~2 p.m., by high-speed train alone",
+   "accept": [
+    "(\\b2\\b|14).*(train|tren|高铁|rail)|(train|tren|高铁|rail).*(\\b2\\b|14)"
+   ],
+   "type": "F"
+  },
+  {
+   "q": "Who is responsible for the tents?",
+   "es": "¿Quién se encarga de las tiendas de campaña?",
+   "gold": "Dad",
+   "accept": [
+    "dad|father|pap[aá]|padre|爸"
+   ],
+   "type": "F"
+  },
+  {
+   "q": "Who brings the power bank and flashlight?",
+   "es": "¿Quién trae la batería externa y la linterna?",
+   "gold": "小雨",
+   "accept": [
+    "小雨|xiaoyu"
+   ],
+   "type": "F"
+  },
+  {
+   "q": "Can they make a campfire? What can they use, and at what price?",
+   "es": "¿Pueden hacer fuego? ¿Qué pueden usar y a qué precio?",
+   "gold": "No; rented electric grill, 80 yuan/night",
+   "accept": [
+    "^\\W*no\\b.*80"
+   ],
+   "type": "F"
+  },
+  {
+   "q": "How much is the camp fee, and by when must it be transferred?",
+   "es": "¿Cuánto es la tarifa del camping y para cuándo hay que transferirla?",
+   "gold": "120 yuan per person by Nov 18",
+   "accept": [
+    "120.*18|18.*120"
+   ],
+   "type": "F"
+  },
+  {
+   "q": "By when must they leave the camp on Sunday, and what if late?",
+   "es": "¿Antes de qué hora deben dejar el camping el domingo y qué pasa si llegan tarde?",
+   "gold": "By 4 p.m.; pay an extra half day",
+   "accept": [
+    "(\\b4\\b|16).*(half|medio|mitad|半)"
+   ],
+   "type": "F"
+  }
+ ],
+ "P4": [
+  {
+   "q": "From what date is the library renovated?",
+   "es": "¿Desde qué fecha se renueva la biblioteca?",
+   "gold": "February 2",
+   "accept": [
+    "(feb).*\\b2\\b|\\b2\\b.*(feb)"
+   ],
+   "type": "F"
+  },
+  {
+   "q": "Who announced it?",
+   "es": "¿Quién lo anunció?",
+   "gold": "Petra Hoffmann (culture councillor)",
+   "accept": [
+    "hoffmann|petra"
+   ],
+   "type": "F"
+  },
+  {
+   "q": "How long will the works take, and how much do they cost?",
+   "es": "¿Cuánto durarán las obras y cuánto cuestan?",
+   "gold": "~6 months; ~€2.4M",
+   "accept": [
+    "(6|six|seis).*2[.,]4|2[.,]4.*(6|six|seis)"
+   ],
+   "type": "F"
+  },
+  {
+   "q": "Who pays half?",
+   "es": "¿Quién paga la mitad?",
+   "gold": "The federal government (Bund)",
+   "accept": [
+    "bund|federal"
+   ],
+   "type": "F"
+  },
+  {
+   "q": "Where is the temporary branch, and when is it open?",
+   "es": "¿Dónde está la sede provisional y cuándo abre?",
+   "gold": "Town hall room 104, Tue-Sat 10-18",
+   "accept": [
+    "104"
+   ],
+   "type": "F"
+  },
+  {
+   "q": "Can you return books at the temporary branch?",
+   "es": "¿Se pueden devolver libros en la sede provisional?",
+   "gold": "No; only via the return box at the station",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "type": "F"
+  },
+  {
+   "q": "What happens to late fees?",
+   "es": "¿Qué pasa con las multas por retraso?",
+   "gold": "Suspended until reopening",
+   "accept": [
+    "suspend|ausgesetzt|no.*(charg|cobr)|waive|exent|anul"
+   ],
+   "type": "F"
+  }
+ ],
+ "P5": [
+  {
+   "q": "When must you check the booking mailbox?",
+   "es": "¿Cuándo debes revisar el buzón de reservas?",
+   "gold": "Every working day at 8:15",
+   "accept": [
+    "8[:.h ]*15"
+   ],
+   "type": "F"
+  },
+  {
+   "q": "A request for 3 nights arrives and the dates are free in the calendar. May you confirm it yourself?",
+   "es": "Llega una solicitud de 3 noches y las fechas están libres en el calendario. ¿Puedes confirmarla tú mismo?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*(yes|s[ií])\\b"
+   ],
+   "type": "S"
+  },
+  {
+   "q": "A request for 2 nights arrives but the dates are not free in the calendar. May you confirm it yourself?",
+   "es": "Llega una solicitud de 2 noches pero las fechas no están libres en el calendario. ¿Puedes confirmarla tú mismo?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "type": "S"
+  },
+  {
+   "q": "A request for one night arrives. Should you confirm it? What do you do?",
+   "es": "Llega una solicitud de una noche. ¿Debes confirmarla? ¿Qué haces?",
+   "gold": "No; forward to Julien Moreau and wait",
+   "accept": [
+    "^\\W*no\\b.*julien"
+   ],
+   "type": "S"
+  },
+  {
+   "q": "May you refund a deposit yourself? Who does it?",
+   "es": "¿Puedes reembolsar un depósito tú mismo? ¿Quién lo hace?",
+   "gold": "No; Claire Fabre (accounting)",
+   "accept": [
+    "^\\W*no\\b.*(claire|fabre)"
+   ],
+   "type": "S"
+  },
+  {
+   "q": "A client reports a heating problem. What do you do, and may you promise a discount?",
+   "es": "Un cliente informa de un problema de calefacción. ¿Qué haces y puedes prometer un descuento?",
+   "gold": "Ask the room number; no discount promise",
+   "accept": [
+    "(room|habitaci|chambre).*\\bno\\b|\\bno\\b.*(room|habitaci|chambre)"
+   ],
+   "type": "S"
+  },
+  {
+   "q": "May you correct the spelling of a name in the calendar? May you change prices?",
+   "es": "¿Puedes corregir la ortografía de un nombre en el calendario? ¿Puedes cambiar los precios?",
+   "gold": "Name: yes. Prices: no",
+   "accept": [
+    "^\\W*(yes|s[ií])\\b.*\\bno\\b"
+   ],
+   "type": "S"
+  },
+  {
+   "q": "What should you call Julien to clients, and who is the owner?",
+   "es": "¿Cómo debes llamar a Julien ante los clientes y quién es la propietaria?",
+   "gold": "responsable de l'accueil; owner is Sophie Laurent",
+   "accept": [
+    "(accueil|reception|recepci|front desk|responsable).*(sophie|laurent)|(sophie|laurent).*(accueil|recepci|reception|responsable)"
+   ],
+   "type": "S"
+  },
+  {
+   "q": "May you copy Sophie Laurent on a client email?",
+   "es": "¿Puedes poner en copia a Sophie Laurent en un correo de cliente?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "type": "S"
+  },
+  {
+   "q": "There are 12 requests waiting. Must you warn Julien immediately?",
+   "es": "Hay 12 solicitudes esperando. ¿Debes avisar a Julien de inmediato?",
+   "gold": "No (only more than 20)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "type": "S"
+  },
+  {
+   "q": "What must you send before 5 p.m., and to whom?",
+   "es": "¿Qué debes enviar antes de las 17:00 y a quién?",
+   "gold": "List of unanswered requests, to Julien",
+   "accept": [
+    "(list|lista).*julien|julien.*(list|lista)"
+   ],
+   "type": "F"
+  }
+ ]
+}

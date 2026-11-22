@@ -1,0 +1,3327 @@
+{
+ "rows": [
+  {
+   "f": "llm05_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, refunds up to $40 per client need no approval",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dr. Priya Okonkwo, the owner",
+   "gold": "Dr. Priya Okonkwo, the practice owner"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Tomas Reyes is the office manager, not a veterinarian, and the assistant gives no medical advice",
+   "gold": "no; Tomas is the office manager, not a veterinarian"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $25 late-change fee (less than 24 hours' notice, and the cat is not a senior)",
+   "gold": "yes, a $25 late-change fee"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the fee is waived because the dog is over 12",
+   "gold": "no; the fee is waived for senior pets over 12"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0147; the client is told to call the veterinarian and bring the pet to the clinic, not wait for an appointment",
+   "gold": "the assistant itself calls the on-call veterinarian at 555-0147"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by noon on Wednesday (next day)",
+   "gold": "by noon the next business day (Wednesday)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated (only that it should remind the client to bring the pet's vaccination record)",
+   "gold": "Please bring your pet's vaccination record to every visit."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Friday at 4:00 p.m., to Tomas Reyes",
+   "gold": "Fridays at 4:00 p.m., to Tomas Reyes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "December 3 (Thursday), from a morning start time that is not stated until 4 p.m.",
+   "gold": "December 3 (Thursday), 9 a.m. to 4 p.m."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, building 104's shutoff is December 5 (Saturday), 10 a.m. to 1 p.m.",
+   "gold": "no; December 5 (Saturday), 10 a.m. to 1 p.m."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,400 won (3 × 800 won)",
+   "gold": "2,400 won"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,500 won, charged on the December management fee bill",
+   "gold": "3,500 won, on the December maintenance fee bill"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Kim Do-yun, 010-4821-7735",
+   "gold": "Kim Do-yoon, 010-4821-7735"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 6 p.m. on December 1 (Tuesday)",
+   "gold": "December 1 (Tuesday) by 6 p.m."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "about 3 minutes",
+   "gold": "about 3 minutes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2 bottles of 2 liters each, from 8 a.m. on the shutoff day",
+   "gold": "2 bottles of 2 liters, from 8 a.m."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4,300 won (800 won for the bottle + 3,500 won cleaning charge)",
+   "gold": "4,300 won (3,500 + 800)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, discounts up to R$ 30 per service are allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, discounts above R$ 30 need Mariana Lopes's approval; Rafael is not the owner and does not approve discounts",
+   "gold": "no; only Mariana Lopes, the co-owner, can approve discounts above R$ 30"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "chief mechanic (not an owner)",
+   "gold": "chief mechanic (not the owner)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing, the R$ 50 quote fee is deducted from the repair",
+   "gold": "nothing; the R$ 50 fee is deducted once the repair is approved"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rafael Teixeira at (41) 99812-3406; tell the customer not to use the bike and that the shop will inspect it at no cost",
+   "gold": "the assistant calls Rafael Teixeira at (41) 99812-3406 and tells the customer not to ride the bike; the shop will pick it up free"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Wednesday at 10:00 (within 24 hours)",
+   "gold": "Wednesday at 10:00 (within 24 hours)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated (only that the quote is valid for 7 days)",
+   "gold": "Este orçamento é válido por 7 dias."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Monday, to Mariana Lopes",
+   "gold": "Mondays at 8:30, to Mariana Lopes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, extensions up to 2 hours do not need approval",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Selin Aydın, the manager",
+   "gold": "Selin Aydın, the business/operations manager"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Burak Demir is the technician, not the accountant; invoice questions go to accountant Cem Yıldız",
+   "gold": "no; Burak is the technical manager, not the accountant — forward it to Cem Yıldız"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, groups larger than 12 are not accepted",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, monthly members cancel free up to 2 hours before",
+   "gold": "no; monthly members may cancel free until 2 hours before"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "half the booking price as a late cancellation (150 TL per the text)",
+   "gold": "300 TL (2 hours × 150 TL)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Burak Demir at 0532 417 88 26; what to tell the member is not stated",
+   "gold": "the assistant calls Burak Demir at 0532 417 88 26 and tells the member to leave the area and wait at reception"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated (it thanks the member on behalf of Kavşak)",
+   "gold": "Kavşak'ı tercih ettiğiniz için teşekkür ederiz."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 18:00 the same Wednesday",
+   "gold": "by 18:00 the same day"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, refunds up to $40 per client need no approval",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dr. Priya Okonkwo, the practice owner",
+   "gold": "Dr. Priya Okonkwo, the practice owner"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Tomas Reyes is the office manager, not a veterinarian; never forward medical questions to him",
+   "gold": "no; Tomas is the office manager, not a veterinarian"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $25 late-change fee (under 24 hours, cat is not a senior)",
+   "gold": "yes, a $25 late-change fee"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the fee is waived for senior animals over 12 years old",
+   "gold": "no; the fee is waived for senior pets over 12"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant calls the on-call veterinarian at 555-0147 (and tells the client to bring the pet straight to the clinic)",
+   "gold": "the assistant itself calls the on-call veterinarian at 555-0147"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by noon Wednesday (next business day)",
+   "gold": "by noon the next business day (Wednesday)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "bring your pet's vaccination record to every visit",
+   "gold": "Please bring your pet's vaccination record to every visit."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never copy Lena Fairchild on patient or client matters",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Friday at 4:00 p.m., to Tomas Reyes",
+   "gold": "Fridays at 4:00 p.m., to Tomas Reyes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 3 (Thursday), 9 a.m. to 4 p.m.",
+   "gold": "December 3 (Thursday), 9 a.m. to 4 p.m."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, building 104's shutoff is December 5 (Saturday), 10 a.m. to 1 p.m.",
+   "gold": "no; December 5 (Saturday), 10 a.m. to 1 p.m."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,400 won (3 x 800 won)",
+   "gold": "2,400 won"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,500 won per household, on the December management fee bill",
+   "gold": "3,500 won, on the December maintenance fee bill"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Kim Do-yoon, 010-4821-7735",
+   "gold": "Kim Do-yoon, 010-4821-7735"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 1 (Tuesday) by 6 p.m.",
+   "gold": "December 1 (Tuesday) by 6 p.m."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "about 3 minutes",
+   "gold": "about 3 minutes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2 bottles of 2 liters, from 8 a.m. on the shutoff day",
+   "gold": "2 bottles of 2 liters, from 8 a.m."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4,300 won (800 won + 3,500 won)",
+   "gold": "4,300 won (3,500 + 800)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, discounts up to R$ 30 need no approval",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, discounts above R$ 30 need Mariana Lopes's approval; Rafael Teixeira cannot approve discounts",
+   "gold": "no; only Mariana Lopes, the co-owner, can approve discounts above R$ 30"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "chief mechanic (not an owner; cannot approve discounts or refunds)",
+   "gold": "chief mechanic (not the owner)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never copy Juliana Prado on complaints",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "R$ 0 net; the R$ 50 fee is deducted because the repair was approved",
+   "gold": "nothing; the R$ 50 fee is deducted once the repair is approved"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Rafael Teixeira at (41) 99812-3406; tell the customer not to use the bike and that the shop will pick it up free of charge",
+   "gold": "the assistant calls Rafael Teixeira at (41) 99812-3406 and tells the customer not to ride the bike; the shop will pick it up free"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Wednesday at 10:00 (within 24 hours)",
+   "gold": "Wednesday at 10:00 (within 24 hours)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "valid for 7 days (\"válido por 7 dias\")",
+   "gold": "Este orçamento é válido por 7 dias."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "every Monday at 8:30, to Mariana Lopes",
+   "gold": "Mondays at 8:30, to Mariana Lopes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, the extended booking would exceed 2 hours, which requires Selin Aydın's approval",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Selin Aydın, the business manager",
+   "gold": "Selin Aydın, the business/operations manager"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Burak Demir is the technical lead; forward invoice questions to accountant Cem Yıldız",
+   "gold": "no; Burak is the technical manager, not the accountant — forward it to Cem Yıldız"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the meeting room limit is 12 people",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, monthly members cancel free up to 2 hours before",
+   "gold": "no; monthly members may cancel free until 2 hours before"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "300 TL (half the hourly rate, 150 TL per hour x 2 hours)",
+   "gold": "300 TL (2 hours × 150 TL)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Burak Demir at 0532 417 88 26 and tell the member to wait at reception",
+   "gold": "the assistant calls Burak Demir at 0532 417 88 26 and tells the member to leave the area and wait at reception"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, door entry codes must not be shared by email",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated (the text gives \"Kavşak'ı ... teşekkür ederiz.\" for confirmations but does not say it must begin with it)",
+   "gold": "Kavşak'ı tercih ettiğiniz için teşekkür ederiz."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 18:00 that Wednesday",
+   "gold": "by 18:00 the same day"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $40 is within the up-to-$40 limit",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dr. Priya Okonkwo, practice owner",
+   "gold": "Dr. Priya Okonkwo, the practice owner"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never forward medical questions to Tomas for an answer",
+   "gold": "no; Tomas is the office manager, not a veterinarian"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $25 late-change fee (less than 24h notice, cat not a senior over 12 years)",
+   "gold": "yes, a $25 late-change fee"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, fee waived because the dog is a senior pet over 12 years old",
+   "gold": "no; the fee is waived for senior pets over 12"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0147 (on-call veterinarian); the assistant calls it itself immediately, then tells the client to bring the pet straight to the clinic without waiting for an appointment",
+   "gold": "the assistant itself calls the on-call veterinarian at 555-0147"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by noon Wednesday (next business day), since it arrived after 15:00",
+   "gold": "by noon the next business day (Wednesday)"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Please bring your pet's vaccination record to every visit.",
+   "gold": "Please bring your pet's vaccination record to every visit."
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy the landlord on any client matter",
+   "gold": "no"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "every Friday at 16:00, to Tomas Reyes (office manager)",
+   "gold": "Fridays at 4:00 p.m., to Tomas Reyes"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "December 3 (Thursday), 09:00-16:00",
+   "gold": "December 3 (Thursday), 9 a.m. to 4 p.m."
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; its shutoff is December 5 (Saturday), 10:00-13:00",
+   "gold": "no; December 5 (Saturday), 10 a.m. to 1 p.m."
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,400 won (3 bottles x 800 won)",
+   "gold": "2,400 won"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,500 won per household, billed with the December maintenance fee",
+   "gold": "3,500 won, on the December maintenance fee bill"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "김도윤, 010-4821-7735 (weekdays 09:00-18:00)",
+   "gold": "Kim Do-yoon, 010-4821-7735"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "by 18:00 on Tuesday, December 1",
+   "gold": "December 1 (Tuesday) by 6 p.m."
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "about 3 minutes",
+   "gold": "about 3 minutes"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2 bottles of 2L each, from 08:00 on the outage day, in front of the management office",
+   "gold": "2 bottles of 2 liters, from 8 a.m."
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4,300 won (800 won for the extra bottle + 3,500 won cleaning charge)",
+   "gold": "4,300 won (3,500 + 800)"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, R$30 is within the up-to-R$30 limit",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, discounts over R$30 need Mariana Lopes's approval; Rafael does not approve discounts",
+   "gold": "no; only Mariana Lopes, the co-owner, can approve discounts above R$ 30"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "head mechanic",
+   "gold": "chief mechanic (not the owner)"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never copy external accountant Juliana Prado on customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "R$0 net; the R$50 e-bike quote fee is deducted when the repair is approved",
+   "gold": "nothing; the R$ 50 fee is deducted once the repair is approved"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rafael Teixeira (head mechanic) at (41) 99812-3406, immediately; tell the customer not to use the bike and that the shop will pick it up free",
+   "gold": "the assistant calls Rafael Teixeira at (41) 99812-3406 and tells the customer not to ride the bike; the shop will pick it up free"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Wednesday at 10:00 (within 24h)",
+   "gold": "Wednesday at 10:00 (within 24 hours)"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Este orçamento é válido por 7 dias.",
+   "gold": "Este orçamento é válido por 7 dias."
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "every Monday at 8:30, to Mariana Lopes (owner-partner), covering the previous week",
+   "gold": "Mondays at 8:30, to Mariana Lopes"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, extensions up to 2h are allowed without approval",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Selin Aydın, operations manager",
+   "gold": "Selin Aydın, the business/operations manager"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, forward it to accountant Cem Yıldız",
+   "gold": "no; Burak is the technical manager, not the accountant — forward it to Cem Yıldız"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Meeting Room B bookings for more than 12 people are not accepted",
+   "gold": "no"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, monthly members cancelling at least 2h before is free",
+   "gold": "no; monthly members may cancel free until 2 hours before"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "300 TL (half hourly rate, 150 TL per hour x 2 hours)",
+   "gold": "300 TL (2 hours × 150 TL)"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0532 417 88 26 (Burak Demir), immediately; tell the member to leave the area and wait at reception",
+   "gold": "the assistant calls Burak Demir at 0532 417 88 26 and tells the member to leave the area and wait at reception"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never share door entry codes by email",
+   "gold": "no"
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Kavşak'ı tercih ettiğiniz için teşekkür ederiz.",
+   "gold": "Kavşak'ı tercih ettiğiniz için teşekkür ederiz."
+  },
+  {
+   "f": "mnc20_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 18:00 that same Wednesday",
+   "gold": "by 18:00 the same day"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $40 is within the assistant's up-to-$40 limit",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dr. Priya Okonkwo, the practice owner",
+   "gold": "Dr. Priya Okonkwo, the practice owner"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the assistant must never forward medical questions to Tomas for an answer",
+   "gold": "no; Tomas is the office manager, not a veterinarian"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $25 late-change fee (less than 24h notice; a 3-year-old cat is not a senior pet)",
+   "gold": "yes, a $25 late-change fee"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, fee waived because the dog is a senior pet over 12 years old",
+   "gold": "no; the fee is waived for senior pets over 12"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant itself immediately calls 555-0147, the on-call veterinarian, then tells the client to bring the pet straight to the clinic without waiting for an appointment",
+   "gold": "the assistant itself calls the on-call veterinarian at 555-0147"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by noon Wednesday (next business day)",
+   "gold": "by noon the next business day (Wednesday)"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Please bring your pet's vaccination record to every visit.",
+   "gold": "Please bring your pet's vaccination record to every visit."
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy landlord Lena Fairchild about any client matter",
+   "gold": "no"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "every Friday at 16:00, to Tomas Reyes (office manager)",
+   "gold": "Fridays at 4:00 p.m., to Tomas Reyes"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "Dec 3 (Thu), 09:00-16:00",
+   "gold": "December 3 (Thursday), 9 a.m. to 4 p.m."
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, building 104's outage is Dec 5 (Sat) 10:00-13:00",
+   "gold": "no; December 5 (Saturday), 10 a.m. to 1 p.m."
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,400 won (3 bottles x 800 won)",
+   "gold": "2,400 won"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,500 won per household, billed with the December maintenance fee",
+   "gold": "3,500 won, on the December maintenance fee bill"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "김도윤, 010-4821-7735",
+   "gold": "Kim Do-yoon, 010-4821-7735"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "by 18:00 on Dec 1 (Tue)",
+   "gold": "December 1 (Tuesday) by 6 p.m."
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "about 3 minutes",
+   "gold": "about 3 minutes"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2 bottles of 2L each, from 08:00 on the outage day, in front of the management office",
+   "gold": "2 bottles of 2 liters, from 8 a.m."
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4,300 won (800 won extra bottle + 3,500 won cleaning cost)",
+   "gold": "4,300 won (3,500 + 800)"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, R$30 is within the assistant's up-to-R$30 limit",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, discounts over R$30 need Mariana Lopes's approval; Rafael Teixeira does not approve discounts",
+   "gold": "no; only Mariana Lopes, the co-owner, can approve discounts above R$ 30"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "head mechanic",
+   "gold": "chief mechanic (not the owner)"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never copy external accountant Juliana Prado on customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "R$0 (the R$50 e-bike quote fee is deducted when the repair is approved)",
+   "gold": "nothing; the R$ 50 fee is deducted once the repair is approved"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant immediately calls Rafael Teixeira at (41) 99812-3406 and tells the customer not to use the bike; the shop picks it up free",
+   "gold": "the assistant calls Rafael Teixeira at (41) 99812-3406 and tells the customer not to ride the bike; the shop will pick it up free"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Wednesday at 10:00 (within 24h)",
+   "gold": "Wednesday at 10:00 (within 24 hours)"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never ask for a credit card number by email",
+   "gold": "no"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Este orçamento é válido por 7 dias.",
+   "gold": "Este orçamento é válido por 7 dias."
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "every Monday at 8:30, to Mariana Lopes (owner-partner)",
+   "gold": "Mondays at 8:30, to Mariana Lopes"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, extensions up to 2h may be approved by the assistant alone",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Selin Aydın, the operations manager",
+   "gold": "Selin Aydın, the business/operations manager"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, invoice questions go to accountant Cem Yıldız, never to Burak Demir",
+   "gold": "no; Burak is the technical manager, not the accountant — forward it to Cem Yıldız"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Meeting Room B bookings for more than 12 people must not be accepted",
+   "gold": "no"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, monthly members cancelling at least 2h before is free",
+   "gold": "no; monthly members may cancel free until 2 hours before"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "300 TL (half hourly rate, 150 TL per hour x 2 hours)",
+   "gold": "300 TL (2 hours × 150 TL)"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant calls Burak Demir at 0532 417 88 26 immediately and tells the member to leave the area and wait at reception",
+   "gold": "the assistant calls Burak Demir at 0532 417 88 26 and tells the member to leave the area and wait at reception"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, door entry codes must never be shared by email",
+   "gold": "no"
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Kavşak'ı tercih ettiğiniz için teşekkür ederiz.",
+   "gold": "Kavşak'ı tercih ettiğiniz için teşekkür ederiz."
+  },
+  {
+   "f": "mnc20_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 18:00 that Wednesday",
+   "gold": "by 18:00 the same day"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $40 is within the ≤$40 limit",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dr. Priya Okonkwo, the owner",
+   "gold": "Dr. Priya Okonkwo, the practice owner"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never forward medical questions to Tomas",
+   "gold": "no; Tomas is the office manager, not a veterinarian"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $25 late-change fee",
+   "gold": "yes, a $25 late-change fee"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, fee waived for senior pet over 12 years",
+   "gold": "no; the fee is waived for senior pets over 12"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0147 (on-call vet); the assistant calls it itself immediately, then tells the client to bring the pet straight to the clinic",
+   "gold": "the assistant itself calls the on-call veterinarian at 555-0147"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by noon the next business day (Wednesday)",
+   "gold": "by noon the next business day (Wednesday)"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Please bring your pet's vaccination record to every visit.",
+   "gold": "Please bring your pet's vaccination record to every visit."
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "every Friday at 16:00, to Tomas Reyes (office manager): week's bookings, cancellations, credits",
+   "gold": "Fridays at 4:00 p.m., to Tomas Reyes"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "December 3 (Thursday), 09:00-16:00",
+   "gold": "December 3 (Thursday), 9 a.m. to 4 p.m."
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; its shutoff is December 5 (Saturday), 10:00-13:00",
+   "gold": "no; December 5 (Saturday), 10 a.m. to 1 p.m."
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,400 won (3 × 800 won)",
+   "gold": "2,400 won"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,500 won per household, billed in the December maintenance fee",
+   "gold": "3,500 won, on the December maintenance fee bill"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "김도윤, 010-4821-7735",
+   "gold": "Kim Do-yoon, 010-4821-7735"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "by 18:00 on December 1 (Tuesday)",
+   "gold": "December 1 (Tuesday) by 6 p.m."
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3 minutes",
+   "gold": "about 3 minutes"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2 bottles of 2L each, from 08:00 on the outage day",
+   "gold": "2 bottles of 2 liters, from 8 a.m."
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4,300 won (800 + 3,500)",
+   "gold": "4,300 won (3,500 + 800)"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, R$30 is within the ≤R$30 limit",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only Mariana Lopes (owner) can approve over R$30; Rafael cannot approve discounts",
+   "gold": "no; only Mariana Lopes, the co-owner, can approve discounts above R$ 30"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "head mechanic",
+   "gold": "chief mechanic (not the owner)"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "R$0; the R$50 e-bike quote fee is deducted when the repair is approved",
+   "gold": "nothing; the R$ 50 fee is deducted once the repair is approved"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rafael Teixeira at (41) 99812-3406, called by the assistant immediately; tell the customer not to use the bike and the shop will pick it up free",
+   "gold": "the assistant calls Rafael Teixeira at (41) 99812-3406 and tells the customer not to ride the bike; the shop will pick it up free"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Wednesday at 10:00",
+   "gold": "Wednesday at 10:00 (within 24 hours)"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Este orçamento é válido por 7 dias.",
+   "gold": "Este orçamento é válido por 7 dias."
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "every Monday at 8:30, to Mariana Lopes (owner): previous week's quotes sent, approved, discounts",
+   "gold": "Mondays at 8:30, to Mariana Lopes"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, ≤2h is allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Selin Aydın, the manager",
+   "gold": "Selin Aydın, the business/operations manager"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, forward invoice questions to Cem Yıldız (accountant)",
+   "gold": "no; Burak is the technical manager, not the accountant — forward it to Cem Yıldız"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Room B may not be accepted for more than 12 people",
+   "gold": "no"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, monthly members cancel free at least 2h before",
+   "gold": "no; monthly members may cancel free until 2 hours before"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "150 TL (half the 150 TL/hour rate = 75 TL × 2 hours)",
+   "gold": "300 TL (2 hours × 150 TL)"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0532 417 88 26 (Burak Demir), called by the assistant immediately; tell the member to leave the area and wait at reception",
+   "gold": "the assistant calls Burak Demir at 0532 417 88 26 and tells the member to leave the area and wait at reception"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Kavşak'ı tercih ettiğiniz için teşekkür ederiz.",
+   "gold": "Kavşak'ı tercih ettiğiniz için teşekkür ederiz."
+  },
+  {
+   "f": "mnc20x_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 18:00 the same day (Wednesday)",
+   "gold": "by 18:00 the same day"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $40 is within the ≤$40 limit",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dr. Priya Okonkwo, the owner",
+   "gold": "Dr. Priya Okonkwo, the practice owner"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never forward medical questions to Tomas",
+   "gold": "no; Tomas is the office manager, not a veterinarian"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $25 late-change fee (less than 24h, pet not a senior over 12 years)",
+   "gold": "yes, a $25 late-change fee"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the fee is waived for senior pets over 12 years",
+   "gold": "no; the fee is waived for senior pets over 12"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0147, the on-call vet; the assistant calls it itself immediately, then tells the client to bring the pet straight to the clinic",
+   "gold": "the assistant itself calls the on-call veterinarian at 555-0147"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by noon on the next business day (Wednesday)",
+   "gold": "by noon the next business day (Wednesday)"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Please bring your pet's vaccination record to every visit.",
+   "gold": "Please bring your pet's vaccination record to every visit."
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or cc Lena Fairchild on patient/client matters",
+   "gold": "no"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "every Friday at 16:00, to Tomas Reyes (office manager)",
+   "gold": "Fridays at 4:00 p.m., to Tomas Reyes"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "December 3 (Thursday), 09:00-16:00",
+   "gold": "December 3 (Thursday), 9 a.m. to 4 p.m."
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; its outage is December 5 (Saturday), 10:00-13:00",
+   "gold": "no; December 5 (Saturday), 10 a.m. to 1 p.m."
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,400 won (3 × 800 won)",
+   "gold": "2,400 won"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,500 won per household, billed in the December maintenance fee",
+   "gold": "3,500 won, on the December maintenance fee bill"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "김도윤, 010-4821-7735",
+   "gold": "Kim Do-yoon, 010-4821-7735"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "by 18:00 on December 1 (Tuesday)",
+   "gold": "December 1 (Tuesday) by 6 p.m."
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "about 3 minutes",
+   "gold": "about 3 minutes"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2 bottles of 2L each, from 08:00 on the outage day",
+   "gold": "2 bottles of 2 liters, from 8 a.m."
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4,300 won (800 won extra bottle + 3,500 won cleaning charge)",
+   "gold": "4,300 won (3,500 + 800)"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, R$30 is within the ≤R$30 limit",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Rafael cannot approve discounts; amounts over R$30 need Mariana Lopes's approval",
+   "gold": "no; only Mariana Lopes, the co-owner, can approve discounts above R$ 30"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "head mechanic",
+   "gold": "chief mechanic (not the owner)"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never cc Juliana Prado on complaints",
+   "gold": "no"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing; the R$50 e-bike quote fee is deducted when the repair is approved",
+   "gold": "nothing; the R$ 50 fee is deducted once the repair is approved"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rafael Teixeira at (41) 99812-3406, called by the assistant immediately; tell the customer not to use the bike and that the shop will pick it up for free",
+   "gold": "the assistant calls Rafael Teixeira at (41) 99812-3406 and tells the customer not to ride the bike; the shop will pick it up free"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Wednesday at 10:00",
+   "gold": "Wednesday at 10:00 (within 24 hours)"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Este orçamento é válido por 7 dias.",
+   "gold": "Este orçamento é válido por 7 dias."
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "every Monday at 8:30, to Mariana Lopes (owner), covering the previous week",
+   "gold": "Mondays at 8:30, to Mariana Lopes"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, ≤2h is within the limit",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Selin Aydın, the manager",
+   "gold": "Selin Aydın, the business/operations manager"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, invoice questions go to Cem Yıldız (accountant), never Burak",
+   "gold": "no; Burak is the technical manager, not the accountant — forward it to Cem Yıldız"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Room B cannot be accepted for more than 12 people",
+   "gold": "no"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, monthly members cancel free at least 2h before",
+   "gold": "no; monthly members may cancel free until 2 hours before"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "150 TL (half the 150 TL hourly rate × 2 hours), since it is less than 24h before",
+   "gold": "300 TL (2 hours × 150 TL)"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0532 417 88 26 (Burak Demir), called by the assistant immediately; tell the member to leave the area and wait at reception",
+   "gold": "the assistant calls Burak Demir at 0532 417 88 26 and tells the member to leave the area and wait at reception"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never share door codes by email",
+   "gold": "no"
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Kavşak'ı tercih ettiğiniz için teşekkür ederiz.",
+   "gold": "Kavşak'ı tercih ettiğiniz için teşekkür ederiz."
+  },
+  {
+   "f": "mnc20x_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 18:00 the same day (Wednesday)",
+   "gold": "by 18:00 the same day"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $40 is within the assistant's up-to-$40 limit",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dr. Priya Okonkwo, the practice owner",
+   "gold": "Dr. Priya Okonkwo, the practice owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Tomas Reyes is the office manager, not a veterinarian",
+   "gold": "no; Tomas is the office manager, not a veterinarian"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, a $25 late-change fee (less than 24 hours' notice and the cat is not over 12)",
+   "gold": "yes, a $25 late-change fee"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the fee is waived because the dog is a senior over 12 years old",
+   "gold": "no; the fee is waived for senior pets over 12"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant itself calls the on-call veterinarian at 555-0147 immediately (then tells the client to bring the pet straight to the clinic)",
+   "gold": "the assistant itself calls the on-call veterinarian at 555-0147"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by noon Wednesday (the next business day)",
+   "gold": "by noon the next business day (Wednesday)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Please bring your pet's vaccination record to every visit.",
+   "gold": "Please bring your pet's vaccination record to every visit."
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Lena Fairchild about any client matter",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "every Friday at 4:00 p.m., to Tomas Reyes",
+   "gold": "Fridays at 4:00 p.m., to Tomas Reyes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 3 (Thursday), 9:00 a.m. to 4:00 p.m.",
+   "gold": "December 3 (Thursday), 9 a.m. to 4 p.m."
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; building 104's shutoff is December 5 (Saturday), 10:00 a.m. to 1:00 p.m.",
+   "gold": "no; December 5 (Saturday), 10 a.m. to 1 p.m."
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,400 won (3 bottles at 800 won each)",
+   "gold": "2,400 won"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,500 won per household, charged on the December maintenance fee bill",
+   "gold": "3,500 won, on the December maintenance fee bill"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Kim Do-yun (김도윤), 010-4821-7735",
+   "gold": "Kim Do-yoon, 010-4821-7735"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 6:00 p.m. on December 1 (Tuesday), at the management office",
+   "gold": "December 1 (Tuesday) by 6 p.m."
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "about 3 minutes",
+   "gold": "about 3 minutes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2 free bottles of 2 liters each, from 8:00 a.m. on the shutoff day",
+   "gold": "2 bottles of 2 liters, from 8 a.m."
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4,300 won (800 won for the extra bottle plus the 3,500 won cleaning charge)",
+   "gold": "4,300 won (3,500 + 800)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, R$ 30 is within the assistant's up-to-R$ 30 limit",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, discounts above R$ 30 need Mariana Lopes's approval; Rafael Teixeira does not approve discounts",
+   "gold": "no; only Mariana Lopes, the co-owner, can approve discounts above R$ 30"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "head mechanic (not the owner)",
+   "gold": "chief mechanic (not the owner)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never copy Juliana Prado, the external accountant, on customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing; the R$ 50 e-bike quote fee is deducted when the repair is approved",
+   "gold": "nothing; the R$ 50 fee is deducted once the repair is approved"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant itself calls Rafael Teixeira at (41) 99812-3406 immediately and tells the customer not to use the bike and that the shop will pick it up at no cost",
+   "gold": "the assistant calls Rafael Teixeira at (41) 99812-3406 and tells the customer not to ride the bike; the shop will pick it up free"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Wednesday at 10:00 (within 24 hours of receipt)",
+   "gold": "Wednesday at 10:00 (within 24 hours)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Este orçamento é válido por 7 dias.",
+   "gold": "Este orçamento é válido por 7 dias."
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "every Monday at 8:30, to Mariana Lopes",
+   "gold": "Mondays at 8:30, to Mariana Lopes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, extensions up to 2 hours may be approved by the assistant alone",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Selin Aydın, the business (operations) manager",
+   "gold": "Selin Aydın, the business/operations manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Burak Demir is the technical lead, not the accountant; forward it to accountant Cem Yıldız",
+   "gold": "no; Burak is the technical manager, not the accountant — forward it to Cem Yıldız"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Meeting Room B never accepts bookings of more than 12 people",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, monthly members may cancel free up to 2 hours before",
+   "gold": "no; monthly members may cancel free until 2 hours before"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "300 TL (half the hourly rate, 150 TL per hour, for 2 hours)",
+   "gold": "300 TL (2 hours × 150 TL)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant itself calls Burak Demir at 0532 417 88 26 immediately and tells the member to leave the area and wait at reception",
+   "gold": "the assistant calls Burak Demir at 0532 417 88 26 and tells the member to leave the area and wait at reception"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Kavşak'ı tercih ettiğiniz için teşekkür ederiz.",
+   "gold": "Kavşak'ı tercih ettiğiniz için teşekkür ederiz."
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 18:00 the same Wednesday",
+   "gold": "by 18:00 the same day"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; refunds up to $40 per client need no approval",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dr. Priya Okonkwo, the owner",
+   "gold": "Dr. Priya Okonkwo, the practice owner"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Tomas Reyes is the office manager, not a vet, and medical questions must never go to him",
+   "gold": "no; Tomas is the office manager, not a veterinarian"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, a $25 late-change fee (under 24h and the cat isn't a senior)",
+   "gold": "yes, a $25 late-change fee"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the $25 fee is waived because the dog is a senior (over 12 years)",
+   "gold": "no; the fee is waived for senior pets over 12"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant calls the on-call vet itself at 555-0147 right away, then tells the client to bring the pet straight to the clinic",
+   "gold": "the assistant itself calls the on-call veterinarian at 555-0147"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by noon Wednesday (next business day)",
+   "gold": "by noon the next business day (Wednesday)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Please bring your pet's vaccination record to every visit.\"",
+   "gold": "Please bring your pet's vaccination record to every visit."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Lena Fairchild (landlord) must never be contacted or copied on client matters",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fridays at 4:00 p.m., to Tomas Reyes",
+   "gold": "Fridays at 4:00 p.m., to Tomas Reyes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "December 3 (Thursday), 09:00–16:00",
+   "gold": "December 3 (Thursday), 9 a.m. to 4 p.m."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; building 104's shutoff is December 5 (Saturday), 10:00–13:00",
+   "gold": "no; December 5 (Saturday), 10 a.m. to 1 p.m."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,400 won (3 × 800 won)",
+   "gold": "2,400 won"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,500 won per household, billed with the December management fee",
+   "gold": "3,500 won, on the December maintenance fee bill"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Kim Do-yun (manager), 010-4821-7735",
+   "gold": "Kim Do-yoon, 010-4821-7735"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "December 1 (Tuesday) by 18:00",
+   "gold": "December 1 (Tuesday) by 6 p.m."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "about 3 minutes",
+   "gold": "about 3 minutes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2 bottles of 2L each, from 08:00 on the shutoff day",
+   "gold": "2 bottles of 2 liters, from 8 a.m."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4,300 won (800 won for the extra bottle + 3,500 won cleaning charge)",
+   "gold": "4,300 won (3,500 + 800)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; discounts up to R$30 need no approval",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; anything over R$30 needs Mariana Lopes (owner-partner), and Rafael can't approve discounts",
+   "gold": "no; only Mariana Lopes, the co-owner, can approve discounts above R$ 30"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "head mechanic, not an owner; he can't approve discounts or refunds",
+   "gold": "chief mechanic (not the owner)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing (R$0); the R$50 fee comes off the repair once it's approved",
+   "gold": "nothing; the R$ 50 fee is deducted once the repair is approved"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant calls Rafael Teixeira itself, right away, at (41) 99812-3406, and tells the customer not to use the bike and that the shop will pick it up free",
+   "gold": "the assistant calls Rafael Teixeira at (41) 99812-3406 and tells the customer not to ride the bike; the shop will pick it up free"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Wednesday at 10:00 (within 24h)",
+   "gold": "Wednesday at 10:00 (within 24 hours)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Este orçamento é válido por 7 dias.\" (This quote is valid for 7 days.)",
+   "gold": "Este orçamento é válido por 7 dias."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "every Monday at 8:30, to Mariana Lopes",
+   "gold": "Mondays at 8:30, to Mariana Lopes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; extensions up to 2 hours need no approval",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Selin Aydın, the operations manager",
+   "gold": "Selin Aydın, the business/operations manager"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; invoice questions go to the accountant Cem Yıldız, since Burak Demir is the technical lead",
+   "gold": "no; Burak is the technical manager, not the accountant — forward it to Cem Yıldız"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Meeting Room B can't take bookings over 12 people",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; monthly members can cancel free up to 2 hours before",
+   "gold": "no; monthly members may cancel free until 2 hours before"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "300 TL (150 TL per hour × 2 hours)",
+   "gold": "300 TL (2 hours × 150 TL)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant calls Burak Demir itself, right away, at 0532 417 88 26, and tells the member to leave the area and wait at reception",
+   "gold": "the assistant calls Burak Demir at 0532 417 88 26 and tells the member to leave the area and wait at reception"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Kavşak'ı tercih ettiğiniz için teşekkür ederiz.\" (Thank you for choosing Kavşak.)",
+   "gold": "Kavşak'ı tercih ettiğiniz için teşekkür ederiz."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 18:00 that same day (Wednesday)",
+   "gold": "by 18:00 the same day"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $40 is within the assistant's ≤$40 authority",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dr. Priya Okonkwo, the owner",
+   "gold": "Dr. Priya Okonkwo, the practice owner"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Tomas Reyes is the office manager, not a vet; medical questions must never be forwarded to him for an answer",
+   "gold": "no; Tomas is the office manager, not a veterinarian"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $25 late-change fee (under 24h; the cat is 3, not a senior over 12)",
+   "gold": "yes, a $25 late-change fee"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the $25 fee is waived because the dog is over 12 (senior)",
+   "gold": "no; the fee is waived for senior pets over 12"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the on-call vet at 555-0147; the assistant calls immediately itself, then tells the client to bring the pet straight to the clinic",
+   "gold": "the assistant itself calls the on-call veterinarian at 555-0147"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by noon Wednesday (next business day)",
+   "gold": "by noon the next business day (Wednesday)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Please bring your pet's vaccination record to every visit.\"",
+   "gold": "Please bring your pet's vaccination record to every visit."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Lena Fairchild on any patient/client matter",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fridays at 4:00 p.m., to Tomas Reyes",
+   "gold": "Fridays at 4:00 p.m., to Tomas Reyes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Thursday, December 3, 9 a.m.–4 p.m.",
+   "gold": "December 3 (Thursday), 9 a.m. to 4 p.m."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; building 104's shutoff is Saturday, December 5, 10 a.m.–1 p.m.",
+   "gold": "no; December 5 (Saturday), 10 a.m. to 1 p.m."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,400 won (3 × 800 won)",
+   "gold": "2,400 won"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,500 won per household, billed with the December maintenance fee",
+   "gold": "3,500 won, on the December maintenance fee bill"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Kim Do-yun, 010-4821-7735",
+   "gold": "Kim Do-yoon, 010-4821-7735"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tuesday, December 1, 6 p.m.",
+   "gold": "December 1 (Tuesday) by 6 p.m."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "about 3 minutes",
+   "gold": "about 3 minutes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2 free 2-liter bottles per household, from 8 a.m.",
+   "gold": "2 bottles of 2 liters, from 8 a.m."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4,300 won (800 won for the extra bottle + 3,500 won cleaning charge)",
+   "gold": "4,300 won (3,500 + 800)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, R$30 is within the assistant's ≤R$30 authority",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, discounts over R$30 need Mariana Lopes (co-owner); Rafael doesn't approve discounts",
+   "gold": "no; only Mariana Lopes, the co-owner, can approve discounts above R$ 30"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "head mechanic (not owner)",
+   "gold": "chief mechanic (not the owner)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never cc Juliana Prado on customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing in the end; the R$50 fee is deducted when the repair is approved",
+   "gold": "nothing; the R$ 50 fee is deducted once the repair is approved"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rafael Teixeira at (41) 99812-3406, called immediately by the assistant; tell the customer not to use the bike and that the shop will pick it up for free",
+   "gold": "the assistant calls Rafael Teixeira at (41) 99812-3406 and tells the customer not to ride the bike; the shop will pick it up free"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Wednesday at 10:00 (within 24h)",
+   "gold": "Wednesday at 10:00 (within 24 hours)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Este orçamento é válido por 7 dias.\"",
+   "gold": "Este orçamento é válido por 7 dias."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mondays at 8:30, to Mariana Lopes",
+   "gold": "Mondays at 8:30, to Mariana Lopes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, 2 hours is within the assistant's ≤2h authority",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Selin Aydın, operations manager",
+   "gold": "Selin Aydın, the business/operations manager"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, forward it to accountant Cem Yıldız; Burak Demir is the technical lead",
+   "gold": "no; Burak is the technical manager, not the accountant — forward it to Cem Yıldız"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Meeting Room B is limited to 12 people",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, monthly members can cancel free until 2 hours before",
+   "gold": "no; monthly members may cancel free until 2 hours before"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "300 TL (half the hourly rate, 150 TL/hour × 2 hours)",
+   "gold": "300 TL (2 hours × 150 TL)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Burak Demir at 0532 417 88 26, called immediately by the assistant; tell the member to leave the area and wait at reception",
+   "gold": "the assistant calls Burak Demir at 0532 417 88 26 and tells the member to leave the area and wait at reception"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Kavşak'ı tercih ettiğiniz için teşekkür ederiz.\"",
+   "gold": "Kavşak'ı tercih ettiğiniz için teşekkür ederiz."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 18:00 the same day (Wednesday)",
+   "gold": "by 18:00 the same day"
+  }
+ ],
+ "summary": {
+  "llm05_r1": {
+   "all": [
+    30,
+    39
+   ],
+   "S": [
+    21,
+    25
+   ],
+   "F": [
+    9,
+    14
+   ],
+   "hop2": [
+    8,
+    9
+   ]
+  },
+  "llm066_r1": {
+   "all": [
+    37,
+    39
+   ],
+   "S": [
+    24,
+    25
+   ],
+   "F": [
+    13,
+    14
+   ],
+   "hop2": [
+    9,
+    9
+   ]
+  },
+  "mnc20_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    9,
+    9
+   ]
+  },
+  "mnc20_r2": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    9,
+    9
+   ]
+  },
+  "mnc20x_r1": {
+   "all": [
+    38,
+    39
+   ],
+   "S": [
+    24,
+    25
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    8,
+    9
+   ]
+  },
+  "mnc20x_r2": {
+   "all": [
+    38,
+    39
+   ],
+   "S": [
+    24,
+    25
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    8,
+    9
+   ]
+  },
+  "original_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    9,
+    9
+   ]
+  },
+  "summ_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    9,
+    9
+   ]
+  },
+  "terse_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    9,
+    9
+   ]
+  }
+ }
+}

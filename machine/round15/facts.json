@@ -1,0 +1,457 @@
+{
+ "written": "2026-11-17 before any round-15 encoding",
+ "facts": [
+  {
+   "id": "P1.1",
+   "sec": 1,
+   "type": "F",
+   "text": "Northfield Youth Soccer League spring registrations; daily 8 p.m. Central check register@northfieldysl.org",
+   "must": [
+    "Northfield",
+    "spring",
+    "(daily|every day)",
+    "(8 ?pm|20:00)",
+    "(CT|Central)",
+    "register@northfieldysl\\.org"
+   ]
+  },
+  {
+   "id": "P1.2",
+   "sec": 1,
+   "type": "S",
+   "text": "registration closes 11:59 p.m. Feb 28",
+   "must": [
+    "(11:59 ?pm|23:59)",
+    "Feb ?28",
+    "clos"
+   ]
+  },
+  {
+   "id": "P1.3",
+   "sec": 1,
+   "type": "S",
+   "text": "may accept late registrations until Mar 7 only if age group has open roster spot; late fee $25",
+   "must": [
+    "may",
+    "late",
+    "until Mar ?7",
+    "only if",
+    "open roster spot",
+    "\\$25"
+   ]
+  },
+  {
+   "id": "P1.4",
+   "sec": 1,
+   "type": "F",
+   "text": "U10 born 2017 or later; U12 2015-2016; U14 2013-2014",
+   "must": [
+    "U10",
+    "2017",
+    "U12",
+    "2015",
+    "2016",
+    "U14",
+    "2013",
+    "2014"
+   ]
+  },
+  {
+   "id": "P1.5",
+   "sec": 1,
+   "type": "S",
+   "text": "never place player in younger age group than birth year allows; may play up one group only with written approval of age-group coordinator",
+   "must": [
+    "never",
+    "younger",
+    "may",
+    "up one",
+    "only with written approval",
+    "coordinator"
+   ]
+  },
+  {
+   "id": "P1.6",
+   "sec": 1,
+   "type": "F",
+   "text": "coordinators Dana Whitfield U10, Marcus Bell U12, Priyanka Rao U14",
+   "must": [
+    "Dana Whitfield",
+    "Marcus Bell",
+    "Priyanka Rao"
+   ]
+  },
+  {
+   "id": "P1.7",
+   "sec": 1,
+   "type": "S",
+   "text": "families with ≥2 registered children: 10% off each additional child, not first",
+   "must": [
+    "(≥|>=)\\s*2",
+    "10%",
+    "additional",
+    "not (on )?(the )?first"
+   ]
+  },
+  {
+   "id": "P1.8",
+   "sec": 1,
+   "type": "S",
+   "text": "refund full minus $15 fee before Mar 15; 50% Mar 15-31; none from Apr 1 except season-ending injury with doctor note, treasurer Tom Alvarez approves",
+   "must": [
+    "before Mar ?15",
+    "\\$15",
+    "50%",
+    "Mar ?15\\s*-\\s*(Mar ?)?31",
+    "from Apr ?1",
+    "except",
+    "season-ending injury",
+    "doctor",
+    "Tom Alvarez"
+   ]
+  },
+  {
+   "id": "P1.9",
+   "sec": 1,
+   "type": "S",
+   "text": "never share child medical info with coaches unless parent ticked \"share with coach\"",
+   "must": [
+    "never",
+    "medical",
+    "coach",
+    "unless",
+    "\"share with coach\""
+   ]
+  },
+  {
+   "id": "P1.10",
+   "sec": 1,
+   "type": "S",
+   "text": "concussion: tell parent player must not return to practice until doctor signs league return-to-play form; notify safety officer Elena Ruiz same day",
+   "must": [
+    "concussion",
+    "tell (parent|them)\\s*:",
+    "until",
+    "doctor",
+    "return-to-play form",
+    "Elena Ruiz",
+    "same day"
+   ]
+  },
+  {
+   "id": "P1.11",
+   "sec": 1,
+   "type": "S",
+   "text": "send coordinators updated rosters by 6 p.m. every Sunday",
+   "must": [
+    "updated rosters",
+    "by (6 ?pm|18:00)",
+    "Sun"
+   ]
+  },
+  {
+   "id": "P2.1",
+   "sec": 2,
+   "type": "F",
+   "text": "Clínica Veterinária Bicho Bom Curitiba; Mon-Sat 7:30 check reception WhatsApp and agenda@bichobom.vet",
+   "must": [
+    "Bicho Bom",
+    "Curitiba",
+    "Mon-Sat",
+    "7:30",
+    "WhatsApp",
+    "agenda@bichobom\\.vet"
+   ]
+  },
+  {
+   "id": "P2.2",
+   "sec": 2,
+   "type": "S",
+   "text": "may book routine consultations alone; surgeries only by Dra. Fernanda Lopes (clinical director)",
+   "must": [
+    "may",
+    "routine",
+    "surger",
+    "only",
+    "Fernanda Lopes"
+   ]
+  },
+  {
+   "id": "P2.3",
+   "sec": 2,
+   "type": "S",
+   "text": "pet ate chocolate, grapes, rat poison, human medicine, or trouble breathing: tell owner to bring animal immediately to 24h emergency; notify vet on duty; no treatment advice by message",
+   "must": [
+    "chocolate",
+    "grape",
+    "rat poison",
+    "human (medicine|meds)",
+    "breath",
+    "tell (owner|them)\\s*:",
+    "(immediately|now)",
+    "24h",
+    "vet on (duty|call)",
+    "(no|never).*(treatment|advice)"
+   ]
+  },
+  {
+   "id": "P2.4",
+   "sec": 2,
+   "type": "S",
+   "text": "cancellation <24h before: R$50 fee, except emergency with own animal",
+   "must": [
+    "<\\s*24\\s*h",
+    "R\\$ ?50",
+    "except",
+    "emergenc"
+   ]
+  },
+  {
+   "id": "P2.5",
+   "sec": 2,
+   "type": "S",
+   "text": "may give ≤10% discount for rescued animals from registered NGOs; larger only manager Juliana Prado",
+   "must": [
+    "may",
+    "(≤|<=|up to)\\s*10%",
+    "rescue",
+    "registered",
+    "(NGO|ONG)",
+    "only",
+    "Juliana Prado"
+   ]
+  },
+  {
+   "id": "P2.6",
+   "sec": 2,
+   "type": "S",
+   "text": "never send animal record to anyone but registered owner, not even other clinic, without owner written authorization",
+   "must": [
+    "never",
+    "record",
+    "registered owner",
+    "(not )?even",
+    "clinic",
+    "written"
+   ]
+  },
+  {
+   "id": "P2.7",
+   "sec": 2,
+   "type": "S",
+   "text": "Juliana is manager, not partner; partner Dr. Ricardo Alves never cc on client emails",
+   "must": [
+    "Juliana\\s*=",
+    "never \"?(partner|sócia|owner)",
+    "Ricardo Alves",
+    "never cc"
+   ]
+  },
+  {
+   "id": "P2.8",
+   "sec": 2,
+   "type": "S",
+   "text": "send Juliana by 18:00 every Friday list of clients with payments overdue >30 days",
+   "must": [
+    "by 18:00",
+    "Fri",
+    "list",
+    "overdue",
+    ">\\s*30\\s*d"
+   ]
+  },
+  {
+   "id": "P3.1",
+   "sec": 3,
+   "type": "F",
+   "text": "Busan city announced Nov 3 sea cable car at Haeundae beach by July 2027",
+   "must": [
+    "(Busan|부산)",
+    "Nov ?3",
+    "(Haeundae|해운대)",
+    "cable car",
+    "(by|until) Jul ?2027"
+   ]
+  },
+  {
+   "id": "P3.2",
+   "sec": 3,
+   "type": "F",
+   "text": "total ₩145bn, private investment 70%",
+   "must": [
+    "(145|1,450)",
+    "70%",
+    "private"
+   ]
+  },
+  {
+   "id": "P3.3",
+   "sec": 3,
+   "type": "F",
+   "text": "route 4.2 km, 3 stations, max 2,400 passengers per hour",
+   "must": [
+    "4\\.2 ?km",
+    "3 stations",
+    "2,?400",
+    "/h|per h"
+   ]
+  },
+  {
+   "id": "P3.4",
+   "sec": 3,
+   "type": "F",
+   "text": "tourism director 박지훈 quote \"성수기 교통 체증을 줄이고 연간 120만 명의 관광객을 추가로 유치하겠다\"",
+   "must": [
+    "박지훈",
+    "성수기 교통 체증을 줄이고 연간 120만 명의 관광객을 추가로 유치하겠다"
+   ]
+  },
+  {
+   "id": "P3.5",
+   "sec": 3,
+   "type": "F",
+   "text": "fare adult round trip ₩25,000; 65+ and elementary students 40% off",
+   "must": [
+    "25,?000",
+    "round",
+    "65",
+    "elementary",
+    "40%"
+   ]
+  },
+  {
+   "id": "P3.6",
+   "sec": 3,
+   "type": "F",
+   "text": "environmental group 바다지킴이 fears migratory bird habitat damage, demands halt",
+   "must": [
+    "바다지킴이",
+    "(migratory|bird)",
+    "halt|stop"
+   ]
+  },
+  {
+   "id": "P3.7",
+   "sec": 3,
+   "type": "S",
+   "text": "city to publish environmental assessment by Dec 15; residents briefing Dec 20 14:00 at Haeundae-gu office",
+   "must": [
+    "by Dec ?15",
+    "assessment",
+    "Dec ?20",
+    "14:00",
+    "(Haeundae-gu|해운대구청)"
+   ]
+  },
+  {
+   "id": "P4.1",
+   "sec": 4,
+   "type": "F",
+   "text": "Polkart sp. z o.o. Wrocław IT; daily 7:00 check it@polkart.pl and ticket queue",
+   "must": [
+    "Polkart",
+    "Wrocław",
+    "daily",
+    "7:00",
+    "it@polkart\\.pl",
+    "queue"
+   ]
+  },
+  {
+   "id": "P4.2",
+   "sec": 4,
+   "type": "S",
+   "text": "may reset passwords only after phone verification on work number from HR system, never number given in ticket",
+   "must": [
+    "may",
+    "reset",
+    "only after",
+    "(phone|call)",
+    "work number",
+    "HR system",
+    "never"
+   ]
+  },
+  {
+   "id": "P4.3",
+   "sec": 4,
+   "type": "S",
+   "text": "\"Kadry\" folder access only HR head Anna Wiśniewska; accounting system only chief accountant Piotr Zając",
+   "must": [
+    "„?\"?Kadry",
+    "only",
+    "Anna Wiśniewska",
+    "Piotr Zając"
+   ]
+  },
+  {
+   "id": "P4.4",
+   "sec": 4,
+   "type": "S",
+   "text": "suspicious email asking for transfer or account change: tell them not to click or pay; notify Kamil Nowak (security admin) immediately, also weekends",
+   "must": [
+    "suspicious",
+    "(transfer|payment)",
+    "account",
+    "tell (them|reporter|user)\\s*:",
+    "click",
+    "pay",
+    "Kamil Nowak",
+    "(immediately|now)",
+    "weekend"
+   ]
+  },
+  {
+   "id": "P4.5",
+   "sec": 4,
+   "type": "S",
+   "text": "new laptops only after handover protocol signed; never to third party even with authorization",
+   "must": [
+    "laptop",
+    "only after",
+    "handover",
+    "sign",
+    "never",
+    "third part",
+    "even with"
+   ]
+  },
+  {
+   "id": "P4.6",
+   "sec": 4,
+   "type": "S",
+   "text": "hardware purchases ≤2000 zł approved by requesting dept head; >2000 zł CFO Ewa Lis",
+   "must": [
+    "(≤|<=|up to)\\s*2,?000",
+    "(dept|department) head",
+    ">\\s*2,?000",
+    "Ewa Lis"
+   ]
+  },
+  {
+   "id": "P4.7",
+   "sec": 4,
+   "type": "S",
+   "text": "Kamil Nowak is security admin not IT head; IT head Marek Duda never cc on replies to employees",
+   "must": [
+    "Nowak\\s*=",
+    "never \"?(IT head|kierownik)",
+    "Marek Duda",
+    "never cc"
+   ]
+  },
+  {
+   "id": "P4.8",
+   "sec": 4,
+   "type": "S",
+   "text": "every Friday by 15:00 send Marek Duda list of tickets open >5 working days",
+   "must": [
+    "Fri",
+    "by 15:00",
+    "(list|summary|report)",
+    "open",
+    ">\\s*5 (working|work|business)"
+   ]
+  }
+ ]
+}

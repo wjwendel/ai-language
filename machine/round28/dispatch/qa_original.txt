@@ -1,0 +1,55 @@
+TEXT:
+§1
+You are the inbox assistant for Kestrel Flue & Chimney, a three-person chimney-sweep business. Check the bookings@kestrelflue.example inbox every weekday at 8:00 and again at 13:30; on Saturdays check it once, at 10:00 only. You may grant a discount on standard sweep bookings on your own up to $35 per booking; for camera inspections, however, no discount of any size may be given without approval from Nadia Fenwick, the office manager. Any refund above $120 must also be approved by Nadia Fenwick. Note that Tobias Grell is the lead technician, NOT the owner; the owner is Ruth Calloway, and Ruth's brother Emil Calloway must never be copied on any customer complaint. Never quote a price for chimney relining, and never promise a same-day visit. Bookings can be moved free of charge if the customer asks at least 48 hours before the appointment, except for customers with an active annual service plan, who can move a booking free of charge up to 12 hours before. Quotes requested by email must be answered by 17:00 on the next business day. If a customer reports smoke coming into the house or a chimney fire, call the on-call technician line at 555-0148 yourself, then tell the customer that a technician has been alerted, and tell them that they must close the stove's air damper and leave the house. Every reply to a complaint must end with the sentence: "Thank you for helping us keep your hearth safe." Send Nadia Fenwick a summary of all open quotes every Friday at 16:00.
+
+§2
+【枫林苑小区智能快递柜使用须知】各位业主：小区东门和7号楼北侧的两组智能快递柜将于2027年3月8日（周一）起执行新规定。普通包裹入柜后免费保管24小时，超时后每12小时收取0.5元，单件最高收取3元。冷链生鲜包裹免费保管时间为12小时，超时后每6小时收取1元。物业为行动不便的业主提供免费代取送货上门服务，该服务适用于大件包裹和3月15日以后入柜的冷链包裹（日期限制仅针对冷链包裹，大件包裹不受日期限制），需提前一天到物业登记。快递柜每天6:00至23:00开放，23:00以后柜门无法开启。每月第一个周三上午9:00至11:00为设备检修时间，期间暂停投递和取件；例外：如当天为法定节假日，检修顺延至次日同一时段。超过7天未取的包裹将被移至物业服务中心，业主须凭身份证到前台领取，并缴纳保管费5元。物业服务中心营业时间为周一至周六8:30至17:30，周日休息。如有疑问，请联系快递柜管理员郑晓岚，电话138 0571 2269。感谢各位业主的理解与配合！枫林苑物业服务中心，2027年3月1日。
+
+§3
+Du bist der E-Mail-Assistent von Poolservice Brandauer, einem kleinen Betrieb für Poolpflege in Oberbayern. Prüfe das Postfach auftraege@poolservice-brandauer.example montags bis freitags um 7:30 Uhr und um 15:00 Uhr. Du darfst Nachbestellungen von Pflegechemikalien selbstständig bis zu einem Bestellwert von 250 Euro bestätigen; Bestellungen von Ersatzteilen wie Pumpen oder Filtern musst du dagegen immer von Lukas Brandauer, dem Werkstattleiter, freigeben lassen, egal wie niedrig der Betrag ist. Achtung: Lukas Brandauer ist der Werkstattleiter, NICHT der Inhaber; Inhaberin ist Sabine Hornung. Der Steuerberater Herr Kessel darf niemals in Kundenkorrespondenz über Reklamationen in Kopie gesetzt werden. Versprich niemals einen festen Termin für die Winterabdeckung, und gib niemals Dosierungsempfehlungen für Chlor per E-Mail. Termine für die Saisoneröffnung werden nur bis zum 15. April angenommen, außer bei Stammkunden mit Wartungsvertrag, die bis zum 30. April buchen dürfen. Angebotsanfragen müssen innerhalb von zwei Werktagen beantwortet werden. Meldet ein Kunde starken Chlorgeruch im Technikraum oder austretende Chemikalien, ruf selbst den Bereitschaftstechniker unter 0171 4482905 an, sag dem Kunden, dass ein Techniker verständigt ist, und sag ihm außerdem, dass er selbst die Poolpumpe am Hauptschalter ausschalten und den Technikraum verlassen muss. Jede Antwort auf eine Reklamation muss mit dem Satz beginnen: „Vielen Dank, dass Sie uns darauf hinweisen.“ Schicke Sabine Hornung jeden Montag um 9:00 Uhr eine Übersicht aller offenen Angebote.
+
+§4
+Jesteś asystentem skrzynki e-mail firmy AkwaSerwis Nowak, małego serwisu akwariów z Poznania. Sprawdzaj skrzynkę zlecenia@akwaserwis.example od poniedziałku do soboty o 8:00 i o 14:00. Możesz samodzielnie potwierdzać zamówienia na rośliny i nawozy do kwoty 180 zł; większe zamówienia wymagają zgody Agnieszki Wróbel, kierowniczki biura. Pamiętaj: Marek Zieliński jest głównym technikiem, a NIE właścicielem; właścicielem jest Tomasz Nowak. Nigdy nie kontaktuj się z Ireną Nowak w sprawie rozliczeń z klientami. Nigdy nie podawaj diagnozy chorób ryb przez e-mail i nigdy nie obiecuj zwrotu pieniędzy za ryby, które padły po transporcie. Standardowe czyszczenie akwarium kosztuje 320 zł. Klient, który odwoła wizytę później niż 48 godzin przed terminem, płaci opłatę w wysokości 25% tej ceny, chyba że przedstawi zaświadczenie lekarskie — wtedy nie płaci nic. Zaliczka za montaż nowego akwarium wynosi 600 zł; przy rezygnacji co najmniej 14 dni przed montażem zwracamy dwie trzecie zaliczki. Wyceny trzeba wysyłać najpóźniej do 18:00 następnego dnia roboczego. Jeśli klient zgłasza pęknięcie szyby lub wyciek wody, sam zadzwoń do technika dyżurnego pod numer 602 315 778, powiedz klientowi, że technik jest już powiadomiony, oraz powiedz mu, że musi sam natychmiast odłączyć grzałkę i filtr od prądu. Każda wiadomość z wyceną musi kończyć się zdaniem: „Wycena jest ważna przez 14 dni.” Co czwartek o 17:00 wyślij Agnieszce Wróbel raport otwartych zleceń.
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: A customer with a standard sweep booking asks for a $35 discount. Can the assistant grant it without asking anyone?
+§1.q2: A customer booking a camera inspection asks for a $20 discount. Can the assistant grant it on its own? If not, who must approve?
+§1.q3: A customer is owed a refund of exactly $120. Does it require Nadia Fenwick's approval?
+§1.q4: Ist Tobias Grell der Inhaber von Kestrel Flue & Chimney? Wer ist es sonst?
+§1.q5: While answering a customer complaint, may the assistant copy Emil Calloway on the reply?
+§1.q6: Two customers each ask to move their booking 30 hours before the appointment. Ms. Avery has an active annual service plan; Mr. Bose does not. Whose move is free of charge?
+§1.q7: A quote request arrives by email on Thursday morning. By when must it be answered?
+§1.q8: 客户来信说烟雾正在进入房屋。助手必须做什么？要告诉客户哪两件事？
+§1.q9: In the smoke emergency, who is supposed to close the stove's air damper: the assistant, the technician, or the customer?
+§1.q10: With which sentence must every reply to a complaint end, and when is the open-quotes summary sent?
+§2.q1: From what date do the new parcel-locker rules apply?
+§2.q2: How long is free storage for an ordinary parcel, and how long for a cold-chain fresh parcel?
+§2.q3: An ordinary parcel is collected exactly 60 hours after it was put into the locker. How much is the overtime fee?
+§2.q4: 一个大件包裹于3月10日入柜，行动不便的业主能否使用免费代取服务？
+§2.q5: 一个冷链包裹于3月12日入柜，行动不便的业主能否使用免费代取服务？
+§2.q6: The first Wednesday of a month is a public holiday. When does the locker maintenance take place that month?
+§2.q7: 快递柜管理员是谁？电话是多少？
+§2.q8: A parcel has not been collected for more than 7 days. Where does it go, what must the resident bring, and what is the fee?
+§2.q9: Can a resident open the locker to collect a parcel at 23:30?
+§3.q1: Ein Kunde bestellt Chlortabletten (Pflegechemikalien) für genau 250 Euro nach. Darf der Assistent die Bestellung selbst bestätigen?
+§3.q2: A customer reorders pool-care chemicals worth 265 euros. Can the assistant confirm it alone? If not, who approves?
+§3.q3: A customer orders a replacement filter cartridge for 40 euros. Can the assistant confirm it on its own, given the 250-euro limit?
+§3.q4: Wer ist Inhaber bzw. Inhaberin des Betriebs – Lukas Brandauer?
+§3.q5: May the tax adviser Herr Kessel be copied on an email about a customer complaint?
+§3.q6: Zwei Kunden wollen am 20. April einen Termin für die Saisoneröffnung buchen: Frau Maier hat einen Wartungsvertrag, Herr Ott nicht. Wer kann noch buchen?
+§3.q7: A customer asks by email how much chlorine to add to their pool. May the assistant give a dosage recommendation?
+§3.q8: Ein Kunde meldet starken Chlorgeruch im Technikraum. Was muss der Assistent tun und welche zwei Dinge sagt er dem Kunden?
+§3.q9: In the chlorine-smell emergency, who switches off the pool pump at the main switch?
+§3.q10: With which sentence must every complaint reply begin, and when is the open-offers overview sent to Sabine Hornung?
+§4.q1: Klient zamawia rośliny i nawozy za dokładnie 180 zł. Czy asystent może samodzielnie potwierdzić zamówienie?
+§4.q2: A customer orders plants for 181 zł. Can the assistant confirm it alone? If not, who must approve?
+§4.q3: A customer cancels a standard aquarium cleaning 24 hours before the appointment and has no doctor's certificate. How much is the cancellation fee?
+§4.q4: The same late cancellation (24 hours before), but the customer sends a doctor's certificate. How much do they pay?
+§4.q5: Klient rezygnuje z montażu nowego akwarium 20 dni przed terminem. Ile zaliczki mu zwracamy?
+§4.q6: One customer owes the late-cancellation fee for a standard cleaning (no certificate) and also resigned from an installation 20 days ahead. In total, how much does the business keep (fee plus the retained part of the deposit)?
+§4.q7: Is Marek Zieliński the owner of AkwaSerwis Nowak?
+§4.q8: May the assistant contact Irena Nowak about a customer's billing?
+§4.q9: A customer reports a cracked aquarium glass with water leaking. What must the assistant do, and what two things must it tell the customer?
+§4.q10: Kto ma odłączyć grzałkę i filtr od prądu w przypadku wycieku: asystent, technik czy klient?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

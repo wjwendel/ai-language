@@ -1,0 +1,186 @@
+{
+ "mnc14_r1": {
+  "r4P1.en9": [
+   1,
+   "account manager, never owner = gold"
+  ],
+  "r4P1.es9": [
+   1,
+   "same"
+  ],
+  "r4P5.en5": [
+   1,
+   "confirm nothing + forward Giulia within 1h = gold"
+  ],
+  "r5P1.es4": [
+   1,
+   "remind once, then wait = gold"
+  ],
+  "r5P1.es8": [
+   1,
+   "promise nothing + Marisol answers within 2 business days = gold"
+  ],
+  "r5P2.en2": [
+   1,
+   "Oct 1-Dec 18 = gold"
+  ],
+  "r5P2.en10": [
+   1,
+   "administration, not instructors = gold"
+  ]
+ },
+ "mnc16_r1": {
+  "r3P2.en7": [
+   1,
+   "museum sells no food = food cannot be bought there"
+  ],
+  "r3P2.es7": [
+   1,
+   "same"
+  ],
+  "r3P3.en6": [
+   1,
+   "₩100k = 100,000 won, Apr 10"
+  ],
+  "r4P3.en5": [
+   0,
+   "gives the crowd reason but leaves out 'to see the sunrise' (answer-completeness, strict like r11 §5 q1)"
+  ],
+  "r5P1.es4": [
+   1,
+   "remind once, then wait = gold"
+  ],
+  "r5P1.es8": [
+   1,
+   "promise nothing + Marisol answers within 2 business days = gold"
+  ],
+  "r5P2.en2": [
+   1,
+   "Oct 1-Dec 18 = gold"
+  ]
+ },
+ "mnc16x_r1": {
+  "r3P2.en7": [
+   1,
+   "museum sells no food = food cannot be bought there"
+  ],
+  "r3P2.es7": [
+   1,
+   "same"
+  ],
+  "r5P1.es4": [
+   1,
+   "remind once, then wait = gold"
+  ],
+  "r5P1.es8": [
+   1,
+   "promise nothing + Marisol answers within 2 business days = gold"
+  ],
+  "r5P2.en2": [
+   1,
+   "Oct 1-Dec 18 = gold"
+  ],
+  "r5P3.en4": [
+   0,
+   "'to me'/'the writer' instead of Mom: speaker not resolved"
+  ]
+ },
+ "mnc16x_r2": {
+  "r3P2.en7": [
+   1,
+   "museum sells no food = food cannot be bought there"
+  ],
+  "r3P2.es7": [
+   1,
+   "same"
+  ],
+  "r4P1.en9": [
+   1,
+   "account manager, never owner = gold"
+  ],
+  "r4P1.es9": [
+   1,
+   "same"
+  ],
+  "r5P1.es4": [
+   1,
+   "remind once, then wait = gold"
+  ],
+  "r5P1.es8": [
+   1,
+   "promise nothing + Marisol answers within 2 business days = gold"
+  ],
+  "r5P2.en2": [
+   1,
+   "Oct 1-Dec 18 = gold"
+  ],
+  "r5P3.en4": [
+   0,
+   "'to me'/'the writer' instead of Mom: speaker not resolved"
+  ]
+ },
+ "original_r1": {
+  "r3P2.en7": [
+   1,
+   "museum sells no food = food cannot be bought there"
+  ],
+  "r4P4.en7": [
+   1,
+   "phone 156 Mon-Sat 7-19 = gold"
+  ],
+  "r5P1.es8": [
+   1,
+   "promise nothing + Marisol answers within 2 business days = gold"
+  ],
+  "r5P1.es10": [
+   1,
+   "stop+message Marisol, no copy = gold"
+  ],
+  "r5P2.en2": [
+   1,
+   "Oct 1-Dec 18 = gold"
+  ]
+ },
+ "original_r2": {
+  "r3P2.en7": [
+   1,
+   "museum sells no food = food cannot be bought there"
+  ],
+  "r4P4.en7": [
+   1,
+   "phone 156 Mon-Sat 7-19 = gold"
+  ],
+  "r5P1.es4": [
+   1,
+   "remind once, then wait = gold"
+  ],
+  "r5P1.es8": [
+   1,
+   "promise nothing + Marisol answers within 2 business days = gold"
+  ],
+  "r5P2.en2": [
+   1,
+   "Oct 1-Dec 18 = gold"
+  ],
+  "r5P5.en10": [
+   1,
+   "4 p.m. = 16:00, same content"
+  ]
+ },
+ "a_terse_r1": {
+  "r5P2.en2": [
+   1,
+   "Oct 1-Dec 18 = gold"
+  ]
+ },
+ "c_llmlingua2_r0.5_r1": {
+  "r3P2.en7": [
+   1,
+   "= gold"
+  ],
+  "r5P1.es8": [
+   1,
+   "= gold"
+  ]
+ }
+}

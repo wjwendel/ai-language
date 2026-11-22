@@ -1,0 +1,5 @@
+4f14eb8d85c7b81404608b3f913ab248ad026551  payload_mnc19.txt
+187195907cfe86b718293981fb3b669aac17bc9b  payload_mnc19x.txt
+018f157b1b92229ce4782f17ae75e3ded5ab4d62  ../candidates/mnc19/RULES.md
+Tue Nov 17 19:09:59 CST 2026
+NOT question-blind: bench-v2 questions and round-14 results were known when these encodings were written (normal benchmark re-use). MNC19 = candidate; MNC19x = curve only (more merged lines).

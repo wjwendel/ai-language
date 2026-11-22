@@ -1,0 +1,55 @@
+{
+ "mnc13": {
+  "§1.en5": [1, "may fix name + never edit due dates = name yes, due date no"],
+  "§1.es5": [1, "same, Spanish"],
+  "§1.en10": [1, "forward to Grace without replying = no reply"],
+  "§1.es10": [1, "same, Spanish"],
+  "§1.es1": [1, "1er día hábil de cada mes 10:00 Este = correct"],
+  "§2.en5": [1, "sauna stays open = yes"],
+  "§2.es5": [1, "same, Spanish"],
+  "§4.en1": [1, "Feb2 = February 2"],
+  "§4.es1": [1, "Feb2 = February 2"],
+  "§4.en6": [1, "returns only via return box = no"],
+  "§4.es6": [1, "same, Spanish"],
+  "§5.en6": [1, "ask room number, no discount promise"],
+  "§5.es6": [1, "same, Spanish"],
+  "§5.en7": [1, "may fix name, never change prices"],
+  "§5.es7": [1, "same, Spanish"]
+ },
+ "original": {
+  "§1.en5": [1, "name yes, due date no"],
+  "§2.en5": [1, "sauna open = yes"], "§2.es5": [1, "sauna open = yes"],
+  "§2.en6": [1, "not allowed = no"], "§2.es6": [1, "not allowed = no"],
+  "§3.en5": [1, "no campfire, electric grill 80/night"],
+  "§3.es5": [1, "content correct; answered in Chinese instead of Spanish (language drift noted)"],
+  "§3.es7": [1, "content correct; answered in Chinese instead of Spanish (language drift noted)"],
+  "§4.en1": [1, "February 2nd"],
+  "§5.en6": [1, "ask room number, no discount"]
+ },
+ "a_terse": {
+  "§1.en10": [1, "do not reply; forward to Grace"],
+  "§2.en5": [1, "sauna open = yes"], "§2.es5": [1, "sauna open = yes"],
+  "§3.en5": [1, "no campfire, rented electric grill 80/night"],
+  "§3.es2": [1, "2 p.m. by high-speed train (Chinese reply; content ok)"],
+  "§4.en1": [1, "February 2nd"],
+  "§4.en6": [1, "returns only via station box = no"],
+  "§4.es6": [1, "same, Spanish"],
+  "§5.en4": [1, "forward to Julien (implies no)"]
+ },
+ "b_summarize": {
+  "§1.en5": [1, "name yes, due date no"],
+  "§2.en5": [1, "sauna open = yes"], "§2.es5": [1, "sauna open = yes"],
+  "§2.en6": [1, "not allowed = no"],
+  "§3.en1": [1, "Saturday 7 AM at door (date omitted, day given)"],
+  "§3.es1": [1, "same, Spanish"],
+  "§3.en5": [1, "no campfire, electric grill 80/night"],
+  "§4.en2": [0, "city, not Petra Hoffmann"]
+ },
+ "c_llmlingua2_r0.66": {
+  "§2.en6": [1, "not allowed = no"], "§2.es6": [1, "not allowed = no"],
+  "§3.en1": [1, "Saturday 7 AM at door (date omitted, day given)"],
+  "§3.es1": [1, "same, Spanish"],
+  "§3.es2": [1, "~2 p.m. by high-speed train (Chinese reply; content ok)"],
+  "§4.en1": [1, "February 2nd"]
+ }
+}

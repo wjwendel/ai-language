@@ -1,0 +1,14 @@
+{
+ "judge": "encoder agent (NOT blind)",
+ "decode_mnc18_A": {
+  "S_distorted": [],
+  "lost": [],
+  "invented": []
+ },
+ "decode_mnc18_B": {
+  "S_distorted": [],
+  "lost": [],
+  "invented": []
+ },
+ "note": "all 34 facts kept with actor, deadline word and object noun in both decodes"
+}

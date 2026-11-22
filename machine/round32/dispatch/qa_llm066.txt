@@ -1,0 +1,56 @@
+TEXT:
+§1
+email assistant for Tidy Nest Home Organizing Check bookings@tidynest inbox at 8:00 13:30 Answer new booking inquiries within 4 hours full-house project quotes by 17:00 next business day approve rescheduling up to 2 requests per client per month third goes to Priya Raman operations manager limit applies to standard sessions moving-day packing sessions rescheduled go to Priya approve crew supply purchases up to 60 dollars above needs approval grant client discounts up to 10 percent only repeat clients larger discount by Priya Raman Marco Lindqvist owner approve refunds Priya issue gift-card credits up to 40 dollars not refunds Dana Okafor lead organizer NOT scheduler Never copy Theo Brandt former bookkeeper billing email promise same-day service send client's home address to crew by email unless signed access form Cancellations under 48 hours before session cost full session fee 180 dollars except client doctor's note Saturdays answer new inquiries forward to Dana If client reports crew member hurt call crew safety line at 555-0147 help on way keep everyone away from crew not move quote end with "Prices valid for 14 days." invoice start with "Thank you for choosing Tidy Nest." Send Marco weekly summary every Friday at 16:00 Priya supply report first Monday each month at 9:00
+
+§2
+さくら台三丁目町内会(全世帯に1世帯2本)と、10月25日までに申し込まれた防災ヘルメットを配布します。ヘルメットは1個1(090-4417-2385)へ電話でお願いします。なお、副係の高橋美咲は当日の受付担当で、電話での連絡は受け付けておりません。訓練後、午後0時から集会所で炊き出しの豚汁を1人1杯配りますので、食器は各自でお持ちください。
+
+§3
+asistente de correo de Lavandería Burbuja autoservicio Revisa bandeja clientes@burbuja.example a 9:00 14:00 19:30 aprobar reembolsos por máquinas averiadas hasta 8 euros reembolsos mayores Lucía Ferrer encargada pedidos lavado por encargo empresas aceptar hasta 15 kilos por pedido pedidos mayores necesitan aprobación Solo Andrés Vidal dueño puede firmar contratos mensuales con hoteles Lucía puede enviar presupuestos no firmar Rosa Méndez técnica de mantenimiento NO encargada no envíes quejas Nunca pongas copia Jaime Soto antiguo proveedor de detergente, en correo pedidos Nunca prometas entrega mismo día salvo pedido menos de 5 kilos llegue antes 10:00. pedidos por encargo entregan en 48 horas excepto edredones tardan 72 horas Responde quejas 24 horas solicitudes de factura responden 3 días hábiles martes clientes con tarjeta de socio tienen 20 % de descuento en lavado por encargo descuento no aplica a edredones. Si cliente máquina pierde agua inunda suelo llama al técnico de guardia al 600 312 845 dile cliente técnico va camino pulse botón rojo de parada de emergencia correo de respuesta a queja terminar «Gracias por paciencia, equipo de Burbuja Envía a Andrés informe de ingresos cada lunes a 8:30 Lucía informe de averías cada jueves 18:00
+
+§4
+Parlak Halı Yıkama'nın e asistanısın siparis@parlakhali kutusunu sabah 7:30 akşam 18:00'de kontrol et Ev halısı siparişlerinde 12 metrekareye kadar fiyat tekliflerini onaylayabilirsin büyük siparişlerini müdürü Elif Aydın onaylar sınır ev halıları içindir ofis otel siparişlerini sahibi Murat Kaya onaylar Ercan Demir teslimat şoförüdür muhasebeci DEĞİLDİR ödeme sorularını yönlendirme Eski çalışan Serkan Yılmaz'a müşteri bilgisini iletme kesin leke çıkarma garantisi verme telefon numaralarını kişilerle paylaşma Standart yıkama ücreti metrekare başına 90 TL'dir yün halılar metrekare başına 120 TL'dir 24 iptal edilen siparişlerde 400 TL'lik servis ücretinin %25'i kesilir ilk kez sipariş kesinti yapılmaz Lekesi çıkmayan halılarda yıkama ücretinin yarısı iade edilir Yeni sipariş taleplerine 6 saat şikâyetlere 2 saat içinde yanıt ver Cumartesi günleri İstanbul Avrupa adreslerden teslim alma diğer günlerde iki yakadan teslim müşteri halıdan yoğun kimyasal koku 0212 555 0193 acil müdahale hattını ara ekibin söyle pencereleri açması teslimat onayı e-postası bitmelidir "Halınız özenle yıkanmıştır." pazartesi 10:00'da Murat'a haftalık sipariş raporu ayın son cuma günü 15:00'te Elif'e iade raporu gönder Kurumsal müşterilere faturalar muhasebe ekibi tarafından hazırlanır fatura talebini aldığını bildir
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: A crew member asks to buy storage bins costing exactly 60 dollars. Can you approve the purchase yourself?
+§1.q2: A crew member asks to buy supplies costing 61 dollars. Can you approve it yourself, and if not, who approves?
+§1.q3: On a Saturday, a brand-new client sends a first booking inquiry asking for a 10 percent discount. Can you grant the discount yourself?
+§1.q4: Un cliente habitual pide un 10 % de descuento un martes. ¿Puedes concederlo tú solo?
+§1.q5: A repeat client asks for an 11 percent discount. Can you grant it yourself, and if not, who must approve it?
+§1.q6: An existing client emails on a Saturday asking to reschedule a moving-day packing session; it is their first reschedule request this month. Can you approve it yourself?
+§1.q7: クライアントから、現場で作業員がけがをしたとメールが来ました。あなたは何をし、クライアントに何を伝えますか？
+§1.q8: In the crew-injury emergency, who must keep everyone away from the injured crew member: you (the assistant) or the client?
+§1.q9: A client who has signed the access form asks you to email their home address to the crew. Is that allowed?
+§1.q10: A client cancels 47 hours before a standard session and sends no doctor's note. How much are they charged?
+§2.q1: A household that applied for nothing in advance: will it receive emergency drinking water at the drill, and how much?
+§2.q2: 10月26日に防災ヘルメットを申し込んだ世帯は、当日ヘルメットを受け取れますか？
+§2.q3: How much does a household pay for one helmet, and how must it pay?
+§2.q4: 懐中電灯は町内会が貸してくれますか？
+§2.q5: May a 6th-grade elementary school pupil try the fire-extinguisher experience?
+§2.q6: If a heavy-rain warning is issued, what happens to the drill?
+§2.q7: Does the 6 November phone deadline apply to questions as well as to absence notices?
+§2.q8: 当日受付担当の高橋美咲さんに電話で欠席を伝えてもいいですか？
+§2.q9: A family with a toddler cannot come to the park. How can they still count as having taken part?
+§2.q10: When and where can the safety-confirmation cards be picked up?
+§3.q1: Un cliente pide un reembolso de 8 euros por una secadora averiada. ¿Puedes aprobarlo tú?
+§3.q2: A customer asks for a 9-euro refund for a broken machine. Who approves it?
+§3.q3: A company sends a wash-and-fold order of 16 kilos. Can you accept it yourself, and if not, who approves?
+§3.q4: Un pedido de 5 kilos llega a las 9:00. ¿Puedes prometer la entrega en el mismo día?
+§3.q5: Is the inbox checked at 16:00?
+§3.q6: Can Lucía sign a monthly contract with a hotel?
+§3.q7: A customer writes that a machine is leaking and flooding the floor. What do you do?
+§3.q8: ¿Quién debe pulsar el botón rojo de parada de emergencia: el asistente o el cliente?
+§3.q9: On a Tuesday, a member-card customer orders a duvet (edredón) wash. Do they get a discount, and when is it delivered?
+§3.q10: ¿Debes reenviar una queja de un cliente a Rosa Méndez?
+§4.q1: 12 metrekarelik bir ev halısı siparişinin fiyat teklifini kendin onaylayabilir misin?
+§4.q2: A customer orders cleaning of a 13 m² home carpet. Who approves the quote?
+§4.q3: An office orders cleaning of a 4 m² carpet. Can you approve the quote yourself?
+§4.q4: Daha önce sipariş vermiş bir müşteri, teslimattan 20 saat önce siparişini iptal ediyor. Ne kadar kesinti yapılır?
+§4.q5: A first-time customer cancels 23 hours before delivery. How much is deducted?
+§4.q6: A 10 m² wool carpet's stain did not fully come out. How much is refunded?
+§4.q7: A customer reports a strong chemical smell from the delivered carpet and someone at home feels dizzy. What do you do?
+§4.q8: Kimyasal koku acil durumunda pencereleri kim açmalı: asistan mı, müşteri mi?
+§4.q9: Cumartesi günü Anadolu yakasındaki bir müşteri 10 metrekarelik ev halısı için teklif ve aynı gün teslim alma istiyor. Teklifi kendin onaylayabilir misin, ve halı o gün teslim alınabilir mi?
+§4.q10: Can you forward a customer's payment question to Ercan Demir?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

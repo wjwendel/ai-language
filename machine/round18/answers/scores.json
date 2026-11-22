@@ -1,0 +1,1086 @@
+{
+ "rows": [
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Weekdays at 8am and 1pm MT (hello@foundrycowork.com)",
+   "gold": "Weekdays at 8 a.m. and 1 p.m. Mountain"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, bookings longer than 4h per day need approval of community manager Keisha Morales",
+   "gold": "No; needs Keisha Morales"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is at least 24h before arrival, so the guests can simply be registered",
+   "gold": "No (registered at least 24 hours ahead)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, with less than 24h notice you may add only up to 2 guests; 3 guests need Keisha's approval",
+   "gold": "No; more than 2 guests at short notice needs Keisha"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 2 guests may be added with less than 24h notice",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never book the podcast studio for Day Pass members",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, charged in full (cancelled less than 2h before start, no outage)",
+   "gold": "Yes, in full"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the building internet outage exception applies",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Email the member a reminder and copy Keisha Morales (community manager)",
+   "gold": "Email the member a reminder and copy Keisha"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Do not give the desk location; call the member to come to reception",
+   "gold": "Don't give it; call the member to come to reception"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "First tell them not to touch any electrical equipment near it; then call the building facilities line (303) 555-0187 yourself; then message Keisha",
+   "gold": "Tell them not to touch electrical equipment near it; call facilities (303) 555-0187 yourself; then message Keisha"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it must be sent before noon",
+   "gold": "No (before noon)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only invoices unpaid more than 15 days go on the list",
+   "gold": "No (more than 15 days only)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mon-Fri at 6:00 (transporte@colegiosanmartin.mx)",
+   "gold": "Monday to Friday at 6:00"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the request must be in writing at least 12h before",
+   "gold": "No (needs at least 12 hours)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only transport coordinator Laura Méndez approves permanent changes",
+   "gold": "No; only Laura Méndez"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The student is not let off; the student returns to school and you call the guardian",
+   "gold": "The student returns to school and you call the guardian"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell the parent to call the route driver immediately; you notify Laura Méndez and the principal's office in less than 10 minutes",
+   "gold": "Tell them to call the route driver immediately; notify Laura Méndez and the principal's office in less than 10 minutes"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The guardian sends the payment receipt to the school e-mail; fees are paid before the 5th of each month",
+   "gold": "The guardian sends it; fees are paid before the 5th of each month"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only the registered guardian may receive the live location",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, emergencies are the exception",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is the transport coordinator; the principal is Lic. Jorge Ríos",
+   "gold": "No; she is the transport coordinator"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it must be sent before 14:00",
+   "gold": "No (before 14:00)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturday, June 6, from 14:00, at the sports field by the lake",
+   "gold": "Saturday 6 June from 14:00 at the sports field by the lake"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, cakes must be brought to the clubhouse by Friday 18:00",
+   "gold": "No (by Friday 18:00)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, no cream cakes (heat)",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€80",
+   "gold": "€80"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, glass bottles are banned on the field (city's condition)",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The honour; it is a surprise at 19:00",
+   "gold": "The honour; a surprise at 19:00"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "By 23:00 at the latest",
+   "gold": "By 23:00 at the latest"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, children under 6 get a free drink",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "5 public elementary/junior high schools merged into 2 by April 2028",
+   "gold": "5 into 2, by April 2028"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "By 810 pupils (1,240 to 430)",
+   "gold": "810"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Half (of about ¥3.8bn)",
+   "gold": "About ¥1.9 billion (half of ¥3.8 billion)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the free bus is for commutes of more than 4 km",
+   "gold": "No (more than 4 km only)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, comments are accepted until Dec 20",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "「子どもたちが多様な仲間と学べる環境をつくりたい」 (\"I want to create an environment where children can learn with diverse peers\")",
+   "gold": "「子どもたちが多様な仲間と学べる環境をつくりたい」"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Weekdays at 8am and 1pm MT (hello@foundrycowork.com)",
+   "gold": "Weekdays at 8 a.m. and 1 p.m. Mountain"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, bookings over 4h per day need approval from community manager Keisha Morales",
+   "gold": "No; needs Keisha Morales"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, registering at least 24h ahead needs no approval",
+   "gold": "No (registered at least 24 hours ahead)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, under 24h ahead you may add only up to 2 guests; 3 need Keisha's approval",
+   "gold": "No; more than 2 guests at short notice needs Keisha"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 2 guests may be added less than 24h ahead",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never book the podcast studio for Day Pass members",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, charged in full (cancelled less than 2h before start, no outage)",
+   "gold": "Yes, in full"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, a building internet outage is an exception to the full charge",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Email the member a reminder and copy Keisha (it was due back by 6pm same day)",
+   "gold": "Email the member a reminder and copy Keisha"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Do not give the desk location; call the member to come to reception",
+   "gold": "Don't give it; call the member to come to reception"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell them not to touch any electrical equipment near it; then call building facilities at (303) 555-0187 yourself; then message Keisha",
+   "gold": "Tell them not to touch electrical equipment near it; call facilities (303) 555-0187 yourself; then message Keisha"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it must be sent before noon",
+   "gold": "No (before noon)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only invoices unpaid more than 15 days go on the list",
+   "gold": "No (more than 15 days only)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mon-Fri at 6:00 (transporte@colegiosanmartin.mx)",
+   "gold": "Monday to Friday at 6:00"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the request must be made in writing at least 12h before",
+   "gold": "No (needs at least 12 hours)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only transport coordinator Laura Méndez approves permanent changes",
+   "gold": "No; only Laura Méndez"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The student is not let off; the student returns to school and you call the guardian",
+   "gold": "The student returns to school and you call the guardian"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell the parent to call the route driver immediately; you notify Laura Méndez and the principal's office in less than 10 minutes",
+   "gold": "Tell them to call the route driver immediately; notify Laura Méndez and the principal's office in less than 10 minutes"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The guardian sends the payment receipt to the school e-mail; fees are paid before the 5th of each month",
+   "gold": "The guardian sends it; fees are paid before the 5th of each month"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the live location is shared only with registered guardians",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, emergencies are the exception",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is the transport coordinator; the principal is Lic. Jorge Ríos",
+   "gold": "No; she is the transport coordinator"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it must be sent before 14:00",
+   "gold": "No (before 14:00)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturday, June 6, from 14:00, at the sports field by the lake",
+   "gold": "Saturday 6 June from 14:00 at the sports field by the lake"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, cakes must be brought to the clubhouse by Friday 18:00",
+   "gold": "No (by Friday 18:00)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, no cream cakes (heat)",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€80",
+   "gold": "€80"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, glass bottles are banned on the field (city's condition)",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The honour; the surprise is at 19:00",
+   "gold": "The honour; a surprise at 19:00"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "By 23:00 at the latest",
+   "gold": "By 23:00 at the latest"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, children under 6 get a free drink",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "5 public elementary/junior high schools into 2, by April 2028",
+   "gold": "5 into 2, by April 2028"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "By 810 pupils (1,240 to 430)",
+   "gold": "810"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Half (of ~¥3.8bn)",
+   "gold": "About ¥1.9 billion (half of ¥3.8 billion)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the free bus is for commutes of more than 4 km",
+   "gold": "No (more than 4 km only)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, comments are accepted until December 20",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "「子どもたちが多様な仲間と学べる環境をつくりたい」 (\"I want to create an environment where children can learn with diverse peers\")",
+   "gold": "「子どもたちが多様な仲間と学べる環境をつくりたい」"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Every weekday at 8 a.m. and 1 p.m. Mountain time",
+   "gold": "Weekdays at 8 a.m. and 1 p.m. Mountain"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, bookings over 4 hours per day need approval from Keisha Morales",
+   "gold": "No; needs Keisha Morales"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the request is more than 24 hours ahead, so the late-guest limit does not apply",
+   "gold": "No (registered at least 24 hours ahead)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, less than 24 hours ahead you may add only up to 2 guests; 3 need Keisha's approval",
+   "gold": "No; more than 2 guests at short notice needs Keisha"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 2 guests may be added less than 24 hours ahead",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Day Pass members cannot book the podcast studio at all",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, charged in full (cancelled less than 2 hours before start, no outage)",
+   "gold": "Yes, in full"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the outage exception applies",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Email the member a reminder and copy Keisha (do not copy the owner Paul Brandt)",
+   "gold": "Email the member a reminder and copy Keisha"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Do not give out the desk location; call the member to come to reception",
+   "gold": "Don't give it; call the member to come to reception"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "First tell them not to touch any electrical equipment near it, then call the facilities line at (303) 555-0187 yourself, then message Keisha",
+   "gold": "Tell them not to touch electrical equipment near it; call facilities (303) 555-0187 yourself; then message Keisha"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it must be sent before noon",
+   "gold": "No (before noon)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only invoices unpaid for more than 15 days",
+   "gold": "No (more than 15 days only)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday to Friday at 6:00",
+   "gold": "Monday to Friday at 6:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the written request must be at least 12 hours ahead",
+   "gold": "No (needs at least 12 hours)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only transport coordinator Laura Méndez approves permanent changes",
+   "gold": "No; only Laura Méndez"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The student does not get off; they return to the school and you call the guardian",
+   "gold": "The student returns to school and you call the guardian"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell the parent to call the route driver immediately; you notify Laura Méndez and the principal's office (dirección) within 10 minutes",
+   "gold": "Tell them to call the route driver immediately; notify Laura Méndez and the principal's office in less than 10 minutes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The guardian sends the payment receipt to the school email; fees are paid before the 5th of each month",
+   "gold": "The guardian sends it; fees are paid before the 5th of each month"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only registered guardians may receive the live location",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is the transport coordinator; the principal is Lic. Jorge Ríos",
+   "gold": "No; she is the transport coordinator"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it must be sent before 14:00",
+   "gold": "No (before 14:00)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "Saturday, June 6, from 2 p.m., at the sports field by the lake",
+   "gold": "Saturday 6 June from 14:00 at the sports field by the lake"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, cakes must be dropped off at the clubhouse by Friday 6 p.m.",
+   "gold": "No (by Friday 18:00)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, no cream cakes because of the heat",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "80 euros",
+   "gold": "€80"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, glass bottles are banned (city requirement)",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "The honour/award ceremony for him, a surprise at 7 p.m.",
+   "gold": "The honour; a surprise at 19:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "By 11 p.m. at the latest",
+   "gold": "By 23:00 at the latest"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, children under 6 get a free drink",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "5 public elementary and junior high schools into 2, by April 2028",
+   "gold": "5 into 2, by April 2028"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "By 810 pupils (from 1,240 to 430)",
+   "gold": "810"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Half of about 3.8 billion yen (about 1.9 billion yen)",
+   "gold": "About ¥1.9 billion (half of ¥3.8 billion)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the free bus is for pupils whose commute exceeds 4 km",
+   "gold": "No (more than 4 km only)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, comments are accepted until December 20",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "\"I want to create an environment where children can learn with diverse peers.\"",
+   "gold": "「子どもたちが多様な仲間と学べる環境をつくりたい」"
+  }
+ ],
+ "summary": {
+  "mnc19_r1": {
+   "all": [
+    37,
+    38
+   ],
+   "S": [
+    29,
+    29
+   ],
+   "F": [
+    8,
+    9
+   ],
+   "hop2": [
+    19,
+    20
+   ]
+  },
+  "mnc19_r2": {
+   "all": [
+    37,
+    38
+   ],
+   "S": [
+    29,
+    29
+   ],
+   "F": [
+    8,
+    9
+   ],
+   "hop2": [
+    19,
+    20
+   ]
+  },
+  "original_r1": {
+   "all": [
+    37,
+    38
+   ],
+   "S": [
+    29,
+    29
+   ],
+   "F": [
+    8,
+    9
+   ],
+   "hop2": [
+    20,
+    20
+   ]
+  }
+ }
+}

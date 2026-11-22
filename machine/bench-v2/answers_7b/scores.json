@@ -1,0 +1,2463 @@
+{
+ "rows": [
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Weekdays 7:30 PT",
+   "gold": "Weekdays, 7:30 a.m. Pacific"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may reorder only if every item is on the approved list.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Dr. Anita Rao",
+   "gold": "Luis Ortega, Eastport office manager"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, you may not place it now.",
+   "gold": "No; needs Dr. Rao"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Dr. Anita Rao",
+   "gold": "Hannah Kim"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Forward the request to Dr. Anita Rao.",
+   "gold": "Do not order it; forward to Dr. Rao"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not substitute it yourself; ask the requesting office manager.",
+   "gold": "No; ask the requesting office manager"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes, you may substitute it yourself.",
+   "gold": "No (backorder must exceed 10 business days)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not discuss the balance with her.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Only Dr. Anita Rao can approve it.",
+   "gold": "Only Dr. Rao"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell her to call the office emergency line (555) 014-2290; flag the email 'URGENT – clinical' for the dentist on call.",
+   "gold": "Tell her to call the emergency line (555) 014-2290; flag the email \"URGENT – clinical\" for the dentist on call; no clinical advice"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Each office manager must get a summary of open orders by 3pm every Thursday.",
+   "gold": "Summary of open orders, Thursdays by 3 p.m."
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, it must be sent before 3pm on Thursday.",
+   "gold": "Yes (deadline is by 3 p.m.)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, it must be sent by the 5th of the month.",
+   "gold": "No (no later than the 5th)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hannah Kim",
+   "gold": "Hannah Kim"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mon-Fri 8:00 check schaden@lindner-hv.de",
+   "gold": "schaden@lindner-hv.de, Monday to Friday at 8:00"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, you may not commission a tradesman from the partner list yourself.",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Albers (Objektbetreuerin)",
+   "gold": "Frau Albers"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, call Notdienst Krause 0341 998877 immediately, also inform Albers within 2h at latest.",
+   "gold": "Call Notdienst Krause (0341 998877) immediately; inform Frau Albers within 2 hours"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you do not need Herr Lindner's approval before calling the emergency service.",
+   "gold": "No (no cost limit)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell the tenant to leave the house immediately, use no light switches.",
+   "gold": "Leave the building immediately and do not use light switches"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not give the tenant's mobile number.",
+   "gold": "No (only name, flat number and agreed time window)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not give a spare key.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not hand it over.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Forward the tenant's question to Lindner.",
+   "gold": "Do not answer; forward to Herr Lindner"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q11",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Albers (Objektbetreuerin)",
+   "gold": "Sachsenhof GmbH, the owner"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, Frau Albers is not the owner of the property.",
+   "gold": "No; she is the property manager (Objektbetreuerin)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q13",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes, it is on time.",
+   "gold": "No (by 14:00)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you do not answer it yourself.",
+   "gold": "No; forward to Herr Lindner"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Utility statements are sent by Nov 30 incl.",
+   "gold": "By 30 November (inclusive)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tue Mar 10",
+   "gold": "Tuesday 10 March"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The Métropole itself pays €186M - €42M - €15M = €129M.",
+   "gold": "€129 million"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "120 km, 35 km on the Rhône + Saône quays.",
+   "gold": "120 km; 35 km on the quays"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "30% of new km outside Lyon + Villeurbanne.",
+   "gold": "36 km"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Part-Dieu–Villeurbanne line, 6.4 km, starts Sep 2026.",
+   "gold": "Part-Dieu–Villeurbanne, 6.4 km, September 2026"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Cycling's share of home-to-work trips rose by 3 percentage points over the five years.",
+   "gold": "3 points (4% to 7%)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12% in 2030.",
+   "gold": "12%"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, a resident can still take part in the public consultation on 30 April.",
+   "gold": "Yes (open until 30 April inclusive)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, an association can submit a written contribution on 10 May.",
+   "gold": "Yes (until 15 May)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Claire Morel said, 'un plan qui oublie les communes de l'ouest'.",
+   "gold": "Claire Morel: « un plan qui oublie les communes de l'ouest »"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "8,000 secure parking spaces near stations.",
+   "gold": "8,000, near stations"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The final council vote is planned Jun 22.",
+   "gold": "22 June"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Thomas Girard is the VP mobility.",
+   "gold": "Vice-president for mobility"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The region contributes €15M, which is the Auvergne-Rhône-Alpes region.",
+   "gold": "€15 million, Auvergne-Rhône-Alpes"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Daily 16:00 check hogosha@sakura-juku.jp",
+   "gold": "Daily at 16:00"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, you may not arrange it yourself.",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Forward the request to the classroom head.",
+   "gold": "Do not accept; pass it to classroom head Kimura Sanae (木村早苗)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not arrange it yourself.",
+   "gold": "No; forward to the classroom head"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not accept it.",
+   "gold": "No (winter course, Dec 20 – Jan 7)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not promise a refund.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "山口真理 (HQ office manager) handles withdrawal requests.",
+   "gold": "Yamaguchi Mari (山口真理), HQ office manager"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Reply 'お大事になさってください' to the parent; tell the parent to phone the school before coming.",
+   "gold": "Reply \"お大事になさってください\" and tell the parent to phone the school before the student comes in"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you do not have to tell the parent to phone the school.",
+   "gold": "No (only at 38°C or above)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not answer.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q11",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes, reporting the week's make-up count to the classroom heads at 19:30 on Friday is on time.",
+   "gold": "No (by 19:00)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Report the week's make-up count to each classroom head every Friday by 19:00.",
+   "gold": "The number of make-up classes that week"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "佐々木隆 (Sasaki Takashi) is the classroom head, never the principal.",
+   "gold": "He is the school head (塾長); never CC him on parent emails"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "木村早苗 (Kimura Sanae) is the classroom head, never the principal.",
+   "gold": "No; she is the Kawasaki classroom head"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "田中健 is the Yokohama classroom head.",
+   "gold": "田中健 (Tanaka Ken)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§5.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "23 of 40 owners present.",
+   "gold": "23 of 40"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§5.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Iván Soto (administrator, not owner) took the minutes.",
+   "gold": "Iván Soto, the administrator; not an owner"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§5.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€68,400 / 12 = €5,700 per month.",
+   "gold": "€5,700"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§5.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, more than half of the owners present voted in favour of the lift.",
+   "gold": "Yes (15 of 23)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§5.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, a ground-floor shop other than shop B does not pay the lift instalments.",
+   "gold": "No (exempt)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§5.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, shop B pays the lift instalments.",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§5.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The first lift instalment falls in April.",
+   "gold": "April"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§5.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Not approved; the vote was repeated at the June meeting.",
+   "gold": "Not approved; vote to be repeated at the June meeting"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§5.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, an 11-year-old may not use the pool alone.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§5.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, a 12-year-old may not use the pool without an adult.",
+   "gold": "Yes (the rule applies to under-12s)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§5.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The pool is open from Jun 15-Sep 15, 11:00-21:00; under 12 only with adult; glass containers are banned.",
+   "gold": "15 June – 15 September, 11:00–21:00"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§5.q12",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "The owner of 5ºC can pay the full debt on 1 March, and the legal claim can be started.",
+   "gold": "Yes (payment had to be before 1 March)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§5.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Las llaves de la azotea solo las tiene el conserje.",
+   "gold": "«Las llaves de la azotea solo las tiene el conserje»"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§5.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The second call of the next ordinary meeting is on Jun 9, 19:30.",
+   "gold": "9 June, 19:30"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§5.q15",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Glass containers are not allowed at the pool.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§6.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Daily 10:00 + 16:00 check shouhou@qinghetea.cn + ticket backend.",
+   "gold": "Daily at 10:00 and 16:00"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§6.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, you may approve the return and send the return address.",
+   "gold": "Yes (day 7 counts)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§6.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not approve the return yourself.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§6.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ask the customer for photos and batch number, forward to 周静 (QC head).",
+   "gold": "Ask for photos and the batch number, forward to 周静 (QC head); do not judge yourself"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§6.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Refund >¥800: only finance 王磊 approves, even if 周静 confirmed quality problem.",
+   "gold": "Only 王磊 (finance)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§6.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Give ¥20 no-minimum coupon, max 1 per customer per month; never for return orders.",
+   "gold": "No (only for more than 3 days)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§6.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not give another coupon.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§6.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not give a coupon.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§6.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, you may not give a coupon.",
+   "gold": "Forward to 王磊"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§6.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, you may not promise a refund.",
+   "gold": "陈晓东, the store manager"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§6.q11",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "山口真理 (HQ office manager) handles withdrawal requests.",
+   "gold": "No; QC head"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§6.q12",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Reply '春节期间暂停发货，2月23日起按下单顺序发出。' to shipping inquiries during the Spring Festival.",
+   "gold": "No (must be before 12:00)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§6.q13",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "The Spring Festival is from Feb 14-22, so shipping resumes on Feb 23.",
+   "gold": "「春节期间暂停发货，2月23日起按下单顺序发出。」"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§6.q14",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, you may not tell a customer another customer's delivery address.",
+   "gold": "23 February"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§6.q15",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday to Friday, 7:30 PT",
+   "gold": "Weekdays, 7:30 a.m. Pacific"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Dr. Anita Rao",
+   "gold": "Luis Ortega, Eastport office manager"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "No; needs Dr. Rao"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Dr. Anita Rao",
+   "gold": "Hannah Kim"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, forward to Dr. Anita Rao",
+   "gold": "Do not order it; forward to Dr. Rao"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, ask requesting manager",
+   "gold": "No; ask the requesting office manager"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "No (backorder must exceed 10 business days)"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Rao",
+   "gold": "Only Dr. Rao"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call emergency line (555) 014-2290; flag 'URGENT – clinical' for dentist on call",
+   "gold": "Tell her to call the emergency line (555) 014-2290; flag the email \"URGENT – clinical\" for the dentist on call; no clinical advice"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Thursday by 3pm",
+   "gold": "Summary of open orders, Thursdays by 3 p.m."
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "Yes (deadline is by 3 p.m.)"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (no later than the 5th)"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§1.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hannah Kim",
+   "gold": "Hannah Kim"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "schaden@lindner-hv.de, Mon-Fri 8:00",
+   "gold": "schaden@lindner-hv.de, Monday to Friday at 8:00"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Albers",
+   "gold": "Frau Albers"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "call Notdienst Krause 0341 998877 immediately",
+   "gold": "Call Notdienst Krause (0341 998877) immediately; inform Frau Albers within 2 hours"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (no cost limit)"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "tell tenant: leave house immediately, use no light switches",
+   "gold": "Leave the building immediately and do not use light switches"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (only name, flat number and agreed time window)"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "forward to Lindner",
+   "gold": "Do not answer; forward to Herr Lindner"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§2.q11",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Lindner",
+   "gold": "Sachsenhof GmbH, the owner"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§2.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No; she is the property manager (Objektbetreuerin)"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§2.q13",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "No (by 14:00)"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§2.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No; forward to Herr Lindner"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§2.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "by Nov 30",
+   "gold": "By 30 November (inclusive)"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tue Mar 10",
+   "gold": "Tuesday 10 March"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§3.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "€186M",
+   "gold": "€129 million"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§3.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "120 km, 35 km on the quays",
+   "gold": "120 km; 35 km on the quays"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§3.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "30%",
+   "gold": "36 km"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "6.4 km, 19:00 Sep 2026",
+   "gold": "Part-Dieu–Villeurbanne, 6.4 km, September 2026"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§3.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "4%",
+   "gold": "3 points (4% to 7%)"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§3.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12%",
+   "gold": "12%"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes (open until 30 April inclusive)"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "Yes (until 15 May)"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Claire Morel: 'un plan qui oublie les communes de l'ouest'",
+   "gold": "Claire Morel: « un plan qui oublie les communes de l'ouest »"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§3.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "8,000 near stations",
+   "gold": "8,000, near stations"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§3.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Jun 22",
+   "gold": "22 June"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§3.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "VP mobility Thomas Girard",
+   "gold": "Vice-president for mobility"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§3.q14",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "42, Auvergne-Rhône-Alpes",
+   "gold": "€15 million, Auvergne-Rhône-Alpes"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "16:00 daily",
+   "gold": "Daily at 16:00"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "Do not accept; pass it to classroom head Kimura Sanae (木村早苗)"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No; forward to the classroom head"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (winter course, Dec 20 – Jan 7)"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "山口真理",
+   "gold": "Yamaguchi Mari (山口真理), HQ office manager"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "19:30 on Friday",
+   "gold": "Reply \"お大事になさってください\" and tell the parent to phone the school before the student comes in"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (only at 38°C or above)"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "forward to 塾長 佐々木隆",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§4.q11",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "No (by 19:00)"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§4.q12",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "The number of make-up classes that week"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "He is the school head (塾長); never CC him on parent emails"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "No; she is the Kawasaki classroom head"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§4.q15",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "田中健 (Tanaka Ken)"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§5.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "23/40, out of 40",
+   "gold": "23 of 40"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§5.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Iván Soto, not an owner",
+   "gold": "Iván Soto, the administrator; not an owner"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§5.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€5,700 per month",
+   "gold": "€5,700"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§5.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes (15 of 23)"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§5.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (exempt)"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§5.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§5.q7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "April"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§5.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "Not approved; vote to be repeated at the June meeting"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§5.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§5.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "forward to Lindner",
+   "gold": "Yes (the rule applies to under-12s)"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§5.q11",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Lindner",
+   "gold": "15 June – 15 September, 11:00–21:00"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§5.q12",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "19:30 on Friday",
+   "gold": "Yes (payment had to be before 1 March)"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§5.q13",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "«Las llaves de la azotea solo las tiene el conserje»"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§5.q14",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "9 June, 19:30"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§5.q15",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§6.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "10:00 and 16:00 daily",
+   "gold": "Daily at 10:00 and 16:00"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§6.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes (day 7 counts)"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§6.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§6.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "ask for photos + batch number, forward to 周静",
+   "gold": "Ask for photos and the batch number, forward to 周静 (QC head); do not judge yourself"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§6.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "finance 王磊",
+   "gold": "Only 王磊 (finance)"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§6.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "No (only for more than 3 days)"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§6.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§6.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§6.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "Forward to 王磊"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§6.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "forward to 王磊",
+   "gold": "陈晓东, the store manager"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§6.q11",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "周静",
+   "gold": "No; QC head"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§6.q12",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "12:00 on Monday",
+   "gold": "No (must be before 12:00)"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§6.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "春节期间暂停发货，2月23日起按下单顺序发出。",
+   "gold": "「春节期间暂停发货，2月23日起按下单顺序发出。」"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§6.q14",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Feb 14-22",
+   "gold": "23 February"
+  },
+  {
+   "f": "mnc18z_r1",
+   "id": "§6.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday through Friday at 7:30 a.m. Pacific Time.",
+   "gold": "Weekdays, 7:30 a.m. Pacific"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not place it on your own.",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The office manager of the office that requested the order.",
+   "gold": "Luis Ortega, Eastport office manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, you may not place it now.",
+   "gold": "No; needs Dr. Rao"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Dr. Anita Rao, the practice owner.",
+   "gold": "Hannah Kim"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Forward the request to Dr. Rao.",
+   "gold": "Do not order it; forward to Dr. Rao"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not substitute it yourself. Ask the requesting office manager.",
+   "gold": "No; ask the requesting office manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes, you may substitute it yourself.",
+   "gold": "No (backorder must exceed 10 business days)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not discuss the balance with her.",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The office manager can approve it up to $200; larger refunds require Dr. Rao's approval.",
+   "gold": "Only Dr. Rao"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell her to call the office's emergency line at (555) 014-2290 and flag the email 'URGENT – clinical' for the dentist on call.",
+   "gold": "Tell her to call the emergency line (555) 014-2290; flag the email \"URGENT – clinical\" for the dentist on call; no clinical advice"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Each office manager gets a summary of open orders by 3 p.m. every Thursday.",
+   "gold": "Summary of open orders, Thursdays by 3 p.m."
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, sending the open-orders summary at 2 p.m. on a Thursday is not acceptable.",
+   "gold": "Yes (deadline is by 3 p.m.)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, sending Dr. Rao the monthly spending report on the 6th of the month is not acceptable.",
+   "gold": "No (no later than the 5th)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hannah Kim is the office manager at Millbrook.",
+   "gold": "Hannah Kim"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "schaden@lindner-hv.de, at 8:00 a.m. Monday through Friday.",
+   "gold": "schaden@lindner-hv.de, Monday to Friday at 8:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, you may not commission a tradesman from the partner list yourself.",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Frau Albers (Objektbetreuerin) approval is needed.",
+   "gold": "Frau Albers"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes, you need Herr Lindner's approval before calling the emergency service.",
+   "gold": "Call Notdienst Krause (0341 998877) immediately; inform Frau Albers within 2 hours"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Tell the tenant to call the emergency service immediately at 0341 998877.",
+   "gold": "No (no cost limit)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Do not give the tenant's mobile number.",
+   "gold": "Leave the building immediately and do not use light switches"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not give a spare key.",
+   "gold": "No (only name, flat number and agreed time window)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not give a spare key.",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not hand it over.",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Do not answer the tenant's question; forward it to Herr Lindner.",
+   "gold": "Do not answer; forward to Herr Lindner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q11",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Frau Albers is not the owner of the property.",
+   "gold": "Sachsenhof GmbH, the owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, sending the open-damages list at 15:00 on Friday is not on time.",
+   "gold": "No; she is the property manager (Objektbetreuerin)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q13",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "The utility statements are sent by 30. November.",
+   "gold": "No (by 14:00)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q14",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "No; forward to Herr Lindner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q15",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "By 30 November (inclusive)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The plan was presented on 10 March.",
+   "gold": "Tuesday 10 March"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "The Métropole itself pays 109 million euros.",
+   "gold": "€129 million"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "120 kilometers of new separated bike lanes are planned, with 35 kilometers on the quays.",
+   "gold": "120 km; 35 km on the quays"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "30% of the new kilometers will be outside Lyon and Villeurbanne.",
+   "gold": "36 km"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The first line to be built is the Part-Dieu–Villeurbanne line, 6.4 kilometers long, starting in September 2026.",
+   "gold": "Part-Dieu–Villeurbanne, 6.4 km, September 2026"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The share of cycling's share of home-to-work trips rose by 3 percentage points over the five years.",
+   "gold": "3 points (4% to 7%)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The target for 2030 is 12%.",
+   "gold": "12%"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, a resident cannot still take part in the public consultation on 30 April.",
+   "gold": "Yes (open until 30 April inclusive)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, an association cannot submit a written contribution on 10 May.",
+   "gold": "Yes (until 15 May)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Claire Morel criticized the plan, saying 'un plan qui oublie les communes de l'ouest'.",
+   "gold": "Claire Morel: « un plan qui oublie les communes de l'ouest »"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "8,000 secure parking spaces are planned near the gares.",
+   "gold": "8,000, near stations"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q12",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "The final council vote is planned for 9 June.",
+   "gold": "22 June"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Thomas Girard is the vice-president in charge of mobilities.",
+   "gold": "Vice-president for mobility"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The region contributes 15 million euros, and it is the Auvergne-Rhône-Alpes region.",
+   "gold": "€15 million, Auvergne-Rhône-Alpes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Every day at 16:00.",
+   "gold": "Daily at 16:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, you may not arrange it yourself.",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Do not arrange it yourself; it requires the classroom head's judgment.",
+   "gold": "Do not accept; pass it to classroom head Kimura Sanae (木村早苗)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not arrange it yourself.",
+   "gold": "No; forward to the classroom head"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not accept it.",
+   "gold": "No (winter course, Dec 20 – Jan 7)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not promise a refund.",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "The withdrawal requests are handled by the headquarters' Shima Eri.",
+   "gold": "Yamaguchi Mari (山口真理), HQ office manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Tell the parent to call the school before coming in.",
+   "gold": "Reply \"お大事になさってください\" and tell the parent to phone the school before the student comes in"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not answer.",
+   "gold": "No (only at 38°C or above)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Report the week's make-up count to the classroom heads at 19:30 on Friday.",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q11",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Report the week's make-up count to the classroom heads every Friday.",
+   "gold": "No (by 19:00)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q12",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Sasaki Takashi is the store manager.",
+   "gold": "The number of make-up classes that week"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Kimura Sanae is not the principal.",
+   "gold": "He is the school head (塾長); never CC him on parent emails"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "The Yokohama classroom head is Tanaka Hiroshi.",
+   "gold": "No; she is the Kawasaki classroom head"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q15",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "田中健 (Tanaka Ken)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "23 out of 40 owners attended.",
+   "gold": "23 of 40"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Iván Soto took the minutes, and he is not an owner.",
+   "gold": "Iván Soto, the administrator; not an owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Each monthly instalment for the whole community is 18,033.33 euros.",
+   "gold": "€5,700"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, more than half of the owners present voted in favour of the lift.",
+   "gold": "Yes (15 of 23)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only the local B pays the lift instalments.",
+   "gold": "No (exempt)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, shop B pays the lift instalments.",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The first lift instalment falls in April.",
+   "gold": "April"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The façade was not approved; the vote will be repeated in the June meeting.",
+   "gold": "Not approved; vote to be repeated at the June meeting"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, an 11-year-old cannot use the pool alone.",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "A 12-year-old can use the pool without an adult.",
+   "gold": "Yes (the rule applies to under-12s)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The pool is open from 15 June to 15 September, from 11:00 to 21:00.",
+   "gold": "15 June – 15 September, 11:00–21:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.q12",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "If the owner of 5ºC pays the full debt on 1 March, the legal claim can be started.",
+   "gold": "Yes (payment had to be before 1 March)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rosa Jiménez said, 'Las llaves de la azotea solo las tiene el conserje'.",
+   "gold": "«Las llaves de la azotea solo las tiene el conserje»"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.q14",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "The second call of the next ordinary meeting is on 15 May at 19:30.",
+   "gold": "9 June, 19:30"
+  },
+  {
+   "f": "original_r1",
+   "id": "§5.q15",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Glass containers are not allowed at the pool.",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§6.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Check the shouhou@qinghetea.cn mailbox and the backend at 10:00 and 16:00.",
+   "gold": "Daily at 10:00 and 16:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§6.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, you may approve the return yourself.",
+   "gold": "Yes (day 7 counts)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§6.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes, you may approve the return yourself.",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§6.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, you may not judge the quality issue; send it to Zhou Jing.",
+   "gold": "Ask for photos and the batch number, forward to 周静 (QC head); do not judge yourself"
+  },
+  {
+   "f": "original_r1",
+   "id": "§6.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, you may not approve the refund yourself.",
+   "gold": "Only 王磊 (finance)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§6.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not give another coupon.",
+   "gold": "No (only for more than 3 days)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§6.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not give a coupon.",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§6.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you may not give an invoice.",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§6.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Do not CC anyone on customer emails.",
+   "gold": "Forward to 王磊"
+  },
+  {
+   "f": "original_r1",
+   "id": "§6.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, Zhou Jing is not the store manager.",
+   "gold": "陈晓东, the store manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§6.q11",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes, sending the return-reasons summary at exactly 12:00 on Monday is on time.",
+   "gold": "No; QC head"
+  },
+  {
+   "f": "original_r1",
+   "id": "§6.q12",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "The exact reply during the Spring Festival is: '春节期间暂停发货，2月23日起按下单顺序发出。'",
+   "gold": "No (must be before 12:00)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§6.q13",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Shipping resumes on 23 February.",
+   "gold": "「春节期间暂停发货，2月23日起按下单顺序发出。」"
+  },
+  {
+   "f": "original_r1",
+   "id": "§6.q14",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, you may not tell a customer another customer's delivery address.",
+   "gold": "23 February"
+  },
+  {
+   "f": "original_r1",
+   "id": "§6.q15",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "No"
+  }
+ ],
+ "summary": {
+  "mnc18_r1": {
+   "all": [
+    63,
+    89
+   ],
+   "S": [
+    37,
+    61
+   ],
+   "F": [
+    26,
+    28
+   ],
+   "hop2": [
+    27,
+    40
+   ]
+  },
+  "mnc18z_r1": {
+   "all": [
+    49,
+    89
+   ],
+   "S": [
+    31,
+    61
+   ],
+   "F": [
+    18,
+    28
+   ],
+   "hop2": [
+    22,
+    40
+   ]
+  },
+  "original_r1": {
+   "all": [
+    47,
+    89
+   ],
+   "S": [
+    27,
+    61
+   ],
+   "F": [
+    20,
+    28
+   ],
+   "hop2": [
+    18,
+    40
+   ]
+  }
+ }
+}

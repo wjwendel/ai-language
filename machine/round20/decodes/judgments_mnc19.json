@@ -1,0 +1,568 @@
+{
+ "round": 20,
+ "judge": "independent, no-context; saw only originals.txt and the two decodes",
+ "facts": [
+  {
+   "id": "§1.1",
+   "type": "F",
+   "text": "Assistant for Northgate Community Theatre, Columbus, Ohio"
+  },
+  {
+   "id": "§1.2",
+   "type": "F",
+   "text": "Check boxoffice@northgatetheatre.org Tue-Sun at 10 a.m. and 5:30 p.m. Eastern"
+  },
+  {
+   "id": "§1.3",
+   "type": "S",
+   "text": "May hold tickets on own up to 6 seats per performance"
+  },
+  {
+   "id": "§1.4",
+   "type": "S",
+   "text": "Group holds of 7+ seats must be arranged by box office manager Renée Castillo"
+  },
+  {
+   "id": "§1.5",
+   "type": "S",
+   "text": "Held tickets must be paid at least 72 h before curtain or are released"
+  },
+  {
+   "id": "§1.6",
+   "type": "S",
+   "text": "Exception: school groups may pay at the door"
+  },
+  {
+   "id": "§1.7",
+   "type": "S",
+   "text": "Refunds only if requested more than 7 days before performance"
+  },
+  {
+   "id": "§1.8",
+   "type": "S",
+   "text": "Never process refunds yourself"
+  },
+  {
+   "id": "§1.9",
+   "type": "S",
+   "text": "Tell patron to email refunds@northgatetheatre.org"
+  },
+  {
+   "id": "§1.10",
+   "type": "S",
+   "text": "Forward the refund thread to Renée"
+  },
+  {
+   "id": "§1.11",
+   "type": "S",
+   "text": "Wheelchair spaces booked only for patrons who ask"
+  },
+  {
+   "id": "§1.12",
+   "type": "S",
+   "text": "Never move a patron into a wheelchair space"
+  },
+  {
+   "id": "§1.13",
+   "type": "S",
+   "text": "Latecomers seated only at intermission"
+  },
+  {
+   "id": "§1.14",
+   "type": "S",
+   "text": "Exception: performances up to 90 min, usher may seat at first scene change"
+  },
+  {
+   "id": "§1.15",
+   "type": "S",
+   "text": "Patron unwell: tell usher to bring them to lobby"
+  },
+  {
+   "id": "§1.16",
+   "type": "S",
+   "text": "Then call house manager Ben Adeyemi at (614) 555-0176 yourself"
+  },
+  {
+   "id": "§1.17",
+   "type": "S",
+   "text": "Then email Renée"
+  },
+  {
+   "id": "§1.18",
+   "type": "S",
+   "text": "Renée is box office manager, not artistic director"
+  },
+  {
+   "id": "§1.19",
+   "type": "S",
+   "text": "Artistic director Gordon Faulk must never be contacted about ticketing"
+  },
+  {
+   "id": "§1.20",
+   "type": "S",
+   "text": "Every confirmation email must start with exact \"Doors open 45 minutes before curtain.\""
+  },
+  {
+   "id": "§1.21",
+   "type": "S",
+   "text": "Send Renée weekly sales report by 4 p.m. every Monday"
+  },
+  {
+   "id": "§2.1",
+   "type": "F",
+   "text": "Assistant for Agriturismo Poggio dei Mandorli, Montepulciano (Siena)"
+  },
+  {
+   "id": "§2.2",
+   "type": "F",
+   "text": "Check prenotazioni@poggiodeimandorli.it daily at 8:30 and 19:00"
+  },
+  {
+   "id": "§2.3",
+   "type": "S",
+   "text": "May confirm bookings on own up to 4 nights"
+  },
+  {
+   "id": "§2.4",
+   "type": "S",
+   "text": "Stays over 4 nights need approval of reception manager Giulia Ferrante"
+  },
+  {
+   "id": "§2.5",
+   "type": "S",
+   "text": "Check-in 15:00-20:00"
+  },
+  {
+   "id": "§2.6",
+   "type": "S",
+   "text": "Arrivals after 20:00 must notify by 12:00 on arrival day"
+  },
+  {
+   "id": "§2.7",
+   "type": "S",
+   "text": "In that case tell caretaker Sandro Bellini to leave keys in key box"
+  },
+  {
+   "id": "§2.8",
+   "type": "S",
+   "text": "Pets allowed only if under 10 kg"
+  },
+  {
+   "id": "§2.9",
+   "type": "S",
+   "text": "Pet supplement €15 per night"
+  },
+  {
+   "id": "§2.10",
+   "type": "S",
+   "text": "Guide dogs always allowed, free"
+  },
+  {
+   "id": "§2.11",
+   "type": "S",
+   "text": "Dinner €38 per person; children under 12 pay half"
+  },
+  {
+   "id": "§2.12",
+   "type": "S",
+   "text": "Dinner bookings by 17:00 same day"
+  },
+  {
+   "id": "§2.13",
+   "type": "S",
+   "text": "Never send gate code by email"
+  },
+  {
+   "id": "§2.14",
+   "type": "S",
+   "text": "Only Giulia sends gate code, by SMS on arrival day"
+  },
+  {
+   "id": "§2.15",
+   "type": "S",
+   "text": "Wasp sting with breathing difficulty: tell guest to call 112 immediately"
+  },
+  {
+   "id": "§2.16",
+   "type": "S",
+   "text": "Then you call Giulia at 333 555 0184"
+  },
+  {
+   "id": "§2.17",
+   "type": "S",
+   "text": "Giulia is not the owner"
+  },
+  {
+   "id": "§2.18",
+   "type": "S",
+   "text": "Owner Lorenzo Vitale never cc'd on guest emails"
+  },
+  {
+   "id": "§2.19",
+   "type": "S",
+   "text": "Every confirmation must end with exact «La piscina chiude alle 19:30.»"
+  },
+  {
+   "id": "§2.20",
+   "type": "S",
+   "text": "Send Giulia weekend arrivals list by 18:00 every Thursday"
+  },
+  {
+   "id": "§3.1",
+   "type": "F",
+   "text": "Assistant for 青禾少儿编程中心, Chengdu"
+  },
+  {
+   "id": "§3.2",
+   "type": "F",
+   "text": "Check kefu@qinghecode.cn daily at 9:00 and 20:00"
+  },
+  {
+   "id": "§3.3",
+   "type": "S",
+   "text": "May reschedule student classes yourself, max 2 per term"
+  },
+  {
+   "id": "§3.4",
+   "type": "S",
+   "text": "3rd+ reschedule needs approval of academic head 林嘉怡"
+  },
+  {
+   "id": "§3.5",
+   "type": "S",
+   "text": "Trial class limited to 1 per child, costs 49 yuan"
+  },
+  {
+   "id": "§3.6",
+   "type": "S",
+   "text": "Refund: 4 or fewer lessons attended = full refund; more than 4 = refund remaining lessons"
+  },
+  {
+   "id": "§3.7",
+   "type": "S",
+   "text": "Refunds handled only by finance 周海明; you cannot do it; only tell parent to fill refund application form"
+  },
+  {
+   "id": "§3.8",
+   "type": "S",
+   "text": "Children under 8 must be picked up in person by registered parent"
+  },
+  {
+   "id": "§3.9",
+   "type": "S",
+   "text": "If pickup person not on list, keep child in classroom; you phone registered parent to confirm"
+  },
+  {
+   "id": "§3.10",
+   "type": "S",
+   "text": "Children 8+ may leave alone after parent signs 《自行离校同意书》"
+  },
+  {
+   "id": "§3.11",
+   "type": "S",
+   "text": "Never send other students' names or photos to parents"
+  },
+  {
+   "id": "§3.12",
+   "type": "S",
+   "text": "Nosebleed/injury: tell teacher to have child sit, not tilt head back"
+  },
+  {
+   "id": "§3.13",
+   "type": "S",
+   "text": "You call front-desk first-aider 028-5550-3196 yourself"
+  },
+  {
+   "id": "§3.14",
+   "type": "S",
+   "text": "Then phone parent within 15 minutes"
+  },
+  {
+   "id": "§3.15",
+   "type": "S",
+   "text": "林嘉怡 is academic head, not principal"
+  },
+  {
+   "id": "§3.16",
+   "type": "S",
+   "text": "Principal 王立新 must not be cc'd on parent emails unless complaint escalation"
+  },
+  {
+   "id": "§3.17",
+   "type": "S",
+   "text": "All class reminder SMS must end exactly with \"请提前10分钟到校签到。\""
+  },
+  {
+   "id": "§3.18",
+   "type": "S",
+   "text": "Send absence list to 林嘉怡 before 17:00 every Friday"
+  },
+  {
+   "id": "§4.1",
+   "type": "F",
+   "text": "Assistant for kayak rental Zielona Fala, Augustów"
+  },
+  {
+   "id": "§4.2",
+   "type": "F",
+   "text": "Check rezerwacje@zielonafala.pl daily at 7:00 and 14:30"
+  },
+  {
+   "id": "§4.3",
+   "type": "S",
+   "text": "May accept bookings on own up to 5 kayaks"
+  },
+  {
+   "id": "§4.4",
+   "type": "S",
+   "text": "Bookings over 5 kayaks approved only by base manager Agnieszka Wróbel"
+  },
+  {
+   "id": "§4.5",
+   "type": "S",
+   "text": "Double kayak 90 zł/day; from 3rd rental day 70 zł/day"
+  },
+  {
+   "id": "§4.6",
+   "type": "S",
+   "text": "Children under 10 only with an adult in a double kayak"
+  },
+  {
+   "id": "§4.7",
+   "type": "S",
+   "text": "Life jackets mandatory for all, no exceptions"
+  },
+  {
+   "id": "§4.8",
+   "type": "S",
+   "text": "Kayaks returned by 19:00; 20 zł per started hour late"
+  },
+  {
+   "id": "§4.9",
+   "type": "S",
+   "text": "Wind over 40 km/h: cancel all outings, full refund, you order it yourself (only such case)"
+  },
+  {
+   "id": "§4.10",
+   "type": "S",
+   "text": "All other refunds ordered by Agnieszka"
+  },
+  {
+   "id": "§4.11",
+   "type": "S",
+   "text": "Never give customers lifeguard's phone number"
+  },
+  {
+   "id": "§4.12",
+   "type": "S",
+   "text": "Capsize: tell person to stay with kayak"
+  },
+  {
+   "id": "§4.13",
+   "type": "S",
+   "text": "You call lifeguard Kamil Nowak at 604 555 017 yourself"
+  },
+  {
+   "id": "§4.14",
+   "type": "S",
+   "text": "Then write to Agnieszka"
+  },
+  {
+   "id": "§4.15",
+   "type": "S",
+   "text": "Agnieszka is base manager, not owner"
+  },
+  {
+   "id": "§4.16",
+   "type": "S",
+   "text": "Owner Ryszard Malinowski never cc'd on customer emails"
+  },
+  {
+   "id": "§4.17",
+   "type": "S",
+   "text": "Every confirmation must contain exact „Kamizelka musi być zapięta przez cały czas.”"
+  },
+  {
+   "id": "§4.18",
+   "type": "S",
+   "text": "Send Agnieszka daily report before 21:00"
+  }
+ ],
+ "A": {
+  "verdicts": {
+   "§1.1": "ok",
+   "§1.2": "ok",
+   "§1.3": "ok",
+   "§1.4": "ok",
+   "§1.5": "ok",
+   "§1.6": "ok",
+   "§1.7": "ok",
+   "§1.8": "ok",
+   "§1.9": "ok",
+   "§1.10": "ok",
+   "§1.11": "ok",
+   "§1.12": "ok",
+   "§1.13": "ok",
+   "§1.14": "ok",
+   "§1.15": "ok",
+   "§1.16": "ok",
+   "§1.17": "ok",
+   "§1.18": "ok",
+   "§1.19": "ok",
+   "§1.20": "ok",
+   "§1.21": "ok",
+   "§2.1": "ok",
+   "§2.2": "ok",
+   "§2.3": "ok",
+   "§2.4": "ok",
+   "§2.5": "ok",
+   "§2.6": "ok",
+   "§2.7": "ok",
+   "§2.8": "ok",
+   "§2.9": "ok",
+   "§2.10": "ok",
+   "§2.11": "ok",
+   "§2.12": "ok",
+   "§2.13": "ok",
+   "§2.14": "ok",
+   "§2.15": "ok",
+   "§2.16": "ok",
+   "§2.17": "ok",
+   "§2.18": "ok",
+   "§2.19": "ok",
+   "§2.20": "ok",
+   "§3.1": "ok",
+   "§3.2": "ok",
+   "§3.3": "ok",
+   "§3.4": "ok",
+   "§3.5": "ok",
+   "§3.6": "ok",
+   "§3.7": "ok",
+   "§3.8": "ok",
+   "§3.9": "ok",
+   "§3.10": "ok",
+   "§3.11": "ok",
+   "§3.12": "ok",
+   "§3.13": "ok",
+   "§3.14": "ok",
+   "§3.15": "ok",
+   "§3.16": "ok",
+   "§3.17": "ok",
+   "§3.18": "ok",
+   "§4.1": "ok",
+   "§4.2": "ok",
+   "§4.3": "ok",
+   "§4.4": "ok",
+   "§4.5": "ok",
+   "§4.6": "ok",
+   "§4.7": "ok",
+   "§4.8": "ok",
+   "§4.9": "ok",
+   "§4.10": "ok",
+   "§4.11": "ok",
+   "§4.12": "ok",
+   "§4.13": "ok",
+   "§4.14": "ok",
+   "§4.15": "ok",
+   "§4.16": "ok",
+   "§4.17": "ok",
+   "§4.18": "ok"
+  },
+  "S_distortions": [],
+  "S_lost": [],
+  "F_problems": [],
+  "inventions": []
+ },
+ "B": {
+  "verdicts": {
+   "§1.1": "ok",
+   "§1.2": "ok",
+   "§1.3": "ok",
+   "§1.4": "ok",
+   "§1.5": "ok",
+   "§1.6": "ok",
+   "§1.7": "ok",
+   "§1.8": "ok",
+   "§1.9": "ok",
+   "§1.10": "ok",
+   "§1.11": "ok",
+   "§1.12": "ok",
+   "§1.13": "ok",
+   "§1.14": "ok",
+   "§1.15": "ok",
+   "§1.16": "ok",
+   "§1.17": "ok",
+   "§1.18": "ok",
+   "§1.19": "ok",
+   "§1.20": "ok",
+   "§1.21": "ok",
+   "§2.1": "ok",
+   "§2.2": "ok",
+   "§2.3": "ok",
+   "§2.4": "ok",
+   "§2.5": "ok",
+   "§2.6": "ok",
+   "§2.7": "ok",
+   "§2.8": "ok",
+   "§2.9": "ok",
+   "§2.10": "ok",
+   "§2.11": "ok",
+   "§2.12": "ok",
+   "§2.13": "ok",
+   "§2.14": "ok",
+   "§2.15": "ok",
+   "§2.16": "ok",
+   "§2.17": "ok",
+   "§2.18": "ok",
+   "§2.19": "ok",
+   "§2.20": "ok",
+   "§3.1": "ok",
+   "§3.2": "ok",
+   "§3.3": "ok",
+   "§3.4": "ok",
+   "§3.5": "ok",
+   "§3.6": "ok",
+   "§3.7": "ok",
+   "§3.8": "ok",
+   "§3.9": "ok",
+   "§3.10": "ok",
+   "§3.11": "ok",
+   "§3.12": "ok",
+   "§3.13": "ok",
+   "§3.14": "ok",
+   "§3.15": "ok",
+   "§3.16": "ok",
+   "§3.17": "ok",
+   "§3.18": "ok",
+   "§4.1": "ok",
+   "§4.2": "ok",
+   "§4.3": "ok",
+   "§4.4": "ok",
+   "§4.5": "ok",
+   "§4.6": "ok",
+   "§4.7": "ok",
+   "§4.8": "ok",
+   "§4.9": "ok",
+   "§4.10": "ok",
+   "§4.11": "ok",
+   "§4.12": "ok",
+   "§4.13": "ok",
+   "§4.14": "ok",
+   "§4.15": "ok",
+   "§4.16": "ok",
+   "§4.17": "ok",
+   "§4.18": "ok"
+  },
+  "S_distortions": [],
+  "S_lost": [],
+  "F_problems": [],
+  "inventions": []
+ },
+ "summary": {
+  "A_S_distortions": 0,
+  "B_S_distortions": 0,
+  "A_S_lost": 0,
+  "B_S_lost": 0,
+  "inventions": 0
+ }
+}

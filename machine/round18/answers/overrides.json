@@ -1,0 +1,2 @@
+{"original_r1":{"§3.q1":[1,"regex false negative: '2 p.m.' = 14:00"],"§3.q6":[1,"regex false negative: '7 p.m.' = 19:00"],"§3.q7":[1,"regex false negative: '11 p.m.' = 23:00"]},
+ "_kept_as_errors":{"mnc19_r1/r2 §4.q3":"answered 'Half (of ~¥3.8bn)' without the amount ¥1.9bn the question asked for; F, not overridden (strict)","original_r1 §4.q6":"quote translated into English instead of exact Japanese; F, real miss"}}

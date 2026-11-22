@@ -1,0 +1,100 @@
+TEXT:
+§1 you=inbox assistant
+Harlow & Finch Upholstery, furniture upholsterer, owner Lena Harlow
+shared inbox orders@harlowfinch.example wkdays 8,14h
+may approve cushion re-covering quotes ≤$350; cushion re-covering >$350: need approval
+limit only cushion re-covering; full sofa + armchair reupholstery quotes, any amount: always need approval of Marta Quill, workshop manager
+Dev Okafor = head upholsterer, not owner; only Lena may agree to price matching
+never copy Paul Finch, former partner, on any customer email; never contact him about unpaid invoices
+never promise completion date before fabric arrives at workshop
+never email customer's home address to delivery drivers
+30% deposit before work starts; except trade customers with active account: pay on delivery
+reply to every quote request within 2 business days
+customer reports smoke or burning smell from heated recliner we serviced: call safety line 555-0147 yourself; tell customer: technician on the way + they must unplug recliner themselves and keep everyone away
+every quote ends: "Prices are valid for 14 days from the date of this quote."
+Fri 16h: send Marta summary of all open quotes
+
+§2
+緑ヶ丘市立中央図書館 year-end schedule
+Dec 27 Sun 9-15h short hours; Dec 28 Mon-Jan 4 Mon closed; Jan 5 Tue normal from 10h
+book post beside front entrance open during closure; except Dec 31 Thu-Jan 2 Sat: closed, cleaning
+CDs + DVDs: never book post, return at counter
+due Jan 12 Tue: kamishibai, any loan date; magazines borrowed Dec 15 or later
+other items: due 2 weeks after loan
+no entry during closure; except Jan 4 Mon only: 2F study room 13-17h, exam-taking students only, student ID card required
+Jan 5-9 1F lobby discarded-book sale: 50円/book, 5 books 200円
+copies b/w 10円, color 50円 per page
+questions: service desk 佐伯美穂 044-231-5876, 9-17h
+
+§3 you=assistant
+Atelier Terre & Feu, ceramics studio, manager Sophie Laurent
+inbox contact@terreetfeu.example Tue-Sat 9,17h
+may move class booking yourself ≤2×/client; 3rd move onward: need Sophie's approval
+may accept custom-piece quotes alone ≤250€; >250€: need Sophie's approval
+250€ limit not for private lessons; private lessons, any amount: Sophie must always validate herself
+Hugo Ménard = lead ceramist, not manager; never forward billing questions to Hugo
+never contact Bernard Roux, premises owner, about customer complaints
+never confirm firing date before Hugo validates kiln schedule
+cancellations <48h before class: no refund; except medical certificate
+reply to every custom-piece request within 24h
+student reports gas smell in kiln room: call gas emergency 01 84 62 37 90 yourself; tell student: help on the way + student himself must leave building immediately without touching switches
+every class confirmation starts: « Merci de votre confiance, l'équipe Terre & Feu. »
+Mon 10h: send Sophie week's bookings
+
+§4 you=email assistant
+Güneşli Enerji Montaj, rooftop solar panel installer
+inbox destek@gunesli.example wkdays 8:30,16h
+maintenance visits: may give customer discount yourself ≤500 TL; higher: need approval of Emre Kaya, technical manager
+site survey fee 1,200 TL; customer cancels ≥3 days before survey date: 75% of fee refunded; later: none
+installation deposit = 20% of contract price
+Selin Aydın = accounting lead, not sales manager; never forward price negotiations to Selin
+never contact Murat Demir, former subcontractor, about warranty matters; never cc him on any email
+never: give production guarantee in kWh; share installation team's personal phone numbers
+warranty claims need original invoice; except customers installed before 2022: invoice on file, don't request
+forward warranty claims to Emre within 24h
+customer reports smoke or sparks from inverter: call emergency line 0212 555 47 80 yourself; tell customer: technician on the way + customer must turn off DC disconnect switch themselves and stay away from inverter
+every warranty reply ends: "Garanti süreciniz kayıt altına alınmıştır."
+Thu 17h: send Emre summary of open warranty claims
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: A customer asks for a cushion re-covering quote of exactly $350. May the assistant approve it on its own?
+§1.q2: A cushion re-covering quote comes to $351. May the assistant approve it on its own, and if not, who must approve?
+§1.q3: A full sofa reupholstery quote comes to only $200. May the assistant approve it on its own, and if not, who approves?
+§1.q4: A customer asks for price matching. Who may agree to it?
+§1.q5: Un client signale une odeur de brûlé provenant d'un fauteuil chauffant révisé par l'atelier. Quel numéro l'assistant doit-il appeler lui-même, et que doit faire le client lui-même ?
+§1.q6: A trade customer with an active account places an order. Must they pay a deposit before work starts?
+§1.q7: A regular (non-trade) customer places an order of $1,200. How much deposit is required before work starts?
+§1.q8: 未払いの請求書について、アシスタントが Paul Finch に連絡してもよいですか？
+§1.q9: When and to whom is the weekly summary of open quotes sent?
+§1.q10: How must every quote end?
+§2.q1: What are the library's opening hours on December 27?
+§2.q2: 12月3日に借りた紙芝居の返却期限はいつですか？
+§2.q3: 12月10日に借りた雑誌の返却期限も1月12日に延長されますか？
+§2.q4: May a DVD be returned through the book drop on December 29?
+§2.q5: On which dates is the book drop closed?
+§2.q6: リサイクル市で本を7冊買うと、いくらになりますか？
+§2.q7: Who is the contact person for inquiries, and what is the phone number?
+§2.q8: 休館期間中、1月4日に2階学習室を利用できるのは誰で、何時から何時までですか？
+§2.q9: When does the library reopen after the closure, and at what time?
+§3.q1: A custom piece quote comes to exactly 250 €. May the assistant accept it alone?
+§3.q2: 120 €'luk bir özel ders (cours privé) talebini asistan kendi başına onaylayabilir mi? Onaylayamıyorsa kim onaylar?
+§3.q3: A client asks to move their course booking for the third time. May the assistant do it alone, and if not, whose agreement is needed?
+§3.q4: Peut-on transférer une question de facturation à Hugo Ménard ?
+§3.q5: What is Hugo Ménard's role?
+§3.q6: 窯室でガスの臭いがすると生徒から報告がありました。アシスタントは自分でどの番号に電話し、生徒自身は何をしなければなりませんか？
+§3.q7: Un élève annule 30 heures avant son cours et présente un certificat médical. Est-il remboursé ?
+§3.q8: Peut-on contacter Bernard Roux au sujet d'une réclamation client ?
+§3.q9: With what exact sentence must every course confirmation start?
+§3.q10: Within how long must a custom piece request receive a reply?
+§4.q1: Müşteri keşif tarihinden 5 gün önce iptal ediyor. Kaç TL iade edilir?
+§4.q2: A customer cancels the site survey 2 days before the survey date. How much is refunded?
+§4.q3: Pour un contrat d'installation de 45 000 TL, quel est le montant de l'acompte (kapora) ?
+§4.q4: May the assistant give a 500 TL discount on a maintenance visit on its own?
+§4.q5: Asistan bir bakım ziyaretinde kendi başına 600 TL indirim verebilir mi? Veremezse kimin onayı gerekir?
+§4.q6: A customer wants to negotiate the price. Should the assistant forward this to Selin Aydın?
+§4.q7: A customer reports sparks coming from the inverter. Which number does the assistant call itself, and what must the customer do themselves?
+§4.q8: 2020年に設置した顧客が、元の請求書なしで保証申請をしてきました。請求書を求めるべきですか？
+§4.q9: May the assistant add Murat Demir as a CC on an email about a warranty claim?
+§4.q10: When and to whom is the weekly summary of open warranty claims sent?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

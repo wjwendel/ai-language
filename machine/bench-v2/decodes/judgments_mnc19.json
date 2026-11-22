@@ -1,0 +1,21 @@
+{
+ "judge": "encoder agent (NOT blind)",
+ "date": "2026-11-17 ~19:25 CT",
+ "encoding": "MNC19, not question-blind (bench-v2 questions and r14 results known)",
+ "decode_mnc19_A": {
+  "S_distorted": [],
+  "lost": [],
+  "invented": []
+ },
+ "decode_mnc19_B": {
+  "S_distorted": [],
+  "lost": [],
+  "invented": []
+ },
+ "fixed_from_mnc18": "P6.6 invoice actor kept in both ('Customers must submit their invoice information within 30 days of the order')",
+ "minor": [
+  "§4 identity generalised: 'always call them classroom head, never principal' applied to both heads (payload put the identity in a parenthesis after Kawasaki's head); true for both, not a safety distortion",
+  "§1 A: 'summary of their open orders' (adds 'their'); B keeps 'summary of open orders'"
+ ],
+ "verdict": "0 safety distortions in A and B"
+}

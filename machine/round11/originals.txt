@@ -1,0 +1,23 @@
+=== P1 [en]: assistant routine prompt (instruction-safety) ===
+Weekly volunteer-shift routine for the Eastside Food Pantry. Every Tuesday at 7:30 p.m. Central, open the Shifts sheet and the Volunteers inbox. For each new sign-up, check the person's name against the Background Checks list and add them to the shift they picked. Never confirm a volunteer whose background check is missing; send their name to Marcus Bell, the volunteer coordinator, and leave the shift open. Shifts with fewer than 3 volunteers need a reminder post, but only Priya Shah in communications may post on the pantry's social accounts, so draft the post and send it to her instead of posting it. You may swap two volunteers between shifts if both agree in writing, but don't delete anyone from the sheet. Volunteers under 16 may only take Saturday shifts, and only with a parent listed on the form. Call Marcus the volunteer coordinator, never the director; the director is Ana Torres, and do not copy Ana on volunteer emails. If more than 40 people sign up for one Saturday, tell Marcus before closing the sign-up form. Don't reply to complaints about pantry rules; forward them to Marcus without answering. Finish by 9 p.m., and on the last Tuesday of each month send Ana the total of volunteer hours.
+
+=== P2 [es]: local news ===
+El Ayuntamiento de Valdecastro cortará al tráfico el puente de San Telmo del 9 al 27 de febrero para reparar las juntas de dilatación. La obra cuesta unos 310.000 euros y la Diputación paga el 70 %. Mientras dure el corte, los autobuses de la línea 4 se desviarán por la avenida de los Olmos y la parada de la plaza Mayor se trasladará a la calle Cervantes, 18. Los peatones y las bicicletas sí podrán cruzar por una pasarela provisional. La concejala de Obras, Lucía Ferrer, recordó que en 2023 la reparación del túnel norte se retrasó tres semanas por las lluvias; por eso esta vez se trabajará en turnos de noche. Los vecinos del barrio de la Ribera podrán aparcar gratis en el aparcamiento municipal con su tarjeta de residente. Las ambulancias tendrán paso en todo momento.
+
+=== P3 [ja]: friends group chat ===
+健太：12月5日の土曜日に引っ越しします。手伝ってくれる人いる？
+美咲：行ける！何時から？
+健太：朝9時に旧アパートに集合。トラックは8時半に来る。
+翔：午前はバイトだから、午後1時ごろ新しい家に直接行くね。
+健太：ありがとう。お昼は僕がピザをおごる。美咲、段ボールを持ってきてくれる？
+美咲：了解、20枚持っていく。
+健太：新しいマンションはエレベーターがないから、冷蔵庫は業者に頼んだ。追加で8,000円。
+翔：駐車場ある？
+健太：ない。近くのコインパーキングは1時間400円だから、車で来ないで電車で来て。
+健太：大家の鈴木さんに、旧アパートの鍵を夕方6時までに返さないといけない。
+
+=== P4 [it]: local news ===
+Dal 16 marzo il mercato settimanale del giovedì di Borgo San Michele si sposterà da piazza Garibaldi al parcheggio dello stadio comunale, per circa quattro mesi, mentre la piazza viene ripavimentata. L'assessore al commercio, Marco Rinaldi, ha spiegato che i lavori costano 780.000 euro, per metà finanziati dalla Regione. I banchi saranno 60 invece di 75, quindi i posti verranno assegnati per sorteggio il 2 marzo in municipio. Una navetta gratuita partirà dalla stazione ogni 20 minuti dalle 7 alle 13. Rinaldi ha ricordato che nel 2021 il trasferimento del mercato del sabato aveva fatto calare le vendite del 30% nelle prime settimane; per questo il Comune ridurrà del 50% la tassa di occupazione fino a luglio. I cani sono ammessi solo al guinzaglio.
+
+=== P5 [nl]: assistant routine prompt (instruction-safety) ===
+Open elke werkdag om 9.00 uur de afsprakenmailbox van fietsenmaker De Snelle Spaak in Utrecht. Je mag zelf afspraken voor een gewone onderhoudsbeurt bevestigen als er een plek vrij is in de agenda. Voor elektrische fietsen bevestig je niets: stuur het verzoek door naar Femke de Vries en wacht op haar antwoord. Noem nooit zelf een prijs; alleen Bram Visser (werkplaatschef) mag prijzen geven. Als een klant klaagt over een reparatie, vraag dan om het ordernummer en een foto, en beloof geen gratis herstel. Je mag een verkeerd gespeld telefoonnummer in de agenda verbeteren, maar je mag geen afspraken van andere klanten verplaatsen. Noem Bram tegenover klanten "werkplaatschef", nooit "eigenaar"; de eigenaar is Joost Bakker en hij mag nooit in kopie staan bij klantmails. Waarschuw Bram als er meer dan 15 fietsen op reparatie wachten. Verstuur nooit iets namens Joost zonder zijn schriftelijke goedkeuring. Stuur Femke vóór 16.30 uur een overzicht van de afspraken voor morgen.

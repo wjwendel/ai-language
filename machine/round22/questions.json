@@ -1,0 +1,534 @@
+{
+ "written": "2026-11-18 by independent author (r22)",
+ "questions": [
+  {
+   "id": "§1.q1",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A warranty replacement part for one bike costs exactly £60. May the assistant approve it without asking anyone?",
+   "gold": "yes, up to £60 it may approve on its own",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": [
+    "^\\W*no\\b"
+   ]
+  },
+  {
+   "id": "§1.q2",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A warranty part costs £75. Can the assistant approve it alone, and if not, whose approval is needed?",
+   "gold": "no; written approval from Marta Okonjo, the workshop manager",
+   "accept": [
+    "^\\W*no\\b",
+    "marta"
+   ],
+   "reject": [
+    "declan"
+   ]
+  },
+  {
+   "id": "§1.q3",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer sends a complaint about a botched wheel truing. Should the assistant copy the owner on its reply?",
+   "gold": "no; the owner Declan Furey must never be copied on complaints",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes"
+   ]
+  },
+  {
+   "id": "§1.q4",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Who is the owner of Spokewise Cycle Repair?",
+   "gold": "Declan Furey",
+   "accept": [
+    "declan"
+   ],
+   "reject": [
+    "marta"
+   ]
+  },
+  {
+   "id": "§1.q5",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A Harlow Creek Cycling Club member's bike has been uncollected for 35 days. Should the assistant send a storage-fee reminder now?",
+   "gold": "no; club members get 45 days",
+   "accept": [
+    "^\\W*no\\b",
+    "45"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q6",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A non-member's bike has been left uncollected for 31 days. May the assistant send a storage-fee reminder?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": [
+    "^\\W*no\\b"
+   ]
+  },
+  {
+   "id": "§1.q7",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer emails that their brakes failed on a descent the day after a repair. What must the assistant do?",
+   "gold": "call on-call mechanic Ravi Seddon itself at 07700 914 382; tell the customer to stop riding immediately and a mechanic will phone within one hour",
+   "accept": [
+    "07700\\W*914\\W*382",
+    "stop\\s+riding|not\\s+ride|stop\\s+using"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q8",
+   "sec": 1,
+   "type": "F",
+   "hop": 1,
+   "q": "What exact sentence must every booking confirmation end with?",
+   "gold": "\"Please bring your bike clean and with the tyres pumped.\"",
+   "accept": [
+    "bring\\s+your\\s+bike\\s+clean",
+    "tyres?\\s+pumped"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q9",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "¿A quién, qué día y a qué hora envía el asistente el informe de bicicletas que esperan piezas?",
+   "gold": "to Marta Okonjo, every Friday at 17:00",
+   "accept": [
+    "marta",
+    "friday|viernes",
+    "(5\\s*p\\.?\\s*m|17[:.]00)"
+   ],
+   "reject": [
+    "declan"
+   ]
+  },
+  {
+   "id": "§1.q10",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Do kiedy trzeba wysłać wyceny na wiosenny sezon serwisowy?",
+   "gold": "by 15 March",
+   "accept": [
+    "\\b15\\b",
+    "mar"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q1",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "When exactly is the elevator in Building 3 out of service?",
+   "gold": "from 7 December 8:00 to 9 December 18:00",
+   "accept": [
+    "\\b7\\b",
+    "\\b9\\b",
+    "(8(:00)?\\s*a\\.?\\s*m|0?8:00)",
+    "(6(:00)?\\s*p\\.?\\s*m|18:00)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q2",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "What is the total cost of the elevator repairs?",
+   "gold": "186,400 yuan",
+   "accept": [
+    "186[,.\\s]?400"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q3",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "How much of the total repair cost is paid by the owners of the two buildings (not the public maintenance fund)?",
+   "gold": "36,400 yuan",
+   "accept": [
+    "36[,.\\s]?400"
+   ],
+   "reject": [
+    "186[,.\\s]?400\\s*$"
+   ]
+  },
+  {
+   "id": "§2.q4",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "Based on the average share per household, roughly how many households are paying for the repairs?",
+   "gold": "about 140",
+   "accept": [
+    "\\b140\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q5",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "送餐和协助搬运的登记截止时间是什么？",
+   "gold": "4 December, 5 pm (17:00)",
+   "accept": [
+    "\\b4\\b",
+    "(5(:00)?\\s*p\\.?\\s*m|17:00)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q6",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "联系人是谁？电话号码是多少？",
+   "gold": "property manager Zhao Liqun, 0571-8836 2754",
+   "accept": [
+    "zhao|赵立群",
+    "0571\\W*8836\\W*2754"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q7",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "What happens if someone at home needs urgent medical care while the elevator is under maintenance?",
+   "gold": "call the duty line; workers temporarily restore the elevator once within 20 minutes",
+   "accept": [
+    "20\\s*min|20分钟",
+    "once|one\\s+time|temporar|临时"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q8",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "¿Cuánto cuesta la entrega de cada comida y quién no paga esa tarifa?",
+   "gold": "3 yuan per meal; residents over 80 are exempt",
+   "accept": [
+    "\\b3\\b",
+    "\\b80\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q9",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "A 75-year-old resident with limited mobility orders meal delivery, 2 meals a day for 4 days. What is the total delivery fee?",
+   "gold": "24 yuan",
+   "accept": [
+    "\\b24\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q1",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer asks for a discount of exactly 40 euros. May the assistant grant it on its own?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": [
+    "^\\W*no\\b"
+   ]
+  },
+  {
+   "id": "§3.q2",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Klient prosi o rabat 55 euro. Czy asystent może go przyznać sam? Jeśli nie, kto musi to zatwierdzić?",
+   "gold": "no; needs written approval from Nuria Valdés, head of operations",
+   "accept": [
+    "^\\W*no\\b",
+    "nuria"
+   ],
+   "reject": [
+    "iker"
+   ]
+  },
+  {
+   "id": "§3.q3",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer has a question about an unpaid invoice. May the assistant copy Iker on the reply?",
+   "gold": "no; Iker must never be contacted or copied about payments or invoices",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes"
+   ]
+  },
+  {
+   "id": "§3.q4",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "船长主管（主要的船长）是谁？",
+   "gold": "Iker Galarza",
+   "accept": [
+    "iker"
+   ],
+   "reject": [
+    "nuria"
+   ]
+  },
+  {
+   "id": "§3.q5",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "The forecast for Saturday shows wind of 28 knots. Should the assistant confirm the departure?",
+   "gold": "no; never confirm if wind is above 25 knots",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q6",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Un grupo de 10 personas cancela con 5 días de antelación una reserva de 1.200 €. ¿Cuánto se reembolsa?",
+   "gold": "600 euros (50%, group of more than eight)",
+   "accept": [
+    "\\b600\\b"
+   ],
+   "reject": [
+    "1[.,]?200\\s*(€|eur)"
+   ]
+  },
+  {
+   "id": "§3.q7",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A group of 6 cancels 4 days before departure a booking of 900 euros. How much is refunded?",
+   "gold": "900 euros, full refund",
+   "accept": [
+    "\\b900\\b|full|complet"
+   ],
+   "reject": [
+    "\\b450\\b"
+   ]
+  },
+  {
+   "id": "§3.q8",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer emails that a crew member fell overboard. What must the assistant do?",
+   "gold": "call the port duty line itself at 965 840 316; tell the customer to put on life jackets and turn on the radio on channel 16",
+   "accept": [
+    "965\\W*840\\W*316",
+    "life\\s*jacket|lifejacket|chaleco|life\\s*vest",
+    "\\b16\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q9",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "By when must summer-season booking requests be answered?",
+   "gold": "before 30 April",
+   "accept": [
+    "\\b30\\b",
+    "apr|abr"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q10",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "To whom, on which day and at what time does the assistant send the weekly bookings report?",
+   "gold": "to Nuria Valdés, every Monday at 8:00",
+   "accept": [
+    "nuria",
+    "monday|lunes",
+    "(8(:00)?\\s*a\\.?\\s*m|0?8:00)"
+   ],
+   "reject": [
+    "iker"
+   ]
+  },
+  {
+   "id": "§4.q1",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer wants to move a visit by exactly 5 working days. May the assistant do it on its own?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": [
+    "^\\W*no\\b"
+   ]
+  },
+  {
+   "id": "§4.q2",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "Un cliente quiere aplazar la visita 7 días laborables. ¿Puede el asistente hacerlo solo? Si no, ¿quién debe aprobarlo?",
+   "gold": "no; needs approval from Halina Wróbel, the workshop manager",
+   "accept": [
+    "^\\W*no\\b",
+    "halina"
+   ],
+   "reject": [
+    "bartosz"
+   ]
+  },
+  {
+   "id": "§4.q3",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer complains about a bad tuning. May the assistant copy Bartosz on the reply?",
+   "gold": "no; Bartosz must never be contacted or copied about complaints",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes"
+   ]
+  },
+  {
+   "id": "§4.q4",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Is Halina Wróbel the piano tuner? If not, who is the main tuner?",
+   "gold": "no; she is the workshop manager; the main tuner is Bartosz Lis",
+   "accept": [
+    "^\\W*no\\b",
+    "bartosz"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q5",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A private customer cancels a standard tuning 10 hours before the appointment. How much is the cancellation fee?",
+   "gold": "105 zł (30% of 350 zł)",
+   "accept": [
+    "\\b105\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q6",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A music school cancels a standard tuning 10 hours before the appointment. How much does it pay?",
+   "gold": "nothing (0 zł) – music schools are exempt",
+   "accept": [
+    "\\b0\\b|nothing|no\\s+fee|none|free|zero|not\\s+pay"
+   ],
+   "reject": [
+    "\\b105\\b"
+   ]
+  },
+  {
+   "id": "§4.q7",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "A customer 18 km outside the Toruń city limit orders a standard tuning. What is the total price including travel?",
+   "gold": "386 zł",
+   "accept": [
+    "\\b386\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q8",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Klient pisze, że fortepian przewrócił się podczas naprawy i przygniótł pomocnika. Co musi zrobić asystent?",
+   "gold": "call the workshop duty number itself at 604 318 275; tell the customer not to lift or move the instrument until help arrives and to call 112 if injured",
+   "accept": [
+    "604\\W*318\\W*275",
+    "lift|move|podnos|przesuw"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q9",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "Od jakiego dokładnie zdania musi zaczynać się każda wiadomość z potwierdzeniem wizyty?",
+   "gold": "\"Dziękujemy za zaufanie do pracowni Kamerton.\"",
+   "accept": [
+    "dzi[eę]kujemy\\s+za\\s+zaufanie",
+    "kamerton"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q10",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "客户要求调音师准确在上午10点到达，助手可以承诺吗？",
+   "gold": "no; only a two-hour window may be given",
+   "accept": [
+    "^\\W*no\\b",
+    "(two|2)[-\\s]*hour"
+   ],
+   "reject": []
+  }
+ ]
+}

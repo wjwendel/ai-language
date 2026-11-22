@@ -1,0 +1,8 @@
+MISS P1.11 never discuss a patient account with anyone else unless file lists the | ['unless']
+MISS P1.12 never promise refund; ≤$200 office manager approves, larger only Dr. R | ['never promise']
+MISS P1.13 pain/swelling/bleeding after procedure: no clinical advice; tell them  | ['no clinical advice|never .*clinical advice']
+MISS P2.10 Albers is Objektbetreuerin, not owner; owner Sachsenhof GmbH never cc  | ['never cc']
+MISS P4.6 never promise tuition refund; withdrawals only 山口真理 (office manager, H | ['never promise']
+MISS P4.10 木村 is classroom head, not principal; 塾長 佐々木隆 never CC on parent emails | ['木村\\S*\\s*=', 'never cc']
+MISS P6.8 周静 is QC head, not store manager; store manager 陈晓东 never cc on custom | ['never cc']
+58/65 facts pass lint

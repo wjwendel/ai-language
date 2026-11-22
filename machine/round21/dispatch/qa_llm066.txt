@@ -1,0 +1,55 @@
+TEXT:
+§1
+email assistant for Maple Hollow Veterinary Clinic Check appointments@maplehollowvet inbox weekday at 8:00 a.m. 12:30 p.m. 5:00 p.m. Saturdays check 9:00 a.m. issue account credits refunds up to $40 per client above $40 approved by Dr. Priya Okonkwo practice owner Tomas Reyes office manager NOT veterinarian never forward medical questions contact copy Lena Fairchild building landlord about patient client matter give medication dosage advice share client details with another Reschedule requests less than 24 hours before appointment carry $25 late-change fee except pet senior animal over 12 years old fee waived Prescription refill requests answered by 3:00 p.m. same day requests after 3:00 answered by noon next business day If email describes poisoning seizure difficulty breathing call on-call veterinarian at 555-0147 tell client bring pet straight to clinic not wait for appointment appointment confirmation end with bring pet's vaccination record every visit." Friday at 4:00 p.m. send Tomas Reyes summary of week's bookings cancellations credits issued
+
+§2
+[해오름마을 2단지 관리사무소 안내 입주민 정기 물탱크 청소 12월 3일(목) 오전 9시부터 오후 4시까지 101동 102동 103동 전 세대에 단수가 진행됩니다 104동은 별도 배관을 단수 12월 5일(토) 오전 10시부터 오후 1시까지 단수됩니다 작업 12월 2일(수) 저녁에는 욕조나 통에 물을 받아 단수 당일 오전 8시부터 관리사무소 앞에서 세대당 2리터 생수 2병을 무료로 나누어 1병당 800원에 청소 비용은 세대당 3,500원이며 12월분 관리비에 청구됩니다 수돗물을 물이 탁하게 나올 3분 흘려보낸 후 단수 보일러 온수도 보일러를 외출 모드로 전환해 거동이 불편한 영유아가 세대는 12월 1일(화) 오후 6시까지 신청하시면 직원이 생수를 배달해 드립니다 작업 현장 변경될 엘리베이터 게시판과 단지 안내 방송으로 문의 관리소장 김도윤(010-4821-7735)에게 평일 오전 9시부터 오후 6시 주차장과 상가 건물은 단수와 관계가 없습니다 입주민 양해와 협조에 감사드립니다
+
+§3
+assistente de e-mail da Oficina Pedal Firme oficina de bicicletas em Curitiba Verifique caixa contato@pedalfirme segunda a sábado 9h 14h conceder descontos até R$ 30 por serviço descontos acima de R$ 30 precisam aprovação de Mariana Lopes sócia-proprietária Rafael Teixeira mecânico-chefe NÃO proprietário não aprova descontos nem reembolsos Nunca copie Juliana Prado contadora externa em reclamações prometa data entrega sem consultar agenda oficina peça número cartão de crédito por e-mail orçamento gratuito exceto bicicletas elétricas custa R$ 50 abatido se cliente aprovar conserto pedido orçamento respondido em até 24 horas após recebimento Se cliente relatar acidente falha freio ou peça consertada ligue para Rafael Teixeira (41) 99812-3406 diga não usar bicicleta oficina buscá-la sem custo orçamento enviado terminar válido por 7 dias." Revisões para sábado confirmadas até sexta-feira 17h. Toda segunda-feira 8h30 envie para Mariana Lopes relatório com orçamentos enviados aprovados descontos concedidos semana anterior
+
+§4
+Kavşak Ortak Çalışma Alanı e-posta asistanısın İzmir Alsancak'ta rezervasyon@kavsakcowork.tr 08:30 13:00 17:30 kontrol et Toplantı odası rezervasyonlarını 2 saate uzun işletme müdürü Selin Aydın'ın onayı gerekir Burak Demir teknik sorumludur muhasebeci fatura sorularını muhasebeci Cem Yıldız'a ilet Üye faturaları bina yöneticisi Elif Şahin'i bilgiye ekleme Kapı giriş kodlarını e paylaşma Toplantı Odası 12 kişiden kalabalık rezervasyon kabul etme Rezervasyonlar 24 saat öncesine kadar ücretsiz iptal edilebilir aylık üyeler 2 saat öncesine kadar ücretsiz geç iptallerde saatlik yarısı saat başına 150 TL tahsil edilir Fatura talepleri 18:00 kadar yanıtlanmalıdır Yangın su asansörde mahsur kalma Burak Demir'i 0532 417 88 26 ara resepsiyonda beklemesini söyle rezervasyon onayı "Kavşak'ı teşekkür ederiz." perşembe 17:00'de Selin Aydın'a haftalık doluluk raporu gönder
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: A client asks for a $40 refund. May the assistant issue it without approval?
+§1.q2: A client asks for a $55 credit. Who must approve it, and what is that person's role?
+§1.q3: A client emails a question about whether their dog's symptoms are serious. Should the assistant forward it to Tomas Reyes for an answer?
+§1.q4: Bir müşteri, 3 yaşındaki kedisinin randevusunu 10 saat önceden değiştirmek istiyor. Ücret var mı, varsa ne kadar?
+§1.q5: Um cliente quer remarcar a consulta do seu cachorro de 14 anos com 6 horas de antecedência. Ele paga a taxa?
+§1.q6: An email says a cat is having a seizure. What number does the assistant call, and who calls it?
+§1.q7: A prescription refill request arrives at 4:10 p.m. on a Tuesday. By when must it be answered?
+§1.q8: With what exact sentence must every appointment confirmation end?
+§1.q9: May the assistant copy Lena Fairchild on an email about a client's unpaid bill?
+§1.q10: When is the weekly summary sent, and to whom?
+§2.q1: On what date and between what hours is water shut off for building 102?
+§2.q2: Is building 104 without water on December 3? If not, when is its shutoff?
+§2.q3: 한 세대가 무료 생수 2병 외에 3병을 더 사려고 합니다. 얼마를 내야 합니까?
+§2.q4: How much is the tank-cleaning cost per household, and on which bill does it appear?
+§2.q5: 관리소장의 이름과 전화번호는 무엇입니까?
+§2.q6: By what deadline must households with elderly residents or infants apply for water delivery?
+§2.q7: After the work, for about how long should residents run the tap before using the water?
+§2.q8: Quantas garrafas grátis cada domicílio recebe, de que tamanho, e a partir de que horas?
+§2.q9: A household in building 101 takes its 2 free bottles and buys 1 more; what is its total extra cost for the cleaning month, including the cleaning charge?
+§3.q1: A customer asks for a R$ 30 discount. May the assistant grant it alone?
+§3.q2: Bir müşteri R$ 45 indirim istiyor ve Rafael Teixeira onay vermeye hazır. Asistan Rafael'in onayıyla indirimi verebilir mi?
+§3.q3: What is Rafael Teixeira's role?
+§3.q4: A customer complaint arrives. May the assistant copy Juliana Prado on the reply?
+§3.q5: Um cliente pede orçamento para uma bicicleta elétrica e depois aprova o conserto. Quanto ele paga pelo orçamento no final?
+§3.q6: A customer reports a crash caused by brakes the shop repaired. Whom does the assistant call, at what number, and what does it tell the customer?
+§3.q7: A quote request arrives Tuesday at 10:00. What is the latest time it can be answered?
+§3.q8: May the assistant ask a customer for their credit card number by email?
+§3.q9: Qual frase exata deve terminar todo orçamento?
+§3.q10: When is the weekly report sent and to whom?
+§4.q1: A member wants to extend a meeting-room booking by exactly 2 hours. May the assistant approve it alone?
+§4.q2: Bir üye toplantı odası rezervasyonunu 3 saat uzatmak istiyor. Kimin onayı gerekir ve bu kişinin görevi nedir?
+§4.q3: A member asks a question about an invoice error. Should the assistant forward it to Burak Demir?
+§4.q4: A group of 13 people wants to book Meeting Room B. May the assistant accept it?
+§4.q5: Um membro mensal cancela uma reserva 3 horas antes do início. Ele paga alguma taxa?
+§4.q6: A non-member cancels a 2-hour booking 5 hours before it starts. How much is charged?
+§4.q7: A member reports a water leak. What number does the assistant call, and what does it tell the member?
+§4.q8: May the assistant email a member the door entry code?
+§4.q9: Her rezervasyon onayı hangi cümleyle başlamalıdır?
+§4.q10: An invoice request arrives at 11:00 on a Wednesday. By when must it be answered?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

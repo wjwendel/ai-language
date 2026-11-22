@@ -1,0 +1,4416 @@
+{
+ "rows": [
+  {
+   "method": "mnc13",
+   "id": "§1.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1st business day each month 10:00 Eastern",
+   "gold": "First business day of each month, 10:00 a.m. Eastern",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§1.en2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Grace Liu, accounting, releases payments",
+   "gold": "No; Grace Liu (accounting)",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§1.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Daniel Brooks, operations director",
+   "gold": "Daniel Brooks, operations director",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§1.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (only over $5,000)",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§1.en5",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "may: fix misspelled vendor name in sheet; never: edit invoice amounts or due dates",
+   "gold": "Name: yes. Due date: no",
+   "override": "may fix name + never edit due dates = name yes, due date no"
+  },
+  {
+   "method": "mnc13",
+   "id": "§1.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; email vendor once asking for it, without adding row until vendor replies",
+   "gold": "No; email the vendor once asking for it, wait for reply",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§1.en7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "call Grace 'payables lead', never 'controller'",
+   "gold": "Payables lead; controller is Helen Park",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§1.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§1.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "wait 15 min + retry, at most 2 times",
+   "gold": "Wait 15 minutes and retry, at most twice",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§1.en10",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "forward to Grace without replying",
+   "gold": "No; forward to Grace without answering",
+   "override": "forward to Grace without replying = no reply"
+  },
+  {
+   "method": "mnc13",
+   "id": "§1.en11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "every Fri 12:00 send Daniel summary of invoices waiting for approval",
+   "gold": "Summary of invoices waiting for approval, to Daniel",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§1.es1",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "1er día de negocio de cada mes 10:00 Horario Este",
+   "gold": "First business day of each month, 10:00 a.m. Eastern",
+   "override": "1er día hábil de cada mes 10:00 Este = correct"
+  },
+  {
+   "method": "mnc13",
+   "id": "§1.es2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; solo Grace Liu, contabilidad, libera los pagos",
+   "gold": "No; Grace Liu (accounting)",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§1.es3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Daniel Brooks, director de operaciones",
+   "gold": "Daniel Brooks, operations director",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§1.es4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (only over $5,000)",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§1.es5",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "puedes corregir un nombre de proveedor mal escrito en la hoja; nunca: cambiar la fecha de vencimiento de una factura",
+   "gold": "Name: yes. Due date: no",
+   "override": "same, Spanish"
+  },
+  {
+   "method": "mnc13",
+   "id": "§1.es6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; enviar un correo al proveedor una vez solicitando el número de orden de compra, sin agregar fila hasta que el proveedor responda",
+   "gold": "No; email the vendor once asking for it, wait for reply",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§1.es7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "llamá a Grace 'líder de pagos', nunca 'controller'",
+   "gold": "Payables lead; controller is Helen Park",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§1.es8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§1.es9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "esperar 15 min + intentar de nuevo, hasta un máximo de 2 veces",
+   "gold": "Wait 15 minutes and retry, at most twice",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§1.es10",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "enviar a Grace sin responder",
+   "gold": "No; forward to Grace without answering",
+   "override": "same, Spanish"
+  },
+  {
+   "method": "mnc13",
+   "id": "§1.es11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "cada viernes al mediodía enviar a Daniel resumen de facturas pendientes de aprobación",
+   "gold": "Summary of invoices waiting for approval, to Daniel",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§2.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The pool is closed from Mar3 to Mar14 to replace the filtration system.",
+   "gold": "Mar 3-14, replacing the filtration system",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§2.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The work costs ~R$9500 from the maintenance fund, and there is no monthly fee increase.",
+   "gold": "~R$9,500 from maintenance fund; no increase",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§2.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hydrogymnastics classes are held at Clube Atlético Vila Nova, Rua das Palmeiras 210, during the closure.",
+   "gold": "Clube Atlético Vila Nova, Rua das Palmeiras 210, same times",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§2.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The manager is Ricardo Alves.",
+   "gold": "Ricardo Alves",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§2.en5",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "The sauna stays open normally during the closure.",
+   "gold": "Yes",
+   "override": "sauna stays open = yes"
+  },
+  {
+   "method": "mnc13",
+   "id": "§2.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No guests at partner club, even with visitor pass.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§2.en7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Last year, the floor replacement was delayed 10 days because parts came from another state, so the equipment already arrived.",
+   "gold": "Floor replacement delayed 10 days (parts from another state)",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§2.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La piscina está cerrada desde el 3 de marzo hasta el 14 de marzo para reemplazar el sistema de filtración.",
+   "gold": "Mar 3-14, replacing the filtration system",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§2.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "El trabajo cuesta ~R$9500 del fondo de mantenimiento, y no hay aumento en la cuota mensual.",
+   "gold": "~R$9,500 from maintenance fund; no increase",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§2.es3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Las clases de hidrogimnasia se realizan en Clube Atlético Vila Nova, Rua das Palmeiras 210, durante el cierre.",
+   "gold": "Clube Atlético Vila Nova, Rua das Palmeiras 210, same times",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§2.es4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "El gerente es Ricardo Alves.",
+   "gold": "Ricardo Alves",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§2.es5",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "La sauna permanece abierta normalmente durante el cierre.",
+   "gold": "Yes",
+   "override": "same, Spanish"
+  },
+  {
+   "method": "mnc13",
+   "id": "§2.es6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No se permiten invitados en el club asociado, incluso con un pase de visitante.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§2.es7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "El año pasado, la reemplacemiento del piso se retrasó 10 días porque los componentes llegaron de otro estado, por lo que ya está el equipo.",
+   "gold": "Floor replacement delayed 10 days (parts from another state)",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§3.en1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Next weekend at 7 AM at home's door.",
+   "gold": "Sat Nov 22, 7 a.m., at the home door",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§3.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sat morning; arrives alone by high-speed train at ~14.",
+   "gold": "~2 p.m., by high-speed train alone",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§3.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dad.",
+   "gold": "Dad",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§3.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "小雨.",
+   "gold": "小雨",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§3.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No open fire; only their rented electric grill, 80元 /night.",
+   "gold": "No; rented electric grill, 80 yuan/night",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§3.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "120元 /person, transfer to Mom by Nov18.",
+   "gold": "120 yuan per person by Nov 18",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§3.en7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "By 16 on Sunday; late = pay extra half day.",
+   "gold": "By 4 p.m.; pay an extra half day",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§3.es1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "El próximo fin de semana a las 7 AM en la puerta de casa.",
+   "gold": "Sat Nov 22, 7 a.m., at the home door",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§3.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "El sábado por la mañana; llega solo en tren de alta velocidad alrededor de las 14.",
+   "gold": "~2 p.m., by high-speed train alone",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§3.es3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "El papá.",
+   "gold": "Dad",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§3.es4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "小雨.",
+   "gold": "小雨",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§3.es5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No pueden hacer fuego; solo pueden usar su parrilla eléctrica alquilada, 80元 /noche.",
+   "gold": "No; rented electric grill, 80 yuan/night",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§3.es6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "120元 /persona, transferir a la mamá antes del 18 de noviembre.",
+   "gold": "120 yuan per person by Nov 18",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§3.es7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Antes de las 16 el domingo; tarde = pagar un día adicional extra.",
+   "gold": "By 4 p.m.; pay an extra half day",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§4.en1",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "From Feb2",
+   "gold": "February 2",
+   "override": "Feb2 = February 2"
+  },
+  {
+   "method": "mnc13",
+   "id": "§4.en2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Lindenau",
+   "gold": "Petra Hoffmann (culture councillor)",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§4.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6 months, €2.4M",
+   "gold": "~6 months; ~€2.4M",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§4.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Bund",
+   "gold": "The federal government (Bund)",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§4.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ausweichstelle Rathaus room 104, Tue-Sat 10-18",
+   "gold": "Town hall room 104, Tue-Sat 10-18",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§4.en6",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "returns only via Rückgabekasten at Bahnhof",
+   "gold": "No; only via the return box at the station",
+   "override": "returns only via return box = no"
+  },
+  {
+   "method": "mnc13",
+   "id": "§4.en7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mahngebühren suspended until reopening",
+   "gold": "Suspended until reopening",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§4.es1",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "Desde Feb2",
+   "gold": "February 2",
+   "override": "Feb2 = February 2"
+  },
+  {
+   "method": "mnc13",
+   "id": "§4.es2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Lindenau",
+   "gold": "Petra Hoffmann (culture councillor)",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§4.es3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6 meses, €2.4M",
+   "gold": "~6 months; ~€2.4M",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§4.es4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Bund",
+   "gold": "The federal government (Bund)",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§4.es5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ausweichstelle Rathaus room 104, Tue-Sat 10-18",
+   "gold": "Town hall room 104, Tue-Sat 10-18",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§4.es6",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "sólo se pueden devolver libros en el cajón de devolución en la estación de tren",
+   "gold": "No; only via the return box at the station",
+   "override": "same, Spanish"
+  },
+  {
+   "method": "mnc13",
+   "id": "§4.es7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "las multas por retraso se suspenden hasta la reapertura",
+   "gold": "Suspended until reopening",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§5.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Each working day at 8:15",
+   "gold": "Every working day at 8:15",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§5.en2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§5.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§5.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, forward to Julien Moreau and wait for his answer",
+   "gold": "No; forward to Julien Moreau and wait",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§5.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only Claire Fabre, comptabilité, does",
+   "gold": "No; Claire Fabre (accounting)",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§5.en6",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Ask room number, without promising any discount",
+   "gold": "Ask the room number; no discount promise",
+   "override": "ask room number, no discount promise"
+  },
+  {
+   "method": "mnc13",
+   "id": "§5.en7",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "May: fix name spelling in calendar, never: change prices",
+   "gold": "Name: yes. Prices: no",
+   "override": "may fix name, never change prices"
+  },
+  {
+   "method": "mnc13",
+   "id": "§5.en8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Call Julien 'responsable de l'accueil', never 'propriétaire'",
+   "gold": "responsable de l'accueil; owner is Sophie Laurent",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§5.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, Sophie Laurent = owner; never cc Sophie on client emails",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§5.en10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "More than 20 requests waiting: warn Julien immediately",
+   "gold": "No (only more than 20)",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§5.en11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Before 17:00 send Julien list of unanswered requests",
+   "gold": "List of unanswered requests, to Julien",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§5.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Cada día de trabajo a las 8:15",
+   "gold": "Every working day at 8:15",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§5.es2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§5.es3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§5.es4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, déjalo para Julien Moreau y espera su respuesta",
+   "gold": "No; forward to Julien Moreau and wait",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§5.es5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, solo Claire Fabre, contabilidad, lo hace",
+   "gold": "No; Claire Fabre (accounting)",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§5.es6",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Pregúntale el número de habitación, sin prometer ningún descuento",
+   "gold": "Ask the room number; no discount promise",
+   "override": "same, Spanish"
+  },
+  {
+   "method": "mnc13",
+   "id": "§5.es7",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Puede corregir la ortografía de un nombre en el calendario, pero no puede cambiar los precios",
+   "gold": "Name: yes. Prices: no",
+   "override": "same, Spanish"
+  },
+  {
+   "method": "mnc13",
+   "id": "§5.es8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Llámalo 'responsable de la recepción', nunca 'propietario'",
+   "gold": "responsable de l'accueil; owner is Sophie Laurent",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§5.es9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, Sophie Laurent = dueña; nunca le envíes correos a Sophie",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§5.es10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Si hay más de 20 solicitudes pendientes: avísale a Julien inmediatamente",
+   "gold": "No (only more than 20)",
+   "override": null
+  },
+  {
+   "method": "mnc13",
+   "id": "§5.es11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Antes de las 17:00 envíale a Julien la lista de solicitudes sin respuesta",
+   "gold": "List of unanswered requests, to Julien",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "On the first business day of each month at 10:00 a.m. Eastern.",
+   "gold": "First business day of each month, 10:00 a.m. Eastern",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.en2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only Grace Liu in accounting can release payments.",
+   "gold": "No; Grace Liu (accounting)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Daniel Brooks, the operations director.",
+   "gold": "Daniel Brooks, operations director",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No.",
+   "gold": "No (only over $5,000)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.en5",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Yes, you may fix a misspelled vendor name in the sheet, but not edit invoice amounts or due dates.",
+   "gold": "Name: yes. Due date: no",
+   "override": "name yes, due date no"
+  },
+  {
+   "method": "original",
+   "id": "§1.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should email the vendor once asking for it, and don't add a row until they reply.",
+   "gold": "No; email the vendor once asking for it, wait for reply",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Payables lead, Helen Park is the controller.",
+   "gold": "Payables lead; controller is Helen Park",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, do not copy Helen on vendor emails.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Wait 15 minutes and try again, at most twice.",
+   "gold": "Wait 15 minutes and retry, at most twice",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, forward those messages to Grace without answering.",
+   "gold": "No; forward to Grace without answering",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.en11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Every Friday at noon send Daniel a summary of invoices waiting for approval.",
+   "gold": "Summary of invoices waiting for approval, to Daniel",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Cada mes, el primer día de trabajo a las 10:00 a.m. Horario Este.",
+   "gold": "First business day of each month, 10:00 a.m. Eastern",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.es2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, solo Grace Liu en Contabilidad puede liberar los pagos.",
+   "gold": "No; Grace Liu (accounting)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.es3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "De Daniel Brooks, el director de Operaciones.",
+   "gold": "Daniel Brooks, operations director",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.es4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No.",
+   "gold": "No (only over $5,000)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.es5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, puedes corregir un nombre de proveedor mal escrito en la hoja, pero no cambiar la cantidad o la fecha de vencimiento de una factura.",
+   "gold": "Name: yes. Due date: no",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.es6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, debes enviar un correo electrónico una vez al proveedor pidiendo el número de orden de compra, y no agregar una fila hasta que respondan.",
+   "gold": "No; email the vendor once asking for it, wait for reply",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.es7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Payables lead, Helen Park es la controller.",
+   "gold": "Payables lead; controller is Helen Park",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.es8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debes poner a Helen Park en copia en correos a proveedores.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.es9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Espera 15 minutos y vuelve a intentarlo, máximo dos veces.",
+   "gold": "Wait 15 minutes and retry, at most twice",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.es10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, debes enviar esos mensajes a Grace sin responder.",
+   "gold": "No; forward to Grace without answering",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.es11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Cada viernes al mediodía debes enviar un resumen de facturas pendientes de aprobación a Daniel.",
+   "gold": "Summary of invoices waiting for approval, to Daniel",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§2.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The pool is closed from March 3 to March 14 for the replacement of the filtration system.",
+   "gold": "Mar 3-14, replacing the filtration system",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§2.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The work costs around 9,500 reais and there is no increase in the monthly fee.",
+   "gold": "~R$9,500 from maintenance fund; no increase",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§2.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Aqua aerobics classes are held at the Clube Atlético Vila Nova during the closure.",
+   "gold": "Clube Atlético Vila Nova, Rua das Palmeiras 210, same times",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§2.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The manager is Ricardo Alves.",
+   "gold": "Ricardo Alves",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§2.en5",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "The sauna is open normally during the closure.",
+   "gold": "Yes",
+   "override": "sauna open = yes"
+  },
+  {
+   "method": "original",
+   "id": "§2.en6",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "Members are not allowed to bring guests to the partner club with a visitor pass.",
+   "gold": "No",
+   "override": "not allowed = no"
+  },
+  {
+   "method": "original",
+   "id": "§2.en7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Last year, the floor replacement was delayed by ten days because the parts came from another state; this time, the equipment has already arrived.",
+   "gold": "Floor replacement delayed 10 days (parts from another state)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§2.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La piscina está cerrada desde el 3 de marzo hasta el 14 de marzo para reemplazar el sistema de filtración.",
+   "gold": "Mar 3-14, replacing the filtration system",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§2.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La obra cuesta alrededor de 9,500 reales y no hay aumento en la cuota mensual.",
+   "gold": "~R$9,500 from maintenance fund; no increase",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§2.es3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Las clases de hidrogimnasia se realizan en el Clube Atlético Vila Nova durante el cierre.",
+   "gold": "Clube Atlético Vila Nova, Rua das Palmeiras 210, same times",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§2.es4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "El gerente es Ricardo Alves.",
+   "gold": "Ricardo Alves",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§2.es5",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "La sauna está abierta normalmente durante el cierre.",
+   "gold": "Yes",
+   "override": "sauna open = yes"
+  },
+  {
+   "method": "original",
+   "id": "§2.es6",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "Los socios no pueden llevar invitados al club asociado con un pase de visitante.",
+   "gold": "No",
+   "override": "not allowed = no"
+  },
+  {
+   "method": "original",
+   "id": "§2.es7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "El año pasado, la reemplazo del piso se retrasó diez días porque las piezas llegaron de otro estado; esta vez, el equipo ya llegó.",
+   "gold": "Floor replacement delayed 10 days (parts from another state)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The family meets on Saturday morning, 11月22日, at the doorstep at 7:00 AM.",
+   "gold": "Sat Nov 22, 7 a.m., at the home door",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "小林 will arrive by high-speed rail around 2:00 PM on Saturday, as he has an exam in the morning.",
+   "gold": "~2 p.m., by high-speed train alone",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "爸爸 is responsible for the tents.",
+   "gold": "Dad",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "小雨 brings the power bank and flashlight.",
+   "gold": "小雨",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.en5",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "They cannot make a campfire. They can use an electric grill that costs 80元 per night.",
+   "gold": "No; rented electric grill, 80 yuan/night",
+   "override": "no campfire, electric grill 80/night"
+  },
+  {
+   "method": "original",
+   "id": "§3.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The camp fee is 120元 per person, and it must be transferred by 11月18日.",
+   "gold": "120 yuan per person by Nov 18",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.en7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "They must leave the camp by 4:00 PM on Sunday, and they will have to pay for an extra half day if they stay late.",
+   "gold": "By 4 p.m.; pay an extra half day",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La familia se reúne el sábado por la mañana, 11月22日, en la entrada a las 7:00 AM.",
+   "gold": "Sat Nov 22, 7 a.m., at the home door",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.es2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "小林将在周六下午2:00左右到达，因为他上午有考试。",
+   "gold": "~2 p.m., by high-speed train alone",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.es3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "爸爸负责帐篷。",
+   "gold": "Dad",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.es4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "小雨带来充电宝和手电筒。",
+   "gold": "小雨",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.es5",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "他们不能生火。只能使用他们租的电烤炉，每晚80元。",
+   "gold": "No; rented electric grill, 80 yuan/night",
+   "override": "content correct; answered in Chinese instead of Spanish (language drift noted)"
+  },
+  {
+   "method": "original",
+   "id": "§3.es6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "露营费用是每人120元，必须在11月18日前转账。",
+   "gold": "120 yuan per person by Nov 18",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.es7",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "他们必须在周日下午4:00前离开露营地，如果晚了，需要支付半天的费用。",
+   "gold": "By 4 p.m.; pay an extra half day",
+   "override": "content correct; answered in Chinese instead of Spanish (language drift noted)"
+  },
+  {
+   "method": "original",
+   "id": "§4.en1",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "From February 2nd",
+   "gold": "February 2",
+   "override": "February 2nd"
+  },
+  {
+   "method": "original",
+   "id": "§4.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Kulturdezernentin Petra Hoffmann",
+   "gold": "Petra Hoffmann (culture councillor)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Roughly six months and about 2.4 million euros",
+   "gold": "~6 months; ~€2.4M",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The Bund",
+   "gold": "The federal government (Bund)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "In the Rathaus, Room 104, from Tuesday to Saturday from 10 to 18 o'clock",
+   "gold": "Town hall room 104, Tue-Sat 10-18",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only through the return slot at the train station",
+   "gold": "No; only via the return box at the station",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.en7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Late fees are suspended until the library reopens",
+   "gold": "Suspended until reopening",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Desde el 2 de febrero",
+   "gold": "February 2",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La Kulturdezernentin Petra Hoffmann",
+   "gold": "Petra Hoffmann (culture councillor)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.es3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Roughmente seis meses y unos 2,4 millones de euros",
+   "gold": "~6 months; ~€2.4M",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.es4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "El Bund",
+   "gold": "The federal government (Bund)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.es5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "En el Rathaus, Sala 104, de martes a sábado de 10 a 18 horas",
+   "gold": "Town hall room 104, Tue-Sat 10-18",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.es6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, solo a través del slot de devolución en la estación de tren",
+   "gold": "No; only via the return box at the station",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.es7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Las multas por retraso se suspenden hasta la reapertura de la biblioteca",
+   "gold": "Suspended until reopening",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "At 8:15 every business day",
+   "gold": "Every working day at 8:15",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.en2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, transmit to Julien Moreau and wait for his response",
+   "gold": "No; forward to Julien Moreau and wait",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, Claire Fabre does it",
+   "gold": "No; Claire Fabre (accounting)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.en6",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Request the room number and do not promise any discount",
+   "gold": "Ask the room number; no discount promise",
+   "override": "ask room number, no discount"
+  },
+  {
+   "method": "original",
+   "id": "§5.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, No",
+   "gold": "Name: yes. Prices: no",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call Julien 'responsible for reception', never 'owner'; the owner is Sophie Laurent",
+   "gold": "responsable de l'accueil; owner is Sophie Laurent",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No (only more than 20)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.en11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Before 5 p.m., send the list of unresponded requests to Julien",
+   "gold": "List of unanswered requests, to Julien",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "A las 8:15 de cada día laborable",
+   "gold": "Every working day at 8:15",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.es2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.es3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.es4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, transmítelo a Julien Moreau y espera su respuesta",
+   "gold": "No; forward to Julien Moreau and wait",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.es5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, solo Claire Fabre lo hace",
+   "gold": "No; Claire Fabre (accounting)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.es6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Solicita el número de habitación y no prometas ninguna reducción",
+   "gold": "Ask the room number; no discount promise",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.es7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, No",
+   "gold": "Name: yes. Prices: no",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.es8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Llámalo 'responsable de recepción' ante los clientes, nunca 'propietario'; la propietaria es Sophie Laurent",
+   "gold": "responsable de l'accueil; owner is Sophie Laurent",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.es9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.es10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No (only more than 20)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.es11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Antes de las 17:00, envía la lista de solicitudes sin respuesta a Julien",
+   "gold": "List of unanswered requests, to Julien",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "10:00 a.m. Eastern, first business day of each month",
+   "gold": "First business day of each month, 10:00 a.m. Eastern",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.en2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only Grace Liu can release payments",
+   "gold": "No; Grace Liu (accounting)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Daniel Brooks' approval is needed",
+   "gold": "Daniel Brooks, operations director",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No (only over $5,000)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, fix misspelled vendor names only; no edits to amounts or due dates",
+   "gold": "Name: yes. Due date: no",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, email vendor for PO number if missing",
+   "gold": "No; email the vendor once asking for it, wait for reply",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Payables lead; Helen Park is the controller",
+   "gold": "Payables lead; controller is Helen Park",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Wait 15 minutes if sheet is open, try twice",
+   "gold": "Wait 15 minutes and retry, at most twice",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.en10",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Do not reply to late fee threats; forward to Grace",
+   "gold": "No; forward to Grace without answering",
+   "override": "do not reply; forward to Grace"
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.en11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Send invoice summary to Daniel by Friday noon",
+   "gold": "Summary of invoices waiting for approval, to Daniel",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "10:00 a.m. Eastern, primer día de negocios de cada mes",
+   "gold": "First business day of each month, 10:00 a.m. Eastern",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.es2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, solo Grace Liu puede liberar pagos",
+   "gold": "No; Grace Liu (accounting)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.es3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Se necesita la aprobación por escrito de Daniel Brooks",
+   "gold": "Daniel Brooks, operations director",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.es4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No (only over $5,000)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.es5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, corregir un nombre de proveedor mal escrito; no editar montos ni fechas de vencimiento",
+   "gold": "Name: yes. Due date: no",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.es6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, enviar correo al proveedor por número de orden de compra si falta",
+   "gold": "No; email the vendor once asking for it, wait for reply",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.es7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Payables lead; Helen Park es el controller",
+   "gold": "Payables lead; controller is Helen Park",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.es8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.es9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Esperar 15 minutos si la hoja está abierta, intentar dos veces",
+   "gold": "Wait 15 minutes and retry, at most twice",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.es10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No responder a amenazas de recargos por demora; enviar a Grace",
+   "gold": "No; forward to Grace without answering",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.es11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Enviar resumen de facturas a Daniel cada viernes al mediodía",
+   "gold": "Summary of invoices waiting for approval, to Daniel",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The pool is closed from March 3 to March 14 for system filtration replacement.",
+   "gold": "Mar 3-14, replacing the filtration system",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The work costs 9,500 reais, which comes from the maintenance fund. The monthly fee is not mentioned as going up.",
+   "gold": "~R$9,500 from maintenance fund; no increase",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Aqua aerobics classes are held at Clube Atlético Vila Nova, at Rua das Palmeiras, 210.",
+   "gold": "Clube Atlético Vila Nova, Rua das Palmeiras 210, same times",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.en4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Ricardo Alves",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.en5",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "The sauna remains open during the closure.",
+   "gold": "Yes",
+   "override": "sauna open = yes"
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, guests are not permitted with a visitor pass.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.en7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Floor replacement delayed 10 days (parts from another state)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La piscina está cerrada desde el 3 de marzo hasta el 14 de marzo para reemplazar el sistema de filtración.",
+   "gold": "Mar 3-14, replacing the filtration system",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La obra cuesta 9,500 reales, que provienen del fondo de mantenimiento. No se menciona si sube la cuota mensual.",
+   "gold": "~R$9,500 from maintenance fund; no increase",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.es3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Las clases de hidrogimnasia se realizan en Clube Atlético Vila Nova, en Rua das Palmeiras, 210.",
+   "gold": "Clube Atlético Vila Nova, Rua das Palmeiras 210, same times",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.es4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Ricardo Alves",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.es5",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "La sauna permanece abierta durante el cierre.",
+   "gold": "Yes",
+   "override": "sauna open = yes"
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.es6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, los socios no pueden llevar invitados al club asociado con un pase de visitante.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.es7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Floor replacement delayed 10 days (parts from another state)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "They meet at 7 AM on 11月22日 at their doorstep.",
+   "gold": "Sat Nov 22, 7 a.m., at the home door",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "小林 arrives for the exam on Saturday morning and takes the high-speed train at 2 PM on Saturday.",
+   "gold": "~2 p.m., by high-speed train alone",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tents are responsible for by 帐篷爸爸.",
+   "gold": "Dad",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "小雨 brings the power bank and flashlight.",
+   "gold": "小雨",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.en5",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "They cannot make a campfire. They can use a rented electric grill for 80 yuan per night.",
+   "gold": "No; rented electric grill, 80 yuan/night",
+   "override": "no campfire, rented electric grill 80/night"
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The camp fee is 120 yuan per person, and it must be transferred before 11月18日.",
+   "gold": "120 yuan per person by Nov 18",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.en7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "They must leave the camp by 4 PM on Sunday, and there is no information about what happens if they are late.",
+   "gold": "By 4 p.m.; pay an extra half day",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Se reúnen a las 7 AM el 11月22日 en su puerta.",
+   "gold": "Sat Nov 22, 7 a.m., at the home door",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.es2",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "小林在周六上午参加考试，下午2点乘高铁。",
+   "gold": "~2 p.m., by high-speed train alone",
+   "override": "2 p.m. by high-speed train (Chinese reply; content ok)"
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.es3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Las tiendas de campaña se encargan de 帐篷爸爸.",
+   "gold": "Dad",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.es4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "小雨 trae la batería externa y la linterna.",
+   "gold": "小雨",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.es5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No pueden hacer fuego. Pueden usar un grill eléctrico alquilado por 80 yuanes por noche.",
+   "gold": "No; rented electric grill, 80 yuan/night",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.es6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La tarifa del camping es 120 yuanes por persona, y debe transferirse antes del 11月18日.",
+   "gold": "120 yuan per person by Nov 18",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.es7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Deben dejar el camping antes de las 4 PM el domingo, y no se menciona qué sucede si llegan tarde.",
+   "gold": "By 4 p.m.; pay an extra half day",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.en1",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "From February 2nd",
+   "gold": "February 2",
+   "override": "February 2nd"
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.en2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Lindenau",
+   "gold": "Petra Hoffmann (culture councillor)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6 months, 2.4 Mio. €",
+   "gold": "~6 months; ~€2.4M",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Bund",
+   "gold": "The federal government (Bund)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "im Rathaus, Raum 104, dienstags bis samstags 10-18 Uhr",
+   "gold": "Town hall room 104, Tue-Sat 10-18",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.en6",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "Rückgaben nur über Bahnhofskasten",
+   "gold": "No; only via the return box at the station",
+   "override": "returns only via station box = no"
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.en7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mahngebühren bis zur Wiedereröffnung ausgesetzt",
+   "gold": "Suspended until reopening",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Desde el 2 de febrero",
+   "gold": "February 2",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.es2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Lindenau",
+   "gold": "Petra Hoffmann (culture councillor)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.es3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6 meses, 2,4 Mio. €",
+   "gold": "~6 months; ~€2.4M",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.es4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Bund",
+   "gold": "The federal government (Bund)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.es5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "en el Rathaus, sala 104, de martes a sábado de 10 a 18 horas",
+   "gold": "Town hall room 104, Tue-Sat 10-18",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.es6",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "sólo se pueden devolver libros en la caja del tren",
+   "gold": "No; only via the return box at the station",
+   "override": "same, Spanish"
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.es7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "las multas por retraso se suspenderán hasta la reapertura",
+   "gold": "Suspended until reopening",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "At 8:15 daily",
+   "gold": "Every working day at 8:15",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.en2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.en4",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Forward to Julien Moreau",
+   "gold": "No; forward to Julien Moreau and wait",
+   "override": "forward to Julien (implies no)"
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, Claire Fabre handles refunds",
+   "gold": "No; Claire Fabre (accounting)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.en6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Report heating issues, don't promise discounts",
+   "gold": "Ask the room number; no discount promise",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.en7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, not prices",
+   "gold": "Name: yes. Prices: no",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.en8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Call Julien 'responsible of reception', not 'owner'",
+   "gold": "responsable de l'accueil; owner is Sophie Laurent",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, don't cc her",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.en10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "If over 20 pending requests",
+   "gold": "No (only more than 20)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.en11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Daily by 17:00, send Julien list of unresponded requests",
+   "gold": "List of unanswered requests, to Julien",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "A las 8:15 diariamente",
+   "gold": "Every working day at 8:15",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.es2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.es3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.es4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Sí, pero para una noche, forward to Julien Moreau",
+   "gold": "No; forward to Julien Moreau and wait",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.es5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, Claire Fabre maneja los reembolsos",
+   "gold": "No; Claire Fabre (accounting)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.es6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Reporta problemas de calefacción, no prometas descuentos",
+   "gold": "Ask the room number; no discount promise",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.es7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, no precios",
+   "gold": "Name: yes. Prices: no",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.es8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Llámalo 'responsable de recepción', no 'dueño'",
+   "gold": "responsable de l'accueil; owner is Sophie Laurent",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.es9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no la copies",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.es10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Si hay más de 20 solicitudes pendientes",
+   "gold": "No (only more than 20)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.es11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Diariamente antes de las 17:00, envía a Julien la lista de solicitudes no respondidas",
+   "gold": "List of unanswered requests, to Julien",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "On the first business day of each month at 10:00 a.m. Eastern.",
+   "gold": "First business day of each month, 10:00 a.m. Eastern",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.en2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, payments can only be released by Grace Liu.",
+   "gold": "No; Grace Liu (accounting)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Daniel Brooks's written approval is needed.",
+   "gold": "Daniel Brooks, operations director",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, it does not need Daniel Brooks's written approval.",
+   "gold": "No (only over $5,000)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.en5",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Yes, you may fix a misspelled vendor name, but not change an invoice due date.",
+   "gold": "Name: yes. Due date: no",
+   "override": "name yes, due date no"
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you should email the vendor for the purchase order number.",
+   "gold": "No; email the vendor once asking for it, wait for reply",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.en7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Refer to Grace as Grace and Daniel Brooks is the controller.",
+   "gold": "Payables lead; controller is Helen Park",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, do not copy Helen Park on a vendor email.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.en9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Do not make any changes to the Payables sheet.",
+   "gold": "Wait 15 minutes and retry, at most twice",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, do not reply to vendors threatening late fees; forward such messages to Grace.",
+   "gold": "No; forward to Grace without answering",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.en11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "You must send a summary of pending invoices to Daniel by noon every Friday.",
+   "gold": "Summary of invoices waiting for approval, to Daniel",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Se ejecuta esta rutina el primer día de negocio de cada mes a las 10:00 a.m. Eastern.",
+   "gold": "First business day of each month, 10:00 a.m. Eastern",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.es2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, los pagos solo pueden liberarse por Grace Liu.",
+   "gold": "No; Grace Liu (accounting)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.es3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Se necesita la aprobación por escrito de Daniel Brooks.",
+   "gold": "Daniel Brooks, operations director",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.es4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no necesita la aprobación por escrito de Daniel Brooks.",
+   "gold": "No (only over $5,000)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.es5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, puedes corregir un nombre de proveedor mal escrito, pero no cambiar la fecha de vencimiento de una factura.",
+   "gold": "Name: yes. Due date: no",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.es6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, debes enviar un correo electrónico al proveedor para obtener el número de orden de compra.",
+   "gold": "No; email the vendor once asking for it, wait for reply",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.es7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Debes referirte a Grace como Grace y Daniel Brooks es el controller.",
+   "gold": "Payables lead; controller is Helen Park",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.es8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no puedes poner en copia a Helen Park en un correo a un proveedor.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.es9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No hagas cambios en la hoja Payables.",
+   "gold": "Wait 15 minutes and retry, at most twice",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.es10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debes responder a los proveedores que amenazan con recargos por demora; envía esos mensajes a Grace.",
+   "gold": "No; forward to Grace without answering",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.es11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Debes enviar un resumen de las facturas pendientes a Daniel al mediodía cada viernes.",
+   "gold": "Summary of invoices waiting for approval, to Daniel",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The pool is closed from March 3 to March 14 for the replacement of the filtration system.",
+   "gold": "Mar 3-14, replacing the filtration system",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The work costs around 9.500 reais and the monthly fee does not increase.",
+   "gold": "~R$9,500 from maintenance fund; no increase",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Aqua aerobics classes are held at the Clube Atlético Vila Nova during the closure.",
+   "gold": "Clube Atlético Vila Nova, Rua das Palmeiras 210, same times",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.en4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Ricardo Alves",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.en5",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "The sauna remains open during the closure.",
+   "gold": "Yes",
+   "override": "sauna open = yes"
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.en6",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "It is not allowed to bring guests to the partner club with a visitor pass.",
+   "gold": "No",
+   "override": "not allowed = no"
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.en7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Floor replacement delayed 10 days (parts from another state)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La piscina está cerrada desde el 3 de marzo hasta el 14 de marzo para reemplazar el sistema de filtración.",
+   "gold": "Mar 3-14, replacing the filtration system",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La obra cuesta alrededor de 9.500 reales y la cuota mensual no aumenta.",
+   "gold": "~R$9,500 from maintenance fund; no increase",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.es3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Las clases de hidrogimnasia se realizan en el Clube Atlético Vila Nova durante el cierre.",
+   "gold": "Clube Atlético Vila Nova, Rua das Palmeiras 210, same times",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.es4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Ricardo Alves",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.es5",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "La sauna permanece abierta durante el cierre.",
+   "gold": "Yes",
+   "override": "sauna open = yes"
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.es6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No se permite llevar invitados al club asociado con un pase de visitante.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.es7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Floor replacement delayed 10 days (parts from another state)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.en1",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "The family meets at 7 AM on Saturday at the doorstep.",
+   "gold": "Sat Nov 22, 7 a.m., at the home door",
+   "override": "Saturday 7 AM at door (date omitted, day given)"
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.en2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "小林 has an exam in the morning and arrives around 2 PM on his own.",
+   "gold": "~2 p.m., by high-speed train alone",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "爸爸 is responsible for the tents.",
+   "gold": "Dad",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "小雨 needs to bring the charging bank and flashlight.",
+   "gold": "小雨",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.en5",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "They cannot make a campfire; they can only rent an electric grill for 80 yuan per night.",
+   "gold": "No; rented electric grill, 80 yuan/night",
+   "override": "no campfire, electric grill 80/night"
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The camp fee is 120 yuan per person, which must be paid before November 18th.",
+   "gold": "120 yuan per person by Nov 18",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.en7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "They must leave the camp by 4 PM on Sunday; otherwise, they will have to pay for half a day.",
+   "gold": "By 4 p.m.; pay an extra half day",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.es1",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "La familia se reúne a las 7 AM el sábado en el umbral de la puerta.",
+   "gold": "Sat Nov 22, 7 a.m., at the home door",
+   "override": "same, Spanish"
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.es2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "小林  tiene un examen por la mañana y llega alrededor de las 2 PM por su cuenta.",
+   "gold": "~2 p.m., by high-speed train alone",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.es3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "El padre se encarga de las tiendas de campaña.",
+   "gold": "Dad",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.es4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "小雨 需要带充电宝和手电筒。",
+   "gold": "小雨",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.es5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No pueden hacer fuego; solo pueden alquilar un grill eléctrico por 80 yuan por noche.",
+   "gold": "No; rented electric grill, 80 yuan/night",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.es6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La tarifa del camping es 120 yuan por persona, que debe transferirse antes del 18 de noviembre.",
+   "gold": "120 yuan per person by Nov 18",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.es7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Deben dejar el camping antes de las 4 PM el domingo; de lo contrario, tendrán que pagar por medio día.",
+   "gold": "By 4 p.m.; pay an extra half day",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "From 2. February",
+   "gold": "February 2",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.en2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Die Stadt Lindenau",
+   "gold": "Petra Hoffmann (culture councillor)",
+   "override": "city, not Petra Hoffmann"
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "about six months and 2.4 million euros",
+   "gold": "~6 months; ~€2.4M",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.en4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "The federal government (Bund)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "im Rathaus, Raum 104, until 18 Uhr from Tuesdays to Saturdays",
+   "gold": "Town hall room 104, Tue-Sat 10-18",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only returns are possible at the return box at the train station",
+   "gold": "No; only via the return box at the station",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.en7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mahngebühren are suspended until the re-opening",
+   "gold": "Suspended until reopening",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Desde 2 de febrero",
+   "gold": "February 2",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.es2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Die Stadt Lindenau",
+   "gold": "Petra Hoffmann (culture councillor)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.es3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "seis meses y 2.4 millones de euros",
+   "gold": "~6 months; ~€2.4M",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.es4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no se menciona quién paga la mitad",
+   "gold": "The federal government (Bund)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.es5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "en el Rathaus, sala 104, hasta las 18 horas de martes a sábado",
+   "gold": "Town hall room 104, Tue-Sat 10-18",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.es6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, solo se pueden devolver libros en la caja de devoluciones del estación de tren",
+   "gold": "No; only via the return box at the station",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.es7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Las multas por retraso se suspenden hasta la reapertura",
+   "gold": "Suspended until reopening",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "At 8:15 every business day.",
+   "gold": "Every working day at 8:15",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.en2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, if dates are free.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, transmit to Julien.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.en4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, do not confirm.",
+   "gold": "No; forward to Julien Moreau and wait",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, Claire.",
+   "gold": "No; Claire Fabre (accounting)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.en6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Handle the problem, no discounts.",
+   "gold": "Ask the room number; no discount promise",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, no.",
+   "gold": "Name: yes. Prices: no",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.en8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Call Julien 'responsible for reception', not 'owner'.",
+   "gold": "responsable de l'accueil; owner is Sophie Laurent",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.en9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Not stated.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, unless over 20 requests.",
+   "gold": "No (only more than 20)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.en11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Send list of unresponded requests before 5 p.m., to Julien.",
+   "gold": "List of unanswered requests, to Julien",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "A las 8:15 de cada día laborable.",
+   "gold": "Every working day at 8:15",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.es2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, si las fechas están libres.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.es3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, transmítelo a Julien.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.es4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, no la confirmes.",
+   "gold": "No; forward to Julien Moreau and wait",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.es5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, Claire.",
+   "gold": "No; Claire Fabre (accounting)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.es6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Maneja el problema, no prometas descuentos.",
+   "gold": "Ask the room number; no discount promise",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.es7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, no.",
+   "gold": "Name: yes. Prices: no",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.es8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Llámalo 'responsable de recepción', no 'propietario'.",
+   "gold": "responsable de l'accueil; owner is Sophie Laurent",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.es9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No se dice.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.es10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, a menos que haya más de 20 solicitudes.",
+   "gold": "No (only more than 20)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.es11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Envía la lista de solicitudes sin respuesta antes de las 17:00, a Julien.",
+   "gold": "List of unanswered requests, to Julien",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "First business day each month at 10:00 a.m. Eastern",
+   "gold": "First business day of each month, 10:00 a.m. Eastern",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.en2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only Grace Liu can release payments",
+   "gold": "No; Grace Liu (accounting)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Daniel Brooks operations director",
+   "gold": "Daniel Brooks, operations director",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No (only over $5,000)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.en5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, don't edit invoice amounts or due dates",
+   "gold": "Name: yes. Due date: no",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.en6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, don't add until reply",
+   "gold": "No; email the vendor once asking for it, wait for reply",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Payables lead, Helen Park is the controller",
+   "gold": "Payables lead; controller is Helen Park",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.en8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Wait 15 minutes, try again twice",
+   "gold": "Wait 15 minutes and retry, at most twice",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, forward messages to Grace",
+   "gold": "No; forward to Grace without answering",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.en11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Send Daniel a summary of invoices waiting approval",
+   "gold": "Summary of invoices waiting for approval, to Daniel",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "El primer día de negocio de cada mes a las 10:00 a.m. Horario Este",
+   "gold": "First business day of each month, 10:00 a.m. Eastern",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.es2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, solo Grace Liu puede liberar pagos",
+   "gold": "No; Grace Liu (accounting)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.es3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Daniel Brooks, director de operaciones",
+   "gold": "Daniel Brooks, operations director",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.es4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No (only over $5,000)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.es5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, no editas los montos ni las fechas de vencimiento de las facturas",
+   "gold": "Name: yes. Due date: no",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.es6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, no añadas hasta recibir respuesta",
+   "gold": "No; email the vendor once asking for it, wait for reply",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.es7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Payables lead, Helen Park es el controller",
+   "gold": "Payables lead; controller is Helen Park",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.es8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Sí",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.es9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Espera 15 minutos, intenta de nuevo dos veces",
+   "gold": "Wait 15 minutes and retry, at most twice",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.es10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, envía los mensajes a Grace",
+   "gold": "No; forward to Grace without answering",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.es11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Envía a Daniel un resumen de las facturas pendientes de aprobación",
+   "gold": "Summary of invoices waiting for approval, to Daniel",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The pool is closed from March 3 to March 14 for system filtration work, which costs 9,500 reais.",
+   "gold": "Mar 3-14, replacing the filtration system",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.en2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "The monthly fee does not increase during the closure.",
+   "gold": "~R$9,500 from maintenance fund; no increase",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Aqua aerobics classes are held at Clube Atlético Vila Nova,Rua das Palmeiras, 210, during the closure.",
+   "gold": "Clube Atlético Vila Nova, Rua das Palmeiras 210, same times",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The manager is Ricardo Alves.",
+   "gold": "Ricardo Alves",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.en5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "The sauna is not open during the closure.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.en6",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "Members may not bring guests to the partner club with a visitor pass.",
+   "gold": "No",
+   "override": "not allowed = no"
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.en7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Last year, the floor replacement was delayed by ten days, and this time, the equipment has already arrived.",
+   "gold": "Floor replacement delayed 10 days (parts from another state)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La piscina está cerrada del 3 al 14 de marzo para trabajar en el sistema de filtración, que cuesta 9,500 reales.",
+   "gold": "Mar 3-14, replacing the filtration system",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La obra cuesta 9,500 reales y la cuota mensual no sube durante el cierre.",
+   "gold": "~R$9,500 from maintenance fund; no increase",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.es3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Las clases de hidrogimnasia se realizan en Clube Atlético Vila Nova, Rua das Palmeiras, 210, durante el cierre.",
+   "gold": "Clube Atlético Vila Nova, Rua das Palmeiras 210, same times",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.es4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "El gerente es Ricardo Alves.",
+   "gold": "Ricardo Alves",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.es5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "La sauna no está abierta durante el cierre.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.es6",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "Los socios no pueden llevar invitados al club asociado con un pase de visitante.",
+   "gold": "No",
+   "override": "not allowed = no"
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.es7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "El año pasado, la reemplazó el piso se retrasó diez días, y esta vez, el equipo ya llegó.",
+   "gold": "Floor replacement delayed 10 days (parts from another state)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.en1",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "The family meets at the doorstep on Saturday morning at 7 AM.",
+   "gold": "Sat Nov 22, 7 a.m., at the home door",
+   "override": "Saturday 7 AM at door (date omitted, day given)"
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "小林 takes the high-speed train at around 2 PM on Saturday afternoon.",
+   "gold": "~2 p.m., by high-speed train alone",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "爸爸 is responsible for the tents.",
+   "gold": "Dad",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "小雨 brings the power bank and flashlight.",
+   "gold": "小雨",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.en5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "They cannot make a campfire. They can use a generator for 80 yuan per night.",
+   "gold": "No; rented electric grill, 80 yuan/night",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.en6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "The camp fee is 120 yuan per person, and it needs to be transferred before arriving at the camp.",
+   "gold": "120 yuan per person by Nov 18",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.en7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "They must leave the camp by 4 PM on Sunday. Not stated if there are consequences for being late.",
+   "gold": "By 4 p.m.; pay an extra half day",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.es1",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "La familia se reúne en la entrada del hogar a las 7 AM del sábado.",
+   "gold": "Sat Nov 22, 7 a.m., at the home door",
+   "override": "same, Spanish"
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.es2",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "小林在周六下午大约2点乘坐高铁前往。",
+   "gold": "~2 p.m., by high-speed train alone",
+   "override": "~2 p.m. by high-speed train (Chinese reply; content ok)"
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.es3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "爸爸负责帐篷。",
+   "gold": "Dad",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.es4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "小雨带充电宝和手电筒。",
+   "gold": "小雨",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.es5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "他们不能生火。他们可以使用发电机，每晚80元。",
+   "gold": "No; rented electric grill, 80 yuan/night",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.es6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "露营费用每人120元，需要在到达营地前支付。",
+   "gold": "120 yuan per person by Nov 18",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.es7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "他们必须在周日下午4点前离开营地。如果迟到，没有说明会有怎样的后果。",
+   "gold": "By 4 p.m.; pay an extra half day",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.en1",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "From February 2nd",
+   "gold": "February 2",
+   "override": "February 2nd"
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Kulturdezernentin Petra Hoffmann",
+   "gold": "Petra Hoffmann (culture councillor)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Six months, 2.4 million euros",
+   "gold": "~6 months; ~€2.4M",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Bund",
+   "gold": "The federal government (Bund)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Im Rathaus, Raum 104, dienstags bis samstags 10 bis 18 Uhr",
+   "gold": "Town hall room 104, Tue-Sat 10-18",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.en6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes",
+   "gold": "No; only via the return box at the station",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.en7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mahngebühren are suspended until re-opening",
+   "gold": "Suspended until reopening",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Desde el 2 de febrero",
+   "gold": "February 2",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Kulturdezernentin Petra Hoffmann",
+   "gold": "Petra Hoffmann (culture councillor)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.es3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Seis meses, 2,4 millones de euros",
+   "gold": "~6 months; ~€2.4M",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.es4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Bund",
+   "gold": "The federal government (Bund)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.es5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "En el Rathaus, sala 104, de martes a sábado de 10 a 18 horas",
+   "gold": "Town hall room 104, Tue-Sat 10-18",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.es6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Sí",
+   "gold": "No; only via the return box at the station",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.es7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Las multas por retraso se suspenden hasta la reapertura",
+   "gold": "Suspended until reopening",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "At 8 h 15 on a working day",
+   "gold": "Every working day at 8:15",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.en2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, if dates are free",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, do not confirm",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, do not confirm, pass to Julien Moreau",
+   "gold": "No; forward to Julien Moreau and wait",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, Claire Fabre (accounting) does it",
+   "gold": "No; Claire Fabre (accounting)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.en6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Provide the room number, do not promise a discount",
+   "gold": "Ask the room number; no discount promise",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.en7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, do not change prices",
+   "gold": "Name: yes. Prices: no",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.en8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Call Julien 'responsible for reception', never the owner",
+   "gold": "responsable de l'accueil; owner is Sophie Laurent",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, do not copy Sophie Laurent",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.en10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes, if more than 20 requests are waiting",
+   "gold": "No (only more than 20)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.en11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Send Julien the list of requests without response before 17 h",
+   "gold": "List of unanswered requests, to Julien",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "A las 8 h 15 en un día laborable",
+   "gold": "Every working day at 8:15",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.es2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, si las fechas están libres",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.es3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no confirmes",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.es4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, pasa a Julien Moreau",
+   "gold": "No; forward to Julien Moreau and wait",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.es5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, Claire Fabre (contabilidad) lo hace",
+   "gold": "No; Claire Fabre (accounting)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.es6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Proporciona el número de la habitación, no prometas un descuento",
+   "gold": "Ask the room number; no discount promise",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.es7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, no cambies los precios",
+   "gold": "Name: yes. Prices: no",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.es8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Llama a Julien 'responsable de recepción', nunca el dueño",
+   "gold": "responsable de l'accueil; owner is Sophie Laurent",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.es9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no copies a Sophie Laurent",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.es10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Sí, si hay más de 20 solicitudes esperando",
+   "gold": "No (only more than 20)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.es11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Envía a Julien la lista de solicitudes sin respuesta antes de las 17:00",
+   "gold": "List of unanswered requests, to Julien",
+   "override": null
+  }
+ ],
+ "summary": {
+  "mnc13": {
+   "all": [
+    75,
+    86
+   ],
+   "S": [
+    30,
+    36
+   ],
+   "F": [
+    45,
+    50
+   ],
+   "en": [
+    38,
+    43
+   ],
+   "es": [
+    37,
+    43
+   ]
+  },
+  "original": {
+   "all": [
+    85,
+    86
+   ],
+   "S": [
+    36,
+    36
+   ],
+   "F": [
+    49,
+    50
+   ],
+   "en": [
+    43,
+    43
+   ],
+   "es": [
+    42,
+    43
+   ]
+  },
+  "a_terse": {
+   "all": [
+    69,
+    86
+   ],
+   "S": [
+    27,
+    36
+   ],
+   "F": [
+    42,
+    50
+   ],
+   "en": [
+    35,
+    43
+   ],
+   "es": [
+    34,
+    43
+   ]
+  },
+  "b_summarize": {
+   "all": [
+    65,
+    86
+   ],
+   "S": [
+    25,
+    36
+   ],
+   "F": [
+    40,
+    50
+   ],
+   "en": [
+    32,
+    43
+   ],
+   "es": [
+    33,
+    43
+   ]
+  },
+  "c_llmlingua2_r0.66": {
+   "all": [
+    62,
+    86
+   ],
+   "S": [
+    23,
+    36
+   ],
+   "F": [
+    39,
+    50
+   ],
+   "en": [
+    30,
+    43
+   ],
+   "es": [
+    32,
+    43
+   ]
+  }
+ }
+}

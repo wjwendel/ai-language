@@ -1,0 +1,3 @@
+{"original_r2": {"§6.q1": [1, "regex false negative: '10:00 a.m. and 4:00 p.m.' equals gold 10:00 and 16:00"]},
+ "terse_r1": {"§1.q12": [1, "regex false negative: 'open-orders summary, Thursdays (by 3pm)' is correct"]},
+ "terse_r2": {"§1.q12": [1, "regex false negative: 'open-orders summary, Thursdays (by 3pm)' is correct"]}}

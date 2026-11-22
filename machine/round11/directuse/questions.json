@@ -1,0 +1,482 @@
+{
+ "P1": [
+  {
+   "q": "When does this routine run?",
+   "sl": "¿Cuándo se ejecuta esta rutina?",
+   "gold": "Every Tuesday, 7:30 p.m. Central",
+   "accept": [
+    "(tue|mar).*7[:.]30|7[:.]30.*(tue|mar)"
+   ],
+   "type": "F",
+   "l2": "es"
+  },
+  {
+   "q": "What do you check each new sign-up's name against?",
+   "sl": "¿Con qué compruebas el nombre de cada nueva inscripción?",
+   "gold": "The Background Checks list",
+   "accept": [
+    "background|antecedentes|verificaci"
+   ],
+   "type": "F",
+   "l2": "es"
+  },
+  {
+   "q": "A new volunteer's background check is missing. Should you confirm them? What do you do?",
+   "sl": "Falta la verificación de antecedentes de un voluntario nuevo. ¿Debes confirmarlo? ¿Qué haces?",
+   "gold": "No; send the name to Marcus Bell, leave the shift open",
+   "accept": [
+    "^\\W*(no|nee|non|いいえ|ない|ません|だめ|ダメ|不可)\\b|^\\W*(いいえ|ダメ|だめ).*(marcus|bell)"
+   ],
+   "type": "S",
+   "l2": "es"
+  },
+  {
+   "q": "A shift has 2 volunteers. Does it need a reminder post? May you post it on the pantry's social accounts yourself?",
+   "sl": "Un turno tiene 2 voluntarios. ¿Necesita una publicación recordatoria? ¿Puedes publicarla tú mismo en las redes sociales de la despensa?",
+   "gold": "Yes; no, draft it and send it to Priya Shah",
+   "accept": [
+    "^\\W*(yes|s[ií]|sì|ja|はい|可能|できる|できます).*\\bno\\b.*(priya|shah)"
+   ],
+   "type": "S",
+   "l2": "es"
+  },
+  {
+   "q": "A shift has 5 volunteers. Does it need a reminder post?",
+   "sl": "Un turno tiene 5 voluntarios. ¿Necesita una publicación recordatoria?",
+   "gold": "No (only fewer than 3)",
+   "accept": [
+    "^\\W*(no|nee|non|いいえ|ない|ません|だめ|ダメ|不可)\\b|^\\W*(いいえ|ダメ|だめ)"
+   ],
+   "type": "S",
+   "l2": "es"
+  },
+  {
+   "q": "Two volunteers both agreed in writing to swap shifts. May you swap them? May you delete a volunteer from the sheet?",
+   "sl": "Dos voluntarios aceptaron por escrito cambiar de turno. ¿Puedes intercambiarlos? ¿Puedes borrar a un voluntario de la hoja?",
+   "gold": "Swap: yes. Delete: no",
+   "accept": [
+    "^\\W*(yes|s[ií]|sì|ja|はい|可能|できる|できます).*\\bno\\b"
+   ],
+   "type": "S",
+   "l2": "es"
+  },
+  {
+   "q": "A 15-year-old with a parent listed on the form signs up for a Wednesday shift. May you add them?",
+   "sl": "Un chico de 15 años con un padre indicado en el formulario se apunta a un turno del miércoles. ¿Puedes añadirlo?",
+   "gold": "No (under 16: Saturday shifts only)",
+   "accept": [
+    "^\\W*(no|nee|non|いいえ|ない|ません|だめ|ダメ|不可)\\b|^\\W*(いいえ|ダメ|だめ)"
+   ],
+   "type": "S",
+   "l2": "es"
+  },
+  {
+   "q": "Who is the director? May you copy her on volunteer emails?",
+   "sl": "¿Quién es la directora? ¿Puedes ponerla en copia en los correos a voluntarios?",
+   "gold": "Ana Torres; no",
+   "accept": [
+    "(ana|torres).*\\bno\\b"
+   ],
+   "type": "S",
+   "l2": "es"
+  },
+  {
+   "q": "What should you call Marcus Bell, and what must you never call him?",
+   "sl": "¿Cómo debes llamar a Marcus Bell y cómo no debes llamarlo nunca?",
+   "gold": "Volunteer coordinator; never director",
+   "accept": [
+    "coordinat.*direct"
+   ],
+   "type": "S",
+   "l2": "es"
+  },
+  {
+   "q": "52 people signed up for one Saturday. What must you do, and before what?",
+   "sl": "52 personas se apuntaron para un sábado. ¿Qué debes hacer y antes de qué?",
+   "gold": "Tell Marcus before closing the sign-up form",
+   "accept": [
+    "marcus.*(clos|cierr)|(clos|cierr).*marcus"
+   ],
+   "type": "S",
+   "l2": "es"
+  },
+  {
+   "q": "35 people signed up for one Saturday. Must you tell Marcus?",
+   "sl": "35 personas se apuntaron para un sábado. ¿Debes avisar a Marcus?",
+   "gold": "No (only more than 40)",
+   "accept": [
+    "^\\W*(no|nee|non|いいえ|ない|ません|だめ|ダメ|不可)\\b|^\\W*(いいえ|ダメ|だめ)"
+   ],
+   "type": "S",
+   "l2": "es"
+  },
+  {
+   "q": "A volunteer emails a complaint about pantry rules. Should you reply? What do you do?",
+   "sl": "Un voluntario envía una queja sobre las normas de la despensa. ¿Debes responder? ¿Qué haces?",
+   "gold": "No; forward it to Marcus without answering",
+   "accept": [
+    "^\\W*(no|nee|non|いいえ|ない|ません|だめ|ダメ|不可)\\b|^\\W*(いいえ|ダメ|だめ).*marcus"
+   ],
+   "type": "S",
+   "l2": "es"
+  },
+  {
+   "q": "By when must you finish, and what do you send Ana on the last Tuesday of each month?",
+   "sl": "¿Para cuándo debes terminar y qué envías a Ana el último martes de cada mes?",
+   "gold": "9 p.m.; total volunteer hours",
+   "accept": [
+    "\\b(9|21)\\b.*(hour|hora)"
+   ],
+   "type": "F",
+   "l2": "es"
+  }
+ ],
+ "P2": [
+  {
+   "q": "When is the San Telmo bridge closed to traffic?",
+   "sl": "¿Cuándo se corta al tráfico el puente de San Telmo?",
+   "gold": "9 to 27 February",
+   "accept": [
+    "\\b9\\b.*27"
+   ],
+   "type": "F",
+   "l2": "es"
+  },
+  {
+   "q": "How much do the works cost, and who pays what share?",
+   "sl": "¿Cuánto cuesta la obra y quién paga qué parte?",
+   "gold": "~310,000 euros; Diputación 70%",
+   "accept": [
+    "310.*70|70.*310"
+   ],
+   "type": "F",
+   "l2": "es"
+  },
+  {
+   "q": "Where does the plaza Mayor bus stop move to?",
+   "sl": "¿A dónde se traslada la parada de la plaza Mayor?",
+   "gold": "Calle Cervantes 18",
+   "accept": [
+    "cervantes.*18"
+   ],
+   "type": "F",
+   "l2": "es"
+  },
+  {
+   "q": "Can pedestrians and bicycles cross the bridge during the closure? How?",
+   "sl": "¿Pueden cruzar peatones y bicicletas durante el corte? ¿Cómo?",
+   "gold": "Yes, by a temporary footbridge",
+   "accept": [
+    "^\\W*(yes|s[ií]|sì|ja|はい|可能|できる|できます).*(bridge|pasarela|walkway|footbridge)"
+   ],
+   "type": "F",
+   "l2": "es"
+  },
+  {
+   "q": "Who recalled a delay in 2023, and what was delayed, by how long, and why?",
+   "sl": "¿Quién recordó un retraso en 2023, qué se retrasó, cuánto y por qué?",
+   "gold": "Lucía Ferrer (concejala de Obras); north tunnel repair, 3 weeks, rain",
+   "accept": [
+    "(luc[ií]a|ferrer).*(3|three|tres)"
+   ],
+   "type": "F",
+   "l2": "es"
+  },
+  {
+   "q": "Where can residents of the Ribera neighborhood park, and how?",
+   "sl": "¿Dónde pueden aparcar los vecinos de la Ribera y cómo?",
+   "gold": "Free in the municipal car park with their resident card",
+   "accept": [
+    "(municipal).*(card|tarjeta)|(card|tarjeta).*municipal"
+   ],
+   "type": "F",
+   "l2": "es"
+  },
+  {
+   "q": "How will line 4 buses run during the closure?",
+   "sl": "¿Por dónde irán los autobuses de la línea 4 durante el corte?",
+   "gold": "Detoured via avenida de los Olmos",
+   "accept": [
+    "olmos"
+   ],
+   "type": "F",
+   "l2": "es"
+  }
+ ],
+ "P3": [
+  {
+   "q": "When is the move, and when and where do helpers meet?",
+   "sl": "引っ越しはいつで、手伝う人はいつどこに集合しますか？",
+   "gold": "Sat Dec 5; 9 a.m. at the old apartment",
+   "accept": [
+    "(12|dec|十二).*\\b9\\b|\\b9\\b.*(12|dec)|(12月5日).*9時|9時.*(12月5日)"
+   ],
+   "type": "F",
+   "l2": "ja"
+  },
+  {
+   "q": "When does the truck come?",
+   "sl": "トラックは何時に来ますか？",
+   "gold": "8:30 a.m.",
+   "accept": [
+    "8[:：.]30|8時半"
+   ],
+   "type": "F",
+   "l2": "ja"
+  },
+  {
+   "q": "When and where does 翔 arrive, and why not earlier?",
+   "sl": "翔はいつどこに来ますか？なぜもっと早く来ないのですか？",
+   "gold": "~1 p.m., directly at the new home; part-time job in the morning",
+   "accept": [
+    "(\\b1\\b|13|1時).*(new|新)|(new|新).*(\\b1\\b|13|1時)"
+   ],
+   "type": "F",
+   "l2": "ja"
+  },
+  {
+   "q": "Who provides lunch, and what is it?",
+   "sl": "お昼は誰が何を用意しますか？",
+   "gold": "健太 buys pizza",
+   "accept": [
+    "健太.*(pizza|ピザ)|(pizza|ピザ).*健太|kenta"
+   ],
+   "type": "F",
+   "l2": "ja"
+  },
+  {
+   "q": "Who brings cardboard boxes, and how many?",
+   "sl": "段ボールは誰が何枚持ってきますか？",
+   "gold": "美咲, 20",
+   "accept": [
+    "美咲.*20|20.*美咲|misaki.*20"
+   ],
+   "type": "F",
+   "l2": "ja"
+  },
+  {
+   "q": "How is the fridge moved, why, and what does it cost extra?",
+   "sl": "冷蔵庫はどう運びますか？なぜですか？追加料金はいくらですか？",
+   "gold": "By movers, because there is no elevator; 8,000 yen extra",
+   "accept": [
+    "8[,，]?000"
+   ],
+   "type": "F",
+   "l2": "ja"
+  },
+  {
+   "q": "Should helpers come by car? Why or why not?",
+   "sl": "手伝う人は車で来るべきですか？なぜですか？",
+   "gold": "No, by train: no parking; coin parking costs 400 yen/hour",
+   "accept": [
+    "^\\W*(no|nee|non|いいえ|ない|ません|だめ|ダメ|不可)\\b|^\\W*(いいえ|ダメ|だめ).*(train|電車)|(train|電車).*400|400.*(train|電車)|(電車).*(来て|で)"
+   ],
+   "type": "F",
+   "l2": "ja"
+  },
+  {
+   "q": "Whose key must be returned to whom, and by when?",
+   "sl": "誰の鍵を誰にいつまでに返す必要がありますか？",
+   "gold": "Old apartment key, to landlord 鈴木, by 6 p.m.",
+   "accept": [
+    "鈴木.*(6|18|六)|(6|18).*鈴木|suzuki"
+   ],
+   "type": "F",
+   "l2": "ja"
+  }
+ ],
+ "P4": [
+  {
+   "q": "From when, and from where to where, does the Thursday market move?",
+   "sl": "Da quando, e da dove a dove, si sposta il mercato del giovedì?",
+   "gold": "From 16 March, from piazza Garibaldi to the municipal stadium car park",
+   "accept": [
+    "16.*garibaldi.*stad|16.*stad.*garibaldi|garibaldi.*stad"
+   ],
+   "type": "F",
+   "l2": "it"
+  },
+  {
+   "q": "For how long, and why?",
+   "sl": "Per quanto tempo, e perché?",
+   "gold": "About four months; the square is being repaved",
+   "accept": [
+    "(4|four|quattro)"
+   ],
+   "type": "F",
+   "l2": "it"
+  },
+  {
+   "q": "Who explained the cost, how much is it, and who funds half?",
+   "sl": "Chi ha spiegato il costo, quanto costa e chi ne finanzia metà?",
+   "gold": "Marco Rinaldi (assessore al commercio); 780,000 euros; Regione half",
+   "accept": [
+    "(marco|rinaldi).*780.*(region)|780.*(region)"
+   ],
+   "type": "F",
+   "l2": "it"
+  },
+  {
+   "q": "How many stalls will there be, and how and when are places assigned?",
+   "sl": "Quanti banchi ci saranno, e come e quando vengono assegnati i posti?",
+   "gold": "60 instead of 75; by draw on 2 March at the town hall",
+   "accept": [
+    "60.*(draw|lottery|sorteggio|estrazione).*\\b2\\b|60.*\\b2\\b.*(draw|lottery|sorteggio)"
+   ],
+   "type": "F",
+   "l2": "it"
+  },
+  {
+   "q": "Describe the shuttle.",
+   "sl": "Descrivi la navetta.",
+   "gold": "Free, from the station every 20 minutes, 7 to 13",
+   "accept": [
+    "20.*\\b7\\b.*13|(free|gratuit).*20"
+   ],
+   "type": "F",
+   "l2": "it"
+  },
+  {
+   "q": "What happened in 2021, and what does the Comune do because of it?",
+   "sl": "Cosa è successo nel 2021, e cosa fa il Comune per questo?",
+   "gold": "Saturday market move cut sales 30% in the first weeks; occupancy tax cut 50% until July",
+   "accept": [
+    "30.*50|50.*30"
+   ],
+   "type": "F",
+   "l2": "it"
+  },
+  {
+   "q": "Are dogs allowed?",
+   "sl": "I cani sono ammessi?",
+   "gold": "Only on a leash",
+   "accept": [
+    "leash|guinzaglio"
+   ],
+   "type": "F",
+   "l2": "it"
+  }
+ ],
+ "P5": [
+  {
+   "q": "When do you open which mailbox?",
+   "sl": "Wanneer open je welke mailbox?",
+   "gold": "Every working day 9:00, appointment mailbox of De Snelle Spaak (Utrecht)",
+   "accept": [
+    "\\b9\\b.*spaak|spaak.*\\b9\\b"
+   ],
+   "type": "F",
+   "l2": "nl"
+  },
+  {
+   "q": "A customer asks for an ordinary maintenance appointment and a slot is free. May you confirm it yourself?",
+   "sl": "Een klant vraagt een gewone onderhoudsbeurt aan en er is een plek vrij. Mag je die zelf bevestigen?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*(yes|s[ií]|sì|ja|はい|可能|できる|できます)"
+   ],
+   "type": "S",
+   "l2": "nl"
+  },
+  {
+   "q": "A customer asks for an electric-bike repair and the agenda is free. May you confirm it? What do you do?",
+   "sl": "Een klant vraagt een reparatie van een elektrische fiets aan en de agenda is vrij. Mag je die bevestigen? Wat doe je?",
+   "gold": "No; forward to Femke de Vries and wait for her answer",
+   "accept": [
+    "^\\W*(no|nee|non|いいえ|ない|ません|だめ|ダメ|不可)\\b|^\\W*(いいえ|ダメ|だめ).*femke"
+   ],
+   "type": "S",
+   "l2": "nl"
+  },
+  {
+   "q": "A customer asks what a repair will cost. May you give a price? Who may?",
+   "sl": "Een klant vraagt wat een reparatie kost. Mag je een prijs noemen? Wie mag dat?",
+   "gold": "No; only Bram Visser (werkplaatschef)",
+   "accept": [
+    "^\\W*(no|nee|non|いいえ|ない|ません|だめ|ダメ|不可)\\b|^\\W*(いいえ|ダメ|だめ).*(bram|visser)"
+   ],
+   "type": "S",
+   "l2": "nl"
+  },
+  {
+   "q": "A customer complains about a repair. What do you ask for, and may you promise a free repair?",
+   "sl": "Een klant klaagt over een reparatie. Waar vraag je om, en mag je gratis herstel beloven?",
+   "gold": "Order number and a photo; no",
+   "accept": [
+    "(order|bestel).*(photo|foto).*\\b(no|nee|niet)\\b"
+   ],
+   "type": "S",
+   "l2": "nl"
+  },
+  {
+   "q": "May you fix a misspelled phone number in the agenda? May you move another customer's appointment?",
+   "sl": "Mag je een verkeerd gespeld telefoonnummer in de agenda verbeteren? Mag je een afspraak van een andere klant verplaatsen?",
+   "gold": "Phone: yes. Move: no",
+   "accept": [
+    "^\\W*(yes|s[ií]|sì|ja|はい|可能|できる|できます).*\\b(no|nee)\\b"
+   ],
+   "type": "S",
+   "l2": "nl"
+  },
+  {
+   "q": "Who is the owner? May he be copied on customer emails?",
+   "sl": "Wie is de eigenaar? Mag hij in kopie staan bij klantmails?",
+   "gold": "Joost Bakker; no",
+   "accept": [
+    "(joost|bakker).*\\b(no|nee)\\b"
+   ],
+   "type": "S",
+   "l2": "nl"
+  },
+  {
+   "q": "Toward customers, what do you call Bram, and what must you never call him?",
+   "sl": "Hoe noem je Bram tegenover klanten, en hoe mag je hem nooit noemen?",
+   "gold": "\"werkplaatschef\"; never \"eigenaar\" (owner)",
+   "accept": [
+    "werkplaats.*(eigenaar|owner)"
+   ],
+   "type": "S",
+   "l2": "nl"
+  },
+  {
+   "q": "22 bikes are waiting for repair. Should you warn Bram?",
+   "sl": "Er wachten 22 fietsen op reparatie. Moet je Bram waarschuwen?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*(yes|s[ií]|sì|ja|はい|可能|できる|できます)"
+   ],
+   "type": "S",
+   "l2": "nl"
+  },
+  {
+   "q": "9 bikes are waiting for repair. Should you warn Bram?",
+   "sl": "Er wachten 9 fietsen op reparatie. Moet je Bram waarschuwen?",
+   "gold": "No (only more than 15)",
+   "accept": [
+    "^\\W*(no|nee|non|いいえ|ない|ません|だめ|ダメ|不可)\\b|^\\W*(いいえ|ダメ|だめ)"
+   ],
+   "type": "S",
+   "l2": "nl"
+  },
+  {
+   "q": "Joost has not given written approval. May you send an email in Joost's name now?",
+   "sl": "Joost heeft geen schriftelijke goedkeuring gegeven. Mag je nu een e-mail namens Joost versturen?",
+   "gold": "No",
+   "accept": [
+    "^\\W*(no|nee|non|いいえ|ない|ません|だめ|ダメ|不可)\\b|^\\W*(いいえ|ダメ|だめ)"
+   ],
+   "type": "S",
+   "l2": "nl"
+  },
+  {
+   "q": "What do you send Femke, and by when?",
+   "sl": "Wat stuur je Femke, en vóór wanneer?",
+   "gold": "Overview of tomorrow's appointments, before 16:30",
+   "accept": [
+    "16[:.]30"
+   ],
+   "type": "F",
+   "l2": "nl"
+  }
+ ]
+}

@@ -1,0 +1,498 @@
+{
+ "written": "2026-11-20 by independent author (r29)",
+ "questions": [
+  {
+   "id": "§1.q1",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "It is 11:00 on a Tuesday. Should the assistant check the inbox now?",
+   "gold": "no — it is checked only at 8:30 and 13:30",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q2",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "An alteration-order customer asks for a $40 discount. May the assistant approve it on its own?",
+   "gold": "yes — up to $40 is within its own limit",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q3",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "An alteration-order customer asks for a $45 discount. Who must approve it?",
+   "gold": "Marta Okafor, the shop manager",
+   "accept": [
+    "marta"
+   ],
+   "reject": [
+    "lillian|dennis|priya"
+   ]
+  },
+  {
+   "id": "§1.q4",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A bespoke suit customer asks for a $30 discount. May the assistant approve it alone, and if not, who approves?",
+   "gold": "no — needs approval, approver not stated",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "marta|lillian|dennis|priya"
+   ]
+  },
+  {
+   "id": "§1.q5",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "¿Puede el asistente aprobar por sí solo un descuento de 20 dólares en un pedido de traje a medida?",
+   "gold": "yes — exactly $20 is within the bespoke limit",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q6",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer emails 'Dear owner Dennis Varga'. Who is actually the owner?",
+   "gold": "Lillian Hartwell (Dennis Varga is the head cutter)",
+   "accept": [
+    "lillian"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q7",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A returning customer with exactly three previous orders brings in a wedding dress. Is a 50% deposit required before work starts?",
+   "gold": "no — they pay on collection",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q8",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer writes that a collected jacket still had a pin inside and her son was hurt. What must the assistant do and tell her?",
+   "gold": "call the on-call line 555-0147 yourself; tell her Marta will phone within 30 minutes; and tell her to put the garment in a sealed bag and not wear it",
+   "accept": [
+    "555\\W?0147",
+    "bag"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q9",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "In that pin-injury case, who places the garment in a sealed bag: the assistant or the customer?",
+   "gold": "the customer",
+   "accept": [
+    "customer"
+   ],
+   "reject": [
+    "^\\W*(the\\s+)?assistant"
+   ]
+  },
+  {
+   "id": "§1.q10",
+   "sec": 1,
+   "type": "F",
+   "hop": 1,
+   "q": "月曜日の報告は何時に、誰に送りますか？",
+   "gold": "Monday at 9:00, to Marta Okafor",
+   "accept": [
+    "(?<!\\d)(0?9:00|9\\s*a\\.?m)",
+    "marta"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q1",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "A group wants to use the 集会室 from 14:00 to 16:00. Does it need the manager's prior permission?",
+   "gold": "no — permission is needed for the 集会室 only from 18:00",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q2",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "和室を午前10時から使う場合、管理人の事前の許可は必要ですか？",
+   "gold": "yes — the 和室 always needs permission",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q3",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "集会室を3時間、和室を2時間利用すると、料金は合計いくらですか？",
+   "gold": "2,600 yen",
+   "accept": [
+    "(?<!\\d)2\\W?600(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q4",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "A group cancels a 2-hour 集会室 booking 2 days before the date. How much do they pay?",
+   "gold": "600 yen (half of 1,200 yen)",
+   "accept": [
+    "(?<!\\d)600(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q5",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "緑ヶ丘子ども会が和室を2時間、冷暖房を使って利用します。支払う金額はいくらですか？",
+   "gold": "400 yen (heating/cooling fee only)",
+   "accept": [
+    "(?<!\\d)400(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q6",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "Who is the contact person and what is the phone number?",
+   "gold": "manager Toshio Morishita (森下敏夫), 045-312-7788",
+   "accept": [
+    "morishita|森下",
+    "312\\W?7788"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q7",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "When does booking for January 2027 open?",
+   "gold": "December 1 at 9:00",
+   "accept": [
+    "(dec(ember)?\\.?\\s*1(?!\\d)|12月1日|12/1(?!\\d))",
+    "(?<!\\d)(0?9:00|9\\s*a\\.?m|午前9)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q8",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "Is the center open on January 2?",
+   "gold": "no — closed December 29 to January 3",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q9",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "How many bookings per month may one group make at most?",
+   "gold": "4",
+   "accept": [
+    "(?<!\\d)4(?!\\d)|four"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q1",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "¿Puede el asistente ofrecer por su cuenta un descuento del 10 % en el paquete Clásico?",
+   "gold": "yes — up to 10% is allowed",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q2",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A couple asks for a 12% discount. Who must approve it?",
+   "gold": "Carmen Ibarra, the studio manager",
+   "accept": [
+    "carmen"
+   ],
+   "reject": [
+    "tom[aá]s|ra[uú]l|luc[ií]a"
+   ]
+  },
+  {
+   "id": "§3.q3",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A client writes to Tomás Herrera as the studio owner to negotiate the contract. Is Tomás the owner?",
+   "gold": "no — he is the lead photographer; the owner is Raúl Mendoza",
+   "accept": [
+    "^\\W*no\\b",
+    "ra[uú]l"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q4",
+   "sec": 3,
+   "type": "F",
+   "hop": 2,
+   "q": "What deposit is due for a Saturday wedding booked on the Clásico package?",
+   "gold": "720 euros (30% of 2,400)",
+   "accept": [
+    "(?<!\\d)720(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q5",
+   "sec": 3,
+   "type": "F",
+   "hop": 2,
+   "q": "¿Cuánto es la señal para una boda en miércoles con el paquete Clásico?",
+   "gold": "480 euros (20% of 2,400)",
+   "accept": [
+    "(?<!\\d)480(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q6",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A client has not paid any deposit yet but asks the assistant to confirm the date. May it confirm?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q7",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "During a session a client reports that a rented studio lamp is sparking. What must the assistant do and tell the client?",
+   "gold": "call the on-call technician at 612 448 903 yourself; tell the client the technician is on the way; and tell the client to unplug the equipment and not touch it",
+   "accept": [
+    "612\\W?448\\W?903",
+    "unplug|desenchuf"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q8",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "In the sparking-lamp case, who unplugs the equipment: the assistant or the client?",
+   "gold": "the client",
+   "accept": [
+    "client|customer"
+   ],
+   "reject": [
+    "^\\W*(the\\s+)?assistant"
+   ]
+  },
+  {
+   "id": "§3.q9",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "¿Puede el asistente poner en copia a Lucía Paredes en un correo sobre un pago pendiente?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q10",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "When is the weekly report sent and to whom?",
+   "gold": "Friday at 16:00, to Carmen Ibarra",
+   "accept": [
+    "friday|viernes",
+    "(4\\s*p\\.?m|16:00)",
+    "carmen"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q1",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "May the assistant approve a 200 TL shipping-fee refund on its own?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q2",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "Kargo ücreti iadesi 210 TL ise bunu kim onaylamalı?",
+   "gold": "Hülya Demir, the owner",
+   "accept": [
+    "h[uü]lya"
+   ],
+   "reject": [
+    "murat|can\\s+erdem"
+   ]
+  },
+  {
+   "id": "§4.q3",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "A customer cancels a Başlangıç Seti order after it has been shipped. How much is refunded?",
+   "gold": "1,800 TL (75% of 2,400)",
+   "accept": [
+    "(?<!\\d)1\\W?800(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q4",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "An order totalling 1,800 TL includes a live bee package. What is the shipping fee?",
+   "gold": "150 TL",
+   "accept": [
+    "(?<!\\d)150(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q5",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "Canlı arı içermeyen 1.600 TL'lik bir siparişin kargo ücreti nedir?",
+   "gold": "free (0 TL)",
+   "accept": [
+    "free|ücretsiz|(?<!\\d)0\\s*TL|no\\s+(shipping\\s+)?(fee|charge)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q6",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "It is 12:30 on a Wednesday. Should the assistant be checking the inbox now?",
+   "gold": "no — only at 10:00 and 15:00",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q7",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer writes that a delivered live bee package is damaged and bees are loose in the house. What must the assistant do and tell the customer?",
+   "gold": "call on-call beekeeper Murat Kaya at 0532 614 22 90 yourself; tell the customer Murat will arrive within an hour; and tell the customer to close the room door and open the window",
+   "accept": [
+    "614\\W?22\\W?90",
+    "door|kap[ıi]",
+    "window|pencere"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q8",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "Bu durumda odanın kapısını kim kapatmalı: asistan mı, müşteri mi?",
+   "gold": "the customer",
+   "accept": [
+    "customer|müşteri"
+   ],
+   "reject": [
+    "^\\W*(the\\s+)?assistant"
+   ]
+  },
+  {
+   "id": "§4.q9",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Murat Kaya dükkân sahibi mi?",
+   "gold": "no — he is the on-call beekeeper; the owner is Hülya Demir",
+   "accept": [
+    "^\\W*no\\b",
+    "h[uü]lya"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q10",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A cancellation request arrives at 14:30. Does the text require it to be processed the same day?",
+   "gold": "no — the same-day rule covers only requests before 14:00",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  }
+ ]
+}

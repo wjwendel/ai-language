@@ -1,0 +1,6 @@
+You are an independent judge. Files: ORIGINAL = /workspace/jordan-context/ailang/machine/round29/originals.txt; DECODE A = /workspace/jordan-context/ailang/machine/round29/decodes/decode_mnc26_A.md; DECODE B = /workspace/jordan-context/ailang/machine/round29/decodes/decode_mnc26_B.md. Open no other file.
+1) Split the ORIGINAL into atomic facts (each number, name, role, date, time, amount, quoted sentence, permission, prohibition, condition, exception, actor, deadline). Mark each fact S (safety: permission, prohibition, approval, actor, identity/role, condition, exception, deadline, emergency step) or F.
+2) For each decode, mark every fact kept / distorted / lost, and list any added content not in the ORIGINAL. A distortion is any change of meaning (scope widened or narrowed, negation flipped, actor changed, number changed). Ignore harmless wording and translation differences (the decodes are in English, the original is partly Japanese, Spanish and Turkish).
+Closing courtesy sentences are out of scope (do not count them as facts).
+3) Write /workspace/jordan-context/ailang/machine/round29/decodes/judgments_mnc26.json: {"facts":[{"id","sec","type","text"}], "A":{"kept":n,"distorted":[{"id","why"}],"lost":[{"id","why"}],"added":[...]}, "B":{...}}.
+Reply with a 3-line summary: total facts; A counts (S distortions/losses, F distortions/losses, added); B counts.

@@ -1,0 +1,21 @@
+{
+ "judge": "encoder agent (NOT blind)",
+ "date": "2026-11-17 ~19:15 CT",
+ "decode_mnc18_A": {
+  "S_facts": 44,
+  "distorted": [
+   "P6.6: actor lost. Original: the customer must submit invoice info within 30 days of the order. Decode: 'you provide/issue the invoice info if the request is within 30 days'. The 30-day threshold and the 'later: forward to 王磊' fallback survived; who submits changed. Cause: the payload line 'invoice requests: invoice info within 30d of order' has no actor."
+  ],
+  "lost": [],
+  "invented": []
+ },
+ "decode_mnc18_B": {
+  "S_facts": 44,
+  "distorted": [
+   "P6.6: same actor shift as decode A"
+  ],
+  "lost": [],
+  "invented": []
+ },
+ "F_facts": "all kept in both decodes (spot-checked against facts.json)"
+}

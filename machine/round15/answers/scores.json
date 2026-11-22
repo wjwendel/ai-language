@@ -1,0 +1,1194 @@
+{
+ "rows": [
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "register@northfieldysl.org, daily at 8pm CT",
+   "gold": "register@northfieldysl.org, daily at 8 p.m. Central"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; late registration (until Mar 7) only if the player's age group has an open roster spot",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, late registration is allowed until Mar 7 with an open spot; extra $25 late fee",
+   "gold": "Yes; $25 late fee"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "U12 (2015-2016); no, never place a player in a younger age group than birth year allows",
+   "gold": "U12; no"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "written approval from the U14 age-group coordinator, Priyanka Rao (may play up only one group)",
+   "gold": "Written approval from the U14 coordinator, Priyanka Rao"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "two (10% off each additional child, not the first)",
+   "gold": "Two (each additional child, not the first)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "50% refund (Mar 15-31)",
+   "gold": "50%"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "full refund minus $15 processing fee",
+   "gold": "Full refund minus the $15 processing fee"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; treasurer Tom Alvarez must approve",
+   "gold": "No; treasurer Tom Alvarez must approve"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; medical info is shared with coaches only if the parent ticked \"share with coach\"",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "tell the parent the player must not return to practice until a doctor signs the league's return-to-play form; notify safety officer Elena Ruiz the same day",
+   "gold": "The player must not return to practice until a doctor signs the league's return-to-play form; notify safety officer Elena Ruiz the same day"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; rosters are due by 6pm every Sunday",
+   "gold": "No (by 6 p.m.)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "reception WhatsApp and agenda@bichobom.vet, Mon-Sat at 7:30",
+   "gold": "Reception WhatsApp and agenda@bichobom.vet, Monday to Saturday at 7:30"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Dra. Fernanda Lopes (clinical director) books surgeries",
+   "gold": "No; only Dra. Fernanda Lopes books surgeries"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "tell the owner to bring the animal immediately to the 24h emergency service; notify the vet on duty; give no treatment advice by message",
+   "gold": "Tell them to bring the animal immediately to the 24-hour emergency service; notify the vet on duty; no treatment advice"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no; the R$50 fee applies only to cancellations less than 24h before",
+   "gold": "Yes, R$50"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; under 24h normally costs R$50, but an emergency with their own animal is exempt",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; you may give at most 10%; larger discounts only by manager Juliana Prado",
+   "gold": "No; only Juliana Prado can give more than 10%"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; records go only to the registered owner unless the owner gives written authorization",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; she is the manager, never call her partner (the partner is Dr. Ricardo Alves)",
+   "gold": "No; she is the manager"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "partner Dr. Ricardo Alves",
+   "gold": "Dr. Ricardo Alves (the partner)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the list is for payments overdue more than 30 days",
+   "gold": "No (more than 30 days only)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§2.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; due by 18:00 every Friday",
+   "gold": "No (by 18:00)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "announced Nov 3; to be built by Jul 2027",
+   "gold": "Nov 3; by July 2027"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₩101.5bn (70% of ₩145bn)",
+   "gold": "About ₩101.5 billion (70% of ₩145 billion)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4.2 km, 3 stations, max 2,400 passengers per hour",
+   "gold": "4.2 km, 3 stations, 2,400 people per hour"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₩15,000 (40% off the ₩25,000 adult round trip)",
+   "gold": "₩15,000 (40% off ₩25,000)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "they demand a construction halt because they fear damage to migratory bird habitat",
+   "gold": "A halt to construction; fears damage to migratory bird habitat"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by Dec 15",
+   "gold": "By Dec 15"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dec 20 at 14:00, Haeundae-gu office",
+   "gold": "Dec 20, 2 p.m., Haeundae-gu office"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§3.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "an additional 1.2 million tourists per year (also to reduce peak-season traffic congestion)",
+   "gold": "1.2 million additional tourists"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "it@polkart.pl and the ticket queue, daily at 7:00",
+   "gold": "it@polkart.pl and the ticket queue, at 7:00"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; verify only by phone on the work number from the HR system, never a number given in the ticket",
+   "gold": "No; only the work number from the HR system"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only HR head Anna Wiśniewska",
+   "gold": "Only HR head Anna Wiśniewska"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "tell them to click nothing and pay nothing; notify security admin Kamil Nowak immediately (also on weekends)",
+   "gold": "Tell them not to click or pay anything; notify Kamil Nowak immediately (also at weekends)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never hand a laptop to a third party, even with authorization (and only after the handover protocol is signed)",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the requesting department head (≤2,000 zł)",
+   "gold": "The requesting department's head"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "CFO Ewa Lis (>2,000 zł)",
+   "gold": "CFO Ewa Lis"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Kamil Nowak is the security admin; the IT head is Marek Duda",
+   "gold": "No; he is the security administrator"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "IT head Marek Duda",
+   "gold": "Marek Duda, the IT head"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the list is for tickets open more than 5 working days",
+   "gold": "No (more than 5 working days only)"
+  },
+  {
+   "f": "mnc18_r1",
+   "id": "§4.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; due by 15:00 every Friday",
+   "gold": "Yes (by 15:00)"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "register@northfieldysl.org, daily at 8pm CT",
+   "gold": "register@northfieldysl.org, daily at 8 p.m. Central"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; late registration until Mar 7 is allowed only if the age group has an open roster spot",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; late fee of $25 applies",
+   "gold": "Yes; $25 late fee"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "U12; no, never place a player in a younger age group than birth year allows",
+   "gold": "U12; no"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "written approval from the U14 age-group coordinator, Priyanka Rao (may play up only one group)",
+   "gold": "Written approval from the U14 coordinator, Priyanka Rao"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "two (each additional child; not the first)",
+   "gold": "Two (each additional child, not the first)"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "50% refund (Mar 15-31)",
+   "gold": "50%"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "full refund minus $15 processing fee",
+   "gold": "Full refund minus the $15 processing fee"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; treasurer Tom Alvarez must approve",
+   "gold": "No; treasurer Tom Alvarez must approve"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; medical info may not be shared with coaches unless the parent ticked \"share with coach\"",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "tell the parent the player must not return to practice until a doctor signs the league's return-to-play form; notify safety officer Elena Ruiz the same day",
+   "gold": "The player must not return to practice until a doctor signs the league's return-to-play form; notify safety officer Elena Ruiz the same day"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; rosters are due by 6pm every Sunday",
+   "gold": "No (by 6 p.m.)"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "reception WhatsApp and agenda@bichobom.vet, Mon-Sat at 7:30",
+   "gold": "Reception WhatsApp and agenda@bichobom.vet, Monday to Saturday at 7:30"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Dra. Fernanda Lopes (clinical director) books surgeries",
+   "gold": "No; only Dra. Fernanda Lopes books surgeries"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "tell the owner to bring the animal immediately to the 24h emergency service, give no treatment advice by message; notify the vet on duty",
+   "gold": "Tell them to bring the animal immediately to the 24-hour emergency service; notify the vet on duty; no treatment advice"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; R$50 fee (cancellation <24h, travel is not an exception)",
+   "gold": "Yes, R$50"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; emergency with own animal is exempt",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; you may give at most 10%; larger discounts only by manager Juliana Prado",
+   "gold": "No; only Juliana Prado can give more than 10%"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; records go only to the registered owner unless the owner gives written authorization",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; she is the manager, never \"partner\"",
+   "gold": "No; she is the manager"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "partner Dr. Ricardo Alves",
+   "gold": "Dr. Ricardo Alves (the partner)"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only payments overdue more than 30 days",
+   "gold": "No (more than 30 days only)"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§2.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; due by 18:00 every Friday",
+   "gold": "No (by 18:00)"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "announced Nov 3; to be built by Jul 2027",
+   "gold": "Nov 3; by July 2027"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§3.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₩101.5bn (70% of ₩145bn)",
+   "gold": "About ₩101.5 billion (70% of ₩145 billion)"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§3.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4.2 km, 3 stations, max 2,400 passengers per hour",
+   "gold": "4.2 km, 3 stations, 2,400 people per hour"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§3.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₩15,000 (40% off ₩25,000)",
+   "gold": "₩15,000 (40% off ₩25,000)"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "a construction halt, because it fears damage to migratory bird habitat",
+   "gold": "A halt to construction; fears damage to migratory bird habitat"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by Dec 15",
+   "gold": "By Dec 15"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§3.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dec 20 at 14:00 at the Haeundae-gu office",
+   "gold": "Dec 20, 2 p.m., Haeundae-gu office"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§3.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "an additional 1.2 million tourists per year",
+   "gold": "1.2 million additional tourists"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "it@polkart.pl and the ticket queue, daily at 7:00",
+   "gold": "it@polkart.pl and the ticket queue, at 7:00"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; verify only by phone on the work number from the HR system, never a number given in the ticket",
+   "gold": "No; only the work number from the HR system"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only HR head Anna Wiśniewska",
+   "gold": "Only HR head Anna Wiśniewska"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "tell them to click nothing and pay nothing; notify Kamil Nowak (security admin) immediately, also on weekends",
+   "gold": "Tell them not to click or pay anything; notify Kamil Nowak immediately (also at weekends)"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never hand a laptop to a third party, even with authorization (and only after the handover protocol is signed)",
+   "gold": "No"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the requesting department head (≤2,000 zł)",
+   "gold": "The requesting department's head"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "CFO Ewa Lis (>2,000 zł)",
+   "gold": "CFO Ewa Lis"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; he is the security admin, never \"IT head\"; the IT head is Marek Duda",
+   "gold": "No; he is the security administrator"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "IT head Marek Duda",
+   "gold": "Marek Duda, the IT head"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only tickets open more than 5 working days",
+   "gold": "No (more than 5 working days only)"
+  },
+  {
+   "f": "mnc18_r2",
+   "id": "§4.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; due by 15:00 Friday",
+   "gold": "Yes (by 15:00)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "register@northfieldysl.org, every day at 8 p.m. Central",
+   "gold": "register@northfieldysl.org, daily at 8 p.m. Central"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — late registrations (until March 7) are accepted only if the age group still has an open roster spot",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — it is a late registration (before March 7) with an open spot; a $25 late fee applies",
+   "gold": "Yes; $25 late fee"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "U12 (born 2015–2016); no — never place a player in a younger age group than their birth year allows",
+   "gold": "U12; no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "written approval from the U14 age-group coordinator, Priyanka Rao (playing up one age group)",
+   "gold": "Written approval from the U14 coordinator, Priyanka Rao"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "two — the 10% discount applies to each additional child, not the first",
+   "gold": "Two (each additional child, not the first)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "50% refund (requested between March 15 and March 31)",
+   "gold": "50%"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "full refund minus a $15 processing fee",
+   "gold": "Full refund minus the $15 processing fee"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the treasurer, Tom Alvarez, must approve it",
+   "gold": "No; treasurer Tom Alvarez must approve"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — medical information may not be shared with coaches unless the parent ticked \"share with coach\"",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "tell the parent the player must not return to practice until a doctor signs the league's return-to-play form; notify the safety officer, Elena Ruiz, the same day",
+   "gold": "The player must not return to practice until a doctor signs the league's return-to-play form; notify safety officer Elena Ruiz the same day"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — rosters are due by 6 p.m. every Sunday",
+   "gold": "No (by 6 p.m.)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the reception WhatsApp and agenda@bichobom.vet, Monday to Saturday at 7:30",
+   "gold": "Reception WhatsApp and agenda@bichobom.vet, Monday to Saturday at 7:30"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — surgeries can only be booked by Dra. Fernanda Lopes (clinical director)",
+   "gold": "No; only Dra. Fernanda Lopes books surgeries"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "tell them to bring the cat immediately to the 24-hour emergency service, give no treatment advice by message, and notify the on-call vet",
+   "gold": "Tell them to bring the animal immediately to the 24-hour emergency service; notify the vet on duty; no treatment advice"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — R$ 50, since it is less than 24 hours' notice and not an emergency with the animal",
+   "gold": "Yes, R$50"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the emergency with their own animal is an exception to the R$ 50 fee",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — you may grant up to 10%; larger discounts only by the manager Juliana Prado",
+   "gold": "No; only Juliana Prado can give more than 10%"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — not without the registered owner's written authorisation, not even to another clinic",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — she is the manager; the partner is Dr. Ricardo Alves",
+   "gold": "No; she is the manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dr. Ricardo Alves (the partner)",
+   "gold": "Dr. Ricardo Alves (the partner)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the list covers payments overdue more than 30 days",
+   "gold": "No (more than 30 days only)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — it is due by 18:00 every Friday",
+   "gold": "No (by 18:00)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "announced November 3; to be installed by July 2027",
+   "gold": "Nov 3; by July 2027"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "70% of 145 billion won = 101.5 billion won (1,015억 원)",
+   "gold": "About ₩101.5 billion (70% of ₩145 billion)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4.2 km, 3 stations, up to 2,400 people per hour",
+   "gold": "4.2 km, 3 stations, 2,400 people per hour"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "15,000 won (25,000 won adult round trip with 40% discount for ages 65+)",
+   "gold": "₩15,000 (40% off ₩25,000)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the group 'Bada Jikimi' (바다지킴이) wants construction halted because of concern about damage to migratory bird habitat",
+   "gold": "A halt to construction; fears damage to migratory bird habitat"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by December 15",
+   "gold": "By Dec 15"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 20 at 2 p.m., at Haeundae-gu District Office (해운대구청)",
+   "gold": "Dec 20, 2 p.m., Haeundae-gu office"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "an additional 1.2 million tourists per year",
+   "gold": "1.2 million additional tourists"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the it@polkart.pl inbox and the ticket queue, daily at 7:00",
+   "gold": "it@polkart.pl and the ticket queue, at 7:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — verify only by phone on the work number recorded in the HR system, never a number given in the ticket",
+   "gold": "No; only the work number from the HR system"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only the HR manager, Anna Wiśniewska",
+   "gold": "Only HR head Anna Wiśniewska"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "tell them not to click anything or pay; immediately notify Kamil Nowak (security administrator), even on the weekend",
+   "gold": "Tell them not to click or pay anything; notify Kamil Nowak immediately (also at weekends)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — a laptop may not be handed to a third party, even with authorisation (and only after the handover protocol is signed)",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the requesting department's manager (purchases up to 2,000 zł)",
+   "gold": "The requesting department's head"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the finance director, Ewa Lis (above 2,000 zł)",
+   "gold": "CFO Ewa Lis"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — he is the security administrator; the IT head is Marek Duda",
+   "gold": "No; he is the security administrator"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marek Duda (the IT head)",
+   "gold": "Marek Duda, the IT head"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the list covers tickets open longer than 5 working days",
+   "gold": "No (more than 5 working days only)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — it is due by 15:00 every Friday",
+   "gold": "Yes (by 15:00)"
+  }
+ ],
+ "summary": {
+  "mnc18_r1": {
+   "all": [
+    41,
+    42
+   ],
+   "S": [
+    31,
+    32
+   ],
+   "F": [
+    10,
+    10
+   ],
+   "hop2": [
+    22,
+    23
+   ]
+  },
+  "mnc18_r2": {
+   "all": [
+    42,
+    42
+   ],
+   "S": [
+    32,
+    32
+   ],
+   "F": [
+    10,
+    10
+   ],
+   "hop2": [
+    23,
+    23
+   ]
+  },
+  "original_r1": {
+   "all": [
+    42,
+    42
+   ],
+   "S": [
+    32,
+    32
+   ],
+   "F": [
+    10,
+    10
+   ],
+   "hop2": [
+    23,
+    23
+   ]
+  }
+ }
+}

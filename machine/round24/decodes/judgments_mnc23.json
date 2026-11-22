@@ -1,0 +1,719 @@
+{
+ "facts": [
+  {
+   "id": "§1.1",
+   "sec": "§1",
+   "type": "S",
+   "text": "Actor/role: you are the assistant for Hollins Lock & Key"
+  },
+  {
+   "id": "§1.2",
+   "sec": "§1",
+   "type": "F",
+   "text": "Business is a locksmith in Marlow Heights"
+  },
+  {
+   "id": "§1.3",
+   "sec": "§1",
+   "type": "F",
+   "text": "Inbox is bookings@hollinslock.example"
+  },
+  {
+   "id": "§1.4",
+   "sec": "§1",
+   "type": "S",
+   "text": "Check inbox every weekday at 7:30"
+  },
+  {
+   "id": "§1.5",
+   "sec": "§1",
+   "type": "S",
+   "text": "Check again weekdays at 13:00"
+  },
+  {
+   "id": "§1.6",
+   "sec": "§1",
+   "type": "S",
+   "text": "Saturdays: check only at 9:00"
+  },
+  {
+   "id": "§1.7",
+   "sec": "§1",
+   "type": "S",
+   "text": "You may book standard lock changes on your own up to $180 quote per job"
+  },
+  {
+   "id": "§1.8",
+   "sec": "§1",
+   "type": "S",
+   "text": "Anything above $180 needs approval from Dana Whitcombe"
+  },
+  {
+   "id": "§1.9",
+   "sec": "§1",
+   "type": "S",
+   "text": "Dana Whitcombe is the operations manager"
+  },
+  {
+   "id": "§1.10",
+   "sec": "§1",
+   "type": "S",
+   "text": "The $180 self-approval limit applies only to lock changes"
+  },
+  {
+   "id": "§1.11",
+   "sec": "§1",
+   "type": "S",
+   "text": "Safe openings always need Dana's approval regardless of amount"
+  },
+  {
+   "id": "§1.12",
+   "sec": "§1",
+   "type": "S",
+   "text": "Key duplication orders may be confirmed at any price"
+  },
+  {
+   "id": "§1.13",
+   "sec": "§1",
+   "type": "S",
+   "text": "Priya Okafor is the lead technician, NOT the owner"
+  },
+  {
+   "id": "§1.14",
+   "sec": "§1",
+   "type": "S",
+   "text": "Owner is Martin Hollins"
+  },
+  {
+   "id": "§1.15",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never copy Gareth Lunn on any message about pricing or invoices"
+  },
+  {
+   "id": "§1.16",
+   "sec": "§1",
+   "type": "S",
+   "text": "Gareth Lunn is the former partner"
+  },
+  {
+   "id": "§1.17",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never give out a technician's personal mobile number"
+  },
+  {
+   "id": "§1.18",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never promise an arrival time shorter than 45 minutes"
+  },
+  {
+   "id": "§1.19",
+   "sec": "§1",
+   "type": "S",
+   "text": "Refunds only within 14 days of the job"
+  },
+  {
+   "id": "§1.20",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception: faulty parts refundable within 60 days"
+  },
+  {
+   "id": "§1.21",
+   "sec": "§1",
+   "type": "S",
+   "text": "Every quote request answered by 17:00 same business day"
+  },
+  {
+   "id": "§1.22",
+   "sec": "§1",
+   "type": "S",
+   "text": "Condition: customer locked out with child or pet shut inside car or home"
+  },
+  {
+   "id": "§1.23",
+   "sec": "§1",
+   "type": "S",
+   "text": "Call emergency dispatch 555-0147 yourself immediately"
+  },
+  {
+   "id": "§1.24",
+   "sec": "§1",
+   "type": "S",
+   "text": "Then tell customer a technician is on the way"
+  },
+  {
+   "id": "§1.25",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell the customer that THEY should also call 911 if anyone is in danger (customer is the actor)"
+  },
+  {
+   "id": "§1.26",
+   "sec": "§1",
+   "type": "S",
+   "text": "Every message containing a price must end with exact sentence"
+  },
+  {
+   "id": "§1.27",
+   "sec": "§1",
+   "type": "F",
+   "text": "Quoted sentence: \"All quotes are valid for 7 days and include parts and labour.\""
+  },
+  {
+   "id": "§1.28",
+   "sec": "§1",
+   "type": "S",
+   "text": "Every Friday at 16:00 send Dana a report"
+  },
+  {
+   "id": "§1.29",
+   "sec": "§1",
+   "type": "F",
+   "text": "Report lists all open jobs and unpaid invoices"
+  },
+  {
+   "id": "§2.1",
+   "sec": "§2",
+   "type": "F",
+   "text": "Notice to residents of 푸른숲마을 2단지 apartments"
+  },
+  {
+   "id": "§2.2",
+   "sec": "§2",
+   "type": "F",
+   "text": "Reason: replacement of old water supply pipes; water shutoff per schedule"
+  },
+  {
+   "id": "§2.3",
+   "sec": "§2",
+   "type": "S",
+   "text": "Buildings 101–104동: no water 2026-12-03 (Thu)"
+  },
+  {
+   "id": "§2.4",
+   "sec": "§2",
+   "type": "S",
+   "text": "101–104동 shutoff 09:00–17:00"
+  },
+  {
+   "id": "§2.5",
+   "sec": "§2",
+   "type": "S",
+   "text": "Buildings 105동 and 106동: no water 12-04 (Fri)"
+  },
+  {
+   "id": "§2.6",
+   "sec": "§2",
+   "type": "S",
+   "text": "105–106동 shutoff 10:00–15:00"
+  },
+  {
+   "id": "§2.7",
+   "sec": "§2",
+   "type": "S",
+   "text": "Exception: 햇살어린이집, 1st floor of 106동, excluded from shutoff"
+  },
+  {
+   "id": "§2.8",
+   "sec": "§2",
+   "type": "F",
+   "text": "Daycare supplied separately by emergency water tank"
+  },
+  {
+   "id": "§2.9",
+   "sec": "§2",
+   "type": "S",
+   "text": "Residents should store water in bathtub/large containers by the evening before shutoff"
+  },
+  {
+   "id": "§2.10",
+   "sec": "§2",
+   "type": "S",
+   "text": "Distribution starts 08:00 on each shutoff day"
+  },
+  {
+   "id": "§2.11",
+   "sec": "§2",
+   "type": "F",
+   "text": "Six 2-litre bottles of water per household"
+  },
+  {
+   "id": "§2.12",
+   "sec": "§2",
+   "type": "F",
+   "text": "Water is free"
+  },
+  {
+   "id": "§2.13",
+   "sec": "§2",
+   "type": "S",
+   "text": "Pickup after verifying household head's name and building/unit number"
+  },
+  {
+   "id": "§2.14",
+   "sec": "§2",
+   "type": "F",
+   "text": "Bathhouse 청수탕 in front of complex main gate, arranged with office"
+  },
+  {
+   "id": "§2.15",
+   "sec": "§2",
+   "type": "S",
+   "text": "Discount applies only on shutoff days"
+  },
+  {
+   "id": "§2.16",
+   "sec": "§2",
+   "type": "F",
+   "text": "Adult bath fee reduced from ₩9,000 to ₩5,000"
+  },
+  {
+   "id": "§2.17",
+   "sec": "§2",
+   "type": "S",
+   "text": "Must bring confirmation slip issued by management office"
+  },
+  {
+   "id": "§2.18",
+   "sec": "§2",
+   "type": "S",
+   "text": "One slip covers all family members of the same household"
+  },
+  {
+   "id": "§2.19",
+   "sec": "§2",
+   "type": "F",
+   "text": "All affected households get ₩3,500 off December maintenance fee"
+  },
+  {
+   "id": "§2.20",
+   "sec": "§2",
+   "type": "S",
+   "text": "Rusty water possible right after works: run water 2–3 minutes before use"
+  },
+  {
+   "id": "§2.21",
+   "sec": "§2",
+   "type": "F",
+   "text": "If works delayed, announced immediately via complex broadcast and each building's notice board"
+  },
+  {
+   "id": "§2.22",
+   "sec": "§2",
+   "type": "F",
+   "text": "Inquiries to office manager 김정훈"
+  },
+  {
+   "id": "§2.23",
+   "sec": "§2",
+   "type": "F",
+   "text": "김정훈 phone 031-555-0182"
+  },
+  {
+   "id": "§2.24",
+   "sec": "§2",
+   "type": "S",
+   "text": "Inquiry hours: weekdays 09:00–18:00"
+  },
+  {
+   "id": "§2.25",
+   "sec": "§2",
+   "type": "S",
+   "text": "Emergency leaks occurring outside those hours or at night: report to security office (경비실)"
+  },
+  {
+   "id": "§2.26",
+   "sec": "§2",
+   "type": "F",
+   "text": "경비실 phone 031-555-0190"
+  },
+  {
+   "id": "§2.27",
+   "sec": "§2",
+   "type": "F",
+   "text": "Closing: sincere thanks for residents' understanding and cooperation"
+  },
+  {
+   "id": "§2.28",
+   "sec": "§2",
+   "type": "F",
+   "text": "Dated 2026-11-25"
+  },
+  {
+   "id": "§2.29",
+   "sec": "§2",
+   "type": "F",
+   "text": "Sender: 푸른숲마을 2단지 관리사무소"
+  },
+  {
+   "id": "§3.1",
+   "sec": "§3",
+   "type": "S",
+   "text": "Actor/role: you are the assistant for Bigode Feliz"
+  },
+  {
+   "id": "§3.2",
+   "sec": "§3",
+   "type": "F",
+   "text": "Business is a pet bath-and-grooming salon (banho e tosa) in Campinas"
+  },
+  {
+   "id": "§3.3",
+   "sec": "§3",
+   "type": "F",
+   "text": "Inbox agenda@bigodefeliz.example"
+  },
+  {
+   "id": "§3.4",
+   "sec": "§3",
+   "type": "S",
+   "text": "Check Tuesday–Saturday at 08:00"
+  },
+  {
+   "id": "§3.5",
+   "sec": "§3",
+   "type": "S",
+   "text": "Check Tuesday–Saturday at 14:00"
+  },
+  {
+   "id": "§3.6",
+   "sec": "§3",
+   "type": "S",
+   "text": "Mondays salon closed; do not check inbox"
+  },
+  {
+   "id": "§3.7",
+   "sec": "§3",
+   "type": "S",
+   "text": "You may grant discounts on your own up to R$25 per service"
+  },
+  {
+   "id": "§3.8",
+   "sec": "§3",
+   "type": "S",
+   "text": "Larger discounts need approval from Renata Siqueira"
+  },
+  {
+   "id": "§3.9",
+   "sec": "§3",
+   "type": "S",
+   "text": "Renata Siqueira is the financial manager"
+  },
+  {
+   "id": "§3.10",
+   "sec": "§3",
+   "type": "S",
+   "text": "Juliana Prado is head groomer, NOT the owner"
+  },
+  {
+   "id": "§3.11",
+   "sec": "§3",
+   "type": "S",
+   "text": "Owner is Fábio Mendes"
+  },
+  {
+   "id": "§3.12",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never copy Leandro Prado about schedule or clients"
+  },
+  {
+   "id": "§3.13",
+   "sec": "§3",
+   "type": "S",
+   "text": "Leandro Prado is a former employee"
+  },
+  {
+   "id": "§3.14",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never book brachycephalic dog breeds for hot-dryer drying"
+  },
+  {
+   "id": "§3.15",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never confirm appointments with less than 24h notice without first talking to Juliana"
+  },
+  {
+   "id": "§3.16",
+   "sec": "§3",
+   "type": "S",
+   "text": "Cancellations up to 12h before are free"
+  },
+  {
+   "id": "§3.17",
+   "sec": "§3",
+   "type": "S",
+   "text": "Exception: on holidays any cancellation costs R$30"
+  },
+  {
+   "id": "§3.18",
+   "sec": "§3",
+   "type": "S",
+   "text": "Artistic-grooming quote requests answered by 18:00 the day after receipt"
+  },
+  {
+   "id": "§3.19",
+   "sec": "§3",
+   "type": "S",
+   "text": "Condition: owner reports seizure, bleeding or breathing difficulty after service"
+  },
+  {
+   "id": "§3.20",
+   "sec": "§3",
+   "type": "S",
+   "text": "Call Clínica Veterinária Parceira (19) 5555-0136 yourself"
+  },
+  {
+   "id": "§3.21",
+   "sec": "§3",
+   "type": "S",
+   "text": "Tell owner to take animal immediately to clinic at Rua das Acácias, 210"
+  },
+  {
+   "id": "§3.22",
+   "sec": "§3",
+   "type": "S",
+   "text": "Every appointment confirmation must start with exact sentence"
+  },
+  {
+   "id": "§3.23",
+   "sec": "§3",
+   "type": "F",
+   "text": "Quoted sentence: \"Olá! Seu horário no Bigode Feliz está confirmado.\""
+  },
+  {
+   "id": "§3.24",
+   "sec": "§3",
+   "type": "S",
+   "text": "Every Saturday at 17:00 send Fábio a report"
+  },
+  {
+   "id": "§3.25",
+   "sec": "§3",
+   "type": "F",
+   "text": "Report: week's number of services and reviews received"
+  },
+  {
+   "id": "§4.1",
+   "sec": "§4",
+   "type": "S",
+   "text": "Actor/role: you are the assistant for Verhuisbedrijf De Zwaluw"
+  },
+  {
+   "id": "§4.2",
+   "sec": "§4",
+   "type": "F",
+   "text": "Moving company in Amersfoort"
+  },
+  {
+   "id": "§4.3",
+   "sec": "§4",
+   "type": "F",
+   "text": "Inbox planning@dezwaluw.example"
+  },
+  {
+   "id": "§4.4",
+   "sec": "§4",
+   "type": "S",
+   "text": "Check weekdays at 08:00"
+  },
+  {
+   "id": "§4.5",
+   "sec": "§4",
+   "type": "S",
+   "text": "Check weekdays at 12:30"
+  },
+  {
+   "id": "§4.6",
+   "sec": "§4",
+   "type": "S",
+   "text": "Check weekdays at 16:30"
+  },
+  {
+   "id": "§4.7",
+   "sec": "§4",
+   "type": "S",
+   "text": "You may confirm room-move quotes yourself up to €450"
+  },
+  {
+   "id": "§4.8",
+   "sec": "§4",
+   "type": "S",
+   "text": "Limit applies only to room moves"
+  },
+  {
+   "id": "§4.9",
+   "sec": "§4",
+   "type": "S",
+   "text": "Whole-house move quotes always need prior approval of Sanne Brouwer regardless of amount"
+  },
+  {
+   "id": "§4.10",
+   "sec": "§4",
+   "type": "S",
+   "text": "Sanne Brouwer is the planning coordinator"
+  },
+  {
+   "id": "§4.11",
+   "sec": "§4",
+   "type": "F",
+   "text": "Every booking: customer pays €250 deposit"
+  },
+  {
+   "id": "§4.12",
+   "sec": "§4",
+   "type": "S",
+   "text": "Cancellation <7 days before moving date: keep 40% of deposit, refund rest"
+  },
+  {
+   "id": "§4.13",
+   "sec": "§4",
+   "type": "S",
+   "text": "Exception: cancellation due to death or hospitalisation: full deposit refunded"
+  },
+  {
+   "id": "§4.14",
+   "sec": "§4",
+   "type": "S",
+   "text": "Joost Verbeek is crew leader, NOT the owner"
+  },
+  {
+   "id": "§4.15",
+   "sec": "§4",
+   "type": "S",
+   "text": "Owner is Ellen Hagedoorn"
+  },
+  {
+   "id": "§4.16",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never contact Ruud Kamphuis about storage contracts"
+  },
+  {
+   "id": "§4.17",
+   "sec": "§4",
+   "type": "S",
+   "text": "Ruud Kamphuis is the previous warehouse landlord"
+  },
+  {
+   "id": "§4.18",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never promise a Sunday move"
+  },
+  {
+   "id": "§4.19",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never mention prices other customers paid"
+  },
+  {
+   "id": "§4.20",
+   "sec": "§4",
+   "type": "S",
+   "text": "Piano-move requests must arrive at least 10 working days before moving date"
+  },
+  {
+   "id": "§4.21",
+   "sec": "§4",
+   "type": "S",
+   "text": "Condition: customer reports gas-line damage during move or anyone smells gas"
+  },
+  {
+   "id": "§4.22",
+   "sec": "§4",
+   "type": "S",
+   "text": "Immediately call fault service 0800-555-0173 yourself"
+  },
+  {
+   "id": "§4.23",
+   "sec": "§4",
+   "type": "S",
+   "text": "Tell customer everyone must leave the building"
+  },
+  {
+   "id": "§4.24",
+   "sec": "§4",
+   "type": "S",
+   "text": "Tell customer nobody may use light switches"
+  },
+  {
+   "id": "§4.25",
+   "sec": "§4",
+   "type": "S",
+   "text": "Every quote must end with exact sentence"
+  },
+  {
+   "id": "§4.26",
+   "sec": "§4",
+   "type": "F",
+   "text": "Quoted sentence: \"Deze offerte is 14 dagen geldig, inclusief btw.\""
+  },
+  {
+   "id": "§4.27",
+   "sec": "§4",
+   "type": "S",
+   "text": "Every Monday at 09:00 send Ellen an overview"
+  },
+  {
+   "id": "§4.28",
+   "sec": "§4",
+   "type": "F",
+   "text": "Overview: all moves in the next two weeks"
+  }
+ ],
+ "A": {
+  "kept": 107,
+  "distorted": [
+   {
+    "id": "§1.25",
+    "why": "Actor changed: original tells the customer to also call 911; decode says 'Also call 911 if anyone is in danger' as an instruction to the assistant."
+   },
+   {
+    "id": "§2.25",
+    "why": "Scope widened: original routes only emergency leaks (outside hours or at night) to 경비실; decode says 'At other hours, or for emergency leaks at night, contact 경비실', sending all after-hours contact there and limiting emergency leaks to night."
+   },
+   {
+    "id": "§3.2",
+    "why": "Scope narrowed: 'salão de banho e tosa' is a pet grooming salon; decode calls it a dog grooming business/salon."
+   }
+  ],
+  "lost": [
+   {
+    "id": "§2.27",
+    "why": "Closing thanks sentence omitted."
+   }
+  ],
+  "added": []
+ },
+ "B": {
+  "kept": 107,
+  "distorted": [
+   {
+    "id": "§1.25",
+    "why": "Actor changed: original tells the customer to also call 911; decode says 'Also call 911 if anyone is in danger' as an instruction to the assistant."
+   },
+   {
+    "id": "§2.25",
+    "why": "Scope widened: original routes only emergency leaks (outside hours or at night) to 경비실; decode says 'At other hours, or for emergency leaks at night, contact 경비실', sending all after-hours contact there and limiting emergency leaks to night."
+   },
+   {
+    "id": "§3.2",
+    "why": "Scope narrowed: 'salão de banho e tosa' is a pet grooming salon; decode calls it a dog grooming business/salon."
+   }
+  ],
+  "lost": [
+   {
+    "id": "§2.27",
+    "why": "Closing thanks sentence omitted."
+   }
+  ],
+  "added": []
+ },
+ "notes": "Both decodes drop the word 'exact' before the three required sentences but reproduce each sentence verbatim; counted as kept. 관리소장 rendered 'office manager' (A) vs 'management office director' (B): both acceptable. A adds harmless 'Note that' framing (no new content)."
+}

@@ -1,0 +1,3696 @@
+{
+ "rows": [
+  {
+   "f": "llm05_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Marta Quill (workshop manager) must approve",
+   "gold": "no, Marta Quill (workshop manager) must approve"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Marta Quill (workshop manager) approves",
+   "gold": "no — the $350 limit applies only to cushion re-covering; Marta Quill, the workshop manager, must approve"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lena Harlow (owner)",
+   "gold": "Lena Harlow, the owner"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "assistant calls the safety line 555-0147; customer must unplug the recliner",
+   "gold": "the assistant calls 555-0147 itself (and tells the customer a technician is on the way); the customer must unplug the recliner himself and keep everyone away from it"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; trade customers pay on delivery",
+   "gold": "no, they pay on delivery"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$360 (30%)",
+   "gold": "$360"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Friday 16:00, to Marta Quill",
+   "gold": "every Friday at 16:00 (4 pm), to Marta Quill"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "with \"Prices valid 14 days\"",
+   "gold": "with the sentence \"Prices are valid for 14 days from the date of this quote.\""
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "9:00 to 15:00 (9 am to 3 pm)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "January 12"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no — the extension only covers magazines borrowed on or after December 15; it is due two weeks after borrowing (December 24)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no, CDs and DVDs must be returned at the counter"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 31 to January 2",
+   "gold": "December 31 to January 2"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "300 yen",
+   "gold": "300 yen (5 for 200 + 2 × 50)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Miho Saeki, 044-231-5876",
+   "gold": "Miho Saeki, 044-231-5876"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "only exam students (student handbook required), 1:00 PM to 5:00 PM",
+   "gold": "only exam candidates (students preparing for entrance exams, with student ID), 13:00–17:00 (1–5 pm)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "January 5, at 10:00 AM",
+   "gold": "January 5 at 10:00 (10 am)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sophie Laurent approves",
+   "gold": "no — the 250 € limit applies only to custom pieces; Sophie Laurent (the manager) must approve every private lesson"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sophie Laurent's agreement is needed",
+   "gold": "no, Sophie Laurent's agreement is needed"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "principal ceramicist, not the manager",
+   "gold": "head ceramicist (not the manager)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "assistant calls gas emergency 01 84 62 37 90; student must leave the building without using switches",
+   "gold": "the assistant itself calls the gas emergency service at 01 84 62 37 90 and tells the student help is coming; the student must leave the building immediately himself without touching the switches"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes, the medical-certificate exception applies"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Merci de votre confiance.\"",
+   "gold": "« Merci de votre confiance, l'équipe Terre & Feu. »"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 24 hours",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "900 TL",
+   "gold": "900 TL"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "nothing (0 TL) — the 75% refund needs at least 3 days' notice"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "9,000 TL"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Emre Kaya (technical manager) must approve",
+   "gold": "no, Emre Kaya (technical manager) must approve"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; forward to the sales manager",
+   "gold": "no — she is the accounting manager, not the sales manager"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "the assistant calls 0212 555 47 80 itself and tells the customer a technician is on the way; the customer must switch off the DC isolator themselves and stay away from the inverter"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no — invoices for installations before 2022 are already in the system"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Thursday 17:00, to Emre Kaya",
+   "gold": "every Thursday at 17:00 (5 pm), to Emre Kaya"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it needs approval (approver for cushion quotes above $350 not named; Marta Quill, workshop manager, approves reupholstery quotes)",
+   "gold": "no, Marta Quill (workshop manager) must approve"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Marta Quill (workshop manager) must approve",
+   "gold": "no — the $350 limit applies only to cushion re-covering; Marta Quill, the workshop manager, must approve"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only the owner, Lena Harlow",
+   "gold": "Lena Harlow, the owner"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the safety line 555-0147; the customer must unplug the recliner and keep everyone away (tell them a technician is on the way)",
+   "gold": "the assistant calls 555-0147 itself (and tells the customer a technician is on the way); the customer must unplug the recliner himself and keep everyone away from it"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; trade customers with an active account pay on delivery",
+   "gold": "no, they pay on delivery"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$360 (30%)",
+   "gold": "$360"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "every Friday at 16:00, to Marta Quill",
+   "gold": "every Friday at 16:00 (4 pm), to Marta Quill"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "with \"Prices valid for 14 days from the date of the quote.\"",
+   "gold": "with the sentence \"Prices are valid for 14 days from the date of this quote.\""
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "shortened hours, 9:00 AM to 3:00 PM",
+   "gold": "9:00 to 15:00 (9 am to 3 pm)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "January 12"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no — the extension only covers magazines borrowed on or after December 15; it is due two weeks after borrowing (December 24)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no, CDs and DVDs must be returned at the counter"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 31 to January 2",
+   "gold": "December 31 to January 2"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "300 yen",
+   "gold": "300 yen (5 for 200 + 2 × 50)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Miho Saeki (service desk), 044-231-5876",
+   "gold": "Miho Saeki, 044-231-5876"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "exam students only (student handbook required), 1:00 PM to 5:00 PM",
+   "gold": "only exam candidates (students preparing for entrance exams, with student ID), 13:00–17:00 (1–5 pm)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "January 5 (Tuesday) at 10:00 AM",
+   "gold": "January 5 at 10:00 (10 am)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sophie Laurent (manager) must approve the amount",
+   "gold": "no — the 250 € limit applies only to custom pieces; Sophie Laurent (the manager) must approve every private lesson"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sophie Laurent's agreement is needed",
+   "gold": "no, Sophie Laurent's agreement is needed"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "principal ceramicist (not the manager)",
+   "gold": "head ceramicist (not the manager)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the gas emergency service at 01 84 62 37 90; the student must leave the building without touching any switches",
+   "gold": "the assistant itself calls the gas emergency service at 01 84 62 37 90 and tells the student help is coming; the student must leave the building immediately himself without touching the switches"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; a medical certificate is the exception",
+   "gold": "yes, the medical-certificate exception applies"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Merci de votre confiance, l'équipe Terre & Feu.\"",
+   "gold": "« Merci de votre confiance, l'équipe Terre & Feu. »"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 24 hours",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "900 TL (75% of 1,200 TL)",
+   "gold": "900 TL"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing (0 TL); late cancellations are not refunded",
+   "gold": "nothing (0 TL) — the 75% refund needs at least 3 days' notice"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "9,000 TL"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; technical manager Emre Kaya must approve",
+   "gold": "no, Emre Kaya (technical manager) must approve"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Selin Aydın is the accounting lead, not the sales manager",
+   "gold": "no — she is the accounting manager, not the sales manager"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "the assistant calls 0212 555 47 80 itself and tells the customer a technician is on the way; the customer must switch off the DC isolator themselves and stay away from the inverter"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; for installations before 2022 the invoice is on file",
+   "gold": "no — invoices for installations before 2022 are already in the system"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "every Thursday at 17:00, to Emre Kaya",
+   "gold": "every Thursday at 17:00 (5 pm), to Emre Kaya"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, quotes up to and including $350 may be approved by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "no, quotes over $350 need approval; the TEXT does not name the approver for cushion re-covering quotes",
+   "gold": "no, Marta Quill (workshop manager) must approve"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, full sofa reupholstery quotes of any amount always need approval from Marta Quill, workshop manager",
+   "gold": "no — the $350 limit applies only to cushion re-covering; Marta Quill, the workshop manager, must approve"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Lena Harlow, the owner",
+   "gold": "Lena Harlow, the owner"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the safety line 555-0147; the customer must unplug the recliner themselves and keep everyone away from it (tell them a technician is on the way)",
+   "gold": "the assistant calls 555-0147 itself (and tells the customer a technician is on the way); the customer must unplug the recliner himself and keep everyone away from it"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, trade customers with an active account pay on delivery",
+   "gold": "no, they pay on delivery"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§1.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$360 (30% deposit)",
+   "gold": "$360"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact Paul Finch about unpaid invoices",
+   "gold": "no"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Friday at 16:00, to Marta Quill",
+   "gold": "every Friday at 16:00 (4 pm), to Marta Quill"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Prices are valid for 14 days from the date of this quote.\"",
+   "gold": "with the sentence \"Prices are valid for 14 days from the date of this quote.\""
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "short hours, 9:00-15:00",
+   "gold": "9:00 to 15:00 (9 am to 3 pm)"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "January 12 (Tue); kamishibai are extended regardless of loan date",
+   "gold": "January 12"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only magazines borrowed Dec 15 or later are extended; it is due normally, 2 weeks after loan (Dec 24)",
+   "gold": "no — the extension only covers magazines borrowed on or after December 15; it is due two weeks after borrowing (December 24)"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, CDs and DVDs must never go in the book post; return them at the counter",
+   "gold": "no, CDs and DVDs must be returned at the counter"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 31 (Thu) through January 2 (Sat), closed for cleaning",
+   "gold": "December 31 to January 2"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "300 yen (5 books for 200 yen + 2 at 50 yen each)",
+   "gold": "300 yen (5 for 200 + 2 × 50)"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "service desk, Miho Saeki (佐伯美穂), tel 044-231-5876 (9:00-17:00)",
+   "gold": "Miho Saeki, 044-231-5876"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "only students taking exams, with a student ID card required; 13:00-17:00",
+   "gold": "only exam candidates (students preparing for entrance exams, with student ID), 13:00–17:00 (1–5 pm)"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "January 5 (Tue), normal opening from 10:00",
+   "gold": "January 5 at 10:00 (10 am)"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, custom-piece quotes up to and including 250€ may be accepted by the assistant alone",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, private lessons of any amount must always be validated by Sophie Laurent herself",
+   "gold": "no — the 250 € limit applies only to custom pieces; Sophie Laurent (the manager) must approve every private lesson"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the 3rd move onward needs approval from Sophie Laurent, manager",
+   "gold": "no, Sophie Laurent's agreement is needed"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never forward billing questions to Hugo",
+   "gold": "no"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "lead ceramist (not the manager)",
+   "gold": "head ceramicist (not the manager)"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the gas emergency service at 01 84 62 37 90; the student must leave the building immediately without touching switches (tell them help is on the way)",
+   "gold": "the assistant itself calls the gas emergency service at 01 84 62 37 90 and tells the student help is coming; the student must leave the building immediately himself without touching the switches"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, cancellations under 48h are not refunded unless a medical certificate is presented",
+   "gold": "yes, the medical-certificate exception applies"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact Bernard Roux about customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "« Merci de votre confiance, l'équipe Terre & Feu. »",
+   "gold": "« Merci de votre confiance, l'équipe Terre & Feu. »"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 24 hours",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "900 TL (75% of the 1,200 TL fee)",
+   "gold": "900 TL"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing, no refund (cancellation is less than 3 days before)",
+   "gold": "nothing (0 TL) — the 75% refund needs at least 3 days' notice"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "9,000 TL (20% of contract price)",
+   "gold": "9,000 TL"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, discounts up to and including 500 TL are allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it needs approval from Emre Kaya, technical manager",
+   "gold": "no, Emre Kaya (technical manager) must approve"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never forward price negotiations to Selin Aydın (accounting lead)",
+   "gold": "no — she is the accounting manager, not the sales manager"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the emergency service line 0212 555 47 80; the customer must turn off the DC disconnect switch themselves and stay away from the inverter (tell them a technician is on the way)",
+   "gold": "the assistant calls 0212 555 47 80 itself and tells the customer a technician is on the way; the customer must switch off the DC isolator themselves and stay away from the inverter"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, for customers installed before 2022 the invoice is on file and should not be requested",
+   "gold": "no — invoices for installations before 2022 are already in the system"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never cc Murat Demir on any email",
+   "gold": "no"
+  },
+  {
+   "f": "mnc25_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Thursday at 17:00, to Emre Kaya",
+   "gold": "every Thursday at 17:00 (5 pm), to Emre Kaya"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, quotes up to and including $350 for cushion re-covering may be approved by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "no, it exceeds $350 and needs approval; the TEXT does not state who approves cushion re-covering quotes over $350 (not stated)",
+   "gold": "no, Marta Quill (workshop manager) must approve"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, full sofa reupholstery quotes of any amount need approval of Marta Quill, workshop manager",
+   "gold": "no — the $350 limit applies only to cushion re-covering; Marta Quill, the workshop manager, must approve"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Lena Harlow, the owner",
+   "gold": "Lena Harlow, the owner"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the safety line 555-0147 yourself; tell the customer a technician is on the way and they must unplug the recliner themselves and keep everyone away from it",
+   "gold": "the assistant calls 555-0147 itself (and tells the customer a technician is on the way); the customer must unplug the recliner himself and keep everyone away from it"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, trade customers with an active account pay on delivery",
+   "gold": "no, they pay on delivery"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§1.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$360 (30% deposit)",
+   "gold": "$360"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact Paul Finch about unpaid invoices",
+   "gold": "no"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fridays at 16:00, to Marta Quill",
+   "gold": "every Friday at 16:00 (4 pm), to Marta Quill"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Prices are valid for 14 days from the date of this quote.\"",
+   "gold": "with the sentence \"Prices are valid for 14 days from the date of this quote.\""
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "short hours, 9:00-15:00",
+   "gold": "9:00 to 15:00 (9 am to 3 pm)"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "January 12 (Tue)",
+   "gold": "January 12"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only magazines borrowed Dec 15 or later; it is due normally 2 weeks after loan, Dec 24",
+   "gold": "no — the extension only covers magazines borrowed on or after December 15; it is due two weeks after borrowing (December 24)"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, CDs and DVDs must never go through the book post; return at the counter (library is closed Dec 29)",
+   "gold": "no, CDs and DVDs must be returned at the counter"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 31 (Thu) through January 2 (Sat)",
+   "gold": "December 31 to January 2"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "300円 (5 books for 200円 + 2 books at 50円)",
+   "gold": "300 yen (5 for 200 + 2 × 50)"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "佐伯美穂 at the service desk, tel 044-231-5876 (9:00-17:00)",
+   "gold": "Miho Saeki, 044-231-5876"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "only exam-taking students with a student ID card, 13:00-17:00",
+   "gold": "only exam candidates (students preparing for entrance exams, with student ID), 13:00–17:00 (1–5 pm)"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "January 5 (Tue), from 10:00",
+   "gold": "January 5 at 10:00 (10 am)"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, quotes up to 250€ may be accepted alone",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, private lessons of any amount must always be validated by Sophie Laurent herself",
+   "gold": "no — the 250 € limit applies only to custom pieces; Sophie Laurent (the manager) must approve every private lesson"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the 3rd move onward needs approval of Sophie Laurent, manager",
+   "gold": "no, Sophie Laurent's agreement is needed"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never forward billing questions to Hugo",
+   "gold": "no"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "lead ceramist (not manager)",
+   "gold": "head ceramicist (not the manager)"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call gas emergency service 01 84 62 37 90 yourself; tell the student help is on the way and they must leave the building immediately without touching switches",
+   "gold": "the assistant itself calls the gas emergency service at 01 84 62 37 90 and tells the student help is coming; the student must leave the building immediately himself without touching the switches"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, a medical certificate is an exception to the no-refund rule for cancellations under 48h",
+   "gold": "yes, the medical-certificate exception applies"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact Bernard Roux about customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "« Merci de votre confiance, l'équipe Terre & Feu. »",
+   "gold": "« Merci de votre confiance, l'équipe Terre & Feu. »"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 24 hours",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "900 TL (75% of the 1,200 TL survey fee)",
+   "gold": "900 TL"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing, no refund",
+   "gold": "nothing (0 TL) — the 75% refund needs at least 3 days' notice"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "9,000 TL (20%)",
+   "gold": "9,000 TL"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, discounts up to 500 TL are allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, discounts over 500 TL need approval of Emre Kaya, technical manager",
+   "gold": "no, Emre Kaya (technical manager) must approve"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never forward price negotiations to Selin Aydın",
+   "gold": "no — she is the accounting manager, not the sales manager"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the emergency service line 0212 555 47 80 yourself; tell the customer a technician is on the way and they must turn off the DC disconnect switch themselves and stay away from the inverter",
+   "gold": "the assistant calls 0212 555 47 80 itself and tells the customer a technician is on the way; the customer must switch off the DC isolator themselves and stay away from the inverter"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, for customers installed before 2022 the invoice is on file, don't request it",
+   "gold": "no — invoices for installations before 2022 are already in the system"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never cc Murat Demir on any email",
+   "gold": "no"
+  },
+  {
+   "f": "mnc25_r2",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Thursdays at 17:00, to Emre Kaya",
+   "gold": "every Thursday at 17:00 (5 pm), to Emre Kaya"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no; Lena Harlow (owner) must approve",
+   "gold": "no, Marta Quill (workshop manager) must approve"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Marta Quill, workshop manager, must approve (full sofa reupholstery always needs her approval, any amount)",
+   "gold": "no — the $350 limit applies only to cushion re-covering; Marta Quill, the workshop manager, must approve"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Lena Harlow (owner)",
+   "gold": "Lena Harlow, the owner"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call safety line 555-0147; customer must unplug the recliner themselves and keep everyone away (tell them a technician is on the way)",
+   "gold": "the assistant calls 555-0147 itself (and tells the customer a technician is on the way); the customer must unplug the recliner himself and keep everyone away from it"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; trade customers with an active account pay on delivery",
+   "gold": "no, they pay on delivery"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§1.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$360 (30%)",
+   "gold": "$360"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact Paul Finch about unpaid invoices",
+   "gold": "no"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "Fridays at 16h, to Marta Quill",
+   "gold": "every Friday at 16:00 (4 pm), to Marta Quill"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Prices are valid for 14 days from the date of this quote.\"",
+   "gold": "with the sentence \"Prices are valid for 14 days from the date of this quote.\""
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "9:00-15:00 (short hours)",
+   "gold": "9:00 to 15:00 (9 am to 3 pm)"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "January 12 (Tue)",
+   "gold": "January 12"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; borrowed before Dec 15, so due 2 weeks after loan (Dec 24)",
+   "gold": "no — the extension only covers magazines borrowed on or after December 15; it is due two weeks after borrowing (December 24)"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; CDs and DVDs must never go in the book drop, return them at the counter",
+   "gold": "no, CDs and DVDs must be returned at the counter"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 31 (Thu) to January 2 (Sat), for cleaning",
+   "gold": "December 31 to January 2"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "300 yen (5 books 200 yen + 2 books at 50 yen)",
+   "gold": "300 yen (5 for 200 + 2 × 50)"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Miho Saeki (佐伯美穂), service desk, 044-231-5876 (9-17h)",
+   "gold": "Miho Saeki, 044-231-5876"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "exam-taking students only, with student ID card, 13:00-17:00",
+   "gold": "only exam candidates (students preparing for entrance exams, with student ID), 13:00–17:00 (1–5 pm)"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "January 5 (Tue), normal hours from 10:00",
+   "gold": "January 5 at 10:00 (10 am)"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sophie Laurent must validate private lessons herself, any amount",
+   "gold": "no — the 250 € limit applies only to custom pieces; Sophie Laurent (the manager) must approve every private lesson"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sophie Laurent's approval is needed",
+   "gold": "no, Sophie Laurent's agreement is needed"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never forward billing questions to Hugo",
+   "gold": "no"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "lead ceramist (not manager)",
+   "gold": "head ceramicist (not the manager)"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call gas emergency 01 84 62 37 90; the student must leave the building immediately without touching switches (tell them help is on the way)",
+   "gold": "the assistant itself calls the gas emergency service at 01 84 62 37 90 and tells the student help is coming; the student must leave the building immediately himself without touching the switches"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; the medical certificate exception applies",
+   "gold": "yes, the medical-certificate exception applies"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact Bernard Roux about customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "« Merci de votre confiance, l'équipe Terre & Feu. »",
+   "gold": "« Merci de votre confiance, l'équipe Terre & Feu. »"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 24 hours",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "900 TL (75% of 1,200 TL)",
+   "gold": "900 TL"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing (0 TL); cancelled less than 3 days before",
+   "gold": "nothing (0 TL) — the 75% refund needs at least 3 days' notice"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "9,000 TL (20%)",
+   "gold": "9,000 TL"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Emre Kaya, technical manager, must approve",
+   "gold": "no, Emre Kaya (technical manager) must approve"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never forward price negotiations to Selin Aydın",
+   "gold": "no — she is the accounting manager, not the sales manager"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call emergency line 0212 555 47 80; customer must turn off the DC disconnect switch themselves and stay away from the inverter (tell them a technician is on the way)",
+   "gold": "the assistant calls 0212 555 47 80 itself and tells the customer a technician is on the way; the customer must switch off the DC isolator themselves and stay away from the inverter"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; installed before 2022, invoice is on file, don't request it",
+   "gold": "no — invoices for installations before 2022 are already in the system"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never cc Murat Demir on any email",
+   "gold": "no"
+  },
+  {
+   "f": "mnc25x_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "Thursdays at 17h, to Emre Kaya",
+   "gold": "every Thursday at 17:00 (5 pm), to Emre Kaya"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, quotes up to and including $350 may be approved by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "no; it needs approval (the TEXT does not say from whom for cushion quotes over $350)",
+   "gold": "no, Marta Quill (workshop manager) must approve"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; full sofa reupholstery at any amount needs approval from Marta Quill, workshop manager",
+   "gold": "no — the $350 limit applies only to cushion re-covering; Marta Quill, the workshop manager, must approve"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Lena Harlow, the owner",
+   "gold": "Lena Harlow, the owner"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the safety line 555-0147; tell the customer a technician is on the way, and the customer must unplug the recliner themselves and keep everyone away",
+   "gold": "the assistant calls 555-0147 itself (and tells the customer a technician is on the way); the customer must unplug the recliner himself and keep everyone away from it"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; trade customers with an active account pay on delivery",
+   "gold": "no, they pay on delivery"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§1.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$360 (30% deposit)",
+   "gold": "$360"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact Paul Finch about unpaid invoices",
+   "gold": "no"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fridays at 16:00, to Marta Quill",
+   "gold": "every Friday at 16:00 (4 pm), to Marta Quill"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Prices are valid for 14 days from the date of this quote.\"",
+   "gold": "with the sentence \"Prices are valid for 14 days from the date of this quote.\""
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "9:00-15:00 (short hours)",
+   "gold": "9:00 to 15:00 (9 am to 3 pm)"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "January 12 (Tue)",
+   "gold": "January 12"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; magazines borrowed before Dec 15 are due 2 weeks after the loan, December 24",
+   "gold": "no — the extension only covers magazines borrowed on or after December 15; it is due two weeks after borrowing (December 24)"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; CDs and DVDs must never go in the book drop, return them at the counter",
+   "gold": "no, CDs and DVDs must be returned at the counter"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 31 (Thu) to January 2 (Sat), for cleaning",
+   "gold": "December 31 to January 2"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "300 yen (5 books for 200 yen + 2 x 50 yen)",
+   "gold": "300 yen (5 for 200 + 2 × 50)"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Miho Saeki (佐伯美穂) at the service desk, 044-231-5876, 9:00-17:00",
+   "gold": "Miho Saeki, 044-231-5876"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "only students taking exams, with a student ID card, 13:00-17:00",
+   "gold": "only exam candidates (students preparing for entrance exams, with student ID), 13:00–17:00 (1–5 pm)"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "January 5 (Tue), normal hours from 10:00",
+   "gold": "January 5 at 10:00 (10 am)"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, quotes up to and including 250 € may be accepted alone",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; private lessons at any amount must always be approved by Sophie Laurent herself",
+   "gold": "no — the 250 € limit applies only to custom pieces; Sophie Laurent (the manager) must approve every private lesson"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; a third move needs Sophie Laurent's approval",
+   "gold": "no, Sophie Laurent's agreement is needed"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never forward billing questions to Hugo",
+   "gold": "no"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "lead ceramist (not the manager)",
+   "gold": "head ceramicist (not the manager)"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call gas emergency 01 84 62 37 90; tell the student help is on the way, and the student must leave the building immediately without touching any switches",
+   "gold": "the assistant itself calls the gas emergency service at 01 84 62 37 90 and tells the student help is coming; the student must leave the building immediately himself without touching the switches"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; the medical certificate exception applies",
+   "gold": "yes, the medical-certificate exception applies"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact Bernard Roux about customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "« Merci de votre confiance, l'équipe Terre & Feu. »",
+   "gold": "« Merci de votre confiance, l'équipe Terre & Feu. »"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 24 hours",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "900 TL (75% of the 1,200 TL fee)",
+   "gold": "900 TL"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing (0 TL)",
+   "gold": "nothing (0 TL) — the 75% refund needs at least 3 days' notice"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "9,000 TL (20%)",
+   "gold": "9,000 TL"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, discounts up to and including 500 TL are allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it needs approval from Emre Kaya, technical manager",
+   "gold": "no, Emre Kaya (technical manager) must approve"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never forward price negotiations to Selin Aydın",
+   "gold": "no — she is the accounting manager, not the sales manager"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the emergency line 0212 555 47 80; tell the customer a technician is on the way, and the customer must turn off the DC disconnect switch themselves and stay away from the inverter",
+   "gold": "the assistant calls 0212 555 47 80 itself and tells the customer a technician is on the way; the customer must switch off the DC isolator themselves and stay away from the inverter"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; for installations before 2022 the invoice is on file, so don't request it",
+   "gold": "no — invoices for installations before 2022 are already in the system"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never cc Murat Demir on any email",
+   "gold": "no"
+  },
+  {
+   "f": "mnc25x_r2",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Thursdays at 17:00, to Emre Kaya",
+   "gold": "every Thursday at 17:00 (5 pm), to Emre Kaya"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $350 is within the limit (up to $350)",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "no; it needs approval (above $350); the TEXT does not name who approves cushion quotes - not stated",
+   "gold": "no, Marta Quill (workshop manager) must approve"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; full sofa reupholstery always needs approval from Marta Quill, the workshop manager, whatever the amount",
+   "gold": "no — the $350 limit applies only to cushion re-covering; Marta Quill, the workshop manager, must approve"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Lena Harlow, the owner",
+   "gold": "Lena Harlow, the owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant calls the safety line 555-0147 itself, tells the customer a technician is on the way; the customer must unplug the recliner themselves and keep everyone away from it",
+   "gold": "the assistant calls 555-0147 itself (and tells the customer a technician is on the way); the customer must unplug the recliner himself and keep everyone away from it"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; trade customers with an active account pay on delivery",
+   "gold": "no, they pay on delivery"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$360 (30% deposit)",
+   "gold": "$360"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact Paul Finch about unpaid invoices",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "every Friday at 16:00, to Marta (Marta Quill)",
+   "gold": "every Friday at 16:00 (4 pm), to Marta Quill"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "with the sentence: \"Prices are valid for 14 days from the date of this quote.\"",
+   "gold": "with the sentence \"Prices are valid for 14 days from the date of this quote.\""
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "shortened hours, 9:00 a.m. to 3:00 p.m.",
+   "gold": "9:00 to 15:00 (9 am to 3 pm)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "January 12 (Tuesday); picture-story shows are extended regardless of borrowing date",
+   "gold": "January 12"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only magazines borrowed on or after December 15 are extended; it is due 2 weeks after the loan date as usual (December 24)",
+   "gold": "no — the extension only covers magazines borrowed on or after December 15; it is due two weeks after borrowing (December 24)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; CDs and DVDs cannot be returned through the book drop and must be returned at the counter",
+   "gold": "no, CDs and DVDs must be returned at the counter"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 31 to January 2 (closed for cleaning)",
+   "gold": "December 31 to January 2"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "300 yen (5 books for 200 yen + 2 books at 50 yen each)",
+   "gold": "300 yen (5 for 200 + 2 × 50)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Miho Saeki of the service desk, phone 044-231-5876 (9 a.m.-5 p.m.)",
+   "gold": "Miho Saeki, 044-231-5876"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "only exam students (student ID required), from 1:00 p.m. to 5:00 p.m.",
+   "gold": "only exam candidates (students preparing for entrance exams, with student ID), 13:00–17:00 (1–5 pm)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "January 5 (Tuesday), from 10:00 a.m.",
+   "gold": "January 5 at 10:00 (10 am)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 250 € may be accepted alone",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; private lessons must always be approved by Sophie Laurent (the manager), whatever the amount",
+   "gold": "no — the 250 € limit applies only to custom pieces; Sophie Laurent (the manager) must approve every private lesson"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; from the third move, Sophie Laurent's (the manager's) agreement is needed",
+   "gold": "no, Sophie Laurent's agreement is needed"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never forward billing questions to Hugo Ménard",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "lead ceramicist (not the manager)",
+   "gold": "head ceramicist (not the manager)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant calls the gas emergency service at 01 84 62 37 90 itself and tells the student help is coming; the student must leave the building immediately themselves without touching any switches",
+   "gold": "the assistant itself calls the gas emergency service at 01 84 62 37 90 and tells the student help is coming; the student must leave the building immediately himself without touching the switches"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; cancellations under 48 hours are not refunded except with a medical certificate, which they presented",
+   "gold": "yes, the medical-certificate exception applies"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact Bernard Roux about customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "« Merci de votre confiance, l'équipe Terre & Feu. »",
+   "gold": "« Merci de votre confiance, l'équipe Terre & Feu. »"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 24 hours",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "900 TL (75% of 1,200 TL)",
+   "gold": "900 TL"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing; cancellations later than 3 days before get no refund",
+   "gold": "nothing (0 TL) — the 75% refund needs at least 3 days' notice"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "9,000 TL (20% of the contract price)",
+   "gold": "9,000 TL"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 500 TL is allowed on its own",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; discounts above 500 TL need approval from technical manager Emre Kaya",
+   "gold": "no, Emre Kaya (technical manager) must approve"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Selin Aydın is the accounting manager, not the sales manager, so price negotiations must not be forwarded to her",
+   "gold": "no — she is the accounting manager, not the sales manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant calls the emergency service line 0212 555 47 80 itself and tells the customer a technician is on the way; the customer must switch off the DC disconnect switch themselves and stay away from the inverter",
+   "gold": "the assistant calls 0212 555 47 80 itself and tells the customer a technician is on the way; the customer must switch off the DC isolator themselves and stay away from the inverter"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; customers installed before 2022 have their invoice on file, so no invoice is requested",
+   "gold": "no — invoices for installations before 2022 are already in the system"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact Murat Demir about warranty matters or add him as CC/information on any email",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "every Thursday at 17:00, to Emre Kaya",
+   "gold": "every Thursday at 17:00 (5 pm), to Emre Kaya"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "no; needs approval (the TEXT does not name the approver for cushion quotes over $350)",
+   "gold": "no, Marta Quill (workshop manager) must approve"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Marta Quill (workshop manager) must approve, at any amount",
+   "gold": "no — the $350 limit applies only to cushion re-covering; Marta Quill, the workshop manager, must approve"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only the owner, Lena Harlow",
+   "gold": "Lena Harlow, the owner"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant calls the safety line 555-0147 itself and tells the customer a technician is on the way; the customer must unplug the recliner themselves and keep everyone away",
+   "gold": "the assistant calls 555-0147 itself (and tells the customer a technician is on the way); the customer must unplug the recliner himself and keep everyone away from it"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; trade customers with an active account pay on delivery",
+   "gold": "no, they pay on delivery"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$360 (30% deposit)",
+   "gold": "$360"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact Paul Finch about unpaid invoices",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fridays at 16:00, to Marta Quill",
+   "gold": "every Friday at 16:00 (4 pm), to Marta Quill"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Prices are valid for 14 days from the date of this quote.\"",
+   "gold": "with the sentence \"Prices are valid for 14 days from the date of this quote.\""
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "9:00–15:00 (shortened hours)",
+   "gold": "9:00 to 15:00 (9 am to 3 pm)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "January 12 (Tuesday); all kamishibai are extended regardless of loan date",
+   "gold": "January 12"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only magazines borrowed on or after December 15 are extended, so the normal 2 weeks from the loan date applies (December 24)",
+   "gold": "no — the extension only covers magazines borrowed on or after December 15; it is due two weeks after borrowing (December 24)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; CDs and DVDs cannot go in the book drop and must be returned at the counter",
+   "gold": "no, CDs and DVDs must be returned at the counter"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 31 to January 2 (for cleaning)",
+   "gold": "December 31 to January 2"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "300 yen (5 for 200 yen plus 2 at 50 yen each)",
+   "gold": "300 yen (5 for 200 + 2 × 50)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Miho Saeki, Service Section, 044-231-5876 (9:00–17:00)",
+   "gold": "Miho Saeki, 044-231-5876"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "only students preparing for entrance exams, who must show their student ID; 13:00–17:00",
+   "gold": "only exam candidates (students preparing for entrance exams, with student ID), 13:00–17:00 (1–5 pm)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "January 5 (Tuesday), from 10:00",
+   "gold": "January 5 at 10:00 (10 am)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; private lessons always need Sophie Laurent's (manager) approval, at any amount",
+   "gold": "no — the 250 € limit applies only to custom pieces; Sophie Laurent (the manager) must approve every private lesson"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sophie Laurent's (manager) agreement is needed from the third move onward",
+   "gold": "no, Sophie Laurent's agreement is needed"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "lead ceramicist, not the manager",
+   "gold": "head ceramicist (not the manager)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant calls the gas emergency line 01 84 62 37 90 itself and tells the student help is coming; the student must leave the building immediately without touching any switches",
+   "gold": "the assistant itself calls the gas emergency service at 01 84 62 37 90 and tells the student help is coming; the student must leave the building immediately himself without touching the switches"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; cancellations under 48 hours are refunded only with a medical certificate, and one was provided",
+   "gold": "yes, the medical-certificate exception applies"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "« Merci de votre confiance, l'équipe Terre & Feu. »",
+   "gold": "« Merci de votre confiance, l'équipe Terre & Feu. »"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 24 hours",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "900 TL (75% of 1,200 TL)",
+   "gold": "900 TL"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing; there is no refund for cancellations less than 3 days before the survey",
+   "gold": "nothing (0 TL) — the 75% refund needs at least 3 days' notice"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "9,000 TL (20% of the contract price)",
+   "gold": "9,000 TL"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it needs approval from Emre Kaya, the technical manager",
+   "gold": "no, Emre Kaya (technical manager) must approve"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Selin Aydın is the accounting lead, not the sales manager",
+   "gold": "no — she is the accounting manager, not the sales manager"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant calls the emergency service line 0212 555 47 80 itself and tells the customer a technician is on the way; the customer must switch off the DC disconnect switch themselves and stay away from the inverter",
+   "gold": "the assistant calls 0212 555 47 80 itself and tells the customer a technician is on the way; the customer must switch off the DC isolator themselves and stay away from the inverter"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; original invoices are not requested for installations before 2022 (they are on record in the system)",
+   "gold": "no — invoices for installations before 2022 are already in the system"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact Murat Demir about warranties or CC him on any email",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "every Thursday at 17:00, to Emre Kaya",
+   "gold": "every Thursday at 17:00 (5 pm), to Emre Kaya"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to $350 may be approved alone",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "no; above $350 needs approval (approver not stated)",
+   "gold": "no, Marta Quill (workshop manager) must approve"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Marta Quill (workshop manager) must approve full reupholstery at any amount",
+   "gold": "no — the $350 limit applies only to cushion re-covering; Marta Quill, the workshop manager, must approve"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Lena Harlow (owner)",
+   "gold": "Lena Harlow, the owner"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call safety line 555-0147; the customer must unplug the recliner themselves and keep everyone away (tell them a technician is on the way)",
+   "gold": "the assistant calls 555-0147 itself (and tells the customer a technician is on the way); the customer must unplug the recliner himself and keep everyone away from it"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; trade customers with an active account pay on delivery",
+   "gold": "no, they pay on delivery"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$360 (30% deposit)",
+   "gold": "$360"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact Paul Finch about unpaid invoices",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fridays at 16:00, to Marta Quill",
+   "gold": "every Friday at 16:00 (4 pm), to Marta Quill"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Prices are valid for 14 days from the date of this quote.\"",
+   "gold": "with the sentence \"Prices are valid for 14 days from the date of this quote.\""
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "short hours, 9:00–15:00",
+   "gold": "9:00 to 15:00 (9 am to 3 pm)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tuesday, January 12",
+   "gold": "January 12"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; magazines only if borrowed Dec 15 or later, so normal 2 weeks from loan date",
+   "gold": "no — the extension only covers magazines borrowed on or after December 15; it is due two weeks after borrowing (December 24)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; CDs/DVDs must be returned at the counter only",
+   "gold": "no, CDs and DVDs must be returned at the counter"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Thursday Dec 31 to Saturday Jan 2",
+   "gold": "December 31 to January 2"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥300 (5 for ¥200 + 2 × ¥50)",
+   "gold": "300 yen (5 for 200 + 2 × 50)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Miho Saeki, Service Desk, tel 044-231-5876 (9:00–17:00)",
+   "gold": "Miho Saeki, 044-231-5876"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "exam students only (student ID required), 13:00–17:00",
+   "gold": "only exam candidates (students preparing for entrance exams, with student ID), 13:00–17:00 (1–5 pm)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tuesday, January 5, from 10:00",
+   "gold": "January 5 at 10:00 (10 am)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to €250 may be accepted alone",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sophie Laurent (manager) always approves private lessons, any amount",
+   "gold": "no — the 250 € limit applies only to custom pieces; Sophie Laurent (the manager) must approve every private lesson"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; a 3rd reschedule needs Sophie Laurent's (manager) approval",
+   "gold": "no, Sophie Laurent's agreement is needed"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never forward billing questions to Hugo Ménard",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "lead ceramicist (not manager)",
+   "gold": "head ceramicist (not the manager)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call gas emergency 01 84 62 37 90; the student must leave the building immediately themselves without touching switches (tell them help is coming)",
+   "gold": "the assistant itself calls the gas emergency service at 01 84 62 37 90 and tells the student help is coming; the student must leave the building immediately himself without touching the switches"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; the medical certificate exception applies to cancellations under 48h",
+   "gold": "yes, the medical-certificate exception applies"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact Bernard Roux about customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "« Merci de votre confiance, l'équipe Terre & Feu. »",
+   "gold": "« Merci de votre confiance, l'équipe Terre & Feu. »"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 24 hours",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "900 TL (75% of 1,200 TL)",
+   "gold": "900 TL"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing; no refund when cancelled less than 3 days before",
+   "gold": "nothing (0 TL) — the 75% refund needs at least 3 days' notice"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "9,000 TL (20%)",
+   "gold": "9,000 TL"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 500 TL alone",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; above 500 TL needs Emre Kaya (technical manager) approval",
+   "gold": "no, Emre Kaya (technical manager) must approve"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Selin Aydın is accounting lead, not sales manager; don't route price negotiations to her",
+   "gold": "no — she is the accounting manager, not the sales manager"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call emergency line 0212 555 47 80; the customer must switch off the DC disconnect themselves and stay away from the inverter (tell them a technician is on the way)",
+   "gold": "the assistant calls 0212 555 47 80 itself and tells the customer a technician is on the way; the customer must switch off the DC isolator themselves and stay away from the inverter"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; customers installed before 2022 have invoice on file and must not be asked",
+   "gold": "no — invoices for installations before 2022 are already in the system"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never cc Murat Demir on any email",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Thursdays at 17:00, to Emre Kaya",
+   "gold": "every Thursday at 17:00 (5 pm), to Emre Kaya"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "no; above $350 needs approval (approver not stated)",
+   "gold": "no, Marta Quill (workshop manager) must approve"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Marta Quill (workshop manager) must approve",
+   "gold": "no — the $350 limit applies only to cushion re-covering; Marta Quill, the workshop manager, must approve"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lena Harlow (owner) only",
+   "gold": "Lena Harlow, the owner"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call safety line 555-0147; customer must unplug the recliner themselves and keep everyone away",
+   "gold": "the assistant calls 555-0147 itself (and tells the customer a technician is on the way); the customer must unplug the recliner himself and keep everyone away from it"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; trade customers with active account pay on delivery",
+   "gold": "no, they pay on delivery"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$360 (30% deposit)",
+   "gold": "$360"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fridays at 16:00, to Marta Quill",
+   "gold": "every Friday at 16:00 (4 pm), to Marta Quill"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Prices are valid for 14 days from the date of this quote.\"",
+   "gold": "with the sentence \"Prices are valid for 14 days from the date of this quote.\""
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "9:00–15:00 (short hours)",
+   "gold": "9:00 to 15:00 (9 am to 3 pm)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tuesday, January 12",
+   "gold": "January 12"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only magazines borrowed Dec 15 or later; normal 2 weeks from loan date",
+   "gold": "no — the extension only covers magazines borrowed on or after December 15; it is due two weeks after borrowing (December 24)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; CDs/DVDs must be returned at the counter only",
+   "gold": "no, CDs and DVDs must be returned at the counter"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Thursday Dec 31 to Saturday Jan 2",
+   "gold": "December 31 to January 2"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥300 (5 for ¥200 + 2 × ¥50)",
+   "gold": "300 yen (5 for 200 + 2 × 50)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Miho Saeki, Service Desk, tel 044-231-5876 (9:00–17:00)",
+   "gold": "Miho Saeki, 044-231-5876"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Exam students only (student ID required), 13:00–17:00",
+   "gold": "only exam candidates (students preparing for entrance exams, with student ID), 13:00–17:00 (1–5 pm)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tuesday, January 5, from 10:00",
+   "gold": "January 5 at 10:00 (10 am)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sophie Laurent (manager) must approve",
+   "gold": "no — the 250 € limit applies only to custom pieces; Sophie Laurent (the manager) must approve every private lesson"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sophie Laurent (manager) approval needed",
+   "gold": "no, Sophie Laurent's agreement is needed"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lead ceramicist (not manager)",
+   "gold": "head ceramicist (not the manager)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call gas emergency 01 84 62 37 90; student must leave the building immediately themselves without touching switches",
+   "gold": "the assistant itself calls the gas emergency service at 01 84 62 37 90 and tells the student help is coming; the student must leave the building immediately himself without touching the switches"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; medical certificate is the exception to no refund under 48h",
+   "gold": "yes, the medical-certificate exception applies"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "« Merci de votre confiance, l'équipe Terre & Feu. »",
+   "gold": "« Merci de votre confiance, l'équipe Terre & Feu. »"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Within 24 hours",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "900 TL (75% of 1,200 TL)",
+   "gold": "900 TL"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nothing (no refund)",
+   "gold": "nothing (0 TL) — the 75% refund needs at least 3 days' notice"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "9,000 TL (20%)",
+   "gold": "9,000 TL"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Emre Kaya (technical manager) approval needed",
+   "gold": "no, Emre Kaya (technical manager) must approve"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Selin Aydın is accounting lead, not sales manager",
+   "gold": "no — she is the accounting manager, not the sales manager"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call emergency line 0212 555 47 80; customer must switch off the DC disconnect themselves and stay away from the inverter",
+   "gold": "the assistant calls 0212 555 47 80 itself and tells the customer a technician is on the way; the customer must switch off the DC isolator themselves and stay away from the inverter"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; pre-2022 installs have invoice on file, don't ask",
+   "gold": "no — invoices for installations before 2022 are already in the system"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never cc Murat Demir",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Thursdays at 17:00, to Emre Kaya",
+   "gold": "every Thursday at 17:00 (5 pm), to Emre Kaya"
+  }
+ ],
+ "summary": {
+  "llm05_r1": {
+   "all": [
+    29,
+    39
+   ],
+   "S": [
+    19,
+    25
+   ],
+   "F": [
+    10,
+    14
+   ],
+   "hop2": [
+    11,
+    16
+   ]
+  },
+  "llm066_r1": {
+   "all": [
+    34,
+    39
+   ],
+   "S": [
+    23,
+    25
+   ],
+   "F": [
+    11,
+    14
+   ],
+   "hop2": [
+    12,
+    16
+   ]
+  },
+  "mnc25_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "mnc25_r2": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "mnc25x_r1": {
+   "all": [
+    38,
+    39
+   ],
+   "S": [
+    24,
+    25
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "mnc25x_r2": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "original_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "summ_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "terse_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "terse_r2": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  }
+ }
+}

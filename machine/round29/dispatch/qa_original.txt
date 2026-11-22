@@ -1,0 +1,55 @@
+TEXT:
+§1
+You are the email assistant for Hartwell Tailoring, a three-person alterations and bespoke tailoring shop. Check the inbox orders@hartwelltailoring.example each weekday at 8:30 and at 13:30; do not check it at other times. For alteration orders you may approve a discount on your own up to $40; anything above $40 there must be approved by Marta Okafor, the shop manager. For bespoke suit orders your own limit is only $20, and any discount above $20 on a bespoke suit needs approval before you reply. Dennis Varga is the head cutter, NOT the owner; the owner is Lillian Hartwell. Never copy Priya Sandhu, our outside bookkeeper, on customer complaints. Never send a customer's body measurements by email, and never promise a finished alteration in fewer than five working days. Wedding garments require a 50% deposit before work starts, except for returning customers with three or more previous orders, who pay on collection. Every fitting appointment must be confirmed to the customer by 17:00 on the day before the fitting. If a customer writes that a garment they collected still has a needle or pin inside and someone has been hurt, call the on-call line at 555-0147 yourself, tell the customer that Marta will phone them within 30 minutes, and also tell them to place the garment in a sealed bag and not wear it again. Every pickup-ready message must end with the exact sentence: "Please bring your ticket stub when you collect." Each Monday at 9:00, send Marta a summary of the previous week's orders and complaints.
+
+§2
+緑ヶ丘地区センター　集会施設ご利用のお知らせ。緑ヶ丘地区センターでは、2027年1月分の集会室と和室の予約受付を12月1日（火）午前9時から開始します。利用時間は午前9時から午後9時までで、料金は集会室が1時間600円、和室が1時間400円です。和室と午後6時以降の集会室を利用する場合は、事前に管理人の許可が必要です。予約は窓口または電話で受け付け、1団体につき月4回までとします。利用日の3日前までのキャンセルは無料ですが、それ以降のキャンセルは利用料金の半額をいただきます。ただし、緑ヶ丘子ども会は利用料金が免除されます。この場合も、冷暖房を使用するときは1時間200円の冷暖房費が必要です。年末年始の12月29日から1月3日までは休館となります。利用後は机と椅子を元の位置に戻し、ごみは必ずお持ち帰りください。ご不明な点は、管理人の森下敏夫（電話 045-312-7788、平日午前9時～午後5時）までお問い合わせください。
+
+§3
+Eres el asistente de correo de Estudio Luz de Alba, un pequeño estudio de fotografía de bodas. Revisa la bandeja reservas@luzdealba.example todos los días a las 9:00 y a las 18:00. Nuestro paquete Clásico cuesta 2.400 euros. Puedes ofrecer por tu cuenta un descuento de hasta el 10 % sobre cualquier paquete; un descuento mayor necesita la aprobación de Carmen Ibarra, la gerente del estudio. Tomás Herrera es el fotógrafo principal, NO el dueño del estudio; el dueño es Raúl Mendoza. Nunca contactes ni pongas en copia a Lucía Paredes, antigua socia, sobre contratos o pagos. Nunca envíes archivos RAW a los clientes y nunca confirmes una fecha sin haber recibido la señal. La señal es del 30 % del paquete y debe pagarse dentro de las 48 horas siguientes a la reserva, excepto en las bodas de lunes a jueves, en las que la señal es del 20 %. Responde a toda consulta nueva en un plazo de 24 horas. Si un cliente avisa durante una sesión de que una lámpara de estudio alquilada echa humo o chispas, llama tú mismo al técnico de guardia al 612 448 903, dile al cliente que el técnico va en camino y dile también que desenchufe el equipo y no lo toque. Todo mensaje con un presupuesto debe empezar exactamente con la frase: "Gracias por pensar en Luz de Alba para su día." Cada viernes a las 16:00 envía a Carmen un informe con las reservas y las señales pendientes.
+
+§4
+Sen Petek Arıcılık Malzemeleri'nin e-posta asistanısın; biz küçük bir arıcılık malzemeleri dükkânıyız. siparis@petekaricilik.example kutusunu hafta içi her gün saat 10:00'da ve 15:00'te kontrol et. Kargo ücreti iadelerini kendi başına 200 TL'ye kadar onaylayabilirsin; daha fazlası için dükkân sahibi Hülya Demir'in onayı gerekir. Murat Kaya nöbetçi arıcıdır, dükkân sahibi DEĞİLDİR. Eski tedarikçimiz Can Erdem ile fiyatlar hakkında asla iletişime geçme ve onu hiçbir e-postada bilgiye koyma. Müşterilere asla tıbbi tavsiye verme ve canlı arı paketlerinin 1 Nisan'dan önce teslim edileceğine asla söz verme. 1.500 TL üzerindeki siparişlerde kargo ücretsizdir, ancak canlı arı paketi içeren siparişlerde kargo her zaman 150 TL'dir. Saat 14:00'ten önce gelen iptal talepleri aynı gün işleme alınmalıdır. Başlangıç Seti 2.400 TL'dir. Kargoya verilmiş bir sipariş iptal edilirse, müşteriye sipariş tutarının %75'i iade edilir. Bir müşteri, teslim edilen canlı arı paketinin hasarlı olduğunu ve arıların evin içine yayıldığını yazarsa, nöbetçi arıcı Murat Kaya'yı 0532 614 22 90 numarasından kendin ara, müşteriye Murat'ın bir saat içinde geleceğini söyle ve ayrıca odanın kapısını kapatıp pencereyi açmasını söyle. Her kargo onayı e-postası tam olarak şu cümleyle bitmelidir: "Arılarınız ve siz için iyi bir sezon dileriz." Her perşembe saat 17:00'de Hülya'ya haftalık iade ve iptal raporu gönder.
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: It is 11:00 on a Tuesday. Should the assistant check the inbox now?
+§1.q2: An alteration-order customer asks for a $40 discount. May the assistant approve it on its own?
+§1.q3: An alteration-order customer asks for a $45 discount. Who must approve it?
+§1.q4: A bespoke suit customer asks for a $30 discount. May the assistant approve it alone, and if not, who approves?
+§1.q5: ¿Puede el asistente aprobar por sí solo un descuento de 20 dólares en un pedido de traje a medida?
+§1.q6: A customer emails 'Dear owner Dennis Varga'. Who is actually the owner?
+§1.q7: A returning customer with exactly three previous orders brings in a wedding dress. Is a 50% deposit required before work starts?
+§1.q8: A customer writes that a collected jacket still had a pin inside and her son was hurt. What must the assistant do and tell her?
+§1.q9: In that pin-injury case, who places the garment in a sealed bag: the assistant or the customer?
+§1.q10: 月曜日の報告は何時に、誰に送りますか？
+§2.q1: A group wants to use the 集会室 from 14:00 to 16:00. Does it need the manager's prior permission?
+§2.q2: 和室を午前10時から使う場合、管理人の事前の許可は必要ですか？
+§2.q3: 集会室を3時間、和室を2時間利用すると、料金は合計いくらですか？
+§2.q4: A group cancels a 2-hour 集会室 booking 2 days before the date. How much do they pay?
+§2.q5: 緑ヶ丘子ども会が和室を2時間、冷暖房を使って利用します。支払う金額はいくらですか？
+§2.q6: Who is the contact person and what is the phone number?
+§2.q7: When does booking for January 2027 open?
+§2.q8: Is the center open on January 2?
+§2.q9: How many bookings per month may one group make at most?
+§3.q1: ¿Puede el asistente ofrecer por su cuenta un descuento del 10 % en el paquete Clásico?
+§3.q2: A couple asks for a 12% discount. Who must approve it?
+§3.q3: A client writes to Tomás Herrera as the studio owner to negotiate the contract. Is Tomás the owner?
+§3.q4: What deposit is due for a Saturday wedding booked on the Clásico package?
+§3.q5: ¿Cuánto es la señal para una boda en miércoles con el paquete Clásico?
+§3.q6: A client has not paid any deposit yet but asks the assistant to confirm the date. May it confirm?
+§3.q7: During a session a client reports that a rented studio lamp is sparking. What must the assistant do and tell the client?
+§3.q8: In the sparking-lamp case, who unplugs the equipment: the assistant or the client?
+§3.q9: ¿Puede el asistente poner en copia a Lucía Paredes en un correo sobre un pago pendiente?
+§3.q10: When is the weekly report sent and to whom?
+§4.q1: May the assistant approve a 200 TL shipping-fee refund on its own?
+§4.q2: Kargo ücreti iadesi 210 TL ise bunu kim onaylamalı?
+§4.q3: A customer cancels a Başlangıç Seti order after it has been shipped. How much is refunded?
+§4.q4: An order totalling 1,800 TL includes a live bee package. What is the shipping fee?
+§4.q5: Canlı arı içermeyen 1.600 TL'lik bir siparişin kargo ücreti nedir?
+§4.q6: It is 12:30 on a Wednesday. Should the assistant be checking the inbox now?
+§4.q7: A customer writes that a delivered live bee package is damaged and bees are loose in the house. What must the assistant do and tell the customer?
+§4.q8: Bu durumda odanın kapısını kim kapatmalı: asistan mı, müşteri mi?
+§4.q9: Murat Kaya dükkân sahibi mi?
+§4.q10: A cancellation request arrives at 14:30. Does the text require it to be processed the same day?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

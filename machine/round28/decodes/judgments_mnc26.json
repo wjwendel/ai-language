@@ -1,0 +1,704 @@
+{
+ "facts": [
+  {
+   "id": "1.1",
+   "sec": "§1",
+   "type": "S",
+   "text": "Assistant role: inbox assistant for Kestrel Flue & Chimney"
+  },
+  {
+   "id": "1.2",
+   "sec": "§1",
+   "type": "F",
+   "text": "Three-person chimney-sweep business"
+  },
+  {
+   "id": "1.3",
+   "sec": "§1",
+   "type": "F",
+   "text": "Inbox bookings@kestrelflue.example"
+  },
+  {
+   "id": "1.4",
+   "sec": "§1",
+   "type": "F",
+   "text": "Inbox checked every weekday"
+  },
+  {
+   "id": "1.5",
+   "sec": "§1",
+   "type": "F",
+   "text": "Weekday checks are two discrete checks at 8:00 and again at 13:30"
+  },
+  {
+   "id": "1.6",
+   "sec": "§1",
+   "type": "F",
+   "text": "Saturdays: check once, at 10:00 only"
+  },
+  {
+   "id": "1.7",
+   "sec": "§1",
+   "type": "S",
+   "text": "Permission: may grant discount on standard sweep bookings on own authority"
+  },
+  {
+   "id": "1.8",
+   "sec": "§1",
+   "type": "S",
+   "text": "Discount limit: up to $35 per booking"
+  },
+  {
+   "id": "1.9",
+   "sec": "§1",
+   "type": "S",
+   "text": "Camera inspections: no discount of any size without approval"
+  },
+  {
+   "id": "1.10",
+   "sec": "§1",
+   "type": "S",
+   "text": "Approver for camera-inspection discounts is Nadia Fenwick"
+  },
+  {
+   "id": "1.11",
+   "sec": "§1",
+   "type": "S",
+   "text": "Nadia Fenwick is the office manager"
+  },
+  {
+   "id": "1.12",
+   "sec": "§1",
+   "type": "S",
+   "text": "Any refund above $120 must be approved by Nadia Fenwick"
+  },
+  {
+   "id": "1.13",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tobias Grell is lead technician, NOT the owner"
+  },
+  {
+   "id": "1.14",
+   "sec": "§1",
+   "type": "S",
+   "text": "Owner is Ruth Calloway"
+  },
+  {
+   "id": "1.15",
+   "sec": "§1",
+   "type": "S",
+   "text": "Emil Calloway is Ruth's brother"
+  },
+  {
+   "id": "1.16",
+   "sec": "§1",
+   "type": "S",
+   "text": "Emil Calloway must never be copied on any customer complaint"
+  },
+  {
+   "id": "1.17",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never quote a price for chimney relining"
+  },
+  {
+   "id": "1.18",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never promise a same-day visit"
+  },
+  {
+   "id": "1.19",
+   "sec": "§1",
+   "type": "S",
+   "text": "Bookings moved free if customer asks at least 48 hours before appointment"
+  },
+  {
+   "id": "1.20",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception: active annual service plan customers can move free up to 12 hours before"
+  },
+  {
+   "id": "1.21",
+   "sec": "§1",
+   "type": "S",
+   "text": "Email quote requests answered by 17:00 next business day"
+  },
+  {
+   "id": "1.22",
+   "sec": "§1",
+   "type": "S",
+   "text": "Trigger: customer reports smoke coming into the house or a chimney fire"
+  },
+  {
+   "id": "1.23",
+   "sec": "§1",
+   "type": "S",
+   "text": "Assistant calls on-call technician line itself"
+  },
+  {
+   "id": "1.24",
+   "sec": "§1",
+   "type": "S",
+   "text": "On-call line number 555-0148"
+  },
+  {
+   "id": "1.25",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell customer a technician has been alerted"
+  },
+  {
+   "id": "1.26",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell customer they must close the stove's air damper"
+  },
+  {
+   "id": "1.27",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell customer they must leave the house"
+  },
+  {
+   "id": "1.28",
+   "sec": "§1",
+   "type": "F",
+   "text": "Every complaint reply must END with: \"Thank you for helping us keep your hearth safe.\""
+  },
+  {
+   "id": "1.29",
+   "sec": "§1",
+   "type": "F",
+   "text": "Send Nadia Fenwick a summary of all open quotes"
+  },
+  {
+   "id": "1.30",
+   "sec": "§1",
+   "type": "F",
+   "text": "Summary sent every Friday at 16:00"
+  },
+  {
+   "id": "2.1",
+   "sec": "§2",
+   "type": "F",
+   "text": "Notice to owners issued by 枫林苑 property service center (smart parcel locker rules)"
+  },
+  {
+   "id": "2.2",
+   "sec": "§2",
+   "type": "F",
+   "text": "Two locker sets: east gate and north side of Building 7"
+  },
+  {
+   "id": "2.3",
+   "sec": "§2",
+   "type": "F",
+   "text": "New rules effective Monday, March 8, 2027"
+  },
+  {
+   "id": "2.4",
+   "sec": "§2",
+   "type": "F",
+   "text": "Regular parcels: free storage 24 hours"
+  },
+  {
+   "id": "2.5",
+   "sec": "§2",
+   "type": "F",
+   "text": "Regular parcels: 0.5元 per 12 hours after free period"
+  },
+  {
+   "id": "2.6",
+   "sec": "§2",
+   "type": "F",
+   "text": "Regular parcels: maximum 3元 per item"
+  },
+  {
+   "id": "2.7",
+   "sec": "§2",
+   "type": "F",
+   "text": "Cold-chain fresh parcels: free storage 12 hours"
+  },
+  {
+   "id": "2.8",
+   "sec": "§2",
+   "type": "F",
+   "text": "Cold-chain: 1元 per 6 hours after free period"
+  },
+  {
+   "id": "2.9",
+   "sec": "§2",
+   "type": "S",
+   "text": "Free pickup/home delivery service for owners with limited mobility"
+  },
+  {
+   "id": "2.10",
+   "sec": "§2",
+   "type": "S",
+   "text": "Service covers large parcels with no date restriction"
+  },
+  {
+   "id": "2.11",
+   "sec": "§2",
+   "type": "S",
+   "text": "Service covers cold-chain parcels only if placed after March 15 (date limit applies only to cold-chain)"
+  },
+  {
+   "id": "2.12",
+   "sec": "§2",
+   "type": "S",
+   "text": "Must register with property office one day in advance"
+  },
+  {
+   "id": "2.13",
+   "sec": "§2",
+   "type": "F",
+   "text": "Lockers open daily 6:00-23:00"
+  },
+  {
+   "id": "2.14",
+   "sec": "§2",
+   "type": "S",
+   "text": "After 23:00 locker doors cannot be opened"
+  },
+  {
+   "id": "2.15",
+   "sec": "§2",
+   "type": "F",
+   "text": "Maintenance: first Wednesday of each month, 9:00-11:00"
+  },
+  {
+   "id": "2.16",
+   "sec": "§2",
+   "type": "S",
+   "text": "Deliveries and pickups suspended during maintenance"
+  },
+  {
+   "id": "2.17",
+   "sec": "§2",
+   "type": "S",
+   "text": "Exception: if that day is a public holiday, maintenance moves to next day same hours"
+  },
+  {
+   "id": "2.18",
+   "sec": "§2",
+   "type": "F",
+   "text": "Parcels uncollected more than 7 days moved to property service center"
+  },
+  {
+   "id": "2.19",
+   "sec": "§2",
+   "type": "S",
+   "text": "Owner must present ID card at front desk to collect"
+  },
+  {
+   "id": "2.20",
+   "sec": "§2",
+   "type": "F",
+   "text": "Storage fee 5元 for moved parcels"
+  },
+  {
+   "id": "2.21",
+   "sec": "§2",
+   "type": "F",
+   "text": "Service center hours Monday-Saturday 8:30-17:30"
+  },
+  {
+   "id": "2.22",
+   "sec": "§2",
+   "type": "F",
+   "text": "Service center closed Sunday"
+  },
+  {
+   "id": "2.23",
+   "sec": "§2",
+   "type": "S",
+   "text": "Contact: locker administrator 郑晓岚"
+  },
+  {
+   "id": "2.24",
+   "sec": "§2",
+   "type": "F",
+   "text": "Phone 138 0571 2269"
+  },
+  {
+   "id": "2.25",
+   "sec": "§2",
+   "type": "F",
+   "text": "Notice dated March 1, 2027"
+  },
+  {
+   "id": "3.1",
+   "sec": "§3",
+   "type": "S",
+   "text": "Assistant role: email assistant for Poolservice Brandauer"
+  },
+  {
+   "id": "3.2",
+   "sec": "§3",
+   "type": "F",
+   "text": "Small pool-care business in Oberbayern"
+  },
+  {
+   "id": "3.3",
+   "sec": "§3",
+   "type": "F",
+   "text": "Inbox auftraege@poolservice-brandauer.example"
+  },
+  {
+   "id": "3.4",
+   "sec": "§3",
+   "type": "F",
+   "text": "Checked Monday to Friday"
+  },
+  {
+   "id": "3.5",
+   "sec": "§3",
+   "type": "F",
+   "text": "Checks are two discrete checks at 7:30 and 15:00"
+  },
+  {
+   "id": "3.6",
+   "sec": "§3",
+   "type": "S",
+   "text": "Permission: confirm reorders of care chemicals on own authority"
+  },
+  {
+   "id": "3.7",
+   "sec": "§3",
+   "type": "S",
+   "text": "Chemical reorder limit: order value up to 250 Euro"
+  },
+  {
+   "id": "3.8",
+   "sec": "§3",
+   "type": "S",
+   "text": "Spare-part orders (pumps, filters) always need Lukas Brandauer's approval regardless of amount"
+  },
+  {
+   "id": "3.9",
+   "sec": "§3",
+   "type": "S",
+   "text": "Lukas Brandauer is workshop manager, NOT the owner"
+  },
+  {
+   "id": "3.10",
+   "sec": "§3",
+   "type": "S",
+   "text": "Owner is Sabine Hornung"
+  },
+  {
+   "id": "3.11",
+   "sec": "§3",
+   "type": "S",
+   "text": "Herr Kessel is the tax advisor"
+  },
+  {
+   "id": "3.12",
+   "sec": "§3",
+   "type": "S",
+   "text": "Kessel must never be cc'd on customer correspondence about complaints"
+  },
+  {
+   "id": "3.13",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never promise a fixed date for winter cover"
+  },
+  {
+   "id": "3.14",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never give chlorine dosing recommendations by email"
+  },
+  {
+   "id": "3.15",
+   "sec": "§3",
+   "type": "S",
+   "text": "Season-opening appointments accepted only until April 15"
+  },
+  {
+   "id": "3.16",
+   "sec": "§3",
+   "type": "S",
+   "text": "Exception: regular customers with maintenance contract may book until April 30"
+  },
+  {
+   "id": "3.17",
+   "sec": "§3",
+   "type": "S",
+   "text": "Quote requests answered within two working days"
+  },
+  {
+   "id": "3.18",
+   "sec": "§3",
+   "type": "S",
+   "text": "Trigger: strong chlorine smell in equipment room or leaking chemicals"
+  },
+  {
+   "id": "3.19",
+   "sec": "§3",
+   "type": "S",
+   "text": "Assistant calls standby technician itself"
+  },
+  {
+   "id": "3.20",
+   "sec": "§3",
+   "type": "S",
+   "text": "Standby technician number 0171 4482905"
+  },
+  {
+   "id": "3.21",
+   "sec": "§3",
+   "type": "S",
+   "text": "Tell customer a technician has been notified"
+  },
+  {
+   "id": "3.22",
+   "sec": "§3",
+   "type": "S",
+   "text": "Customer must switch off pool pump at main switch themselves"
+  },
+  {
+   "id": "3.23",
+   "sec": "§3",
+   "type": "S",
+   "text": "Customer must leave the equipment room"
+  },
+  {
+   "id": "3.24",
+   "sec": "§3",
+   "type": "F",
+   "text": "Every complaint reply must BEGIN with: „Vielen Dank, dass Sie uns darauf hinweisen.“"
+  },
+  {
+   "id": "3.25",
+   "sec": "§3",
+   "type": "F",
+   "text": "Send Sabine Hornung overview of all open quotes"
+  },
+  {
+   "id": "3.26",
+   "sec": "§3",
+   "type": "F",
+   "text": "Overview sent every Monday at 9:00"
+  },
+  {
+   "id": "4.1",
+   "sec": "§4",
+   "type": "S",
+   "text": "Assistant role: email inbox assistant for AkwaSerwis Nowak"
+  },
+  {
+   "id": "4.2",
+   "sec": "§4",
+   "type": "F",
+   "text": "Small aquarium service from Poznań"
+  },
+  {
+   "id": "4.3",
+   "sec": "§4",
+   "type": "F",
+   "text": "Inbox zlecenia@akwaserwis.example"
+  },
+  {
+   "id": "4.4",
+   "sec": "§4",
+   "type": "F",
+   "text": "Checked Monday to Saturday"
+  },
+  {
+   "id": "4.5",
+   "sec": "§4",
+   "type": "F",
+   "text": "Checks are two discrete checks at 8:00 and 14:00"
+  },
+  {
+   "id": "4.6",
+   "sec": "§4",
+   "type": "S",
+   "text": "Permission: confirm plant and fertilizer orders on own authority"
+  },
+  {
+   "id": "4.7",
+   "sec": "§4",
+   "type": "S",
+   "text": "Order limit up to 180 zł"
+  },
+  {
+   "id": "4.8",
+   "sec": "§4",
+   "type": "S",
+   "text": "Larger orders need approval from Agnieszka Wróbel"
+  },
+  {
+   "id": "4.9",
+   "sec": "§4",
+   "type": "S",
+   "text": "Agnieszka Wróbel is office manager"
+  },
+  {
+   "id": "4.10",
+   "sec": "§4",
+   "type": "S",
+   "text": "Marek Zieliński is lead technician, NOT the owner"
+  },
+  {
+   "id": "4.11",
+   "sec": "§4",
+   "type": "S",
+   "text": "Owner is Tomasz Nowak"
+  },
+  {
+   "id": "4.12",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never contact Irena Nowak about customer billing"
+  },
+  {
+   "id": "4.13",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never give fish-disease diagnosis by email"
+  },
+  {
+   "id": "4.14",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never promise refund for fish that died after transport"
+  },
+  {
+   "id": "4.15",
+   "sec": "§4",
+   "type": "F",
+   "text": "Standard aquarium cleaning costs 320 zł"
+  },
+  {
+   "id": "4.16",
+   "sec": "§4",
+   "type": "S",
+   "text": "Cancelling later than 48 hours before visit incurs a fee"
+  },
+  {
+   "id": "4.17",
+   "sec": "§4",
+   "type": "F",
+   "text": "Fee is 25% of the cleaning price"
+  },
+  {
+   "id": "4.18",
+   "sec": "§4",
+   "type": "S",
+   "text": "Exception: doctor's certificate means no fee"
+  },
+  {
+   "id": "4.19",
+   "sec": "§4",
+   "type": "F",
+   "text": "Deposit for new aquarium installation 600 zł"
+  },
+  {
+   "id": "4.20",
+   "sec": "§4",
+   "type": "S",
+   "text": "Cancellation at least 14 days before installation: refund two-thirds of deposit"
+  },
+  {
+   "id": "4.21",
+   "sec": "§4",
+   "type": "S",
+   "text": "Quotes sent by 18:00 next working day at latest"
+  },
+  {
+   "id": "4.22",
+   "sec": "§4",
+   "type": "S",
+   "text": "Trigger: cracked glass or water leak"
+  },
+  {
+   "id": "4.23",
+   "sec": "§4",
+   "type": "S",
+   "text": "Assistant calls on-duty technician itself"
+  },
+  {
+   "id": "4.24",
+   "sec": "§4",
+   "type": "S",
+   "text": "On-duty number 602 315 778"
+  },
+  {
+   "id": "4.25",
+   "sec": "§4",
+   "type": "S",
+   "text": "Tell customer technician has been notified"
+  },
+  {
+   "id": "4.26",
+   "sec": "§4",
+   "type": "S",
+   "text": "Customer must immediately unplug heater and filter themselves"
+  },
+  {
+   "id": "4.27",
+   "sec": "§4",
+   "type": "F",
+   "text": "Every quote message must end with: „Wycena jest ważna przez 14 dni.”"
+  },
+  {
+   "id": "4.28",
+   "sec": "§4",
+   "type": "F",
+   "text": "Send Agnieszka Wróbel report of open orders"
+  },
+  {
+   "id": "4.29",
+   "sec": "§4",
+   "type": "F",
+   "text": "Report sent every Thursday at 17:00"
+  }
+ ],
+ "A": {
+  "kept": 107,
+  "distorted": [
+   {
+    "id": "1.5",
+    "why": "Two discrete check times (8:00 and 13:30) rendered as a continuous window 'handle the inbox ... from 8:00 to 13:30'; scope widened"
+   },
+   {
+    "id": "3.5",
+    "why": "Two discrete checks at 7:30 and 15:00 rendered as continuous window 'from 7:30 to 15:00'; scope widened"
+   },
+   {
+    "id": "4.5",
+    "why": "Two discrete checks at 8:00 and 14:00 rendered as continuous window 'from 8:00 to 14:00'; scope widened"
+   }
+  ],
+  "lost": [],
+  "added": [],
+  "notes": "Owner Ruth Calloway moved into intro (kept). §1 adds 'themselves' to damper/leave instruction; actor unchanged (customer), treated as harmless. Chinese closing courtesy line omitted (out of scope)."
+ },
+ "B": {
+  "kept": 107,
+  "distorted": [
+   {
+    "id": "1.5",
+    "why": "Two discrete check times (8:00 and 13:30) rendered as a continuous window 'work it from 8:00 to 13:30'; scope widened"
+   },
+   {
+    "id": "3.5",
+    "why": "Two discrete checks at 7:30 and 15:00 rendered as continuous window 'from 7:30 to 15:00'; scope widened"
+   },
+   {
+    "id": "4.5",
+    "why": "Two discrete checks at 8:00 and 14:00 rendered as continuous window 'from 8:00 to 14:00'; scope widened"
+   }
+  ],
+  "lost": [],
+  "added": [],
+  "notes": "Same structure as A. §1 adds 'themselves' to damper instruction; harmless. Chinese closing courtesy line omitted (out of scope)."
+ }
+}

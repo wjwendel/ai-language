@@ -1,0 +1,113 @@
+TEXT:
+§1 you
+Tidy Nest Home Organizing
+inbox bookings@tidynest.example 8:00 + 13:30 only
+new booking inquiries: answer within 4h of finding; full-house quotes: out by 17:00 next business day
+reschedule, standard sessions only: may ≤2/client/month; 3rd: Priya Raman, ops manager
+moving-day packing sessions: never reschedule yourself; always to Priya
+crew supplies: may ≤60 dollars; more: needs approval, approver unnamed
+discounts: may ≤10%, repeat clients only; larger: Priya approves
+refunds: only Marco Lindqvist, owner, approves; Priya may give gift-card credit ≤40 dollars, not refunds
+Dana Okafor = lead organizer, NOT scheduler
+never: copy Theo Brandt, ex-bookkeeper, on billing email; promise same-day service
+never email client's home address to crew, unless client signed access form
+cancel <48h before session: full 180-dollar fee, except client sends doctor's note
+Saturdays: don't answer new inquiries; forward to Dana
+crew member hurt on site: call crew safety line 555-0147 yourself; tell client: help on the way + client must keep everyone away from crew member, not move them
+every quote must end "Prices are valid for 14 days."
+every invoice must start "Thank you for choosing Tidy Nest."
+Fri 16:00: Marco weekly summary; 1st Mon/month 9:00: Priya supply report
+
+§2
+Sakuradai 3-chome residents' assoc. disaster drill (assoc.-hosted), Nov 8
+gather 9:30 Sakuradai No.2 Park; drill 10:00, planned end 11:45; free
+handed out that day: emergency drinking water, all households, 2 bottles/household + disaster helmets applied for by Oct 25
+helmet 1,800 yen each; assoc. subsidizes 1/3; household pays rest
+pay that day at reception, cash only
+participants must each bring own flashlight; assoc. lends none
+fire-extinguisher trial: junior-high students and older only
+rain: No.2 Elementary School gym; heavy-rain warning: cancelled, postponed to Nov 15 same time
+exception: people 70+ and households with infants: count as joined without coming to park by posting safety-check card at own front door
+safety-check cards handed out Nov 1-5, 13:00-17:00, assoc. meeting hall
+stretcher-carry practice: only team leaders named by disaster-prevention staff
+absence notices and questions: phone by Nov 6, disaster-prevention staff 森田健二 090-4417-2385
+deputy 高橋美咲 = reception on the day; takes no phone contacts
+after drill 12:00 meeting hall: pork miso soup 1 bowl/person; bring own dishes
+
+§3 you
+Lavandería Burbuja, self-service laundromat
+inbox clientes@burbuja.example 9:00 + 14:00 + 19:30
+broken-machine refunds: may ≤8 euros; more: Lucía Ferrer, shop manager, approves
+business drop-off orders: may accept ≤15 kg/order; more: needs approval, approver unnamed
+hotel monthly contracts: only Andrés Vidal, owner, may sign; Lucía may send quotes, not sign
+Rosa Méndez = maintenance tech, NOT manager; never send her customer complaints
+never copy Jaime Soto, ex-detergent supplier, on any order email
+never promise same-day delivery, except order <5 kg + arrives before 10:00
+drop-off orders delivered in 48h; except duvets 72h
+complaints within 24h; invoice requests within 3 business days
+Tuesdays: member-card customers 20% off drop-off washing; not duvets
+machine leaking + flooding floor: call on-call tech 600 312 845 yourself; tell customer: tech on the way + customer must press red emergency stop button by door themselves
+every complaint reply must end «Gracias por su paciencia, el equipo de Burbuja.»
+Mon 8:30: Andrés revenue report; Thu 18:00: Lucía breakdown report
+
+§4 you
+Parlak Halı Yıkama, carpet washing
+inbox siparis@parlakhali.example 7:30 + 18:00 daily
+home carpet quotes: may ≤12 m²; larger: Elif Aydın, business manager, approves
+limit home carpets only; office + hotel orders, any size: always owner Murat Kaya approves
+Ercan Demir = delivery driver, NOT accountant; never route payment questions to him
+never: forward any customer info to ex-employee Serkan Yılmaz; guarantee definite stain removal
+never share customer phone numbers with third parties, except customer's written permission
+wash 90 TL/m²; wool 120 TL/m²
+cancel <24h before delivery: deduct 25% of 400 TL service fee; except first-time customers: no deduction
+stain not fully removed: refund half of that carpet's wash fee
+new order requests within 6h; complaints within 2h
+Saturdays: pickup only European-side Istanbul addresses; other days both sides
+delivered carpet strong chemical smell + someone at home dizzy: call emergency line 0212 555 0193 yourself; tell customer: team on the way + customer must open windows themselves immediately
+every delivery confirmation email must end "Halınız özenle yıkanmıştır."
+Mon 10:00: Murat weekly order report; last Fri/month 15:00: Elif refund report
+corporate invoices: always prepared by accounting team; you only tell customer request received
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: A crew member asks to buy storage bins costing exactly 60 dollars. Can you approve the purchase yourself?
+§1.q2: A crew member asks to buy supplies costing 61 dollars. Can you approve it yourself, and if not, who approves?
+§1.q3: On a Saturday, a brand-new client sends a first booking inquiry asking for a 10 percent discount. Can you grant the discount yourself?
+§1.q4: Un cliente habitual pide un 10 % de descuento un martes. ¿Puedes concederlo tú solo?
+§1.q5: A repeat client asks for an 11 percent discount. Can you grant it yourself, and if not, who must approve it?
+§1.q6: An existing client emails on a Saturday asking to reschedule a moving-day packing session; it is their first reschedule request this month. Can you approve it yourself?
+§1.q7: クライアントから、現場で作業員がけがをしたとメールが来ました。あなたは何をし、クライアントに何を伝えますか？
+§1.q8: In the crew-injury emergency, who must keep everyone away from the injured crew member: you (the assistant) or the client?
+§1.q9: A client who has signed the access form asks you to email their home address to the crew. Is that allowed?
+§1.q10: A client cancels 47 hours before a standard session and sends no doctor's note. How much are they charged?
+§2.q1: A household that applied for nothing in advance: will it receive emergency drinking water at the drill, and how much?
+§2.q2: 10月26日に防災ヘルメットを申し込んだ世帯は、当日ヘルメットを受け取れますか？
+§2.q3: How much does a household pay for one helmet, and how must it pay?
+§2.q4: 懐中電灯は町内会が貸してくれますか？
+§2.q5: May a 6th-grade elementary school pupil try the fire-extinguisher experience?
+§2.q6: If a heavy-rain warning is issued, what happens to the drill?
+§2.q7: Does the 6 November phone deadline apply to questions as well as to absence notices?
+§2.q8: 当日受付担当の高橋美咲さんに電話で欠席を伝えてもいいですか？
+§2.q9: A family with a toddler cannot come to the park. How can they still count as having taken part?
+§2.q10: When and where can the safety-confirmation cards be picked up?
+§3.q1: Un cliente pide un reembolso de 8 euros por una secadora averiada. ¿Puedes aprobarlo tú?
+§3.q2: A customer asks for a 9-euro refund for a broken machine. Who approves it?
+§3.q3: A company sends a wash-and-fold order of 16 kilos. Can you accept it yourself, and if not, who approves?
+§3.q4: Un pedido de 5 kilos llega a las 9:00. ¿Puedes prometer la entrega en el mismo día?
+§3.q5: Is the inbox checked at 16:00?
+§3.q6: Can Lucía sign a monthly contract with a hotel?
+§3.q7: A customer writes that a machine is leaking and flooding the floor. What do you do?
+§3.q8: ¿Quién debe pulsar el botón rojo de parada de emergencia: el asistente o el cliente?
+§3.q9: On a Tuesday, a member-card customer orders a duvet (edredón) wash. Do they get a discount, and when is it delivered?
+§3.q10: ¿Debes reenviar una queja de un cliente a Rosa Méndez?
+§4.q1: 12 metrekarelik bir ev halısı siparişinin fiyat teklifini kendin onaylayabilir misin?
+§4.q2: A customer orders cleaning of a 13 m² home carpet. Who approves the quote?
+§4.q3: An office orders cleaning of a 4 m² carpet. Can you approve the quote yourself?
+§4.q4: Daha önce sipariş vermiş bir müşteri, teslimattan 20 saat önce siparişini iptal ediyor. Ne kadar kesinti yapılır?
+§4.q5: A first-time customer cancels 23 hours before delivery. How much is deducted?
+§4.q6: A 10 m² wool carpet's stain did not fully come out. How much is refunded?
+§4.q7: A customer reports a strong chemical smell from the delivered carpet and someone at home feels dizzy. What do you do?
+§4.q8: Kimyasal koku acil durumunda pencereleri kim açmalı: asistan mı, müşteri mi?
+§4.q9: Cumartesi günü Anadolu yakasındaki bir müşteri 10 metrekarelik ev halısı için teklif ve aynı gün teslim alma istiyor. Teklifi kendin onaylayabilir misin, ve halı o gün teslim alınabilir mi?
+§4.q10: Can you forward a customer's payment question to Ercan Demir?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

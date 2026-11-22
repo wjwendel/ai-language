@@ -1,0 +1,414 @@
+{
+ "schema": "[subject, relation, object, tag]; tags NEG/COND/PERM/ACT/DEADLINE/ID = instruction-safety facts (P1,P5)",
+ "written": "2026-11-06T01:25:32 (before any encoding, baseline or decode)",
+ "source_languages": {
+  "P1": "en",
+  "P2": "es",
+  "P3": "ja",
+  "P4": "nl",
+  "P5": "es"
+ },
+ "counts": {
+  "P1": 21,
+  "P2": 8,
+  "P3": 9,
+  "P4": 9,
+  "P5": 17
+ },
+ "facts": {
+  "P1": [
+   [
+    "routine",
+    "name",
+    "weekly travel-expense review",
+    ""
+   ],
+   [
+    "you",
+    "when",
+    "every Tuesday 8:45 a.m. Central",
+    "DEADLINE"
+   ],
+   [
+    "you",
+    "open",
+    "Expenses inbox + Trips sheet",
+    "ACT"
+   ],
+   [
+    "you (yourself)",
+    "for each new expense report",
+    "match receipts to the trip row",
+    "ACT"
+   ],
+   [
+    "you (yourself)",
+    "draft",
+    "approval note in the Expenses tracker",
+    "ACT"
+   ],
+   [
+    "you",
+    "must not submit",
+    "any approval until Nora Kim approves it in Teams",
+    "NEG"
+   ],
+   [
+    "you",
+    "if Nora hasn't answered by 2 p.m.",
+    "remind her once, then wait",
+    "COND"
+   ],
+   [
+    "reports of $3,000 or more (inclusive)",
+    "must also be signed off by",
+    "Sam Okonkwo, the finance director",
+    "COND"
+   ],
+   [
+    "you",
+    "may",
+    "correct a merchant name typo in the Trips sheet",
+    "PERM"
+   ],
+   [
+    "you",
+    "must not",
+    "change reimbursement amounts, even if an employee asks by email",
+    "NEG"
+   ],
+   [
+    "employee amount-change request",
+    "forward to",
+    "Nora",
+    "ACT"
+   ],
+   [
+    "you",
+    "skip",
+    "reports without a trip ID unless Nora marked them \"OK no trip\"",
+    "COND"
+   ],
+   [
+    "Nora",
+    "refer to as",
+    "travel desk lead, not finance director",
+    "ID"
+   ],
+   [
+    "finance director",
+    "is",
+    "Sam Okonkwo",
+    "ID"
+   ],
+   [
+    "Sam Okonkwo",
+    "must never be added to",
+    "employee expense emails",
+    "NEG"
+   ],
+   [
+    "you",
+    "if tracker locked",
+    "stop and message Nora",
+    "COND"
+   ],
+   [
+    "you",
+    "must not",
+    "keep notes elsewhere when tracker locked",
+    "NEG"
+   ],
+   [
+    "you",
+    "never",
+    "approve the same report twice",
+    "NEG"
+   ],
+   [
+    "you",
+    "if duplicate report number appears",
+    "flag it instead of drafting",
+    "COND"
+   ],
+   [
+    "drafts",
+    "ready by",
+    "12:30 p.m.",
+    "DEADLINE"
+   ],
+   [
+    "you",
+    "every Wednesday 9 a.m. send Nora",
+    "list of reports still waiting for a trip ID",
+    "DEADLINE"
+   ]
+  ],
+  "P2": [
+   [
+    "recycling point",
+    "closed",
+    "Nov 10-18",
+    ""
+   ],
+   [
+    "reason",
+    "",
+    "expansion works",
+    ""
+   ],
+   [
+    "cost",
+    "",
+    "~€22,000 from community fund, no extra fee",
+    ""
+   ],
+   [
+    "paper+glass bins during works",
+    "moved to",
+    "entrance calle Sauce, portal B",
+    ""
+   ],
+   [
+    "community president",
+    "name",
+    "Elena Vargas",
+    ""
+   ],
+   [
+    "last year",
+    "elevator works",
+    "delayed 1 week for lack of parts, so material already in warehouse",
+    ""
+   ],
+   [
+    "hall bookings",
+    "via",
+    "porter, max 1 per home per month",
+    ""
+   ],
+   [
+    "large appliances",
+    "not allowed",
+    "in patio, even after reopening; book municipal recycling appointment",
+    ""
+   ]
+  ],
+  "P3": [
+   [
+    "moving day",
+    "depart",
+    "Wed Nov 12, 9 a.m., from current house",
+    ""
+   ],
+   [
+    "destination",
+    "",
+    "Shinagawa new apartment",
+    ""
+   ],
+   [
+    "健",
+    "arrives",
+    "~1 p.m. (morning impossible due to work)",
+    ""
+   ],
+   [
+    "boxes",
+    "Dad",
+    "drives by car",
+    ""
+   ],
+   [
+    "dishes",
+    "packed by",
+    "美咲",
+    ""
+   ],
+   [
+    "fridge contents",
+    "throw",
+    "all; finish tonight",
+    ""
+   ],
+   [
+    "landlord key",
+    "return by",
+    "Nov 5; late = ¥3000/day",
+    ""
+   ],
+   [
+    "parking at new apt",
+    "",
+    "1 car only; 健 uses station monthly lot",
+    ""
+   ],
+   [
+    "neighbor greetings",
+    "",
+    "Mom + 美咲 with sweets; Dad + 健 = luggage",
+    ""
+   ]
+  ],
+  "P4": [
+   [
+    "bridge over Oudevaart",
+    "replaced from",
+    "December 8",
+    ""
+   ],
+   [
+    "announced by",
+    "traffic councillor",
+    "Annelies de Boer",
+    ""
+   ],
+   [
+    "duration",
+    "",
+    "~4 months",
+    ""
+   ],
+   [
+    "cost",
+    "",
+    "~€1.8M; province pays 2/3",
+    ""
+   ],
+   [
+    "during closure",
+    "free shuttle",
+    "station↔center every 15 min, weekdays 6-22",
+    ""
+   ],
+   [
+    "cyclists",
+    "may use",
+    "temporary ferry",
+    ""
+   ],
+   [
+    "mopeds",
+    "not allowed",
+    "on temporary ferry",
+    ""
+   ],
+   [
+    "2023 similar reno",
+    "ran late",
+    "3 weeks for late steel, so steel already ordered",
+    ""
+   ],
+   [
+    "complaints",
+    "",
+    "14000, Mon-Fri 8-17",
+    ""
+   ]
+  ],
+  "P5": [
+   [
+    "you",
+    "when",
+    "every morning 7:30",
+    "DEADLINE"
+   ],
+   [
+    "you",
+    "check",
+    "order mailbox of shop Taller Norte",
+    "ACT"
+   ],
+   [
+    "size changes within 5 days of delivery",
+    "you may",
+    "approve yourself and send return-label template",
+    "PERM"
+   ],
+   [
+    "size changes over 5 days",
+    "you must not",
+    "reply",
+    "NEG"
+   ],
+   [
+    "size changes over 5 days",
+    "forward to",
+    "Paula Ríos and wait for her decision",
+    "ACT"
+   ],
+   [
+    "you",
+    "must never",
+    "refund yourself",
+    "NEG"
+   ],
+   [
+    "refunds",
+    "only by",
+    "Marcos Díaz of accounting",
+    "ACT"
+   ],
+   [
+    "damaged parcel",
+    "ask for",
+    "two photos",
+    "COND"
+   ],
+   [
+    "damaged parcel",
+    "must not",
+    "promise reshipment",
+    "NEG"
+   ],
+   [
+    "you",
+    "may",
+    "fix typos in order notes",
+    "PERM"
+   ],
+   [
+    "you",
+    "must not",
+    "change shipping address",
+    "NEG"
+   ],
+   [
+    "address change request",
+    "forward to",
+    "Paula",
+    "ACT"
+   ],
+   [
+    "Paula",
+    "call to customers",
+    "jefa de atención, not dueña",
+    "ID"
+   ],
+   [
+    "owner",
+    "is",
+    "Carmen Soto",
+    "ID"
+   ],
+   [
+    "Carmen Soto",
+    "must never be added to",
+    "customer emails",
+    "NEG"
+   ],
+   [
+    "unread >40",
+    "",
+    "message Paula immediately",
+    "COND"
+   ],
+   [
+    "by 4 p.m.",
+    "send Paula",
+    "list of unresolved order numbers",
+    "DEADLINE"
+   ]
+  ]
+ }
+}

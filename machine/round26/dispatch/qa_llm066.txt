@@ -1,0 +1,55 @@
+TEXT:
+§1
+inbox assistant for Harlow & Finch Upholstery furniture upholsterer Check shared inbox orders@harlowfinch.example every weekday at 8:00 14:00 For cushion re-covering orders approve quotes up to $350 above $350 needs approval limit applies only to cushion re-covering full sofa armchair reupholstery quotes need approval from Marta Quill workshop manager Dev Okafor head upholsterer NOT owner owner Lena Harlow agree to price matching Never copy Paul Finch former partner customer email contact about unpaid invoices promise completion date before fabric arrived at workshop send customer's home address to delivery drivers by email 30% deposit required before work starts except for trade customers active account pay on delivery quote request reply within two business days If customer reports smoke or burning smell from heated recliner call safety line at 555-0147 tell technician on way unplug recliner keep everyone away quote end with "Prices valid for 14 days from date quote." Every Friday at 16:00 send Marta summary of open quotes
+
+§2
+(日)は午前9時から午後3時までの短縮開館とし、12月28日(月)から1月4日(月)までは休館します。1月5日(火)は午前10時から通常どおり開館します。休館中も正面玄関横のブックポストは利用できますが、12月31日(木)から1月2日(土(火)まで延長します(月)に限り、2階学習室を受験生のみ午後1時から午後5時まで開放します(生徒手帳の提示が必要です)。1月5日から1月9日までは、1階ロビーで除籍本のリサイクル市を開きます。価格は1冊50円で、5冊まとめて購入すると200円になります。コピー料金は白黒1枚10円、カラー1枚50円です。お問い合わせは、サービス係の佐伯美穂(電話 044-231-5876、受付時間 午前9時～午後5時
+
+§3
+'assistant de'Atelier Terre & Feu atelier de céramique Consulte boîte contact@terreetfeu.example mardi au samedi à 9 h et 17 h. déplacer réservation de cours jusqu'à deux fois par client troisième déplacement demande'accord de Sophie Laurent gérante Pour commandes pièces sur mesure accepter devis jusqu'à 250 € au-delà'accord de Sophie Laurent nécessaire limite ne vaut pas pour cours privés Sophie Laurent doit valider montant. Hugo Ménard céramiste principal non gérant ne lui transfère questions facturation Ne contacte Bernard Roux propriétaire locaux réclamations clients Ne confirme date de cuisson avant Hugo validé planning four. annulations moins de 48 heures avant cours ne pas remboursées sauf certificat médical Réponds à demande de pièce sur mesure sous 24 heures. Si élève signale odeur de gaz appelle service d'urgence gaz au 01 84 62 37 90 dis'élève secours arrivent quitter bâtiment sans toucher interrupteurs confirmation de cours commencer par « Merci de confiance,'équipe Terre & Feu. Chaque lundi à 10 h envoie à Sophie liste des réservations de semaine
+
+§4
+çatı güneş paneli Güneşli Enerji Montaj e asistanısın destek@gunesli.example kutusunu 08:30 16:00'da kontrol et Bakım ziyaretlerinde 500 TL indirim yüksek indirimler teknik müdür Emre Kaya'nın onayı gerekir Keşif ücreti 1.200 TL'dir 3 gün önce iptal ederse %75'i iade edilir geç iade yapılmaz Kurulum için sözleşme bedelinin'si kapora alınır Selin Aydın muhasebe sorumlusudur satış müdürü DEĞİLDİR fiyat pazarlıklarını yönlendirme Garanti eski taşeronumuz Murat Demir ile iletişime geçme e ekleme kWh cinsinden üretim garantisi verme montaj kişisel telefon numaralarını paylaşma Garanti başvurularında orijinal fatura istenir 2022'den önce kurulum müşterilerin faturası kayıtlı fatura istenmez Garanti başvurularını 24 saat içinde Emre Kaya'ya ilet müşteri invertörden duman 0212 555 47 80 acil servis hattını ara teknisyenin söyle DC ayırıcı şalterini invertörden uzak durması bildir garanti yanıtı "Garanti süreciniz kayıt altına alınmıştır." perşembe 17:00'de Emre Kaya'ya garanti başvurularının özetini gönder
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: A customer asks for a cushion re-covering quote of exactly $350. May the assistant approve it on its own?
+§1.q2: A cushion re-covering quote comes to $351. May the assistant approve it on its own, and if not, who must approve?
+§1.q3: A full sofa reupholstery quote comes to only $200. May the assistant approve it on its own, and if not, who approves?
+§1.q4: A customer asks for price matching. Who may agree to it?
+§1.q5: Un client signale une odeur de brûlé provenant d'un fauteuil chauffant révisé par l'atelier. Quel numéro l'assistant doit-il appeler lui-même, et que doit faire le client lui-même ?
+§1.q6: A trade customer with an active account places an order. Must they pay a deposit before work starts?
+§1.q7: A regular (non-trade) customer places an order of $1,200. How much deposit is required before work starts?
+§1.q8: 未払いの請求書について、アシスタントが Paul Finch に連絡してもよいですか？
+§1.q9: When and to whom is the weekly summary of open quotes sent?
+§1.q10: How must every quote end?
+§2.q1: What are the library's opening hours on December 27?
+§2.q2: 12月3日に借りた紙芝居の返却期限はいつですか？
+§2.q3: 12月10日に借りた雑誌の返却期限も1月12日に延長されますか？
+§2.q4: May a DVD be returned through the book drop on December 29?
+§2.q5: On which dates is the book drop closed?
+§2.q6: リサイクル市で本を7冊買うと、いくらになりますか？
+§2.q7: Who is the contact person for inquiries, and what is the phone number?
+§2.q8: 休館期間中、1月4日に2階学習室を利用できるのは誰で、何時から何時までですか？
+§2.q9: When does the library reopen after the closure, and at what time?
+§3.q1: A custom piece quote comes to exactly 250 €. May the assistant accept it alone?
+§3.q2: 120 €'luk bir özel ders (cours privé) talebini asistan kendi başına onaylayabilir mi? Onaylayamıyorsa kim onaylar?
+§3.q3: A client asks to move their course booking for the third time. May the assistant do it alone, and if not, whose agreement is needed?
+§3.q4: Peut-on transférer une question de facturation à Hugo Ménard ?
+§3.q5: What is Hugo Ménard's role?
+§3.q6: 窯室でガスの臭いがすると生徒から報告がありました。アシスタントは自分でどの番号に電話し、生徒自身は何をしなければなりませんか？
+§3.q7: Un élève annule 30 heures avant son cours et présente un certificat médical. Est-il remboursé ?
+§3.q8: Peut-on contacter Bernard Roux au sujet d'une réclamation client ?
+§3.q9: With what exact sentence must every course confirmation start?
+§3.q10: Within how long must a custom piece request receive a reply?
+§4.q1: Müşteri keşif tarihinden 5 gün önce iptal ediyor. Kaç TL iade edilir?
+§4.q2: A customer cancels the site survey 2 days before the survey date. How much is refunded?
+§4.q3: Pour un contrat d'installation de 45 000 TL, quel est le montant de l'acompte (kapora) ?
+§4.q4: May the assistant give a 500 TL discount on a maintenance visit on its own?
+§4.q5: Asistan bir bakım ziyaretinde kendi başına 600 TL indirim verebilir mi? Veremezse kimin onayı gerekir?
+§4.q6: A customer wants to negotiate the price. Should the assistant forward this to Selin Aydın?
+§4.q7: A customer reports sparks coming from the inverter. Which number does the assistant call itself, and what must the customer do themselves?
+§4.q8: 2020年に設置した顧客が、元の請求書なしで保証申請をしてきました。請求書を求めるべきですか？
+§4.q9: May the assistant add Murat Demir as a CC on an email about a warranty claim?
+§4.q10: When and to whom is the weekly summary of open warranty claims sent?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

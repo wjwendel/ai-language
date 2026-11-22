@@ -1,0 +1,68 @@
+{
+ "mnc20_r1": {
+  "§1.q10": [
+   1,
+   "regex false negative: 16:00 = 4 p.m. (24-hour clock), Friday and Tomas Reyes present"
+  ],
+  "§2.q1": [
+   1,
+   "regex false negative: 09:00-16:00 = 9 a.m.-4 p.m., Dec 3 present"
+  ],
+  "§2.q6": [
+   1,
+   "regex false negative: 18:00 = 6 p.m., Dec 1 present"
+  ]
+ },
+ "mnc20_r2": {
+  "§1.q10": [
+   1,
+   "regex false negative: 16:00 = 4 p.m. (24-hour clock), Friday and Tomas Reyes present"
+  ],
+  "§2.q1": [
+   1,
+   "regex false negative: 09:00-16:00 = 9 a.m.-4 p.m., Dec 3 present"
+  ],
+  "§2.q6": [
+   1,
+   "regex false negative: 18:00 = 6 p.m., Dec 1 present"
+  ]
+ },
+ "mnc20x_r1": {
+  "§1.q10": [
+   1,
+   "regex false negative: 16:00 = 4 p.m. (24-hour clock), Friday and Tomas Reyes present"
+  ],
+  "§2.q1": [
+   1,
+   "regex false negative: 09:00-16:00 = 9 a.m.-4 p.m., Dec 3 present"
+  ],
+  "§2.q6": [
+   1,
+   "regex false negative: 18:00 = 6 p.m., Dec 1 present"
+  ]
+ },
+ "mnc20x_r2": {
+  "§1.q10": [
+   1,
+   "regex false negative: 16:00 = 4 p.m. (24-hour clock), Friday and Tomas Reyes present"
+  ],
+  "§2.q1": [
+   1,
+   "regex false negative: 09:00-16:00 = 9 a.m.-4 p.m., Dec 3 present"
+  ],
+  "§2.q6": [
+   1,
+   "regex false negative: 18:00 = 6 p.m., Dec 1 present"
+  ]
+ },
+ "summ_r1": {
+  "§2.q1": [
+   1,
+   "regex false negative: 09:00-16:00 = 9 a.m.-4 p.m."
+  ],
+  "§2.q6": [
+   1,
+   "regex false negative: 18:00 = 6 p.m."
+  ]
+ }
+}

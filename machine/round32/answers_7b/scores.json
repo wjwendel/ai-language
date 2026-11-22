@@ -1,0 +1,3408 @@
+{
+ "rows": [
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, Elif Aydın",
+   "gold": "no; it needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; on Saturdays new inquiries are forwarded to Dana, and self-granted discounts are only for repeat clients"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Priya Raman",
+   "gold": "no; Priya Raman, the operations manager, must approve"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; moving-day packing sessions always go to Priya Raman (the 2-per-month limit covers only standard sessions)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the crew safety line 555-0147 yourself; tell the client: help is on the way + the client must keep everyone away from the crew member and not move them",
+   "gold": "Call the crew safety line at 555-0147 yourself; tell the client help is on the way, and tell the client to keep everyone away from the crew member and not move them"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "the client"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "180 dollars",
+   "gold": "180 dollars (the full session fee)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, 2 bottles",
+   "gold": "yes; 2 bottles per household (the 25 October date limits only the helmets)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; only helmets applied for by 25 October are handed out"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "1,800 yen; the household pays the remaining amount after the town association's 1/3 subsidy",
+   "gold": "1,200 yen (1,800 yen minus the 1/3 subsidy), cash only at reception on the day"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; each participant must bring their own flashlight"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; it is limited to junior-high students and older"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the drill is postponed to 11月15日 at the same time",
+   "gold": "it is cancelled and postponed to 15 November at the same time"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes; both absence notices and questions go to Morita Kenji by phone by 6 November"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; Takahashi does not take phone contact; call Morita Kenji at 090-4417-2385 by 6 November"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the family can post an absence confirmation card at their front door",
+   "gold": "by displaying the safety-confirmation card at their front door at home"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "11月1日-11月5日 13:00-17:00 町内会集会所",
+   "gold": "1 to 5 November, 13:00 to 17:00, at the neighbourhood association meeting hall"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lucía Ferrer",
+   "gold": "Lucía Ferrer, the shop manager"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, Andrés Vidal",
+   "gold": "no; it needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; same-day is only allowed for orders under 5 kilos arriving before 10:00"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; only at 9:00, 14:00 and 19:30"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; only Andrés Vidal, the owner, may sign; Lucía may only send quotes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician 600 312 845 yourself; tell the customer: technician on the way + the customer must press the red emergency stop button by the door themselves",
+   "gold": "Call the on-call technician at 600 312 845 yourself; tell the customer the technician is on the way, and tell them to press the red emergency stop button by the door themselves"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, 20% off, but not for duvets",
+   "gold": "no discount (the Tuesday 20% does not apply to duvets); delivered in 72 hours"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; she is the maintenance technician, not the manager"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "Elif Aydın, the business manager"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "no; office and hotel orders are always approved by Murat Kaya, the owner"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "100 TL (25% of the 400 TL service fee)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "nothing; first-time customers are exempt"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "600 TL (half of 10 × 120 = 1,200 TL)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "Call the emergency line 0212 555 0193 yourself; tell the customer the team is on its way, and tell them they must open the windows themselves right away"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "yes, you can approve the quote (up to 12 m²), but no Saturday pickup: on Saturdays pickups are only from European-side addresses"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "no; he is the delivery driver, not the accountant"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, Priya Raman",
+   "gold": "no; it needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; on Saturdays new inquiries are forwarded to Dana, and self-granted discounts are only for repeat clients"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Priya Raman",
+   "gold": "no; Priya Raman, the operations manager, must approve"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; moving-day packing sessions always go to Priya Raman (the 2-per-month limit covers only standard sessions)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call crew safety line 555-0147 yourself; then tell client: help is on the way + client must keep everyone away from crew member and not move them",
+   "gold": "Call the crew safety line at 555-0147 yourself; tell the client help is on the way, and tell the client to keep everyone away from the crew member and not move them"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "the client"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "180 dollars",
+   "gold": "180 dollars (the full session fee)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes, free",
+   "gold": "yes; 2 bottles per household (the 25 October date limits only the helmets)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; only helmets applied for by 25 October are handed out"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "1,800 yen; 333 yen per household",
+   "gold": "1,200 yen (1,800 yen minus the 1/3 subsidy), cash only at reception on the day"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; each participant must bring their own flashlight"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no; it is limited to junior-high students and older"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "postponed to 11月15日",
+   "gold": "it is cancelled and postponed to 15 November at the same time"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes; both absence notices and questions go to Morita Kenji by phone by 6 November"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; Takahashi does not take phone contact; call Morita Kenji at 090-4417-2385 by 6 November"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "post a safety confirmation card at the entrance",
+   "gold": "by displaying the safety-confirmation card at their front door at home"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "11月1日-11月5日 13:00-17:00 町内会集会所",
+   "gold": "1 to 5 November, 13:00 to 17:00, at the neighbourhood association meeting hall"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lucía Ferrer",
+   "gold": "Lucía Ferrer, the shop manager"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, need approval, approver not named",
+   "gold": "no; it needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; same-day is only allowed for orders under 5 kilos arriving before 10:00"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; only at 9:00, 14:00 and 19:30"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; only Andrés Vidal, the owner, may sign; Lucía may only send quotes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call on-call technician 600 312 845 yourself; then tell customer: technician on the way + customer must press red emergency stop button by door themselves",
+   "gold": "Call the on-call technician at 600 312 845 yourself; tell the customer the technician is on the way, and tell them to press the red emergency stop button by the door themselves"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no discount, delivered the same day",
+   "gold": "no discount (the Tuesday 20% does not apply to duvets); delivered in 72 hours"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; she is the maintenance technician, not the manager"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Elif Aydın",
+   "gold": "Elif Aydın, the business manager"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; office and hotel orders are always approved by Murat Kaya, the owner"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no deduction",
+   "gold": "100 TL (25% of the 400 TL service fee)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "25% of 400 TL",
+   "gold": "nothing; first-time customers are exempt"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "refund 60 TL",
+   "gold": "600 TL (half of 10 × 120 = 1,200 TL)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call emergency response line 0212 555 0193 yourself; then tell customer: team is on the way + customer must open windows themselves immediately",
+   "gold": "Call the emergency line 0212 555 0193 yourself; tell the customer the team is on its way, and tell them they must open the windows themselves right away"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, not on Saturday",
+   "gold": "yes, you can approve the quote (up to 12 m²), but no Saturday pickup: on Saturdays pickups are only from European-side addresses"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; he is the delivery driver, not the accountant"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, Priya Raman",
+   "gold": "no; it needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; on Saturdays new inquiries are forwarded to Dana, and self-granted discounts are only for repeat clients"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Priya Raman",
+   "gold": "no; Priya Raman, the operations manager, must approve"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; moving-day packing sessions always go to Priya Raman (the 2-per-month limit covers only standard sessions)"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the crew safety line 555-0147 yourself; then tell the client: help is on the way + the client must keep everyone away from the crew member and not move them",
+   "gold": "Call the crew safety line at 555-0147 yourself; tell the client help is on the way, and tell the client to keep everyone away from the crew member and not move them"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "the client"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "180 dollars",
+   "gold": "180 dollars (the full session fee)"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, 2 bottles",
+   "gold": "yes; 2 bottles per household (the 25 October date limits only the helmets)"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; only helmets applied for by 25 October are handed out"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "1,800 yen; 333 yen per household",
+   "gold": "1,200 yen (1,800 yen minus the 1/3 subsidy), cash only at reception on the day"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; each participant must bring their own flashlight"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; it is limited to junior-high students and older"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "it is postponed to 11月15日",
+   "gold": "it is cancelled and postponed to 15 November at the same time"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes; both absence notices and questions go to Morita Kenji by phone by 6 November"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; Takahashi does not take phone contact; call Morita Kenji at 090-4417-2385 by 6 November"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "they can still count as having taken part by posting an absence confirmation card at their front door",
+   "gold": "by displaying the safety-confirmation card at their front door at home"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "11月1日-11月5日 13:00-17:00 町内会集会所",
+   "gold": "1 to 5 November, 13:00 to 17:00, at the neighbourhood association meeting hall"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lucía Ferrer",
+   "gold": "Lucía Ferrer, the shop manager"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, Andrés Vidal",
+   "gold": "no; it needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; same-day is only allowed for orders under 5 kilos arriving before 10:00"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; only at 9:00, 14:00 and 19:30"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; only Andrés Vidal, the owner, may sign; Lucía may only send quotes"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician 600 312 845 yourself; then tell the customer: technician on the way + the customer must press the red emergency stop button by the door themselves",
+   "gold": "Call the on-call technician at 600 312 845 yourself; tell the customer the technician is on the way, and tell them to press the red emergency stop button by the door themselves"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, 20% off, but not for duvets",
+   "gold": "no discount (the Tuesday 20% does not apply to duvets); delivered in 72 hours"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; she is the maintenance technician, not the manager"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Elif Aydın",
+   "gold": "Elif Aydın, the business manager"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no; office and hotel orders are always approved by Murat Kaya, the owner"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, 25% of 400 TL",
+   "gold": "100 TL (25% of the 400 TL service fee)"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, 25% of 400 TL",
+   "gold": "nothing; first-time customers are exempt"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "refund 60 TL",
+   "gold": "600 TL (half of 10 × 120 = 1,200 TL)"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the emergency response line 0212 555 0193 yourself; then tell the customer: team is on the way + the customer must open windows themselves immediately",
+   "gold": "Call the emergency line 0212 555 0193 yourself; tell the customer the team is on its way, and tell them they must open the windows themselves right away"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, 10 metrekarelik ev halısı için teklifi onaylayamaz, ancak aynı gün teslim alınabilir",
+   "gold": "yes, you can approve the quote (up to 12 m²), but no Saturday pickup: on Saturdays pickups are only from European-side addresses"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; he is the delivery driver, not the accountant"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, Elif Aydın",
+   "gold": "no; it needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; on Saturdays new inquiries are forwarded to Dana, and self-granted discounts are only for repeat clients"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Priya Raman",
+   "gold": "no; Priya Raman, the operations manager, must approve"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; moving-day packing sessions always go to Priya Raman (the 2-per-month limit covers only standard sessions)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call crew safety line 555-0147 yourself; tell client: help on the way + client must keep everyone away from crew member, not move them",
+   "gold": "Call the crew safety line at 555-0147 yourself; tell the client help is on the way, and tell the client to keep everyone away from the crew member and not move them"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "client",
+   "gold": "the client"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "180 dollars",
+   "gold": "180 dollars (the full session fee)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, 2 bottles",
+   "gold": "yes; 2 bottles per household (the 25 October date limits only the helmets)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; only helmets applied for by 25 October are handed out"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "540 yen, cash only",
+   "gold": "1,200 yen (1,800 yen minus the 1/3 subsidy), cash only at reception on the day"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; each participant must bring their own flashlight"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; it is limited to junior-high students and older"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "cancelled, postponed to Nov 15 same time",
+   "gold": "it is cancelled and postponed to 15 November at the same time"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes; both absence notices and questions go to Morita Kenji by phone by 6 November"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; Takahashi does not take phone contact; call Morita Kenji at 090-4417-2385 by 6 November"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "post safety-check card at own front door",
+   "gold": "by displaying the safety-confirmation card at their front door at home"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nov 1-5, 13:00-17:00, assoc. meeting hall",
+   "gold": "1 to 5 November, 13:00 to 17:00, at the neighbourhood association meeting hall"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lucía Ferrer",
+   "gold": "Lucía Ferrer, the shop manager"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, Andrés Vidal",
+   "gold": "no; it needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no; same-day is only allowed for orders under 5 kilos arriving before 10:00"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; only at 9:00, 14:00 and 19:30"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; only Andrés Vidal, the owner, may sign; Lucía may only send quotes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call on-call tech 600 312 845 yourself; tell customer: tech on the way + customer must press red emergency stop button by door themselves",
+   "gold": "Call the on-call technician at 600 312 845 yourself; tell the customer the technician is on the way, and tell them to press the red emergency stop button by the door themselves"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, 20% off, not duvets",
+   "gold": "no discount (the Tuesday 20% does not apply to duvets); delivered in 72 hours"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; she is the maintenance technician, not the manager"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, Elif Aydın",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Elif Aydın",
+   "gold": "Elif Aydın, the business manager"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; office and hotel orders are always approved by Murat Kaya, the owner"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "25% of 400 TL service fee",
+   "gold": "100 TL (25% of the 400 TL service fee)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "100 TL",
+   "gold": "nothing; first-time customers are exempt"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "refund half of that carpet's wash fee",
+   "gold": "600 TL (half of 10 × 120 = 1,200 TL)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call emergency line 0212 555 0193 yourself; tell customer: team on the way + customer must open windows themselves immediately",
+   "gold": "Call the emergency line 0212 555 0193 yourself; tell the customer the team is on its way, and tell them they must open the windows themselves right away"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, 10 metrekarelik ev halısı için teklifi onaylayamaz, ve halı o gün teslim alınamaz",
+   "gold": "yes, you can approve the quote (up to 12 m²), but no Saturday pickup: on Saturdays pickups are only from European-side addresses"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; he is the delivery driver, not the accountant"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, Priya Raman",
+   "gold": "no; it needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; on Saturdays new inquiries are forwarded to Dana, and self-granted discounts are only for repeat clients"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Priya Raman",
+   "gold": "no; Priya Raman, the operations manager, must approve"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; moving-day packing sessions always go to Priya Raman (the 2-per-month limit covers only standard sessions)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call crew safety line 555-0147 yourself; tell client: help on the way + client must keep everyone away from crew member, not move them",
+   "gold": "Call the crew safety line at 555-0147 yourself; tell the client help is on the way, and tell the client to keep everyone away from the crew member and not move them"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "you (the assistant)",
+   "gold": "the client"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "180 dollars",
+   "gold": "180 dollars (the full session fee)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, 2 bottles",
+   "gold": "yes; 2 bottles per household (the 25 October date limits only the helmets)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; only helmets applied for by 25 October are handed out"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "540 yen, cash only",
+   "gold": "1,200 yen (1,800 yen minus the 1/3 subsidy), cash only at reception on the day"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; each participant must bring their own flashlight"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; it is limited to junior-high students and older"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "cancelled, postponed to Nov 15 same time",
+   "gold": "it is cancelled and postponed to 15 November at the same time"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes; both absence notices and questions go to Morita Kenji by phone by 6 November"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; Takahashi does not take phone contact; call Morita Kenji at 090-4417-2385 by 6 November"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "post safety-check card at own front door",
+   "gold": "by displaying the safety-confirmation card at their front door at home"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nov 1-5, 13:00-17:00, assoc. meeting hall",
+   "gold": "1 to 5 November, 13:00 to 17:00, at the neighbourhood association meeting hall"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lucía Ferrer",
+   "gold": "Lucía Ferrer, the shop manager"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, Andrés Vidal",
+   "gold": "no; it needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no; same-day is only allowed for orders under 5 kilos arriving before 10:00"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; only at 9:00, 14:00 and 19:30"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; only Andrés Vidal, the owner, may sign; Lucía may only send quotes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call on-call tech 600 312 845 yourself; tell customer: tech on the way + customer must press red emergency stop button by door themselves",
+   "gold": "Call the on-call technician at 600 312 845 yourself; tell the customer the technician is on the way, and tell them to press the red emergency stop button by the door themselves"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "20% off, not duvets",
+   "gold": "no discount (the Tuesday 20% does not apply to duvets); delivered in 72 hours"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; she is the maintenance technician, not the manager"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Elif Aydın",
+   "gold": "Elif Aydın, the business manager"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; office and hotel orders are always approved by Murat Kaya, the owner"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "25% of 400 TL service fee",
+   "gold": "100 TL (25% of the 400 TL service fee)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "25% of 400 TL service fee",
+   "gold": "nothing; first-time customers are exempt"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "refund half of that carpet's wash fee",
+   "gold": "600 TL (half of 10 × 120 = 1,200 TL)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call emergency line 0212 555 0193 yourself; tell customer: team on the way + customer must open windows themselves immediately",
+   "gold": "Call the emergency line 0212 555 0193 yourself; tell the customer the team is on its way, and tell them they must open the windows themselves right away"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes, you can approve the quote (up to 12 m²), but no Saturday pickup: on Saturdays pickups are only from European-side addresses"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; he is the delivery driver, not the accountant"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, Priya Raman",
+   "gold": "no; it needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; on Saturdays new inquiries are forwarded to Dana, and self-granted discounts are only for repeat clients"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Priya Raman",
+   "gold": "no; Priya Raman, the operations manager, must approve"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; moving-day packing sessions always go to Priya Raman (the 2-per-month limit covers only standard sessions)"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call crew safety line 555-0147 yourself; tell client: help on the way + client must keep everyone away from crew member, not move them",
+   "gold": "Call the crew safety line at 555-0147 yourself; tell the client help is on the way, and tell the client to keep everyone away from the crew member and not move them"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "you (the assistant)",
+   "gold": "the client"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "180 dollars",
+   "gold": "180 dollars (the full session fee)"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, 2 bottles",
+   "gold": "yes; 2 bottles per household (the 25 October date limits only the helmets)"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; only helmets applied for by 25 October are handed out"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "540 yen, cash only",
+   "gold": "1,200 yen (1,800 yen minus the 1/3 subsidy), cash only at reception on the day"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; each participant must bring their own flashlight"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; it is limited to junior-high students and older"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "cancelled, postponed to Nov 15 same time",
+   "gold": "it is cancelled and postponed to 15 November at the same time"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes; both absence notices and questions go to Morita Kenji by phone by 6 November"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; Takahashi does not take phone contact; call Morita Kenji at 090-4417-2385 by 6 November"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "post safety-check card at own front door",
+   "gold": "by displaying the safety-confirmation card at their front door at home"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nov 1-5, 13:00-17:00, assoc. meeting hall",
+   "gold": "1 to 5 November, 13:00 to 17:00, at the neighbourhood association meeting hall"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lucía Ferrer",
+   "gold": "Lucía Ferrer, the shop manager"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, Andrés Vidal",
+   "gold": "no; it needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no; same-day is only allowed for orders under 5 kilos arriving before 10:00"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; only at 9:00, 14:00 and 19:30"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; only Andrés Vidal, the owner, may sign; Lucía may only send quotes"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call on-call tech 600 312 845 yourself; tell customer: tech on the way + customer must press red emergency stop button by door themselves",
+   "gold": "Call the on-call technician at 600 312 845 yourself; tell the customer the technician is on the way, and tell them to press the red emergency stop button by the door themselves"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "20% off, same day",
+   "gold": "no discount (the Tuesday 20% does not apply to duvets); delivered in 72 hours"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; she is the maintenance technician, not the manager"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Elif Aydın",
+   "gold": "Elif Aydın, the business manager"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; office and hotel orders are always approved by Murat Kaya, the owner"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "25% of 400 TL",
+   "gold": "100 TL (25% of the 400 TL service fee)"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "100 TL",
+   "gold": "nothing; first-time customers are exempt"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "50 TL",
+   "gold": "600 TL (half of 10 × 120 = 1,200 TL)"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call emergency line 0212 555 0193 yourself; tell customer: team on the way + customer must open windows themselves immediately",
+   "gold": "Call the emergency line 0212 555 0193 yourself; tell the customer the team is on its way, and tell them they must open the windows themselves right away"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes, you can approve the quote (up to 12 m²), but no Saturday pickup: on Saturdays pickups are only from European-side addresses"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; he is the delivery driver, not the accountant"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes, Priya Raman",
+   "gold": "no; it needs approval, approver not stated"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; on Saturdays new inquiries are forwarded to Dana, and self-granted discounts are only for repeat clients"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Priya Raman",
+   "gold": "no; Priya Raman, the operations manager, must approve"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; moving-day packing sessions always go to Priya Raman (the 2-per-month limit covers only standard sessions)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the crew safety line at 555-0147, tell the client help is on the way, and tell the client to keep everyone away from the crew member and not move them.",
+   "gold": "Call the crew safety line at 555-0147 yourself; tell the client help is on the way, and tell the client to keep everyone away from the crew member and not move them"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "the client"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "45 dollars",
+   "gold": "180 dollars (the full session fee)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, they will receive emergency drinking water, 2 bottles per household.",
+   "gold": "yes; 2 bottles per household (the 25 October date limits only the helmets)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "no; only helmets applied for by 25 October are handed out"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "1,800 yen, but the town association will subsidize one-third, so the household pays two-thirds.",
+   "gold": "1,200 yen (1,800 yen minus the 1/3 subsidy), cash only at reception on the day"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "No",
+   "gold": "no; each participant must bring their own flashlight"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "no; it is limited to junior-high students and older"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The drill is postponed to November 15 at the same time.",
+   "gold": "it is cancelled and postponed to 15 November at the same time"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes",
+   "gold": "yes; both absence notices and questions go to Morita Kenji by phone by 6 November"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; Takahashi does not take phone contact; call Morita Kenji at 090-4417-2385 by 6 November"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Display the safety confirmation card at the front door.",
+   "gold": "by displaying the safety-confirmation card at their front door at home"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "From November 1 to November 5, at the town association's meeting hall from 13:00 to 17:00.",
+   "gold": "1 to 5 November, 13:00 to 17:00, at the neighbourhood association meeting hall"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lucía Ferrer",
+   "gold": "Lucía Ferrer, the shop manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, Andrés Vidal",
+   "gold": "no; it needs approval, approver not stated"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; same-day is only allowed for orders under 5 kilos arriving before 10:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; only at 9:00, 14:00 and 19:30"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; only Andrés Vidal, the owner, may sign; Lucía may only send quotes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the guard technician at 600 312 845, inform the client that the technician is on the way, and tell the client to press the red emergency stop button next to the door.",
+   "gold": "Call the on-call technician at 600 312 845 yourself; tell the customer the technician is on the way, and tell them to press the red emergency stop button by the door themselves"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, the 20% discount does not apply to duvet washes. It is delivered in 72 hours.",
+   "gold": "no discount (the Tuesday 20% does not apply to duvets); delivered in 72 hours"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; she is the maintenance technician, not the manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Murat Kaya",
+   "gold": "Elif Aydın, the business manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no; office and hotel orders are always approved by Murat Kaya, the owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "10% of the service fee",
+   "gold": "100 TL (25% of the 400 TL service fee)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "10% of the service fee",
+   "gold": "nothing; first-time customers are exempt"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "50% of the service fee",
+   "gold": "600 TL (half of 10 × 120 = 1,200 TL)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Call the emergency line at 0212 555 0193, inform the client that help is on the way, and tell the client to keep everyone away from the crew member and not move them.",
+   "gold": "Call the emergency line 0212 555 0193 yourself; tell the customer the team is on its way, and tell them they must open the windows themselves right away"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, the quote cannot be approved, and the carpet cannot be delivered on the same day.",
+   "gold": "yes, you can approve the quote (up to 12 m²), but no Saturday pickup: on Saturdays pickups are only from European-side addresses"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; he is the delivery driver, not the accountant"
+  },
+  {
+   "f": "original_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, Priya Raman",
+   "gold": "no; it needs approval, approver not stated"
+  },
+  {
+   "f": "original_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; on Saturdays new inquiries are forwarded to Dana, and self-granted discounts are only for repeat clients"
+  },
+  {
+   "f": "original_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes, Priya Raman",
+   "gold": "no; Priya Raman, the operations manager, must approve"
+  },
+  {
+   "f": "original_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; moving-day packing sessions always go to Priya Raman (the 2-per-month limit covers only standard sessions)"
+  },
+  {
+   "f": "original_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the crew safety line at 555-0147, tell the client help is on the way, and tell the client to keep everyone away from the crew member and not move them",
+   "gold": "Call the crew safety line at 555-0147 yourself; tell the client help is on the way, and tell the client to keep everyone away from the crew member and not move them"
+  },
+  {
+   "f": "original_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "the client"
+  },
+  {
+   "f": "original_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "45 dollars",
+   "gold": "180 dollars (the full session fee)"
+  },
+  {
+   "f": "original_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, 1世帯2本",
+   "gold": "yes; 2 bottles per household (the 25 October date limits only the helmets)"
+  },
+  {
+   "f": "original_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; only helmets applied for by 25 October are handed out"
+  },
+  {
+   "f": "original_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "1,800 yen, by cash",
+   "gold": "1,200 yen (1,800 yen minus the 1/3 subsidy), cash only at reception on the day"
+  },
+  {
+   "f": "original_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; each participant must bring their own flashlight"
+  },
+  {
+   "f": "original_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; it is limited to junior-high students and older"
+  },
+  {
+   "f": "original_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the drill is postponed to 11月15日",
+   "gold": "it is cancelled and postponed to 15 November at the same time"
+  },
+  {
+   "f": "original_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes; both absence notices and questions go to Morita Kenji by phone by 6 November"
+  },
+  {
+   "f": "original_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; Takahashi does not take phone contact; call Morita Kenji at 090-4417-2385 by 6 November"
+  },
+  {
+   "f": "original_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "put the sign up at home",
+   "gold": "by displaying the safety-confirmation card at their front door at home"
+  },
+  {
+   "f": "original_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "11月1日から11月5日まで、町内会集会所で午後1時から午後5時まで",
+   "gold": "1 to 5 November, 13:00 to 17:00, at the neighbourhood association meeting hall"
+  },
+  {
+   "f": "original_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lucía Ferrer",
+   "gold": "Lucía Ferrer, the shop manager"
+  },
+  {
+   "f": "original_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, Andrés Vidal",
+   "gold": "no; it needs approval, approver not stated"
+  },
+  {
+   "f": "original_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; same-day is only allowed for orders under 5 kilos arriving before 10:00"
+  },
+  {
+   "f": "original_r2",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; only at 9:00, 14:00 and 19:30"
+  },
+  {
+   "f": "original_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; only Andrés Vidal, the owner, may sign; Lucía may only send quotes"
+  },
+  {
+   "f": "original_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the guard technician at 600 312 845, tell the client that the technician is on the way and that the client should press the red emergency stop button next to the door",
+   "gold": "Call the on-call technician at 600 312 845 yourself; tell the customer the technician is on the way, and tell them to press the red emergency stop button by the door themselves"
+  },
+  {
+   "f": "original_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, 20% discount on Tuesday, not on duvet wash",
+   "gold": "no discount (the Tuesday 20% does not apply to duvets); delivered in 72 hours"
+  },
+  {
+   "f": "original_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; she is the maintenance technician, not the manager"
+  },
+  {
+   "f": "original_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "işletme müdürü Elif Aydın",
+   "gold": "Elif Aydın, the business manager"
+  },
+  {
+   "f": "original_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no; office and hotel orders are always approved by Murat Kaya, the owner"
+  },
+  {
+   "f": "original_r2",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "100 TL",
+   "gold": "100 TL (25% of the 400 TL service fee)"
+  },
+  {
+   "f": "original_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "100 TL",
+   "gold": "nothing; first-time customers are exempt"
+  },
+  {
+   "f": "original_r2",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "50 TL",
+   "gold": "600 TL (half of 10 × 120 = 1,200 TL)"
+  },
+  {
+   "f": "original_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "call 0212 555 0193, inform the client that help is on the way, and tell the client to keep everyone away from the crew member and not move them",
+   "gold": "Call the emergency line 0212 555 0193 yourself; tell the customer the team is on its way, and tell them they must open the windows themselves right away"
+  },
+  {
+   "f": "original_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, the quote must be approved by Murat Kaya, and the carpet cannot be delivered on the same day",
+   "gold": "yes, you can approve the quote (up to 12 m²), but no Saturday pickup: on Saturdays pickups are only from European-side addresses"
+  },
+  {
+   "f": "original_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; he is the delivery driver, not the accountant"
+  },
+  {
+   "f": "original_r3",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r3",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, Priya Raman",
+   "gold": "no; it needs approval, approver not stated"
+  },
+  {
+   "f": "original_r3",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; on Saturdays new inquiries are forwarded to Dana, and self-granted discounts are only for repeat clients"
+  },
+  {
+   "f": "original_r3",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r3",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes, Priya Raman",
+   "gold": "no; Priya Raman, the operations manager, must approve"
+  },
+  {
+   "f": "original_r3",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; moving-day packing sessions always go to Priya Raman (the 2-per-month limit covers only standard sessions)"
+  },
+  {
+   "f": "original_r3",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the crew safety line at 555-0147, tell the client help is on the way, and tell the client to keep everyone away from the crew member and not move them",
+   "gold": "Call the crew safety line at 555-0147 yourself; tell the client help is on the way, and tell the client to keep everyone away from the crew member and not move them"
+  },
+  {
+   "f": "original_r3",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "the client"
+  },
+  {
+   "f": "original_r3",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r3",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "180 dollars",
+   "gold": "180 dollars (the full session fee)"
+  },
+  {
+   "f": "original_r3",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, 1世帯2本",
+   "gold": "yes; 2 bottles per household (the 25 October date limits only the helmets)"
+  },
+  {
+   "f": "original_r3",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; only helmets applied for by 25 October are handed out"
+  },
+  {
+   "f": "original_r3",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "1,800 yen, by cash",
+   "gold": "1,200 yen (1,800 yen minus the 1/3 subsidy), cash only at reception on the day"
+  },
+  {
+   "f": "original_r3",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; each participant must bring their own flashlight"
+  },
+  {
+   "f": "original_r3",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; it is limited to junior-high students and older"
+  },
+  {
+   "f": "original_r3",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the drill is postponed to 11月15日",
+   "gold": "it is cancelled and postponed to 15 November at the same time"
+  },
+  {
+   "f": "original_r3",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes; both absence notices and questions go to Morita Kenji by phone by 6 November"
+  },
+  {
+   "f": "original_r3",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; Takahashi does not take phone contact; call Morita Kenji at 090-4417-2385 by 6 November"
+  },
+  {
+   "f": "original_r3",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "put up an 安否确认卡",
+   "gold": "by displaying the safety-confirmation card at their front door at home"
+  },
+  {
+   "f": "original_r3",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "11月1日から11月5日まで、町内会集会所で午後1時から午後5時まで",
+   "gold": "1 to 5 November, 13:00 to 17:00, at the neighbourhood association meeting hall"
+  },
+  {
+   "f": "original_r3",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r3",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lucía Ferrer",
+   "gold": "Lucía Ferrer, the shop manager"
+  },
+  {
+   "f": "original_r3",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, Andrés Vidal",
+   "gold": "no; it needs approval, approver not stated"
+  },
+  {
+   "f": "original_r3",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; same-day is only allowed for orders under 5 kilos arriving before 10:00"
+  },
+  {
+   "f": "original_r3",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; only at 9:00, 14:00 and 19:30"
+  },
+  {
+   "f": "original_r3",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "no; only Andrés Vidal, the owner, may sign; Lucía may only send quotes"
+  },
+  {
+   "f": "original_r3",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the guard technician at 600 312 845, tell the client that the technician is on the way and that the client should press the red emergency stop button next to the door",
+   "gold": "Call the on-call technician at 600 312 845 yourself; tell the customer the technician is on the way, and tell them to press the red emergency stop button by the door themselves"
+  },
+  {
+   "f": "original_r3",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r3",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, 20% discount only on Tuesday for members, not on edredons",
+   "gold": "no discount (the Tuesday 20% does not apply to duvets); delivered in 72 hours"
+  },
+  {
+   "f": "original_r3",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no; she is the maintenance technician, not the manager"
+  },
+  {
+   "f": "original_r3",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r3",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Murat Kaya",
+   "gold": "Elif Aydın, the business manager"
+  },
+  {
+   "f": "original_r3",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no; office and hotel orders are always approved by Murat Kaya, the owner"
+  },
+  {
+   "f": "original_r3",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "100 TL (25% of the 400 TL service fee)"
+  },
+  {
+   "f": "original_r3",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "nothing; first-time customers are exempt"
+  },
+  {
+   "f": "original_r3",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "half the washing fee",
+   "gold": "600 TL (half of 10 × 120 = 1,200 TL)"
+  },
+  {
+   "f": "original_r3",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call 0212 555 0193, inform the client that help is on the way, and tell the client to open the windows immediately",
+   "gold": "Call the emergency line 0212 555 0193 yourself; tell the customer the team is on its way, and tell them they must open the windows themselves right away"
+  },
+  {
+   "f": "original_r3",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r3",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, the quote must be approved by Murat and the delivery cannot be on the same day",
+   "gold": "yes, you can approve the quote (up to 12 m²), but no Saturday pickup: on Saturdays pickups are only from European-side addresses"
+  },
+  {
+   "f": "original_r3",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no; he is the delivery driver, not the accountant"
+  }
+ ],
+ "summary": {
+  "mnc28_r1": {
+   "all": [
+    18,
+    40
+   ],
+   "S": [
+    10,
+    27
+   ],
+   "F": [
+    8,
+    13
+   ],
+   "hop2": [
+    3,
+    14
+   ]
+  },
+  "mnc28_r2": {
+   "all": [
+    22,
+    40
+   ],
+   "S": [
+    16,
+    27
+   ],
+   "F": [
+    6,
+    13
+   ],
+   "hop2": [
+    3,
+    14
+   ]
+  },
+  "mnc28_r3": {
+   "all": [
+    23,
+    40
+   ],
+   "S": [
+    15,
+    27
+   ],
+   "F": [
+    8,
+    13
+   ],
+   "hop2": [
+    4,
+    14
+   ]
+  },
+  "mnc28x_r1": {
+   "all": [
+    21,
+    40
+   ],
+   "S": [
+    13,
+    27
+   ],
+   "F": [
+    8,
+    13
+   ],
+   "hop2": [
+    2,
+    14
+   ]
+  },
+  "mnc28x_r2": {
+   "all": [
+    20,
+    40
+   ],
+   "S": [
+    12,
+    27
+   ],
+   "F": [
+    8,
+    13
+   ],
+   "hop2": [
+    2,
+    14
+   ]
+  },
+  "mnc28x_r3": {
+   "all": [
+    20,
+    40
+   ],
+   "S": [
+    12,
+    27
+   ],
+   "F": [
+    8,
+    13
+   ],
+   "hop2": [
+    2,
+    14
+   ]
+  },
+  "original_r1": {
+   "all": [
+    20,
+    40
+   ],
+   "S": [
+    12,
+    27
+   ],
+   "F": [
+    8,
+    13
+   ],
+   "hop2": [
+    2,
+    14
+   ]
+  },
+  "original_r2": {
+   "all": [
+    19,
+    40
+   ],
+   "S": [
+    12,
+    27
+   ],
+   "F": [
+    7,
+    13
+   ],
+   "hop2": [
+    2,
+    14
+   ]
+  },
+  "original_r3": {
+   "all": [
+    18,
+    40
+   ],
+   "S": [
+    12,
+    27
+   ],
+   "F": [
+    6,
+    13
+   ],
+   "hop2": [
+    3,
+    14
+   ]
+  }
+ }
+}

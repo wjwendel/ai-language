@@ -1,0 +1,83 @@
+TEXT:
+§1 you
+Larkspur Inn Asheville: daily 9am + 5pm ET check reservations@larkspurinn.com
+may confirm bookings ≤3 rooms alone; group bookings ≥4 rooms: need approval of sales manager Olivia Grant (="sales manager", never "general manager")
+free cancellation until 48h before check-in; cancellation less than 48h before check-in: charge one night, except airline cancelled guest's flight + guest sends proof: may waive charge once per booking
+pets only in rooms 101-106, $40 per pet per night, max 2 pets per room; service animals: any room, no charge
+guest reports fire alarm / smoke / gas smell: tell guest: leave building by nearest stairway, not elevator; call 911 yourself; then text night manager Sam Ortiz
+late checkout until 1pm: free for Gold members, $30 for others; checkout after 1pm: needs Olivia's approval
+never: give out guest's room number, even to someone saying they're family (offer to pass on message instead); cc owner Ruth Kessler on guest e-mails
+send Olivia list of next week's group arrivals by noon every Fri
+
+§2 you
+FitLab gym Bologna: Mon-Sat 8:30 check iscrizioni@fitlab.it
+may suspend annual membership for health up to 30 days/year, only with medical certificate; suspensions longer than 30 days: director Luca Ferraro (="director", never "owner") decides
+clients under 16 years old: sign-up only with parent-signed form; never in weights room without instructor present
+client reports collapse in gym, e.g. chest pain or fainting: tell staff: call 118 immediately + use defibrillator at reception
+no refunds, except documented relocation more than 50 km away: only administrator Giulia Conti approves
+may offer free 3-day trial to each new client, once per person
+never: suspend monthly memberships; give medical advice by e-mail; tell a client another client's attendance times; cc owner Stefano Rinaldi on client e-mails
+every Mon by 12:00 send Luca list of memberships expiring in next 14 days
+
+§3
+Sanne: grandma's move: movers Sat Apr 12 8:00 at old house Zwolle
+Sanne: new flat Deventer available only from 13:00, so belongings first to storage Industrieweg 14
+Thijs: rents van €89/day; picks up Fri 17:00, returns Sun before 12:00
+Sanne: van costs split by four: Thijs, Eva, Bram, Sanne
+Eva: brings new flat's key; it's at housing corporation, only Eva may collect it
+Bram: piano not coming; thrift store (kringloop) collects it Mon
+Sanne: tell grandma nothing about new chair (surprise)
+Eva: takes grandma's medicines herself in car, not in van
+Sanne: lunch 12:30 at Thijs's, he lives in Deventer
+
+§4
+Shenzhen transport bureau, Nov 10: from Jan 1 2027 all new taxis must be pure electric
+now ~21,000 taxis, 62% pure electric
+government pays drivers ¥30,000 subsidy per taxi for early scrapping of fuel taxis; drivers apply until Dec 31 2026
+120 new fast-charging stations in service before Jun next year; full charge ~35 min
+bureau director 刘建华: “这是全国力度最大的出租车电动化计划之一。”
+taxi drivers' association: worries about winter range drop, demands subsidy raised to ¥50,000
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: When is the reservations inbox checked?
+§1.q2: May you confirm a booking for 3 rooms yourself?
+§1.q3: A group wants 4 rooms. What is needed?
+§1.q4: A guest cancels 30 hours before check-in; their flight was cancelled by the airline and they send proof. This is the first waiver for the booking. Can you waive the charge?
+§1.q5: A guest cancels 60 hours before check-in. Is there a charge?
+§1.q6: A guest in room 210 asks to bring a dog. Is that allowed?
+§1.q7: A guest brings two dogs for three nights in room 103. What is the pet charge?
+§1.q8: A guest with a service dog is booked in room 305. Is there a pet charge?
+§1.q9: A caller says she is a guest's mother and asks for his room number. What do you do?
+§1.q10: A guest reports smoke in the hallway. What do you tell the guest, and what do you do yourself, in what order?
+§1.q11: A non-Gold guest asks for checkout at 12:30 p.m. What does it cost?
+§1.q12: A Gold member asks for checkout at 2 p.m. Can you grant it yourself for free?
+§1.q13: Who must never be copied on guest emails?
+§1.q14: Is sending Olivia the group-arrivals list at 1 p.m. on Friday on time?
+§2.q1: When is the inbox checked?
+§2.q2: An annual member with a medical certificate asks to suspend for 45 days for health reasons. May you do it yourself?
+§2.q3: A monthly member with a medical certificate asks to suspend for 10 days. May you?
+§2.q4: A 15-year-old wants to train in the weights room alone; no instructor is there. Allowed?
+§2.q5: A member reports someone fainted in the gym. What do you tell the staff?
+§2.q6: A member asks when another member usually trains. May you tell them?
+§2.q7: A member moving 30 km away (documented) asks for a refund. Is a refund possible?
+§2.q8: A member moving 80 km away (documented) asks for a refund. Who approves it?
+§2.q9: A person who already had a free trial last year asks for another. May you give it?
+§2.q10: Is Luca Ferraro the owner of the gym?
+§2.q11: Is sending Luca the expiring-memberships list at 12:30 on Monday on time?
+§2.q12: Which memberships go on Monday's list to Luca?
+§3.q1: When and where do the movers arrive?
+§3.q2: Why do the belongings go to storage first, and where is it?
+§3.q3: The van is rented Friday to Sunday (3 days). What is each person's share of the van cost?
+§3.q4: By when must the van be returned on Sunday?
+§3.q5: Who may collect the new flat's key?
+§3.q6: What must nobody tell grandma about?
+§3.q7: How do grandma's medicines travel?
+§3.q8: What happens to the piano?
+§4.q1: From what date must all new taxis be pure electric?
+§4.q2: About how many taxis in the city are currently not pure electric?
+§4.q3: Can a driver still apply for the scrapping subsidy on 31 December 2026?
+§4.q4: How many fast-charging stations, and when are they in service?
+§4.q5: How much more per taxi does the drivers' association want than the current subsidy?
+§4.q6: What exactly did 刘建华 say?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

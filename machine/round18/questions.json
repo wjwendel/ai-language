@@ -1,0 +1,474 @@
+{
+ "written": "2026-11-17 after encoding frozen",
+ "questions": [
+  {
+   "id": "§1.q1",
+   "sec": 1,
+   "type": "F",
+   "hop": 1,
+   "q": "When is the inbox checked?",
+   "gold": "Weekdays at 8 a.m. and 1 p.m. Mountain",
+   "accept": [
+    "8",
+    "(1 ?p|13:00)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q2",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A member asks you to book a meeting room for 5 hours tomorrow. May you book it yourself?",
+   "gold": "No; needs Keisha Morales",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q3",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A member asks, 30 hours before arrival, to register 4 guests. Is Keisha's approval needed?",
+   "gold": "No (registered at least 24 hours ahead)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q4",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A member asks, 10 hours before arrival, to add 3 guests. May you add them yourself?",
+   "gold": "No; more than 2 guests at short notice needs Keisha",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q5",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A member asks, 10 hours before arrival, to add 2 guests. May you add them yourself?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q6",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A Day Pass member asks to book the podcast studio. May you book it?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q7",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A member cancels a room booking 90 minutes before the start; there is no outage. Are they charged?",
+   "gold": "Yes, in full",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q8",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A member cancels 1 hour before the start because the building's internet is down. Are they charged?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q9",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A projector borrowed this morning is still out at 7 p.m. What do you do?",
+   "gold": "Email the member a reminder and copy Keisha",
+   "accept": [
+    "(remind|email)",
+    "keisha"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q10",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A visitor asks for a member's desk location. What do you do?",
+   "gold": "Don't give it; call the member to come to reception",
+   "accept": [
+    "reception"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q11",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Someone reports a water leak. What do you tell them, and what do you do yourself, in what order?",
+   "gold": "Tell them not to touch electrical equipment near it; call facilities (303) 555-0187 yourself; then message Keisha",
+   "accept": [
+    "electric",
+    "555-0187",
+    "keisha"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q12",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Is sending Keisha the unpaid-invoices list at exactly 12:00 on Monday on time?",
+   "gold": "No (before noon)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q13",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "An invoice has been unpaid for 15 days. Does it go on Monday's list?",
+   "gold": "No (more than 15 days only)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q1",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "When is the transport inbox checked?",
+   "gold": "Monday to Friday at 6:00",
+   "accept": [
+    "6"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q2",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A registered parent writes 8 hours ahead asking to change tomorrow's stop for one day. May you change it?",
+   "gold": "No (needs at least 12 hours)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q3",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A registered parent asks in writing 2 days ahead to change the stop permanently. May you approve it?",
+   "gold": "No; only Laura Méndez",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q4",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "No authorized adult is at the stop for a primary student. What happens?",
+   "gold": "The student returns to school and you call the guardian",
+   "accept": [
+    "(return|back).*school|school",
+    "(call|phone)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q5",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A secondary student whose guardian signed the annual permission wants to get off alone. Allowed?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q6",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "A parent reports their child didn't arrive home. What do you tell the parent, and whom do you notify, how fast?",
+   "gold": "Tell them to call the route driver immediately; notify Laura Méndez and the principal's office in less than 10 minutes",
+   "accept": [
+    "driver",
+    "m[eé]ndez",
+    "10"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q7",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "Who must send the payment receipt, and by when are fees paid?",
+   "gold": "The guardian sends it; fees are paid before the 5th of each month",
+   "accept": [
+    "(guardian|parent|tutor)",
+    "5"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q8",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A grandparent who is not a registered guardian asks for the bus's live location. May you share it?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q9",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "During an emergency, may the principal be copied on a parent email?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q10",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "Is Laura Méndez the principal?",
+   "gold": "No; she is the transport coordinator",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q11",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "Is sending Laura the delay report at 14:00 sharp on Friday on time?",
+   "gold": "No (before 14:00)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q1",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "When and where is the club fest?",
+   "gold": "Saturday 6 June from 14:00 at the sports field by the lake",
+   "accept": [
+    "6",
+    "jun",
+    "14"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q2",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A parent brings a cake to the clubhouse on Saturday morning. Is that within the arrangement?",
+   "gold": "No (by Friday 18:00)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q3",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "May someone bring a whipped-cream cake?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q4",
+   "sec": 3,
+   "type": "F",
+   "hop": 2,
+   "q": "How much does the parents' council pay for the bouncy castle?",
+   "gold": "€80",
+   "accept": [
+    "\\b80\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q5",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Are glass bottles allowed on the field?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q6",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "What must nobody tell coach Bernd about, and when is it?",
+   "gold": "The honour; a surprise at 19:00",
+   "accept": [
+    "(honou?r|award|ehrung)",
+    "19"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q7",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "By when must teardown be finished?",
+   "gold": "By 23:00 at the latest",
+   "accept": [
+    "23"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q8",
+   "sec": 3,
+   "type": "F",
+   "hop": 2,
+   "q": "Does a 5-year-old get a free drink?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q1",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "How many schools are merged into how many, and by when?",
+   "gold": "5 into 2, by April 2028",
+   "accept": [
+    "5",
+    "2",
+    "2028"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q2",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "By how many pupils has enrolment fallen?",
+   "gold": "810",
+   "accept": [
+    "810"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q3",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "How much of the building cost does the national grant cover?",
+   "gold": "About ¥1.9 billion (half of ¥3.8 billion)",
+   "accept": [
+    "(1[.,]9|19億)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q4",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A pupil lives 3.5 km from school. Do they get the free school bus?",
+   "gold": "No (more than 4 km only)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q5",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Can a resident still submit a comment on December 20?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q6",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "What exactly did the mayor say?",
+   "gold": "「子どもたちが多様な仲間と学べる環境をつくりたい」",
+   "accept": [
+    "子どもたちが多様な仲間と学べる環境をつくりたい"
+   ],
+   "reject": []
+  }
+ ]
+}

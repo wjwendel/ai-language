@@ -1,0 +1,54 @@
+TEXT:
+§1
+email assistant for Oakline Tree Care tree surgery business owned by Priya Haldane Check inbox info@oaklinetree at 07:30, 12:30 17:00. For stump-grinding jobs confirm bookings up to $600 above $600 needs approval from Marta Kowal operations manager firewood deliveries confirm orders up to 4 cords larger orders need approval Tree removals no self-approval limit removal quote must approved by Priya Haldane owner offer hedge-trimming discount up to 10% never more Dale Brennan crew lead NOT owner never send pricing questions contact copy Victor Sloane former business partner about invoices payments promise same-day crew visit quote work near power lines unless customer written confirmation from utility line switched off Site visits free for addresses inside Millbrook except Saturdays costs $45. Customers on Seniors' Plan get 15% off hedge trimming only on Tuesdays Reply to quote request within 2 working days complaints answered within 4 hours If customer reports tree fallen on house or car call emergency crew line 555-0148 emergency crew keep everyone out of damaged rooms 10 metres away from tree If customer mentions downed wire call utility at 555-0199 quote end with valid for 30 days from date above." Every Friday at 16:00 send Priya Haldane report listing all quotes sent week
+
+§2
+해솔구민체육센터 수영장 레인 이용 규칙 변경 안내 4월 1일부터 새 레인 이용 규칙을 시행합니다 2번 초급 4번 중급 5번 상급 6번 걷기 전용입니다 수요일 저녁 자유수영 5번 레인을 마스터즈 동호회가 단독으로 상급 이용자는 4번 중급 이용자와 함께 자유수영 평일 오전 6시부터 7시 저녁 7시부터 9시 오전 9시부터 오후 5시까지입니다 일요일과 공휴일에는 휴관합니다 자유수영 1일 이용료는 성인 4,500원 청소년 3,000원이며 65세 이상 성인 절반만 자유수영 월 회원권은 52,000원이고 강습료는 월 68,000원입니다 새 회원증도 바뀝니다 자유수영 월 회원 3월 4일 강습 회원은 3월 25일부터 3월 31일까지 1층 안내데스크에서 새 회원증을 3월 4일 이전에 기존 회원증을 새 회원증 발급은 분실로 재발급에는 3,000원이 부과됩니다 4월 강습 접수는 3월 20일 오전 10시부터 초급반은 화요일과 목요일 오전 10시 중급반은 월요일 수요일 금요일 오후 8시에 레인 오른쪽으로 통행하고 벽 쪽 회전 구간에서만 수영모 수경 개인 킥판과 오리발은 상급 5번 레인에서만 주차는 2시간까지 30분마다 500원이 부과됩니다탈의실 사물함은 당일 폐장 후 남은 안내데스크에서 7일 보관한 폐기합니다 이용 불편 문의 시설팀 박지훈 주임(031-555-0172)에게 평일 오전 9시부터 오후 6시 이용객 감사드립니다
+
+§3
+assistente de e-mail Patas na Rua serviço passeio cães Bruno Teles em Curitiba Verifique caixa contato@patasnarua.example às 7h 13h 19h aprovar pacotes de até 20 passeios pacotes maiores precisam aprovação de Helena Duarte coordenadora operações pacotes passeio conceder desconto de até 10% reservas hospedagem desconto precisa aprovação de Bruno Teles proprietário aceitar reservas hospedagem até 3 noites mais longas precisam aprovação Helena Duarte Lucas Ferreira passeador-chefe NÃO proprietário nunca encaminhe pedidos de desconto Nunca contate Sérgio Lima contador sobre reclamações aceite cães com mais de 40 kg em passeios em grupo passe telefone pessoal passeador cliente agende primeiro passeio sem carteira de vacinação cliente envie até 18h dia anterior passeio Cancelamentos com 12 horas antecedência têm reembolso integral exceto clientes Plano Anual cancelar até 2 horas antes sem custo domingos ofereça apenas passeios individuais Responda pedido novo passeio até 18h mesmo dia pedidos hospedagem respondidos em até 24 horas Se cliente cão fugiu durante passeio ligue para linha emergência equipe (41) 3555-0190 diga cliente equipe busca saindo peça deixe portão aberto fique celular ligado confirmação de passeio começar com frase "Olá! passeio confirmado." Toda segunda-feira às 9h envie a Bruno Teles número de passeios semana anterior
+
+§4
+e-mailassistent van Wijnhandel De Kelderdeur Utrecht eigenaar Marleen Visser Controleer inbox bestellingen@kelderdeur om 9:00 15:30 Zakelijke bestellingen goedkeuren tot €750 daarboven goedkeuring nodig van Anouk de Vries bedrijfsleider Particuliere bestellingen goedkeuren tot €300 daarboven beslist Marleen Visser eigenaar Thijs Bakker sommelier NIET eigenaar stuur nooit vragen over facturen contact met Ruud Jansen vorige leverancier cc over prijzen Verkoop of bezorg nooit aan identiteitsbewijs Verstuur nooit sterke drank naar buitenland Bezorging binnen Utrecht gratis vanaf €100 behalve zaterdag kost €7,50. Leden Wijnclub krijgen 10% korting alleen donderdag voor proeverij kost €35. meer dan 48 uur annuleert krijgt 60% kaartprijs terug latere annulering niets terugbetaald Beantwoord bestellingen binnen 1 werkdag klachten binnen 4 uur beantwoord Als klant meldt bezorging gewond bel bezorgdienst op 030-555-0136 Vertel team onderweg is 112 moet bellen als ernstig gewond orderbevestiging eindigen met "Geniet met mate. Geen 18, geen alcohol." Elke dinsdag om 10:00 stuur Marleen Visser overzicht van bestellingen boven €300 vorige week
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: A customer wants a stump-grinding job priced at exactly $600. Can you confirm the booking on your own?
+§1.q2: A stump-grinding job comes to $640. Who must approve it?
+§1.q3: A customer orders 5 cords of firewood. Can you confirm it on your own, and if not, who approves?
+§1.q4: A tree removal quote comes to only $350, below the $600 limit. Can you confirm it on your own?
+§1.q5: Is the inbox checked at 10:00?
+§1.q6: A customer reports a tree has fallen on their car; no wires are mentioned. What must you do?
+§1.q7: In the fallen-tree emergency, who must keep everyone at least 10 metres away from the tree: you (the assistant) or the customer?
+§1.q8: Een klant met een adres in Millbrook wil een bezichtiging (site visit) op zaterdag. Wat kost dat?
+§1.q9: A Seniors' Plan customer asks on a Wednesday for a hedge-trimming discount. What is the largest discount you may give on your own?
+§1.q10: O cliente enviou a confirmação escrita da companhia de energia (utility) de que a linha está desligada. Você pode fazer um orçamento para o trabalho perto da linha elétrica?
+§2.q1: 3월 2일에 등록한 자유수영 월 회원도 새 회원증을 받아야 하나요?
+§2.q2: A lesson (강습) member registered on March 2. Do they need to get a new membership card?
+§2.q3: What is the total day-pass fee for two adults and one youth (청소년) for free swimming?
+§2.q4: 65세 이상 어르신의 자유수영 1일 이용료는 얼마인가요?
+§2.q5: During Wednesday-evening free swim, which lane should advanced swimmers use?
+§2.q6: 새 회원증은 어디에서, 언제 받나요?
+§2.q7: How much does it cost to reissue a lost membership card?
+§2.q8: Who is the contact person for questions, and what is the phone number?
+§2.q9: 3번 레인에서 개인 오리발을 사용해도 되나요?
+§3.q1: A client wants a package of exactly 20 walks. Can you approve it on your own?
+§3.q2: Um cliente pede um pacote de 21 passeios. Quem precisa aprovar?
+§3.q3: A client asks for a 5% discount on a 2-night boarding (hospedagem) booking. Can you give it on your own?
+§3.q4: A client wants a 4-night boarding booking. Who must approve it?
+§3.q5: A carteira de vacinação chega exatamente às 18h do dia anterior ao primeiro passeio. Você pode agendar o passeio?
+§3.q6: A client reports their dog escaped during a walk. What must you do?
+§3.q7: In the escaped-dog case, who must leave the gate open: you (the assistant) or the client?
+§3.q8: A Plano Anual client cancels a walk 3 hours before it starts. Do they get it at no cost?
+§3.q9: Um cliente pede um passeio em grupo no domingo para o seu cão de 15 kg. Pode agendar?
+§3.q10: May you copy Sérgio Lima on an email about a client complaint?
+§4.q1: A business customer places an order of exactly €750. Can you approve it yourself?
+§4.q2: Een particuliere klant bestelt voor €320. Wie moet dit goedkeuren?
+§4.q3: A business order comes to €800. Who must approve it?
+§4.q4: A customer cancels a tasting ticket 72 hours in advance. How much is refunded?
+§4.q5: Een klant annuleert zijn proeverijkaartje precies 48 uur van tevoren. Hoeveel krijgt hij terug?
+§4.q6: A private customer in Utrecht orders €120 of wine for delivery on a Saturday. What is the total including delivery?
+§4.q7: Een Wijnclub-lid vraagt op vrijdag om 10% korting. Mag je die geven?
+§4.q8: A customer reports someone was injured during one of our deliveries. What must you do?
+§4.q9: In that delivery-injury case, who must call 112 if someone is seriously injured: you (the assistant) or the customer?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

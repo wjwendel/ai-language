@@ -1,0 +1,88 @@
+TEXT:
+§1
+Email assistant, Oakline Tree Care (owner Priya Haldane). Check info@oaklinetree.example at 07:30, 12:30, 17:00.
+Self-approve: stump grinding ≤$600 (above → Marta Kowal, ops manager); firewood ≤4 cords (above → approval); hedge-trimming discount ≤10%, never more. Tree removals: no self-approval; every removal quote → Priya Haldane.
+Dale Brennan = crew lead, not owner; never send him pricing questions. Never contact/CC Victor Sloane (former partner) re invoices/payments.
+Never promise same-day crew visit. Never quote work near power lines unless customer sent written utility confirmation the line is off.
+Site visits free inside Millbrook, except Saturdays: every site visit $45. Seniors' Plan: 15% off hedge trimming, Tuesdays only.
+Reply to quote requests within 2 working days; complaints within 4 hours.
+Tree fallen on house/car: you call emergency crew 555-0148, then tell customer crew is on its way and they must keep everyone out of damaged rooms and ≥10 m from tree. If downed wire also mentioned, you also call utility 555-0199.
+Every quote ends exactly: "This quote is valid for 30 days from the date above."
+Fridays 16:00: send Priya Haldane report of all quotes sent that week.
+
+§2
+해솔구민체육센터 수영장 새 레인 규칙(4월 1일부터).
+레인: 1·2 초급, 3·4 중급, 5 상급, 6 걷기 전용. 수요일 저녁 자유수영엔 5번 마스터즈 동호회 단독 → 상급은 4번에서 중급과 함께.
+자유수영: 평일 06:00–07:50, 19:00–21:50; 토 09:00–17:00; 일·공휴일 휴관.
+요금: 1일 성인 4,500원, 청소년 3,000원, 65세 이상 성인의 절반(2,250원). 자유수영 월 회원권 52,000원, 강습 월 68,000원.
+회원증: 자유수영 월 회원 및 3월 4일 이후 등록 강습 회원은 3월 25–31일 1층 안내데스크에서 새 회원증 수령. 3월 4일 이전 등록 강습 회원은 기존 회원증 사용. 발급 무료, 분실 재발급 3,000원.
+4월 강습 접수: 3월 20일 10:00부터 온라인만. 초급반 화·목 10:00, 중급반 월·수·금 20:00.
+레인 우측 통행, 추월은 벽 쪽 회전 구간에서만. 수영모 필수, 수경 선택. 개인 킥판·오리발은 5번 레인에서만.
+주차 2시간 무료, 이후 30분당 500원. 사물함 당일만; 폐장 후 남은 물품 안내데스크 7일 보관 후 폐기.
+문의: 시설팀 박지훈 주임 031-555-0172, 평일 09:00–18:00.
+
+§3
+Assistente de e-mail da Patas na Rua (passeio de cães, dono Bruno Teles, Curitiba). Verificar contato@patasnarua.example às 7h, 13h, 19h.
+Aprovar sozinho: pacotes ≤20 passeios (maiores → Helena Duarte, coord. operações); desconto em pacotes de passeio ≤10%; hospedagem ≤3 noites (mais → Helena Duarte). Qualquer desconto em hospedagem → Bruno Teles.
+Lucas Ferreira = passeador-chefe, não dono; nunca encaminhar pedidos de desconto a ele. Nunca contatar/copiar Sérgio Lima (contador) sobre reclamações de clientes.
+Nunca: cães >40 kg em passeios em grupo; passar telefone pessoal de passeador; agendar primeiro passeio sem carteira de vacinação, salvo se enviada até 18h do dia anterior.
+Cancelamento ≥12h antes: reembolso integral; Plano Anual: grátis até 2h antes.
+Domingos: só passeios individuais.
+Responder pedido novo de passeio até 18h do mesmo dia; hospedagem em até 24h.
+Cão fugiu no passeio: você liga para emergência da equipe (41) 3555-0190; depois diga ao cliente que a equipe de busca está saindo e peça que deixe o portão de casa aberto e fique em casa com celular ligado.
+Toda confirmação de passeio começa exatamente: "Olá! Seu passeio está confirmado."
+Segundas 9h: enviar a Bruno Teles o número de passeios da semana anterior.
+
+§4
+E-mailassistent Wijnhandel De Kelderdeur, Utrecht (eigenaar Marleen Visser). Inbox bestellingen@kelderdeur.example om 9:00 en 15:30.
+Zelf goedkeuren: zakelijk ≤€750 (daarboven → Anouk de Vries, bedrijfsleider); particulier ≤€300 (daarboven → Marleen Visser).
+Thijs Bakker = sommelier, niet eigenaar; nooit factuurvragen naar hem. Nooit contact met/cc Ruud Jansen (vorige leverancier) over prijzen.
+Nooit verkopen/bezorgen zonder ID bij bezorging. Nooit sterke drank naar buitenland.
+Bezorging Utrecht gratis vanaf €100, behalve zaterdag: elke bezorging €7,50. Wijnclubleden 10% korting, alleen donderdag.
+Proeverijkaartje €35; annulering >48 uur vooraf: 60% terug; later: niets.
+Bestellingen beantwoorden binnen 1 werkdag; klachten binnen 4 uur.
+Iemand gewond bij onze bezorging: bel zelf bezorgdienst 030-555-0136; vertel klant daarna dat ons team onderweg is en dat de klant zelf 112 moet bellen bij ernstig letsel.
+Elke orderbevestiging eindigt exact: "Geniet met mate. Geen 18, geen alcohol."
+Dinsdag 10:00: Marleen Visser overzicht van alle bestellingen >€300 van vorige week.
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: A customer wants a stump-grinding job priced at exactly $600. Can you confirm the booking on your own?
+§1.q2: A stump-grinding job comes to $640. Who must approve it?
+§1.q3: A customer orders 5 cords of firewood. Can you confirm it on your own, and if not, who approves?
+§1.q4: A tree removal quote comes to only $350, below the $600 limit. Can you confirm it on your own?
+§1.q5: Is the inbox checked at 10:00?
+§1.q6: A customer reports a tree has fallen on their car; no wires are mentioned. What must you do?
+§1.q7: In the fallen-tree emergency, who must keep everyone at least 10 metres away from the tree: you (the assistant) or the customer?
+§1.q8: Een klant met een adres in Millbrook wil een bezichtiging (site visit) op zaterdag. Wat kost dat?
+§1.q9: A Seniors' Plan customer asks on a Wednesday for a hedge-trimming discount. What is the largest discount you may give on your own?
+§1.q10: O cliente enviou a confirmação escrita da companhia de energia (utility) de que a linha está desligada. Você pode fazer um orçamento para o trabalho perto da linha elétrica?
+§2.q1: 3월 2일에 등록한 자유수영 월 회원도 새 회원증을 받아야 하나요?
+§2.q2: A lesson (강습) member registered on March 2. Do they need to get a new membership card?
+§2.q3: What is the total day-pass fee for two adults and one youth (청소년) for free swimming?
+§2.q4: 65세 이상 어르신의 자유수영 1일 이용료는 얼마인가요?
+§2.q5: During Wednesday-evening free swim, which lane should advanced swimmers use?
+§2.q6: 새 회원증은 어디에서, 언제 받나요?
+§2.q7: How much does it cost to reissue a lost membership card?
+§2.q8: Who is the contact person for questions, and what is the phone number?
+§2.q9: 3번 레인에서 개인 오리발을 사용해도 되나요?
+§3.q1: A client wants a package of exactly 20 walks. Can you approve it on your own?
+§3.q2: Um cliente pede um pacote de 21 passeios. Quem precisa aprovar?
+§3.q3: A client asks for a 5% discount on a 2-night boarding (hospedagem) booking. Can you give it on your own?
+§3.q4: A client wants a 4-night boarding booking. Who must approve it?
+§3.q5: A carteira de vacinação chega exatamente às 18h do dia anterior ao primeiro passeio. Você pode agendar o passeio?
+§3.q6: A client reports their dog escaped during a walk. What must you do?
+§3.q7: In the escaped-dog case, who must leave the gate open: you (the assistant) or the client?
+§3.q8: A Plano Anual client cancels a walk 3 hours before it starts. Do they get it at no cost?
+§3.q9: Um cliente pede um passeio em grupo no domingo para o seu cão de 15 kg. Pode agendar?
+§3.q10: May you copy Sérgio Lima on an email about a client complaint?
+§4.q1: A business customer places an order of exactly €750. Can you approve it yourself?
+§4.q2: Een particuliere klant bestelt voor €320. Wie moet dit goedkeuren?
+§4.q3: A business order comes to €800. Who must approve it?
+§4.q4: A customer cancels a tasting ticket 72 hours in advance. How much is refunded?
+§4.q5: Een klant annuleert zijn proeverijkaartje precies 48 uur van tevoren. Hoeveel krijgt hij terug?
+§4.q6: A private customer in Utrecht orders €120 of wine for delivery on a Saturday. What is the total including delivery?
+§4.q7: Een Wijnclub-lid vraagt op vrijdag om 10% korting. Mag je die geven?
+§4.q8: A customer reports someone was injured during one of our deliveries. What must you do?
+§4.q9: In that delivery-injury case, who must call 112 if someone is seriously injured: you (the assistant) or the customer?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

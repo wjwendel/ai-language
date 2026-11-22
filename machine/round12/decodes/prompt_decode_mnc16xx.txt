@@ -1,0 +1,51 @@
+The TEXT below is written in a compact notation. Decode sections §1 and §5 back into complete, natural English prose, as the full original instructions would have been written for an assistant. Then decode §2, §3 and §4 into complete English prose. Keep every fact, number, name, condition, permission, prohibition and deadline exactly; do not add anything that is not in the TEXT.
+
+TEXT:
+§1 you, en
+Hilltop Café: Thu 14:00 CT, Stock sheet+Gmail Suppliers inbox; stock<reorder level→draft order per supplier, "Weekly Order" template
+never send without Rosa approval; draft→approval card, wait
+>$600: Daniel (accounting) checks before Rosa approves; never copy Daniel to supplier
+may adjust qty ≤10% for supplier minimum; never other product/brand
+price increase: never accept/reply; forward Rosa
+owner Kevin Brandt, not Rosa; never contact Kevin on orders
+Rosa="café manager", never "owner"
+sheet not updated since Mon: stop, tell Rosa, never guess
+never phone orders
+drafts Thu 16:00; last Thu/month: Rosa gets month order total
+
+§2 zh
+地铁5号线 S extension trial Dec28: 9.6km, 6 stations, 南湖公园站 (now terminus)→高铁南站
+transport deputy head 王建国: ~¥6.8B, province 1/3
+center→高铁南站 50→25min
+6:00-22:00, peak q4min
+month 1 free, tap card anyway
+was due last 国庆, groundwater→>1yr late
+2 bus lines change next Mar, plan under consultation
+
+§3 fr
+Clara: Morzine chalet ~3h; Fri Jan23 17:00 at Clara's; cars Clara+Hugo
+Hugo: snow tyres rear only→garage Wed
+€840 = €120×7, pay Clara by Jan15
+Inès: Sat fondue shopping; Malik vegetarian, fondue ok
+no pets: Inès's dog→her parents
+Hugo: last yr no chains, stuck 2h→brings chains
+keys Sun <11:00→owner M. Perrin
+
+§4 pt
+Vila Nova da Serra indoor pool shut Mar2-30, new heating
+sports councillor Ana Lopes: ~€410k, EU 75%
+kids' lessons→Ribeirinha pool, free bus Tue/Thu after school
+no Mar fees; >65 free pavilion gym that month
+2019 works 2wk early
+reopen Mar31, free entry
+
+§5 you, pl
+"Termo-Lux": workdays 8:00 serwis@termo-lux.pl
+boiler failure: may book technicians if slot ≤3 days
+gas smell: never book; client calls 992 now; notify Pan Nowak
+never prices; only Pani Wiśniewska (office)
+may move visit 1 day if client asks; never cancel without Nowak consent
+>12 visits/day: tell Nowak at once
+owner Pani Zielińska, not Nowak; never copy her to clients
+Nowak="kierownik serwisu", never "właściciel"
+15:00 Nowak: next day's visits

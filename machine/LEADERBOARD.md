@@ -1,34 +1,271 @@
-# Machine-native code (MNC) leaderboard
 
-All token counts are from tiktoken. Facts kept = strict blind-decode scoring against a language-neutral fact list (a decoder with no context, given only the key and the payload).
+### MNC7 draft (2026-11-01, encoder-side only, NOT reader-tested)
+| Version | Saved o200k / cl100k (bench-v1, 15 passages) | Direct-use | Instruction-safety | Best baseline |
+|---|---|---|---|---|
+| MNC7 draft (scoped condition blocks, split negation lines, no `(=N: no)` gloss) | 31.2% / 41.5% (2273 / 2328 tokens; MNC6 2289 / 2345) | pending (reader not run: RAM) | pending | – |
+Not a result and not a new best; MNC3 stays current best. Details: machine/bench/NEXT.md.
 
-| Round | Passages | Payload saved o200k | Payload saved cl100k | Key tokens o200k / cl100k | Break-even (orig tokens) o200k / cl100k | Facts kept (all decodes) | Lost | Invented | Instruction-safety failures | Blind decoder |
-|---|---|---|---|---|---|---|---|---|---|---|
-| r1 (2026-10-24) | 4 (2 en, 1 es, 1 zh) | 39.0% (938→572) | 49.5% (1153→582) | 186 / 185 | ~477 / ~374 | 94.5% (137/145) | 0 | 0 | not tested | fresh helper subagent |
-| r2 (2026-10-25), previous best | 4 (1 en, 1 es, 1 ja, 1 fr) | 40.8% (1123→665) | 50.0% (1355→677) | 155 / 153 | ~380 / ~306 | 96.6% (171/177) | 0 | 0 | not tested | fresh helper subagent (frontier) |
-| **r3 MNC3 no key, frontier decode B (2026-10-25): current best** | 5 (1 en, 2 es, 1 ko, 1 de; 2 are assistant instructions) | 33.7% (1082→717) | 45.5% (1346→734) | 0 / 0 | 0 | **100% (178/178)** | 0 | 0 | 0 / 47 | fresh frontier-class helper, no context (may share the encoder's model family) |
-| r3 MNC3 + key, frontier decode A | same | 33.7% | 45.5% | 148 / 147 | 439 / 323 | 99.4% (177/178) | 0 | 0 | 0 / 47 | fresh frontier-class helper, no context |
-| r3 MNC3 + key (2026-10-25) | 5 (1 en, 2 es, 1 ko, 1 de; 2 are assistant instructions) | 33.7% (1082→717) | 45.5% (1346→734) | 148 / 147 | 439 / 323 | 93.3% (166/178) | 3 | 0 | 1 / 47 | Qwen2.5-7B, local (much weaker) |
-| r3 MNC3 micro-key | same | 33.7% | 45.5% | 41 / 41 | 122 / 90 | 94.9% (169/178) | 1 | 0 | 3 / 47 | Qwen2.5-7B, local |
-| r3 MNC3 no key | same | 33.7% | 45.5% | 0 / 0 | 0 | 96.1% (171/178) | 4 | 0 facts (2 pleasantries) | 0 / 47 | Qwen2.5-7B, local |
-| control: r2 code on Qwen2.5-7B | r2's 4 | – | – | 155 / 153 | – | 80.8% (143/177) | – | – | – | Qwen2.5-7B, local |
+### r7 MNC7 (2026-11-02/03, local Qwen2.5-7B only; some baselines pending)
+| Version | Saved o200k / cl100k | Direct-use fresh (94 q) | Instruction-safety (direct use / blind decode) | Frozen bench-v1 direct-use | Best baseline |
+|---|---|---|---|---|---|
+| MNC7 no key | 30.1% / 39.8% | 93.6% (original 96.8%) | 4 failures in §1 (permission flip "may fix name typos" → no, en+es; manager actor dropped, en+es) / blind no-key decode 4 failures (FAIL) | **93.2%** at 31.2% / 41.5% saved (MNC6 92.8%, original 91.9%) — top bench version, +1 question, noise-level | fresh: terse English 79.8% at 41.8% / 46.0%; bench: LLMLingua-2 0.66 81.4% |
+Not a new best (loses to original text on fresh passages; safety failures). MNC3 stays current best. Details: machine/round7/SCORES.md. The 78.3% in bench/directuse/score_mnc7.txt is a pre-review regex snapshot, superseded by 93.2%.
 
-r1 per language (o200k / cl100k saved): en 41.5% and 46.2% / 41.4% and 45.8%; es 44.9% / 53.2%; zh 22.7% / 53.7%.
+### r8 MNC8 (2026-11-04 runs, written up 2026-11-05; local Qwen2.5-7B only; some decodes pending)
+| Version | Saved o200k / cl100k | Direct-use fresh (86 q) | Instruction-safety (direct use / blind decode) | Frozen bench-v1 direct-use | Best baseline |
+|---|---|---|---|---|---|
+| MNC8 no key | 28.4% / 39.2% | 90.7% (original 96.5%) | 6 failures: §5 permission flip "may approve returns ≤7 days" → no (en+es), §1 CFO actor dropped (en+es), §5 threshold not answered (en+es) / blind decode: no key drops §5 naming rule (en+zh); with key §5 zh turns "never" into "has never" (FAIL) | **94.1%** (208/221) at 30.3% / 40.8% saved (MNC7 93.2%, original 91.9%) — top bench version, +2 questions, noise-level | fresh: terse English 73.3% at 44.3% / 50.2%; LLMLingua-2 0.66 72.1% |
+Not a new best (loses to original text on fresh passages; safety failures). MNC3 stays current best. Details: machine/round8/SCORES.md.
 
-r2 per language (o200k / cl100k saved): en 32.4% / 33.1%; es 37.7% / 48.8%; ja 53.2% / 64.1%; fr 37.9% / 46.9%.
+### r9 MNC9 (runs 2026-11-06, written up 2026-11-07; local Qwen2.5-7B only)
+| Version | Saved o200k / cl100k | Direct-use fresh (88 q) | Instruction-safety | Frozen bench-v1 | Best baseline |
+|---|---|---|---|---|---|
+| MNC9 no key | 31.4% / 39.7% | 95.5% (original 100%) | 4 actor-drop failures; no permission flips / no-key naming flip (FAIL) | 93.2% (MNC8 94.1% still top) | terse English 80.7% at 42.3% / 45.0% |
+Not a new best. MNC3 stays current best. Details: round9/SCORES.md.
 
-r3 per passage (o200k / cl100k saved): P1 en instructions 22.4% / 22.5%; P2 es 33.9% / 43.4%; P3 ko 44.7% / 62.3%; P4 de 35.1% / 48.1%; P5 es instructions 29.1% / 34.8%.
+### MNC11 (bench-v1 only, 2026-11-09; local Qwen2.5-7B; self-built version, bench direct-use, no fresh round, no blind decode)
+| Version | Bench saved o200k / cl100k | Bench direct-use | Instruction-safety (fresh) | Best baseline | Verdict |
+|---|---|---|---|---|---|
+| MNC11 | 30.4% / 40.9% (smallest MNC on bench) | 93.2% (206/221), = MNC9/MNC10, below MNC8 94.1% | not tested (no fresh round) | bench: LLMLingua-2 0.66 81.4% (reviewed) at 36.2% / 34.2% | not a new best; actor/prohibition-line fix worked (+2), thresholds-in-words and one-line steps failed; MNC8 stays top bench, MNC3 stays best |
 
-Key + payload vs originals: r1 18.8% / 33.1% saved; r2 26.6% / 38.5% saved; r3 20.1% / 34.5% (key), 29.9% / 42.4% (micro-key), 33.7% / 45.5% (no key).
+### MNC12 (bench-v1 only, 2026-11-10; local Qwen2.5-7B; self-built version, bench direct-use, no fresh round, no blind decode)
+| Version | Bench saved o200k / cl100k | Bench direct-use | Instruction-safety (fresh) | Best baseline | Verdict |
+|---|---|---|---|---|---|
+| MNC12 | 28.1% / 39.0% (+77 o200k vs MNC11) | 89.6% (198/221), below MNC8 94.1% and MNC11 93.2% (4 of the losses are a reader language-drift glitch; without them 91.4%) | not tested (no fresh round) | bench: LLMLingua-2 0.66 81.4% (reviewed) at 36.2% / 34.2% | FAILED, not a new best; boundary-line and prohibition-after-action rules both failed, "skip next rule" pointer lines caused a permission flip on a bench question; MNC8 stays top bench, MNC3 stays best |
 
-**r3 is the new best, in its no-key form.** A fresh frontier-class helper with no context decoded the payload with no key and kept all 178 fact checks: 0 lost, 0 invented, 0 instruction-safety failures. Key + payload tokens are 717 / 734, against r2's 820 / 830 (33.7% / 45.5% saved vs 26.6% / 38.5%). With the key, the same kind of helper kept 99.4%, but the key's cost puts its savings (20.1% / 34.5%) below r2, so that version does not qualify. Limits: the helper may share the encoder's model family, scoring is by the builder alone, the passages differ from r2's, and the no-key decode still relies on a 36-token task instruction (30.4% / 42.8% saved if counted).
+### r10 MNC13 (runs 2026-11-11, written up 2026-11-12; local Qwen2.5-7B only; bench-v1 and fact-by-fact decode scoring pending)
+| Version | Saved o200k / cl100k | Direct-use fresh (86 q) | Instruction-safety (direct use / blind decode) | Frozen bench-v1 direct-use | Best baseline |
+|---|---|---|---|---|---|
+| MNC13 no key | 24.6% / 35.8% | 87.2% (original 98.8%) | 6 failures: actor dropped on §1 Helen Park/controller and §5 Sophie Laurent/owner naming+identity (en+es); §5 ">20" threshold not applied, rule restated (en+es); fused "without X" prohibitions all held / no-key French decode turns "never copy Sophie" into "never believe her" (FAIL) | not run | fresh: terse English 80.2% at 38.3% / 40.6%; LLMLingua-2 0.66 72.1% at 34.4% / 32.3% |
+Not a new best (loses to original text by 11.6 points; fails instruction-safety; two baselines save more tokens). MNC3 stays current best. Details: machine/round10/SCORES.md.
 
-Earlier result on a local 7B decoder: **not a new best by the rule.** Its best config (no key) keeps 96.1% of facts, below r2's 96.6%, even though key + payload tokens fell. The comparison is confounded: r3 was decoded blind by a much weaker local 7B model, which scores r2's own code at only 80.8%. r2 stays the best until a frontier blind decode of r3 is run. Baselines, instruction-safety and direct-use results are in round3/SCORES.md.
+### MNC13 + MNC14 (bench-v1 only, 2026-11-13; local Qwen2.5-7B; self-built versions, bench direct-use, no fresh round, no blind decode)
+| Version | Bench saved o200k / cl100k | Bench direct-use | Instruction-safety (fresh) | Best baseline | Verdict |
+|---|---|---|---|---|---|
+| MNC13 | 30.5% / 41.0% | 92.3% (204/221), below MNC8 94.1% | not tested (no fresh round) | bench: LLMLingua-2 0.66 81.4% at 36.2% / 34.2% | not a new best; fusion alone inconsistent (one fix, two prohibitions still dropped) |
+| MNC14 | 30.1% / 40.7% | 93.7% (207/221), 1 question below MNC8 (within reader noise of ±2-3) | not tested (no fresh round) | bench: LLMLingua-2 0.66 81.4% at 36.2% / 34.2% | not a new best; first MNC with zero dropped prohibitions on bench; exactly-N boundary still fails; MNC8 stays top bench, MNC3 stays best |
+Details: machine/bench/SCORES.md (MNC13 + MNC14).
 
-**Why r2 is the new best:** blind facts kept rose from 94.5% to 96.6% (0 lost, 0 invented in both rounds), the key shrank from 186 to 155 tokens, and break-even fell from ~477 to ~380 (o200k). The passages differ between rounds, so the comparison uses rates. Payload savings are about flat (+1.8 / +0.5 points), so the gain comes from the key.
+### r11 MNC15 + aggressive MNC15x / MNC15xx (7B runs 2026-11-14, frontier runs and write-up 2026-11-15; FIRST ROUND WITH A STRONG READER)
+Strong reader = one fresh no-context Grok Bot helper per method, one run each (noise not measured). Weak reader = local Qwen2.5-7B, one run.
+| Version | Saved o200k / cl100k | Fresh direct-use, strong reader (94 q) | Fresh direct-use, 7B | Instruction-safety | Frozen bench-v1 | Best baseline (strong reader) |
+|---|---|---|---|---|---|---|
+| MNC15 + key | 21.8% / 32.8% (payload alone 33.8% / 42.9%) | 100% (original 100%) | 93.6% no key (original 96.8%) | strong: PASS 40/40 / 7B direct: FAIL (threshold flip ×2) / 7B no-key decode: FAIL ("more than 40" → "more than four") | not run | LLMLingua-2 0.66 83.0% at 34.6% |
+| MNC15x no key (self-built after round results) | 38.9% / 47.1% | 97.9% | not run | strong: PASS 40/40 | not run | terse English 73.4% at 47.8% |
+| MNC15xx no key (self-built after round results) | 43.8% / 51.4% | 97.9% | not run | strong: PASS 40/40 | not run | terse English 73.4% at 47.8% |
+Not a new best yet (no bench-v1 score; MNC15x/xx encoder side is a self-test). Most promising result so far: ≥97.9% with 100% strong-reader safety at 38.9-43.8% savings, vs ≤83.0% for every baseline. MNC3 stays current best. Ready counter: 0/3. Details: machine/round11/SCORES.md.
 
-Reference: human-readable AIL v2.3 saved 16.4% (o200k) on blind encode, with a ~1.2k-token key.
+### r12 MNC16x (bench) / MNC16xx (fresh), 2026-11-16 nightly; STRONG READER PRIMARY, 2 runs per MNC/original; 7B not run
+| Version | Saved o200k / cl100k | Fresh direct-use, strong (106 q) | Bench-v1 direct-use, strong (221 q) | Instruction-safety | Best baseline (strong reader) |
+|---|---|---|---|---|---|
+| **MNC16xx / MNC16x** (no key) | fresh 45.4% / 51.8%; bench 43.5% / 51.4% | **100%, 100%** (original 100%, 100%) | **99.5%, 99.5%** (original 100%, 100%) | direct use PASS on every run (fresh 52/52, bench 110/110) / blind decode FAIL: 1 deadline distortion ("by 15:00" → "at 15:00", encoder dropped "by") | fresh: terse English (frontier-written) 100% at 35.4% / 43.3%; LLMLingua-2 0.5 84.9% at 51.0%. bench: LLMLingua-2 0.5 89.1% at 50.3% |
+| MNC16 (no key) | fresh 37.7% / 45.0%; bench (moderate file) 34.2% / 43.3% | 100%, 100% | 99.5% | direct use PASS | – |
+| MNC14 (reference) | bench 30.1% / 40.7% | – | 100% | direct use PASS | – |
+**NEW BEST (strong-reader track): MNC16x / MNC16xx.** With the strong reader it wins on both the frozen and fresh sets under the round rules. It matches the original within 1 bench question, keeps 100% direct-use safety, and has the highest savings of any method at ≥99% accuracy. Caveats: on fresh passages a well-written terse English baseline is also 100%, so MNC's edge there is about +10 points of savings, not accuracy. Two runs, one reader family; bench-v1 is at ceiling for this reader. MNC3 stays the recorded best for the weak-reader track (kept unchanged above). Ready counter: 0/3 (blind decode failed). Details: machine/round12/SCORES.md.
 
-Instruction-safety = any lost or flipped negation, condition, permission, actor, deadline or identity in the assistant-instruction passages (r3 onward).
+### r13 MNC17 / MNC17x / MNC17xx (2026-11-17 nightly; STRONG READER PRIMARY; 7B and bench-v1 not run)
+| Version | Saved o200k / cl100k | Fresh direct-use, strong (114 q) | Instruction-safety | Bench-v1 | Best baseline (strong reader) |
+|---|---|---|---|---|---|
+| **MNC17xx** (no key) | 46.9% / 52.5% | 100%, 100% (original 100%) | direct use PASS 68/68 ×2 / blind decode ×2 FAIL: "tell them to call 911" → "they should call 911" (action lost); "overview of returns" → "returns" (encoder dropped "overview") | not run | terse English (frontier) 100% at 34.9% / 43.1%; LLMLingua-2 0.5 71.9% at 59.8% (87.2% at 51.3% excluding its empty Japanese section) |
+| MNC17x (no key) | 45.3% / 51.4% | 100% | direct use PASS | not run | – |
+| MNC17 (no key) | 39.1% / 46.2% | 100% | direct use PASS | not run | – |
+Not a new best: no bench-v1 run and blind decode failed safety. MNC17xx is slightly above MNC16xx on savings (+1.5 points) at equal strong-reader accuracy. The fresh questions are at ceiling for the strong reader (original, terse and every MNC17 version scored 100%), so harder questions are needed. MNC16x/xx stay the strong-reader best; MNC3 stays the weak-reader best. Ready counter: 0/3. Details: machine/round13/SCORES.md.
 
-Rule for a new best: facts kept must not drop, and payload + key tokens must fall, both measured blind.
+### Sprint 2026-11-17 (evening): MNC18 candidate frozen, bench-v2 built, rounds 14-17 staged (staging entry; the 'pending' cells are SUPERSEDED by the r14/r15 results entry below)
+| Version | Saved o200k / cl100k (bench-v2) | Strong-reader direct use | Instruction-safety | Blind decode | Best baseline |
+|---|---|---|---|---|---|
+| MNC18 (candidate: R1 deadline words, R2 `tell X:`, R3 object nouns, R4 lint) | 32.7% / 41.8% (r15 34.0% / 42.1%; r16 27.8% / 35.6%; r17 26.6% / 35.6%) | **pending** (jobs staged, ../SPRINT-DISPATCH.md) | pending | pending | LLMLingua-2 0.66 35.7% / 35.2%; 0.5 57.0% / 57.8% (49.3% excl. the truncated ja/zh sections); accuracy pending |
+| MNC18z (curve only) | 38.7% / 46.9% | pending | pending | – | – |
+No result and no new best. The executor couldn't launch blind no-context readers, so every primary run is staged, not run. Weak reader (7B, ×1, raw) on bench-v2: original 52.8%, MNC18 70.8%. Both runs are dominated by the 7B shifting answers onto wrong question IDs on the 89-question prompt, so they're not evidence either way. Ready counter: **0/3** (unchanged). MNC16x/xx stay the strong-reader best. Details: machine/round14/, machine/bench-v2/README.md.
+
+### r14 (bench-v2) + r15 (fresh en/pt/ko/pl), MNC18 / MNC18z — strong-reader runs done 2026-11-17 ~19:00-19:15 CT (2 runs per MNC/original on bench-v2; 1 run per baseline)
+| Version | Saved o200k / cl100k | bench-v2 direct use, strong (89 q) | r15 fresh direct use, strong (42 q) | Instruction-safety | Best baseline (strong reader, bench-v2) |
+|---|---|---|---|---|---|
+| **MNC18z** (no key) | bench-v2 **38.7% / 46.9%** | **100%, 100%** (original 100%, 100%) | not encoded | direct use PASS 61/61 ×2; decode not run | terse English 95.5% at 29.6%; LLMLingua-2 0.66 79.8% at 35.7%; 0.5 61.8% at 57.0% |
+| MNC18 (no key) | bench-v2 32.7% / 41.8%; r15 34.0% / 42.1% | 100%, 100% | 97.6%, 100% (original 100%) | bench-v2 direct PASS ×2, decode FAIL ×2 (1 actor shift: invoice "customer submits" → "you provide"); r15 direct FAIL on 1 run (`<24h before` threshold flip), decode PASS ×2 | same |
+Not a new best (no bench-v1 regression run for MNC18; bench-v2 has no earlier versions to beat). First harder benchmark on which every MNC run ties the original at 100% while every baseline drops (terse −4.5, LLMLingua-2 −20/−38 points). MNC16x/xx stay the strong-reader best; MNC3 the weak-reader best. Ready counter: **0/3** (r14 decode actor shift, r15 threshold flip). Round 16 not run: its MNC18 encoding is superseded by MNC19. Details: machine/round14/SCORES.md, machine/round15/SCORES.md.
+
+### MNC19 candidate (frozen 2026-11-17 19:06 CT) — staged, NOT yet read by any reader
+| Version | Saved o200k / cl100k | Status |
+|---|---|---|
+| MNC19 (MNC18 R1-R4 + MNC18z structure + R5 time/age comparisons in words + R6 actor on every obligation) | bench-v2 38.0% / 46.3%; r16 26.6% / 34.6%; r17 24.6% / 34.0%; r18 24.4% / 31.4% | dispatch jobs in SPRINT-DISPATCH-MNC19.md |
+| MNC19x (curve only: merged lines) | bench-v2 39.0% / 47.2% | staged |
+Built after seeing r14/r15, so it is tuned on them. The counter for MNC19 can only use rounds no reader had seen: r16 and r17 (re-encoded, but their questions already existed, so those encodings are not question-blind) and r18 (fully fresh: encoded before the questions were written). Encoder finding: on dense safety text, structural merging tops out near 38-39% o200k (MNC19x +1.0 point over MNC19). The remaining tokens are content, not filler.
+
+### r16 / r17 / r18 + bench-v2, MNC19 — strong-reader runs 2026-11-17 ~19:00-19:13 CT, scored ~19:25 CT
+| Version | Saved o200k / cl100k | r16 (40 q) | r17 (36 q) | r18 (38 q, fully blind) | bench-v2 (89 q) | Instruction-safety |
+|---|---|---|---|---|---|---|
+| **MNC19** (no key) | r16 26.6% / 34.6%; r17 24.6% / 34.0%; r18 24.4% / 31.4%; bench-v2 38.0% / 46.3% | 100%, 100% (original 100%) | 100%, 100% (original 100%) | 97.4%, 97.4% (original 97.4%) | 100%, 100% (original 100% ×2) | **PASS in r16, r17, r18 and bench-v2**: S 100% on every run; blind decode ×2 with 0 safety distortions in all four sets |
+| MNC19x (curve) | bench-v2 39.0% / 47.2% | – | – | – | 100%, 100% | direct use PASS |
+Bench-v2 baselines (strong reader): terse English 95.5% at 29.6%; LLMLingua-2 0.66 79.8% at 35.7%; 0.5 61.8% at 57.0%.
+**Ready counter (MNC19): 3/3 under the round rule** (r16, r17, r18 consecutive PASS). But r16 and r17 are labelled *encoding not question-blind*; **strictly fully blind: 1/3** (r18 only). Other caveats: the decode judge is the encoder (not blind); one reader family; isolation by instruction only; the same agent wrote passages, facts, encodings and questions; one original-text run per fresh round. Not claimed as a new best yet: no bench-v1 regression run for MNC19. MNC18 r14/r15 failures (actor loss, `<24h` flip) did not recur. Savings on these dense instruction-heavy rounds are lower (24-27% o200k) than on earlier, lighter rounds.
+
+## 2026-11-17 ~19:22 CT — rounds 19/20 STAGED (fully blind, independent author) — no results yet
+| round | facts (S) | lint | o200k saved | cl100k saved | questions (S) | status |
+|---|---|---|---|---|---|---|
+| r19 | 40 (36) | 40/40 | 26.6% | 37.7% | 32 (26) | readers not run |
+| r20 | 42 (38) | 42/42 | 27.6% | 35.6% | 32 (28) | readers not run |
+Savings are lower than on my own rounds (~38–46%): the independent author's prose is already denser. Not tuned after seeing questions.
+
+### r19 / r20 (fully blind, independent author), MNC19 — readers run 2026-11-17 ~19:22 CT, independent judge + scoring 2026-11-18 ~01:15 CT
+| round | Saved o200k / cl100k | MNC19 direct use, strong (2 runs) | original | Blind decode (independent judge) | Instruction-safety |
+|---|---|---|---|---|---|
+| r19 | 26.6% / 37.7% | 100%, 100% (S 26/26 ×2) | 100% | 0 S distortions ×2 | **PASS** |
+| r20 | 27.6% / 35.6% | 96.9%, 100% (S 27/28, 28/28) | 100% | 0 S distortions ×2 | **FAIL (strict)**: 1 run omitted the emergency lifeguard number; no negation/actor/deadline flip |
+Baselines and 7B not run on r19/r20. Not a new best (no bench-v1 run for MNC19). Ready counter, strictly fully blind: r18 PASS, r19 PASS, r20 FAIL → **0/3**. MNC16x/xx stay the strong-reader best; MNC3 the weak-reader best. Details: machine/round19/, machine/round20/SCORES.md.
+
+
+### r21 (fully blind, independent author), MNC20 = MNC19 + R7 — run and scored 2026-11-18 07:00-07:45 CT (strong reader = fresh no-context frontier helpers; independent decode judge)
+| Text | Saved o200k / cl100k | Direct use, strong (S) | Blind decode (judge) | Instruction-safety |
+|---|---|---|---|---|
+| MNC20 (no key) | 26.8% / 40.4% | 100%, 100% (S 25/25 ×2) | 1 S distortion ×2 (ambiguous derived amount), 3 benign inventions ×2 | **FAIL (strict)** — direct use PASS, decode FAIL |
+| MNC20x (curve) | 41.3% / 52.1% | 97.4% ×2 (S 24/25 ×2) | not run | FAIL (cancellation fee 150 vs 300 TL) |
+| original | 0 | 100% | – | – |
+| terse English | 36.5% / 48.7% | 100% (S 25/25) ×1 | – | – |
+| summarize | 20.4% / 25.7% | 100% ×1 | – | – |
+| LLMLingua-2 0.66 / 0.5 | 32.5% / 47.9% (o200k) | 94.9% / 76.9% ×1 | – | – |
+Bench-v1 regression MNC20 ×1 (not blind): 94.8% raw, S 56/56, 24.3% / 34.8% saved; no original control on the converted set. 7B not run.
+Not a new best: terse English matches accuracy and saves more. Ready counter (fully blind): **0/3**. MNC16x/xx stay the strong-reader best; MNC3 the weak-reader best. Details: machine/round21/SCORES.md.
+
+
+### r22 (fully blind, independent author), MNC21 = MNC20 + R8 + R9 — run and scored 2026-11-18 12:54-13:05 CT (strong reader = fresh no-context frontier helpers; independent decode judge)
+| Text | Saved o200k / cl100k | Direct use, strong (S) | Blind decode (judge) | Instruction-safety |
+|---|---|---|---|---|
+| MNC21 (no key) | 32.1% / 41.0% | 100%, 100% (S 26/26 ×2) | A: 1 low-severity S distortion ("a mechanic" → "the mechanic"); B clean; 0 inventions | **FAIL (strict)** — direct use PASS, decode A FAIL |
+| MNC21x (aggressive) | 37.6% / 45.6% | 100%, 100% (S 26/26 ×2) | not run | direct use PASS |
+| original | 0 | 100% | – | – |
+| terse English | 40.2% / 47.9% | 100% ×2 (1 F regex override) | – | – |
+| summarize | 25.3% / 27.3% | 100% ×1 | – | – |
+| LLMLingua-2 0.66 / 0.5 | 33.6% / 49.4% (o200k) | 82.1% / 71.8% ×1 | – | – |
+Bench-v1: original-text control on the converted set = 97.0% (S 55/56) vs MNC20 94.8% (S 56/56). 7B pending at write-up.
+Not a new best: terse English matches accuracy and still saves more (gap 2.6 points, down from 9.7 in r21). Ready counter (fully blind): **0/3**. MNC16x/xx stay the strong-reader best; MNC3 the weak-reader best. Details: machine/round22/SCORES.md.
+
+
+### r23 (fully blind, independent author), MNC22 = MNC21x + R10 + R11 — run and scored 2026-11-18 19:00-19:15 CT (strong reader = fresh no-context frontier helpers; independent decode judge)
+| Text | Saved o200k / cl100k | Direct use, strong (S) | Blind decode (judge) | Instruction-safety |
+|---|---|---|---|---|
+| MNC22 (no key) | 35.0% / 42.4% | 100%, 100% (S 27/27 ×2) | not run | direct use PASS |
+| MNC22x (aggressive) | 36.3% / 43.5% | 100%, 100% (S 27/27 ×2) | A clean; B: 1 S distortion (approval threshold scope widened to "any order"); encoder-added derived figure flagged in both | **FAIL (strict)** — direct use PASS, decode B FAIL |
+| original | 0 | 100% | – | – |
+| terse English | 39.2% / 46.8% | 100% ×2 | – | – |
+| summarize | 22.2% / 24.0% | 100% ×1 | – | – |
+| LLMLingua-2 0.66 / 0.5 | 42.5% / 53.5% (o200k) | 70.0% / 55.0% ×1 (Japanese section collapsed) | – | – |
+Bench-v1 not run. 7B pending at write-up.
+Not a new best: terse English matches accuracy and still saves more (gap 2.9 points). Ready counter (fully blind): **0/3**. MNC16x/xx stay the strong-reader best; MNC3 the weak-reader best. Details: machine/round23/SCORES.md.
+
+
+### r24 (fully blind, independent author), MNC23 = MNC22x + R12 + R8b + R13 — run and scored 2026-11-19 01:00-01:15 CT (strong reader = fresh no-context frontier helpers; independent decode judge)
+| Text | Saved o200k / cl100k | Direct use, strong (S) | Blind decode (judge) | Instruction-safety |
+|---|---|---|---|---|
+| MNC23 (no key) | 31.7% / 45.1% | 100%, 100% (S 25/25 ×2; 1 regex false negative reviewed) | A and B: 2 S distortions each (911 instruction moved from customer to assistant; after-hours contact rule widened), 1 F distortion + 1 F loss, 0 added | **FAIL (strict)** — direct use PASS, decode FAIL |
+| MNC23x | 33.1% / 46.0% | 100%, 100% (S 25/25 ×2; 1 regex false negative reviewed) | not run | direct use PASS |
+| **MNC23xx** (most aggressive) | **39.6% / 51.2%** | 100%, 100% (S 25/25 ×2, raw) | not run | direct use PASS |
+| original | 0 | 100% | – | – |
+| terse English | 35.9% / 49.7% | 97.5% ×2 (S 24/25 ×2: permission flipped) | – | – |
+| summarize | 24.1% / 28.2% | 100% ×1 | – | – |
+| LLMLingua-2 0.66 / 0.5 | 32.2% / 47.0% (o200k) | 97.5% / 92.5% ×1 | – | – |
+Bench-v1 not run. 7B pending at write-up.
+Not a formal new best (no bench-v1 run; strict decode FAIL). First fresh blind round where an MNC form beats terse English on both savings and accuracy with the strong reader (+3.7 points of savings, +1 safety question). LLMLingua-2 0.5 still saves more, at lower accuracy. Ready counter (fully blind): **0/3**. MNC16x/xx stay the strong-reader best; MNC3 the weak-reader best. Details: machine/round24/SCORES.md.
+
+### r25 (fully blind, independent author), MNC24 = MNC23xx + R14 + R15 + R16 + R17 — run and scored 2026-11-19 06:55-07:05 CT (strong reader = fresh no-context frontier helpers; independent decode judge)
+| Text | Saved o200k / cl100k | Direct use, strong (S) | Blind decode (judge) | Instruction-safety |
+|---|---|---|---|---|
+| MNC24 (no key) | 30.3% / 39.4% | 100%, 100% (S 23/23 ×2; 2 CJK-regex false negatives reviewed per run) | A: 3 low-severity S items (assistant role decoded as "You are working for"), 1 F loss; B: 0 S, 1 F loss; 0 added | **FAIL (strict)** — direct use PASS, decode A FAIL, B clean |
+| **MNC24x** (aggressive) | **35.9% / 44.0%** | 100%, 100% (S 23/23 ×2; same reviewed false negatives) | not run | direct use PASS |
+| original | 0 | 100% | – | – |
+| terse English | 34.1% / 43.0% | 94.9% ×2 (qualifier scope flipped both runs) | – | – |
+| summarize | 16.1% / 19.1% | 100% ×1 | – | – |
+| LLMLingua-2 0.66 / 0.5 | 34.8% / 50.0% (o200k) | 74.4% / 66.7% ×1 | – | – |
+Bench-v1 (134-q, strong, raw, not blind): MNC24 97.0% / 95.5% at 44.6% / 51.9%; MNC16x 97.0% ×2 at 44.8% / 52.5%; original 97.0% / 97.8%. Tie with MNC16x inside noise.
+Not a new best: beats every baseline on the fresh blind set, but only ties MNC16x on the frozen bench. Ready counter (fully blind): **0/3**. MNC16x/xx stay the strong-reader best; MNC3 the weak-reader best. Details: machine/round25/SCORES.md.
+
+### r26 (fully blind, independent author), MNC25 = MNC24 + R18 + R16b + R19 — run and scored 2026-11-19 12:59-13:10 CT (strong reader = fresh no-context frontier helpers; independent decode judge)
+| Text | Saved o200k / cl100k | Direct use, strong (S), reviewed | Blind decode (judge, 119 facts) | Instruction-safety |
+|---|---|---|---|---|
+| MNC25 (main, no key) | 31.6% / 42.7% | 100%, 100% (S 25/25 ×2) | A and B: 119/119 kept, 0 added | **PASS** |
+| MNC25x (aggressive) | 37.0% / 47.1% | 97.4%, 100% (S 24/25, 25/25: run 1 invented an approver) | not run | FAIL (probe only) |
+| original | 0 | 100% | – | – |
+| terse English | 34.6% / 45.5% | 100% ×2 | – | – |
+| summarize | 18.2% / 20.8% | 100% ×1 | – | – |
+| LLMLingua-2 0.66 / 0.5 | 36.6% / 49.3% (o200k) | 87.2% / 74.4% ×1 | – | – |
+One shared review: the gold for §1.q2 named an approver the original does not name; "approver not stated" answers were reviewed correct for every text (details in round26/SCORES.md). Bench-v1 not run (at ceiling). 7B pending at write-up.
+Not a new best: MNC25 is safety-clean, but terse English matches its accuracy at 3 points more savings. Ready counter (fully blind, main form): **1/3**. MNC16x/xx stay the strong-reader best; MNC3 the weak-reader best. Details: machine/round26/SCORES.md.
+
+### r27 (fully blind, independent author), MNC26 = MNC25x form as main + R20 (unnamed-approver marker) — run and scored 2026-11-19 18:55-19:05 CT (strong reader = fresh no-context frontier helpers; independent decode judge)
+| Text | Saved o200k / cl100k | Direct use, strong (S), reviewed | Blind decode (judge, 142 facts) | Instruction-safety |
+|---|---|---|---|---|
+| MNC26 (main, no key) | 36.9% / 46.8% | 100% ×2 (S 28/28 ×2) | A: 0 S errors, 6 F (check times read as a range); B: 142/142 | **PASS** |
+| MNC26x (aggressive) | 37.6% / 47.3% | 100% ×2 (S 28/28 ×2) | not run | – |
+| original | 0 | 97.5% (S 27/28: invented approver) | – | – |
+| terse English | 39.2% / 49.0% | 100%, 97.5% (run 2 invented approver) | – | – |
+| summarize | 23.6% / 26.9% | 97.5% ×1 (invented approver) | – | – |
+| LLMLingua-2 0.66 / 0.5 | 32.2% / 47.3% (o200k) | 95.0% / 72.5% ×1 | – | – |
+Bench-v1 not run (at ceiling). 7B pending at write-up.
+Not a formal new best: MNC26 is the only form with S 100% in every run and beat the original text, but terse English saves 2.3 points more. Ready counter (fully blind, main form): **2/3**. MNC16x/xx stay the strong-reader best; MNC3 the weak-reader best. Details: machine/round27/SCORES.md.
+(Counter correction: under the one-frozen-version rule r27 counts as MNC26 1/3.)
+
+
+### r28 (fully blind, independent author), MNC26 frozen main (RULES.md sha1 6c1bc095, unchanged) + MNC26x probe (R21 + aggressive) — run and scored 2026-11-20 00:56-01:10 CT (strong reader = fresh no-context frontier helpers; independent decode judge)
+| Text | Saved o200k / cl100k | Direct use, strong (S), reviewed | Blind decode (judge, 110 facts) | Instruction-safety |
+|---|---|---|---|---|
+| MNC26 (main, frozen, no key) | 34.8% / 42.6% | 100% ×2 (S 25/25 ×2) | A and B: 0 S errors; 3 F each (check times read as a range) | **PASS** |
+| MNC26x (R21 + aggressive) | 39.9% / 47.0% | 97.4%, 100% (S 24/25: run 1 invented an approver) | not run | FAIL (probe only) |
+| original | 0 | 100% | – | – |
+| terse English | 34.5% / 42.3% | 100% ×2 | – | – |
+| summarize | 15.7% / 17.2% | 100% ×1 (1 regex false negative reviewed) | – | – |
+| LLMLingua-2 0.66 / 0.5 | 34.2% / 47.9% (o200k) | 79.5% / 69.2% ×1 | – | – |
+Bench-v1 not run (at ceiling). Questions were at ceiling for every faithful text.
+Not a new best: MNC26 main ties terse English (34.8% vs 34.5%, both 100%). MNC26x saves the most of any text above 95% accuracy, but slipped once on safety. Counter correction for r27: under the one-frozen-version rule r27 was MNC26 1/3, not 2/3. Ready counter now: **MNC26: 2/3**. Details: machine/round28/SCORES.md.
+
+
+### r29 (fully blind, independent author), MNC26 frozen main (RULES.md sha1 6c1bc095, unchanged) + MNC26x' probe (R21 + R22 + aggressive) — run and scored 2026-11-20 06:55-07:30 CT (strong reader = fresh no-context frontier helpers; independent decode judge)
+| Text | Saved o200k / cl100k | Direct use, strong (S) | Blind decode (judge, 90 facts) | Instruction-safety |
+|---|---|---|---|---|
+| MNC26 (main, frozen, no key) | 29.0% / 38.6% | 100% ×2 (S 23/23 ×2) | A and B: 0 S errors, 0 F errors; 1 encoder-added year (F) | **PASS** |
+| MNC26x' (R21 + R22 + aggressive) | 36.0% / 44.1% | 100% ×2 (S 23/23 ×2) | not run | – (probe) |
+| original | 0 | 100% | – | – |
+| terse English | 35.1% / 44.7% | 100% ×2 | – | – |
+| summarize | 16.4% / 18.5% | 100% ×1 | – | – |
+| LLMLingua-2 0.66 / 0.5 | 46.2% / 58.3% (o200k) | 74.4% / 64.1% ×1 (Japanese section lost) | – | – |
+Bench-v1 not run (at ceiling). 7B pending at write-up. Questions at ceiling for every faithful text.
+Not a new best: terse English saves 6.1 points more than MNC26 main at equal accuracy; MNC26x' only ties terse. Ready counter: **MNC26: 3/3** — MNC26 meets the ready-for-live-instructions bar (3 consecutive fully blind rounds, 100% instruction-safety, strong reader; one reader family, ceiling question sets). Details: machine/round29/SCORES.md.
+
+
+### r30 (fully blind, independent author, harder: distractor rules), MNC27 promoted to main (MNC26x' + R23 + exception lines; counter restarted) + MNC26 ready reference — run and scored 2026-11-20 13:12-13:45 CT (strong reader = fresh no-context frontier helpers; independent decode judge)
+| Text | Saved o200k / cl100k | Direct use, strong (S) | Blind decode (judge, 133 facts) | Instruction-safety |
+|---|---|---|---|---|
+| MNC27 (new main, no key) | 36.6% / 49.7% | 100% ×2 (S 28/28 ×2) | A and B: 2 S distortions each (encoder-caused, everyday Korean §2: dropped "must", narrowed "complaints or inquiries"); instruction sections 0 S errors | **FAIL** (strict gate) |
+| MNC26 (ready reference, frozen) | 31.5% / 45.7% | 100% ×2 (S 28/28 ×2) | not run | – (not counted) |
+| original | 0 | 100% | – | – |
+| terse English | 28.7% / 32.4% | 100% ×2 | – | – |
+| summarize | 30.6% / 34.0% | 100% ×1 | – | – |
+| LLMLingua-2 0.66 / 0.5 | 34.3% / 49.3% (o200k) | 97.4% / 92.1% ×1 (0.5 failed a safety boundary) | – | – |
+One shared regex fix (§1.q9, all texts). 7B (3 runs): MNC26 63-68%, MNC27 50-58%, original 60-63%. Bench-v1 not run. Questions at ceiling for faithful texts.
+Not a formal new best (bench-v1 not run, decode gate failed), but MNC27 saved the most of any text at 100% this round: +7.9 points over terse English, +6.0 over summarize (o200k). Ready counter: **MNC27: 0/3** (MNC26 keeps its r27-r29 3/3). Details: machine/round30/SCORES.md.
+
+
+
+### r31 (fully blind, independent author; en/zh/it/pl), MNC28 promoted to main (MNC27 + R24; RULES sha1 f70a3563; counter restarted) + MNC28x probe — run and scored 2026-11-21 01:16-~02:00 CT (strong reader = fresh no-context frontier helpers; independent decode judge)
+| Text | Saved o200k / cl100k | Direct use, strong (S) | Blind decode (judge, 205 facts) | Instruction-safety |
+|---|---|---|---|---|
+| MNC28 (new main, no key) | 28.1% / 30.8% | 100% ×2 (S 32/32 ×2) | A and B: 205/205 kept, 0 errors | **PASS** |
+| MNC28x (aggressive probe) | 38.5% / 41.1% | 100% ×2 (S 32/32 ×2) | not run | – (probe) |
+| original | 0 | 100% | – | – |
+| terse English | 37.6% / 44.5% | 100% ×2 | – | – |
+| summarize | 20.8% / 23.1% | 100% ×1 | – | – |
+| LLMLingua-2 0.66 / 0.5 | 33.2% / 48.2% (o200k) | 87.2% / 69.2% ×1 (both lost emergency steps; 0.5 invented an approver) | – | – |
+7B not run (RAM). Bench-v1 not run. Questions at ceiling for faithful texts.
+Not a new best: terse English saved 9.5 points more than MNC28 main at equal accuracy; MNC28x ties terse (+0.9 o200k, −3.4 cl100k). Ready counter: **MNC28: 1/3** (MNC26 keeps 3/3). Details: machine/round31/SCORES.md.
+
+
+### r32 (fully blind, independent author; en/ja/es/tr), MNC28 main frozen (RULES sha1 f70a3563) + MNC28x probe — run and scored 2026-11-21 13:18-~13:50 CT (strong reader = fresh no-context frontier helpers; independent decode judge)
+| Text | Saved o200k / cl100k | Direct use, strong (S) | Blind decode (judge, 147 facts) | Instruction-safety |
+|---|---|---|---|---|
+| MNC28 (main, no key) | 24.7% / 31.5% | 100% ×2 (S 27/27 ×2) | A and B: 147/147 kept, 0 errors | **PASS** |
+| MNC28x (probe; Japanese §2 as English slots) | 36.8% / 47.5% | 100% ×2 (S 27/27 ×2) | not run | – (probe) |
+| original | 0 | 100% (2 scorer overrides; 95% strict) | – | – |
+| terse English | 39.0% / 49.3% | 100% ×2 | – | – |
+| summarize | 26.0% / 28.0% | 100% ×1 | – | – |
+| LLMLingua-2 0.66 / 0.5 | 43.7% / 54.8% (o200k) | 77.5% / 70.0% ×1 (0.66 lost Japanese section; 0.5 invented approvers, dropped an emergency step) | – | – |
+7B (3 runs): MNC28 45-57.5%, MNC28x 50-52.5%, original 45-50% (ties). Bench-v1 not run. Questions at ceiling for faithful texts.
+Not a new best: terse English saved 14.3 points more than MNC28 main at equal accuracy; MNC28x close behind terse (−2.2 o200k). Ready counter: **MNC28: 2/3**. Details: machine/round32/SCORES.md.

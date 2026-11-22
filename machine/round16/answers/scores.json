@@ -1,0 +1,1140 @@
+{
+ "rows": [
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Daily at 9am and 5pm ET.",
+   "gold": "Daily at 9 a.m. and 5 p.m. Eastern"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, bookings of up to 3 rooms may be confirmed alone.",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Approval of sales manager Olivia Grant.",
+   "gold": "Approval from sales manager Olivia Grant"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, the one-night charge may be waived once per booking since the airline cancelled the flight and proof was sent.",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, cancellation is free until 48h before check-in.",
+   "gold": "No (free until 48 hours before)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, pets are only allowed in rooms 101-106 (unless it is a service animal).",
+   "gold": "No (pets only in rooms 101-106)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "$240 (2 pets x 3 nights x $40).",
+   "gold": "$240"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, service animals are allowed in any room at no charge.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Do not give out the room number; offer to pass on a message instead.",
+   "gold": "Do not give it; offer to pass on a message"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell the guest to leave the building by the nearest stairway, not the elevator; then call 911 yourself; then text night manager Sam Ortiz.",
+   "gold": "Tell them to leave by the nearest stairway, not the elevator; call 911 yourself; then text night manager Sam Ortiz"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "$30 (late checkout until 1pm is $30 for non-Gold guests).",
+   "gold": "$30"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, checkout after 1pm needs Olivia's approval.",
+   "gold": "No; needs Olivia's approval"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Owner Ruth Kessler.",
+   "gold": "Ruth Kessler, the owner"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is due by noon on Friday.",
+   "gold": "No (by noon)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday to Saturday at 8:30.",
+   "gold": "Monday to Saturday at 8:30"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, suspensions over 30 days are decided by director Luca Ferraro.",
+   "gold": "No; director Luca Ferraro decides"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, monthly memberships must never be suspended.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, clients under 16 are never allowed in the weights room without an instructor present.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call 118 immediately and use the defibrillator at reception.",
+   "gold": "Call 118 immediately and use the defibrillator at reception"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never tell a client another client's attendance times.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, refunds only for documented relocation more than 50 km away.",
+   "gold": "No (only for more than 50 km)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Administrator Giulia Conti.",
+   "gold": "Only administrator Giulia Conti"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the free 3-day trial is once per person.",
+   "gold": "No (once per person)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, he is the director; the owner is Stefano Rinaldi.",
+   "gold": "No; he is the director"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is due by 12:00 on Monday.",
+   "gold": "No (by 12:00)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Memberships expiring in the next 14 days.",
+   "gold": "Memberships expiring in the next 14 days"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturday Apr 12 at 8:00 at the old house in Zwolle.",
+   "gold": "Saturday 12 April at 8:00, at the old house in Zwolle"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The new flat in Deventer is available only from 13:00; storage is at Industrieweg 14.",
+   "gold": "The new flat is only available from 13:00; storage at Industrieweg 14"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€66.75 each (3 x €89 = €267 / 4).",
+   "gold": "€66.75 (3 × €89 = €267, split by four)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Before 12:00.",
+   "gold": "Before 12:00"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Only Eva.",
+   "gold": "Only Eva"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The new chair (it's a surprise).",
+   "gold": "The new chair (surprise)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Eva takes them herself in her car, not in the van.",
+   "gold": "Eva takes them herself in the car, not in the van"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "It is not coming; the thrift store (kringloop) collects it on Monday.",
+   "gold": "It does not come along; the thrift store collects it on Monday"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "January 1, 2027.",
+   "gold": "1 January 2027"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "About 7,980 (38% of ~21,000).",
+   "gold": "About 7,980 (38% of 21,000)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, applications are open until Dec 31 2026.",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "120 new fast-charging stations, in service before June next year.",
+   "gold": "120, before June next year"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥20,000 more (¥50,000 vs ¥30,000).",
+   "gold": "¥20,000 more (¥50,000 vs ¥30,000)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "“这是全国力度最大的出租车电动化计划之一。” (This is one of the most forceful taxi electrification plans in the country.)",
+   "gold": "“这是全国力度最大的出租车电动化计划之一。”"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Daily at 9am and 5pm ET.",
+   "gold": "Daily at 9 a.m. and 5 p.m. Eastern"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, bookings of up to 3 rooms you may confirm alone.",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Approval of sales manager Olivia Grant.",
+   "gold": "Approval from sales manager Olivia Grant"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, it is under 48h so one night would be charged, but the airline cancelled the flight and proof was sent, and waiving is allowed once per booking.",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, cancellation is free until 48h before check-in.",
+   "gold": "No (free until 48 hours before)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, pets are only allowed in rooms 101-106 (unless it is a service animal).",
+   "gold": "No (pets only in rooms 101-106)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "$240 (2 pets x $40 x 3 nights).",
+   "gold": "$240"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, service animals are allowed in any room at no charge.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Do not give out the room number, even to family; offer to pass on a message instead.",
+   "gold": "Do not give it; offer to pass on a message"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "First tell the guest to leave the building by the nearest stairway, not the elevator; then call 911 yourself; then text night manager Sam Ortiz.",
+   "gold": "Tell them to leave by the nearest stairway, not the elevator; call 911 yourself; then text night manager Sam Ortiz"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "$30 (late checkout until 1pm is free only for Gold members).",
+   "gold": "$30"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, checkout after 1pm needs Olivia's approval, even for Gold members.",
+   "gold": "No; needs Olivia's approval"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Owner Ruth Kessler.",
+   "gold": "Ruth Kessler, the owner"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is due by noon on Friday.",
+   "gold": "No (by noon)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday to Saturday at 8:30.",
+   "gold": "Monday to Saturday at 8:30"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, suspensions longer than 30 days are decided by director Luca Ferraro.",
+   "gold": "No; director Luca Ferraro decides"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, monthly memberships must never be suspended.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, under-16s are never allowed in the weights room without an instructor present.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call 118 immediately and use the defibrillator at reception.",
+   "gold": "Call 118 immediately and use the defibrillator at reception"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never tell a client another client's attendance times.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, refunds are only for documented relocation more than 50 km away.",
+   "gold": "No (only for more than 50 km)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Administrator Giulia Conti.",
+   "gold": "Only administrator Giulia Conti"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the free 3-day trial is once per person.",
+   "gold": "No (once per person)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, he is the director; the owner is Stefano Rinaldi.",
+   "gold": "No; he is the director"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is due by 12:00 on Monday.",
+   "gold": "No (by 12:00)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Memberships expiring in the next 14 days.",
+   "gold": "Memberships expiring in the next 14 days"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturday April 12 at 8:00 at the old house in Zwolle.",
+   "gold": "Saturday 12 April at 8:00, at the old house in Zwolle"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The new flat in Deventer is only available from 13:00; storage is at Industrieweg 14.",
+   "gold": "The new flat is only available from 13:00; storage at Industrieweg 14"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€66.75 each (€89 x 3 = €267, split by four).",
+   "gold": "€66.75 (3 × €89 = €267, split by four)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Before 12:00.",
+   "gold": "Before 12:00"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Only Eva.",
+   "gold": "Only Eva"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The new chair (it is a surprise).",
+   "gold": "The new chair (surprise)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Eva takes them herself in her car, not in the van.",
+   "gold": "Eva takes them herself in the car, not in the van"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "It is not coming; the thrift store (kringloop) collects it on Monday.",
+   "gold": "It does not come along; the thrift store collects it on Monday"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "January 1, 2027.",
+   "gold": "1 January 2027"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "About 7,980 (38% of ~21,000).",
+   "gold": "About 7,980 (38% of 21,000)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, drivers can apply until December 31, 2026.",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "120 new fast-charging stations, in service before June next year.",
+   "gold": "120, before June next year"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥20,000 more (¥50,000 vs ¥30,000).",
+   "gold": "¥20,000 more (¥50,000 vs ¥30,000)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "“这是全国力度最大的出租车电动化计划之一。” (This is one of the most forceful taxi electrification plans in the country.)",
+   "gold": "“这是全国力度最大的出租车电动化计划之一。”"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "At 9 a.m. and 5 p.m. Eastern every day",
+   "gold": "Daily at 9 a.m. and 5 p.m. Eastern"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, you may confirm up to 3 rooms on your own",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Approval from the sales manager, Olivia Grant",
+   "gold": "Approval from sales manager Olivia Grant"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, it is a late cancellation (under 48 hours), but with airline flight cancellation proof you may waive the one-night charge once per booking",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, cancellation is free until 48 hours before check-in",
+   "gold": "No (free until 48 hours before)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, pets are allowed only in rooms 101–106 (unless it is a service animal)",
+   "gold": "No (pets only in rooms 101-106)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "$240 (2 pets × 3 nights × $40)",
+   "gold": "$240"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, service animals are allowed in any room at no charge",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Do not give out the room number, even to family; offer to pass on a message instead",
+   "gold": "Do not give it; offer to pass on a message"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell the guest to leave the building by the nearest stairway, not the elevator; then call 911 yourself; then text the night manager, Sam Ortiz",
+   "gold": "Tell them to leave by the nearest stairway, not the elevator; call 911 yourself; then text night manager Sam Ortiz"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "$30",
+   "gold": "$30"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, checkout after 1 p.m. needs Olivia's approval",
+   "gold": "No; needs Olivia's approval"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The owner, Ruth Kessler",
+   "gold": "Ruth Kessler, the owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is due by noon every Friday",
+   "gold": "No (by noon)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday to Saturday at 8:30",
+   "gold": "Monday to Saturday at 8:30"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, you may suspend only up to 30 days a year; longer suspensions are decided by the director, Luca Ferraro",
+   "gold": "No; director Luca Ferraro decides"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, monthly memberships are never suspended",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, under-16s may not use the weights room without an instructor present",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call 118 immediately and use the defibrillator at reception",
+   "gold": "Call 118 immediately and use the defibrillator at reception"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never share another member's attendance times",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, refunds only for a documented move of more than 50 km",
+   "gold": "No (only for more than 50 km)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The administrator, Giulia Conti",
+   "gold": "Only administrator Giulia Conti"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the free 3-day trial is once per person",
+   "gold": "No (once per person)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, he is the director; the owner is Stefano Rinaldi",
+   "gold": "No; he is the director"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is due by 12:00 every Monday",
+   "gold": "No (by 12:00)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Memberships expiring in the following 14 days",
+   "gold": "Memberships expiring in the next 14 days"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturday 12 April at 8:00, at the old house in Zwolle",
+   "gold": "Saturday 12 April at 8:00, at the old house in Zwolle"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Because the new flat in Deventer is only available from 13:00; the storage is at Industrieweg 14",
+   "gold": "The new flat is only available from 13:00; storage at Industrieweg 14"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€66.75 each (3 × €89 = €267 ÷ 4)",
+   "gold": "€66.75 (3 × €89 = €267, split by four)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Before 12:00",
+   "gold": "Before 12:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Only Eva",
+   "gold": "Only Eva"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The new chair (it is the surprise)",
+   "gold": "The new chair (surprise)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Eva takes them herself in the car, not in the van",
+   "gold": "Eva takes them herself in the car, not in the van"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "It does not go along; the thrift store (kringloop) collects it on Monday",
+   "gold": "It does not come along; the thrift store collects it on Monday"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1 January 2027",
+   "gold": "1 January 2027"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "About 8,000 (38% of about 21,000, roughly 7,980)",
+   "gold": "About 7,980 (38% of 21,000)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, the application deadline is 31 December 2026",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "120 new fast-charging stations, in service before next June",
+   "gold": "120, before June next year"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "20,000 yuan more (50,000 vs 30,000)",
+   "gold": "¥20,000 more (¥50,000 vs ¥30,000)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"This is one of the most ambitious taxi electrification plans in the country.\" (这是全国力度最大的出租车电动化计划之一)",
+   "gold": "“这是全国力度最大的出租车电动化计划之一。”"
+  }
+ ],
+ "summary": {
+  "mnc19_r1": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    29,
+    29
+   ],
+   "F": [
+    11,
+    11
+   ],
+   "hop2": [
+    18,
+    18
+   ]
+  },
+  "mnc19_r2": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    29,
+    29
+   ],
+   "F": [
+    11,
+    11
+   ],
+   "hop2": [
+    18,
+    18
+   ]
+  },
+  "original_r1": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    29,
+    29
+   ],
+   "F": [
+    11,
+    11
+   ],
+   "hop2": [
+    18,
+    18
+   ]
+  }
+ }
+}

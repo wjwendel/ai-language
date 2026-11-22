@@ -1,0 +1,534 @@
+{
+ "written": "2026-11-17 after encoding frozen",
+ "questions": [
+  {
+   "id": "§1.q1",
+   "sec": 1,
+   "type": "F",
+   "hop": 1,
+   "q": "Which inbox is checked, and at what time?",
+   "gold": "register@northfieldysl.org, daily at 8 p.m. Central",
+   "accept": [
+    "register@northfieldysl\\.org",
+    "(8 ?p|20:00)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q2",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "On March 5 a family registers a player whose age group has no open roster spot. May you accept the registration?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q3",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "On March 6 a family registers a player whose age group still has open spots. May you accept it, and is there an extra charge?",
+   "gold": "Yes; $25 late fee",
+   "accept": [
+    "^\\W*yes\\b",
+    "25"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q4",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A child born in 2016 — which age group, and may you place them in U10?",
+   "gold": "U12; no",
+   "accept": [
+    "U12",
+    "\\bno"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q5",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A U12-aged player wants to play in U14. What is required, and from whom?",
+   "gold": "Written approval from the U14 coordinator, Priyanka Rao",
+   "accept": [
+    "written",
+    "(priyanka|rao|coordinator)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q6",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A family registers three children. How many of them get the 10% discount?",
+   "gold": "Two (each additional child, not the first)",
+   "accept": [
+    "(\\b2\\b|two)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q7",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A parent requests a refund on March 15. What refund applies?",
+   "gold": "50%",
+   "accept": [
+    "50"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q8",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A parent requests a refund on March 14. What refund applies?",
+   "gold": "Full refund minus the $15 processing fee",
+   "accept": [
+    "full",
+    "15"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q9",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "On April 10 a parent asks for a refund because of a season-ending injury and has a doctor's note. Can you approve it yourself?",
+   "gold": "No; treasurer Tom Alvarez must approve",
+   "accept": [
+    "^\\W*no\\b",
+    "alvarez"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q10",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A coach asks about a player's asthma; the parent did not tick \"share with coach\". May you tell the coach?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q11",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A parent reports a concussion. What do you tell the parent, and whom do you notify and when?",
+   "gold": "The player must not return to practice until a doctor signs the league's return-to-play form; notify safety officer Elena Ruiz the same day",
+   "accept": [
+    "return.to.play",
+    "doctor",
+    "ruiz",
+    "same day"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q12",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Is sending the updated rosters to the coordinators at 7 p.m. on Sunday on time?",
+   "gold": "No (by 6 p.m.)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q1",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "Which channels are checked, and when?",
+   "gold": "Reception WhatsApp and agenda@bichobom.vet, Monday to Saturday at 7:30",
+   "accept": [
+    "whatsapp",
+    "agenda@bichobom\\.vet",
+    "7[:h]30"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q2",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "A client asks to book a surgery for their dog. May you book it yourself?",
+   "gold": "No; only Dra. Fernanda Lopes books surgeries",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q3",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "An owner writes that their cat ate a grape an hour ago. What do you tell them, and what else do you do?",
+   "gold": "Tell them to bring the animal immediately to the 24-hour emergency service; notify the vet on duty; no treatment advice",
+   "accept": [
+    "(immediately|right away|now)",
+    "(emergenc|pronto)",
+    "(vet|veterin)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q4",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A client cancels 20 hours before the appointment because they are travelling. Is there a fee?",
+   "gold": "Yes, R$50",
+   "accept": [
+    "^\\W*yes\\b",
+    "50"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q5",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A client cancels 10 hours before the appointment because their own animal has an emergency. Is there a fee?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q6",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A registered NGO asks for a 15% discount for a rescued dog. May you grant it yourself?",
+   "gold": "No; only Juliana Prado can give more than 10%",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q7",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "Another clinic asks for a dog's medical record; the owner has not authorised it in writing. May you send it?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q8",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "Is Juliana Prado a partner in the clinic?",
+   "gold": "No; she is the manager",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q9",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "Who must not be copied on client e-mails?",
+   "gold": "Dr. Ricardo Alves (the partner)",
+   "accept": [
+    "alves"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q10",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A client's payment has been overdue for 25 days. Does the client go on Friday's list to Juliana?",
+   "gold": "No (more than 30 days only)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q11",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "Is sending Juliana the overdue list at 18:30 on Friday on time?",
+   "gold": "No (by 18:00)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q1",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "When was the cable car announced, and by when is it to be installed?",
+   "gold": "Nov 3; by July 2027",
+   "accept": [
+    "(nov\\w*\\.?\\s*3\\b|\\b3\\s*nov)",
+    "jul\\w*\\.?\\s*2027|2027"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q2",
+   "sec": 3,
+   "type": "F",
+   "hop": 2,
+   "q": "How much of the total cost comes from private investment, in won?",
+   "gold": "About ₩101.5 billion (70% of ₩145 billion)",
+   "accept": [
+    "101[.,]5|1,?015"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q3",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "How long is the route, how many stations, and what is the maximum capacity?",
+   "gold": "4.2 km, 3 stations, 2,400 people per hour",
+   "accept": [
+    "4[.,]2",
+    "\\b3\\b",
+    "2,?400"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q4",
+   "sec": 3,
+   "type": "F",
+   "hop": 2,
+   "q": "What does a 70-year-old pay for a round trip?",
+   "gold": "₩15,000 (40% off ₩25,000)",
+   "accept": [
+    "15,?000"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q5",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "What does the environmental group want, and why?",
+   "gold": "A halt to construction; fears damage to migratory bird habitat",
+   "accept": [
+    "(halt|stop|suspend)",
+    "bird"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q6",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "By when will the environmental impact assessment results be published?",
+   "gold": "By Dec 15",
+   "accept": [
+    "15",
+    "dec"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q7",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "When and where is the residents' briefing?",
+   "gold": "Dec 20, 2 p.m., Haeundae-gu office",
+   "accept": [
+    "20",
+    "(2 ?p|14:00)",
+    "(haeundae.gu|해운대구청|district office)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q8",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "What did 박지훈 say they aim to attract per year?",
+   "gold": "1.2 million additional tourists",
+   "accept": [
+    "(1[.,]2 ?million|120만|1,200,000)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q1",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "What is checked daily, and when?",
+   "gold": "it@polkart.pl and the ticket queue, at 7:00",
+   "accept": [
+    "it@polkart\\.pl",
+    "7"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q2",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "An employee asks for a password reset and asks you to call them back on the mobile number written in the ticket. May you verify on that number?",
+   "gold": "No; only the work number from the HR system",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q3",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Who can grant access to the \"Kadry\" folder?",
+   "gold": "Only HR head Anna Wiśniewska",
+   "accept": [
+    "wi[sś]niewska"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q4",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "On Saturday an employee reports an e-mail asking them to change a supplier's bank account number. What do you tell them, and what do you do?",
+   "gold": "Tell them not to click or pay anything; notify Kamil Nowak immediately (also at weekends)",
+   "accept": [
+    "(click|pay)",
+    "nowak"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q5",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A colleague brings a signed authorisation to collect a new laptop on behalf of an employee. May you hand it over?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q6",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A department requests a 2,000 zł monitor. Who approves it?",
+   "gold": "The requesting department's head",
+   "accept": [
+    "(head|kierownik|manager)"
+   ],
+   "reject": [
+    "\\blis\\b"
+   ]
+  },
+  {
+   "id": "§4.q7",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A department requests a 2,400 zł laptop. Who approves it?",
+   "gold": "CFO Ewa Lis",
+   "accept": [
+    "lis"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q8",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Is Kamil Nowak the IT head?",
+   "gold": "No; he is the security administrator",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q9",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Who must not be copied on replies to employees?",
+   "gold": "Marek Duda, the IT head",
+   "accept": [
+    "duda"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q10",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A ticket has been open for 4 working days on Friday. Does it go on the list to Marek Duda?",
+   "gold": "No (more than 5 working days only)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q11",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Is sending the Friday list at 14:00 on time?",
+   "gold": "Yes (by 15:00)",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  }
+ ]
+}

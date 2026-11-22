@@ -1,0 +1,132 @@
+[
+ {
+  "job": "1:English",
+  "seconds": 47.7,
+  "usage": {
+   "completion_tokens": 247,
+   "prompt_tokens": 1012,
+   "total_tokens": 1259,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  },
+  "status": "ok"
+ },
+ {
+  "job": "5:English",
+  "seconds": 42.9,
+  "usage": {
+   "completion_tokens": 192,
+   "prompt_tokens": 1012,
+   "total_tokens": 1204,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  },
+  "status": "ok"
+ },
+ {
+  "job": "5:Dutch",
+  "seconds": 45.9,
+  "usage": {
+   "completion_tokens": 258,
+   "prompt_tokens": 1012,
+   "total_tokens": 1270,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  },
+  "status": "ok"
+ },
+ {
+  "job": "1:Spanish",
+  "seconds": 64.0,
+  "usage": {
+   "completion_tokens": 353,
+   "prompt_tokens": 1012,
+   "total_tokens": 1365,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  },
+  "status": "ok"
+ },
+ {
+  "job": "2:English",
+  "seconds": 32.3,
+  "usage": {
+   "completion_tokens": 152,
+   "prompt_tokens": 1012,
+   "total_tokens": 1164,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  },
+  "status": "ok"
+ },
+ {
+  "job": "2:Spanish",
+  "seconds": 39.2,
+  "usage": {
+   "completion_tokens": 208,
+   "prompt_tokens": 1012,
+   "total_tokens": 1220,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  },
+  "status": "ok"
+ },
+ {
+  "job": "3:English",
+  "seconds": 36.4,
+  "usage": {
+   "completion_tokens": 173,
+   "prompt_tokens": 1012,
+   "total_tokens": 1185,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  },
+  "status": "ok"
+ },
+ {
+  "job": "3:Japanese",
+  "seconds": 37.9,
+  "usage": {
+   "completion_tokens": 203,
+   "prompt_tokens": 1012,
+   "total_tokens": 1215,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  },
+  "status": "ok"
+ },
+ {
+  "job": "4:English",
+  "seconds": 34.5,
+  "usage": {
+   "completion_tokens": 166,
+   "prompt_tokens": 1012,
+   "total_tokens": 1178,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  },
+  "status": "ok"
+ },
+ {
+  "job": "4:Italian",
+  "seconds": 40.5,
+  "usage": {
+   "completion_tokens": 228,
+   "prompt_tokens": 1012,
+   "total_tokens": 1240,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   }
+  },
+  "status": "ok"
+ }
+]

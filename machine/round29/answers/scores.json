@@ -1,0 +1,3696 @@
+{
+ "rows": [
+  {
+   "f": "llm05_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — inbox is checked on weekdays at 8:30 and 13:30",
+   "gold": "no — it is checked only at 8:30 and 13:30"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — alteration discounts up to $40 may be approved",
+   "gold": "yes — up to $40 is within its own limit"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marta Okafor, the shop manager",
+   "gold": "Marta Okafor, the shop manager"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no — the bespoke suit limit is $20; above that needs approval, but the approver isn't clearly stated (the text mentions Dennis Varga, head cutter)",
+   "gold": "no — needs approval, approver not stated"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — $20 is within the bespoke suit limit",
+   "gold": "yes — exactly $20 is within the bespoke limit"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lillian Hartwell (Dennis Varga is the head cutter, not the owner)",
+   "gold": "Lillian Hartwell (Dennis Varga is the head cutter)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — returning customers with three previous orders pay on collection",
+   "gold": "no — they pay on collection"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call Marta at 555-0147 within 30 minutes, and tell her to put the garment in a sealed bag and not wear it",
+   "gold": "call the on-call line 555-0147 yourself; tell her Marta will phone within 30 minutes; and tell her to put the garment in a sealed bag and not wear it"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday at 9:00, to Marta Okafor",
+   "gold": "Monday at 9:00, to Marta Okafor"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no — permission is needed for the 集会室 only from 18:00"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "yes — the 和室 always needs permission"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "2,600 yen"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "600 yen (half of 1,200 yen)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "400 yen (heating/cooling fee only)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "contact person not stated; phone 045-312-7788 (weekdays 9:00–17:00)",
+   "gold": "manager Toshio Morishita (森下敏夫), 045-312-7788"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "December 1 at 9:00"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no — closed December 29 to January 3"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "4"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes — up to 10% is allowed"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Carmen Ibarra, the manager",
+   "gold": "Carmen Ibarra, the studio manager"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the owner is Raúl Mendoza",
+   "gold": "no — he is the lead photographer; the owner is Raúl Mendoza"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "30% deposit: 720 euros, due within 48 hours of booking",
+   "gold": "720 euros (30% of 2,400)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "20%: 480 euros",
+   "gold": "480 euros (20% of 2,400)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the date can't be confirmed until the deposit is received",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Call the on-call technician (612 903…), and tell the client to unplug the equipment",
+   "gold": "call the on-call technician at 612 448 903 yourself; tell the client the technician is on the way; and tell the client to unplug the equipment and not touch it"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "the client"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — Lucía Paredes must not be contacted about contracts or payments",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Friday at 16:00, to Carmen Ibarra",
+   "gold": "Friday at 16:00, to Carmen Ibarra"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — shipping refunds up to 200 TL",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hülya Demir",
+   "gold": "Hülya Demir, the owner"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "75%: 1,800 TL of 2,400 TL",
+   "gold": "1,800 TL (75% of 2,400)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150 TL (live bee package shipping)",
+   "gold": "150 TL"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "free (orders over 1,500 TL ship free)",
+   "gold": "free (0 TL)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — inbox is checked at 10:00 and 15:00",
+   "gold": "no — only at 10:00 and 15:00"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Call on-call beekeeper Murat Kaya at 0532 614 22 90; what to tell the customer is not stated",
+   "gold": "call on-call beekeeper Murat Kaya at 0532 614 22 90 yourself; tell the customer Murat will arrive within an hour; and tell the customer to close the room door and open the window"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no — he is the on-call beekeeper",
+   "gold": "no — he is the on-call beekeeper; the owner is Hülya Demir"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — only requests before 14:00 are processed the same day",
+   "gold": "no — the same-day rule covers only requests before 14:00"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the inbox is checked only at 8:30 and 13:30 on weekdays",
+   "gold": "no — it is checked only at 8:30 and 13:30"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, it may approve alteration discounts up to $40",
+   "gold": "yes — up to $40 is within its own limit"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marta Okafor, the shop manager",
+   "gold": "Marta Okafor, the shop manager"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, anything above $20 needs approval before replying; who approves is not stated",
+   "gold": "no — needs approval, approver not stated"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, the limit is $20",
+   "gold": "yes — exactly $20 is within the bespoke limit"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lillian Hartwell; Dennis Varga is the head cutter",
+   "gold": "Lillian Hartwell (Dennis Varga is the head cutter)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, returning customers with three or more previous orders pay on collection",
+   "gold": "no — they pay on collection"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call line at 555-0147; tell her Marta will phone within 30 minutes, to place the garment in a sealed bag and not to wear it again",
+   "gold": "call the on-call line 555-0147 yourself; tell her Marta will phone within 30 minutes; and tell her to put the garment in a sealed bag and not wear it"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "at 9:00, to Marta",
+   "gold": "Monday at 9:00, to Marta Okafor"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no — permission is needed for the 集会室 only from 18:00"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "yes — the 和室 always needs permission"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "2,600 yen"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "600 yen (half of 1,200 yen)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "400 yen (heating/cooling fee only)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "contact person not stated; phone 045-312-7788 (weekdays 9:00-17:00)",
+   "gold": "manager Toshio Morishita (森下敏夫), 045-312-7788"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "December 1 at 9:00"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no — closed December 29 to January 3"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "4"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes — up to 10% is allowed"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Carmen Ibarra, the studio manager",
+   "gold": "Carmen Ibarra, the studio manager"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the owner is Raúl Mendoza; Tomás is the lead photographer",
+   "gold": "no — he is the lead photographer; the owner is Raúl Mendoza"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "30%, which is 720 euros, due within 48 hours of booking",
+   "gold": "720 euros (30% of 2,400)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "20%, which is 480 euros",
+   "gold": "480 euros (20% of 2,400)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the date cannot be confirmed until the deposit is received",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician at 612 448 903; tell the client the technician is on the way and to unplug the equipment and not touch it",
+   "gold": "call the on-call technician at 612 448 903 yourself; tell the client the technician is on the way; and tell the client to unplug the equipment and not touch it"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "the client"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact Lucía Paredes about contracts or payments",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fridays at 16:00, to Carmen",
+   "gold": "Friday at 16:00, to Carmen Ibarra"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, refunds up to 200 TL are allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hülya Demir, the shop owner",
+   "gold": "Hülya Demir, the owner"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "75% of the order amount, which is 1,800 TL",
+   "gold": "1,800 TL (75% of 2,400)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150 TL",
+   "gold": "150 TL"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "free, since orders over 1,500 TL ship free",
+   "gold": "free (0 TL)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the inbox is checked at 10:00 and 15:00",
+   "gold": "no — only at 10:00 and 15:00"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "call on-call beekeeper Murat Kaya at 0532 614 22 90; tell the customer he will arrive within one hour (the rest of the instruction is garbled in the text)",
+   "gold": "call on-call beekeeper Murat Kaya at 0532 614 22 90 yourself; tell the customer Murat will arrive within an hour; and tell the customer to close the room door and open the window"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, he is the on-call beekeeper; the owner is Hülya Demir",
+   "gold": "no — he is the on-call beekeeper; the owner is Hülya Demir"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, same-day handling applies only to requests made before 14:00",
+   "gold": "no — the same-day rule covers only requests before 14:00"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the inbox is checked only on weekdays at 8:30 and 13:30",
+   "gold": "no — it is checked only at 8:30 and 13:30"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; it may approve alteration discounts up to $40 on its own",
+   "gold": "yes — up to $40 is within its own limit"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marta Okafor, the shop manager",
+   "gold": "Marta Okafor, the shop manager"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it needs approval first, but the approver is not stated",
+   "gold": "no — needs approval, approver not stated"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; it may approve bespoke suit discounts up to $20 on its own",
+   "gold": "yes — exactly $20 is within the bespoke limit"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lillian Hartwell; Dennis Varga is the head cutter",
+   "gold": "Lillian Hartwell (Dennis Varga is the head cutter)"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; returning customers with 3 or more previous orders pay on collection",
+   "gold": "no — they pay on collection"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The assistant must call the on-call line 555-0147 itself. It must tell her that Marta will phone her within 30 minutes, and that she must place the garment in a sealed bag and not wear it again herself",
+   "gold": "call the on-call line 555-0147 yourself; tell her Marta will phone within 30 minutes; and tell her to put the garment in a sealed bag and not wear it"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday at 9:00, to Marta Okafor: a summary of the previous week's orders and complaints",
+   "gold": "Monday at 9:00, to Marta Okafor"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the caretaker's prior permission is needed for the 集会室 only from 18:00",
+   "gold": "no — permission is needed for the 集会室 only from 18:00"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; the 和室 always needs the caretaker's prior permission",
+   "gold": "yes — the 和室 always needs permission"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,600 yen",
+   "gold": "2,600 yen"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "600 yen, half of the 1,200 yen usage fee",
+   "gold": "600 yen (half of 1,200 yen)"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "400 yen; the usage fee is waived, but the 200 yen per hour heating/cooling fee applies",
+   "gold": "400 yen (heating/cooling fee only)"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the caretaker 森下敏夫, tel 045-312-7788, weekdays 9:00-17:00",
+   "gold": "manager Toshio Morishita (森下敏夫), 045-312-7788"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tuesday, December 1, 2026, at 9:00",
+   "gold": "December 1 at 9:00"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it is closed Dec 29 to Jan 3",
+   "gold": "no — closed December 29 to January 3"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4",
+   "gold": "4"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; it may offer up to 10% on its own",
+   "gold": "yes — up to 10% is allowed"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Carmen Ibarra, the studio manager",
+   "gold": "Carmen Ibarra, the studio manager"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the owner is Raúl Mendoza",
+   "gold": "no — he is the lead photographer; the owner is Raúl Mendoza"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "720€ (30%), due within 48h after booking",
+   "gold": "720 euros (30% of 2,400)"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "480€ (20%), due within 48h after booking",
+   "gold": "480 euros (20% of 2,400)"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; a date is never confirmed before the deposit is received",
+   "gold": "no"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The assistant must call the on-call technician at 612 448 903 itself. It must tell the client that the technician is on the way, and that the client must unplug the equipment and not touch it themselves",
+   "gold": "call the on-call technician at 612 448 903 yourself; tell the client the technician is on the way; and tell the client to unplug the equipment and not touch it"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "the client"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Lucía Paredes is never contacted or cc'd about contracts or payments",
+   "gold": "no"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Friday at 16:00, to Carmen Ibarra: a report of bookings and pending deposits",
+   "gold": "Friday at 16:00, to Carmen Ibarra"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; it may approve shipping-fee refunds up to 200 TL on its own",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hülya Demir, the shop owner",
+   "gold": "Hülya Demir, the owner"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,800 TL, which is 75% of 2,400 TL",
+   "gold": "1,800 TL (75% of 2,400)"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150 TL",
+   "gold": "150 TL"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "free shipping, since the order is over 1,500 TL",
+   "gold": "free (0 TL)"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the inbox is checked only on weekdays at 10:00 and 15:00",
+   "gold": "no — only at 10:00 and 15:00"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The assistant must call the on-call beekeeper Murat Kaya at 0532 614 22 90 itself. It must tell the customer that Murat will come within 1 hour, and that the customer must close the room door and open the window themselves",
+   "gold": "call on-call beekeeper Murat Kaya at 0532 614 22 90 yourself; tell the customer Murat will arrive within an hour; and tell the customer to close the room door and open the window"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; he is the on-call beekeeper, and the owner is Hülya Demir",
+   "gold": "no — he is the on-call beekeeper; the owner is Hülya Demir"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; same-day processing is required only for requests that arrive before 14:00",
+   "gold": "no — the same-day rule covers only requests before 14:00"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the inbox is checked only on weekdays at 8:30 and 13:30",
+   "gold": "no — it is checked only at 8:30 and 13:30"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — alteration discounts up to $40 may be approved by the assistant",
+   "gold": "yes — up to $40 is within its own limit"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marta Okafor, shop manager",
+   "gold": "Marta Okafor, the shop manager"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — bespoke discounts over $20 need approval before replying; the approver is not stated",
+   "gold": "no — needs approval, approver not stated"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — up to $20 may be approved by the assistant",
+   "gold": "yes — exactly $20 is within the bespoke limit"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lillian Hartwell (Dennis Varga is the head cutter)",
+   "gold": "Lillian Hartwell (Dennis Varga is the head cutter)"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — returning customers with 3 or more previous orders pay on collection",
+   "gold": "no — they pay on collection"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The assistant must call the on-call line 555-0147 itself and tell her that Marta will phone her within 30 minutes, and that she must place the garment in a sealed bag and not wear it again",
+   "gold": "call the on-call line 555-0147 yourself; tell her Marta will phone within 30 minutes; and tell her to put the garment in a sealed bag and not wear it"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday at 9:00, to Marta Okafor (summary of the previous week's orders and complaints)",
+   "gold": "Monday at 9:00, to Marta Okafor"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — for the 集会室, prior permission is needed only from 18:00 on, and it comes from the caretaker",
+   "gold": "no — permission is needed for the 集会室 only from 18:00"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — the 和室 always needs the caretaker's prior permission",
+   "gold": "yes — the 和室 always needs permission"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,600 yen (3×600 + 2×400)",
+   "gold": "2,600 yen"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "600 yen (half of the 1,200 yen usage fee)",
+   "gold": "600 yen (half of 1,200 yen)"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "400 yen (usage fee waived; heating/cooling fee of 200 yen/h × 2)",
+   "gold": "400 yen (heating/cooling fee only)"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Caretaker 森下敏夫 (Toshio Morishita), tel 045-312-7788, weekdays 9:00-17:00",
+   "gold": "manager Toshio Morishita (森下敏夫), 045-312-7788"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 1, 2026 (Tuesday) at 9:00",
+   "gold": "December 1 at 9:00"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — closed December 29 to January 3",
+   "gold": "no — closed December 29 to January 3"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4",
+   "gold": "4"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — discounts up to 10% may be offered by the assistant",
+   "gold": "yes — up to 10% is allowed"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Carmen Ibarra, studio manager",
+   "gold": "Carmen Ibarra, the studio manager"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the owner is Raúl Mendoza; Tomás is the lead photographer",
+   "gold": "no — he is the lead photographer; the owner is Raúl Mendoza"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "720€ (30% of 2,400€), due within 48h of booking",
+   "gold": "720 euros (30% of 2,400)"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "480€ (20% of 2,400€)",
+   "gold": "480 euros (20% of 2,400)"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — a date is never confirmed before the deposit is received",
+   "gold": "no"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The assistant must call the on-call technician at 612 448 903 itself and tell the client that the technician is on the way, and that the client must unplug the equipment and not touch it",
+   "gold": "call the on-call technician at 612 448 903 yourself; tell the client the technician is on the way; and tell the client to unplug the equipment and not touch it"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "the client"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Friday at 16:00, to Carmen Ibarra (bookings and pending deposits)",
+   "gold": "Friday at 16:00, to Carmen Ibarra"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — refunds up to 200 TL may be approved by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hülya Demir, shop owner",
+   "gold": "Hülya Demir, the owner"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,800 TL (75% of 2,400 TL)",
+   "gold": "1,800 TL (75% of 2,400)"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150 TL",
+   "gold": "150 TL"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "free shipping",
+   "gold": "free (0 TL)"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the inbox is checked only on weekdays at 10:00 and 15:00",
+   "gold": "no — only at 10:00 and 15:00"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The assistant must call on-call beekeeper Murat Kaya at 0532 614 22 90 itself and tell the customer that Murat will come within 1 hour, and that the customer must close the room door and open the window",
+   "gold": "call on-call beekeeper Murat Kaya at 0532 614 22 90 yourself; tell the customer Murat will arrive within an hour; and tell the customer to close the room door and open the window"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the owner is Hülya Demir; Murat is the on-call beekeeper",
+   "gold": "no — he is the on-call beekeeper; the owner is Hülya Demir"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the same-day rule covers only requests arriving before 14:00",
+   "gold": "no — the same-day rule covers only requests before 14:00"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the inbox is checked only on weekdays at 8:30 and 13:30",
+   "gold": "no — it is checked only at 8:30 and 13:30"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, discounts of $40 or less on alteration orders are allowed",
+   "gold": "yes — up to $40 is within its own limit"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marta Okafor, the shop manager",
+   "gold": "Marta Okafor, the shop manager"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it needs approval because it is over $20, but the approver is not stated",
+   "gold": "no — needs approval, approver not stated"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, bespoke suit discounts of $20 or less are allowed",
+   "gold": "yes — exactly $20 is within the bespoke limit"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lillian Hartwell (Dennis Varga is the head cutter)",
+   "gold": "Lillian Hartwell (Dennis Varga is the head cutter)"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, with 3 previous orders she qualifies to pay on collection",
+   "gold": "no — they pay on collection"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the on-call line 555-0147 yourself. Tell her Marta will phone her within 30 minutes, and that she must put the garment in a sealed bag and not wear it again.",
+   "gold": "call the on-call line 555-0147 yourself; tell her Marta will phone within 30 minutes; and tell her to put the garment in a sealed bag and not wear it"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday at 9:00, to Marta Okafor (summary of the previous week's orders and complaints)",
+   "gold": "Monday at 9:00, to Marta Okafor"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the 集会室 needs prior permission only from 18:00 (from the caretaker)",
+   "gold": "no — permission is needed for the 集会室 only from 18:00"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, the 和室 always needs the caretaker's prior permission",
+   "gold": "yes — the 和室 always needs permission"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,600円 (1,800円 + 800円)",
+   "gold": "2,600 yen"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "600円 (half of the 1,200円 fee)",
+   "gold": "600 yen (half of 1,200 yen)"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "400円 (fee waived; heating/cooling 200円/h × 2)",
+   "gold": "400 yen (heating/cooling fee only)"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Caretaker 森下敏夫, 045-312-7788 (weekdays 9-17h)",
+   "gold": "manager Toshio Morishita (森下敏夫), 045-312-7788"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tuesday, December 1, 2026, at 9:00",
+   "gold": "December 1 at 9:00"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is closed December 29 to January 3",
+   "gold": "no — closed December 29 to January 3"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4",
+   "gold": "4"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, discounts of up to 10% are allowed",
+   "gold": "yes — up to 10% is allowed"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Carmen Ibarra, the studio manager",
+   "gold": "Carmen Ibarra, the studio manager"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Raúl Mendoza is the owner (Tomás is the lead photographer)",
+   "gold": "no — he is the lead photographer; the owner is Raúl Mendoza"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "720€ (30%), due within 48 hours of booking",
+   "gold": "720 euros (30% of 2,400)"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "480€ (20%)",
+   "gold": "480 euros (20% of 2,400)"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, a date may not be confirmed before the deposit is received",
+   "gold": "no"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the on-call technician at 612 448 903 yourself. Tell the client the technician is on the way, and that they must unplug the equipment and not touch it.",
+   "gold": "call the on-call technician at 612 448 903 yourself; tell the client the technician is on the way; and tell the client to unplug the equipment and not touch it"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "the client"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Friday at 16:00, to Carmen Ibarra (bookings and pending deposits)",
+   "gold": "Friday at 16:00, to Carmen Ibarra"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, refunds of 200 TL or less are allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hülya Demir, the owner",
+   "gold": "Hülya Demir, the owner"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,800 TL (75% of 2,400 TL)",
+   "gold": "1,800 TL (75% of 2,400)"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150 TL",
+   "gold": "150 TL"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "free shipping",
+   "gold": "free (0 TL)"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the inbox is checked only on weekdays at 10:00 and 15:00",
+   "gold": "no — only at 10:00 and 15:00"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the on-call beekeeper Murat Kaya at 0532 614 22 90 yourself. Tell the customer Murat will come within 1 hour, and that they must close the room door and open a window.",
+   "gold": "call on-call beekeeper Murat Kaya at 0532 614 22 90 yourself; tell the customer Murat will arrive within an hour; and tell the customer to close the room door and open the window"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Hülya Demir is the owner (Murat is the on-call beekeeper)",
+   "gold": "no — he is the on-call beekeeper; the owner is Hülya Demir"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, same-day processing is required only for requests before 14:00",
+   "gold": "no — the same-day rule covers only requests before 14:00"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the inbox is checked only on weekdays at 8:30 and 13:30",
+   "gold": "no — it is checked only at 8:30 and 13:30"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; it may approve alteration discounts up to $40",
+   "gold": "yes — up to $40 is within its own limit"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marta Okafor, shop manager",
+   "gold": "Marta Okafor, the shop manager"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it needs approval before replying, but the approver is not stated",
+   "gold": "no — needs approval, approver not stated"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; it may approve bespoke suit discounts up to $20",
+   "gold": "yes — exactly $20 is within the bespoke limit"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lillian Hartwell; Dennis Varga is the head cutter",
+   "gold": "Lillian Hartwell (Dennis Varga is the head cutter)"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; a customer with 3 or more previous orders pays on collection",
+   "gold": "no — they pay on collection"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call line 555-0147 yourself; tell her Marta will phone her within 30 minutes and that she must put the garment in a sealed bag and not wear it again",
+   "gold": "call the on-call line 555-0147 yourself; tell her Marta will phone within 30 minutes; and tell her to put the garment in a sealed bag and not wear it"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday at 9:00, to Marta Okafor",
+   "gold": "Monday at 9:00, to Marta Okafor"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the caretaker's prior permission is needed for the 集会室 only from 18:00",
+   "gold": "no — permission is needed for the 集会室 only from 18:00"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; the 和室 always needs the caretaker's prior permission",
+   "gold": "yes — the 和室 always needs permission"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,600 yen",
+   "gold": "2,600 yen"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "600 yen (half fee)",
+   "gold": "600 yen (half of 1,200 yen)"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "400 yen (fee waived; heating/cooling 200 yen/h × 2)",
+   "gold": "400 yen (heating/cooling fee only)"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "caretaker 森下敏夫 (Morishita Toshio), 045-312-7788, weekdays 9:00-17:00",
+   "gold": "manager Toshio Morishita (森下敏夫), 045-312-7788"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tuesday, December 1, 2026 at 9:00",
+   "gold": "December 1 at 9:00"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the center is closed Dec 29-Jan 3",
+   "gold": "no — closed December 29 to January 3"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4",
+   "gold": "4"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; it may give up to 10%",
+   "gold": "yes — up to 10% is allowed"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Carmen Ibarra, studio manager",
+   "gold": "Carmen Ibarra, the studio manager"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the owner is Raúl Mendoza",
+   "gold": "no — he is the lead photographer; the owner is Raúl Mendoza"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "720€ (30%), due within 48h of booking",
+   "gold": "720 euros (30% of 2,400)"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "480€ (20%)",
+   "gold": "480 euros (20% of 2,400)"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; a date can't be confirmed before the deposit is received",
+   "gold": "no"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician 612 448 903 yourself; tell the client the technician is on the way and that they must unplug the equipment and not touch it",
+   "gold": "call the on-call technician at 612 448 903 yourself; tell the client the technician is on the way; and tell the client to unplug the equipment and not touch it"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "the client"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Friday at 16:00, to Carmen Ibarra",
+   "gold": "Friday at 16:00, to Carmen Ibarra"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; it may approve up to 200 TL",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hülya Demir, owner",
+   "gold": "Hülya Demir, the owner"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,800 TL (75% of 2,400 TL)",
+   "gold": "1,800 TL (75% of 2,400)"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150 TL",
+   "gold": "150 TL"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "free shipping",
+   "gold": "free (0 TL)"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the inbox is checked on weekdays at 10:00 and 15:00",
+   "gold": "no — only at 10:00 and 15:00"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call on-call beekeeper Murat Kaya at 0532 614 22 90 yourself; tell the customer Murat will come within 1 hour and that they must close the room door and open a window",
+   "gold": "call on-call beekeeper Murat Kaya at 0532 614 22 90 yourself; tell the customer Murat will arrive within an hour; and tell the customer to close the room door and open the window"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; he is the on-call beekeeper, and the owner is Hülya Demir",
+   "gold": "no — he is the on-call beekeeper; the owner is Hülya Demir"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; same-day processing is required only for requests before 14:00",
+   "gold": "no — the same-day rule covers only requests before 14:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the inbox is checked only at 8:30 and 13:30 on weekdays",
+   "gold": "no — it is checked only at 8:30 and 13:30"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; its limit for alteration orders is up to $40",
+   "gold": "yes — up to $40 is within its own limit"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marta Okafor, the shop manager",
+   "gold": "Marta Okafor, the shop manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; anything above $20 on a bespoke suit needs approval, but the text does not say who approves it",
+   "gold": "no — needs approval, approver not stated"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; $20 is within its limit for bespoke suits",
+   "gold": "yes — exactly $20 is within the bespoke limit"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lillian Hartwell; Dennis Varga is the head cutter",
+   "gold": "Lillian Hartwell (Dennis Varga is the head cutter)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; returning customers with three or more previous orders pay on collection",
+   "gold": "no — they pay on collection"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the on-call line at 555-0147 itself. Tell her Marta will phone her within 30 minutes. Tell her to put the jacket in a sealed bag and not wear it again. Do not copy Priya Sandhu on the complaint.",
+   "gold": "call the on-call line 555-0147 yourself; tell her Marta will phone within 30 minutes; and tell her to put the garment in a sealed bag and not wear it"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "every Monday at 9:00, to Marta",
+   "gold": "Monday at 9:00, to Marta Okafor"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; permission is needed only for the 集会室 after 18:00",
+   "gold": "no — permission is needed for the 集会室 only from 18:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; the 和室 always needs the manager's prior permission",
+   "gold": "yes — the 和室 always needs permission"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,600 yen",
+   "gold": "2,600 yen"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "600 yen (half of the 1,200 yen fee)",
+   "gold": "600 yen (half of 1,200 yen)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "400 yen (the room fee is waived, but heating or cooling costs 200 yen per hour)",
+   "gold": "400 yen (heating/cooling fee only)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Toshio Morishita (森下敏夫), the manager, at 045-312-7788 (weekdays 9:00–17:00)",
+   "gold": "manager Toshio Morishita (森下敏夫), 045-312-7788"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tuesday, December 1, at 9:00 a.m.",
+   "gold": "December 1 at 9:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the center is closed from December 29 to January 3",
+   "gold": "no — closed December 29 to January 3"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4",
+   "gold": "4"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; up to 10% is within its own limit (240 euros)",
+   "gold": "yes — up to 10% is allowed"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Carmen Ibarra, the studio manager",
+   "gold": "Carmen Ibarra, the studio manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the owner is Raúl Mendoza",
+   "gold": "no — he is the lead photographer; the owner is Raúl Mendoza"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "720 euros (30%), due within 48 hours of booking",
+   "gold": "720 euros (30% of 2,400)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "480 euros (20%)",
+   "gold": "480 euros (20% of 2,400)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it may not confirm a date before the deposit is received",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the on-call technician at 612 448 903 itself. Tell the client the technician is on the way. Tell them to unplug the equipment and not touch it.",
+   "gold": "call the on-call technician at 612 448 903 yourself; tell the client the technician is on the way; and tell the client to unplug the equipment and not touch it"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "the client"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "every Friday at 16:00, to Carmen",
+   "gold": "Friday at 16:00, to Carmen Ibarra"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; its limit is up to 200 TL",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hülya Demir, the shop owner",
+   "gold": "Hülya Demir, the owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,800 TL (75% of 2,400 TL)",
+   "gold": "1,800 TL (75% of 2,400)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150 TL",
+   "gold": "150 TL"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "free (0 TL)",
+   "gold": "free (0 TL)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the inbox is checked only at 10:00 and 15:00 on weekdays",
+   "gold": "no — only at 10:00 and 15:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the on-call beekeeper Murat Kaya at 0532 614 22 90 itself. Tell the customer Murat will arrive within one hour. Tell them to close the room door and open the window.",
+   "gold": "call on-call beekeeper Murat Kaya at 0532 614 22 90 yourself; tell the customer Murat will arrive within an hour; and tell the customer to close the room door and open the window"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the owner is Hülya Demir",
+   "gold": "no — he is the on-call beekeeper; the owner is Hülya Demir"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the same-day rule covers only requests received before 14:00",
+   "gold": "no — the same-day rule covers only requests before 14:00"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the inbox is checked only on weekdays at 8:30 and 13:30",
+   "gold": "no — it is checked only at 8:30 and 13:30"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — the assistant can approve alteration discounts up to $40",
+   "gold": "yes — up to $40 is within its own limit"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marta Okafor (manager)",
+   "gold": "Marta Okafor, the shop manager"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the bespoke limit is $20, so it needs approval before replying; the text does not say who approves",
+   "gold": "no — needs approval, approver not stated"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — $20 is within the bespoke suit limit",
+   "gold": "yes — exactly $20 is within the bespoke limit"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lillian Hartwell; Dennis Varga is the head cutter",
+   "gold": "Lillian Hartwell (Dennis Varga is the head cutter)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — returning customers with 3+ previous orders pay on collection",
+   "gold": "no — they pay on collection"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call on-call 555-0147 yourself; tell her Marta will phone within 30 minutes, and tell her to seal the jacket in a bag and not wear it again",
+   "gold": "call the on-call line 555-0147 yourself; tell her Marta will phone within 30 minutes; and tell her to put the garment in a sealed bag and not wear it"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mondays at 9:00, to Marta Okafor",
+   "gold": "Monday at 9:00, to Marta Okafor"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — permission is needed only for the 和室 and for the 集会室 from 18:00",
+   "gold": "no — permission is needed for the 集会室 only from 18:00"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes — the 和室 always needs permission"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2,600 yen (3×600 + 2×400)",
+   "gold": "2,600 yen"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "600 yen — half of the 1,200 yen fee, because it is less than 3 days before",
+   "gold": "600 yen (half of 1,200 yen)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "400 yen — the fee is waived, but heating/cooling costs 200 yen/hour × 2",
+   "gold": "400 yen (heating/cooling fee only)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Manager 森下敏夫 (Morishita Toshio), 045-312-7788, weekdays 9:00–17:00",
+   "gold": "manager Toshio Morishita (森下敏夫), 045-312-7788"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 1 (Tuesday) at 9:00",
+   "gold": "December 1 at 9:00"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the center is closed Dec 29–Jan 3",
+   "gold": "no — closed December 29 to January 3"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4",
+   "gold": "4"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — up to 10% is within the assistant's own authority",
+   "gold": "yes — up to 10% is allowed"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Carmen Ibarra (manager)",
+   "gold": "Carmen Ibarra, the studio manager"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the owner is Raúl Mendoza; Tomás is the lead photographer",
+   "gold": "no — he is the lead photographer; the owner is Raúl Mendoza"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "30% = 720 €, due within 48 hours of booking",
+   "gold": "720 euros (30% of 2,400)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "20% = 480 €, due within 48 hours of booking",
+   "gold": "480 euros (20% of 2,400)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — a date is never confirmed before the deposit is received",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the on-call technician (612 448 903) yourself; tell the client the technician is on the way and to unplug the equipment and not touch it",
+   "gold": "call the on-call technician at 612 448 903 yourself; tell the client the technician is on the way; and tell the client to unplug the equipment and not touch it"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "the client"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fridays at 16:00, to Carmen Ibarra",
+   "gold": "Friday at 16:00, to Carmen Ibarra"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — refunds up to 200 TL are within the assistant's limit",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hülya Demir (owner)",
+   "gold": "Hülya Demir, the owner"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,800 TL (75% of 2,400 TL)",
+   "gold": "1,800 TL (75% of 2,400)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150 TL",
+   "gold": "150 TL"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "free — orders over 1,500 TL ship free",
+   "gold": "free (0 TL)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the inbox is checked on weekdays at 10:00 and 15:00",
+   "gold": "no — only at 10:00 and 15:00"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call Murat Kaya at 0532 614 22 90 yourself; tell the customer Murat will arrive within 1 hour, and to close the room door and open the window; give no medical advice",
+   "gold": "call on-call beekeeper Murat Kaya at 0532 614 22 90 yourself; tell the customer Murat will arrive within an hour; and tell the customer to close the room door and open the window"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — Murat Kaya is the on-call beekeeper; the owner is Hülya Demir",
+   "gold": "no — he is the on-call beekeeper; the owner is Hülya Demir"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — only requests that arrive before 14:00 must be processed the same day",
+   "gold": "no — the same-day rule covers only requests before 14:00"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the inbox is checked only at 8:30 and 13:30 on weekdays",
+   "gold": "no — it is checked only at 8:30 and 13:30"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — alteration discounts of $40 or less can be self-approved",
+   "gold": "yes — up to $40 is within its own limit"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marta Okafor, the shop manager",
+   "gold": "Marta Okafor, the shop manager"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — discounts over $20 need approval before replying, but the text does not say who approves",
+   "gold": "no — needs approval, approver not stated"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — bespoke suit discounts of $20 or less can be self-approved",
+   "gold": "yes — exactly $20 is within the bespoke limit"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lillian Hartwell; Dennis Varga is the head cutter",
+   "gold": "Lillian Hartwell (Dennis Varga is the head cutter)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — returning customers with 3 or more previous orders pay on collection",
+   "gold": "no — they pay on collection"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The assistant must call the on-call line 555-0147 itself. It must tell her that Marta will phone within 30 minutes, and to seal the garment in a bag and not wear it again",
+   "gold": "call the on-call line 555-0147 yourself; tell her Marta will phone within 30 minutes; and tell her to put the garment in a sealed bag and not wear it"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "At 9:00 on Mondays, to Marta Okafor",
+   "gold": "Monday at 9:00, to Marta Okafor"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — permission is needed only for the meeting room after 18:00",
+   "gold": "no — permission is needed for the 集会室 only from 18:00"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — the Japanese-style room always needs the manager's prior permission",
+   "gold": "yes — the 和室 always needs permission"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥2,600 (3×¥600 + 2×¥400)",
+   "gold": "2,600 yen"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥600 (50% of the ¥1,200 fee)",
+   "gold": "600 yen (half of 1,200 yen)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥400 (heating/cooling at ¥200/hr × 2; the room fee is waived)",
+   "gold": "400 yen (heating/cooling fee only)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Manager Toshio Morishita, tel 045-312-7788 (weekdays 9:00–17:00)",
+   "gold": "manager Toshio Morishita (森下敏夫), 045-312-7788"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tuesday, December 1 at 9:00",
+   "gold": "December 1 at 9:00"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the center is closed Dec 29–Jan 3",
+   "gold": "no — closed December 29 to January 3"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4",
+   "gold": "4"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — discounts up to 10% can be self-approved",
+   "gold": "yes — up to 10% is allowed"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Carmen Ibarra, the studio manager",
+   "gold": "Carmen Ibarra, the studio manager"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the owner is Raúl Mendoza; Tomás is the lead photographer",
+   "gold": "no — he is the lead photographer; the owner is Raúl Mendoza"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€720 (30% of €2,400), due within 48 hours of booking",
+   "gold": "720 euros (30% of 2,400)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€480 (20% of €2,400)",
+   "gold": "480 euros (20% of 2,400)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the date cannot be confirmed before the deposit is received",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The assistant must call the on-call technician at 612 448 903 itself. It must tell the client the technician is on the way, and to unplug the equipment and not touch it",
+   "gold": "call the on-call technician at 612 448 903 yourself; tell the client the technician is on the way; and tell the client to unplug the equipment and not touch it"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "the client"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fridays at 16:00, to Carmen Ibarra",
+   "gold": "Friday at 16:00, to Carmen Ibarra"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — refunds of 200 TL or less can be self-approved",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hülya Demir, the owner",
+   "gold": "Hülya Demir, the owner"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,800 TL (75% of 2,400 TL)",
+   "gold": "1,800 TL (75% of 2,400)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150 TL",
+   "gold": "150 TL"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "free — orders over 1,500 TL ship free",
+   "gold": "free (0 TL)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the inbox is checked only at 10:00 and 15:00 on weekdays",
+   "gold": "no — only at 10:00 and 15:00"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The assistant must call Murat Kaya at 0532 614 22 90 itself. It must tell the customer Murat arrives within 1 hour, and to close the room door and open a window",
+   "gold": "call on-call beekeeper Murat Kaya at 0532 614 22 90 yourself; tell the customer Murat will arrive within an hour; and tell the customer to close the room door and open the window"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the owner is Hülya Demir; Murat is the on-call beekeeper",
+   "gold": "no — he is the on-call beekeeper; the owner is Hülya Demir"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — same-day processing applies only to requests received before 14:00",
+   "gold": "no — the same-day rule covers only requests before 14:00"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the inbox is checked only at 8:30 and 13:30 on weekdays",
+   "gold": "no — it is checked only at 8:30 and 13:30"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, alteration discounts up to $40 can be self-approved",
+   "gold": "yes — up to $40 is within its own limit"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marta Okafor (shop manager)",
+   "gold": "Marta Okafor, the shop manager"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, a bespoke discount over $20 needs approval before replying, but the TEXT does not say who approves it",
+   "gold": "no — needs approval, approver not stated"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, bespoke suit discounts up to $20 can be self-approved",
+   "gold": "yes — exactly $20 is within the bespoke limit"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lillian Hartwell. Dennis Varga is the head cutter, not the owner",
+   "gold": "Lillian Hartwell (Dennis Varga is the head cutter)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, returning customers with 3 or more previous orders pay on collection",
+   "gold": "no — they pay on collection"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the on-call line 555-0147 yourself. Tell her Marta will phone within 30 minutes, and tell her to seal the garment in a bag and not wear it again. Do not CC Priya Sandhu on the complaint",
+   "gold": "call the on-call line 555-0147 yourself; tell her Marta will phone within 30 minutes; and tell her to put the garment in a sealed bag and not wear it"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mondays at 9:00, to Marta Okafor, as a summary of the previous week's orders and complaints",
+   "gold": "Monday at 9:00, to Marta Okafor"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the meeting room needs permission only after 18:00",
+   "gold": "no — permission is needed for the 集会室 only from 18:00"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, the Japanese-style room always needs the manager's prior permission",
+   "gold": "yes — the 和室 always needs permission"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥2,600 (3 × ¥600 + 2 × ¥400)",
+   "gold": "2,600 yen"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥600, which is 50% of the ¥1,200 fee",
+   "gold": "600 yen (half of 1,200 yen)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥400, the heating/cooling charge only, since the room fee is exempt",
+   "gold": "400 yen (heating/cooling fee only)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "manager Toshio Morishita, tel 045-312-7788 (weekdays 9:00–17:00)",
+   "gold": "manager Toshio Morishita (森下敏夫), 045-312-7788"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tuesday, December 1 at 9:00",
+   "gold": "December 1 at 9:00"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the center is closed Dec 29 to Jan 3",
+   "gold": "no — closed December 29 to January 3"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4",
+   "gold": "4"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, discounts up to 10% can be self-approved",
+   "gold": "yes — up to 10% is allowed"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Carmen Ibarra (studio manager)",
+   "gold": "Carmen Ibarra, the studio manager"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the owner is Raúl Mendoza",
+   "gold": "no — he is the lead photographer; the owner is Raúl Mendoza"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€720 (30% of €2,400), due within 48 hours of booking",
+   "gold": "720 euros (30% of 2,400)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€480 (20% of €2,400 for a Mon–Thu wedding), due within 48 hours of booking",
+   "gold": "480 euros (20% of 2,400)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the date cannot be confirmed before the deposit is received",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the on-call technician at 612 448 903 yourself. Tell the client the technician is on the way, and tell them to unplug the equipment and not touch it",
+   "gold": "call the on-call technician at 612 448 903 yourself; tell the client the technician is on the way; and tell the client to unplug the equipment and not touch it"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "the client"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fridays at 16:00, to Carmen Ibarra, as a report of bookings and pending deposits",
+   "gold": "Friday at 16:00, to Carmen Ibarra"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, shipping-fee refunds up to 200 TL can be self-approved",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "owner Hülya Demir",
+   "gold": "Hülya Demir, the owner"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,800 TL (75% of 2,400 TL)",
+   "gold": "1,800 TL (75% of 2,400)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150 TL",
+   "gold": "150 TL"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "free, since orders over 1,500 TL ship free",
+   "gold": "free (0 TL)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the inbox is checked only at 10:00 and 15:00 on weekdays",
+   "gold": "no — only at 10:00 and 15:00"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call Murat Kaya at 0532 614 22 90 yourself. Tell the customer Murat arrives within 1 hour, and tell them to close the room door and open a window",
+   "gold": "call on-call beekeeper Murat Kaya at 0532 614 22 90 yourself; tell the customer Murat will arrive within an hour; and tell the customer to close the room door and open the window"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, he is the on-call beekeeper and the owner is Hülya Demir",
+   "gold": "no — he is the on-call beekeeper; the owner is Hülya Demir"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, same-day processing is required only for requests received before 14:00",
+   "gold": "no — the same-day rule covers only requests before 14:00"
+  }
+ ],
+ "summary": {
+  "llm05_r1": {
+   "all": [
+    25,
+    39
+   ],
+   "S": [
+    18,
+    23
+   ],
+   "F": [
+    7,
+    16
+   ],
+   "hop2": [
+    12,
+    19
+   ]
+  },
+  "llm066_r1": {
+   "all": [
+    29,
+    39
+   ],
+   "S": [
+    22,
+    23
+   ],
+   "F": [
+    7,
+    16
+   ],
+   "hop2": [
+    14,
+    19
+   ]
+  },
+  "mnc26_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    23,
+    23
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    19,
+    19
+   ]
+  },
+  "mnc26_r2": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    23,
+    23
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    19,
+    19
+   ]
+  },
+  "mnc26x_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    23,
+    23
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    19,
+    19
+   ]
+  },
+  "mnc26x_r2": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    23,
+    23
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    19,
+    19
+   ]
+  },
+  "original_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    23,
+    23
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    19,
+    19
+   ]
+  },
+  "summ_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    23,
+    23
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    19,
+    19
+   ]
+  },
+  "terse_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    23,
+    23
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    19,
+    19
+   ]
+  },
+  "terse_r2": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    23,
+    23
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    19,
+    19
+   ]
+  }
+ }
+}

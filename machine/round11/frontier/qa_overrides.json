@@ -1,0 +1,106 @@
+{
+ "original": {
+  "§1.es9": [
+   1,
+   "correct, Spanish regex miss"
+  ],
+  "§1.es10": [
+   1,
+   "correct, Spanish regex miss"
+  ]
+ },
+ "mnc15_key": {
+  "§1.es10": [
+   1,
+   "correct, Spanish regex miss"
+  ],
+  "§1.en13": [
+   1,
+   "9pm + total volunteer hours"
+  ],
+  "§1.es13": [
+   1,
+   "9pm + total volunteer hours"
+  ],
+  "§3.ja1": [
+   1,
+   "12月5日(土) 9:00 old apartment"
+  ]
+ },
+ "mnc15x": {
+  "§1.es10": [
+   1,
+   "correct"
+  ],
+  "§1.en13": [
+   1,
+   "9pm + hours"
+  ],
+  "§3.ja1": [
+   1,
+   "12月5日(土) 9:00"
+  ],
+  "§1.en4": [
+   1,
+   "yes + draft for Priya, do not post yourself"
+  ],
+  "§1.es4": [
+   1,
+   "yes + draft for Priya, do not post yourself"
+  ],
+  "§1.es1": [
+   1,
+   "martes 19:30 Central"
+  ]
+ },
+ "mnc15xx": {
+  "§1.es9": [
+   1,
+   "correct, Spanish regex miss"
+  ],
+  "§1.es10": [
+   1,
+   "correct, Spanish regex miss"
+  ],
+  "§1.en13": [
+   1,
+   "9pm + hours"
+  ],
+  "§1.es13": [
+   1,
+   "9pm + hours"
+  ],
+  "§3.ja1": [
+   1,
+   "12月5日(土) 9:00"
+  ],
+  "§1.en4": [
+   1,
+   "yes + draft for Priya, never post yourself"
+  ],
+  "§1.es4": [
+   1,
+   "yes + draft for Priya, never post yourself"
+  ]
+ },
+ "c_llmlingua2_r0.66": {
+  "§1.es9": [
+   1,
+   "correct, Spanish regex miss"
+  ],
+  "§1.es10": [
+   1,
+   "correct, Spanish regex miss"
+  ],
+  "§5.en8": [
+   1,
+   "translated term, meaning kept (same leniency as original)"
+  ]
+ },
+ "b_summarize": {
+  "§1.es1": [
+   1,
+   "martes 19:30 (Central missing; regex does not require it)"
+  ]
+ }
+}

@@ -1,0 +1,165 @@
+§r3P1 task en; you:
+weekly brand outreach: Mon 9:00 CT open Outreach sheet, brands marked "Ready"
+each: pitch email from Jordan's Gmail, template in Pitch doc
+never send without Jordan approval; draft→approval card, wait
+Jordan no answer 48h: remind once; max 1 reminder/brand
+contact only brands ≥5000 followers; skip brands that replied last 30d
+may update Status column; never delete rows
+brand asks rates: never quote price; tell Jordan, he answers
+Jordan="business developer and entrepreneur", never "coach"
+drafts ready Mon noon
+Gmail connector disconnected: stop, tell Jordan, never use browser
+by 17:00 Jordan gets short summary: count of waiting drafts
+
+§r3P2 es school notice
+Thu Mar12 grade4 (cuarto) trip: Valdemar Science Museum
+leave school 8:30, 3 buses, back ~16:00
+€14/student, pay school office (secretaría) before Mon9
+principal Marta Ruiz: last yr same trip €18; now city hall pays part of transport
+bring food, water, signed permission; no permission→can't board bus
+no money needed; no phones during visit
+rain: botanical garden→workshop inside museum
+need 2 parent volunteers: write tutor Mrs Gil before Fri6
+allergies: tell teachers; museum sells no food
+
+§r3P3 ko family chat
+할머니 80th (팔순) party: Sun Apr20 18:00, 수원 restaurant '한가람' floor2 room
+booked 12; count change→tell me by Apr15
+parking max 6 cars→take subway
+cake 민준; flowers me
+no own gifts: pooled 안마의자 (massage chair), ₩100k/household to my account by Apr10
+surprise: never tell grandma
+고모: last yr 70th restaurant fully booked, trouble
+grandma can't eat spicy→mild menu
+questions: phone me
+
+§r3P4 de local news
+Stadtbibliothek Lindenau closed from Feb3 ~4mo, renovation
+head Katrin Vogel: 3 reading rooms merged, +12 computer stations
+~€2.4M, state (Land) pays 2/3
+temp branch in town hall (Rathaus): Tue-Fri 10-17
+loans: no return needed, auto-extended to end June; no late fees then
+no magazine loans at temp branch (no space)
+last yr >80,000 visitors
+reopen early June planned; may slip if material late
+
+§r3P5 task es; you:
+weekly shopping: Sat 10:00 check shared list "Casa", build Mercadona online cart with all marked
+never pay without Jordan confirmation; leave cart ready, send him total
+total >€120: ask him first what to remove
+may swap brand for cheaper one; never swap gluten-free for normal
+out of stock: skip, note it on list; never order from other store
+always Sun morning delivery unless Jordan says otherwise
+site asks verification code: stop, tell Jordan; never log in with other account
+cart ready before Sat 13:00
+
+§r4P1 task en; you:
+monthly invoice follow-up: 1st business day/month 8:30 ET, Invoices tracker
+list invoices >15d overdue
+each: polite reminder draft from Dana's Outlook, Reminder template
+never send any reminder until Dana approves in chat
+Dana says "hold" for client: leave that client alone rest of month
+invoice >$2000: copy Priya (finance) on draft; never copy anyone else
+may fix typos in tracker; never change amounts or due dates
+client says already paid: don't argue; mark row "Check payment", ask Priya to confirm
+attach PDFs only if Dana asks
+Dana="account manager", never "owner"
+tracker locked/can't open: stop, message Dana; never make a copy
+drafts done by 11:00; end of day Dana gets list of clients with ≥2 overdue invoices
+
+§r4P2 es building notice
+community pool: open Sat Jun6, close Sun Sep13
+Tue-Sun 11:00-20:30; Mon closed (cleaning)
+4 wristbands/home; pick up at concierge (portería) Jun1-5; no DNI needed, flat number enough
+<12 only with adult
+lifeguard Andrés Molina: last yr 2 scares from running at edge→running around pool banned
+food ok, no glass containers
+guests €3/day, max 2/home
+lost wristband: €5 replacement
+complaints: administrator Mr Pardo, not lifeguard
+
+§r4P3 zh family chat
+国庆 杭州 trip: Fri Oct2 7:00 meet at home door; 小林's car→high-speed station; train 8:15, ~1h
+hotel by 西湖, 2 rooms, 3 nights, checkout Oct5 before 12:00
+dad bad knee: no hiking, only boat on lake
+mom: last yr 国庆 crowds, 2h queue at 断桥→this time sunrise 6:30
+tickets bought online; no cash needed; ID card required
+小雨 books dinner; 楼外楼 needs 3 days ahead
+rain: next day→museum
+return tickets not bought yet; will tell later
+
+§r4P4 pt local news
+Campo Alegre city: all street lights→LED from Aug10
+works secretary Paulo Mendes: ~5mo, starts in neighborhoods with most complaints
+~R$3.6M, state pays half
+city power bill -40% est.
+during works some streets dark up to 2 nights; residents warned 48h ahead
+no registration needed
+Mendes: 2023 similar swap in neighbor city 3mo late (no material)
+complaints: phone 156, Mon-Sat 7h-19h
+
+§r4P5 task it; you:
+daily comments: 7:30 check new comments, Forno Bellini Instagram
+may answer simple hours/address questions yourself, saved FAQ doc answers
+never answer complaints or price questions: flag to Giulia, wait for her
+may hide insulting comments; never delete them, never block anyone
+order >20 people: confirm nothing; forward to Giulia within 1h
+never post new posts without Giulia approval
+app asks re-login: stop, tell Giulia; never use browser-saved password
+by 18:00 Giulia gets summary: count of comments answered
+
+§r5P1 task en; you:
+weekly room booking: Mon 9:15 CT open Outlook Bookings inbox + Room Calendar sheet
+each new request: check calendar, write confirmation draft yourself from shared events@, "Booking OK" template
+never send confirmation until Marisol replies "approved" in Teams; no reply by 15:00: remind once, then wait
+>40 guests: Marisol only; never offer big hall yourself
+may fix spelling in sheet; never change prices or deposits
+client asks discount: promise nothing; say Marisol answers within 2 business days
+owner: Tom Reyes, not Marisol; never copy Tom on bookings
+Marisol="events lead", never "owner"
+sheet locked: stop, message Marisol; never make a copy
+never share other clients' names or phone numbers
+drafts ready by 11:30; by Fri 17:00 Marisol gets list of bookings still owing deposit
+
+§r5P2 es sports centre notice
+Valdelobos municipal sports centre: autumn signups open Mon Sep14
+classes Oct1-Dec18
+reception Mon-Fri 8:30-14:00 + 16:30-21:00
+<14 need parent/guardian signature
+kids swimming €22/mo; adult yoga €18/mo
+registered residents (empadronados) -20%
+15 places/group; from place 16 waiting list
+sports coordinator Lucía Ferrer: last yr swim groups full in 2 days→don't wait
+no photo needed, card made on the spot
+payment questions: administration, not instructors
+
+§r5P3 ja family chat
+母: next Sat Nov7 grandma 米寿 (88th) celebration
+母: 12:00 meet at 「すし善」 by station; private room booked, 10 people
+健太: late, work; arrives ~13:00
+母: gift from whole family: electric massage chair; ¥5000 each, pay me by Fri
+父: grandma dislikes raw food→shop changed to tempura course
+美咲 asks kids' share; 母: elementary age and under free
+母: child seat in 健太's car→健太 drives 美咲's kids home
+父: last yr birthday party cancelled (rain); grandma really wants it this yr
+母: 美咲 takes photos; surprise, keep secret from grandma
+
+§r5P4 fr local news
+Saint-Aubin-sur-Loire médiathèque closed Nov3-21, insulation works
+returns: box at entrance, 24/7
+current loans auto-extended to Dec5, no penalty
+culture deputy Hélène Marchand: ~€240k, region funds 60%; heating bill -1/3
+bibliobus every Wed 14:00-17:30, market square
+kids' workshops postponed to Jan; existing signups stay valid
+former director Paul Girard proposed it in 2019; refused, no budget
+
+§r5P5 task de; you:
+returns for online shop "Holzwerk Becker": every workday 10:00 check retouren@holzwerk-becker.de
+return requests ≤30d after delivery: may confirm yourself, send return label from template
+>30d: never answer yourself; forward to Frau Krüger, wait for her decision
+never trigger refunds; only Herr Becker (accounting) does
+damaged parcel: ask for 2 photos, promise no replacement
+never delete emails; move done ones to folder "Erledigt"
+>50 unread: message Frau Krüger immediately, short
+Frau Krüger to customers="Leitung Kundenservice", never "Chefin"
+by 16:00 Frau Krüger gets list of open cases with order number

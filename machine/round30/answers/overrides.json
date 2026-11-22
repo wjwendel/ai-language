@@ -1,0 +1,62 @@
+{
+ "terse_r1": {
+  "§1.q9": [
+   1,
+   "answer 10% matches gold; the reject regex fired on the explanatory mention of the Tuesday-only 15% (regex false negative, reviewed)"
+  ]
+ },
+ "mnc26_r2": {
+  "§1.q9": [
+   1,
+   "answer 10% matches gold; the reject regex fired on the explanatory mention of the Tuesday-only 15% (regex false negative, reviewed)"
+  ]
+ },
+ "llm05_r1": {
+  "§1.q9": [
+   1,
+   "answer 10% matches gold; the reject regex fired on the explanatory mention of the Tuesday-only 15% (regex false negative, reviewed)"
+  ]
+ },
+ "llm066_r1": {
+  "§1.q9": [
+   1,
+   "answer 10% matches gold; the reject regex fired on the explanatory mention of the Tuesday-only 15% (regex false negative, reviewed)"
+  ]
+ },
+ "terse_r2": {
+  "§1.q9": [
+   1,
+   "answer 10% matches gold; the reject regex fired on the explanatory mention of the Tuesday-only 15% (regex false negative, reviewed)"
+  ]
+ },
+ "mnc27_r1": {
+  "§1.q9": [
+   1,
+   "answer 10% matches gold; the reject regex fired on the explanatory mention of the Tuesday-only 15% (regex false negative, reviewed)"
+  ]
+ },
+ "mnc26_r1": {
+  "§1.q9": [
+   1,
+   "answer 10% matches gold; the reject regex fired on the explanatory mention of the Tuesday-only 15% (regex false negative, reviewed)"
+  ]
+ },
+ "original_r1": {
+  "§1.q9": [
+   1,
+   "answer 10% matches gold; the reject regex fired on the explanatory mention of the Tuesday-only 15% (regex false negative, reviewed)"
+  ]
+ },
+ "mnc27_r2": {
+  "§1.q9": [
+   1,
+   "answer 10% matches gold; the reject regex fired on the explanatory mention of the Tuesday-only 15% (regex false negative, reviewed)"
+  ]
+ },
+ "summ_r1": {
+  "§1.q9": [
+   1,
+   "answer 10% matches gold; the reject regex fired on the explanatory mention of the Tuesday-only 15% (regex false negative, reviewed)"
+  ]
+ }
+}

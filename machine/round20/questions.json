@@ -1,0 +1,402 @@
+{
+ "written": "2026-11-17 before encoding",
+ "questions": [
+  {
+   "id": "§1.q1",
+   "sec": 1,
+   "type": "F",
+   "hop": 1,
+   "q": "When is the box office inbox checked?",
+   "gold": "Tuesday to Sunday at 10 a.m. and 5:30 p.m. Eastern",
+   "accept": [
+    "10",
+    "(5[:.]30|17[:.]30)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q2",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A patron asks you to hold 6 seats for one performance. May you do it yourself?",
+   "gold": "Yes (up to 6)",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q3",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "Held tickets (not a school group) are paid exactly 72 hours before curtain. Are they kept?",
+   "gold": "Yes (at least 72 hours)",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q4",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A patron requests a refund exactly 7 days before the performance. Is it allowed?",
+   "gold": "No (more than 7 days only)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q5",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A latecomer arrives at a 100-minute performance. May the usher seat them at the first scene change?",
+   "gold": "No (only for performances up to 90 minutes; otherwise at intermission)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q6",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A patron feels unwell. What do you tell the usher, and what do you do yourself, in what order?",
+   "gold": "Tell the usher to bring them to the lobby; call Ben Adeyemi at (614) 555-0176 yourself; then email Renée",
+   "accept": [
+    "lobby",
+    "555-0176",
+    "ren[eé]e"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q7",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "May Gordon Faulk be contacted about a ticketing problem?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q8",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Is sending Renée the sales report at exactly 4 p.m. on Monday on time?",
+   "gold": "Yes (by 4 p.m.)",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q1",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A guest wants to book exactly 4 nights. May you confirm it yourself?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q2",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "A guest will arrive at 21:30. By when must they notify, and whom do you tell to do what?",
+   "gold": "By 12:00 noon on the arrival day; tell the caretaker Sandro Bellini to leave the keys in the box",
+   "accept": [
+    "(12|noon)",
+    "sandro|bellini",
+    "key"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q3",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A guest wants to bring a dog weighing exactly 10 kg (not a guide dog). Allowed?",
+   "gold": "No (less than 10 kg only)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q4",
+   "sec": 2,
+   "type": "F",
+   "hop": 3,
+   "q": "Dinner for 2 adults and 2 children aged 8 and 12. What is the total?",
+   "gold": "€133 (3 × €38 + €19; the 12-year-old pays full price)",
+   "accept": [
+    "\\b133\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q5",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A guest with a guide dog asks about the pet supplement. Do they pay it?",
+   "gold": "No; guide dogs are always free",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q6",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "A guest reports a wasp sting with difficulty breathing. What do you tell them, and what do you do yourself?",
+   "gold": "Tell them to call 112 immediately; then call Giulia at 333 555 0184 yourself",
+   "accept": [
+    "112",
+    "333 ?555 ?0184"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q7",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "May the owner, Lorenzo Vitale, be copied on a guest email?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q8",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "Is sending Giulia the weekend arrivals list at exactly 18:00 on Thursday on time?",
+   "gold": "Yes (by 18:00)",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q1",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A student wants a third reschedule this term. Who must approve it?",
+   "gold": "Lin Jiayi, the academic supervisor",
+   "accept": [
+    "lin|林嘉怡|jiayi"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q2",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A child has attended exactly 4 lessons and the parent asks for a refund. Full refund? And who processes it?",
+   "gold": "Yes, full refund; Zhou Haiming in finance processes it (you just tell the parent to fill in the refund form)",
+   "accept": [
+    "^\\W*yes\\b",
+    "zhou|周海明|haiming"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q3",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "An 8-year-old whose parent signed the self-dismissal consent form wants to leave alone. Allowed?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q4",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A 7-year-old whose parent signed the self-dismissal consent form wants to leave alone. Allowed?",
+   "gold": "No (under 8 must be picked up by the registered parent)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q5",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A child bleeds from the nose in class. What do you tell the teacher, and what do you do yourself, and how fast?",
+   "gold": "Tell the teacher to sit the child down, head not tilted back; call the front-desk first-aider at 028-5550-3196 yourself; then phone the parent within 15 minutes",
+   "accept": [
+    "(sit|坐|head|仰)",
+    "5550-3196",
+    "15"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q6",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "May principal Wang Lixin be cc'd on a routine parent email? And on a complaint escalation?",
+   "gold": "No for routine; yes for a complaint escalation",
+   "accept": [
+    "^\\W*no\\b",
+    "yes"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q7",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "What exact sentence must end every class reminder text?",
+   "gold": "“请提前10分钟到校签到。”",
+   "accept": [
+    "请提前10分钟到校签到"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q8",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Is sending Lin Jiayi the absence list at 17:00 sharp on Friday on time?",
+   "gold": "No (before 17:00)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q1",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "When is the reservations inbox checked?",
+   "gold": "Every day at 7:00 and 14:30",
+   "accept": [
+    "7",
+    "(14[:.]30|2[:.]30 ?p)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q2",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A group wants 5 kayaks. May you accept the booking yourself?",
+   "gold": "Yes (up to 5)",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q3",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A group wants 6 kayaks. Who must approve it?",
+   "gold": "Only Agnieszka Wróbel",
+   "accept": [
+    "agnieszka|wr[oó]bel"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q4",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A kayak is returned at 19:40. What late fee is due?",
+   "gold": "20 zł (one started hour)",
+   "accept": [
+    "\\b20\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q5",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "Wind speed is exactly 40 km/h. Do you cancel all launches and refund in full?",
+   "gold": "No (only if it exceeds 40 km/h)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q6",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A 9-year-old wants to paddle a kayak alone. Allowed?",
+   "gold": "No (under 10 only with an adult in a two-person kayak)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q7",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer reports a capsized kayak. What do you tell them, and what do you do yourself, in what order? May you give them the lifeguard's number?",
+   "gold": "Tell them to stay with the kayak; call lifeguard Kamil Nowak at 604 555 017 yourself; then message Agnieszka. No, never give out the lifeguard's number",
+   "accept": [
+    "stay|zosta",
+    "604 ?555 ?017",
+    "agnieszka"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q8",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "May the owner, Ryszard Malinowski, be copied on a customer email?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  }
+ ]
+}

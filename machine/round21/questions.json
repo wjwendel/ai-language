@@ -1,0 +1,503 @@
+{
+ "written": "2026-11-18 by independent author",
+ "questions": [
+  {
+   "id": "§1.q1",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A client asks for a $40 refund. May the assistant issue it without approval?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q2",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A client asks for a $55 credit. Who must approve it, and what is that person's role?",
+   "gold": "Dr. Priya Okonkwo, the practice owner",
+   "accept": [
+    "okonkwo",
+    "owner"
+   ],
+   "reject": [
+    "tomas",
+    "reyes"
+   ]
+  },
+  {
+   "id": "§1.q3",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A client emails a question about whether their dog's symptoms are serious. Should the assistant forward it to Tomas Reyes for an answer?",
+   "gold": "no; Tomas is the office manager, not a veterinarian",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q4",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Bir müşteri, 3 yaşındaki kedisinin randevusunu 10 saat önceden değiştirmek istiyor. Ücret var mı, varsa ne kadar?",
+   "gold": "yes, a $25 late-change fee",
+   "accept": [
+    "^\\W*yes\\b",
+    "\\$?\\s*25"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q5",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "Um cliente quer remarcar a consulta do seu cachorro de 14 anos com 6 horas de antecedência. Ele paga a taxa?",
+   "gold": "no; the fee is waived for senior pets over 12",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q6",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "An email says a cat is having a seizure. What number does the assistant call, and who calls it?",
+   "gold": "the assistant itself calls the on-call veterinarian at 555-0147",
+   "accept": [
+    "555\\W?0147"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q7",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A prescription refill request arrives at 4:10 p.m. on a Tuesday. By when must it be answered?",
+   "gold": "by noon the next business day (Wednesday)",
+   "accept": [
+    "noon|12(:00)?\\s*(p\\.?m)?"
+   ],
+   "reject": [
+    "3:00|3\\s*p\\.?m"
+   ]
+  },
+  {
+   "id": "§1.q8",
+   "sec": 1,
+   "type": "F",
+   "hop": 1,
+   "q": "With what exact sentence must every appointment confirmation end?",
+   "gold": "Please bring your pet's vaccination record to every visit.",
+   "accept": [
+    "vaccination record",
+    "every visit"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q9",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "May the assistant copy Lena Fairchild on an email about a client's unpaid bill?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q10",
+   "sec": 1,
+   "type": "F",
+   "hop": 1,
+   "q": "When is the weekly summary sent, and to whom?",
+   "gold": "Fridays at 4:00 p.m., to Tomas Reyes",
+   "accept": [
+    "fri",
+    "4",
+    "tomas|reyes"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q1",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "On what date and between what hours is water shut off for building 102?",
+   "gold": "December 3 (Thursday), 9 a.m. to 4 p.m.",
+   "accept": [
+    "(12\\W*3|dec\\w*\\.?\\s*3\\b|3\\s*dec)",
+    "9",
+    "4"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q2",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "Is building 104 without water on December 3? If not, when is its shutoff?",
+   "gold": "no; December 5 (Saturday), 10 a.m. to 1 p.m.",
+   "accept": [
+    "^\\W*no\\b",
+    "(12\\W*5|dec\\w*\\.?\\s*5\\b|5\\s*dec)",
+    "10"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q3",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "한 세대가 무료 생수 2병 외에 3병을 더 사려고 합니다. 얼마를 내야 합니까?",
+   "gold": "2,400 won",
+   "accept": [
+    "2\\W?400"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q4",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "How much is the tank-cleaning cost per household, and on which bill does it appear?",
+   "gold": "3,500 won, on the December maintenance fee bill",
+   "accept": [
+    "3\\W?500",
+    "dec|12"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q5",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "관리소장의 이름과 전화번호는 무엇입니까?",
+   "gold": "Kim Do-yoon, 010-4821-7735",
+   "accept": [
+    "kim|김",
+    "4821\\W?7735"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q6",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "By what deadline must households with elderly residents or infants apply for water delivery?",
+   "gold": "December 1 (Tuesday) by 6 p.m.",
+   "accept": [
+    "(12\\W*1\\b|dec\\w*\\.?\\s*1\\b|1\\s*dec)",
+    "6"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q7",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "After the work, for about how long should residents run the tap before using the water?",
+   "gold": "about 3 minutes",
+   "accept": [
+    "\\b3\\b|three"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q8",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "Quantas garrafas grátis cada domicílio recebe, de que tamanho, e a partir de que horas?",
+   "gold": "2 bottles of 2 liters, from 8 a.m.",
+   "accept": [
+    "\\b2\\b|two",
+    "8"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q9",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "A household in building 101 takes its 2 free bottles and buys 1 more; what is its total extra cost for the cleaning month, including the cleaning charge?",
+   "gold": "4,300 won (3,500 + 800)",
+   "accept": [
+    "4\\W?300"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q1",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer asks for a R$ 30 discount. May the assistant grant it alone?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q2",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Bir müşteri R$ 45 indirim istiyor ve Rafael Teixeira onay vermeye hazır. Asistan Rafael'in onayıyla indirimi verebilir mi?",
+   "gold": "no; only Mariana Lopes, the co-owner, can approve discounts above R$ 30",
+   "accept": [
+    "^\\W*no\\b",
+    "mariana|lopes"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q3",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "What is Rafael Teixeira's role?",
+   "gold": "chief mechanic (not the owner)",
+   "accept": [
+    "chief mechanic|head mechanic|mec[aâ]nico.chefe"
+   ],
+   "reject": [
+    "^\\W*(the\\s+)?owner"
+   ]
+  },
+  {
+   "id": "§3.q4",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer complaint arrives. May the assistant copy Juliana Prado on the reply?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q5",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Um cliente pede orçamento para uma bicicleta elétrica e depois aprova o conserto. Quanto ele paga pelo orçamento no final?",
+   "gold": "nothing; the R$ 50 fee is deducted once the repair is approved",
+   "accept": [
+    "nothing|zero|\\b0\\b|free|deduct|abat|credit"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q6",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer reports a crash caused by brakes the shop repaired. Whom does the assistant call, at what number, and what does it tell the customer?",
+   "gold": "the assistant calls Rafael Teixeira at (41) 99812-3406 and tells the customer not to ride the bike; the shop will pick it up free",
+   "accept": [
+    "99812\\W?3406",
+    "rafael|teixeira",
+    "not (to )?(ride|use)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q7",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A quote request arrives Tuesday at 10:00. What is the latest time it can be answered?",
+   "gold": "Wednesday at 10:00 (within 24 hours)",
+   "accept": [
+    "wed",
+    "10"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q8",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "May the assistant ask a customer for their credit card number by email?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q9",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "Qual frase exata deve terminar todo orçamento?",
+   "gold": "Este orçamento é válido por 7 dias.",
+   "accept": [
+    "v[aá]lido por 7 dias"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q10",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "When is the weekly report sent and to whom?",
+   "gold": "Mondays at 8:30, to Mariana Lopes",
+   "accept": [
+    "mon",
+    "8\\W?30",
+    "mariana|lopes"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q1",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A member wants to extend a meeting-room booking by exactly 2 hours. May the assistant approve it alone?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q2",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Bir üye toplantı odası rezervasyonunu 3 saat uzatmak istiyor. Kimin onayı gerekir ve bu kişinin görevi nedir?",
+   "gold": "Selin Aydın, the business/operations manager",
+   "accept": [
+    "selin|ayd[ıi]n",
+    "manager|m[üu]d[üu]r"
+   ],
+   "reject": [
+    "burak|cem|elif"
+   ]
+  },
+  {
+   "id": "§4.q3",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A member asks a question about an invoice error. Should the assistant forward it to Burak Demir?",
+   "gold": "no; Burak is the technical manager, not the accountant — forward it to Cem Yıldız",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q4",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A group of 13 people wants to book Meeting Room B. May the assistant accept it?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q5",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "Um membro mensal cancela uma reserva 3 horas antes do início. Ele paga alguma taxa?",
+   "gold": "no; monthly members may cancel free until 2 hours before",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q6",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A non-member cancels a 2-hour booking 5 hours before it starts. How much is charged?",
+   "gold": "300 TL (2 hours × 150 TL)",
+   "accept": [
+    "300"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q7",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A member reports a water leak. What number does the assistant call, and what does it tell the member?",
+   "gold": "the assistant calls Burak Demir at 0532 417 88 26 and tells the member to leave the area and wait at reception",
+   "accept": [
+    "0?532\\W?417\\W?88\\W?26",
+    "reception|resepsiyon"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q8",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "May the assistant email a member the door entry code?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q9",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "Her rezervasyon onayı hangi cümleyle başlamalıdır?",
+   "gold": "Kavşak'ı tercih ettiğiniz için teşekkür ederiz.",
+   "accept": [
+    "tercih etti[gğ]iniz i[cç]in te[sş]ekk[uü]r"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q10",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "An invoice request arrives at 11:00 on a Wednesday. By when must it be answered?",
+   "gold": "by 18:00 the same day",
+   "accept": [
+    "18|6\\s*p\\.?m"
+   ],
+   "reject": []
+  }
+ ]
+}

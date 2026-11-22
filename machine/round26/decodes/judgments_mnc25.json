@@ -1,0 +1,730 @@
+{
+ "facts": [
+  {
+   "id": "§1.1",
+   "sec": "§1",
+   "type": "S",
+   "text": "Role: inbox assistant for Harlow & Finch Upholstery"
+  },
+  {
+   "id": "§1.2",
+   "sec": "§1",
+   "type": "F",
+   "text": "Business is a furniture upholsterer"
+  },
+  {
+   "id": "§1.3",
+   "sec": "§1",
+   "type": "F",
+   "text": "Inbox is shared inbox orders@harlowfinch.example"
+  },
+  {
+   "id": "§1.4",
+   "sec": "§1",
+   "type": "F",
+   "text": "Check every weekday"
+  },
+  {
+   "id": "§1.5",
+   "sec": "§1",
+   "type": "F",
+   "text": "Check at 8:00"
+  },
+  {
+   "id": "§1.6",
+   "sec": "§1",
+   "type": "F",
+   "text": "Check again at 14:00"
+  },
+  {
+   "id": "§1.7",
+   "sec": "§1",
+   "type": "S",
+   "text": "May approve cushion re-covering quotes on own up to $350"
+  },
+  {
+   "id": "§1.8",
+   "sec": "§1",
+   "type": "S",
+   "text": "Cushion re-covering quotes above $350 need approval"
+  },
+  {
+   "id": "§1.9",
+   "sec": "§1",
+   "type": "S",
+   "text": "$350 limit applies only to cushion re-covering"
+  },
+  {
+   "id": "§1.10",
+   "sec": "§1",
+   "type": "S",
+   "text": "Full sofa and armchair reupholstery quotes always need approval from Marta Quill, whatever the amount"
+  },
+  {
+   "id": "§1.11",
+   "sec": "§1",
+   "type": "S",
+   "text": "Marta Quill is the workshop manager"
+  },
+  {
+   "id": "§1.12",
+   "sec": "§1",
+   "type": "S",
+   "text": "Dev Okafor is the head upholsterer, NOT the owner"
+  },
+  {
+   "id": "§1.13",
+   "sec": "§1",
+   "type": "S",
+   "text": "Owner is Lena Harlow"
+  },
+  {
+   "id": "§1.14",
+   "sec": "§1",
+   "type": "S",
+   "text": "Only Lena Harlow may agree to price matching"
+  },
+  {
+   "id": "§1.15",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never copy Paul Finch on any customer email"
+  },
+  {
+   "id": "§1.16",
+   "sec": "§1",
+   "type": "S",
+   "text": "Paul Finch is the former partner"
+  },
+  {
+   "id": "§1.17",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never contact Paul Finch about unpaid invoices"
+  },
+  {
+   "id": "§1.18",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never promise a completion date before fabric has arrived at workshop"
+  },
+  {
+   "id": "§1.19",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never send a customer's home address to delivery drivers by email"
+  },
+  {
+   "id": "§1.20",
+   "sec": "§1",
+   "type": "F",
+   "text": "30% deposit required before work starts"
+  },
+  {
+   "id": "§1.21",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception: trade customers with an active account pay on delivery (no deposit)"
+  },
+  {
+   "id": "§1.22",
+   "sec": "§1",
+   "type": "S",
+   "text": "Every quote request must receive reply within two business days"
+  },
+  {
+   "id": "§1.23",
+   "sec": "§1",
+   "type": "S",
+   "text": "Condition: customer reports smoke or burning smell from a heated recliner we serviced"
+  },
+  {
+   "id": "§1.24",
+   "sec": "§1",
+   "type": "S",
+   "text": "Call safety line yourself"
+  },
+  {
+   "id": "§1.25",
+   "sec": "§1",
+   "type": "F",
+   "text": "Safety line number 555-0147"
+  },
+  {
+   "id": "§1.26",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell customer a technician is on the way"
+  },
+  {
+   "id": "§1.27",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell customer they must unplug the recliner themselves"
+  },
+  {
+   "id": "§1.28",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell customer to keep everyone away from it"
+  },
+  {
+   "id": "§1.29",
+   "sec": "§1",
+   "type": "F",
+   "text": "Every quote must end with: \"Prices are valid for 14 days from the date of this quote.\""
+  },
+  {
+   "id": "§1.30",
+   "sec": "§1",
+   "type": "F",
+   "text": "Every Friday at 16:00"
+  },
+  {
+   "id": "§1.31",
+   "sec": "§1",
+   "type": "S",
+   "text": "Send Marta a summary of all open quotes (weekly)"
+  },
+  {
+   "id": "§2.1",
+   "sec": "§2",
+   "type": "S",
+   "text": "Notice from 緑ヶ丘市立中央図書館 (Midorigaoka City Central Library)"
+  },
+  {
+   "id": "§2.2",
+   "sec": "§2",
+   "type": "F",
+   "text": "Topic: year-end/New Year opening schedule"
+  },
+  {
+   "id": "§2.3",
+   "sec": "§2",
+   "type": "F",
+   "text": "Dec 27 (Sun) shortened opening"
+  },
+  {
+   "id": "§2.4",
+   "sec": "§2",
+   "type": "F",
+   "text": "Dec 27 hours 9:00-15:00"
+  },
+  {
+   "id": "§2.5",
+   "sec": "§2",
+   "type": "S",
+   "text": "Closed Dec 28 (Mon) through Jan 4 (Mon)"
+  },
+  {
+   "id": "§2.6",
+   "sec": "§2",
+   "type": "F",
+   "text": "Jan 5 (Tue) normal opening"
+  },
+  {
+   "id": "§2.7",
+   "sec": "§2",
+   "type": "F",
+   "text": "Jan 5 opens from 10:00"
+  },
+  {
+   "id": "§2.8",
+   "sec": "§2",
+   "type": "S",
+   "text": "Book post beside main entrance usable during closure"
+  },
+  {
+   "id": "§2.9",
+   "sec": "§2",
+   "type": "S",
+   "text": "Exception: book post closed Dec 31 (Thu) to Jan 2 (Sat)"
+  },
+  {
+   "id": "§2.10",
+   "sec": "§2",
+   "type": "F",
+   "text": "Reason: cleaning"
+  },
+  {
+   "id": "§2.11",
+   "sec": "§2",
+   "type": "S",
+   "text": "CDs and DVDs cannot be returned via book post"
+  },
+  {
+   "id": "§2.12",
+   "sec": "§2",
+   "type": "S",
+   "text": "CDs/DVDs must be returned at counter"
+  },
+  {
+   "id": "§2.13",
+   "sec": "§2",
+   "type": "S",
+   "text": "Kamishibai due date extended to Jan 12 (Tue), regardless of loan date"
+  },
+  {
+   "id": "§2.14",
+   "sec": "§2",
+   "type": "S",
+   "text": "Magazines borrowed Dec 15 or later extended to Jan 12 (Tue); Dec 15 condition applies only to magazines"
+  },
+  {
+   "id": "§2.15",
+   "sec": "§2",
+   "type": "F",
+   "text": "Other materials due 2 weeks from loan date as usual"
+  },
+  {
+   "id": "§2.16",
+   "sec": "§2",
+   "type": "S",
+   "text": "No entry to building during closure"
+  },
+  {
+   "id": "§2.17",
+   "sec": "§2",
+   "type": "S",
+   "text": "Exception: only Jan 4 (Mon), 2F study room open"
+  },
+  {
+   "id": "§2.18",
+   "sec": "§2",
+   "type": "S",
+   "text": "Study room only for exam-taking students"
+  },
+  {
+   "id": "§2.19",
+   "sec": "§2",
+   "type": "F",
+   "text": "Study room hours 13:00-17:00"
+  },
+  {
+   "id": "§2.20",
+   "sec": "§2",
+   "type": "S",
+   "text": "Student handbook/ID must be shown"
+  },
+  {
+   "id": "§2.21",
+   "sec": "§2",
+   "type": "F",
+   "text": "Jan 5 to Jan 9 discarded-book recycling sale"
+  },
+  {
+   "id": "§2.22",
+   "sec": "§2",
+   "type": "F",
+   "text": "Sale location 1F lobby"
+  },
+  {
+   "id": "§2.23",
+   "sec": "§2",
+   "type": "F",
+   "text": "50 yen per book"
+  },
+  {
+   "id": "§2.24",
+   "sec": "§2",
+   "type": "F",
+   "text": "5 books together 200 yen"
+  },
+  {
+   "id": "§2.25",
+   "sec": "§2",
+   "type": "F",
+   "text": "Copy B&W 10 yen per sheet"
+  },
+  {
+   "id": "§2.26",
+   "sec": "§2",
+   "type": "F",
+   "text": "Copy color 50 yen per sheet"
+  },
+  {
+   "id": "§2.27",
+   "sec": "§2",
+   "type": "S",
+   "text": "Contact: service section, 佐伯美穂 (Saeki Miho)"
+  },
+  {
+   "id": "§2.28",
+   "sec": "§2",
+   "type": "F",
+   "text": "Phone 044-231-5876"
+  },
+  {
+   "id": "§2.29",
+   "sec": "§2",
+   "type": "F",
+   "text": "Contact hours 9:00-17:00"
+  },
+  {
+   "id": "§3.1",
+   "sec": "§3",
+   "type": "S",
+   "text": "Role: assistant of Atelier Terre & Feu"
+  },
+  {
+   "id": "§3.2",
+   "sec": "§3",
+   "type": "F",
+   "text": "Business is a ceramics studio"
+  },
+  {
+   "id": "§3.3",
+   "sec": "§3",
+   "type": "F",
+   "text": "Inbox contact@terreetfeu.example"
+  },
+  {
+   "id": "§3.4",
+   "sec": "§3",
+   "type": "F",
+   "text": "Check Tuesday to Saturday"
+  },
+  {
+   "id": "§3.5",
+   "sec": "§3",
+   "type": "F",
+   "text": "Check at 9h and 17h"
+  },
+  {
+   "id": "§3.6",
+   "sec": "§3",
+   "type": "S",
+   "text": "May move a class booking yourself up to two times per client"
+  },
+  {
+   "id": "§3.7",
+   "sec": "§3",
+   "type": "S",
+   "text": "From 3rd move, need Sophie Laurent's approval"
+  },
+  {
+   "id": "§3.8",
+   "sec": "§3",
+   "type": "S",
+   "text": "Sophie Laurent is the manager (gérante)"
+  },
+  {
+   "id": "§3.9",
+   "sec": "§3",
+   "type": "S",
+   "text": "May accept custom-piece quotes alone up to 250€"
+  },
+  {
+   "id": "§3.10",
+   "sec": "§3",
+   "type": "S",
+   "text": "Above 250€ needs Sophie Laurent's approval"
+  },
+  {
+   "id": "§3.11",
+   "sec": "§3",
+   "type": "S",
+   "text": "Limit does not apply to private lessons; Sophie must always validate them herself, whatever amount"
+  },
+  {
+   "id": "§3.12",
+   "sec": "§3",
+   "type": "S",
+   "text": "Hugo Ménard is lead ceramist, not the manager"
+  },
+  {
+   "id": "§3.13",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never forward billing questions to Hugo"
+  },
+  {
+   "id": "§3.14",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never contact Bernard Roux about customer complaints"
+  },
+  {
+   "id": "§3.15",
+   "sec": "§3",
+   "type": "S",
+   "text": "Bernard Roux is the owner of the premises"
+  },
+  {
+   "id": "§3.16",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never confirm a firing date before Hugo validated kiln schedule"
+  },
+  {
+   "id": "§3.17",
+   "sec": "§3",
+   "type": "S",
+   "text": "Cancellations <48h before class not refunded"
+  },
+  {
+   "id": "§3.18",
+   "sec": "§3",
+   "type": "S",
+   "text": "Exception: medical certificate presented"
+  },
+  {
+   "id": "§3.19",
+   "sec": "§3",
+   "type": "S",
+   "text": "Reply to every custom-piece request within 24 hours"
+  },
+  {
+   "id": "§3.20",
+   "sec": "§3",
+   "type": "S",
+   "text": "Condition: student reports gas smell in kiln room"
+  },
+  {
+   "id": "§3.21",
+   "sec": "§3",
+   "type": "S",
+   "text": "Call gas emergency service yourself"
+  },
+  {
+   "id": "§3.22",
+   "sec": "§3",
+   "type": "F",
+   "text": "Gas emergency number 01 84 62 37 90"
+  },
+  {
+   "id": "§3.23",
+   "sec": "§3",
+   "type": "S",
+   "text": "Tell student help is coming"
+  },
+  {
+   "id": "§3.24",
+   "sec": "§3",
+   "type": "S",
+   "text": "Tell student he must himself leave the building immediately"
+  },
+  {
+   "id": "§3.25",
+   "sec": "§3",
+   "type": "S",
+   "text": "Without touching switches"
+  },
+  {
+   "id": "§3.26",
+   "sec": "§3",
+   "type": "F",
+   "text": "Every class confirmation must start with « Merci de votre confiance, l'équipe Terre & Feu. »"
+  },
+  {
+   "id": "§3.27",
+   "sec": "§3",
+   "type": "F",
+   "text": "Every Monday at 10h"
+  },
+  {
+   "id": "§3.28",
+   "sec": "§3",
+   "type": "S",
+   "text": "Send Sophie list of the week's bookings"
+  },
+  {
+   "id": "§4.1",
+   "sec": "§4",
+   "type": "S",
+   "text": "Role: email assistant of Güneşli Enerji Montaj"
+  },
+  {
+   "id": "§4.2",
+   "sec": "§4",
+   "type": "F",
+   "text": "Business: rooftop solar panel installer"
+  },
+  {
+   "id": "§4.3",
+   "sec": "§4",
+   "type": "F",
+   "text": "Inbox destek@gunesli.example"
+  },
+  {
+   "id": "§4.4",
+   "sec": "§4",
+   "type": "F",
+   "text": "Check weekdays"
+  },
+  {
+   "id": "§4.5",
+   "sec": "§4",
+   "type": "F",
+   "text": "Check at 08:30 and 16:00"
+  },
+  {
+   "id": "§4.6",
+   "sec": "§4",
+   "type": "S",
+   "text": "Maintenance visits: may give up to 500 TL discount yourself"
+  },
+  {
+   "id": "§4.7",
+   "sec": "§4",
+   "type": "S",
+   "text": "Higher discounts need Emre Kaya's approval"
+  },
+  {
+   "id": "§4.8",
+   "sec": "§4",
+   "type": "S",
+   "text": "Emre Kaya is technical manager"
+  },
+  {
+   "id": "§4.9",
+   "sec": "§4",
+   "type": "F",
+   "text": "Site survey fee 1,200 TL"
+  },
+  {
+   "id": "§4.10",
+   "sec": "§4",
+   "type": "S",
+   "text": "Cancel at least 3 days before survey: 75% refunded"
+  },
+  {
+   "id": "§4.11",
+   "sec": "§4",
+   "type": "S",
+   "text": "Later cancellations: no refund"
+  },
+  {
+   "id": "§4.12",
+   "sec": "§4",
+   "type": "F",
+   "text": "Installation deposit 20% of contract price"
+  },
+  {
+   "id": "§4.13",
+   "sec": "§4",
+   "type": "S",
+   "text": "Selin Aydın is accounting lead, NOT sales manager"
+  },
+  {
+   "id": "§4.14",
+   "sec": "§4",
+   "type": "S",
+   "text": "Do not forward price negotiations to Selin"
+  },
+  {
+   "id": "§4.15",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never contact Murat Demir about warranty matters"
+  },
+  {
+   "id": "§4.16",
+   "sec": "§4",
+   "type": "S",
+   "text": "Murat Demir is former subcontractor"
+  },
+  {
+   "id": "§4.17",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never cc Murat Demir on any email"
+  },
+  {
+   "id": "§4.18",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never give customers production guarantee in kWh"
+  },
+  {
+   "id": "§4.19",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never share installation team's personal phone numbers"
+  },
+  {
+   "id": "§4.20",
+   "sec": "§4",
+   "type": "S",
+   "text": "Warranty claims require original invoice"
+  },
+  {
+   "id": "§4.21",
+   "sec": "§4",
+   "type": "S",
+   "text": "Exception: customers installed before 2022 not asked for invoice (on file)"
+  },
+  {
+   "id": "§4.22",
+   "sec": "§4",
+   "type": "S",
+   "text": "Forward warranty claims to Emre Kaya within 24 hours"
+  },
+  {
+   "id": "§4.23",
+   "sec": "§4",
+   "type": "S",
+   "text": "Condition: customer reports smoke or sparks from inverter"
+  },
+  {
+   "id": "§4.24",
+   "sec": "§4",
+   "type": "S",
+   "text": "Call emergency service line yourself"
+  },
+  {
+   "id": "§4.25",
+   "sec": "§4",
+   "type": "F",
+   "text": "Emergency number 0212 555 47 80"
+  },
+  {
+   "id": "§4.26",
+   "sec": "§4",
+   "type": "S",
+   "text": "Tell customer technician is on the way"
+  },
+  {
+   "id": "§4.27",
+   "sec": "§4",
+   "type": "S",
+   "text": "Tell customer they must turn off DC disconnect switch themselves"
+  },
+  {
+   "id": "§4.28",
+   "sec": "§4",
+   "type": "S",
+   "text": "Tell customer to stay away from inverter"
+  },
+  {
+   "id": "§4.29",
+   "sec": "§4",
+   "type": "F",
+   "text": "Every warranty reply must end with \"Garanti süreciniz kayıt altına alınmıştır.\""
+  },
+  {
+   "id": "§4.30",
+   "sec": "§4",
+   "type": "F",
+   "text": "Every Thursday at 17:00"
+  },
+  {
+   "id": "§4.31",
+   "sec": "§4",
+   "type": "S",
+   "text": "Send Emre Kaya summary of open warranty claims"
+  }
+ ],
+ "A": {
+  "kept": 119,
+  "distorted": [],
+  "lost": [],
+  "added": []
+ },
+ "B": {
+  "kept": 119,
+  "distorted": [],
+  "lost": [],
+  "added": []
+ }
+}

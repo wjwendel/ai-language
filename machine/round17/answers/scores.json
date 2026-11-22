@@ -1,0 +1,1032 @@
+{
+ "rows": [
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Weekdays at 8:15 a.m. and 2:15 p.m. ET",
+   "gold": "Weekdays at 8:15 a.m. and 2:15 p.m. Eastern"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, refills remain and it was last filled at least 23 days ago (25 days)",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, 20 days is less than the required 23 days for a 30-day supply",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Never queue it; send the request to the pharmacist in charge, Dr. Nadia Brooks",
+   "gold": "Do not queue it; send the request to Dr. Nadia Brooks"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fax a renewal request to the prescriber; tell the patient it can take up to 2 business days",
+   "gold": "Fax a renewal request to the prescriber; tell the patient it can take up to 2 business days"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Pass it to billing technician Kevin Lu (no further resubmission)",
+   "gold": "Pass it to billing technician Kevin Lu"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only the patient or a listed caregiver may be told",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell her to call 911 now; do not discuss doses",
+   "gold": "Call 911 now (and do not discuss doses)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, available for $7 (more than 5 miles, not more than 15)",
+   "gold": "Yes, $7"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, home delivery is not offered beyond 15 miles",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The owner, Gary Feld",
+   "gold": "Gary Feld, the owner"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it must be sent by 4 p.m. every Wednesday",
+   "gold": "No (by 4 p.m.)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tuesday to Saturday at 9:00",
+   "gold": "Tuesday to Saturday at 9:00"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, it is at least 48h ahead",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, less than 48h notice and no medical certificate, so the lesson is due",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Do not move it by message; forward the request to director Sophie Marchand",
+   "gold": "Do not move it; forward to director Sophie Marchand"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, a minor may book the exam only with a parent's written consent",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the 5% discount is only for packages of 20h or more; any other discount only Sophie can give",
+   "gold": "No (20 hours or more only)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell the student to stay on site and fill in the accident report (constat) with the instructor; then notify Sophie Marchand within 1 hour",
+   "gold": "Stay on site and fill in an accident report with the instructor; notify Sophie within 1 hour"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never give instructors' personal numbers to students",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Sophie Marchand is the director; the gérante is Isabelle Roy",
+   "gold": "No; she is the director"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it must be sent before 10:00",
+   "gold": "No (before 10:00)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "From 12:00 next Sunday at 料亭やまぶき, 14 people total",
+   "gold": "Next Sunday from 12:00 at 料亭やまぶき, 14 people"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥19,000 (2 × ¥8,000 + ¥3,000)",
+   "gold": "¥19,000"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "By Thursday, to 母 (mother)",
+   "gold": "By Thursday, to 母 (Mom)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The photo album",
+   "gold": "The photo album"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "A low-sugar cake, because grandma is diabetic",
+   "gold": "Low-sugar, because grandma is diabetic"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the restaurant is available only until 15:00",
+   "gold": "No (only until 15:00)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "From Osaka, departing at 10:30",
+   "gold": "From Osaka, at 10:30"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "March 1, 2027",
+   "gold": "1 March 2027"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€1.20 (€0.50 bowl + €0.50 cup + €0.20 cutlery)",
+   "gold": "€1.20"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€1.50 (€2.70 calculated, capped at €1.50 per meal)",
+   "gold": "€1.50 (cap)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Half, in the first year (fewer than 3 employees)",
+   "gold": "Half"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fully for street cleaning (Stadtreinigung)",
+   "gold": "Entirely for street cleaning"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "„Wer Mehrweg anbietet, spart bares Geld.“",
+   "gold": "„Wer Mehrweg anbietet, spart bares Geld.“"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "November 12 at 18:00 at the town hall (Rathaus)",
+   "gold": "12 November, 18:00, town hall"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Weekdays at 8:15 a.m. and 2:15 p.m. ET",
+   "gold": "Weekdays at 8:15 a.m. and 2:15 p.m. Eastern"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, refills remain and it was last filled at least 23 days ago",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it has to be at least 23 days since the last fill",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Never queue it. Send the request to the pharmacist in charge, Dr. Nadia Brooks",
+   "gold": "Do not queue it; send the request to Dr. Nadia Brooks"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fax a renewal request to the prescriber and tell the patient it can take up to 2 business days",
+   "gold": "Fax a renewal request to the prescriber; tell the patient it can take up to 2 business days"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Pass it to billing technician Kevin Lu",
+   "gold": "Pass it to billing technician Kevin Lu"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only the patient or a listed caregiver may be told",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell her to call 911 now. Never discuss doses",
+   "gold": "Call 911 now (and do not discuss doses)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, it costs $7 (more than 5 miles but not more than 15)",
+   "gold": "Yes, $7"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, delivery isn't offered beyond 15 miles",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Owner Gary Feld",
+   "gold": "Gary Feld, the owner"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it's due by 4 p.m.",
+   "gold": "No (by 4 p.m.)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tuesday to Saturday at 9:00",
+   "gold": "Tuesday to Saturday at 9:00"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, the student gave at least 48 hours' notice",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, the lesson is still due (less than 48 hours' notice and no medical certificate)",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Never move an exam by message. Forward the request to the director, Sophie Marchand",
+   "gold": "Do not move it; forward to director Sophie Marchand"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, a minor needs written parental consent",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the discount needs a package of 20 hours or more. Any other discount is up to Sophie",
+   "gold": "No (20 hours or more only)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell the student to stay on site and fill in the accident report (constat) with the instructor. Then notify Sophie within 1 hour",
+   "gold": "Stay on site and fill in an accident report with the instructor; notify Sophie within 1 hour"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is the director",
+   "gold": "No; she is the director"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it must be sent before 10:00",
+   "gold": "No (before 10:00)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12:00 at 料亭やまぶき, 14 people in total",
+   "gold": "Next Sunday from 12:00 at 料亭やまぶき, 14 people"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥19,000",
+   "gold": "¥19,000"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "By Thursday, to 母",
+   "gold": "By Thursday, to 母 (Mom)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The photo album",
+   "gold": "The photo album"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "A low-sugar cake, because grandma is diabetic",
+   "gold": "Low-sugar, because grandma is diabetic"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the restaurant is only available until 15:00",
+   "gold": "No (only until 15:00)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "From Osaka, leaving at 10:30",
+   "gold": "From Osaka, at 10:30"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "March 1, 2027",
+   "gold": "1 March 2027"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€1.20",
+   "gold": "€1.20"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€1.50 (the per-meal cap; uncapped it would be €2.70)",
+   "gold": "€1.50 (cap)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Half",
+   "gold": "Half"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Street cleaning (Stadtreinigung)",
+   "gold": "Entirely for street cleaning"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "„Wer Mehrweg anbietet, spart bares Geld.“",
+   "gold": "„Wer Mehrweg anbietet, spart bares Geld.“"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nov 12 at 18:00, at the town hall (Rathaus)",
+   "gold": "12 November, 18:00, town hall"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Every weekday at 8:15 a.m. and 2:15 p.m. Eastern.",
+   "gold": "Weekdays at 8:15 a.m. and 2:15 p.m. Eastern"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — refills remain and at least 23 days have passed since the last fill.",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — fewer than 23 days have passed since the last fill.",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Never queue it; send the request to the pharmacist in charge, Dr. Nadia Brooks.",
+   "gold": "Do not queue it; send the request to Dr. Nadia Brooks"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fax a renewal request to the prescriber and tell the patient it can take up to 2 business days.",
+   "gold": "Fax a renewal request to the prescriber; tell the patient it can take up to 2 business days"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Pass it to the billing technician, Kevin Lu (only one resubmission is allowed).",
+   "gold": "Pass it to billing technician Kevin Lu"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — only the patient or their listed caregiver may be told.",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell her to call 911 now; do not discuss doses.",
+   "gold": "Call 911 now (and do not discuss doses)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — it costs $7 (beyond 5 miles, within 15 miles).",
+   "gold": "Yes, $7"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — deliveries beyond 15 miles are not offered.",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The store owner, Gary Feld.",
+   "gold": "Gary Feld, the owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — it must be sent by 4 p.m.",
+   "gold": "No (by 4 p.m.)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tuesday to Saturday at 9 a.m.",
+   "gold": "Tuesday to Saturday at 9:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — it is at least 48 hours' notice.",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — under 48 hours' notice the lesson is due unless there is a medical certificate.",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Exams are never moved by message; refer the request to the director, Sophie Marchand.",
+   "gold": "Do not move it; forward to director Sophie Marchand"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — a minor needs a parent's written consent to book an exam.",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the 5% discount requires a package of 20 hours or more; any other discount is up to Sophie Marchand.",
+   "gold": "No (20 hours or more only)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell the student to stay on site and fill out an accident report (constat) with the instructor, then notify Sophie Marchand within the hour.",
+   "gold": "Stay on site and fill in an accident report with the instructor; notify Sophie within 1 hour"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — never give an instructor's personal number to students.",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — she is the director; the gérante is Isabelle Roy.",
+   "gold": "No; she is the director"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — it must be sent before 10 a.m.",
+   "gold": "No (before 10:00)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "At 12:00 next Sunday, at the restaurant Ryōtei Yamabuki, with 14 people in total.",
+   "gold": "Next Sunday from 12:00 at 料亭やまぶき, 14 people"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "19,000 yen (2 × 8,000 + 3,000).",
+   "gold": "¥19,000"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "By Thursday, to Mom (母).",
+   "gold": "By Thursday, to 母 (Mom)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The photo album.",
+   "gold": "The photo album"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "A reduced-sugar cake, because grandma has diabetes.",
+   "gold": "Low-sugar, because grandma is diabetic"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the restaurant can only be used until 15:00.",
+   "gold": "No (only until 15:00)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "From Osaka, leaving at 10:30.",
+   "gold": "From Osaka, at 10:30"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "From 1 March 2027.",
+   "gold": "1 March 2027"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1.20 euros (0.50 + 0.50 + 0.20).",
+   "gold": "€1.20"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1.50 euros (the cap per meal; uncapped it would be 2.70 euros).",
+   "gold": "€1.50 (cap)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Half the tax in the first year.",
+   "gold": "Half"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Entirely for street cleaning (Stadtreinigung).",
+   "gold": "Entirely for street cleaning"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Wer Mehrweg anbietet, spart bares Geld.\" (Whoever offers reusables saves real money.)",
+   "gold": "„Wer Mehrweg anbietet, spart bares Geld.“"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "12 November at 6 p.m., at the town hall (Rathaus).",
+   "gold": "12 November, 18:00, town hall"
+  }
+ ],
+ "summary": {
+  "mnc19_r1": {
+   "all": [
+    36,
+    36
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    11,
+    11
+   ],
+   "hop2": [
+    15,
+    15
+   ]
+  },
+  "mnc19_r2": {
+   "all": [
+    36,
+    36
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    11,
+    11
+   ],
+   "hop2": [
+    15,
+    15
+   ]
+  },
+  "original_r1": {
+   "all": [
+    36,
+    36
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    11,
+    11
+   ],
+   "hop2": [
+    15,
+    15
+   ]
+  }
+ }
+}

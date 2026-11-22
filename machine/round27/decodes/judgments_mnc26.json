@@ -1,0 +1,894 @@
+{
+ "facts": [
+  {
+   "id": "§1.1",
+   "sec": "§1",
+   "type": "S",
+   "text": "Actor/role: inbox assistant for Brightridge Roofing"
+  },
+  {
+   "id": "§1.2",
+   "sec": "§1",
+   "type": "F",
+   "text": "Company is a roofing company"
+  },
+  {
+   "id": "§1.3",
+   "sec": "§1",
+   "type": "F",
+   "text": "Company has six people"
+  },
+  {
+   "id": "§1.4",
+   "sec": "§1",
+   "type": "F",
+   "text": "Inbox quotes@brightridgeroofing.example"
+  },
+  {
+   "id": "§1.5",
+   "sec": "§1",
+   "type": "F",
+   "text": "Check on weekdays"
+  },
+  {
+   "id": "§1.6",
+   "sec": "§1",
+   "type": "F",
+   "text": "Check at 7:30"
+  },
+  {
+   "id": "§1.7",
+   "sec": "§1",
+   "type": "F",
+   "text": "Check at 13:00"
+  },
+  {
+   "id": "§1.8",
+   "sec": "§1",
+   "type": "S",
+   "text": "Permission: book roof inspections on own"
+  },
+  {
+   "id": "§1.9",
+   "sec": "§1",
+   "type": "S",
+   "text": "Limit: up to 4 inspections per day"
+  },
+  {
+   "id": "§1.10",
+   "sec": "§1",
+   "type": "S",
+   "text": "Condition: 5th or later same-day request waits for next day's list"
+  },
+  {
+   "id": "§1.11",
+   "sec": "§1",
+   "type": "S",
+   "text": "Permission: confirm repair orders on own up to $900"
+  },
+  {
+   "id": "§1.12",
+   "sec": "§1",
+   "type": "S",
+   "text": "Above $900 needs approval"
+  },
+  {
+   "id": "§1.13",
+   "sec": "§1",
+   "type": "S",
+   "text": "Approver: Dana Okafor"
+  },
+  {
+   "id": "§1.14",
+   "sec": "§1",
+   "type": "S",
+   "text": "Dana Okafor's role: operations manager"
+  },
+  {
+   "id": "§1.15",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception/scope: $900 limit applies only to repair orders"
+  },
+  {
+   "id": "§1.16",
+   "sec": "§1",
+   "type": "S",
+   "text": "Roof replacement quotes always need Dana's approval"
+  },
+  {
+   "id": "§1.17",
+   "sec": "§1",
+   "type": "S",
+   "text": "Dana is NOT the owner"
+  },
+  {
+   "id": "§1.18",
+   "sec": "§1",
+   "type": "S",
+   "text": "Owner is Marcus Bell"
+  },
+  {
+   "id": "§1.19",
+   "sec": "§1",
+   "type": "S",
+   "text": "Prohibition: never copy Marcus Bell on customer complaints"
+  },
+  {
+   "id": "§1.20",
+   "sec": "§1",
+   "type": "S",
+   "text": "Prohibition: never promise a completion date"
+  },
+  {
+   "id": "§1.21",
+   "sec": "§1",
+   "type": "S",
+   "text": "Condition: before crew has inspected the roof"
+  },
+  {
+   "id": "§1.22",
+   "sec": "§1",
+   "type": "S",
+   "text": "Prohibition: never share one customer's address with others"
+  },
+  {
+   "id": "§1.23",
+   "sec": "§1",
+   "type": "S",
+   "text": "Reschedule: move to next free slot"
+  },
+  {
+   "id": "§1.24",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception: request <24 h before visit"
+  },
+  {
+   "id": "§1.25",
+   "sec": "§1",
+   "type": "S",
+   "text": "In that case forward to Dana"
+  },
+  {
+   "id": "§1.26",
+   "sec": "§1",
+   "type": "F",
+   "text": "Insurance paperwork requests must be answered"
+  },
+  {
+   "id": "§1.27",
+   "sec": "§1",
+   "type": "S",
+   "text": "Deadline: Thursday 17:00 of the week they arrive"
+  },
+  {
+   "id": "§1.28",
+   "sec": "§1",
+   "type": "S",
+   "text": "Emergency trigger: water coming through the ceiling"
+  },
+  {
+   "id": "§1.29",
+   "sec": "§1",
+   "type": "S",
+   "text": "Emergency actor: call on-call crew yourself"
+  },
+  {
+   "id": "§1.30",
+   "sec": "§1",
+   "type": "F",
+   "text": "On-call crew number 555-0148"
+  },
+  {
+   "id": "§1.31",
+   "sec": "§1",
+   "type": "S",
+   "text": "Then tell customer a crew is on the way"
+  },
+  {
+   "id": "§1.32",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell customer to switch off electricity to that room at the breaker themselves"
+  },
+  {
+   "id": "§1.33",
+   "sec": "§1",
+   "type": "F",
+   "text": "Quote emails must end with exact sentence"
+  },
+  {
+   "id": "§1.34",
+   "sec": "§1",
+   "type": "F",
+   "text": "Quoted sentence: \"This quote is valid for 30 days from today.\""
+  },
+  {
+   "id": "§1.35",
+   "sec": "§1",
+   "type": "F",
+   "text": "Weekly report every Monday"
+  },
+  {
+   "id": "§1.36",
+   "sec": "§1",
+   "type": "F",
+   "text": "Report at 9:00"
+  },
+  {
+   "id": "§1.37",
+   "sec": "§1",
+   "type": "S",
+   "text": "Report recipient: Dana"
+  },
+  {
+   "id": "§1.38",
+   "sec": "§1",
+   "type": "F",
+   "text": "Report content: all open quotes and booked inspections"
+  },
+  {
+   "id": "§2.1",
+   "sec": "§2",
+   "type": "S",
+   "text": "Issuer: 한빛마을 3단지 관리사무소"
+  },
+  {
+   "id": "§2.2",
+   "sec": "§2",
+   "type": "F",
+   "text": "Audience: 3단지 residents"
+  },
+  {
+   "id": "§2.3",
+   "sec": "§2",
+   "type": "F",
+   "text": "Second-half bulky-waste bulk collection"
+  },
+  {
+   "id": "§2.4",
+   "sec": "§2",
+   "type": "F",
+   "text": "Date: December 5"
+  },
+  {
+   "id": "§2.5",
+   "sec": "§2",
+   "type": "F",
+   "text": "Day: Saturday"
+  },
+  {
+   "id": "§2.6",
+   "sec": "§2",
+   "type": "F",
+   "text": "Put-out time from 7:00"
+  },
+  {
+   "id": "§2.7",
+   "sec": "§2",
+   "type": "F",
+   "text": "Until 10:00"
+  },
+  {
+   "id": "§2.8",
+   "sec": "§2",
+   "type": "F",
+   "text": "Location: ground parking lot between buildings 102 and 105"
+  },
+  {
+   "id": "§2.9",
+   "sec": "§2",
+   "type": "S",
+   "text": "Free: all chairs"
+  },
+  {
+   "id": "§2.10",
+   "sec": "§2",
+   "type": "S",
+   "text": "Free: mattresses made before 2016"
+  },
+  {
+   "id": "§2.11",
+   "sec": "§2",
+   "type": "S",
+   "text": "Other items need a pre-purchased sticker attached"
+  },
+  {
+   "id": "§2.12",
+   "sec": "§2",
+   "type": "F",
+   "text": "One-seat sofa 6,000원"
+  },
+  {
+   "id": "§2.13",
+   "sec": "§2",
+   "type": "F",
+   "text": "Three-seat sofa 12,000원"
+  },
+  {
+   "id": "§2.14",
+   "sec": "§2",
+   "type": "F",
+   "text": "Wardrobe 4,000원 per door"
+  },
+  {
+   "id": "§2.15",
+   "sec": "§2",
+   "type": "F",
+   "text": "Stickers sold at 관리사무소"
+  },
+  {
+   "id": "§2.16",
+   "sec": "§2",
+   "type": "F",
+   "text": "Sticker sales November 30 – December 3"
+  },
+  {
+   "id": "§2.17",
+   "sec": "§2",
+   "type": "F",
+   "text": "Sticker sales hours 9:00–18:00"
+  },
+  {
+   "id": "§2.18",
+   "sec": "§2",
+   "type": "S",
+   "text": "Exception: appliances (refrigerators, washing machines) excluded"
+  },
+  {
+   "id": "§2.19",
+   "sec": "§2",
+   "type": "S",
+   "text": "Apply separately to appliance home-pickup center"
+  },
+  {
+   "id": "§2.20",
+   "sec": "§2",
+   "type": "F",
+   "text": "Appliance center 080-555-0419"
+  },
+  {
+   "id": "§2.21",
+   "sec": "§2",
+   "type": "S",
+   "text": "Prohibition: do not put items out before December 4 20:00"
+  },
+  {
+   "id": "§2.22",
+   "sec": "§2",
+   "type": "S",
+   "text": "Condition: limited-mobility households may apply"
+  },
+  {
+   "id": "§2.23",
+   "sec": "§2",
+   "type": "S",
+   "text": "Deadline: apply by December 2"
+  },
+  {
+   "id": "§2.24",
+   "sec": "§2",
+   "type": "S",
+   "text": "Staff collect in front of the unit"
+  },
+  {
+   "id": "§2.25",
+   "sec": "§2",
+   "type": "F",
+   "text": "Wrap mattresses in plastic"
+  },
+  {
+   "id": "§2.26",
+   "sec": "§2",
+   "type": "S",
+   "text": "Do not remove wardrobe doors; put out as is"
+  },
+  {
+   "id": "§2.27",
+   "sec": "§2",
+   "type": "F",
+   "text": "Leftovers rechecked by staff"
+  },
+  {
+   "id": "§2.28",
+   "sec": "§2",
+   "type": "F",
+   "text": "Recheck December 7 14:00"
+  },
+  {
+   "id": "§2.29",
+   "sec": "§2",
+   "type": "S",
+   "text": "Items without sticker not collected"
+  },
+  {
+   "id": "§2.30",
+   "sec": "§2",
+   "type": "S",
+   "text": "Condition: heavy rain may postpone by one day"
+  },
+  {
+   "id": "§2.31",
+   "sec": "§2",
+   "type": "F",
+   "text": "Postponement announced via complex broadcast and elevator notice boards"
+  },
+  {
+   "id": "§2.32",
+   "sec": "§2",
+   "type": "F",
+   "text": "Contact: 박지현 주임 at 관리사무소"
+  },
+  {
+   "id": "§2.33",
+   "sec": "§2",
+   "type": "F",
+   "text": "Phone 031-555-0172"
+  },
+  {
+   "id": "§2.34",
+   "sec": "§2",
+   "type": "F",
+   "text": "Contact hours weekdays 9:00–17:00"
+  },
+  {
+   "id": "§3.1",
+   "sec": "§3",
+   "type": "S",
+   "text": "Actor/role: mail assistant for Vetri Chiari"
+  },
+  {
+   "id": "§3.2",
+   "sec": "§3",
+   "type": "F",
+   "text": "Window-cleaning company"
+  },
+  {
+   "id": "§3.3",
+   "sec": "§3",
+   "type": "F",
+   "text": "Located in Bergamo"
+  },
+  {
+   "id": "§3.4",
+   "sec": "§3",
+   "type": "F",
+   "text": "Four workers"
+  },
+  {
+   "id": "§3.5",
+   "sec": "§3",
+   "type": "F",
+   "text": "Inbox prenotazioni@vetrichiari.example"
+  },
+  {
+   "id": "§3.6",
+   "sec": "§3",
+   "type": "F",
+   "text": "Check every working day"
+  },
+  {
+   "id": "§3.7",
+   "sec": "§3",
+   "type": "F",
+   "text": "Check at 8:00"
+  },
+  {
+   "id": "§3.8",
+   "sec": "§3",
+   "type": "F",
+   "text": "Check at 15:30"
+  },
+  {
+   "id": "§3.9",
+   "sec": "§3",
+   "type": "S",
+   "text": "Permission: schedule apartment jobs on own up to 12 windows"
+  },
+  {
+   "id": "§3.10",
+   "sec": "§3",
+   "type": "S",
+   "text": "13+ windows need approval"
+  },
+  {
+   "id": "§3.11",
+   "sec": "§3",
+   "type": "S",
+   "text": "Approver: Chiara Bonetti"
+  },
+  {
+   "id": "§3.12",
+   "sec": "§3",
+   "type": "S",
+   "text": "Chiara's role: sales manager"
+  },
+  {
+   "id": "§3.13",
+   "sec": "§3",
+   "type": "S",
+   "text": "Condominiums and shops: every quote always needs approval regardless of window count"
+  },
+  {
+   "id": "§3.14",
+   "sec": "§3",
+   "type": "S",
+   "text": "Chiara is NOT the owner"
+  },
+  {
+   "id": "§3.15",
+   "sec": "§3",
+   "type": "S",
+   "text": "Owner is Giulia Rota"
+  },
+  {
+   "id": "§3.16",
+   "sec": "§3",
+   "type": "S",
+   "text": "Prohibition: never cc Giulia Rota on complaint emails"
+  },
+  {
+   "id": "§3.17",
+   "sec": "§3",
+   "type": "S",
+   "text": "Prohibition: never promise cleaning glass above 2nd floor"
+  },
+  {
+   "id": "§3.18",
+   "sec": "§3",
+   "type": "S",
+   "text": "Condition: without lifting platform"
+  },
+  {
+   "id": "§3.19",
+   "sec": "§3",
+   "type": "S",
+   "text": "Prohibition: never give prices by phone"
+  },
+  {
+   "id": "§3.20",
+   "sec": "§3",
+   "type": "S",
+   "text": "Cancellations free if ≥48 h before job"
+  },
+  {
+   "id": "§3.21",
+   "sec": "§3",
+   "type": "S",
+   "text": "Exception: December"
+  },
+  {
+   "id": "§3.22",
+   "sec": "§3",
+   "type": "F",
+   "text": "December cancellation costs 20€"
+  },
+  {
+   "id": "§3.23",
+   "sec": "§3",
+   "type": "F",
+   "text": "Invoice requests must be handled"
+  },
+  {
+   "id": "§3.24",
+   "sec": "§3",
+   "type": "S",
+   "text": "Deadline: Friday 12:00 same week"
+  },
+  {
+   "id": "§3.25",
+   "sec": "§3",
+   "type": "S",
+   "text": "Emergency trigger: broken glass during job"
+  },
+  {
+   "id": "§3.26",
+   "sec": "§3",
+   "type": "S",
+   "text": "Call on-duty glazier yourself"
+  },
+  {
+   "id": "§3.27",
+   "sec": "§3",
+   "type": "F",
+   "text": "Glazier number 035 555 0261"
+  },
+  {
+   "id": "§3.28",
+   "sec": "§3",
+   "type": "S",
+   "text": "Tell customer glazier is on the way"
+  },
+  {
+   "id": "§3.29",
+   "sec": "§3",
+   "type": "S",
+   "text": "Customer must keep children and animals away from the room themselves"
+  },
+  {
+   "id": "§3.30",
+   "sec": "§3",
+   "type": "F",
+   "text": "Complaint replies must start with exact sentence"
+  },
+  {
+   "id": "§3.31",
+   "sec": "§3",
+   "type": "F",
+   "text": "Quoted sentence: «Ci scusiamo per il disagio e ce ne occupiamo subito.»"
+  },
+  {
+   "id": "§3.32",
+   "sec": "§3",
+   "type": "F",
+   "text": "Every Wednesday"
+  },
+  {
+   "id": "§3.33",
+   "sec": "§3",
+   "type": "F",
+   "text": "At 18:00"
+  },
+  {
+   "id": "§3.34",
+   "sec": "§3",
+   "type": "S",
+   "text": "Summary recipient: Chiara"
+  },
+  {
+   "id": "§3.35",
+   "sec": "§3",
+   "type": "F",
+   "text": "Content: week's jobs incl. cancellations received"
+  },
+  {
+   "id": "§4.1",
+   "sec": "§4",
+   "type": "S",
+   "text": "Actor/role: email assistant for Norrvärme Service"
+  },
+  {
+   "id": "§4.2",
+   "sec": "§4",
+   "type": "F",
+   "text": "Small company servicing heat pumps"
+  },
+  {
+   "id": "§4.3",
+   "sec": "§4",
+   "type": "F",
+   "text": "Located in Umeå"
+  },
+  {
+   "id": "§4.4",
+   "sec": "§4",
+   "type": "F",
+   "text": "Inbox service@norrvarme.example"
+  },
+  {
+   "id": "§4.5",
+   "sec": "§4",
+   "type": "F",
+   "text": "Check every weekday"
+  },
+  {
+   "id": "§4.6",
+   "sec": "§4",
+   "type": "F",
+   "text": "Check at 7:45"
+  },
+  {
+   "id": "§4.7",
+   "sec": "§4",
+   "type": "F",
+   "text": "Check at 14:00"
+  },
+  {
+   "id": "§4.8",
+   "sec": "§4",
+   "type": "S",
+   "text": "Permission: book annual service on own up to 6 visits/day"
+  },
+  {
+   "id": "§4.9",
+   "sec": "§4",
+   "type": "S",
+   "text": "More same-day visits need approval"
+  },
+  {
+   "id": "§4.10",
+   "sec": "§4",
+   "type": "S",
+   "text": "Approver: Elin Sjöberg"
+  },
+  {
+   "id": "§4.11",
+   "sec": "§4",
+   "type": "S",
+   "text": "Elin's role: work supervisor"
+  },
+  {
+   "id": "§4.12",
+   "sec": "§4",
+   "type": "S",
+   "text": "Elin is NOT the owner"
+  },
+  {
+   "id": "§4.13",
+   "sec": "§4",
+   "type": "S",
+   "text": "Owner is Johan Lindqvist"
+  },
+  {
+   "id": "§4.14",
+   "sec": "§4",
+   "type": "S",
+   "text": "Prohibition: never contact Johan about warranty matters"
+  },
+  {
+   "id": "§4.15",
+   "sec": "§4",
+   "type": "S",
+   "text": "Prohibition: never promise spare-part price"
+  },
+  {
+   "id": "§4.16",
+   "sec": "§4",
+   "type": "S",
+   "text": "Condition: before technician on site"
+  },
+  {
+   "id": "§4.17",
+   "sec": "§4",
+   "type": "S",
+   "text": "Prohibition: never email customer's personal identity number"
+  },
+  {
+   "id": "§4.18",
+   "sec": "§4",
+   "type": "F",
+   "text": "Service visit costs 1,450 kr"
+  },
+  {
+   "id": "§4.19",
+   "sec": "§4",
+   "type": "S",
+   "text": "Condition: cancellation later than 24 h before visit"
+  },
+  {
+   "id": "§4.20",
+   "sec": "§4",
+   "type": "F",
+   "text": "Charge 40% of visit price"
+  },
+  {
+   "id": "§4.21",
+   "sec": "§4",
+   "type": "S",
+   "text": "Exception: customer sick with doctor's certificate"
+  },
+  {
+   "id": "§4.22",
+   "sec": "§4",
+   "type": "S",
+   "text": "Earlier cancellations free"
+  },
+  {
+   "id": "§4.23",
+   "sec": "§4",
+   "type": "F",
+   "text": "Complaints must be answered"
+  },
+  {
+   "id": "§4.24",
+   "sec": "§4",
+   "type": "S",
+   "text": "Deadline: next weekday 12:00"
+  },
+  {
+   "id": "§4.25",
+   "sec": "§4",
+   "type": "S",
+   "text": "Emergency trigger: burning smell or smoke from heat pump"
+  },
+  {
+   "id": "§4.26",
+   "sec": "§4",
+   "type": "S",
+   "text": "Call on-call technician yourself"
+  },
+  {
+   "id": "§4.27",
+   "sec": "§4",
+   "type": "F",
+   "text": "Technician number 070-555 31 84"
+  },
+  {
+   "id": "§4.28",
+   "sec": "§4",
+   "type": "S",
+   "text": "Tell customer technician is on the way"
+  },
+  {
+   "id": "§4.29",
+   "sec": "§4",
+   "type": "S",
+   "text": "Customer must switch off heat pump at safety switch themselves"
+  },
+  {
+   "id": "§4.30",
+   "sec": "§4",
+   "type": "F",
+   "text": "Booking confirmations must end with exact sentence"
+  },
+  {
+   "id": "§4.31",
+   "sec": "§4",
+   "type": "F",
+   "text": "Quoted sentence: \"Välkommen att höra av dig om tiden inte passar.\""
+  },
+  {
+   "id": "§4.32",
+   "sec": "§4",
+   "type": "F",
+   "text": "Every Friday"
+  },
+  {
+   "id": "§4.33",
+   "sec": "§4",
+   "type": "F",
+   "text": "At 16:00"
+  },
+  {
+   "id": "§4.34",
+   "sec": "§4",
+   "type": "S",
+   "text": "Report recipient: Elin"
+  },
+  {
+   "id": "§4.35",
+   "sec": "§4",
+   "type": "F",
+   "text": "Content: week's bookings and cancellations"
+  }
+ ],
+ "A": {
+  "kept": 136,
+  "distorted": [
+   {
+    "id": "§1.6",
+    "why": "Original says check twice at fixed times (7:30 and 13:00); decode turns it into a continuous handling window 'from 7:30 to 13:00'."
+   },
+   {
+    "id": "§1.7",
+    "why": "Original says check twice at fixed times (7:30 and 13:00); decode turns it into a continuous handling window 'from 7:30 to 13:00'."
+   },
+   {
+    "id": "§3.7",
+    "why": "Original says check twice at fixed times (8:00 and 15:30); decode turns it into a continuous handling window 'from 8:00 to 15:30'."
+   },
+   {
+    "id": "§3.8",
+    "why": "Original says check twice at fixed times (8:00 and 15:30); decode turns it into a continuous handling window 'from 8:00 to 15:30'."
+   },
+   {
+    "id": "§4.6",
+    "why": "Original says check twice at fixed times (7:45 and 14:00); decode turns it into a continuous handling window 'from 7:45 to 14:00'."
+   },
+   {
+    "id": "§4.7",
+    "why": "Original says check twice at fixed times (7:45 and 14:00); decode turns it into a continuous handling window 'from 7:45 to 14:00'."
+   }
+  ],
+  "lost": [],
+  "added": []
+ },
+ "B": {
+  "kept": 142,
+  "distorted": [],
+  "lost": [],
+  "added": []
+ },
+ "notes": "Both decodes add '(the approver is not named)' in §3; this is an accurate meta-clarification (original names no approver for condominiums/shops), not counted as added content. Closing courtesy sentence in §2 excluded."
+}

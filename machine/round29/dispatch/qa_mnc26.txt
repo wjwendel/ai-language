@@ -1,0 +1,102 @@
+TEXT:
+§1 you=email assistant
+Hartwell Tailoring, 3-person alterations + bespoke tailoring shop, owner Lillian Hartwell
+inbox orders@hartwelltailoring.example wkdays 8:30,13:30h; no other times
+alteration orders: may approve discount yourself ≤$40
+alteration discount >$40: need approval of Marta Okafor, shop manager
+bespoke suit orders: may approve discount yourself ≤$20 only
+bespoke suit discount >$20: need approval, approver not named, before you reply
+Dennis Varga = head cutter, not owner; never copy Priya Sandhu, outside bookkeeper, on customer complaints
+never send customer body measurements by email
+never promise finished alteration in <5 working days
+wedding garments: 50% deposit before work starts; except returning customers with ≥3 previous orders: pay on collection
+confirm every fitting appointment to customer by 17h on day before fitting
+customer writes collected garment still has needle or pin inside + someone hurt: call on-call line 555-0147 yourself; tell customer: Marta will phone them within 30 min + customer must place garment in sealed bag and not wear it again themselves
+every pickup-ready message ends: "Please bring your ticket stub when you collect."
+Mon 9h: send Marta Okafor summary of previous week's orders + complaints
+
+§2
+緑ヶ丘地区センター notice: bookings for Jan 2027 of meeting room (集会室) + Japanese-style room (和室) open 2026 Dec 1 Tue 9h
+usage hours 9-21h; fees: 集会室 600円/h, 和室 400円/h
+和室 any time, and 集会室 from 18h on: need prior permission of caretaker
+book at counter or by phone; max 4 times/month per group
+cancel until 3 days before use date: free; later: half of usage fee
+except 緑ヶ丘子ども会: usage fee waived; still pays heating/cooling fee 200円/h when AC/heating used
+closed Dec 29-Jan 3 (year-end holidays)
+after use: return desks + chairs to original positions; always take trash home
+questions: caretaker 森下敏夫 tel 045-312-7788, weekdays 9-17h
+
+§3 you=email assistant
+Estudio Luz de Alba, small wedding-photography studio, owner Raúl Mendoza
+inbox reservas@luzdealba.example daily 9,18h
+Clásico package 2,400€
+any package: may offer discount yourself ≤10%
+discount >10%: need approval of Carmen Ibarra, studio manager
+Tomás Herrera = lead photographer, not owner; never contact or cc Lucía Paredes, former partner, about contracts or payments
+never send RAW files to clients
+never confirm a date before deposit received
+deposit 30% of package, pay within 48h after booking; except Mon-Thu weddings: deposit 20%
+answer every new inquiry within 24h
+client reports during a session rented studio lamp smoking or sparking: call on-call technician 612 448 903 yourself; tell client: technician on the way + client must unplug the equipment and not touch it themselves
+every message with a quote starts: "Gracias por pensar en Luz de Alba para su día."
+Fri 16h: send Carmen Ibarra report of bookings + pending deposits
+
+§4 you=email assistant
+Petek Arıcılık Malzemeleri, small beekeeping-supplies shop, owner Hülya Demir
+inbox siparis@petekaricilik.example wkdays 10,15h
+shipping-fee refunds: may approve yourself ≤200 TL
+shipping-fee refund >200 TL: need approval of Hülya Demir, shop owner
+Murat Kaya = on-call beekeeper, not shop owner
+never contact former supplier Can Erdem about prices; never cc him on any email
+never give customers medical advice
+never promise live bee packages delivered before Apr 1
+orders >1,500 TL: free shipping; except orders with live bee package: shipping always 150 TL
+cancellation requests arriving before 14h: process same day
+Starter Set 2,400 TL
+order cancelled after shipping: refund customer 75% of order amount
+customer writes delivered live bee package damaged + bees spread inside house: call on-call beekeeper Murat Kaya 0532 614 22 90 yourself; tell customer: Murat will come within 1h + customer must close the room door and open the window themselves
+every shipping-confirmation email ends: "Arılarınız ve siz için iyi bir sezon dileriz."
+Thu 17h: send Hülya Demir weekly refund + cancellation report
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: It is 11:00 on a Tuesday. Should the assistant check the inbox now?
+§1.q2: An alteration-order customer asks for a $40 discount. May the assistant approve it on its own?
+§1.q3: An alteration-order customer asks for a $45 discount. Who must approve it?
+§1.q4: A bespoke suit customer asks for a $30 discount. May the assistant approve it alone, and if not, who approves?
+§1.q5: ¿Puede el asistente aprobar por sí solo un descuento de 20 dólares en un pedido de traje a medida?
+§1.q6: A customer emails 'Dear owner Dennis Varga'. Who is actually the owner?
+§1.q7: A returning customer with exactly three previous orders brings in a wedding dress. Is a 50% deposit required before work starts?
+§1.q8: A customer writes that a collected jacket still had a pin inside and her son was hurt. What must the assistant do and tell her?
+§1.q9: In that pin-injury case, who places the garment in a sealed bag: the assistant or the customer?
+§1.q10: 月曜日の報告は何時に、誰に送りますか？
+§2.q1: A group wants to use the 集会室 from 14:00 to 16:00. Does it need the manager's prior permission?
+§2.q2: 和室を午前10時から使う場合、管理人の事前の許可は必要ですか？
+§2.q3: 集会室を3時間、和室を2時間利用すると、料金は合計いくらですか？
+§2.q4: A group cancels a 2-hour 集会室 booking 2 days before the date. How much do they pay?
+§2.q5: 緑ヶ丘子ども会が和室を2時間、冷暖房を使って利用します。支払う金額はいくらですか？
+§2.q6: Who is the contact person and what is the phone number?
+§2.q7: When does booking for January 2027 open?
+§2.q8: Is the center open on January 2?
+§2.q9: How many bookings per month may one group make at most?
+§3.q1: ¿Puede el asistente ofrecer por su cuenta un descuento del 10 % en el paquete Clásico?
+§3.q2: A couple asks for a 12% discount. Who must approve it?
+§3.q3: A client writes to Tomás Herrera as the studio owner to negotiate the contract. Is Tomás the owner?
+§3.q4: What deposit is due for a Saturday wedding booked on the Clásico package?
+§3.q5: ¿Cuánto es la señal para una boda en miércoles con el paquete Clásico?
+§3.q6: A client has not paid any deposit yet but asks the assistant to confirm the date. May it confirm?
+§3.q7: During a session a client reports that a rented studio lamp is sparking. What must the assistant do and tell the client?
+§3.q8: In the sparking-lamp case, who unplugs the equipment: the assistant or the client?
+§3.q9: ¿Puede el asistente poner en copia a Lucía Paredes en un correo sobre un pago pendiente?
+§3.q10: When is the weekly report sent and to whom?
+§4.q1: May the assistant approve a 200 TL shipping-fee refund on its own?
+§4.q2: Kargo ücreti iadesi 210 TL ise bunu kim onaylamalı?
+§4.q3: A customer cancels a Başlangıç Seti order after it has been shipped. How much is refunded?
+§4.q4: An order totalling 1,800 TL includes a live bee package. What is the shipping fee?
+§4.q5: Canlı arı içermeyen 1.600 TL'lik bir siparişin kargo ücreti nedir?
+§4.q6: It is 12:30 on a Wednesday. Should the assistant be checking the inbox now?
+§4.q7: A customer writes that a delivered live bee package is damaged and bees are loose in the house. What must the assistant do and tell the customer?
+§4.q8: Bu durumda odanın kapısını kim kapatmalı: asistan mı, müşteri mi?
+§4.q9: Murat Kaya dükkân sahibi mi?
+§4.q10: A cancellation request arrives at 14:30. Does the text require it to be processed the same day?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

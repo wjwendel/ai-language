@@ -1,0 +1,496 @@
+{
+ "written": "2026-11-19 by independent author (r26)",
+ "questions": [
+  {
+   "id": "§1.q1",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer asks for a cushion re-covering quote of exactly $350. May the assistant approve it on its own?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q2",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A cushion re-covering quote comes to $351. May the assistant approve it on its own, and if not, who must approve?",
+   "gold": "no, Marta Quill (workshop manager) must approve",
+   "accept": [
+    "^\\W*no\\b",
+    "marta|quill"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q3",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A full sofa reupholstery quote comes to only $200. May the assistant approve it on its own, and if not, who approves?",
+   "gold": "no — the $350 limit applies only to cushion re-covering; Marta Quill, the workshop manager, must approve",
+   "accept": [
+    "^\\W*no\\b",
+    "marta|quill"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q4",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer asks for price matching. Who may agree to it?",
+   "gold": "Lena Harlow, the owner",
+   "accept": [
+    "lena|harlow"
+   ],
+   "reject": [
+    "okafor|marta|quill|finch"
+   ]
+  },
+  {
+   "id": "§1.q5",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "Un client signale une odeur de brûlé provenant d'un fauteuil chauffant révisé par l'atelier. Quel numéro l'assistant doit-il appeler lui-même, et que doit faire le client lui-même ?",
+   "gold": "the assistant calls 555-0147 itself (and tells the customer a technician is on the way); the customer must unplug the recliner himself and keep everyone away from it",
+   "accept": [
+    "555\\W?0147",
+    "unplug"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q6",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A trade customer with an active account places an order. Must they pay a deposit before work starts?",
+   "gold": "no, they pay on delivery",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q7",
+   "sec": 1,
+   "type": "F",
+   "hop": 2,
+   "q": "A regular (non-trade) customer places an order of $1,200. How much deposit is required before work starts?",
+   "gold": "$360",
+   "accept": [
+    "(?<!\\d)360(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q8",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "未払いの請求書について、アシスタントが Paul Finch に連絡してもよいですか？",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q9",
+   "sec": 1,
+   "type": "F",
+   "hop": 1,
+   "q": "When and to whom is the weekly summary of open quotes sent?",
+   "gold": "every Friday at 16:00 (4 pm), to Marta Quill",
+   "accept": [
+    "fri",
+    "(4\\s*p\\.?\\s*m|16[:.h]?00)",
+    "marta|quill"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q10",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "How must every quote end?",
+   "gold": "with the sentence \"Prices are valid for 14 days from the date of this quote.\"",
+   "accept": [
+    "valid\\W+for\\W+14\\W+days"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q1",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "What are the library's opening hours on December 27?",
+   "gold": "9:00 to 15:00 (9 am to 3 pm)",
+   "accept": [
+    "(9\\s*a\\.?\\s*m|0?9[:.]00|(?<!\\d)9\\s*(o.?clock|h))",
+    "(3\\s*p\\.?\\s*m|15[:.]00)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q2",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "12月3日に借りた紙芝居の返却期限はいつですか？",
+   "gold": "January 12",
+   "accept": [
+    "(jan\\w*\\.?\\s*12(?!\\d)|(?<!\\d)12(th)?\\s*(of\\s*)?jan|(?<!\\d)1/12(?!\\d))"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q3",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "12月10日に借りた雑誌の返却期限も1月12日に延長されますか？",
+   "gold": "no — the extension only covers magazines borrowed on or after December 15; it is due two weeks after borrowing (December 24)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q4",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "May a DVD be returned through the book drop on December 29?",
+   "gold": "no, CDs and DVDs must be returned at the counter",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q5",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "On which dates is the book drop closed?",
+   "gold": "December 31 to January 2",
+   "accept": [
+    "(?<!\\d)31(?!\\d)",
+    "(jan\\w*\\.?\\s*0?2(?!\\d)|(?<!\\d)0?2(nd)?\\s*(of\\s*)?jan|(?<!\\d)1/0?2(?!\\d))"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q6",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "リサイクル市で本を7冊買うと、いくらになりますか？",
+   "gold": "300 yen (5 for 200 + 2 × 50)",
+   "accept": [
+    "(?<!\\d)300(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q7",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "Who is the contact person for inquiries, and what is the phone number?",
+   "gold": "Miho Saeki, 044-231-5876",
+   "accept": [
+    "saeki",
+    "044\\W?231\\W?5876"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q8",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "休館期間中、1月4日に2階学習室を利用できるのは誰で、何時から何時までですか？",
+   "gold": "only exam candidates (students preparing for entrance exams, with student ID), 13:00–17:00 (1–5 pm)",
+   "accept": [
+    "(exam|受験|entrance|candidate)",
+    "(1\\s*p\\.?\\s*m|13[:.]00)",
+    "(5\\s*p\\.?\\s*m|17[:.]00)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q9",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "When does the library reopen after the closure, and at what time?",
+   "gold": "January 5 at 10:00 (10 am)",
+   "accept": [
+    "(jan\\w*\\.?\\s*0?5(?!\\d)|(?<!\\d)0?5(th)?\\s*(of\\s*)?jan|(?<!\\d)1/0?5(?!\\d))",
+    "(10\\s*a\\.?\\s*m|10[:.]00)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q1",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A custom piece quote comes to exactly 250 €. May the assistant accept it alone?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q2",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "120 €'luk bir özel ders (cours privé) talebini asistan kendi başına onaylayabilir mi? Onaylayamıyorsa kim onaylar?",
+   "gold": "no — the 250 € limit applies only to custom pieces; Sophie Laurent (the manager) must approve every private lesson",
+   "accept": [
+    "^\\W*no\\b",
+    "sophie|laurent"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q3",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A client asks to move their course booking for the third time. May the assistant do it alone, and if not, whose agreement is needed?",
+   "gold": "no, Sophie Laurent's agreement is needed",
+   "accept": [
+    "^\\W*no\\b",
+    "sophie|laurent"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q4",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Peut-on transférer une question de facturation à Hugo Ménard ?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q5",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "What is Hugo Ménard's role?",
+   "gold": "head ceramicist (not the manager)",
+   "accept": [
+    "(c[ée]rami|potter)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q6",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "窯室でガスの臭いがすると生徒から報告がありました。アシスタントは自分でどの番号に電話し、生徒自身は何をしなければなりませんか？",
+   "gold": "the assistant itself calls the gas emergency service at 01 84 62 37 90 and tells the student help is coming; the student must leave the building immediately himself without touching the switches",
+   "accept": [
+    "01\\W?84\\W?62\\W?37\\W?90",
+    "(leave|exit|evacuat|get out)",
+    "switch"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q7",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Un élève annule 30 heures avant son cours et présente un certificat médical. Est-il remboursé ?",
+   "gold": "yes, the medical-certificate exception applies",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q8",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Peut-on contacter Bernard Roux au sujet d'une réclamation client ?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q9",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "With what exact sentence must every course confirmation start?",
+   "gold": "« Merci de votre confiance, l'équipe Terre & Feu. »",
+   "accept": [
+    "merci de votre confiance"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q10",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Within how long must a custom piece request receive a reply?",
+   "gold": "within 24 hours",
+   "accept": [
+    "(?<!\\d)24(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q1",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "Müşteri keşif tarihinden 5 gün önce iptal ediyor. Kaç TL iade edilir?",
+   "gold": "900 TL",
+   "accept": [
+    "(?<!\\d)900(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q2",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer cancels the site survey 2 days before the survey date. How much is refunded?",
+   "gold": "nothing (0 TL) — the 75% refund needs at least 3 days' notice",
+   "accept": [
+    "(no\\b|none|nothing|zero|(?<!\\d)0(?!\\d)|not)"
+   ],
+   "reject": [
+    "(?<!\\d)900(?!\\d)"
+   ]
+  },
+  {
+   "id": "§4.q3",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "Pour un contrat d'installation de 45 000 TL, quel est le montant de l'acompte (kapora) ?",
+   "gold": "9,000 TL",
+   "accept": [
+    "(?<!\\d)9\\W?000(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q4",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "May the assistant give a 500 TL discount on a maintenance visit on its own?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q5",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Asistan bir bakım ziyaretinde kendi başına 600 TL indirim verebilir mi? Veremezse kimin onayı gerekir?",
+   "gold": "no, Emre Kaya (technical manager) must approve",
+   "accept": [
+    "^\\W*no\\b",
+    "emre|kaya"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q6",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer wants to negotiate the price. Should the assistant forward this to Selin Aydın?",
+   "gold": "no — she is the accounting manager, not the sales manager",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q7",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer reports sparks coming from the inverter. Which number does the assistant call itself, and what must the customer do themselves?",
+   "gold": "the assistant calls 0212 555 47 80 itself and tells the customer a technician is on the way; the customer must switch off the DC isolator themselves and stay away from the inverter",
+   "accept": [
+    "0?212\\W?555\\W?47\\W?80",
+    "(dc|isolat|ayırıcı|disconnect)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q8",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "2020年に設置した顧客が、元の請求書なしで保証申請をしてきました。請求書を求めるべきですか？",
+   "gold": "no — invoices for installations before 2022 are already in the system",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q9",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "May the assistant add Murat Demir as a CC on an email about a warranty claim?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q10",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "When and to whom is the weekly summary of open warranty claims sent?",
+   "gold": "every Thursday at 17:00 (5 pm), to Emre Kaya",
+   "accept": [
+    "(thu|perşembe)",
+    "(5\\s*p\\.?\\s*m|17[:.]?00)",
+    "emre|kaya"
+   ],
+   "reject": []
+  }
+ ]
+}

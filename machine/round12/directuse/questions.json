@@ -1,0 +1,543 @@
+{
+ "P1": [
+  {
+   "q": "When does this routine run?",
+   "sl": "¿Cuándo se ejecuta esta rutina?",
+   "gold": "Every Thursday 2 p.m. Central",
+   "accept": [
+    "(thu|jue).*(2|14)|(2|14).*(thu|jue)"
+   ],
+   "type": "F",
+   "l2": "es"
+  },
+  {
+   "q": "Which template do you use for draft orders?",
+   "sl": "¿Qué plantilla usas para los borradores de pedido?",
+   "gold": "Weekly Order",
+   "accept": [
+    "weekly order"
+   ],
+   "type": "F",
+   "l2": "es"
+  },
+  {
+   "q": "A draft order is ready and Rosa has not answered yet. Should you send it?",
+   "sl": "Un borrador está listo y Rosa aún no ha respondido. ¿Debes enviarlo?",
+   "gold": "No; wait for Rosa's approval",
+   "accept": [
+    "^\\s*(no|non)\\b|wait|esper"
+   ],
+   "type": "S",
+   "l2": "es"
+  },
+  {
+   "q": "An order totals $450. Does Daniel need to look at it?",
+   "sl": "Un pedido suma 450 $. ¿Tiene que revisarlo Daniel?",
+   "gold": "No (only over $600)",
+   "accept": [
+    "^\\s*no\\b"
+   ],
+   "type": "S",
+   "l2": "es"
+  },
+  {
+   "q": "An order totals $750. Who must look at it, and should Daniel be copied on the email to the supplier?",
+   "sl": "Un pedido suma 750 $. ¿Quién debe revisarlo y hay que poner a Daniel en copia del correo al proveedor?",
+   "gold": "Daniel (accounting) before Rosa approves, then Rosa; do not copy Daniel on the supplier email",
+   "accept": [
+    "daniel.*(no|not|never|nunca)|(no|not|never|nunca).*cop"
+   ],
+   "type": "S",
+   "l2": "es"
+  },
+  {
+   "q": "To reach a supplier's minimum, may you raise a quantity by 8%? May you switch to a cheaper brand?",
+   "sl": "Para llegar al mínimo de un proveedor, ¿puedes subir una cantidad un 8 %? ¿Puedes cambiar a una marca más barata?",
+   "gold": "Yes to 8%; no to switching brand",
+   "accept": [
+    "^\\s*(yes|s[ií])\\b.*\\b(no|not|never|nunca)\\b"
+   ],
+   "type": "S",
+   "l2": "es"
+  },
+  {
+   "q": "A supplier emails announcing a price increase. What do you do?",
+   "sl": "Un proveedor anuncia una subida de precio por correo. ¿Qué haces?",
+   "gold": "Don't accept or reply; forward to Rosa",
+   "accept": [
+    "forward.*rosa|rosa.*forward|reenv.*rosa|rosa"
+   ],
+   "type": "S",
+   "l2": "es"
+  },
+  {
+   "q": "Who is the owner, and may you email him about an order?",
+   "sl": "¿Quién es el dueño y puedes escribirle sobre un pedido?",
+   "gold": "Kevin Brandt; no, never contact him about orders",
+   "accept": [
+    "kevin.*(no|never|nunca)"
+   ],
+   "type": "S",
+   "l2": "es"
+  },
+  {
+   "q": "How should you refer to Rosa?",
+   "sl": "¿Cómo debes referirte a Rosa?",
+   "gold": "As the café manager, not the owner",
+   "accept": [
+    "manager|gerente|encargad"
+   ],
+   "type": "S",
+   "l2": "es"
+  },
+  {
+   "q": "It is Thursday and the Stock sheet was last updated on Saturday. What do you do?",
+   "sl": "Es jueves y la hoja de Stock se actualizó por última vez el sábado. ¿Qué haces?",
+   "gold": "Stop and tell Rosa, don't guess",
+   "accept": [
+    "stop.*rosa|rosa|det[eé]n|par[ao]"
+   ],
+   "type": "S",
+   "l2": "es"
+  },
+  {
+   "q": "A supplier's email is down. May you place the order by phone?",
+   "sl": "El correo de un proveedor no funciona. ¿Puedes hacer el pedido por teléfono?",
+   "gold": "No",
+   "accept": [
+    "^\\s*no\\b"
+   ],
+   "type": "S",
+   "l2": "es"
+  },
+  {
+   "q": "By when must drafts be ready, and what extra report is due on the last Thursday of the month?",
+   "sl": "¿Para cuándo deben estar listos los borradores y qué informe extra toca el último jueves del mes?",
+   "gold": "Thursday 4 p.m.; month's total order costs to Rosa",
+   "accept": [
+    "(4|16).*(total|month|mes)"
+   ],
+   "type": "S",
+   "l2": "es"
+  }
+ ],
+ "P2": [
+  {
+   "q": "When does the Line 5 southern extension open for trial operation?",
+   "sl": "5号线南延段什么时候开通试运营？",
+   "gold": "December 28",
+   "accept": [
+    "12月28|dec\\w*\\.? ?28|28"
+   ],
+   "type": "F",
+   "l2": "zh"
+  },
+  {
+   "q": "How long is the new section and how many stations does it have?",
+   "sl": "新线全长多少，设几座车站？",
+   "gold": "9.6 km, 6 stations",
+   "accept": [
+    "9\\.6.*6|6.*9\\.6"
+   ],
+   "type": "F",
+   "l2": "zh"
+  },
+  {
+   "q": "Between which two stations does it run?",
+   "sl": "新线从哪个站通到哪个站？",
+   "gold": "Nanhu Park (南湖公园站) to the high-speed rail south station (高铁南站)",
+   "accept": [
+    "南湖|nanhu|south lake",
+    "高铁南|high.?speed"
+   ],
+   "type": "F",
+   "l2": "zh"
+  },
+  {
+   "q": "Who gave the details and what is his role?",
+   "sl": "谁介绍的情况？他是什么职务？",
+   "gold": "王建国, deputy director of the city transport bureau",
+   "accept": [
+    "王建国|wang jianguo"
+   ],
+   "type": "F",
+   "l2": "zh"
+  },
+  {
+   "q": "What is the total investment and who pays a third?",
+   "sl": "总投资多少？谁承担三分之一？",
+   "gold": "About 6.8 billion yuan; the province",
+   "accept": [
+    "68|6\\.8"
+   ],
+   "type": "F",
+   "l2": "zh"
+  },
+  {
+   "q": "How much shorter will the trip from the city centre to the high-speed south station be?",
+   "sl": "从市中心到高铁南站的时间会怎样变化？",
+   "gold": "From 50 to 25 minutes",
+   "accept": [
+    "50.*25"
+   ],
+   "type": "F",
+   "l2": "zh"
+  },
+  {
+   "q": "During trial operation, what are the hours and the peak frequency?",
+   "sl": "试运营期间运营时间和高峰班次是怎样的？",
+   "gold": "6 a.m. to 10 p.m.; every 4 minutes at peak",
+   "accept": [
+    "(6|六).*(22|10|十).*(4|四)"
+   ],
+   "type": "F",
+   "l2": "zh"
+  },
+  {
+   "q": "Is the first month free, and do riders still need to tap their card?",
+   "sl": "头一个月免费吗？还需要刷卡进站吗？",
+   "gold": "Yes, free for everyone; yes, still tap the card",
+   "accept": [
+    "(yes|是|免费|free).*(yes|需要|tap|刷卡|still)"
+   ],
+   "type": "S",
+   "l2": "zh"
+  },
+  {
+   "q": "Why was the opening delayed, and from when?",
+   "sl": "为什么推迟开通？原计划什么时候？",
+   "gold": "Groundwater problems; originally planned for last year's National Day",
+   "accept": [
+    "(groundwater|地下水)"
+   ],
+   "type": "F",
+   "l2": "zh"
+  },
+  {
+   "q": "What happens to bus lines along the route?",
+   "sl": "沿线公交线路会怎样？",
+   "gold": "Two lines adjusted next March; plan still under consultation",
+   "accept": [
+    "(two|2|两).*(march|3月|三月)"
+   ],
+   "type": "F",
+   "l2": "zh"
+  }
+ ],
+ "P3": [
+  {
+   "q": "When and where does the group meet to leave?",
+   "sl": "Quand et où le groupe se retrouve-t-il pour partir ?",
+   "gold": "Friday January 23, 5 p.m., outside Clara's place",
+   "accept": [
+    "(23|fri|ven).*(17|5).*clara|clara.*(17|5)|(17|5 ?p).*clara"
+   ],
+   "type": "F",
+   "l2": "fr"
+  },
+  {
+   "q": "Where is the chalet and how long is the drive?",
+   "sl": "Où est le chalet et combien de temps de route ?",
+   "gold": "Morzine, about three hours",
+   "accept": [
+    "morzine.*(3|three|trois)"
+   ],
+   "type": "F",
+   "l2": "fr"
+  },
+  {
+   "q": "Whose cars are they taking?",
+   "sl": "Quelles voitures prennent-ils ?",
+   "gold": "Clara's and Hugo's",
+   "accept": [
+    "clara.*hugo|hugo.*clara"
+   ],
+   "type": "F",
+   "l2": "fr"
+  },
+  {
+   "q": "Why does Hugo need to go to the garage, and when?",
+   "sl": "Pourquoi Hugo doit-il passer au garage, et quand ?",
+   "gold": "Snow tyres only on the back; Wednesday",
+   "accept": [
+    "(rear|back|arri[eè]re).*(wed|mercredi)|(wed|mercredi).*(rear|back|arri[eè]re)"
+   ],
+   "type": "F",
+   "l2": "fr"
+  },
+  {
+   "q": "How much does each person pay, how many people are there, and by when?",
+   "sl": "Combien paie chacun, combien sont-ils, et avant quand ?",
+   "gold": "€120 each, seven people, before January 15",
+   "accept": [
+    "120.*(7|seven|sept).*15|120.*15.*(7|seven|sept)"
+   ],
+   "type": "F",
+   "l2": "fr"
+  },
+  {
+   "q": "Who buys food for Saturday dinner, and what is the meal?",
+   "sl": "Qui fait les courses pour samedi soir, et quel est le repas ?",
+   "gold": "Inès; fondue",
+   "accept": [
+    "in[eè]s.*fondue|fondue.*in[eè]s"
+   ],
+   "type": "F",
+   "l2": "fr"
+  },
+  {
+   "q": "Is anyone vegetarian, and is the meal a problem for them?",
+   "sl": "Quelqu'un est-il végétarien, et le repas lui pose-t-il problème ?",
+   "gold": "Malik; no, fondue is fine",
+   "accept": [
+    "malik"
+   ],
+   "type": "F",
+   "l2": "fr"
+  },
+  {
+   "q": "Can Inès bring her dog?",
+   "sl": "Inès peut-elle amener son chien ?",
+   "gold": "No; no pets, it stays with her parents",
+   "accept": [
+    "^\\s*(no|non)\\b"
+   ],
+   "type": "S",
+   "l2": "fr"
+  },
+  {
+   "q": "What happened last year, and what will Hugo do this time?",
+   "sl": "Que s'est-il passé l'an dernier, et que fera Hugo cette fois ?",
+   "gold": "They forgot the chains and were stuck two hours; Hugo brings chains",
+   "accept": [
+    "(chain|cha[iî]ne).*(2|two|deux)|(2|two|deux).*(chain|cha[iî]ne)"
+   ],
+   "type": "F",
+   "l2": "fr"
+  },
+  {
+   "q": "When and to whom are the keys returned?",
+   "sl": "Quand et à qui rend-on les clés ?",
+   "gold": "Sunday before 11 a.m., to the owner M. Perrin",
+   "accept": [
+    "perrin.*11|11.*perrin"
+   ],
+   "type": "F",
+   "l2": "fr"
+  }
+ ],
+ "P4": [
+  {
+   "q": "Which facility closes, when, and why?",
+   "sl": "Que instalação fecha, quando e porquê?",
+   "gold": "Indoor municipal pool, March 2-30, heating system replacement",
+   "accept": [
+    "(pool|piscina).*2.*30.*(heat|aquec)|(heat|aquec)"
+   ],
+   "type": "F",
+   "l2": "pt"
+  },
+  {
+   "q": "Who is the official quoted and what is her role?",
+   "sl": "Quem é a responsável citada e qual o seu cargo?",
+   "gold": "Ana Lopes, councillor for sport",
+   "accept": [
+    "ana lopes"
+   ],
+   "type": "F",
+   "l2": "pt"
+  },
+  {
+   "q": "How much does the work cost and what share comes from European funds?",
+   "sl": "Quanto custa a obra e que parte vem de fundos europeus?",
+   "gold": "About €410,000; 75%",
+   "accept": [
+    "410.*75"
+   ],
+   "type": "F",
+   "l2": "pt"
+  },
+  {
+   "q": "Where do children's swimming lessons move, and how do the children get there?",
+   "sl": "Para onde passam as aulas de natação das crianças e como chegam lá?",
+   "gold": "Ribeirinha pool; free transport Tuesdays and Thursdays after school",
+   "accept": [
+    "ribeirinha.*(free|gr[aá]t|tue|ter)"
+   ],
+   "type": "F",
+   "l2": "pt"
+  },
+  {
+   "q": "Is free transport available on Mondays?",
+   "sl": "Há transporte gratuito às segundas-feiras?",
+   "gold": "No (only Tuesdays and Thursdays)",
+   "accept": [
+    "^\\s*(no|não|nao)\\b"
+   ],
+   "type": "S",
+   "l2": "pt"
+  },
+  {
+   "q": "Will March fees be charged?",
+   "sl": "As mensalidades de março serão cobradas?",
+   "gold": "No",
+   "accept": [
+    "^\\s*(no|não|nao)\\b"
+   ],
+   "type": "S",
+   "l2": "pt"
+  },
+  {
+   "q": "A 70-year-old member wants to use the pavilion gym in March. Is there an extra charge?",
+   "sl": "Um utente de 70 anos quer usar o ginásio do pavilhão em março. Paga mais?",
+   "gold": "No, free for over-65s that month",
+   "accept": [
+    "^\\s*(no|não|nao)\\b|free|grat|sem custo"
+   ],
+   "type": "S",
+   "l2": "pt"
+  },
+  {
+   "q": "A 60-year-old asks the same. Does the free gym offer apply to them?",
+   "sl": "Um utente de 60 anos pergunta o mesmo. A oferta aplica-se?",
+   "gold": "No (only over 65)",
+   "accept": [
+    "^\\s*(no|não|nao)\\b"
+   ],
+   "type": "S",
+   "l2": "pt"
+  },
+  {
+   "q": "How did the last works in 2019 go?",
+   "sl": "Como correu a última obra, em 2019?",
+   "gold": "Finished two weeks early",
+   "accept": [
+    "(two|2|duas).*(early|antes|weeks|semanas)"
+   ],
+   "type": "F",
+   "l2": "pt"
+  },
+  {
+   "q": "When does the pool reopen and what is special that day?",
+   "sl": "Quando reabre a piscina e o que há de especial nesse dia?",
+   "gold": "March 31, free entry",
+   "accept": [
+    "31.*(free|livre|grat)"
+   ],
+   "type": "F",
+   "l2": "pt"
+  }
+ ],
+ "P5": [
+  {
+   "q": "When does this routine run and which mailbox do you check?",
+   "sl": "Kiedy działa ta procedura i którą skrzynkę sprawdzasz?",
+   "gold": "Every working day 8:00; serwis@termo-lux.pl",
+   "accept": [
+    "8.*serwis@termo-lux\\.pl|serwis@termo-lux\\.pl.*8"
+   ],
+   "type": "F",
+   "l2": "pl"
+  },
+  {
+   "q": "A boiler-failure ticket arrives and there is a free technician slot in two days. May you book it yourself?",
+   "sl": "Przychodzi zgłoszenie awarii pieca, a wolny termin technika jest za dwa dni. Czy możesz sam go wpisać?",
+   "gold": "Yes",
+   "accept": [
+    "^\\s*(yes|tak)\\b"
+   ],
+   "type": "S",
+   "l2": "pl"
+  },
+  {
+   "q": "Same, but the first free slot is in five days. May you book it yourself?",
+   "sl": "To samo, ale pierwszy wolny termin jest za pięć dni. Czy możesz sam go wpisać?",
+   "gold": "No (only within three days)",
+   "accept": [
+    "^\\s*(no|nie)\\b"
+   ],
+   "type": "S",
+   "l2": "pl"
+  },
+  {
+   "q": "A customer reports a smell of gas. What do you do?",
+   "sl": "Klient zgłasza zapach gazu. Co robisz?",
+   "gold": "Don't book a visit; tell them to call 992 immediately; notify Mr Nowak",
+   "accept": [
+    "992.*nowak|nowak.*992"
+   ],
+   "type": "S",
+   "l2": "pl"
+  },
+  {
+   "q": "A customer asks how much a repair will cost. Do you answer, and who does?",
+   "sl": "Klient pyta, ile będzie kosztować naprawa. Czy odpowiadasz i kto to robi?",
+   "gold": "No; only Ms Wiśniewska from the office",
+   "accept": [
+    "(no|nie).*wi[sś]niewsk|wi[sś]niewsk"
+   ],
+   "type": "S",
+   "l2": "pl"
+  },
+  {
+   "q": "A customer asks to move their visit by one day. May you do it?",
+   "sl": "Klient prosi o przesunięcie wizyty o jeden dzień. Czy możesz to zrobić?",
+   "gold": "Yes",
+   "accept": [
+    "^\\s*(yes|tak)\\b"
+   ],
+   "type": "S",
+   "l2": "pl"
+  },
+  {
+   "q": "A customer asks to cancel their visit. May you cancel it yourself?",
+   "sl": "Klient prosi o odwołanie wizyty. Czy możesz sam ją odwołać?",
+   "gold": "No, not without Mr Nowak's consent",
+   "accept": [
+    "^\\s*(no|nie)\\b"
+   ],
+   "type": "S",
+   "l2": "pl"
+  },
+  {
+   "q": "The calendar shows exactly 12 visits for Friday. Must you write to Mr Nowak right away?",
+   "sl": "W kalendarzu jest dokładnie 12 wizyt na piątek. Czy musisz od razu pisać do Pana Nowaka?",
+   "gold": "No (only more than 12)",
+   "accept": [
+    "^\\s*(no|nie)\\b"
+   ],
+   "type": "S",
+   "l2": "pl"
+  },
+  {
+   "q": "Who is the owner, and may you copy her on emails to customers?",
+   "sl": "Kto jest właścicielem i czy możesz dodać ją do kopii maili do klientów?",
+   "gold": "Ms Zielińska; no",
+   "accept": [
+    "zieli[nń]sk.*(no|nie|never|nigdy)"
+   ],
+   "type": "S",
+   "l2": "pl"
+  },
+  {
+   "q": "How should you describe Mr Nowak?",
+   "sl": "Jak należy określać Pana Nowaka?",
+   "gold": "As the service manager (kierownik serwisu), not the owner",
+   "accept": [
+    "kierownik|service manager|manager"
+   ],
+   "type": "S",
+   "l2": "pl"
+  },
+  {
+   "q": "What must you send by 3 p.m., and to whom?",
+   "sl": "Co musisz wysłać do 15:00 i komu?",
+   "gold": "Next day's visit list to Mr Nowak",
+   "accept": [
+    "nowak"
+   ],
+   "type": "S",
+   "l2": "pl"
+  }
+ ]
+}

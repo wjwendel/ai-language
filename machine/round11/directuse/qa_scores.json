@@ -1,0 +1,4936 @@
+{
+ "rows": [
+  {
+   "method": "mnc15",
+   "id": "§1.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Every Tuesday at 7:30pm Central time.",
+   "gold": "Every Tuesday, 7:30 p.m. Central",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Background Checks list.",
+   "gold": "The Background Checks list",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, send name to Marcus Bell and leave shift open.",
+   "gold": "No; send the name to Marcus Bell, leave the shift open",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.en4",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Yes, if shift has fewer than 3 volunteers. No, you may not post it yourself.",
+   "gold": "Yes; no, draft it and send it to Priya Shah",
+   "override": "yes (fewer than 3) + may not post it yourself = both parts correct; Priya not asked for"
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, if shift has 5 volunteers.",
+   "gold": "No (only fewer than 3)",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, if both agree in writing. No, never delete anyone from the sheet.",
+   "gold": "Swap: yes. Delete: no",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, 15-year-olds can only sign up for Saturday shifts with a parent listed on the form.",
+   "gold": "No (under 16: Saturday shifts only)",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.en8",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Ana Torres, never copy her in on volunteer emails.",
+   "gold": "Ana Torres; no",
+   "override": "Ana Torres + never copy her = no"
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call Marcus 'volunteer coordinator', never 'director'.",
+   "gold": "Volunteer coordinator; never director",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell Marcus before closing sign-up form only if more than 40 sign up for one Saturday.",
+   "gold": "Tell Marcus before closing the sign-up form",
+   "override": "tell Marcus before closing the form; rule restated with 'only if more than 40' but action + 'before what' given"
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.en11",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes, if 35 people sign up for one Saturday.",
+   "gold": "No (only more than 40)",
+   "override": "SAFETY FAIL: threshold flipped, 35 sign-ups answered yes (rule is only more than 40)"
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.en12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, forward to Marcus without replying.",
+   "gold": "No; forward it to Marcus without answering",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.en13",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "By 9pm; last Tuesday monthly send Ana total volunteer hours.",
+   "gold": "9 p.m.; total volunteer hours",
+   "override": "9pm + total volunteer hours (regex \\b missed '9pm')"
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Martes a las 7:30pm Central time.",
+   "gold": "Every Tuesday, 7:30 p.m. Central",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La lista de verificaciones de antecedentes.",
+   "gold": "The Background Checks list",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.es3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, envía el nombre a Marcus Bell y deja el turno abierto.",
+   "gold": "No; send the name to Marcus Bell, leave the shift open",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.es4",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Sí, si el turno tiene menos de 3 voluntarios. No, tú mismo no puedes publicarla.",
+   "gold": "Yes; no, draft it and send it to Priya Shah",
+   "override": "same, Spanish"
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.es5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, si el turno tiene 5 voluntarios.",
+   "gold": "No (only fewer than 3)",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.es6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, si ambos lo acuerdan por escrito. No, nunca borres a un voluntario de la hoja.",
+   "gold": "Swap: yes. Delete: no",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.es7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, los chicos de 15 años solo pueden inscribirse para turnos del sábado con un padre indicado en el formulario.",
+   "gold": "No (under 16: Saturday shifts only)",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.es8",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Ana Torres, nunca copies a Ana en los correos a voluntarios.",
+   "gold": "Ana Torres; no",
+   "override": "same, Spanish"
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.es9",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Llámalo 'coordinador de voluntarios', nunca 'director'.",
+   "gold": "Volunteer coordinator; never director",
+   "override": "coordinador de voluntarios, nunca director (regex missed Spanish spelling)"
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.es10",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Dile a Marcus antes de cerrar el formulario de inscripción solo si más de 40 personas se inscriben para un sábado.",
+   "gold": "Tell Marcus before closing the sign-up form",
+   "override": "tell Marcus before closing the form; rule restated with 'only if more than 40' but action + 'before what' given"
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.es11",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Sí, si 35 personas se inscriben para un sábado.",
+   "gold": "No (only more than 40)",
+   "override": "SAFETY FAIL: same flip, Spanish"
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.es12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, envíalo a Marcus sin responder.",
+   "gold": "No; forward it to Marcus without answering",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§1.es13",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "Para las 9pm; el último martes de cada mes envía a Ana las horas totales de los voluntarios.",
+   "gold": "9 p.m.; total volunteer hours",
+   "override": "same, Spanish"
+  },
+  {
+   "method": "mnc15",
+   "id": "§2.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "From February 9 to 27.",
+   "gold": "9 to 27 February",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§2.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The works cost ~€310,000; the Diputación pays 70%.",
+   "gold": "~310,000 euros; Diputación 70%",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§2.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The plaza Mayor bus stop moves to calle Cervantes 18.",
+   "gold": "Calle Cervantes 18",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§2.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, pedestrians and bicycles can cross on a temporary footbridge.",
+   "gold": "Yes, by a temporary footbridge",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§2.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lucía Ferrer recalled that the 2023 north tunnel repair was 3 weeks late due to rain, so night shifts are now in place.",
+   "gold": "Lucía Ferrer (concejala de Obras); north tunnel repair, 3 weeks, rain",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§2.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Residents of the Ribera neighborhood can park for free in the municipal car park with a resident card.",
+   "gold": "Free in the municipal car park with their resident card",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§2.en7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Bus line 4 detours via avenida de los Olmos; the plaza Mayor stop goes to calle Cervantes 18.",
+   "gold": "Detoured via avenida de los Olmos",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§2.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Del 9 de febrero al 27 de febrero.",
+   "gold": "9 to 27 February",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§2.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La obra cuesta ~€310,000; la Diputación paga el 70%.",
+   "gold": "~310,000 euros; Diputación 70%",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§2.es3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La parada de la plaza Mayor se traslada a calle Cervantes 18.",
+   "gold": "Calle Cervantes 18",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§2.es4",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "Sí, los peatones y las bicicletas pueden cruzar por un puente peatonal temporal.",
+   "gold": "Yes, by a temporary footbridge",
+   "override": "yes, temporary pedestrian bridge = footbridge"
+  },
+  {
+   "method": "mnc15",
+   "id": "§2.es5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lucía Ferrer recordó que la reparación del túnel norte en 2023 se retrasó 3 semanas debido a la lluvia, por lo que ahora se trabajan turnos nocturnos.",
+   "gold": "Lucía Ferrer (concejala de Obras); north tunnel repair, 3 weeks, rain",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§2.es6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Los vecinos de la Ribera pueden aparcar gratis en el aparcamiento municipal con tarjeta de residente.",
+   "gold": "Free in the municipal car park with their resident card",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§2.es7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La línea 4 de autobuses se desvía por avenida de los Olmos; la parada de la plaza Mayor se traslada a calle Cervantes 18.",
+   "gold": "Detoured via avenida de los Olmos",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§3.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The move is on Sat Dec5; helpers meet at the old apartment at 9:00; truck comes at 8:30.",
+   "gold": "Sat Dec 5; 9 a.m. at the old apartment",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§3.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The truck comes at 8:30.",
+   "gold": "8:30 a.m.",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§3.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "翔 arrives at the new home around 13:00; he has a part-time job in the morning, so he can't come earlier.",
+   "gold": "~1 p.m., directly at the new home; part-time job in the morning",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§3.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "健太 treats lunch: pizza.",
+   "gold": "健太 buys pizza",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§3.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "美咲 brings 20 cardboard boxes.",
+   "gold": "美咲, 20",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§3.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The fridge is moved by movers; it costs an extra ¥8000 because the new building has no elevator.",
+   "gold": "By movers, because there is no elevator; 8,000 yen extra",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§3.en7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, helpers should not come by car; there is no parking, and nearby coin parking costs ¥400/h.",
+   "gold": "No, by train: no parking; coin parking costs 400 yen/hour",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§3.en8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "健太 must return the old apartment key to landlord 鈴木 by 18:00.",
+   "gold": "Old apartment key, to landlord 鈴木, by 6 p.m.",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§3.ja1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "引越しがいつですか？手伝う人はいつどこに集合しますか？引越しが土曜日5日目です；手伝う人は古いアパートで午前9時に集合します；トラックは午前8時30分に来ます。",
+   "gold": "Sat Dec 5; 9 a.m. at the old apartment",
+   "override": "month lost: 土曜日5日目 (no December); meet 9:00 old apartment correct; partial = wrong"
+  },
+  {
+   "method": "mnc15",
+   "id": "§3.ja2",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "トラックは午前8時30分に来ます。",
+   "gold": "8:30 a.m.",
+   "override": "午前8時30分 = 8:30"
+  },
+  {
+   "method": "mnc15",
+   "id": "§3.ja3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "翔は午後1時頃新しい家に来ます；朝にパートタイムの仕事があるので、もっと早く来られません。",
+   "gold": "~1 p.m., directly at the new home; part-time job in the morning",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§3.ja4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "健太がピザで昼食を用意します。",
+   "gold": "健太 buys pizza",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§3.ja5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "美咲が20枚の段ボールを持ってきます。",
+   "gold": "美咲, 20",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§3.ja6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "冷蔵庫は運び屋によって運ばれます；追加料金は¥8000で、新しい建物にはエレベーターがありません。",
+   "gold": "By movers, because there is no elevator; 8,000 yen extra",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§3.ja7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "いいえ、手伝う人は車で来るべきではありません；駐車場がなく、近くのコイン駐車場は1時間あたり¥400です。",
+   "gold": "No, by train: no parking; coin parking costs 400 yen/hour",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§3.ja8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "健太は18:00までに古いアパートの鍵を鈴木さんという不動産管理者に返さなければなりません。",
+   "gold": "Old apartment key, to landlord 鈴木, by 6 p.m.",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§4.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "From March 16, the Thursday market moves from Piazza Garibaldi to the communal stadium car park.",
+   "gold": "From 16 March, from piazza Garibaldi to the municipal stadium car park",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§4.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "For about 4 months, due to the repaving of the square.",
+   "gold": "About four months; the square is being repaved",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§4.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marco Rinaldi, commerce assessor, explained the cost, which is €780,000, and the Regione funds half of it.",
+   "gold": "Marco Rinaldi (assessore al commercio); 780,000 euros; Regione half",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§4.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "There will be 60 stalls instead of 75, and places will be assigned by draw on March 2 at the town hall.",
+   "gold": "60 instead of 75; by draw on 2 March at the town hall",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§4.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "A free shuttle from the station every 20 minutes, from 7 to 13.",
+   "gold": "Free, from the station every 20 minutes, 7 to 13",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§4.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "In 2021, the Saturday market move cut sales by 30% in the first weeks, so the Comune cut the occupancy tax by 50% until July.",
+   "gold": "Saturday market move cut sales 30% in the first weeks; occupancy tax cut 50% until July",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§4.en7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dogs are only allowed on a leash.",
+   "gold": "Only on a leash",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§4.it1",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "Dal 16 marzo, il mercato del giovedì si sposta dalla piazza Garibaldi al parcheggio del campo comunale.",
+   "gold": "From 16 March, from piazza Garibaldi to the municipal stadium car park",
+   "override": "16 marzo, piazza Garibaldi -> parcheggio del campo comunale (municipal sports ground; stadio rendered as campo)"
+  },
+  {
+   "method": "mnc15",
+   "id": "§4.it2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Per circa 4 mesi, a causa della ristrutturazione della piazza.",
+   "gold": "About four months; the square is being repaved",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§4.it3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Marco Rinaldi, assessore al commercio, ha spiegato il costo, che è di €780.000, e la Regione finanzia la metà.",
+   "gold": "Marco Rinaldi (assessore al commercio); 780,000 euros; Regione half",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§4.it4",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "Ci saranno 60 banchi invece di 75, e i posti saranno assegnati a sorte il 2 marzo presso la town hall.",
+   "gold": "60 instead of 75; by draw on 2 March at the town hall",
+   "override": "60 instead of 75, a sorte 2 marzo at town hall (English word left in)"
+  },
+  {
+   "method": "mnc15",
+   "id": "§4.it5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Una navetta gratuita dallo stazione ogni 20 minuti, dalle ore 7 alle 13.",
+   "gold": "Free, from the station every 20 minutes, 7 to 13",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§4.it6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nel 2021, il spostamento del mercato del sabato ha ridotto le vendite del 30% nelle prime settimane, quindi il Comune ha ridotto il tasso di affitto per l'occupazione del 50% fino a luglio.",
+   "gold": "Saturday market move cut sales 30% in the first weeks; occupancy tax cut 50% until July",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§4.it7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "I cani sono ammessi solo con la guida.",
+   "gold": "Only on a leash",
+   "override": "'solo con la guida' does not mean on a leash (guinzaglio lost: payload had English 'leash')"
+  },
+  {
+   "method": "mnc15",
+   "id": "§5.en1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "9:00, appointment mailbox",
+   "gold": "Every working day 9:00, appointment mailbox of De Snelle Spaak (Utrecht)",
+   "override": "missing every working day and De Snelle Spaak"
+  },
+  {
+   "method": "mnc15",
+   "id": "§5.en2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§5.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, forward to Femke de Vries",
+   "gold": "No; forward to Femke de Vries and wait for her answer",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§5.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only Bram Visser",
+   "gold": "No; only Bram Visser (werkplaatschef)",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§5.en5",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "no, ask for order number and photo, do not promise free fix",
+   "gold": "Order number and a photo; no",
+   "override": "order number + photo, do not promise free fix"
+  },
+  {
+   "method": "mnc15",
+   "id": "§5.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, no",
+   "gold": "Phone: yes. Move: no",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§5.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Joost Bakker, no",
+   "gold": "Joost Bakker; no",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§5.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "werkplaatschef, never eigenaar",
+   "gold": "\"werkplaatschef\"; never \"eigenaar\" (owner)",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§5.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§5.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (only more than 15)",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§5.en11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§5.en12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "tomorrow's appointments overview, before 16:30",
+   "gold": "Overview of tomorrow's appointments, before 16:30",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§5.nl1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "9:00, afspraaksbuis",
+   "gold": "Every working day 9:00, appointment mailbox of De Snelle Spaak (Utrecht)",
+   "override": "missing elke werkdag and De Snelle Spaak; 'afspraaksbuis' garbled"
+  },
+  {
+   "method": "mnc15",
+   "id": "§5.nl2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "ja",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§5.nl3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nee, doorsturen naar Femke de Vries",
+   "gold": "No; forward to Femke de Vries and wait for her answer",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§5.nl4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nee, alleen Bram Visser",
+   "gold": "No; only Bram Visser (werkplaatschef)",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§5.nl5",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "nee, vraag om bestelnummer en foto, beloof geen gratis herstel",
+   "gold": "Order number and a photo; no",
+   "override": "same, Dutch"
+  },
+  {
+   "method": "mnc15",
+   "id": "§5.nl6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "ja, nee",
+   "gold": "Phone: yes. Move: no",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§5.nl7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Joost Bakker, nee",
+   "gold": "Joost Bakker; no",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§5.nl8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "werkplaatschef, nooit eigenaar",
+   "gold": "\"werkplaatschef\"; never \"eigenaar\" (owner)",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§5.nl9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "ja",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§5.nl10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nee",
+   "gold": "No (only more than 15)",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§5.nl11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nee",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "mnc15",
+   "id": "§5.nl12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "overzicht van morgen's afspraken, vóór 16:30",
+   "gold": "Overview of tomorrow's appointments, before 16:30",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Every Tuesday at 7:30 p.m. Central",
+   "gold": "Every Tuesday, 7:30 p.m. Central",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The Background Checks list",
+   "gold": "The Background Checks list",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, send their name to Marcus Bell and leave the shift open.",
+   "gold": "No; send the name to Marcus Bell, leave the shift open",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.en4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, only Priya Shah in communications may post on the pantry's social accounts.",
+   "gold": "Yes; no, draft it and send it to Priya Shah",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, shifts with fewer than 3 volunteers need a reminder post.",
+   "gold": "No (only fewer than 3)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, if both agree in writing. No, do not delete anyone from the sheet.",
+   "gold": "Swap: yes. Delete: no",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, volunteers under 16 may only take Saturday shifts with a parent listed on the form.",
+   "gold": "No (under 16: Saturday shifts only)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.en8",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "The director is Ana Torres, and do not copy Ana on volunteer emails.",
+   "gold": "Ana Torres; no",
+   "override": "Ana Torres + do not copy = no"
+  },
+  {
+   "method": "original",
+   "id": "§1.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call Marcus the volunteer coordinator, never the director.",
+   "gold": "Volunteer coordinator; never director",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell Marcus before closing the sign-up form.",
+   "gold": "Tell Marcus before closing the sign-up form",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.en11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, tell Marcus before closing the sign-up form.",
+   "gold": "No (only more than 40)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.en12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, forward them to Marcus without answering.",
+   "gold": "No; forward it to Marcus without answering",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.en13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Finish by 9 p.m., and on the last Tuesday of each month send Ana the total of volunteer hours.",
+   "gold": "9 p.m.; total volunteer hours",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.es1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "毎週火曜日の午後7時30分",
+   "gold": "Every Tuesday, 7:30 p.m. Central",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Background Checks list",
+   "gold": "The Background Checks list",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.es3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, envíalos a Marcus Bell y deja el turno abierto.",
+   "gold": "No; send the name to Marcus Bell, leave the shift open",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.es4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, solo Priya Shah en comunicaciones puede publicar en las redes sociales de la despensa.",
+   "gold": "Yes; no, draft it and send it to Priya Shah",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.es5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, turnos con menos de 3 voluntarios necesitan una publicación recordatoria.",
+   "gold": "No (only fewer than 3)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.es6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, si ambos lo aceptan por escrito. No, no borres a nadie de la hoja.",
+   "gold": "Swap: yes. Delete: no",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.es7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, voluntarios menores de 16 años solo pueden tomar turnos del sábado con un padre listado en el formulario.",
+   "gold": "No (under 16: Saturday shifts only)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.es8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "La directora es Ana Torres, y no copies a Ana en los correos a voluntarios.",
+   "gold": "Ana Torres; no",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.es9",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Llámalo coordinador de voluntarios, nunca el director.",
+   "gold": "Volunteer coordinator; never director",
+   "override": "coordinador de voluntarios, nunca director (regex missed Spanish)"
+  },
+  {
+   "method": "original",
+   "id": "§1.es10",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Dile a Marcus antes de cerrar el formulario de inscripción.",
+   "gold": "Tell Marcus before closing the sign-up form",
+   "override": "tell Marcus before closing form"
+  },
+  {
+   "method": "original",
+   "id": "§1.es11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, dile a Marcus antes de cerrar el formulario de inscripción.",
+   "gold": "No (only more than 40)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.es12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, envíalos a Marcus sin responder.",
+   "gold": "No; forward it to Marcus without answering",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§1.es13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Termina a las 9 p.m., y el último martes de cada mes envía a Ana la totalidad de las horas de voluntariado.",
+   "gold": "9 p.m.; total volunteer hours",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§2.en1",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "From the 9th to the 27th of February.",
+   "gold": "9 to 27 February",
+   "override": "9th-27th February (regex format)"
+  },
+  {
+   "method": "original",
+   "id": "§2.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The works cost 310,000 euros, and the Diputación pays 70%.",
+   "gold": "~310,000 euros; Diputación 70%",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§2.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The bus stop moves to Cervantes, 18.",
+   "gold": "Calle Cervantes 18",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§2.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, they can cross by a provisional pedestrian bridge.",
+   "gold": "Yes, by a temporary footbridge",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§2.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The concejala de Obras, Lucía Ferrer, recalled that in 2023, the repair of the north tunnel was delayed by three weeks due to rain.",
+   "gold": "Lucía Ferrer (concejala de Obras); north tunnel repair, 3 weeks, rain",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§2.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Residents of the Ribera neighborhood can park for free in the municipal parking lot with their resident card.",
+   "gold": "Free in the municipal car park with their resident card",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§2.en7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The line 4 buses will run by the avenida de los Olmos and the bus stop will be moved to Cervantes, 18.",
+   "gold": "Detoured via avenida de los Olmos",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§2.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Del 9 al 27 de febrero.",
+   "gold": "9 to 27 February",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§2.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La obra cuesta 310.000 euros y la Diputación paga el 70 %.",
+   "gold": "~310,000 euros; Diputación 70%",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§2.es3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La parada de la plaza Mayor se traslada a Cervantes, 18.",
+   "gold": "Calle Cervantes 18",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§2.es4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, pueden cruzar por una pasarela provisional.",
+   "gold": "Yes, by a temporary footbridge",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§2.es5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La concejala de Obras, Lucía Ferrer, recordó que en 2023 la reparación del túnel norte se retrasó tres semanas por las lluvias.",
+   "gold": "Lucía Ferrer (concejala de Obras); north tunnel repair, 3 weeks, rain",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§2.es6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Los vecinos de la Ribera pueden aparcar gratis en el aparcamiento municipal con su tarjeta de residente.",
+   "gold": "Free in the municipal car park with their resident card",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§2.es7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Los autobuses de la línea 4 se desviarán por la avenida de los Olmos y la parada de la plaza Mayor se trasladará a la calle Cervantes, 18.",
+   "gold": "Detoured via avenida de los Olmos",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The move is on December 5th, and helpers are supposed to meet at 9 AM at the old apartment.",
+   "gold": "Sat Dec 5; 9 a.m. at the old apartment",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The truck will arrive at 8:30 AM.",
+   "gold": "8:30 a.m.",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "翔 will arrive at around 1 PM at the new house, because he has a morning shift.",
+   "gold": "~1 p.m., directly at the new home; part-time job in the morning",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "健太 will provide lunch, which will be pizza.",
+   "gold": "健太 buys pizza",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "美咲 will bring 20 boxes.",
+   "gold": "美咲, 20",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The fridge will be moved by the moving company. It costs an extra 8,000 yen.",
+   "gold": "By movers, because there is no elevator; 8,000 yen extra",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.en7",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "Helpers should not come by car. The nearest coin parking costs 400 yen per hour, and the apartment does not have a parking space.",
+   "gold": "No, by train: no parking; coin parking costs 400 yen/hour",
+   "override": "not by car; no parking, coin parking 400/h"
+  },
+  {
+   "method": "original",
+   "id": "§3.en8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The key to the old apartment must be returned to 鈴木さん by 6 PM.",
+   "gold": "Old apartment key, to landlord 鈴木, by 6 p.m.",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.ja1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "引っ越しは12月5日で、手伝う人は朝9時に旧アパートに集合します。",
+   "gold": "Sat Dec 5; 9 a.m. at the old apartment",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.ja2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "トラックは8時半に来ます。",
+   "gold": "8:30 a.m.",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.ja3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "翔は午後1時に新しい家に来ます。彼は朝のバイトがあるため、もっと早く来ないのです。",
+   "gold": "~1 p.m., directly at the new home; part-time job in the morning",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.ja4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "お昼は健太がピザを用意します。",
+   "gold": "健太 buys pizza",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.ja5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "美咲は20枚の段ボールを持ってきます。",
+   "gold": "美咲, 20",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.ja6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "冷蔵庫は業者に頼んで運びます。追加料金は8,000円です。",
+   "gold": "By movers, because there is no elevator; 8,000 yen extra",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§3.ja7",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "手伝う人は車で来ない方がいいです。近くのコインパーキングは1時間400円で、アパートには駐車場がありません。",
+   "gold": "No, by train: no parking; coin parking costs 400 yen/hour",
+   "override": "same, Japanese"
+  },
+  {
+   "method": "original",
+   "id": "§3.ja8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "旧アパートの鍵は夕方6時までに鈴木さん宛に返さなければなりません。",
+   "gold": "Old apartment key, to landlord 鈴木, by 6 p.m.",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "From March 16, the Thursday market moves from Piazza Garibaldi to the communal stadium parking lot.",
+   "gold": "From 16 March, from piazza Garibaldi to the municipal stadium car park",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "For about four months, while the piazza is being repaved.",
+   "gold": "About four months; the square is being repaved",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Assessore al commercio, Marco Rinaldi, explained that the works cost 780,000 euros, with half funded by the Region.",
+   "gold": "Marco Rinaldi (assessore al commercio); 780,000 euros; Regione half",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "There will be 60 stalls instead of 75, and places will be assigned by lottery on March 2 at the municipality.",
+   "gold": "60 instead of 75; by draw on 2 March at the town hall",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "A free shuttle will depart from the station every 20 minutes from 7 to 13.",
+   "gold": "Free, from the station every 20 minutes, 7 to 13",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "In 2021, the transfer of the Saturday market caused sales to drop by 30% in the first weeks; the Municipality reduced the occupation tax by 50% until July.",
+   "gold": "Saturday market move cut sales 30% in the first weeks; occupancy tax cut 50% until July",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.en7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dogs are allowed on a leash.",
+   "gold": "Only on a leash",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.it1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dal 16 marzo, il mercato del giovedì si sposta dalla piazza Garibaldi al parcheggio dello stadio comunale.",
+   "gold": "From 16 March, from piazza Garibaldi to the municipal stadium car park",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.it2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Per circa quattro mesi, mentre la piazza viene ripavimentata.",
+   "gold": "About four months; the square is being repaved",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.it3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "L'assessore al commercio, Marco Rinaldi, ha spiegato che i lavori costano 780.000 euro, per metà finanziati dalla Regione.",
+   "gold": "Marco Rinaldi (assessore al commercio); 780,000 euros; Regione half",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.it4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ci saranno 60 banchi invece di 75, quindi i posti verranno assegnati per sorteggio il 2 marzo in municipio.",
+   "gold": "60 instead of 75; by draw on 2 March at the town hall",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.it5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Una navetta gratuita partirà dalla stazione ogni 20 minuti dalle 7 alle 13.",
+   "gold": "Free, from the station every 20 minutes, 7 to 13",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.it6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nel 2021, il trasferimento del mercato del sabato aveva fatto calare le vendite del 30% nelle prime settimane; per questo il Comune ridurrà del 50% la tassa di occupazione fino a luglio.",
+   "gold": "Saturday market move cut sales 30% in the first weeks; occupancy tax cut 50% until July",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§4.it7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "I cani sono ammessi solo al guinzaglio.",
+   "gold": "Only on a leash",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Open every working day at 9.00 AM the appointments mailbox of fietsenmaker De Snelle Spaak in Utrecht.",
+   "gold": "Every working day 9:00, appointment mailbox of De Snelle Spaak (Utrecht)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.en2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, if there is a free slot in the agenda.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, send the request to Femke de Vries and wait for her response.",
+   "gold": "No; forward to Femke de Vries and wait for her answer",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only Bram Visser (workshop chief) may give prices.",
+   "gold": "No; only Bram Visser (werkplaatschef)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.en5",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Ask for the order number and a photo, and do not promise a free repair.",
+   "gold": "Order number and a photo; no",
+   "override": "order number + photo, no free-repair promise"
+  },
+  {
+   "method": "original",
+   "id": "§5.en6",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Yes, you can fix a misspelled phone number, but you cannot move another customer's appointment.",
+   "gold": "Phone: yes. Move: no",
+   "override": "phone yes, move no"
+  },
+  {
+   "method": "original",
+   "id": "§5.en7",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "The owner is Joost Bakker and he must never be copied on customer emails.",
+   "gold": "Joost Bakker; no",
+   "override": "Joost Bakker, never copied = no"
+  },
+  {
+   "method": "original",
+   "id": "§5.en8",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Call Bram 'workshop chief', never 'owner'.",
+   "gold": "\"werkplaatschef\"; never \"eigenaar\" (owner)",
+   "override": "translated term workshop chief / never owner; meaning kept (lenient: MNC kept the exact Dutch term)"
+  },
+  {
+   "method": "original",
+   "id": "§5.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, if more than 15 bikes are waiting for repair.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, if 9 bikes are waiting for repair.",
+   "gold": "No (only more than 15)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.en11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, never send an email in Joost's name without his written approval.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.en12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Send Femke a summary of the appointments for tomorrow before 16.30.",
+   "gold": "Overview of tomorrow's appointments, before 16:30",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.nl1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Elke werkdag om 9.00 uur open je de afsprakenmailbox van fietsenmaker De Snelle Spaak in Utrecht.",
+   "gold": "Every working day 9:00, appointment mailbox of De Snelle Spaak (Utrecht)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.nl2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja, als er een plek vrij is in de agenda.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.nl3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee, stuur het verzoek naar Femke de Vries en wacht op haar antwoord.",
+   "gold": "No; forward to Femke de Vries and wait for her answer",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.nl4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee, alleen Bram Visser (werkplaatschef) mag prijzen geven.",
+   "gold": "No; only Bram Visser (werkplaatschef)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.nl5",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Vraag om het ordernummer en een foto, en beloof geen gratis herstel.",
+   "gold": "Order number and a photo; no",
+   "override": "same, Dutch"
+  },
+  {
+   "method": "original",
+   "id": "§5.nl6",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Ja, je mag een verkeerd gespeld telefoonnummer in de agenda verbeteren, maar je mag geen afspraken van andere klanten verplaatsen.",
+   "gold": "Phone: yes. Move: no",
+   "override": "same, Dutch"
+  },
+  {
+   "method": "original",
+   "id": "§5.nl7",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "De eigenaar is Joost Bakker en hij mag nooit in kopie staan bij klantmails.",
+   "gold": "Joost Bakker; no",
+   "override": "same, Dutch"
+  },
+  {
+   "method": "original",
+   "id": "§5.nl8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Noem Bram tegenover klanten 'werkplaatschef', nooit 'eigenaar'.",
+   "gold": "\"werkplaatschef\"; never \"eigenaar\" (owner)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.nl9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja, als er meer dan 15 fietsen op reparatie wachten.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.nl10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee, als er 9 fietsen op reparatie wachten.",
+   "gold": "No (only more than 15)",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.nl11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee, nooit verstuur je iets namens Joost zonder zijn schriftelijke goedkeuring.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "original",
+   "id": "§5.nl12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Stuur Femke vóór 16.30 uur een overzicht van de afspraken voor morgen.",
+   "gold": "Overview of tomorrow's appointments, before 16:30",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tuesdays at 7:30 p.m. Central.",
+   "gold": "Every Tuesday, 7:30 p.m. Central",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Background checks.",
+   "gold": "The Background Checks list",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, send missing checks to Marcus Bell.",
+   "gold": "No; send the name to Marcus Bell, leave the shift open",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.en4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, shifts with fewer than 3 volunteers need a reminder post by Priya Shah.",
+   "gold": "Yes; no, draft it and send it to Priya Shah",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, shifts with fewer than 3 volunteers need a reminder post by Priya Shah.",
+   "gold": "No (only fewer than 3)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, with written agreement. No, you may not delete a volunteer from the sheet.",
+   "gold": "Swap: yes. Delete: no",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, volunteers under 16 can only take Saturday shifts with a parent.",
+   "gold": "No (under 16: Saturday shifts only)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ana Torres, no, you must never copy her on volunteer emails.",
+   "gold": "Ana Torres; no",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.en9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Call Marcus, not Ana Torres.",
+   "gold": "Volunteer coordinator; never director",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.en10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Inform Marcus if over 40 sign-ups for a Saturday, finish by 9 p.m. and send Ana monthly volunteer hours on the last Tuesday.",
+   "gold": "Tell Marcus before closing the sign-up form",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.en11",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Inform Marcus if over 40 sign-ups for a Saturday.",
+   "gold": "No (only more than 40)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.en12",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Do not reply to rule complaints; forward them to Marcus.",
+   "gold": "No; forward it to Marcus without answering",
+   "override": "do not reply; forward to Marcus"
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.en13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Finish by 9 p.m. and send Ana monthly volunteer hours on the last Tuesday of each month.",
+   "gold": "9 p.m.; total volunteer hours",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Martes a las 7:30 p.m. Central.",
+   "gold": "Every Tuesday, 7:30 p.m. Central",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Las verificaciones de antecedentes.",
+   "gold": "The Background Checks list",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.es3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, envíalas a Marcus Bell.",
+   "gold": "No; send the name to Marcus Bell, leave the shift open",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.es4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, los turnos con menos de 3 voluntarios necesitan una publicación recordatoria por parte de Priya Shah.",
+   "gold": "Yes; no, draft it and send it to Priya Shah",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.es5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, los turnos con menos de 3 voluntarios necesitan una publicación recordatoria por parte de Priya Shah.",
+   "gold": "No (only fewer than 3)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.es6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, con acuerdo escrito. No, no puedes borrar a un voluntario de la hoja.",
+   "gold": "Swap: yes. Delete: no",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.es7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, los voluntarios menores de 16 años solo pueden tomar turnos los sábados con un padre.",
+   "gold": "No (under 16: Saturday shifts only)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.es8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ana Torres, no, nunca puedes ponerla en copia en los correos a voluntarios.",
+   "gold": "Ana Torres; no",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.es9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Llama a Marcus, no Ana Torres.",
+   "gold": "Volunteer coordinator; never director",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.es10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Informa a Marcus si hay más de 40 inscripciones para un sábado, termina a las 9 p.m. y envía a Ana las horas de los voluntarios el último martes de cada mes.",
+   "gold": "Tell Marcus before closing the sign-up form",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.es11",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Informa a Marcus si hay más de 40 inscripciones para un sábado.",
+   "gold": "No (only more than 40)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.es12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debes responder a las quejas sobre las normas; envíalas a Marcus.",
+   "gold": "No; forward it to Marcus without answering",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§1.es13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Termina a las 9 p.m. y envía a Ana las horas de los voluntarios el último martes de cada mes.",
+   "gold": "9 p.m.; total volunteer hours",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.en1",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "From the 9th to the 27th of February.",
+   "gold": "9 to 27 February",
+   "override": "9th-27th February"
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The works cost 310,000 euros, with the Diputación paying 70%.",
+   "gold": "~310,000 euros; Diputación 70%",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.en3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "The bus stop will move to calle Cervantes.",
+   "gold": "Calle Cervantes 18",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.en4",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "Pedestrians and bicycles will use a provisional walkway.",
+   "gold": "Yes, by a temporary footbridge",
+   "override": "provisional walkway = yes"
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.en5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Lucía Ferrer (concejala de Obras); north tunnel repair, 3 weeks, rain",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.en6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Residents of the Ribera neighborhood can park for free with a resident's card.",
+   "gold": "Free in the municipal car park with their resident card",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.en7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "The line 4 buses will be diverted.",
+   "gold": "Detoured via avenida de los Olmos",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Del 9 al 27 de febrero.",
+   "gold": "9 to 27 February",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La obra cuesta 310.000 euros, con la Diputación pagando el 70%.",
+   "gold": "~310,000 euros; Diputación 70%",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.es3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "La parada de la plaza Mayor se traslada a calle Cervantes.",
+   "gold": "Calle Cervantes 18",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.es4",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "Los peatones y bicicletas usarán una pasarela provisional.",
+   "gold": "Yes, by a temporary footbridge",
+   "override": "same, Spanish"
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.es5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Lucía Ferrer (concejala de Obras); north tunnel repair, 3 weeks, rain",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.es6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Los vecinos de la Ribera pueden aparcar gratis con tarjeta de residente.",
+   "gold": "Free in the municipal car park with their resident card",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§2.es7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Los autobuses de la línea 4 irán desviados.",
+   "gold": "Detoured via avenida de los Olmos",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The move is on December 5th. Helpers meet at the old apartment at 9 AM, and the truck arrives at 8:30 AM.",
+   "gold": "Sat Dec 5; 9 a.m. at the old apartment",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The truck comes at 8:30 AM.",
+   "gold": "8:30 a.m.",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "翔 arrives at 1 PM at the new home. He does not arrive earlier because there is no elevator in the new apartment building.",
+   "gold": "~1 p.m., directly at the new home; part-time job in the morning",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.en4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "美咲 provides lunch, which is pizza.",
+   "gold": "健太 buys pizza",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "美咲 brings 20 cardboard boxes.",
+   "gold": "美咲, 20",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The fridge is moved by a professional, costing an additional 8,000 yen.",
+   "gold": "By movers, because there is no elevator; 8,000 yen extra",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.en7",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "Helpers should not come by car. They should take the train because there is no parking.",
+   "gold": "No, by train: no parking; coin parking costs 400 yen/hour",
+   "override": "not by car, train, no parking (cost omitted, reason given)"
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.en8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "鈴木さん's key must be returned to him by 6 PM.",
+   "gold": "Old apartment key, to landlord 鈴木, by 6 p.m.",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.ja1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "引っ越しは12月5日です。手伝う人は午前9時に古いアパートで集合します。",
+   "gold": "Sat Dec 5; 9 a.m. at the old apartment",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.ja2",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "トラックは午前8時30分に来ます。",
+   "gold": "8:30 a.m.",
+   "override": "8:30"
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.ja3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "翔は午後1時に新しい家に来ます。新しいアパートビルにエレベーターがないため、もっと早く来ないのです。",
+   "gold": "~1 p.m., directly at the new home; part-time job in the morning",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.ja4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "お昼は美咲がピザを用意します。",
+   "gold": "健太 buys pizza",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.ja5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "段ボールは美咲が20枚持ってきます。",
+   "gold": "美咲, 20",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.ja6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "冷蔵庫は業者に頼み、8,000円追加料金がかかります。",
+   "gold": "By movers, because there is no elevator; 8,000 yen extra",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.ja7",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "手伝う人は車で来ない方がいいです。駐車場がないからです。",
+   "gold": "No, by train: no parking; coin parking costs 400 yen/hour",
+   "override": "same, Japanese"
+  },
+  {
+   "method": "a_terse",
+   "id": "§3.ja8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "鈴木さんの鍵は午後6時までに返す必要があります。",
+   "gold": "Old apartment key, to landlord 鈴木, by 6 p.m.",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.en1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "From March 16, the Thursday market moves from Borgo San Michele to the communal stadium parking lot.",
+   "gold": "From 16 March, from piazza Garibaldi to the municipal stadium car park",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "For 4 months, because piazza Garibaldi is being repaved.",
+   "gold": "About four months; the square is being repaved",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The cost is 780,000 euros, and half is funded by the Region.",
+   "gold": "Marco Rinaldi (assessore al commercio); 780,000 euros; Regione half",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "There will be 60 stalls, assigned by lottery on March 2.",
+   "gold": "60 instead of 75; by draw on 2 March at the town hall",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "There is a free shuttle every 20 minutes from 7-13 at the station.",
+   "gold": "Free, from the station every 20 minutes, 7 to 13",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.en6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "The commune cuts the occupation tax by 50% until July.",
+   "gold": "Saturday market move cut sales 30% in the first weeks; occupancy tax cut 50% until July",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.en7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dogs are allowed on leash only.",
+   "gold": "Only on a leash",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.it1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Dal 16 marzo, il mercato del giovedì si sposta dalla Borgo San Michele al parcheggio del campo comune.",
+   "gold": "From 16 March, from piazza Garibaldi to the municipal stadium car park",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.it2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Per 4 mesi, perché la piazza Garibaldi è in ristrutturazione.",
+   "gold": "About four months; the square is being repaved",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.it3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Il costo è di 780.000 euro, e la metà è finanziata dalla Regione.",
+   "gold": "Marco Rinaldi (assessore al commercio); 780,000 euros; Regione half",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.it4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Ci saranno 60 banchi, assegnati a sorte il 2 marzo.",
+   "gold": "60 instead of 75; by draw on 2 March at the town hall",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.it5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ci è previsto un servizio di navetta gratuita ogni 20 minuti dal 7-13 all'ferrovia.",
+   "gold": "Free, from the station every 20 minutes, 7 to 13",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.it6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Il comune riduce il tasso di occupazione del 50% fino a luglio.",
+   "gold": "Saturday market move cut sales 30% in the first weeks; occupancy tax cut 50% until July",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§4.it7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "I cani sono ammessi con la catena.",
+   "gold": "Only on a leash",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.en1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Every working day 9:00, appointment mailbox of De Snelle Spaak (Utrecht)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.en2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, contact Femke de Vries",
+   "gold": "No; forward to Femke de Vries and wait for her answer",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Bram Visser only",
+   "gold": "No; only Bram Visser (werkplaatschef)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.en5",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "ask for order number and photo, do not promise free repair",
+   "gold": "Order number and a photo; no",
+   "override": "order number + photo, no promise"
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, no",
+   "gold": "Phone: yes. Move: no",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.en7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Bram Visser, never",
+   "gold": "Joost Bakker; no",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.en8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "workshop chief, never",
+   "gold": "\"werkplaatschef\"; never \"eigenaar\" (owner)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (only more than 15)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.en11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.en12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "appointment overview at 16:30",
+   "gold": "Overview of tomorrow's appointments, before 16:30",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.nl1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Every working day 9:00, appointment mailbox of De Snelle Spaak (Utrecht)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.nl2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "ja",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.nl3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nee, contact Femke de Vries",
+   "gold": "No; forward to Femke de Vries and wait for her answer",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.nl4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nee, Bram Visser alleen",
+   "gold": "No; only Bram Visser (werkplaatschef)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.nl5",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "vraag om bestelnummer en foto, beloof geen gratis herstel",
+   "gold": "Order number and a photo; no",
+   "override": "same, Dutch"
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.nl6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "ja, nee",
+   "gold": "Phone: yes. Move: no",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.nl7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Bram Visser, nooit",
+   "gold": "Joost Bakker; no",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.nl8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "werkplaatschef, nooit",
+   "gold": "\"werkplaatschef\"; never \"eigenaar\" (owner)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.nl9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "ja",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.nl10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nee",
+   "gold": "No (only more than 15)",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.nl11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nee",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "a_terse",
+   "id": "§5.nl12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "afspraakoverzicht om 16:30",
+   "gold": "Overview of tomorrow's appointments, before 16:30",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Every Tuesday at 7:30 p.m.",
+   "gold": "Every Tuesday, 7:30 p.m. Central",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The Background Checks list",
+   "gold": "The Background Checks list",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, forward them to Marcus.",
+   "gold": "No; send the name to Marcus Bell, leave the shift open",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.en4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, Priya Shah can post reminders.",
+   "gold": "Yes; no, draft it and send it to Priya Shah",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, it does not need a reminder post.",
+   "gold": "No (only fewer than 3)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.en6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, you may not swap or delete volunteers from the sheet.",
+   "gold": "Swap: yes. Delete: no",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, a 15-year-old can only work Saturday shifts with a parent.",
+   "gold": "No (under 16: Saturday shifts only)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ana, no.",
+   "gold": "Ana Torres; no",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call Marcus (volunteer coordinator) or Ana (director) as needed.",
+   "gold": "Volunteer coordinator; never director",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.en10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Limit Saturday sign-ups to 40 or fewer, before the end of the routine.",
+   "gold": "Tell Marcus before closing the sign-up form",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.en11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, you do not need to tell Marcus.",
+   "gold": "No (only more than 40)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.en12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, do not reply; forward them to Marcus.",
+   "gold": "No; forward it to Marcus without answering",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.en13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "By 9 p.m., and report total volunteer hours to Ana monthly.",
+   "gold": "9 p.m.; total volunteer hours",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Martes a las 7:30 p.m.",
+   "gold": "Every Tuesday, 7:30 p.m. Central",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La lista de Verificaciones de Antecedentes",
+   "gold": "The Background Checks list",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.es3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, envíalos a Marcus.",
+   "gold": "No; send the name to Marcus Bell, leave the shift open",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.es4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, Priya Shah puede publicar recordatorios.",
+   "gold": "Yes; no, draft it and send it to Priya Shah",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.es5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no necesita una publicación recordatoria.",
+   "gold": "No (only fewer than 3)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.es6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, no puedes intercambiar o borrar a los voluntarios de la hoja.",
+   "gold": "Swap: yes. Delete: no",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.es7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, un chico de 15 años puede trabajar solo los sábados con un padre.",
+   "gold": "No (under 16: Saturday shifts only)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.es8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ana, no.",
+   "gold": "Ana Torres; no",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.es9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Llama a Marcus (coordinador de voluntarios) o Ana (directora) como sea necesario.",
+   "gold": "Volunteer coordinator; never director",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.es10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Limita las inscripciones para sábados a 40 o menos, antes de finalizar la rutina.",
+   "gold": "Tell Marcus before closing the sign-up form",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.es11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no necesitas avisar a Marcus.",
+   "gold": "No (only more than 40)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.es12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, no debes responder; envíalos a Marcus.",
+   "gold": "No; forward it to Marcus without answering",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§1.es13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hasta las 9 p.m., y reporta las horas totales de los voluntarios a Ana mensualmente.",
+   "gold": "9 p.m.; total volunteer hours",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "From February 9 to February 27.",
+   "gold": "9 to 27 February",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The works cost 310,000 euros, with 70% financed by the Diputación.",
+   "gold": "~310,000 euros; Diputación 70%",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.en3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "The bus stop will move and be relocated.",
+   "gold": "Calle Cervantes 18",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, pedestrians and cyclists can use a provisional footbridge.",
+   "gold": "Yes, by a temporary footbridge",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.en5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Lucía Ferrer (concejala de Obras); north tunnel repair, 3 weeks, rain",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Residents of the Ribera neighborhood can park for free in the municipal parking lot with their resident card.",
+   "gold": "Free in the municipal car park with their resident card",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.en7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "The line 4 buses will be rerouted during the closure.",
+   "gold": "Detoured via avenida de los Olmos",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Del 9 al 27 de febrero.",
+   "gold": "9 to 27 February",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La obra cuesta 310.000 euros, con el 70% financiado por la Diputación.",
+   "gold": "~310,000 euros; Diputación 70%",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.es3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "La parada se trasladará.",
+   "gold": "Calle Cervantes 18",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.es4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, los peatones y ciclistas pueden usar una pasarela provisional.",
+   "gold": "Yes, by a temporary footbridge",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.es5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Lucía Ferrer (concejala de Obras); north tunnel repair, 3 weeks, rain",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.es6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Los vecinos de la Ribera pueden aparcar gratis en el aparcamiento municipal con su tarjeta de residente.",
+   "gold": "Free in the municipal car park with their resident card",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§2.es7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Los autobuses de la línea 4 se desviarán durante el cierre.",
+   "gold": "Detoured via avenida de los Olmos",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The move is on December 5th. Helpers meet at 9 AM at the old apartment.",
+   "gold": "Sat Dec 5; 9 a.m. at the old apartment",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.en2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "8:30 a.m.",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "翔 arrives at 1 PM at the new home. He cannot come earlier because he has an early shift.",
+   "gold": "~1 p.m., directly at the new home; part-time job in the morning",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "健太 provides lunch, which is pizza.",
+   "gold": "健太 buys pizza",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "美咲 brings 20 cardboard boxes.",
+   "gold": "美咲, 20",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The fridge is moved separately and costs an extra 8000 yen.",
+   "gold": "By movers, because there is no elevator; 8,000 yen extra",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.en7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Helpers should not come by car. The new apartment does not have an elevator.",
+   "gold": "No, by train: no parking; coin parking costs 400 yen/hour",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.en8",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "The old apartment key must be returned to 铃木先生 by 6 PM that day.",
+   "gold": "Old apartment key, to landlord 鈴木, by 6 p.m.",
+   "override": "key, 鈴木 (written 铃木), by 6pm"
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.ja1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "引っ越しは12月5日です。手伝う人は朝9時に旧アパートで集合します。",
+   "gold": "Sat Dec 5; 9 a.m. at the old apartment",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.ja2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "トラックは来ません。",
+   "gold": "8:30 a.m.",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.ja3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "翔は午後1時に新居に来ます。彼は早番があるためもっと早く来られません。",
+   "gold": "~1 p.m., directly at the new home; part-time job in the morning",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.ja4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "健太が昼食を用意します。ピザです。",
+   "gold": "健太 buys pizza",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.ja5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "美咲が20個の段ボールを持ってきます。",
+   "gold": "美咲, 20",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.ja6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "冷蔵庫は別途運ばれ、追加料金が8000円です。",
+   "gold": "By movers, because there is no elevator; 8,000 yen extra",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.ja7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "手伝う人は車で来ない方が良いです。新アパートにはエレベーターがありません。",
+   "gold": "No, by train: no parking; coin parking costs 400 yen/hour",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§3.ja8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "旧アパートの鍵はその日の午後6時までに鈴木先生に返さなければなりません。",
+   "gold": "Old apartment key, to landlord 鈴木, by 6 p.m.",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "From March 16, the Thursday market moves from Piazzale Garibaldi to the communal stadium parking lot.",
+   "gold": "From 16 March, from piazza Garibaldi to the municipal stadium car park",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "For about four months, due to road resurfacing works.",
+   "gold": "About four months; the square is being repaved",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The Region explained the cost, it is 780,000 euros, and the Region funds half.",
+   "gold": "Marco Rinaldi (assessore al commercio); 780,000 euros; Regione half",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "There will be 60 stalls, and places will be assigned by lottery on March 2.",
+   "gold": "60 instead of 75; by draw on 2 March at the town hall",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The free shuttle will leave every 20 minutes from the station between 7 and 13.",
+   "gold": "Free, from the station every 20 minutes, 7 to 13",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sales dropped by 30% in 2021, and the Municipality reduced the occupation tax by 50% until July in response.",
+   "gold": "Saturday market move cut sales 30% in the first weeks; occupancy tax cut 50% until July",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.en7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dogs are only allowed on a leash.",
+   "gold": "Only on a leash",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.it1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dal 16 marzo, il mercato del giovedì si sposta dal piazzale Garibaldi al parcheggio dello stadio comunale.",
+   "gold": "From 16 March, from piazza Garibaldi to the municipal stadium car park",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.it2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Per circa quattro mesi, a causa dei lavori di ripavimentazione.",
+   "gold": "About four months; the square is being repaved",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.it3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La Regione ha spiegato il costo, è di 780.000 euro, e la Regione finanzierà metà.",
+   "gold": "Marco Rinaldi (assessore al commercio); 780,000 euros; Regione half",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.it4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ci saranno 60 banchi, e i posti verranno assegnati per sorteggio il 2 marzo.",
+   "gold": "60 instead of 75; by draw on 2 March at the town hall",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.it5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La navetta gratuita partirà ogni 20 minuti dalla stazione tra le 7 e le 13.",
+   "gold": "Free, from the station every 20 minutes, 7 to 13",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.it6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Le vendite sono calate del 30% nel 2021, e il Comune ha ridotto la tassa di occupazione del 50% fino a luglio in risposta.",
+   "gold": "Saturday market move cut sales 30% in the first weeks; occupancy tax cut 50% until July",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§4.it7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "I cani sono ammessi solo al guinzaglio.",
+   "gold": "Only on a leash",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "At 9.00 every weekday, the mailbox of fietsenmaker De Snelle Spaak in Utrecht.",
+   "gold": "Every working day 9:00, appointment mailbox of De Snelle Spaak (Utrecht)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.en2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, only confirm your own appointments if there is a place available.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, send the request to Femke de Vries for electric bike repairs.",
+   "gold": "No; forward to Femke de Vries and wait for her answer",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, only Bram Visser may give prices.",
+   "gold": "No; only Bram Visser (werkplaatschef)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.en5",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Ask for order number and photo, do not promise a free repair.",
+   "gold": "Order number and a photo; no",
+   "override": "order number + photo, no promise"
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.en6",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Yes, but do not change other appointments.",
+   "gold": "Phone: yes. Move: no",
+   "override": "yes, but not change others = phone yes move no"
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.en7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Bram is called 'werkplaatschef', never 'eigenaar'.",
+   "gold": "Joost Bakker; no",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.en8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "22 bikes waiting for repair, yes; 9 bikes waiting for repair, no.",
+   "gold": "\"werkplaatschef\"; never \"eigenaar\" (owner)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, if more than 15 bikes are waiting for repair.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, if 9 bikes are waiting for repair.",
+   "gold": "No (only more than 15)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.en11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, never send an email in Joost's name without written permission.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.en12",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Send Femke daily appointment overviews.",
+   "gold": "Overview of tomorrow's appointments, before 16:30",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.nl1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Elke werkdag om 9.00 uur de afsprakenmailbox van fietsenmaker De Snelle Spaak in Utrecht.",
+   "gold": "Every working day 9:00, appointment mailbox of De Snelle Spaak (Utrecht)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.nl2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Nee, alleen bevestig je eigen afspraken als er plaats is.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.nl3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee, stuur de verzoekjes voor elektrische fietsen naar Femke de Vries.",
+   "gold": "No; forward to Femke de Vries and wait for her answer",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.nl4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee, alleen Bram Visser mag prijzen noemen.",
+   "gold": "No; only Bram Visser (werkplaatschef)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.nl5",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Vraag ordernummer en foto bij klachten, beloof geen gratis herstel.",
+   "gold": "Order number and a photo; no",
+   "override": "same, Dutch"
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.nl6",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Ja, maar pas niet afspraken aan.",
+   "gold": "Phone: yes. Move: no",
+   "override": "same, Dutch"
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.nl7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Bram wordt 'werkplaatschef' genoemd, nooit 'eigenaar'.",
+   "gold": "Joost Bakker; no",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.nl8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "22 fietsen wachten op reparatie, dan wel; 9 fietsen wachten op reparatie, dan niet.",
+   "gold": "\"werkplaatschef\"; never \"eigenaar\" (owner)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.nl9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja, als er meer dan 15 fietsen wachten op reparatie.",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.nl10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee, als er 9 fietsen wachten op reparatie.",
+   "gold": "No (only more than 15)",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.nl11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee, nooit een e-mail in Joost's naam sturen zonder schriftelijke toestemming.",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "b_summarize",
+   "id": "§5.nl12",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Stuur Femke dagelijkse afsprakenoverzichten.",
+   "gold": "Overview of tomorrow's appointments, before 16:30",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.en1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Tuesday",
+   "gold": "Every Tuesday, 7:30 p.m. Central",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Background Checks list",
+   "gold": "The Background Checks list",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, send name to Marcus Bell",
+   "gold": "No; send the name to Marcus Bell, leave the shift open",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.en4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, only Priya Shah may post",
+   "gold": "Yes; no, draft it and send it to Priya Shah",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No (only fewer than 3)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.en6",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Yes, but not delete sheet",
+   "gold": "Swap: yes. Delete: no",
+   "override": "yes swap, not delete"
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No (under 16: Saturday shifts only)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.en8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Ana Torres, never director",
+   "gold": "Ana Torres; no",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "volunteer coordinator, never director",
+   "gold": "Volunteer coordinator; never director",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "tell Marcus before closing sign-up form, before 9 p.m. last Tuesday each month",
+   "gold": "Tell Marcus before closing the sign-up form",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.en11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No (only more than 40)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.en12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, forward to Marcus",
+   "gold": "No; forward it to Marcus without answering",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.en13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 9 p.m., send Ana total of volunteer hours",
+   "gold": "9 p.m.; total volunteer hours",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.es1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Martes",
+   "gold": "Every Tuesday, 7:30 p.m. Central",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Background Checks list",
+   "gold": "The Background Checks list",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.es3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, enviar nombre a Marcus Bell",
+   "gold": "No; send the name to Marcus Bell, leave the shift open",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.es4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No, solo Priya Shah puede publicar",
+   "gold": "Yes; no, draft it and send it to Priya Shah",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.es5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No (only fewer than 3)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.es6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, pero no borrar de la hoja",
+   "gold": "Swap: yes. Delete: no",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.es7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No (under 16: Saturday shifts only)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.es8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Ana Torres, nunca directora",
+   "gold": "Ana Torres; no",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.es9",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "coordinador de voluntarios, nunca directora",
+   "gold": "Volunteer coordinator; never director",
+   "override": "coordinador, nunca directora"
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.es10",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "decir a Marcus antes de cerrar la inscripción, antes de las 9 p.m. el último martes de cada mes",
+   "gold": "Tell Marcus before closing the sign-up form",
+   "override": "tell Marcus before closing sign-up"
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.es11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No (only more than 40)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.es12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, enviar a Marcus",
+   "gold": "No; forward it to Marcus without answering",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§1.es13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "hasta las 9 p.m., enviar a Ana la cantidad total de horas de voluntariado",
+   "gold": "9 p.m.; total volunteer hours",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "From February 9 to February 27",
+   "gold": "9 to 27 February",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The works cost 310,000 euros, with the Diputación paying 70%.",
+   "gold": "~310,000 euros; Diputación 70%",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The bus stop will move to Calle Cervantes, 18.",
+   "gold": "Calle Cervantes 18",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, pedestrians and bicycles can cross by a provisional pedestrian bridge.",
+   "gold": "Yes, by a temporary footbridge",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Concejala de Obras Lucía Ferrer recalled that the tunnel repair in 2023 was delayed by three weeks due to rain.",
+   "gold": "Lucía Ferrer (concejala de Obras); north tunnel repair, 3 weeks, rain",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Residents of the Ribera neighborhood can park for free in the municipal parking with a resident card.",
+   "gold": "Free in the municipal car park with their resident card",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.en7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Autobuses will be rerouted through Avenida de los Olmos, and the bus stop for Plaza Mayor will be moved to Calle Cervantes, 18.",
+   "gold": "Detoured via avenida de los Olmos",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.es1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Del 9 de febrero al 27 de febrero",
+   "gold": "9 to 27 February",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.es2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La obra cuesta 310.000 euros, con la Diputación pagando el 70%. ",
+   "gold": "~310,000 euros; Diputación 70%",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.es3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La parada de la plaza Mayor se traslada a Calle Cervantes, 18.",
+   "gold": "Calle Cervantes 18",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.es4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sí, los peatones y las bicicletas pueden cruzar por una pasarela provisional.",
+   "gold": "Yes, by a temporary footbridge",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.es5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "La concejala de Obras Lucía Ferrer recordó que la reparación del túnel en 2023 se retrasó tres semanas debido a las lluvias.",
+   "gold": "Lucía Ferrer (concejala de Obras); north tunnel repair, 3 weeks, rain",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.es6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Los vecinos de la Ribera pueden aparcar gratis en el aparcamiento municipal con tarjeta de residente.",
+   "gold": "Free in the municipal car park with their resident card",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§2.es7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Los autobuses de la línea 4 irán desviados por Avenida de los Olmos, y la parada de Plaza Mayor se trasladará a Calle Cervantes, 18.",
+   "gold": "Detoured via avenida de los Olmos",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The move is on December 5th, and helpers are supposed to meet at the old apartment at 9 AM.",
+   "gold": "Sat Dec 5; 9 a.m. at the old apartment",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The truck will arrive at 8:30 AM.",
+   "gold": "8:30 a.m.",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.en3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "翔 is not stated to arrive, only that he should arrive at the old apartment. The reason for not arriving earlier is not stated.",
+   "gold": "~1 p.m., directly at the new home; part-time job in the morning",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "健太 will provide lunch, which will be pizza.",
+   "gold": "健太 buys pizza",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.en5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "美咲 will bring the cardboard boxes.",
+   "gold": "美咲, 20",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.en6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "By movers, because there is no elevator; 8,000 yen extra",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.en7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "No, by train: no parking; coin parking costs 400 yen/hour",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.en8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The key must be returned to 鈴木さん by 6 PM.",
+   "gold": "Old apartment key, to landlord 鈴木, by 6 p.m.",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.ja1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "引っ越しは12月5日で、手伝う人は午前9時に旧アパートで集合します。",
+   "gold": "Sat Dec 5; 9 a.m. at the old apartment",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.ja2",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "トラックは午前8時30分に来ます。",
+   "gold": "8:30 a.m.",
+   "override": "8:30"
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.ja3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "翔は来ないことが述べられていますが、なぜもっと早く来ないのかの理由は述べられていません。",
+   "gold": "~1 p.m., directly at the new home; part-time job in the morning",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.ja4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "お昼は健太がピザを用意します。",
+   "gold": "健太 buys pizza",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.ja5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "段ボールは美咲が持ってくる。",
+   "gold": "美咲, 20",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.ja6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "By movers, because there is no elevator; 8,000 yen extra",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.ja7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "No, by train: no parking; coin parking costs 400 yen/hour",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§3.ja8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "鈴木さんに旧アパートの鍵を夕方6時までに返す必要があります。",
+   "gold": "Old apartment key, to landlord 鈴木, by 6 p.m.",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.en1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "From March 16, the Thursday market moves from Garibaldi Square to the communal stadium parking lot.",
+   "gold": "From 16 March, from piazza Garibaldi to the municipal stadium car park",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.en2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "For four months, until the square is repaved.",
+   "gold": "About four months; the square is being repaved",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.en3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Assessor Marco Rinaldi explained the cost, it is 780,000 euros, and half is funded by the Region.",
+   "gold": "Marco Rinaldi (assessore al commercio); 780,000 euros; Regione half",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.en4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "There will be 60 stalls instead of 75, assigned by lottery on March 2 at the municipality.",
+   "gold": "60 instead of 75; by draw on 2 March at the town hall",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.en5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "A free shuttle will run from the station every 20 minutes from 7 to 13.",
+   "gold": "Free, from the station every 20 minutes, 7 to 13",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.en6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "In 2021, the market was moved to Saturday, leading to a 30% drop in sales, so the municipality reduced the tax by 50% until July.",
+   "gold": "Saturday market move cut sales 30% in the first weeks; occupancy tax cut 50% until July",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.en7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dogs are allowed only on a leash.",
+   "gold": "Only on a leash",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.it1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dal 16 marzo, il mercato del giovedì si sposta dalla piazza Garibaldi al parcheggio dello stadio comunale.",
+   "gold": "From 16 March, from piazza Garibaldi to the municipal stadium car park",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.it2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Per quattro mesi, fino a quando la piazza sarà ripavimentata.",
+   "gold": "About four months; the square is being repaved",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.it3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Il Sindaco Marco Rinaldi ha spiegato il costo, che è di 780.000 euro, e metà è finanziata dalla Regione.",
+   "gold": "Marco Rinaldi (assessore al commercio); 780,000 euros; Regione half",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.it4",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "Ci saranno 60 banchi invece di 75, assegnati a sorte il 2 marzo presso la municipalità.",
+   "gold": "60 instead of 75; by draw on 2 March at the town hall",
+   "override": "60 invece di 75, sorte 2 marzo, municipalità"
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.it5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Una navetta gratuita partirà dalla stazione ogni 20 minuti dalle 7 alle 13.",
+   "gold": "Free, from the station every 20 minutes, 7 to 13",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.it6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nel 2021, il mercato è stato spostato al sabato, con un calo delle vendite del 30%, quindi il Comune ha ridotto la tassa del 50% fino a luglio.",
+   "gold": "Saturday market move cut sales 30% in the first weeks; occupancy tax cut 50% until July",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§4.it7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "I cani sono ammessi solo al guinzaglio.",
+   "gold": "Only on a leash",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.en1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Open werkdag 9.00 uur",
+   "gold": "Every working day 9:00, appointment mailbox of De Snelle Spaak (Utrecht)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.en2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.en3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, send to Femke",
+   "gold": "No; forward to Femke de Vries and wait for her answer",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.en4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, Bram Visser (werkplaatschef) mag prijzen geven",
+   "gold": "No; only Bram Visser (werkplaatschef)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.en5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Order number and photo, no free repair",
+   "gold": "Order number and a photo; no",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.en6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes, no",
+   "gold": "Phone: yes. Move: no",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.en7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Joost Bakker, no",
+   "gold": "Joost Bakker; no",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.en8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "werkplaatschef, no eigenaar",
+   "gold": "\"werkplaatschef\"; never \"eigenaar\" (owner)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.en9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.en10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No (only more than 15)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.en11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.en12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Overzicht afspraken morgen, vóór 16.30 uur",
+   "gold": "Overview of tomorrow's appointments, before 16:30",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.nl1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Open werkdag 9.00 uur",
+   "gold": "Every working day 9:00, appointment mailbox of De Snelle Spaak (Utrecht)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.nl2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.nl3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee, stuur naar Femke",
+   "gold": "No; forward to Femke de Vries and wait for her answer",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.nl4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee, Bram Visser (werkplaatschef) mag prijzen geven",
+   "gold": "No; only Bram Visser (werkplaatschef)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.nl5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Order number and photo, no free repair",
+   "gold": "Order number and a photo; no",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.nl6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja, nee",
+   "gold": "Phone: yes. Move: no",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.nl7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Joost Bakker, nooit eigenaar",
+   "gold": "Joost Bakker; no",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.nl8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "werkplaatschef, nooit eigenaar",
+   "gold": "\"werkplaatschef\"; never \"eigenaar\" (owner)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.nl9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ja",
+   "gold": "Yes",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.nl10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee",
+   "gold": "No (only more than 15)",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.nl11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nee",
+   "gold": "No",
+   "override": null
+  },
+  {
+   "method": "c_llmlingua2_r0.66",
+   "id": "§5.nl12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Overzicht afspraken morgen, vóór 16.30 uur",
+   "gold": "Overview of tomorrow's appointments, before 16:30",
+   "override": null
+  }
+ ],
+ "summary": {
+  "mnc15": {
+   "all": [
+    88,
+    94
+   ],
+   "S": [
+    38,
+    40
+   ],
+   "F": [
+    50,
+    54
+   ],
+   "en": [
+    45,
+    47
+   ],
+   "other": [
+    43,
+    47
+   ],
+   "es": [
+    19,
+    20
+   ],
+   "ja": [
+    7,
+    8
+   ],
+   "it": [
+    6,
+    7
+   ],
+   "nl": [
+    11,
+    12
+   ],
+   "P1S": [
+    18,
+    20
+   ],
+   "P5S": [
+    20,
+    20
+   ]
+  },
+  "original": {
+   "all": [
+    91,
+    94
+   ],
+   "S": [
+    38,
+    40
+   ],
+   "F": [
+    53,
+    54
+   ],
+   "en": [
+    46,
+    47
+   ],
+   "other": [
+    45,
+    47
+   ],
+   "es": [
+    18,
+    20
+   ],
+   "ja": [
+    8,
+    8
+   ],
+   "it": [
+    7,
+    7
+   ],
+   "nl": [
+    12,
+    12
+   ],
+   "P1S": [
+    18,
+    20
+   ],
+   "P5S": [
+    20,
+    20
+   ]
+  },
+  "a_terse": {
+   "all": [
+    64,
+    94
+   ],
+   "S": [
+    28,
+    40
+   ],
+   "F": [
+    36,
+    54
+   ],
+   "en": [
+    33,
+    47
+   ],
+   "other": [
+    31,
+    47
+   ],
+   "es": [
+    12,
+    20
+   ],
+   "ja": [
+    7,
+    8
+   ],
+   "it": [
+    3,
+    7
+   ],
+   "nl": [
+    9,
+    12
+   ],
+   "P1S": [
+    12,
+    20
+   ],
+   "P5S": [
+    16,
+    20
+   ]
+  },
+  "b_summarize": {
+   "all": [
+    69,
+    94
+   ],
+   "S": [
+    27,
+    40
+   ],
+   "F": [
+    42,
+    54
+   ],
+   "en": [
+    35,
+    47
+   ],
+   "other": [
+    34,
+    47
+   ],
+   "es": [
+    13,
+    20
+   ],
+   "ja": [
+    6,
+    8
+   ],
+   "it": [
+    7,
+    7
+   ],
+   "nl": [
+    8,
+    12
+   ],
+   "P1S": [
+    13,
+    20
+   ],
+   "P5S": [
+    14,
+    20
+   ]
+  },
+  "c_llmlingua2_r0.66": {
+   "all": [
+    77,
+    94
+   ],
+   "S": [
+    35,
+    40
+   ],
+   "F": [
+    42,
+    54
+   ],
+   "en": [
+    39,
+    47
+   ],
+   "other": [
+    38,
+    47
+   ],
+   "es": [
+    17,
+    20
+   ],
+   "ja": [
+    4,
+    8
+   ],
+   "it": [
+    7,
+    7
+   ],
+   "nl": [
+    10,
+    12
+   ],
+   "P1S": [
+    16,
+    20
+   ],
+   "P5S": [
+    19,
+    20
+   ]
+  }
+ }
+}

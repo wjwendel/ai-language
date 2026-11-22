@@ -1,0 +1,497 @@
+{
+ "written": "2026-11-17 after encoding frozen",
+ "questions": [
+  {
+   "id": "§1.q1",
+   "sec": 1,
+   "type": "F",
+   "hop": 1,
+   "q": "When is the reservations inbox checked?",
+   "gold": "Daily at 9 a.m. and 5 p.m. Eastern",
+   "accept": [
+    "9",
+    "5 ?p|17:00"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q2",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "May you confirm a booking for 3 rooms yourself?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q3",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A group wants 4 rooms. What is needed?",
+   "gold": "Approval from sales manager Olivia Grant",
+   "accept": [
+    "olivia|grant"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q4",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A guest cancels 30 hours before check-in; their flight was cancelled by the airline and they send proof. This is the first waiver for the booking. Can you waive the charge?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q5",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A guest cancels 60 hours before check-in. Is there a charge?",
+   "gold": "No (free until 48 hours before)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q6",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A guest in room 210 asks to bring a dog. Is that allowed?",
+   "gold": "No (pets only in rooms 101-106)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q7",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A guest brings two dogs for three nights in room 103. What is the pet charge?",
+   "gold": "$240",
+   "accept": [
+    "240"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q8",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A guest with a service dog is booked in room 305. Is there a pet charge?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q9",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A caller says she is a guest's mother and asks for his room number. What do you do?",
+   "gold": "Do not give it; offer to pass on a message",
+   "accept": [
+    "(not|never|won.t|can.t|cannot|decline)",
+    "message"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q10",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A guest reports smoke in the hallway. What do you tell the guest, and what do you do yourself, in what order?",
+   "gold": "Tell them to leave by the nearest stairway, not the elevator; call 911 yourself; then text night manager Sam Ortiz",
+   "accept": [
+    "stair",
+    "elevator",
+    "911",
+    "ortiz"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q11",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A non-Gold guest asks for checkout at 12:30 p.m. What does it cost?",
+   "gold": "$30",
+   "accept": [
+    "30"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q12",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A Gold member asks for checkout at 2 p.m. Can you grant it yourself for free?",
+   "gold": "No; needs Olivia's approval",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q13",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Who must never be copied on guest emails?",
+   "gold": "Ruth Kessler, the owner",
+   "accept": [
+    "kessler"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q14",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Is sending Olivia the group-arrivals list at 1 p.m. on Friday on time?",
+   "gold": "No (by noon)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q1",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "When is the inbox checked?",
+   "gold": "Monday to Saturday at 8:30",
+   "accept": [
+    "8[:.]30"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q2",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "An annual member with a medical certificate asks to suspend for 45 days for health reasons. May you do it yourself?",
+   "gold": "No; director Luca Ferraro decides",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q3",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A monthly member with a medical certificate asks to suspend for 10 days. May you?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q4",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A 15-year-old wants to train in the weights room alone; no instructor is there. Allowed?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q5",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "A member reports someone fainted in the gym. What do you tell the staff?",
+   "gold": "Call 118 immediately and use the defibrillator at reception",
+   "accept": [
+    "118",
+    "defibrillat"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q6",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "A member asks when another member usually trains. May you tell them?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q7",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A member moving 30 km away (documented) asks for a refund. Is a refund possible?",
+   "gold": "No (only for more than 50 km)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q8",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A member moving 80 km away (documented) asks for a refund. Who approves it?",
+   "gold": "Only administrator Giulia Conti",
+   "accept": [
+    "conti"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q9",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A person who already had a free trial last year asks for another. May you give it?",
+   "gold": "No (once per person)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q10",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "Is Luca Ferraro the owner of the gym?",
+   "gold": "No; he is the director",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q11",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "Is sending Luca the expiring-memberships list at 12:30 on Monday on time?",
+   "gold": "No (by 12:00)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q12",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "Which memberships go on Monday's list to Luca?",
+   "gold": "Memberships expiring in the next 14 days",
+   "accept": [
+    "14"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q1",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "When and where do the movers arrive?",
+   "gold": "Saturday 12 April at 8:00, at the old house in Zwolle",
+   "accept": [
+    "8",
+    "zwolle"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q2",
+   "sec": 3,
+   "type": "F",
+   "hop": 2,
+   "q": "Why do the belongings go to storage first, and where is it?",
+   "gold": "The new flat is only available from 13:00; storage at Industrieweg 14",
+   "accept": [
+    "13",
+    "industrieweg 14"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q3",
+   "sec": 3,
+   "type": "F",
+   "hop": 2,
+   "q": "The van is rented Friday to Sunday (3 days). What is each person's share of the van cost?",
+   "gold": "€66.75 (3 × €89 = €267, split by four)",
+   "accept": [
+    "66[.,]75"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q4",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "By when must the van be returned on Sunday?",
+   "gold": "Before 12:00",
+   "accept": [
+    "12"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q5",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Who may collect the new flat's key?",
+   "gold": "Only Eva",
+   "accept": [
+    "eva"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q6",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "What must nobody tell grandma about?",
+   "gold": "The new chair (surprise)",
+   "accept": [
+    "chair"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q7",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "How do grandma's medicines travel?",
+   "gold": "Eva takes them herself in the car, not in the van",
+   "accept": [
+    "eva",
+    "car"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q8",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "What happens to the piano?",
+   "gold": "It does not come along; the thrift store collects it on Monday",
+   "accept": [
+    "(thrift|kringloop|second.hand|charity)",
+    "mon"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q1",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "From what date must all new taxis be pure electric?",
+   "gold": "1 January 2027",
+   "accept": [
+    "2027",
+    "jan|1月"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q2",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "About how many taxis in the city are currently not pure electric?",
+   "gold": "About 7,980 (38% of 21,000)",
+   "accept": [
+    "7,?98\\d|8,?000"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q3",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Can a driver still apply for the scrapping subsidy on 31 December 2026?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q4",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "How many fast-charging stations, and when are they in service?",
+   "gold": "120, before June next year",
+   "accept": [
+    "120",
+    "jun"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q5",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "How much more per taxi does the drivers' association want than the current subsidy?",
+   "gold": "¥20,000 more (¥50,000 vs ¥30,000)",
+   "accept": [
+    "20,?000|2万"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q6",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "What exactly did 刘建华 say?",
+   "gold": "“这是全国力度最大的出租车电动化计划之一。”",
+   "accept": [
+    "这是全国力度最大的出租车电动化计划之一"
+   ],
+   "reject": []
+  }
+ ]
+}

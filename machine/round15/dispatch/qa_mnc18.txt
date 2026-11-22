@@ -1,0 +1,88 @@
+TEXT:
+§1 you
+Northfield Youth Soccer League spring registrations: daily 8pm CT check register@northfieldysl.org
+registration closes at 11:59pm Feb 28
+may accept late registration until Mar 7 only if player's age group has open roster spot; late fee $25
+age group by birth year: U10 2017 or later; U12 2015-2016; U14 2013-2014
+never place player in younger age group than birth year allows; may play up one group only with written approval of age-group coordinator
+coordinators: Dana Whitfield U10, Marcus Bell U12, Priyanka Rao U14
+family with ≥2 registered children: 10% off each additional child, not on the first
+refund: requested before Mar 15: full minus $15 processing fee; Mar 15-31: 50%; from Apr 1: none, except season-ending injury with doctor's note, treasurer Tom Alvarez must approve
+never share child's medical info with coaches unless parent ticked "share with coach" on form
+parent reports concussion: tell parent: player must not return to practice until doctor signs league's return-to-play form; notify safety officer Elena Ruiz same day
+send coordinators updated rosters by 6pm every Sun
+
+§2 you
+Clínica Veterinária Bicho Bom Curitiba: Mon-Sat 7:30 check reception WhatsApp + agenda@bichobom.vet
+may book routine consultations alone, any free slot; surgeries: only Dra. Fernanda Lopes (clinical director) books
+owner reports pet ate chocolate / grapes / rat poison / human medicine, or trouble breathing: tell owner: bring animal immediately to 24h emergency service; notify vet on duty; never give treatment advice by message
+cancellation <24h before: R$50 fee, except emergency with own animal
+may give ≤10% discount for animals rescued from registered NGOs; larger: only manager Juliana Prado
+never send animal's record to anyone but registered owner, not even another clinic, without owner's written authorization
+Juliana="manager", never "partner"; partner Dr. Ricardo Alves: never cc on client e-mails
+send Juliana by 18:00 every Fri list of clients with payments overdue >30 days
+
+§3
+Busan city, Nov 3: sea cable car at Haeundae beach area, built by Jul 2027
+total ₩145bn, private investment 70%
+route 4.2 km, 3 stations, max 2,400 passengers/h
+tourism director 박지훈: "성수기 교통 체증을 줄이고 연간 120만 명의 관광객을 추가로 유치하겠다"
+fare adult round trip ₩25,000; age 65+ and elementary students 40% off
+environmental group '바다지킴이': fears damage to migratory bird habitat, demands construction halt
+city: environmental impact assessment results published by Dec 15; residents' briefing Dec 20 14:00 at Haeundae-gu office
+
+§4 you
+Polkart sp. z o.o. Wrocław IT: daily 7:00 check it@polkart.pl + ticket queue
+may reset employee passwords only after phone verification on work number from HR system, never number given in ticket
+„Kadry" folder access: only HR head Anna Wiśniewska grants; accounting system: only chief accountant Piotr Zając
+someone reports suspicious e-mail asking for transfer or account-number change: tell them: click nothing, pay nothing; notify Kamil Nowak (security admin) immediately, also weekends
+new laptops only after handover protocol signed; never hand laptop to third party, even with authorization
+hardware purchases ≤2,000 zł: requesting department head approves; >2,000 zł: CFO Ewa Lis
+Nowak="security admin", never "IT head"; IT head Marek Duda: never cc on replies to employees
+every Fri by 15:00 send Marek Duda list of tickets open >5 working days
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: Which inbox is checked, and at what time?
+§1.q2: On March 5 a family registers a player whose age group has no open roster spot. May you accept the registration?
+§1.q3: On March 6 a family registers a player whose age group still has open spots. May you accept it, and is there an extra charge?
+§1.q4: A child born in 2016 — which age group, and may you place them in U10?
+§1.q5: A U12-aged player wants to play in U14. What is required, and from whom?
+§1.q6: A family registers three children. How many of them get the 10% discount?
+§1.q7: A parent requests a refund on March 15. What refund applies?
+§1.q8: A parent requests a refund on March 14. What refund applies?
+§1.q9: On April 10 a parent asks for a refund because of a season-ending injury and has a doctor's note. Can you approve it yourself?
+§1.q10: A coach asks about a player's asthma; the parent did not tick "share with coach". May you tell the coach?
+§1.q11: A parent reports a concussion. What do you tell the parent, and whom do you notify and when?
+§1.q12: Is sending the updated rosters to the coordinators at 7 p.m. on Sunday on time?
+§2.q1: Which channels are checked, and when?
+§2.q2: A client asks to book a surgery for their dog. May you book it yourself?
+§2.q3: An owner writes that their cat ate a grape an hour ago. What do you tell them, and what else do you do?
+§2.q4: A client cancels 20 hours before the appointment because they are travelling. Is there a fee?
+§2.q5: A client cancels 10 hours before the appointment because their own animal has an emergency. Is there a fee?
+§2.q6: A registered NGO asks for a 15% discount for a rescued dog. May you grant it yourself?
+§2.q7: Another clinic asks for a dog's medical record; the owner has not authorised it in writing. May you send it?
+§2.q8: Is Juliana Prado a partner in the clinic?
+§2.q9: Who must not be copied on client e-mails?
+§2.q10: A client's payment has been overdue for 25 days. Does the client go on Friday's list to Juliana?
+§2.q11: Is sending Juliana the overdue list at 18:30 on Friday on time?
+§3.q1: When was the cable car announced, and by when is it to be installed?
+§3.q2: How much of the total cost comes from private investment, in won?
+§3.q3: How long is the route, how many stations, and what is the maximum capacity?
+§3.q4: What does a 70-year-old pay for a round trip?
+§3.q5: What does the environmental group want, and why?
+§3.q6: By when will the environmental impact assessment results be published?
+§3.q7: When and where is the residents' briefing?
+§3.q8: What did 박지훈 say they aim to attract per year?
+§4.q1: What is checked daily, and when?
+§4.q2: An employee asks for a password reset and asks you to call them back on the mobile number written in the ticket. May you verify on that number?
+§4.q3: Who can grant access to the "Kadry" folder?
+§4.q4: On Saturday an employee reports an e-mail asking them to change a supplier's bank account number. What do you tell them, and what do you do?
+§4.q5: A colleague brings a signed authorisation to collect a new laptop on behalf of an employee. May you hand it over?
+§4.q6: A department requests a 2,000 zł monitor. Who approves it?
+§4.q7: A department requests a 2,400 zł laptop. Who approves it?
+§4.q8: Is Kamil Nowak the IT head?
+§4.q9: Who must not be copied on replies to employees?
+§4.q10: A ticket has been open for 4 working days on Friday. Does it go on the list to Marek Duda?
+§4.q11: Is sending the Friday list at 14:00 on time?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

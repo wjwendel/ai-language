@@ -1,0 +1,661 @@
+{
+ "written": "2026-11-18 from originals.txt before any round-21 encoding; sealed questions not opened",
+ "facts": [
+  {
+   "id": "P1.1",
+   "sec": 1,
+   "type": "F",
+   "text": "Maple Hollow Veterinary Clinic; weekdays 8:00, 12:30, 17:00; Saturdays once 9:00; check appointments@maplehollowvet.com",
+   "must": [
+    "Maple Hollow",
+    "(weekday|Mon-Fri)",
+    "8:00",
+    "12:30",
+    "(5 ?pm|17:00)",
+    "Sat",
+    "(once|9:00)",
+    "9:00",
+    "appointments@maplehollowvet\\.com"
+   ]
+  },
+  {
+   "id": "P1.2",
+   "sec": 1,
+   "type": "S",
+   "text": "may issue account credits or refunds alone up to $40 per client; above $40 approved by practice owner Dr. Priya Okonkwo",
+   "must": [
+    "may",
+    "credit",
+    "refund",
+    "≤\\s*\\$40",
+    "client",
+    ">\\s*\\$40",
+    "Priya Okonkwo",
+    "(approv|ok)"
+   ]
+  },
+  {
+   "id": "P1.3",
+   "sec": 1,
+   "type": "S",
+   "text": "Tomas Reyes is office manager, not a veterinarian; never forward medical questions to him for an answer",
+   "must": [
+    "Reyes\\s*=",
+    "never \"?(vet|veterinarian)",
+    "never forward",
+    "medical question",
+    "Tomas"
+   ]
+  },
+  {
+   "id": "P1.4",
+   "sec": 1,
+   "type": "S",
+   "text": "never contact or copy landlord Lena Fairchild about any patient or client matter",
+   "must": [
+    "never contact",
+    "(copy|cc)",
+    "Lena Fairchild",
+    "landlord",
+    "patient",
+    "client"
+   ]
+  },
+  {
+   "id": "P1.5",
+   "sec": 1,
+   "type": "S",
+   "text": "never give medication dosage advice",
+   "must": [
+    "never give",
+    "medication",
+    "dos"
+   ]
+  },
+  {
+   "id": "P1.6",
+   "sec": 1,
+   "type": "S",
+   "text": "never share one client's details with another client",
+   "must": [
+    "never share",
+    "client",
+    "detail",
+    "(another|other) client"
+   ]
+  },
+  {
+   "id": "P1.7",
+   "sec": 1,
+   "type": "S",
+   "text": "reschedule requested less than 24h before appointment: $25 late-change fee; except senior pet over 12 years old: fee waived",
+   "must": [
+    "reschedul",
+    "<\\s*24\\s*h\\w* before (the )?appointment",
+    "\\$25",
+    "late-change fee",
+    "except",
+    "senior",
+    "(>\\s*12|over 12) ?(y|years)",
+    "waiv"
+   ]
+  },
+  {
+   "id": "P1.8",
+   "sec": 1,
+   "type": "S",
+   "text": "answer prescription refill requests by 15:00 same day they arrive; arriving after 15:00: by noon next business day",
+   "must": [
+    "(answer|reply)",
+    "prescription refill",
+    "by (3 ?pm|15:00)",
+    "same day",
+    "after (3 ?pm|15:00)",
+    "by (noon|12:00)",
+    "next business day"
+   ]
+  },
+  {
+   "id": "P1.9",
+   "sec": 1,
+   "type": "S",
+   "text": "email describing poisoning, seizure or difficulty breathing: call on-call vet 555-0147 yourself immediately; then tell client: bring pet straight to clinic, not wait for appointment",
+   "must": [
+    "poison",
+    "seizure",
+    "breath",
+    "call 555-0147",
+    "on-call (vet|veterinarian)",
+    "yourself",
+    "immediately",
+    "then",
+    "tell client\\s*:",
+    "bring",
+    "pet",
+    "(straight|directly)",
+    "clinic",
+    "(not|never|don.t) wait",
+    "appointment"
+   ]
+  },
+  {
+   "id": "P1.10",
+   "sec": 1,
+   "type": "S",
+   "text": "every appointment confirmation ends with exact \"Please bring your pet's vaccination record to every visit.\"",
+   "must": [
+    "appointment confirmation",
+    "end",
+    "\"Please bring your pet\\'s vaccination record to every visit\\.\""
+   ]
+  },
+  {
+   "id": "P1.11",
+   "sec": 1,
+   "type": "S",
+   "text": "every Friday at 16:00 send Tomas Reyes summary of week's bookings, cancellations, credits issued",
+   "must": [
+    "(every|each) Fri",
+    "at (4 ?pm|16:00)",
+    "send",
+    "Tomas",
+    "summary",
+    "booking",
+    "cancellation",
+    "credit"
+   ]
+  },
+  {
+   "id": "P2.1",
+   "sec": 2,
+   "type": "F",
+   "text": "해오름마을 2단지 management office notice; regular water tank cleaning",
+   "must": [
+    "해오름마을",
+    "2단지",
+    "(management office|관리사무소)",
+    "water tank",
+    "clean"
+   ]
+  },
+  {
+   "id": "P2.2",
+   "sec": 2,
+   "type": "S",
+   "text": "Dec 3 Thu 09:00-16:00 water outage for all units of buildings 101, 102, 103",
+   "must": [
+    "Dec ?3",
+    "Thu",
+    "0?9:00",
+    "16:00",
+    "101",
+    "102",
+    "103",
+    "(outage|water off|no water|water cut)",
+    "all (units|households)"
+   ]
+  },
+  {
+   "id": "P2.3",
+   "sec": 2,
+   "type": "S",
+   "text": "building 104 not cut Dec 3 (separate piping); instead outage Dec 5 Sat 10:00-13:00",
+   "must": [
+    "104",
+    "(excluded|not|except|no outage)",
+    "separate pip",
+    "Dec ?5",
+    "Sat",
+    "10:00",
+    "13:00"
+   ]
+  },
+  {
+   "id": "P2.4",
+   "sec": 2,
+   "type": "S",
+   "text": "evening before, Dec 2 Wed: residents store water in bathtub or large container",
+   "must": [
+    "Dec ?2",
+    "Wed",
+    "evening",
+    "(bathtub|tub)",
+    "(container|bucket)",
+    "(store|fill|collect)"
+   ]
+  },
+  {
+   "id": "P2.5",
+   "sec": 2,
+   "type": "S",
+   "text": "outage day from 08:00 in front of management office: 2 bottles of 2L water per household free; extra 800 won per bottle",
+   "must": [
+    "from 0?8:00",
+    "(front|outside)",
+    "management office",
+    "2 ?L",
+    "2 bottles",
+    "household",
+    "free",
+    "(extra|additional|more)",
+    "(800 ?(won|₩|KRW)|₩ ?800)",
+    "bottle"
+   ]
+  },
+  {
+   "id": "P2.6",
+   "sec": 2,
+   "type": "S",
+   "text": "cleaning cost 3,500 won per household, billed with December maintenance fee",
+   "must": [
+    "3,?500",
+    "household",
+    "Dec",
+    "maintenance fee",
+    "(bill|charg)"
+   ]
+  },
+  {
+   "id": "P2.7",
+   "sec": 2,
+   "type": "S",
+   "text": "after work first tap water may be cloudy; let run about 3 min before use",
+   "must": [
+    "(cloud|murky|turbid)",
+    "3 ?min",
+    "(run|flow)",
+    "before (use|using)"
+   ]
+  },
+  {
+   "id": "P2.8",
+   "sec": 2,
+   "type": "S",
+   "text": "during outage no boiler hot water; switch boiler to away/outing mode",
+   "must": [
+    "boiler",
+    "hot water",
+    "(away|outing|out) mode",
+    "(switch|set)"
+   ]
+  },
+  {
+   "id": "P2.9",
+   "sec": 2,
+   "type": "S",
+   "text": "households with mobility-impaired elderly or infants: apply to office by Dec 1 Tue 18:00 -> staff deliver water to door",
+   "must": [
+    "(elderly|senior)",
+    "(mobility|disab|impair)",
+    "(infant|young child|toddler|bab)",
+    "(apply|request)",
+    "by 18:00",
+    "Dec ?1",
+    "Tue",
+    "staff",
+    "deliver",
+    "door"
+   ]
+  },
+  {
+   "id": "P2.10",
+   "sec": 2,
+   "type": "S",
+   "text": "schedule may change due to weather/site; changes announced on elevator board and complex broadcast",
+   "must": [
+    "weather",
+    "change",
+    "elevator",
+    "(broadcast|announcement)"
+   ]
+  },
+  {
+   "id": "P2.11",
+   "sec": 2,
+   "type": "S",
+   "text": "inquiries: office chief 김도윤 010-4821-7735 weekdays 09:00-18:00",
+   "must": [
+    "김도윤",
+    "010-4821-7735",
+    "weekday",
+    "0?9:00",
+    "18:00"
+   ]
+  },
+  {
+   "id": "P2.12",
+   "sec": 2,
+   "type": "F",
+   "text": "parking lot and shopping building unaffected",
+   "must": [
+    "parking",
+    "(shop|commercial|상가)",
+    "(not affected|unaffected|no outage|excluded|not cut)"
+   ]
+  },
+  {
+   "id": "P3.1",
+   "sec": 3,
+   "type": "F",
+   "text": "Oficina Pedal Firme bike workshop Curitiba; Mon-Sat 9:00 and 14:00 check contato@pedalfirme.com.br",
+   "must": [
+    "Pedal Firme",
+    "Curitiba",
+    "(bike|bicycle)",
+    "Mon-Sat",
+    "9:00",
+    "14:00",
+    "contato@pedalfirme\\.com\\.br"
+   ]
+  },
+  {
+   "id": "P3.2",
+   "sec": 3,
+   "type": "S",
+   "text": "may give discounts alone up to R$30 per service; above R$30 need approval of owner-partner Mariana Lopes",
+   "must": [
+    "may",
+    "discount",
+    "≤\\s*R\\$ ?30",
+    "service",
+    ">\\s*R\\$ ?30",
+    "approv",
+    "Mariana Lopes"
+   ]
+  },
+  {
+   "id": "P3.3",
+   "sec": 3,
+   "type": "S",
+   "text": "Rafael Teixeira head mechanic, not owner; does not approve discounts or refunds",
+   "must": [
+    "Teixeira\\s*=",
+    "never \"?owner",
+    "(not|never|doesn.t) approve",
+    "discount",
+    "refund"
+   ]
+  },
+  {
+   "id": "P3.4",
+   "sec": 3,
+   "type": "S",
+   "text": "never copy external accountant Juliana Prado on customer complaints",
+   "must": [
+    "never (cc|copy)",
+    "Juliana Prado",
+    "accountant",
+    "complaint"
+   ]
+  },
+  {
+   "id": "P3.5",
+   "sec": 3,
+   "type": "S",
+   "text": "never promise delivery date without checking workshop schedule",
+   "must": [
+    "never promise",
+    "delivery date",
+    "without (check|consult)",
+    "(schedule|agenda|calendar)"
+   ]
+  },
+  {
+   "id": "P3.6",
+   "sec": 3,
+   "type": "S",
+   "text": "never ask for credit card number by email",
+   "must": [
+    "never ask",
+    "credit card number",
+    "e-?mail"
+   ]
+  },
+  {
+   "id": "P3.7",
+   "sec": 3,
+   "type": "S",
+   "text": "quote free except e-bikes: R$50, deducted if customer approves repair",
+   "must": [
+    "(quote|estimate)",
+    "free",
+    "except",
+    "(e-?bike|electric)",
+    "R\\$ ?50",
+    "(deduct|credit|subtract)",
+    "approv",
+    "repair"
+   ]
+  },
+  {
+   "id": "P3.8",
+   "sec": 3,
+   "type": "S",
+   "text": "answer every quote request within 24h of receipt",
+   "must": [
+    "(answer|reply|respond)",
+    "quote request",
+    "within 24\\s*h",
+    "(receipt|receiv)"
+   ]
+  },
+  {
+   "id": "P3.9",
+   "sec": 3,
+   "type": "S",
+   "text": "accident from failure of brake or other part repaired by shop: call Rafael (41) 99812-3406 yourself immediately; tell customer: not use bike; shop picks it up free",
+   "must": [
+    "accident",
+    "brake",
+    "part",
+    "repaired",
+    "call \\(41\\) 99812-3406",
+    "Rafael",
+    "yourself",
+    "immediately",
+    "tell customer\\s*:",
+    "(not|don.t|never) use",
+    "bike",
+    "pick",
+    "(free|no cost|no charge)"
+   ]
+  },
+  {
+   "id": "P3.10",
+   "sec": 3,
+   "type": "S",
+   "text": "every quote sent ends with exact \"Este orçamento é válido por 7 dias.\"",
+   "must": [
+    "quote",
+    "end",
+    "\"Este orçamento é válido por 7 dias\\.\""
+   ]
+  },
+  {
+   "id": "P3.11",
+   "sec": 3,
+   "type": "S",
+   "text": "Saturday service appointments can only be confirmed by Friday 17:00",
+   "must": [
+    "Sat",
+    "(service|tune-up|check-up|revis)",
+    "only",
+    "confirm",
+    "by Fri 17:00"
+   ]
+  },
+  {
+   "id": "P3.12",
+   "sec": 3,
+   "type": "S",
+   "text": "every Monday at 8:30 send Mariana report of previous week: quotes sent, approved, discounts given",
+   "must": [
+    "(every|each) Mon",
+    "at 8:30",
+    "send",
+    "Mariana",
+    "report",
+    "quotes sent",
+    "approved",
+    "discount",
+    "(previous|last|prior) week"
+   ]
+  },
+  {
+   "id": "P4.1",
+   "sec": 4,
+   "type": "F",
+   "text": "Kavşak coworking space İzmir Alsancak; weekdays 08:30, 13:00, 17:30 check rezervasyon@kavsakcowork.com.tr",
+   "must": [
+    "Kavşak",
+    "İzmir",
+    "Alsancak",
+    "(cowork|co-work)",
+    "weekday",
+    "0?8:30",
+    "13:00",
+    "17:30",
+    "rezervasyon@kavsakcowork\\.com\\.tr"
+   ]
+  },
+  {
+   "id": "P4.2",
+   "sec": 4,
+   "type": "S",
+   "text": "may extend meeting room bookings alone up to 2h; extensions over 2h need approval of operations manager Selin Aydın",
+   "must": [
+    "may",
+    "extend",
+    "meeting room",
+    "≤\\s*2\\s*h",
+    ">\\s*2\\s*h",
+    "approv",
+    "Selin Aydın"
+   ]
+  },
+  {
+   "id": "P4.3",
+   "sec": 4,
+   "type": "S",
+   "text": "Burak Demir technical lead, not accountant; never route invoice questions to him; forward to accountant Cem Yıldız",
+   "must": [
+    "Demir\\s*=",
+    "never \"?accountant",
+    "never (route|forward|send)",
+    "invoice question",
+    "forward",
+    "Cem Yıldız"
+   ]
+  },
+  {
+   "id": "P4.4",
+   "sec": 4,
+   "type": "S",
+   "text": "never cc building manager Elif Şahin about member invoices",
+   "must": [
+    "never cc",
+    "Elif Şahin",
+    "building manager",
+    "member invoice"
+   ]
+  },
+  {
+   "id": "P4.5",
+   "sec": 4,
+   "type": "S",
+   "text": "never share door entry codes by email",
+   "must": [
+    "never share",
+    "door",
+    "code",
+    "e-?mail"
+   ]
+  },
+  {
+   "id": "P4.6",
+   "sec": 4,
+   "type": "S",
+   "text": "never accept Meeting Room B bookings for more than 12 people",
+   "must": [
+    "never accept",
+    "Room B",
+    ">\\s*12 (people|persons)"
+   ]
+  },
+  {
+   "id": "P4.7",
+   "sec": 4,
+   "type": "S",
+   "text": "free cancellation up to 24h before; monthly members up to 2h before; later cancellations: half hourly rate = 150 TL per hour",
+   "must": [
+    "cancel",
+    "free",
+    "≥\\s*24\\s*h\\w* before",
+    "monthly member",
+    "≥\\s*2\\s*h\\w* before",
+    "(later|less than|<)",
+    "half",
+    "hourly rate",
+    "150 TL",
+    "(hour|/h)"
+   ]
+  },
+  {
+   "id": "P4.8",
+   "sec": 4,
+   "type": "S",
+   "text": "answer invoice requests by 18:00 same business day",
+   "must": [
+    "(answer|reply)",
+    "invoice request",
+    "by 18:00",
+    "same business day"
+   ]
+  },
+  {
+   "id": "P4.9",
+   "sec": 4,
+   "type": "S",
+   "text": "fire, water leak or stuck in elevator reported: call Burak Demir 0532 417 88 26 yourself immediately; tell member: leave area, wait at reception",
+   "must": [
+    "fire",
+    "leak",
+    "(elevator|lift)",
+    "(trap|stuck)",
+    "call 0532 417 88 26",
+    "Burak",
+    "yourself",
+    "immediately",
+    "tell member\\s*:",
+    "leave",
+    "area",
+    "wait",
+    "reception"
+   ]
+  },
+  {
+   "id": "P4.10",
+   "sec": 4,
+   "type": "S",
+   "text": "every booking confirmation starts with exact \"Kavşak'ı tercih ettiğiniz için teşekkür ederiz.\"",
+   "must": [
+    "(booking|reservation) confirmation",
+    "start",
+    "\"Kavşak\\'ı tercih ettiğiniz için teşekkür ederiz\\.\""
+   ]
+  },
+  {
+   "id": "P4.11",
+   "sec": 4,
+   "type": "S",
+   "text": "every Thursday at 17:00 send Selin Aydın weekly occupancy report",
+   "must": [
+    "(every|each) Thu",
+    "at 17:00",
+    "send",
+    "Selin",
+    "weekly occupancy report"
+   ]
+  }
+ ]
+}

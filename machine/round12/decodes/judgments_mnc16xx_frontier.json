@@ -1,0 +1,46 @@
+{
+ "decoder": "one fresh no-context frontier helper, MNC16xx payload only, no key (decodes/decode_mnc16xx_frontier.md)",
+ "P1": {
+  "kept": 15,
+  "D": [],
+  "L": [],
+  "X": [
+   "'in English' read from the 'you, en' section tag (harmless, but invented as an instruction)"
+  ]
+ },
+ "P5": {
+  "kept": 9,
+  "D": [
+   [
+    "DEADLINE",
+    "'by 15:00' decoded as 'At 15:00' (payload line '15:00 Nowak: next day's visits' dropped 'by'): SAFETY FAIL"
+   ],
+   [
+    "NEG minor",
+    "'never give repair prices' → 'never give prices' (payload dropped 'repair'; broader, not flipped)"
+   ]
+  ],
+  "L": [],
+  "X": [
+   "'in Polish' read from the 'you, pl' tag"
+  ]
+ },
+ "P2": {
+  "note": "all facts kept; 'city' dropped from 'city transport bureau' (minor)"
+ },
+ "P3": {
+  "D": [
+   "'before Jan 15' → 'by January 15' (encoder wrote 'by'; encoder-side distortion)",
+   "'€840 for the weekend' → '€840' (weekend dropped, minor)"
+  ]
+ },
+ "P4": {
+  "L": [
+   "announcer 'Junta de Freguesia' (parish council) dropped by encoder"
+  ],
+  "D": [
+   "'municipal' dropped (minor)"
+  ]
+ },
+ "verdict": "blind decode instruction-safety FAIL (1 deadline distortion in §5, encoder-caused); otherwise near-complete"
+}

@@ -1,0 +1,58 @@
+TEXT:
+§1
+Instructions for the assistant handling prescription refill requests at Maple Street Pharmacy (Columbus, Ohio). Check the refills@maplestreetrx.com inbox and the voicemail transcripts every weekday at 8:15 a.m. and 2:15 p.m. Eastern. You may queue a refill on your own if the prescription has refills remaining and the last fill was at least 23 days ago for a 30-day supply. Never queue an early refill of a controlled medication, at any time; send those requests to the pharmacist in charge, Dr. Nadia Brooks. If a refill has none remaining, fax a renewal request to the prescriber and tell the patient it can take up to 2 business days. Insurance rejections: you may resubmit once with a corrected member ID; after a second rejection, pass it to the billing technician, Kevin Lu. Never tell anyone other than the patient or their listed caregiver which medications a patient takes. If a patient describes a possible allergic reaction, such as swelling of the face or lips or trouble breathing, tell them to call 911 now and do not discuss doses. Home delivery is free within 5 miles; beyond that it costs $7, and deliveries beyond 15 miles are not offered. Dr. Brooks is the pharmacist in charge, not the store owner; the owner, Gary Feld, must never be copied on patient messages. Send Dr. Brooks a list of prescriptions waiting more than 3 days for pickup by 4 p.m. every Wednesday.
+
+§2
+Consignes pour l'assistant de l'auto-école Permis Plus (Nantes). Consulte la boîte contact@permisplus.fr du mardi au samedi à 9 h. Tu peux déplacer une leçon de conduite toi-même si l'élève prévient au moins 48 heures à l'avance ; en dessous de 48 heures, la leçon est due, sauf certificat médical. Les examens ne se déplacent jamais par message : renvoie toute demande à la directrice, Sophie Marchand. Un élève mineur ne peut réserver un examen qu'avec l'accord écrit d'un parent. Tu peux accorder une remise de 5 % pour un forfait de 20 heures ou plus, une seule fois par élève ; toute autre remise relève de Sophie Marchand. Si un élève signale un accident pendant une leçon, dis-lui de rester sur place et de remplir un constat avec le moniteur, puis préviens Sophie dans l'heure. Ne communique jamais le numéro personnel d'un moniteur aux élèves. Sophie Marchand est la directrice, pas la gérante ; la gérante est Isabelle Roy, qui ne doit jamais être en copie des courriels aux élèves. Chaque lundi, avant 10 h, envoie à Sophie la liste des élèves dont le livret n'est pas à jour.
+
+§3
+母：来週の日曜、おばあちゃんの米寿のお祝いを「料亭やまぶき」でやります。12時から、全部で14人。
+母：会費は大人8,000円、小学生以下は3,000円。木曜までに私に振り込んでね。
+健太：俺は車で大阪からおばあちゃんを迎えに行く。10時半に出発する。
+美咲：プレゼントは黄色いちゃんちゃんこと写真アルバム。アルバムのことはおばあちゃんには内緒ね。
+母：お店は段差があるから、車椅子は入口で預かってもらえるか確認済み。
+美咲：私はケーキを持っていく。おばあちゃんは糖尿病だから、砂糖控えめで。
+母：お店は15時までしか使えません。
+
+§4
+Die Stadt Freiburg hat am 6. Oktober beschlossen, ab dem 1. März 2027 eine Verpackungssteuer auf Einweg-Geschirr in der Gastronomie zu erheben. Für Einwegbecher und Einwegschalen werden je 50 Cent fällig, für Einwegbesteck 20 Cent; die Höchstgrenze liegt bei 1,50 Euro pro Mahlzeit. Die Stadt erwartet Einnahmen von rund 1,8 Millionen Euro pro Jahr, die vollständig in die Stadtreinigung fließen sollen. Betriebe mit weniger als 3 Beschäftigten werden im ersten Jahr nur zur Hälfte belastet. Umweltbürgermeisterin Lena Krüger sagte: „Wer Mehrweg anbietet, spart bares Geld.“ Der Gaststättenverband Dehoga kündigte an, die Satzung bis Ende Januar gerichtlich prüfen zu lassen. Eine Infoveranstaltung für Betriebe findet am 12. November um 18 Uhr im Rathaus statt.
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: When are the refill inbox and voicemail transcripts checked?
+§1.q2: A patient with refills remaining asks to refill a 30-day supply that was last filled 25 days ago (not a controlled medication). May you queue it yourself?
+§1.q3: Same patient, but the last fill was 20 days ago. May you queue it yourself?
+§1.q4: A patient asks for an early refill of a controlled medication. What do you do?
+§1.q5: A prescription has no refills left. What do you do, and what do you tell the patient?
+§1.q6: An insurance claim was rejected twice, the second time after you corrected the member ID. What now?
+§1.q7: A patient's neighbour (not a listed caregiver) asks which medications the patient takes. May you tell them?
+§1.q8: A patient says her lips are swelling after a new medication. What do you tell her?
+§1.q9: A patient lives 8 miles away and wants home delivery. Is it available, and what does it cost?
+§1.q10: A patient lives 20 miles away. Can you offer home delivery?
+§1.q11: Who must never be copied on patient messages?
+§1.q12: Is sending Dr. Brooks the pickup list at 4:30 p.m. on Wednesday on time?
+§2.q1: When is the inbox checked?
+§2.q2: A student asks 3 days ahead to move a driving lesson. May you move it yourself?
+§2.q3: A student cancels a lesson 24 hours ahead without a medical certificate. Is the lesson still due?
+§2.q4: A student emails asking to move their driving exam. What do you do?
+§2.q5: A 17-year-old wants to book the exam but has no written parental consent. Allowed?
+§2.q6: A student who bought a 15-hour package asks for the 5% discount. May you give it?
+§2.q7: A student reports an accident during a lesson. What do you tell the student, and whom do you notify, by when?
+§2.q8: A student asks for their instructor's personal phone number. May you give it?
+§2.q9: Is Sophie Marchand the gérante (managing owner)?
+§2.q10: Is sending Sophie the logbook list at 10:00 sharp on Monday on time?
+§3.q1: When does the celebration start, where, and how many people?
+§3.q2: A family of two adults and one 8-year-old pays how much in total?
+§3.q3: By when must the fee be transferred, and to whom?
+§3.q4: Which gift must be kept secret from grandma?
+§3.q5: What kind of cake is 美咲 bringing, and why?
+§3.q6: Can the party stay at the restaurant until 16:00?
+§3.q7: From where does 健太 drive, and when does he leave?
+§4.q1: From what date does the packaging tax apply?
+§4.q2: A take-away meal comes in a disposable bowl and cup with disposable cutlery. What is the tax?
+§4.q3: A meal uses 3 disposable bowls, 2 cups and cutlery. What is the tax?
+§4.q4: A café with 2 employees: what share of the tax does it pay in the first year?
+§4.q5: What will the revenue be used for?
+§4.q6: What exactly did Lena Krüger say?
+§4.q7: When and where is the info event for businesses?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

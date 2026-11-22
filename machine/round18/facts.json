@@ -1,0 +1,458 @@
+{
+ "written": "2026-11-17 before any round-18 encoding",
+ "facts": [
+  {
+   "id": "P1.1",
+   "sec": 1,
+   "type": "F",
+   "text": "Foundry Coworking Denver; weekdays 8 a.m. and 1 p.m. Mountain check hello@foundrycowork.com",
+   "must": [
+    "Foundry Coworking",
+    "Denver",
+    "(weekday|Mon-Fri)",
+    "(8 ?am|8:00)",
+    "(1 ?pm|13:00)",
+    "(MT|Mountain)",
+    "hello@foundrycowork\\.com"
+   ]
+  },
+  {
+   "id": "P1.2",
+   "sec": 1,
+   "type": "S",
+   "text": "may book meeting rooms alone up to 4 h/day; longer needs community manager Keisha Morales",
+   "must": [
+    "may",
+    "meeting room",
+    "≤\\s*4\\s*h",
+    "(day)",
+    "longer",
+    "Keisha Morales"
+   ]
+  },
+  {
+   "id": "P1.3",
+   "sec": 1,
+   "type": "S",
+   "text": "hosting member registers guests ≥24h before arrival; member asks <24h ahead: may add up to 2 guests; more needs Keisha",
+   "must": [
+    "member",
+    "regist",
+    "≥\\s*24\\s*h before arrival",
+    "<\\s*24\\s*h",
+    "may add",
+    "≤\\s*2 guests",
+    "Keisha"
+   ]
+  },
+  {
+   "id": "P1.4",
+   "sec": 1,
+   "type": "S",
+   "text": "Day Pass members can never book podcast studio",
+   "must": [
+    "Day Pass",
+    "(never|no|cannot)",
+    "podcast studio"
+   ]
+  },
+  {
+   "id": "P1.5",
+   "sec": 1,
+   "type": "S",
+   "text": "room booking cancelled <2h before start: charged in full, except building power or internet outage",
+   "must": [
+    "cancel",
+    "<\\s*2\\s*h before",
+    "(full|in full)",
+    "except",
+    "power",
+    "internet"
+   ]
+  },
+  {
+   "id": "P1.6",
+   "sec": 1,
+   "type": "S",
+   "text": "members return borrowed equipment (projectors, microphones) by 6 p.m. same day; if not: email member reminder, copy Keisha",
+   "must": [
+    "member",
+    "return",
+    "equipment",
+    "projector",
+    "microphone",
+    "by (6 ?pm|18:00)",
+    "same day",
+    "email",
+    "reminder",
+    "(copy|cc) Keisha"
+   ]
+  },
+  {
+   "id": "P1.7",
+   "sec": 1,
+   "type": "S",
+   "text": "never give member office number or desk location to visitors; call member to reception instead",
+   "must": [
+    "never",
+    "office number",
+    "desk",
+    "visitor",
+    "call",
+    "reception"
+   ]
+  },
+  {
+   "id": "P1.8",
+   "sec": 1,
+   "type": "S",
+   "text": "water leak: tell reporter not to touch electrical equipment near it; call facilities line (303) 555-0187 yourself; then message Keisha",
+   "must": [
+    "water leak",
+    "tell (them|reporter)\\s*:",
+    "(not|never|don.t) touch",
+    "electric",
+    "\\(303\\) 555-0187",
+    "yourself",
+    "then",
+    "Keisha"
+   ]
+  },
+  {
+   "id": "P1.9",
+   "sec": 1,
+   "type": "S",
+   "text": "Keisha community manager not owner; owner Paul Brandt never cc on member emails",
+   "must": [
+    "Keisha\\s*=",
+    "never \"?owner",
+    "Paul Brandt",
+    "never cc"
+   ]
+  },
+  {
+   "id": "P1.10",
+   "sec": 1,
+   "type": "S",
+   "text": "every Monday before noon send Keisha list of invoices unpaid >15 days",
+   "must": [
+    "Mon",
+    "before (noon|12:00)",
+    "list",
+    "invoice",
+    "unpaid",
+    ">\\s*15\\s*d"
+   ]
+  },
+  {
+   "id": "P2.1",
+   "sec": 2,
+   "type": "F",
+   "text": "Colegio San Martín Guadalajara Mexico school transport; Mon-Fri 6:00 check transporte@colegiosanmartin.mx",
+   "must": [
+    "San Martín",
+    "Guadalajara",
+    "Mon-Fri",
+    "6:00",
+    "transporte@colegiosanmartin\\.mx"
+   ]
+  },
+  {
+   "id": "P2.2",
+   "sec": 2,
+   "type": "S",
+   "text": "may change student stop for one day only if registered parent/guardian asks in writing ≥12h before; permanent changes only coordinator Laura Méndez",
+   "must": [
+    "may",
+    "stop",
+    "one day|1 day",
+    "only if",
+    "registered",
+    "(writing|written)",
+    "≥\\s*12\\s*h",
+    "permanent",
+    "only",
+    "Laura Méndez"
+   ]
+  },
+  {
+   "id": "P2.3",
+   "sec": 2,
+   "type": "S",
+   "text": "primary students never get off bus without authorized adult from their list present; if none: student returns to school and you call guardian",
+   "must": [
+    "primary",
+    "never",
+    "authori[sz]ed adult",
+    "list",
+    "(returns?|back) to school",
+    "call",
+    "guardian"
+   ]
+  },
+  {
+   "id": "P2.4",
+   "sec": 2,
+   "type": "S",
+   "text": "secondary students may get off alone if guardian signed annual permission",
+   "must": [
+    "secondary",
+    "may",
+    "alone",
+    "guardian",
+    "sign",
+    "annual"
+   ]
+  },
+  {
+   "id": "P2.5",
+   "sec": 2,
+   "type": "S",
+   "text": "parent reports child not home: tell parent: call route driver immediately; you notify Laura Méndez and the principal office within <10 min",
+   "must": [
+    "not (arrive|home|come)",
+    "tell (parent|them)\\s*:",
+    "call",
+    "driver",
+    "(immediately|now)",
+    "Méndez",
+    "(principal|direction|dirección)",
+    "<\\s*10\\s*min"
+   ]
+  },
+  {
+   "id": "P2.6",
+   "sec": 2,
+   "type": "S",
+   "text": "transport fees paid before the 5th of each month; guardian sends payment receipt to school email",
+   "must": [
+    "fee",
+    "before (the )?5",
+    "month",
+    "guardian",
+    "send",
+    "receipt"
+   ]
+  },
+  {
+   "id": "P2.7",
+   "sec": 2,
+   "type": "S",
+   "text": "never share live bus location with anyone except registered guardian",
+   "must": [
+    "never",
+    "(live|real-time)",
+    "location",
+    "(except|but|unless)",
+    "registered guardian"
+   ]
+  },
+  {
+   "id": "P2.8",
+   "sec": 2,
+   "type": "S",
+   "text": "Laura transport coordinator not principal; principal Lic. Jorge Ríos not cc on parent emails except emergencies",
+   "must": [
+    "Méndez\\s*=|Laura\\s*=",
+    "never \"?(principal|director)",
+    "Jorge Ríos",
+    "(never cc|no cc)",
+    "except",
+    "emergenc"
+   ]
+  },
+  {
+   "id": "P2.9",
+   "sec": 2,
+   "type": "S",
+   "text": "every Friday before 14:00 send Laura weekly delay report",
+   "must": [
+    "Fri",
+    "before 14:00",
+    "delay",
+    "report"
+   ]
+  },
+  {
+   "id": "P3.1",
+   "sec": 3,
+   "type": "F",
+   "text": "Jonas: TSV Lindau club fest Sat Jun 6 from 14:00 at sports field by the lake",
+   "must": [
+    "Jonas",
+    "TSV Lindau",
+    "Sat",
+    "Jun ?6",
+    "from 14:00",
+    "(lake|See)"
+   ]
+  },
+  {
+   "id": "P3.2",
+   "sec": 3,
+   "type": "F",
+   "text": "~250 guests; free entry; children under 6 get a free drink",
+   "must": [
+    "250",
+    "free",
+    "<\\s*6|under 6",
+    "drink"
+   ]
+  },
+  {
+   "id": "P3.3",
+   "sec": 3,
+   "type": "S",
+   "text": "Mira: cakes handed in by Fri 18:00 at clubhouse; no cream cakes (heat)",
+   "must": [
+    "Mira",
+    "cake",
+    "by Fri 18:00",
+    "clubhouse|Vereinsheim",
+    "no cream",
+    "heat"
+   ]
+  },
+  {
+   "id": "P3.4",
+   "sec": 3,
+   "type": "F",
+   "text": "Felix: bouncy castle €180/day, club pays €100, parents council pays rest",
+   "must": [
+    "Felix",
+    "(bouncy castle|Hüpfburg)",
+    "180",
+    "100",
+    "(parents|Elternbeirat)",
+    "rest"
+   ]
+  },
+  {
+   "id": "P3.5",
+   "sec": 3,
+   "type": "F",
+   "text": "Jonas: two more grill helpers needed 17-20",
+   "must": [
+    "(2|two)",
+    "grill",
+    "17",
+    "20"
+   ]
+  },
+  {
+   "id": "P3.6",
+   "sec": 3,
+   "type": "S",
+   "text": "Mira: glass bottles banned on the field (city condition)",
+   "must": [
+    "glass",
+    "(banned|forbidden|never|no)",
+    "city"
+   ]
+  },
+  {
+   "id": "P3.7",
+   "sec": 3,
+   "type": "S",
+   "text": "Felix: tell coach Bernd nothing about the honour; surprise at 19:00",
+   "must": [
+    "Felix",
+    "tell (coach )?Bernd nothing|never tell",
+    "(honou?r|Ehrung)",
+    "surprise",
+    "19:00"
+   ]
+  },
+  {
+   "id": "P3.8",
+   "sec": 3,
+   "type": "S",
+   "text": "Jonas: setup at 10:00, teardown by 23:00 at latest",
+   "must": [
+    "setup|set-up",
+    "10:00",
+    "teardown|tear-down",
+    "by 23:00"
+   ]
+  },
+  {
+   "id": "P4.1",
+   "sec": 4,
+   "type": "F",
+   "text": "Asahiyama town Hokkaido Nov 5: merge 5 public elementary/junior high schools into 2 by April 2028",
+   "must": [
+    "(旭山|Asahiyama)",
+    "Hokkaido|北海道",
+    "Nov ?5",
+    "5",
+    "2",
+    "by Apr ?2028"
+   ]
+  },
+  {
+   "id": "P4.2",
+   "sec": 4,
+   "type": "F",
+   "text": "pupils 1,240 twenty years ago, now 430",
+   "must": [
+    "1,?240",
+    "430",
+    "20 ?y"
+   ]
+  },
+  {
+   "id": "P4.3",
+   "sec": 4,
+   "type": "F",
+   "text": "new building ~¥3.8bn, half from national grant",
+   "must": [
+    "(3[.,]8 ?bn|38億)",
+    "half",
+    "national"
+   ]
+  },
+  {
+   "id": "P4.4",
+   "sec": 4,
+   "type": "F",
+   "text": "mayor 山本和夫 quote 「子どもたちが多様な仲間と学べる環境をつくりたい」",
+   "must": [
+    "山本和夫",
+    "子どもたちが多様な仲間と学べる環境をつくりたい"
+   ]
+  },
+  {
+   "id": "P4.5",
+   "sec": 4,
+   "type": "S",
+   "text": "free school bus for pupils with commute >4 km",
+   "must": [
+    "free",
+    "school bus",
+    ">\\s*4\\s*km"
+   ]
+  },
+  {
+   "id": "P4.6",
+   "sec": 4,
+   "type": "S",
+   "text": "parents briefing Dec 7 10:00 at town hall (町民会館); comments accepted until Dec 20",
+   "must": [
+    "Dec ?7",
+    "10:00",
+    "(町民会館|community hall|town hall)",
+    "until Dec ?20"
+   ]
+  },
+  {
+   "id": "P4.7",
+   "sec": 4,
+   "type": "F",
+   "text": "some residents oppose losing schools from community",
+   "must": [
+    "resident",
+    "oppos"
+   ]
+  }
+ ]
+}

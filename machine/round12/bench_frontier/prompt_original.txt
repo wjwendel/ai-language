@@ -1,0 +1,278 @@
+TEXT:
+§r3P1
+Weekly brand outreach routine. Every Monday at 9 a.m. Central, open the Outreach sheet and find the brands marked "Ready". For each one, write a pitch email from Jordan's Gmail using the template in the Pitch doc. Never send an email without Jordan's approval: put each draft in an approval card and wait. If Jordan hasn't answered within 48 hours, remind him once, but don't remind him more than once per brand. Only contact brands with at least 5,000 followers, and skip any brand that already replied in the last 30 days. You may update the Status column yourself, but you must not delete rows. If a brand asks about rates, don't quote a price; tell Jordan and let him answer. Describe Jordan as a business developer and entrepreneur, never as a coach. The drafts should be ready by noon on Monday. If the Gmail connector is disconnected, stop and tell Jordan instead of using the browser. By 5 p.m., send Jordan a short summary with the number of drafts that are waiting.
+
+§r3P2
+Estimadas familias: el jueves 12 de marzo los alumnos de cuarto irán de excursión al Museo de Ciencias de Valdemar. Saldremos del colegio a las 8:30 en tres autobuses y volveremos hacia las 16:00. La excursión cuesta 14 euros por alumno, que deberán pagarse en secretaría antes del lunes 9. La directora, Marta Ruiz, recordó que el año pasado la misma salida costó 18 euros, pero esta vez el ayuntamiento paga parte del transporte. Cada alumno debe llevar comida, agua y la autorización firmada; sin autorización no podrá subir al autobús. No hace falta llevar dinero. Los móviles no están permitidos durante la visita. Si llueve, la visita al jardín botánico se cambiará por un taller dentro del museo. Necesitamos dos madres o padres voluntarios; quien pueda venir, que escriba a la tutora, la señora Gil, antes del viernes 6. Los alumnos con alergias deben avisar al profesorado, porque en el museo no se puede comprar comida.
+
+§r3P3
+다들 안녕! 할머니 팔순 잔치 정리해서 알려줄게. 날짜는 4월 20일 일요일 저녁 6시고, 장소는 수원에 있는 '한가람' 식당 2층 룸이야. 예약은 열두 명으로 해 놨는데, 혹시 인원이 바뀌면 4월 15일까지 나한테 말해 줘. 식당 주차장이 좁아서 차를 여섯 대 이상은 못 세운대. 그러니까 가능하면 지하철 타고 와. 케이크는 민준이가 가져오기로 했고, 꽃은 내가 준비할게. 선물은 각자 사지 말고 다 같이 돈을 모아서 안마의자를 사기로 했어. 한 집에 10만 원씩이고, 4월 10일까지 내 계좌로 보내 줘. 할머니께는 깜짝 파티니까 절대 미리 말하면 안 돼! 고모 말로는 작년 칠순 때는 식당 예약이 다 차서 고생했었대. 할머니가 매운 음식을 못 드시니까 메뉴는 순한 걸로 골랐어. 질문 있으면 전화 줘.
+
+§r3P4
+Die Stadtbibliothek Lindenau schließt ab dem 3. Februar für etwa vier Monate wegen Umbauarbeiten. Wie Bibliotheksleiterin Katrin Vogel mitteilte, werden die drei Lesesäle zusammengelegt und zwölf neue Computerplätze eingerichtet. Der Umbau kostet rund 2,4 Millionen Euro; zwei Drittel davon zahlt das Land. Während der Schließung können Leser Bücher in einer Ausweichstelle im Rathaus ausleihen, die dienstags bis freitags von 10 bis 17 Uhr geöffnet ist. Ausgeliehene Medien müssen nicht zurückgegeben werden; die Leihfristen werden automatisch bis Ende Juni verlängert. Mahngebühren fallen in dieser Zeit nicht an. Zeitschriften kann man in der Ausweichstelle allerdings nicht ausleihen, weil der Platz fehlt. Vogel sagte, die Bibliothek habe im vergangenen Jahr über 80.000 Besucher gezählt. Die Wiedereröffnung ist für Anfang Juni geplant, könnte sich aber verzögern, falls Material zu spät geliefert wird.
+
+§r3P5
+Rutina de la compra semanal. Cada sábado a las 10:00, revisa la lista compartida "Casa" y prepara un carrito en Mercadona online con todo lo marcado. No pagues nunca sin la confirmación de Jordan; deja el carrito listo y mándale el total. Si el total pasa de 120 euros, pregúntale antes qué quitar. Puedes cambiar una marca por otra más barata, pero no cambies productos sin gluten por productos normales. Si algo está agotado, sáltalo y apúntalo en la lista; no lo pidas en otra tienda. Elige siempre la entrega del domingo por la mañana, salvo que Jordan diga otra cosa. Si la web pide un código de verificación, para y avisa a Jordan; no intentes entrar con otra cuenta. El carrito tiene que estar listo antes de las 13:00 del sábado.
+
+§r4P1
+Monthly invoice follow-up routine. On the first business day of each month at 8:30 a.m. Eastern, open the Invoices tracker and list every invoice that is more than 15 days overdue. For each one, draft a polite reminder from Dana's Outlook account using the Reminder template. Do not send any reminder until Dana approves it in chat. If she says "hold" for a client, leave that client alone for the rest of the month. If an invoice is over $2,000, copy Priya from finance on the draft, but never copy anyone else. You may correct typos in the tracker, but you must not change amounts or due dates. If a client says they already paid, don't argue; mark the row "Check payment" and ask Priya to confirm. Don't attach PDFs unless Dana asks for them. Refer to Dana as the account manager, never as the owner. If the tracker is locked or you can't open it, stop and message Dana instead of making a copy. Finish the drafts by 11 a.m., and by the end of the day send Dana a list of clients with two or more overdue invoices.
+
+§r4P2
+Vecinos: la piscina comunitaria abre el sábado 6 de junio y cerrará el domingo 13 de septiembre. El horario es de martes a domingo, de 11:00 a 20:30; los lunes estará cerrada por limpieza. Este año cada vivienda recibirá cuatro pulseras. No hace falta presentar el DNI para recogerlas; basta con el número de piso. Las pulseras se recogen en la portería del 1 al 5 de junio. Los niños menores de 12 años solo pueden entrar acompañados de un adulto. El socorrista, Andrés Molina, avisó de que el año pasado hubo dos sustos por carreras en el borde, así que este verano estará prohibido correr alrededor del vaso. Se puede traer comida, pero no envases de cristal. Los invitados pagan 3 euros al día, con un máximo de dos invitados por vivienda. Si alguien pierde la pulsera, la reposición cuesta 5 euros. Para cualquier queja, escribid al administrador, el señor Pardo, y no al socorrista.
+
+§r4P3
+大家好！国庆去杭州的安排定了。我们10月2日星期五早上7点在家门口集合，坐小林的车去高铁站，坐8点15分的高铁，大概一个小时到。酒店订在西湖边，两间房，住三晚，10月5日中午12点前退房。爸爸膝盖不好，所以不爬山，只坐船游湖。妈妈说去年国庆人太多，在断桥排了两个小时的队，所以这次我们早上6点半就去看日出。门票我已经在网上买好了，不用带现金，但是身份证一定要带。小雨负责订晚饭，她说楼外楼要提前三天订。如果下雨，第二天就改去博物馆。回来的车票还没买，等确定了再告诉大家。
+
+§r4P4
+A Prefeitura de Campo Alegre vai trocar todas as lâmpadas da iluminação pública por LED a partir de 10 de agosto. Segundo o secretário de Obras, Paulo Mendes, a troca deve levar cerca de cinco meses e começará pelos bairros com mais reclamações. O projeto custa aproximadamente R$ 3,6 milhões; metade será paga pelo governo do estado. A prefeitura estima que a conta de energia da cidade cairá 40%. Durante a obra, algumas ruas poderão ficar sem luz por até duas noites, e os moradores serão avisados com 48 horas de antecedência. Não é preciso fazer cadastro para receber a nova iluminação. Mendes lembrou que, em 2023, uma troca parecida em uma cidade vizinha atrasou três meses por falta de material. Reclamações podem ser feitas pelo telefone 156, de segunda a sábado, das 7h às 19h.
+
+§r4P5
+Routine quotidiana dei commenti. Ogni mattina alle 7:30 controlla i nuovi commenti sulla pagina Instagram del Forno Bellini. Rispondi tu alle domande semplici su orari e indirizzo, usando le risposte salvate nel documento FAQ. Non rispondere mai a lamentele o a domande sui prezzi: segnalale a Giulia e aspetta che risponda lei. Puoi nascondere i commenti con insulti, ma non devi cancellarli né bloccare nessuno. Se un cliente chiede un ordine per più di 20 persone, non confermare niente e inoltra il messaggio a Giulia entro un'ora. Non pubblicare nuovi post senza l'approvazione di Giulia. Se l'app chiede di accedere di nuovo, fermati e avvisa Giulia; non usare la password salvata nel browser. Entro le 18:00 manda a Giulia un riepilogo con il numero di commenti a cui hai risposto.
+
+§r5P1
+Weekly room-booking routine. Every Monday at 9:15 a.m. Central, open the Bookings inbox in Outlook and the Room Calendar sheet. For each new request, check the calendar and write a confirmation draft yourself from the shared events@ address, using the "Booking OK" template. Do not send any confirmation until Marisol replies "approved" in Teams; if she hasn't replied by 3 p.m., remind her once, then wait. Requests for more than 40 guests go to Marisol only, so never offer the big hall on your own. You may correct spelling in the sheet, but never change prices or deposit amounts. If a client asks for a discount, don't promise anything; tell them Marisol will answer within two business days. Always refer to Marisol as the events lead, not the owner. The owner is Tom Reyes, and he must not be copied on bookings. If the sheet is locked, stop and message Marisol instead of making a copy. Don't share other clients' names or phone numbers. Have all drafts ready by 11:30 a.m., and by Friday at 5 p.m. send Marisol a list of the bookings that still owe a deposit.
+
+§r5P2
+Polideportivo municipal de Valdelobos: el lunes 14 de septiembre se abren las inscripciones para las actividades de otoño. Las clases empiezan el 1 de octubre y terminan el 18 de diciembre. La recepción atiende de lunes a viernes, de 8:30 a 14:00 y de 16:30 a 21:00. Los menores de 14 años necesitan la firma de un padre o tutor. La natación infantil cuesta 22 € al mes y el yoga para adultos, 18 €. Los empadronados en el municipio tienen un 20 % de descuento. Hay 15 plazas por grupo; a partir de la plaza 16 se abre lista de espera. La coordinadora deportiva, Lucía Ferrer, advirtió que el año pasado los grupos de natación se llenaron en dos días, así que recomienda no esperar. No hace falta traer foto: el carné se hace en el momento. Las dudas sobre pagos se consultan con la administración, no con los monitores.
+
+§r5P3
+母：来週の土曜日（11月7日）はおばあちゃんの米寿のお祝いです。
+母：12時に駅前の「すし善」に集合。個室を予約済みで、10人です。
+健太：俺は仕事で遅れる。13時ごろ着く。
+母：了解。プレゼントは家族みんなで電動マッサージチェアにしました。一人5000円ずつ、金曜日までに私に払ってね。
+父：おばあちゃんは生ものが苦手だから、お店に天ぷらのコースに変えてもらった。
+美咲：子どもたちの分は？
+母：小学生以下は無料だって。チャイルドシートは健太の車にあるから、帰りは健太が美咲の子どもたちを送ってあげて。
+父：去年の誕生日会は雨で中止になったから、今年は絶対やりたいとおばあちゃんが言ってたよ。
+母：写真は美咲が撮る。おばあちゃんにはサプライズだから内緒にしてね。
+
+§r5P4
+La mairie de Saint-Aubin-sur-Loire a annoncé que la médiathèque fermera du 3 au 21 novembre pour des travaux d'isolation. Pendant la fermeture, les retours se feront dans une boîte installée devant l'entrée, accessible 24 heures sur 24. Les prêts en cours seront automatiquement prolongés jusqu'au 5 décembre, sans pénalité. Selon l'adjointe à la culture, Hélène Marchand, les travaux coûteront environ 240 000 euros, dont 60 % financés par la région. Elle a précisé que la facture de chauffage du bâtiment devrait baisser d'un tiers. Un bibliobus passera chaque mercredi de 14 h à 17 h 30 sur la place du marché. Les ateliers pour enfants sont reportés à janvier ; les inscriptions déjà faites restent valables. L'ancien directeur, Paul Girard, avait proposé ce projet dès 2019, mais il avait été refusé faute de budget.
+
+§r5P5
+Routine für Rücksendungen im Online-Shop „Holzwerk Becker“. Jeden Werktag um 10 Uhr prüfst du das Postfach retouren@holzwerk-becker.de. Rücksendeanfragen bis 30 Tage nach Lieferung darfst du selbst bestätigen; schick dann das Rücksendeetikett aus der Vorlage. Anfragen nach mehr als 30 Tagen beantwortest du nicht selbst: Leite sie an Frau Krüger weiter und warte auf ihre Entscheidung. Erstattungen veranlasst nie du; das macht nur Herr Becker aus der Buchhaltung. Wenn ein Kunde ein beschädigtes Paket meldet, bitte um zwei Fotos, aber versprich keinen Ersatz. Lösche keine E-Mails; verschiebe erledigte in den Ordner „Erledigt“. Wenn mehr als 50 Nachrichten ungelesen sind, schreib Frau Krüger sofort eine kurze Nachricht. Bezeichne Frau Krüger gegenüber Kunden als „Leitung Kundenservice“, nie als „Chefin“. Bis 16 Uhr schickst du Frau Krüger eine Liste der offenen Fälle mit Bestellnummer.
+
+QUESTIONS (each is about the section named in its ID, e.g. r3P1.en1 is about §r3P1):
+r3P1.en1: On which day and at what time does this routine run?
+r3P1.en2: A draft pitch email is ready and Jordan has not replied yet. Should you send the email now? Answer yes or no and why.
+r3P1.en3: Who must approve an email before it is sent?
+r3P1.en4: Jordan has not answered for 3 days. You already reminded him once about this brand. Should you remind him again?
+r3P1.en5: A brand has 3,200 followers. Should you contact it?
+r3P1.en6: A brand replied 2 weeks ago. Should you contact it?
+r3P1.en7: Are you allowed to delete rows in the sheet? Are you allowed to change the Status column?
+r3P1.en8: A brand asks what Jordan charges. What do you do?
+r3P1.en9: How should Jordan be described? Can he be called a coach?
+r3P1.en10: The Gmail connector is disconnected. Should you send the emails through the browser instead?
+r3P1.en11: By when must the drafts be ready, and by when must the summary be sent?
+r3P1.es1: ¿Qué día y a qué hora se ejecuta esta rutina?
+r3P1.es2: Un borrador está listo y Jordan aún no ha respondido. ¿Debes enviar el correo ahora? Responde sí o no y por qué.
+r3P1.es3: ¿Quién debe aprobar un correo antes de enviarlo?
+r3P1.es4: Jordan no responde desde hace 3 días y ya le recordaste una vez sobre esta marca. ¿Debes recordárselo otra vez?
+r3P1.es5: Una marca tiene 3.200 seguidores. ¿Debes contactarla?
+r3P1.es6: Una marca respondió hace 2 semanas. ¿Debes contactarla?
+r3P1.es7: ¿Puedes borrar filas de la hoja? ¿Puedes cambiar la columna Status?
+r3P1.es8: Una marca pregunta cuánto cobra Jordan. ¿Qué haces?
+r3P1.es9: ¿Cómo se debe describir a Jordan? ¿Se le puede llamar coach/entrenador?
+r3P1.es10: El conector de Gmail está desconectado. ¿Debes enviar los correos desde el navegador?
+r3P1.es11: ¿Para cuándo deben estar listos los borradores y para cuándo se debe enviar el resumen?
+r3P2.en1: Which students go on the trip, where, and on what date?
+r3P2.en2: How many buses?
+r3P2.en3: How much does the trip cost this year, and how much did it cost last year?
+r3P2.en4: Do students need to bring money?
+r3P2.en5: A student forgot the signed permission. Can they board the bus?
+r3P2.en6: Who should volunteer parents write to, and by when?
+r3P2.en7: Why must students with allergies tell the teachers?
+r3P2.es1: ¿Qué alumnos van de excursión, adónde y qué día?
+r3P2.es2: ¿Cuántos autobuses?
+r3P2.es3: ¿Cuánto cuesta la excursión este año y cuánto costó el año pasado?
+r3P2.es4: ¿Los alumnos tienen que llevar dinero?
+r3P2.es5: Un alumno olvidó la autorización firmada. ¿Puede subir al autobús?
+r3P2.es6: ¿A quién deben escribir los padres voluntarios y antes de cuándo?
+r3P2.es7: ¿Por qué los alumnos con alergias deben avisar al profesorado?
+r3P3.en1: Whose party is it, for which birthday, and when?
+r3P3.en2: For how many people is the reservation?
+r3P3.en3: Why should people come by subway?
+r3P3.en4: Who brings the cake and who prepares the flowers?
+r3P3.en5: Should each person buy their own gift?
+r3P3.en6: How much does each household send, and by when?
+r3P3.en7: Can you tell grandma about the party in advance?
+r3P3.en8: Why was a mild menu chosen?
+r3P4.en1: From when and for how long is the library closed, and why?
+r3P4.en2: How many reading rooms are merged and how many computer stations are added?
+r3P4.en3: Do borrowed books have to be returned during the closure?
+r3P4.en4: Can magazines be borrowed at the temporary branch?
+r3P4.en5: What does the renovation cost and who pays two thirds?
+r3P4.en6: When are the temporary branch opening hours?
+r3P4.en7: How many visitors did the library have last year?
+r3P5.en1: When does this routine run, and which store is used?
+r3P5.en2: The cart is ready and costs €95. Should you pay now?
+r3P5.en3: The total is €140. What must you do first?
+r3P5.en4: The gluten-free bread is pricey; a regular bread is cheaper. Can you swap it?
+r3P5.en5: A brand of olive oil has a cheaper equivalent brand. Can you swap it?
+r3P5.en6: Milk is sold out. What do you do? Can you order it from another store?
+r3P5.en7: Which delivery slot do you choose if Jordan said nothing?
+r3P5.en8: The site asks for a verification code. Can you log in with another account?
+r3P5.en9: By when must the cart be ready?
+r3P5.es1: ¿Cuándo se ejecuta esta rutina y qué tienda se usa?
+r3P5.es2: El carrito está listo y cuesta 95 €. ¿Debes pagar ahora?
+r3P5.es3: El total es 140 €. ¿Qué debes hacer primero?
+r3P5.es4: El pan sin gluten es caro y uno normal es más barato. ¿Puedes cambiarlo?
+r3P5.es5: Un aceite tiene una marca equivalente más barata. ¿Puedes cambiarla?
+r3P5.es6: La leche está agotada. ¿Qué haces? ¿Puedes pedirla en otra tienda?
+r3P5.es7: ¿Qué entrega eliges si Jordan no ha dicho nada?
+r3P5.es8: La web pide un código de verificación. ¿Puedes entrar con otra cuenta?
+r3P5.es9: ¿Para cuándo debe estar listo el carrito?
+r4P1.en1: When does this routine run (day and time)?
+r4P1.en2: An invoice is exactly 15 days overdue. Should it go on the list?
+r4P1.en3: A reminder draft is ready and Dana has not replied in chat yet. Should you send it now? Answer yes or no and why.
+r4P1.en4: Who must approve a reminder before it is sent?
+r4P1.en5: An invoice is $3,500. Whom do you copy on the draft, and may you also copy the client's assistant?
+r4P1.en6: You notice a wrong due date in the tracker. May you fix it?
+r4P1.en7: A client says they already paid. What do you do?
+r4P1.en8: Dana has not asked for PDFs. Should you attach the invoice PDF?
+r4P1.en9: How should you refer to Dana? May you call her the owner?
+r4P1.en10: The tracker is locked. Should you make a copy of it and work on the copy?
+r4P1.en11: A client has exactly two overdue invoices. Should they be on the end-of-day list to Dana?
+r4P1.es1: ¿Cuándo se ejecuta esta rutina (día y hora)?
+r4P1.es2: Una factura lleva exactamente 15 días vencida. ¿Debe ir en la lista?
+r4P1.es3: Un borrador de recordatorio está listo y Dana aún no ha respondido en el chat. ¿Debes enviarlo ahora? Responde sí o no y por qué.
+r4P1.es4: ¿Quién debe aprobar un recordatorio antes de enviarlo?
+r4P1.es5: Una factura es de 3.500 dólares. ¿A quién pones en copia en el borrador, y puedes poner también en copia al asistente del cliente?
+r4P1.es6: Ves una fecha de vencimiento incorrecta en el tracker. ¿Puedes corregirla?
+r4P1.es7: Un cliente dice que ya pagó. ¿Qué haces?
+r4P1.es8: Dana no ha pedido PDFs. ¿Debes adjuntar el PDF de la factura?
+r4P1.es9: ¿Cómo debes referirte a Dana? ¿Puedes llamarla la dueña?
+r4P1.es10: El tracker está bloqueado. ¿Debes hacer una copia y trabajar en la copia?
+r4P1.es11: Un cliente tiene exactamente dos facturas vencidas. ¿Debe estar en la lista de fin de día para Dana?
+r4P2.en1: When does the pool open and close?
+r4P2.en2: Is the pool open on Mondays? What are the opening days and hours?
+r4P2.en3: Do you have to show your ID to pick up the wristbands?
+r4P2.en4: How many wristbands does each home get, and where and when are they collected?
+r4P2.en5: Can a 10-year-old enter the pool alone?
+r4P2.en6: Why is running around the pool forbidden this summer?
+r4P2.en7: How much do guests pay and how many guests per home are allowed?
+r4P2.en8: Whom should complaints go to? Can you complain to the lifeguard?
+r4P2.es1: ¿Cuándo abre y cuándo cierra la piscina?
+r4P2.es2: ¿Abre la piscina los lunes? ¿Qué días y horas abre?
+r4P2.es3: ¿Hay que presentar el DNI para recoger las pulseras?
+r4P2.es4: ¿Cuántas pulseras recibe cada vivienda y dónde y cuándo se recogen?
+r4P2.es5: ¿Puede un niño de 10 años entrar solo a la piscina?
+r4P2.es6: ¿Por qué está prohibido correr alrededor del vaso este verano?
+r4P2.es7: ¿Cuánto pagan los invitados y cuántos invitados se permiten por vivienda?
+r4P2.es8: ¿A quién van las quejas? ¿Se puede quejar al socorrista?
+r4P3.en1: When and where does the family meet?
+r4P3.en2: How do they get to the station, and what time is the train?
+r4P3.en3: How many rooms and nights, and when is check-out?
+r4P3.en4: Will Dad climb the mountain? Why or why not?
+r4P3.en5: Why do they go at 6:30 a.m.?
+r4P3.en6: Do they need to bring cash? What must they bring?
+r4P3.en7: Who books dinner, and how far ahead must Louwailou be booked?
+r4P3.en8: Have the return train tickets been bought?
+r4P4.en1: What will the city replace, and starting when?
+r4P4.en2: How long will the swap take and where does it start?
+r4P4.en3: How much does the project cost and who pays half?
+r4P4.en4: By how much should the city's energy bill fall?
+r4P4.en5: Do residents need to register to get the new lighting?
+r4P4.en6: What happened in 2023?
+r4P4.en7: How can complaints be made, and when?
+r4P5.en1: When does this routine run?
+r4P5.en2: A customer asks what time the shop opens. Should you answer it yourself?
+r4P5.en3: A customer complains that the bread was stale. Should you reply?
+r4P5.en4: A comment contains insults. May you delete it?
+r4P5.en5: A customer asks for an order for 25 people. What do you do?
+r4P5.en6: A customer asks for an order for exactly 20 people. Does the 'confirm nothing and forward to Giulia' rule apply?
+r4P5.en7: You wrote a nice new post. May you publish it now?
+r4P5.en8: The app asks you to log in again. Should you use the password saved in the browser?
+r4P5.en9: By what time must the summary be sent, to whom, and what does it contain?
+r4P5.es1: ¿Cuándo se ejecuta esta rutina?
+r4P5.es2: Un cliente pregunta a qué hora abre la tienda. ¿Debes responder tú mismo?
+r4P5.es3: Un cliente se queja de que el pan estaba duro. ¿Debes responder?
+r4P5.es4: Un comentario contiene insultos. ¿Puedes borrarlo?
+r4P5.es5: Un cliente pide un pedido para 25 personas. ¿Qué haces?
+r4P5.es6: Un cliente pide un pedido para exactamente 20 personas. ¿Se aplica la regla de 'no confirmar nada y reenviar a Giulia'?
+r4P5.es7: Escribiste un post nuevo. ¿Puedes publicarlo ahora?
+r4P5.es8: La app te pide iniciar sesión de nuevo. ¿Debes usar la contraseña guardada en el navegador?
+r4P5.es9: ¿Antes de qué hora hay que enviar el resumen, a quién y qué contiene?
+r5P1.en1: When does this routine run (day and time)?
+r5P1.en2: You finished a confirmation draft at 10 a.m. and Marisol has not replied yet. Should you send it now?
+r5P1.en3: Who must approve a confirmation before it is sent, and how?
+r5P1.en4: It is 3 p.m. and Marisol still has not replied. What do you do?
+r5P1.en5: A request is for exactly 40 guests. Must it go to Marisol only?
+r5P1.en6: A client with 60 guests asks about the big hall. May you offer it to them yourself?
+r5P1.en7: You notice a deposit amount in the sheet looks wrong. May you change it?
+r5P1.en8: A client asks for a discount. What do you tell them?
+r5P1.en9: How should you refer to Marisol, and may Tom Reyes be copied on bookings?
+r5P1.en10: The Room Calendar sheet is locked. What do you do?
+r5P1.en11: Who writes the confirmation drafts, and from which address?
+r5P1.en12: By when must the drafts be ready, and what must you send by Friday 5 p.m.?
+r5P1.es1: ¿Cuándo se ejecuta esta rutina (día y hora)?
+r5P1.es2: Terminaste un borrador de confirmación a las 10 y Marisol aún no ha respondido. ¿Debes enviarlo ya?
+r5P1.es3: ¿Quién debe aprobar una confirmación antes de enviarla y cómo?
+r5P1.es4: Son las 3 de la tarde y Marisol sigue sin responder. ¿Qué haces?
+r5P1.es5: Una solicitud es para exactamente 40 invitados. ¿Debe ir solo a Marisol?
+r5P1.es6: Un cliente con 60 invitados pregunta por el salón grande. ¿Puedes ofrecérselo tú?
+r5P1.es7: Ves que un importe de depósito en la hoja parece incorrecto. ¿Puedes cambiarlo?
+r5P1.es8: Un cliente pide un descuento. ¿Qué le dices?
+r5P1.es9: ¿Cómo debes referirte a Marisol y se puede poner en copia a Tom Reyes en las reservas?
+r5P1.es10: La hoja Room Calendar está bloqueada. ¿Qué haces?
+r5P1.es11: ¿Quién escribe los borradores de confirmación y desde qué dirección?
+r5P1.es12: ¿Para cuándo deben estar listos los borradores y qué debes enviar antes del viernes a las 5?
+r5P2.en1: When do registrations open?
+r5P2.en2: When do classes start and end?
+r5P2.en3: What are the reception hours?
+r5P2.en4: Can you go to reception on a Wednesday at 15:00?
+r5P2.en5: A 13-year-old wants to sign up. What is needed?
+r5P2.en6: How much do children's swimming and adult yoga cost, and who gets a discount?
+r5P2.en7: You are the 15th person to sign up for a group. Do you get a place or go on the waiting list?
+r5P2.en8: Who warned about what, and what does she recommend?
+r5P2.en9: Do you need to bring a photo?
+r5P2.en10: Who do you ask about payments? Can you ask the instructors?
+r5P2.es1: ¿Cuándo se abren las inscripciones?
+r5P2.es2: ¿Cuándo empiezan y terminan las clases?
+r5P2.es3: ¿Cuál es el horario de recepción?
+r5P2.es4: ¿Puedes ir a recepción un miércoles a las 15:00?
+r5P2.es5: Un chico de 13 años quiere inscribirse. ¿Qué necesita?
+r5P2.es6: ¿Cuánto cuestan la natación infantil y el yoga para adultos, y quién tiene descuento?
+r5P2.es7: Eres la persona número 15 en inscribirse en un grupo. ¿Tienes plaza o vas a lista de espera?
+r5P2.es8: ¿Quién advirtió de qué y qué recomienda?
+r5P2.es9: ¿Hay que traer foto?
+r5P2.es10: ¿A quién se consultan las dudas sobre pagos? ¿Se puede preguntar a los monitores?
+r5P3.en1: On what date, at what time and where do they meet?
+r5P3.en2: What is the occasion?
+r5P3.en3: Who will be late, why, and when will they arrive?
+r5P3.en4: How much does each person pay, to whom, and by when?
+r5P3.en5: Why was the meal changed to a tempura course, and who arranged it?
+r5P3.en6: Do the children have to pay?
+r5P3.en7: Whose car has the child seat, and whom does Kenta drive home?
+r5P3.en8: What did Grandma say, and why?
+r5P3.en9: Who takes the photos, and does Grandma know about the party?
+r5P4.en1: When and why will the media library close?
+r5P4.en2: How can books be returned during the closure?
+r5P4.en3: What happens to current loans?
+r5P4.en4: How much will the works cost, and who funds what share?
+r5P4.en5: Who said the heating bill would fall, and by how much?
+r5P4.en6: When and where does the bookmobile stop?
+r5P4.en7: What happens to the children's workshops and to registrations already made?
+r5P4.en8: Who proposed the project, when, and what happened then?
+r5P5.en1: When does this routine run, and what do you check?
+r5P5.en2: A customer asks to return an item exactly 30 days after delivery. May you confirm it yourself?
+r5P5.en3: A return request arrives 35 days after delivery. Do you answer it yourself?
+r5P5.en4: After you confirm a return, what do you send the customer?
+r5P5.en5: A customer with an approved return asks for a refund. May you issue it? Who does refunds?
+r5P5.en6: A customer reports a damaged parcel. What do you do, and may you promise a replacement?
+r5P5.en7: May you delete an email you have finished handling?
+r5P5.en8: Exactly 50 messages are unread. Must you message Frau Krüger now?
+r5P5.en9: How should you refer to Frau Krüger when talking to customers?
+r5P5.en10: By what time, to whom, and what must you send at the end of the day?
+r5P5.es1: ¿Cuándo se ejecuta esta rutina y qué revisas?
+r5P5.es2: Un cliente pide devolver un artículo exactamente 30 días después de la entrega. ¿Puedes confirmarlo tú mismo?
+r5P5.es3: Llega una solicitud de devolución 35 días después de la entrega. ¿La respondes tú mismo?
+r5P5.es4: Después de confirmar una devolución, ¿qué le envías al cliente?
+r5P5.es5: Un cliente con una devolución aprobada pide el reembolso. ¿Puedes hacerlo tú? ¿Quién hace los reembolsos?
+r5P5.es6: Un cliente informa de un paquete dañado. ¿Qué haces y puedes prometer un reemplazo?
+r5P5.es7: ¿Puedes borrar un correo que ya has terminado de gestionar?
+r5P5.es8: Hay exactamente 50 mensajes sin leer. ¿Debes escribir a Frau Krüger ya?
+r5P5.es9: ¿Cómo debes referirte a Frau Krüger ante los clientes?
+r5P5.es10: ¿Antes de qué hora, a quién y qué debes enviar al final del día?
+
+Answer using only the TEXT. Reply with one JSON object only, mapping each question ID to a short answer string. Answer questions whose ID contains ".es" in Spanish and the rest in English. If the TEXT does not say, answer "not stated".

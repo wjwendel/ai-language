@@ -1,0 +1,390 @@
+{
+ "schema": "[subject, relation, object, tag]; tags NEG/COND/PERM/ACT/DEADLINE/ID = instruction-safety facts (P1,P5)",
+ "written": "2026-11-11T01:03:03 (same run as encoding; payload drafted first in this run, facts listed from originals, before any baseline, QA or decode)",
+ "source_languages": {
+  "P1": "en",
+  "P2": "pt",
+  "P3": "zh",
+  "P4": "de",
+  "P5": "fr"
+ },
+ "counts": {
+  "P1": 18,
+  "P2": 8,
+  "P3": 10,
+  "P4": 8,
+  "P5": 16
+ },
+ "facts": {
+  "P1": [
+   [
+    "you",
+    "when",
+    "first business day of each month, 10:00 a.m. Eastern",
+    "DEADLINE"
+   ],
+   [
+    "you",
+    "open",
+    "Vendors folder in Drive + Payables sheet",
+    "ACT"
+   ],
+   [
+    "you",
+    "each new invoice",
+    "check amount against purchase order, add row to Payables sheet",
+    "ACT"
+   ],
+   [
+    "you",
+    "must never",
+    "pay an invoice yourself",
+    "NEG"
+   ],
+   [
+    "payments",
+    "released only by",
+    "Grace Liu, accounting",
+    "ACT"
+   ],
+   [
+    "invoices over $5,000 (strict)",
+    "need written approval from",
+    "Daniel Brooks, operations director, before Grace pays",
+    "COND"
+   ],
+   [
+    "you",
+    "may",
+    "fix a misspelled vendor name in the sheet",
+    "PERM"
+   ],
+   [
+    "you",
+    "must not",
+    "edit invoice amounts or due dates",
+    "NEG"
+   ],
+   [
+    "invoice without PO number",
+    "you",
+    "email the vendor once asking for it",
+    "COND"
+   ],
+   [
+    "invoice without PO number",
+    "must not",
+    "add a row until vendor replies",
+    "NEG"
+   ],
+   [
+    "Grace",
+    "refer to as",
+    "payables lead, never controller",
+    "ID"
+   ],
+   [
+    "controller",
+    "is",
+    "Helen Park",
+    "ID"
+   ],
+   [
+    "Helen Park",
+    "must not be copied on",
+    "vendor emails",
+    "NEG"
+   ],
+   [
+    "Payables sheet open by someone else",
+    "you",
+    "wait 15 min and retry, at most twice",
+    "COND"
+   ],
+   [
+    "vendors threatening late fees",
+    "must not",
+    "reply",
+    "NEG"
+   ],
+   [
+    "vendors threatening late fees",
+    "forward to",
+    "Grace without answering",
+    "ACT"
+   ],
+   [
+    "you",
+    "finish by",
+    "3 p.m.",
+    "DEADLINE"
+   ],
+   [
+    "every Friday noon",
+    "send Daniel",
+    "summary of invoices waiting for approval",
+    "DEADLINE"
+   ]
+  ],
+  "P2": [
+   [
+    "pool",
+    "closed",
+    "Mar 3-14",
+    ""
+   ],
+   [
+    "reason",
+    "",
+    "replacing filtration system",
+    ""
+   ],
+   [
+    "cost",
+    "",
+    "~R$9,500 from maintenance fund, no monthly fee increase",
+    ""
+   ],
+   [
+    "hidroginástica classes",
+    "moved to",
+    "Clube Atlético Vila Nova, Rua das Palmeiras 210, same times",
+    ""
+   ],
+   [
+    "manager",
+    "name",
+    "Ricardo Alves",
+    ""
+   ],
+   [
+    "last year",
+    "floor replacement",
+    "delayed 10 days, parts from another state; equipment already arrived",
+    ""
+   ],
+   [
+    "sauna",
+    "",
+    "stays open normally",
+    ""
+   ],
+   [
+    "guests at partner club",
+    "not allowed",
+    "even with visitor pass",
+    ""
+   ]
+  ],
+  "P3": [
+   [
+    "camping",
+    "where",
+    "千岛湖, next weekend",
+    ""
+   ],
+   [
+    "meet",
+    "when",
+    "Sat Nov 22, 7 a.m., home door, 2 cars",
+    ""
+   ],
+   [
+    "小林",
+    "arrives",
+    "~2 p.m. alone by high-speed train (exam Sat morning)",
+    ""
+   ],
+   [
+    "tents",
+    "by",
+    "Dad",
+    ""
+   ],
+   [
+    "food",
+    "bought by",
+    "Mom",
+    ""
+   ],
+   [
+    "power bank + flashlight",
+    "brought by",
+    "小雨",
+    ""
+   ],
+   [
+    "open fire",
+    "not allowed",
+    "only rented electric grill, 80 yuan/night",
+    ""
+   ],
+   [
+    "camp fee",
+    "",
+    "120 yuan/person, transfer to Mom by Nov 18",
+    ""
+   ],
+   [
+    "dog",
+    "can't come",
+    "王阿姨 downstairs looks after it",
+    ""
+   ],
+   [
+    "checkout",
+    "by",
+    "Sun 4 p.m.; late = extra half day",
+    ""
+   ]
+  ],
+  "P4": [
+   [
+    "Stadtbibliothek at Marktplatz, Lindenau",
+    "renovated from",
+    "Feb 2",
+    ""
+   ],
+   [
+    "announced by",
+    "Kulturdezernentin",
+    "Petra Hoffmann",
+    ""
+   ],
+   [
+    "duration/cost",
+    "",
+    "~6 months, ~€2.4M",
+    ""
+   ],
+   [
+    "Bund",
+    "pays",
+    "half",
+    ""
+   ],
+   [
+    "Ausweichstelle",
+    "",
+    "Rathaus room 104, Tue-Sat 10-18",
+    ""
+   ],
+   [
+    "there",
+    "",
+    "loans yes; returns only via Rückgabekasten at Bahnhof",
+    ""
+   ],
+   [
+    "2022 Musikschule renovation",
+    "",
+    "8 weeks late for missing craftsmen; firms already under contract",
+    ""
+   ],
+   [
+    "Mahngebühren",
+    "",
+    "suspended until reopening",
+    ""
+   ]
+  ],
+  "P5": [
+   [
+    "you",
+    "when",
+    "each working day 8:15",
+    "DEADLINE"
+   ],
+   [
+    "you",
+    "open",
+    "booking mailbox of gîte Les Trois Chênes",
+    "ACT"
+   ],
+   [
+    "bookings of 2+ nights with free dates",
+    "you may",
+    "confirm yourself",
+    "PERM"
+   ],
+   [
+    "one-night requests",
+    "must not",
+    "confirm anything",
+    "NEG"
+   ],
+   [
+    "one-night requests",
+    "forward to",
+    "Julien Moreau and wait",
+    "ACT"
+   ],
+   [
+    "you",
+    "must never",
+    "refund a deposit",
+    "NEG"
+   ],
+   [
+    "deposit refunds",
+    "only by",
+    "Claire Fabre, comptabilité",
+    "ACT"
+   ],
+   [
+    "heating problem",
+    "ask",
+    "room number",
+    "COND"
+   ],
+   [
+    "heating problem",
+    "must not",
+    "promise any discount",
+    "NEG"
+   ],
+   [
+    "you",
+    "may",
+    "correct a name's spelling in the calendar",
+    "PERM"
+   ],
+   [
+    "you",
+    "must not",
+    "change prices",
+    "NEG"
+   ],
+   [
+    "Julien",
+    "call to clients",
+    "responsable de l'accueil, never propriétaire",
+    "ID"
+   ],
+   [
+    "owner",
+    "is",
+    "Sophie Laurent",
+    "ID"
+   ],
+   [
+    "Sophie Laurent",
+    "must never be copied on",
+    "client emails",
+    "NEG"
+   ],
+   [
+    "more than 20 requests waiting",
+    "",
+    "warn Julien immediately",
+    "COND"
+   ],
+   [
+    "before 5 p.m.",
+    "send Julien",
+    "list of unanswered requests",
+    "DEADLINE"
+   ]
+  ]
+ }
+}

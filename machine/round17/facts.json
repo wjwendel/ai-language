@@ -1,0 +1,423 @@
+{
+ "written": "2026-11-17 before any round-17 encoding",
+ "facts": [
+  {
+   "id": "P1.1",
+   "sec": 1,
+   "type": "F",
+   "text": "Maple Street Pharmacy Columbus Ohio refills; weekdays 8:15 and 14:15 ET check refills@maplestreetrx.com + voicemail transcripts",
+   "must": [
+    "Maple Street",
+    "Columbus",
+    "(weekday|Mon-Fri)",
+    "8:15",
+    "(2:15 ?pm|14:15)",
+    "(ET|Eastern)",
+    "refills@maplestreetrx\\.com",
+    "voicemail"
+   ]
+  },
+  {
+   "id": "P1.2",
+   "sec": 1,
+   "type": "S",
+   "text": "may queue refill alone if refills remain and last fill ≥23 days ago for 30-day supply",
+   "must": [
+    "may",
+    "refills? remain",
+    "(≥|>=|at least)\\s*23\\s*d",
+    "30-day"
+   ]
+  },
+  {
+   "id": "P1.3",
+   "sec": 1,
+   "type": "S",
+   "text": "never queue early refill of controlled medication at any time; send to pharmacist in charge Dr. Nadia Brooks",
+   "must": [
+    "never",
+    "early refill",
+    "controlled",
+    "any time",
+    "Nadia Brooks"
+   ]
+  },
+  {
+   "id": "P1.4",
+   "sec": 1,
+   "type": "S",
+   "text": "no refills left: fax renewal request to prescriber; tell patient: can take up to 2 business days",
+   "must": [
+    "fax",
+    "renewal",
+    "prescriber",
+    "tell (patient|them)\\s*:",
+    "(up to|≤)\\s*2 (business|biz)"
+   ]
+  },
+  {
+   "id": "P1.5",
+   "sec": 1,
+   "type": "S",
+   "text": "insurance rejection: may resubmit once with corrected member ID; after second rejection pass to billing technician Kevin Lu",
+   "must": [
+    "insurance",
+    "may",
+    "resubmit once",
+    "member ID",
+    "(after|2nd|second) rejection",
+    "Kevin Lu"
+   ]
+  },
+  {
+   "id": "P1.6",
+   "sec": 1,
+   "type": "S",
+   "text": "never tell anyone but patient or listed caregiver which medications patient takes",
+   "must": [
+    "never",
+    "(patient|)",
+    "listed caregiver",
+    "medication"
+   ]
+  },
+  {
+   "id": "P1.7",
+   "sec": 1,
+   "type": "S",
+   "text": "possible allergic reaction (face/lip swelling, trouble breathing): tell them: call 911 now; never discuss doses",
+   "must": [
+    "allergic",
+    "swelling",
+    "breath",
+    "tell (patient|them)\\s*:\\s*call 911",
+    "dose"
+   ]
+  },
+  {
+   "id": "P1.8",
+   "sec": 1,
+   "type": "S",
+   "text": "home delivery free within 5 miles; beyond $7; beyond 15 miles not offered",
+   "must": [
+    "deliver",
+    "free",
+    "(within|≤)\\s*5\\s*mi",
+    "\\$7",
+    ">\\s*15\\s*mi|beyond 15",
+    "(not offered|none|never)"
+   ]
+  },
+  {
+   "id": "P1.9",
+   "sec": 1,
+   "type": "S",
+   "text": "Brooks is pharmacist in charge not owner; owner Gary Feld never cc on patient messages",
+   "must": [
+    "Brooks\\s*=",
+    "never \"?owner",
+    "Gary Feld",
+    "never cc"
+   ]
+  },
+  {
+   "id": "P1.10",
+   "sec": 1,
+   "type": "S",
+   "text": "send Brooks list of prescriptions waiting >3 days for pickup by 4 p.m. every Wednesday",
+   "must": [
+    "list",
+    "waiting",
+    ">\\s*3\\s*d",
+    "pickup",
+    "by (4 ?pm|16:00)",
+    "Wed"
+   ]
+  },
+  {
+   "id": "P2.1",
+   "sec": 2,
+   "type": "F",
+   "text": "auto-école Permis Plus Nantes; Tue-Sat 9:00 check contact@permisplus.fr",
+   "must": [
+    "Permis Plus",
+    "Nantes",
+    "Tue-Sat",
+    "9:00|9 ?h",
+    "contact@permisplus\\.fr"
+   ]
+  },
+  {
+   "id": "P2.2",
+   "sec": 2,
+   "type": "S",
+   "text": "may move driving lesson if student notifies ≥48h ahead; <48h lesson due except medical certificate",
+   "must": [
+    "may",
+    "lesson",
+    "(≥|>=|at least)\\s*48\\s*h",
+    "<\\s*48\\s*h",
+    "due|charged",
+    "except",
+    "medical cert"
+   ]
+  },
+  {
+   "id": "P2.3",
+   "sec": 2,
+   "type": "S",
+   "text": "exams never moved by message; forward all requests to director Sophie Marchand",
+   "must": [
+    "exam",
+    "never",
+    "(forward|→)",
+    "Sophie Marchand"
+   ]
+  },
+  {
+   "id": "P2.4",
+   "sec": 2,
+   "type": "S",
+   "text": "minor may book exam only with written parental consent",
+   "must": [
+    "minor",
+    "exam",
+    "only with",
+    "written",
+    "parent"
+   ]
+  },
+  {
+   "id": "P2.5",
+   "sec": 2,
+   "type": "S",
+   "text": "may give 5% discount for package ≥20 hours, once per student; other discounts only Sophie",
+   "must": [
+    "may",
+    "5%",
+    "(≥|>=)\\s*20\\s*h",
+    "once per student",
+    "other discount",
+    "only"
+   ]
+  },
+  {
+   "id": "P2.6",
+   "sec": 2,
+   "type": "S",
+   "text": "accident during lesson: tell student: stay on site, fill accident report with instructor; then notify Sophie within 1 hour",
+   "must": [
+    "accident",
+    "tell (student|them)\\s*:",
+    "stay",
+    "(report|constat)",
+    "instructor",
+    "then",
+    "within 1\\s*h"
+   ]
+  },
+  {
+   "id": "P2.7",
+   "sec": 2,
+   "type": "S",
+   "text": "never give instructor personal number to students",
+   "must": [
+    "never",
+    "instructor",
+    "personal (number|phone)"
+   ]
+  },
+  {
+   "id": "P2.8",
+   "sec": 2,
+   "type": "S",
+   "text": "Sophie is director not gérante; gérante Isabelle Roy never cc on student emails",
+   "must": [
+    "Sophie\\s*=",
+    "never \"?(gérante|manager|managing)",
+    "Isabelle Roy",
+    "never cc"
+   ]
+  },
+  {
+   "id": "P2.9",
+   "sec": 2,
+   "type": "S",
+   "text": "every Monday before 10:00 send Sophie list of students whose logbook is not up to date",
+   "must": [
+    "Mon",
+    "before 10:00",
+    "list",
+    "(logbook|livret)",
+    "not up to date"
+   ]
+  },
+  {
+   "id": "P3.1",
+   "sec": 3,
+   "type": "F",
+   "text": "母: next Sunday grandma 88th birthday (米寿) at 料亭やまぶき, from 12:00, 14 people",
+   "must": [
+    "母",
+    "Sun",
+    "米寿|88",
+    "料亭やまぶき",
+    "12:00",
+    "14"
+   ]
+  },
+  {
+   "id": "P3.2",
+   "sec": 3,
+   "type": "S",
+   "text": "fee adult ¥8,000, elementary and younger ¥3,000; transfer to 母 by Thursday",
+   "must": [
+    "8,?000",
+    "3,?000",
+    "by Thu",
+    "母"
+   ]
+  },
+  {
+   "id": "P3.3",
+   "sec": 3,
+   "type": "F",
+   "text": "健太 drives from Osaka to pick up grandma, departs 10:30",
+   "must": [
+    "健太",
+    "(Osaka|大阪)",
+    "10:30"
+   ]
+  },
+  {
+   "id": "P3.4",
+   "sec": 3,
+   "type": "S",
+   "text": "美咲: gift yellow chanchanko + photo album; album secret from grandma",
+   "must": [
+    "美咲",
+    "yellow",
+    "(chanchanko|ちゃんちゃんこ)",
+    "album",
+    "(secret|tell .*nothing|never tell)"
+   ]
+  },
+  {
+   "id": "P3.5",
+   "sec": 3,
+   "type": "F",
+   "text": "母: restaurant has steps; confirmed wheelchair can be kept at entrance",
+   "must": [
+    "step",
+    "wheelchair",
+    "entrance",
+    "confirmed"
+   ]
+  },
+  {
+   "id": "P3.6",
+   "sec": 3,
+   "type": "S",
+   "text": "美咲 brings cake, low sugar because grandma diabetic",
+   "must": [
+    "美咲",
+    "cake",
+    "(low|less) sugar",
+    "diabet"
+   ]
+  },
+  {
+   "id": "P3.7",
+   "sec": 3,
+   "type": "S",
+   "text": "restaurant available only until 15:00",
+   "must": [
+    "only until 15:00|until 15:00 only"
+   ]
+  },
+  {
+   "id": "P4.1",
+   "sec": 4,
+   "type": "F",
+   "text": "Freiburg decided Oct 6: from Mar 1 2027 packaging tax on disposable tableware in gastronomy",
+   "must": [
+    "Freiburg",
+    "Oct ?6",
+    "from Mar ?1,? ?2027",
+    "(packaging tax|Verpackungssteuer)",
+    "disposable"
+   ]
+  },
+  {
+   "id": "P4.2",
+   "sec": 4,
+   "type": "F",
+   "text": "€0.50 each for disposable cups and bowls, €0.20 cutlery; cap €1.50 per meal",
+   "must": [
+    "0[.,]50|50 ?(ct|cent)",
+    "cup",
+    "bowl",
+    "0[.,]20|20 ?(ct|cent)",
+    "cutlery",
+    "1[.,]50",
+    "meal"
+   ]
+  },
+  {
+   "id": "P4.3",
+   "sec": 4,
+   "type": "F",
+   "text": "expected revenue ~€1.8M/yr, fully to street cleaning",
+   "must": [
+    "1[.,]8 ?M",
+    "(yr|year)",
+    "(fully|all|100%)",
+    "(street cleaning|Stadtreinigung)"
+   ]
+  },
+  {
+   "id": "P4.4",
+   "sec": 4,
+   "type": "S",
+   "text": "businesses with <3 employees pay only half in first year",
+   "must": [
+    "<\\s*3",
+    "employee",
+    "half",
+    "first year|1st y"
+   ]
+  },
+  {
+   "id": "P4.5",
+   "sec": 4,
+   "type": "F",
+   "text": "environment mayor Lena Krüger quote „Wer Mehrweg anbietet, spart bares Geld.“",
+   "must": [
+    "Lena Krüger",
+    "Wer Mehrweg anbietet, spart bares Geld"
+   ]
+  },
+  {
+   "id": "P4.6",
+   "sec": 4,
+   "type": "F",
+   "text": "Dehoga to have bylaw judicially reviewed by end of January",
+   "must": [
+    "Dehoga",
+    "(court|judicial)",
+    "by end (of )?Jan"
+   ]
+  },
+  {
+   "id": "P4.7",
+   "sec": 4,
+   "type": "F",
+   "text": "info event for businesses Nov 12 18:00 at town hall",
+   "must": [
+    "Nov ?12",
+    "18:00",
+    "(town hall|Rathaus)"
+   ]
+  }
+ ]
+}

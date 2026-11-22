@@ -1,0 +1,403 @@
+{
+ "written": "2026-11-17 before encoding",
+ "questions": [
+  {
+   "id": "§1.q1",
+   "sec": 1,
+   "type": "F",
+   "hop": 1,
+   "q": "When is the front-desk inbox checked?",
+   "gold": "Weekdays at 7:30 a.m. and 3 p.m. Eastern",
+   "accept": [
+    "7[:.]30",
+    "(3 ?p|15[:.]?00)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q2",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A client wants a routine appointment for a dog weighing exactly 40 kg. May you book it yourself?",
+   "gold": "Yes (up to 40 kg)",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q3",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A client wants an appointment for a 42 kg dog. Who must book it?",
+   "gold": "Dana Okafor, the head technician",
+   "accept": [
+    "okafor|dana"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q4",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A client confirms a spay surgery 30 hours before drop-off. May you keep the slot?",
+   "gold": "No; it goes back on the waitlist (only dental cleanings may be kept)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q5",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A caller says their dog ate rat poison. What do you tell them, and what do you do yourself, in what order?",
+   "gold": "Tell them to drive in immediately; phone the emergency line (207) 555-0143 yourself; then text Dana",
+   "accept": [
+    "drive|come in|bring",
+    "555-0143",
+    "dana"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q6",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "An account has a balance of exactly $200. Does it go on Friday's list for Dana?",
+   "gold": "No (over $200 only)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q7",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "May the owner, Martin Kell, be copied on a client email?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q8",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Is sending Dana the balances list at exactly 9:00 a.m. on Friday on time?",
+   "gold": "Yes (by 9 a.m.)",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q1",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "When is the residence inbox checked?",
+   "gold": "Monday to Saturday at 9:15",
+   "accept": [
+    "9 ?(h|:|\\.) ?15"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q2",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A resident asks you to extend a short stay by exactly 7 nights. May you do it yourself?",
+   "gold": "Yes (up to 7 nights)",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q3",
+   "sec": 2,
+   "type": "F",
+   "hop": 3,
+   "q": "A resident hosts an overnight guest for 6 nights in the same month. How much do they pay in total?",
+   "gold": "€54 (3 free nights, then 3 × €18)",
+   "accept": [
+    "\\b54\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q4",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A departing resident's deposit is exactly €600. May you refund it yourself?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q5",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "A fire alarm goes off. What do you tell residents, and what do you do yourself, in what order?",
+   "gold": "Tell them to exit by stairway B; call the caretaker at 04 72 55 01 38 yourself; then text Claire",
+   "accept": [
+    "stair|escalier",
+    "04 ?72 ?55 ?01 ?38",
+    "claire"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q6",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "May the director, Hélène Brisset, be copied on a routine rent reminder? And on an exclusion email?",
+   "gold": "No for a routine reminder; yes for an exclusion",
+   "accept": [
+    "^\\W*no\\b",
+    "yes"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q7",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "Rent has been unpaid for exactly 5 days on Monday morning. Does it go on Claire's list?",
+   "gold": "No (more than 5 days only)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q8",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "Is sending Claire the unpaid-rent list at exactly 10:00 on Monday on time?",
+   "gold": "No (before 10:00)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q1",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "When is the studio inbox checked?",
+   "gold": "Every day at 8 a.m. and 6 p.m.",
+   "accept": [
+    "8",
+    "(6 ?p|18[:.]?00|18시|오후 ?6)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q2",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A member asks you to book them 2 classes on the same day. May you do it yourself?",
+   "gold": "Yes (up to 2 per day)",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q3",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A member asks you to book 3 classes on the same day. May you do it without approval?",
+   "gold": "No; needs manager Jung Sua",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q4",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A member cancels exactly 3 hours before class starts. Is a session deducted?",
+   "gold": "No (free up to 3 hours before)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q5",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A member cancels 2 hours before class; the instructor was not changed. Is a session deducted?",
+   "gold": "Yes, one session",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q6",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A member has used 4 sessions of a 10-session pass and wants a refund. Is it allowed, and who processes it?",
+   "gold": "Yes; manager Jung Sua processes it (you only tell the member to fill in the refund form)",
+   "accept": [
+    "^\\W*yes\\b",
+    "(jung|jeong|정수아|sua|su-a)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q7",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A member is injured during class. What do you tell the instructor, and what do you do yourself, in what order?",
+   "gold": "Tell the instructor not to move the member; call 119 yourself; then text Jung Sua at 010-5550-2741",
+   "accept": [
+    "mov",
+    "119",
+    "5550-2741"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q8",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "May the CEO, Park Dohyun, be cc'd on a member email?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q1",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "When is the orders inbox checked?",
+   "gold": "Monday to Saturday at 7:00 and 16:00",
+   "accept": [
+    "7",
+    "(4 ?p|16)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q2",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "An order totals exactly R$ 800,00. May you accept it on your own?",
+   "gold": "Yes (up to R$ 800)",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q3",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer not on the Cesta Semanal plan orders exactly R$ 150,00. Is there a delivery fee?",
+   "gold": "No (free from R$ 150)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q4",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "An order has been late for exactly 2 hours. Does the customer get the 10% coupon?",
+   "gold": "No (more than 2 hours only)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q5",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer received a damaged product and wants a refund. Who does the refund, and what must the customer do?",
+   "gold": "Juliana Prates does the refund; the customer must send a photo to qualidade@raizverde.com.br within 24 hours of delivery",
+   "accept": [
+    "juliana|prates",
+    "qualidade@raizverde",
+    "24"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q6",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "The customer is not home. What do you do, and may you give the customer the driver's phone number?",
+   "gold": "Ask the driver to call the central at (31) 5555-0192; no, never give the driver's phone",
+   "accept": [
+    "5555-0192",
+    "\\bno\\b|never|not"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q7",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "What exact sentence must end every order confirmation?",
+   "gold": "\"Frutas maduras podem variar de cor e tamanho.\"",
+   "accept": [
+    "frutas maduras podem variar de cor e tamanho"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q8",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Is sending Thiago the cancelled-orders report at 11:00 sharp on Thursday on time?",
+   "gold": "No (before 11:00)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  }
+ ]
+}

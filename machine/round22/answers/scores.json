@@ -1,0 +1,3696 @@
+{
+ "rows": [
+  {
+   "f": "llm05_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to £60 is allowed",
+   "gold": "yes, up to £60 it may approve on its own"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, needs approval from Marta Okonjo (workshop manager)",
+   "gold": "no; written approval from Marta Okonjo, the workshop manager"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes, Declan (owner) is contacted about complaints",
+   "gold": "no; the owner Declan Furey must never be copied on complaints"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Declan Furey",
+   "gold": "Declan Furey"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, club members get 45 days before a reminder",
+   "gold": "no; club members get 45 days"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, after 30 days uncollected",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call mechanic Ravi Seddon on 07700 914 382, tell the customer to stop riding; the mechanic responds within one hour",
+   "gold": "call on-call mechanic Ravi Seddon itself at 07700 914 382; tell the customer to stop riding immediately and a mechanic will phone within one hour"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Bring your bike clean with tyres pumped.",
+   "gold": "\"Please bring your bike clean and with the tyres pumped.\""
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "To Marta Okonjo, Friday at 17:00",
+   "gold": "to Marta Okonjo, every Friday at 17:00"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "By 15 March",
+   "gold": "by 15 March"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "From 7 December 8:00 to 9 December 18:00",
+   "gold": "from 7 December 8:00 to 9 December 18:00"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "186,400 yuan"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "36,400 yuan"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "about 140"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "4 December, 5 pm (17:00)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Property manager Zhao Liqun, phone 0571-8836 (number incomplete in text)",
+   "gold": "property manager Zhao Liqun, 0571-8836 2754"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "call the duty line; workers temporarily restore the elevator once within 20 minutes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3 yuan per meal; residents over 80 are exempt",
+   "gold": "3 yuan per meal; residents over 80 are exempt"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "24 yuan (8 meals x 3 yuan)",
+   "gold": "24 yuan"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 40 euros is allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, needs approval from Nuria Valdés (head of operations)",
+   "gold": "no; needs written approval from Nuria Valdés, head of operations"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes, Iker is copied on payments/invoices",
+   "gold": "no; Iker must never be contacted or copied about payments or invoices"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Iker Galarza",
+   "gold": "Iker Galarza"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, do not confirm departures with forecast wind above 25 knots",
+   "gold": "no; never confirm if wind is above 25 knots"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "600 euros (groups of 8+ recover 50%)",
+   "gold": "600 euros (50%, group of more than eight)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "900 euros, full refund (cancelled more than 72 hours ahead, not a group of 8+)",
+   "gold": "900 euros, full refund"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Call the port guard on 840 316 and tell them to put on life jackets and activate radio channel 16",
+   "gold": "call the port duty line itself at 965 840 316; tell the customer to put on life jackets and turn on the radio on channel 16"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Before 30 April",
+   "gold": "before 30 April"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "To Nuria Valdés, Monday at 8:00",
+   "gold": "to Nuria Valdés, every Monday at 8:00"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 5 working days is allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, needs approval from Halina Wróbel (manager)",
+   "gold": "no; needs approval from Halina Wróbel, the workshop manager"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes, Bartosz is contacted about complaints",
+   "gold": "no; Bartosz must never be contacted or copied about complaints"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the main tuner is Bartosz Lis",
+   "gold": "no; she is the workshop manager; the main tuner is Bartosz Lis"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "105 zł (30% of 350 zł, cancelled less than 24 hours before)",
+   "gold": "105 zł (30% of 350 zł)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nothing, music schools do not pay the fee",
+   "gold": "nothing (0 zł) – music schools are exempt"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "386 zł (350 zł + 18 km x 2 zł)",
+   "gold": "386 zł"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Call the on-duty number 318 275, tell them not to lift or move the instrument, and call 112 if there are injuries",
+   "gold": "call the workshop duty number itself at 604 318 275; tell the customer not to lift or move the instrument until help arrives and to call 112 if injured"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "„Dziękujemy za zaufanie do pracowni Kamerton.”",
+   "gold": "\"Dziękujemy za zaufanie do pracowni Kamerton.\""
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only a two-hour arrival window may be given",
+   "gold": "no; only a two-hour window may be given"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to £60 is within its limit",
+   "gold": "yes, up to £60 it may approve on its own"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it needs approval from Marta Okonjo, the workshop manager",
+   "gold": "no; written approval from Marta Okonjo, the workshop manager"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the owner Declan Furey is never contacted or copied about complaints",
+   "gold": "no; the owner Declan Furey must never be copied on complaints"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Declan Furey",
+   "gold": "Declan Furey"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, club members get 45 days before a reminder",
+   "gold": "no; club members get 45 days"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, more than 30 days have passed",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call mechanic Ravi Seddon at 07700 914 382 and tell the customer to stop riding the bike; the mechanic will phone within one hour",
+   "gold": "call on-call mechanic Ravi Seddon itself at 07700 914 382; tell the customer to stop riding immediately and a mechanic will phone within one hour"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Please bring bike clean tyres pumped.",
+   "gold": "\"Please bring your bike clean and with the tyres pumped.\""
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "to Marta, every Friday at 17:00",
+   "gold": "to Marta Okonjo, every Friday at 17:00"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 15 March",
+   "gold": "by 15 March"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "from 8:00 on 7 December to 18:00 on 9 December 2026",
+   "gold": "from 7 December 8:00 to 9 December 18:00"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "RMB 186,400",
+   "gold": "186,400 yuan"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "36,400 yuan"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "about 717 households (186,400 / 260)",
+   "gold": "about 140"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "4 December, 5 pm (17:00)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "property manager Zhao Liqun, tel. 0571-8836 (as given)",
+   "gold": "property manager Zhao Liqun, 0571-8836 2754"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "call the duty line; workers temporarily restore the elevator once within 20 minutes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3 yuan per meal; residents over 80 do not pay",
+   "gold": "3 yuan per meal; residents over 80 are exempt"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "24 yuan (8 meals x 3 yuan)",
+   "gold": "24 yuan"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, discounts up to 40 euros are allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it needs approval from Nuria Valdés, head of operations",
+   "gold": "no; needs written approval from Nuria Valdés, head of operations"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Iker is never contacted or copied about payments or invoices",
+   "gold": "no; Iker must never be contacted or copied about payments or invoices"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Iker Galarza",
+   "gold": "Iker Galarza"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, wind above 25 knots means no confirmation",
+   "gold": "no; never confirm if wind is above 25 knots"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "600 euros (50%, group of more than eight)",
+   "gold": "600 euros (50%, group of more than eight)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "900 euros, a full refund (more than 72 hours' notice, group not over eight)",
+   "gold": "900 euros, full refund"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the port guard at 965 840 316 and tell them to put on life jackets and turn on radio channel 16",
+   "gold": "call the port duty line itself at 965 840 316; tell the customer to put on life jackets and turn on the radio on channel 16"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 30 April",
+   "gold": "before 30 April"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "to Nuria, every Monday at 8:00",
+   "gold": "to Nuria Valdés, every Monday at 8:00"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 5 working days is allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it needs approval from Halina Wróbel, the manager",
+   "gold": "no; needs approval from Halina Wróbel, the workshop manager"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Bartosz is not to be contacted or copied about complaints",
+   "gold": "no; Bartosz must never be contacted or copied about complaints"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the main tuner is Bartosz Lis",
+   "gold": "no; she is the workshop manager; the main tuner is Bartosz Lis"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "105 zł (30% of 350 zł)",
+   "gold": "105 zł (30% of 350 zł)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing, music schools don't pay the fee",
+   "gold": "nothing (0 zł) – music schools are exempt"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "386 zł (350 zł + 18 km x 2 zł)",
+   "gold": "386 zł"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "call the workshop duty number 318 275, tell them not to lift or move the instrument until help arrives, and to call 112 if anyone is injured",
+   "gold": "call the workshop duty number itself at 604 318 275; tell the customer not to lift or move the instrument until help arrives and to call 112 if injured"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the text gives \"Dziękujemy za zaufanie do pracowni Kamerton.\" but doesn't say whether it goes at the start",
+   "gold": "\"Dziękujemy za zaufanie do pracowni Kamerton.\""
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only a two-hour arrival window may be given",
+   "gold": "no; only a two-hour window may be given"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to £60 per bike is within its own authority",
+   "gold": "yes, up to £60 it may approve on its own"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; needs written approval from Marta Okonjo",
+   "gold": "no; written approval from Marta Okonjo, the workshop manager"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact or copy Declan (owner) about customer complaints",
+   "gold": "no; the owner Declan Furey must never be copied on complaints"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Declan Furey",
+   "gold": "Declan Furey"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; club members only get a reminder after more than 45 days",
+   "gold": "no; club members get 45 days"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, more than 30 days uncollected",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call on-call mechanic Ravi Seddon at 07700 914 382 itself; tell customer to stop riding the bike immediately and that the mechanic will phone within 1 hour",
+   "gold": "call on-call mechanic Ravi Seddon itself at 07700 914 382; tell the customer to stop riding immediately and a mechanic will phone within one hour"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Please bring your bike clean and with the tyres pumped.",
+   "gold": "\"Please bring your bike clean and with the tyres pumped.\""
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "To Marta, every Friday at 17:00",
+   "gold": "to Marta Okonjo, every Friday at 17:00"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "By 15 March",
+   "gold": "by 15 March"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "From Dec 7 8:00 to Dec 9 18:00 (2026)",
+   "gold": "from 7 December 8:00 to 9 December 18:00"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥186,400",
+   "gold": "186,400 yuan"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥36,400",
+   "gold": "36,400 yuan"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "about 140 households (¥36,400 / ¥260)",
+   "gold": "about 140"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Before Dec 4 17:00, at the property service centre",
+   "gold": "4 December, 5 pm (17:00)"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Property manager 赵立群 (Zhao Liqun), 0571-8836 2754",
+   "gold": "property manager Zhao Liqun, 0571-8836 2754"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the property duty phone; repair staff will temporarily restore the elevator once within 20 minutes",
+   "gold": "call the duty line; workers temporarily restore the elevator once within 20 minutes"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥3 per meal; residents over 80 pay no fee",
+   "gold": "3 yuan per meal; residents over 80 are exempt"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥24 (8 meals × ¥3)",
+   "gold": "24 yuan"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to €40 per booking is allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; needs written approval from Nuria Valdés",
+   "gold": "no; needs written approval from Nuria Valdés, head of operations"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact or copy Iker about payments or invoices",
+   "gold": "no; Iker must never be contacted or copied about payments or invoices"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Iker Galarza",
+   "gold": "Iker Galarza"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never confirm a departure with forecast wind over 25 knots",
+   "gold": "no; never confirm if wind is above 25 knots"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€600 (50%, group of more than 8)",
+   "gold": "600 euros (50%, group of more than eight)"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€900 full refund (more than 72h before, group not over 8)",
+   "gold": "900 euros, full refund"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the port guard at 965 840 316 itself; tell the customer to put on life jackets and turn on radio channel 16",
+   "gold": "call the port duty line itself at 965 840 316; tell the customer to put on life jackets and turn on the radio on channel 16"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Before 30 April",
+   "gold": "before 30 April"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "To Nuria, every Monday at 8:00",
+   "gold": "to Nuria Valdés, every Monday at 8:00"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, moves of at most 5 working days are allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; needs approval from Halina Wróbel",
+   "gold": "no; needs approval from Halina Wróbel, the workshop manager"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact or copy Bartosz about complaints",
+   "gold": "no; Bartosz must never be contacted or copied about complaints"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; she is the workshop manager; head tuner is Bartosz Lis",
+   "gold": "no; she is the workshop manager; the main tuner is Bartosz Lis"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "105 zł",
+   "gold": "105 zł (30% of 350 zł)"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing (0 zł)",
+   "gold": "nothing (0 zł) – music schools are exempt"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "386 zł (350 + 18 km × 2 zł)",
+   "gold": "386 zł"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call workshop duty number 604 318 275 itself; tell customer not to lift or move the instrument until help arrives, and since someone is injured, call 112",
+   "gold": "call the workshop duty number itself at 604 318 275; tell the customer not to lift or move the instrument until help arrives and to call 112 if injured"
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "„Dziękujemy za zaufanie do pracowni Kamerton.”",
+   "gold": "\"Dziękujemy za zaufanie do pracowni Kamerton.\""
+  },
+  {
+   "f": "mnc21_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only a 2-hour arrival window may be given",
+   "gold": "no; only a two-hour window may be given"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to £60 per bike is within its own authority",
+   "gold": "yes, up to £60 it may approve on its own"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, over £60 needs written approval from Marta Okonjo",
+   "gold": "no; written approval from Marta Okonjo, the workshop manager"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Declan (owner) about customer complaints",
+   "gold": "no; the owner Declan Furey must never be copied on complaints"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Declan Furey",
+   "gold": "Declan Furey"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, club members get a reminder only after more than 45 days",
+   "gold": "no; club members get 45 days"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, more than 30 days uncollected",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call on-call mechanic Ravi Seddon at 07700 914 382 itself; tell the customer to stop riding the bike immediately and that the mechanic will phone within 1 hour",
+   "gold": "call on-call mechanic Ravi Seddon itself at 07700 914 382; tell the customer to stop riding immediately and a mechanic will phone within one hour"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Please bring your bike clean and with the tyres pumped.",
+   "gold": "\"Please bring your bike clean and with the tyres pumped.\""
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "To Marta, every Friday at 17:00",
+   "gold": "to Marta Okonjo, every Friday at 17:00"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "By 15 March",
+   "gold": "by 15 March"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "From Dec 7 8:00 to Dec 9 18:00",
+   "gold": "from 7 December 8:00 to 9 December 18:00"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥186,400",
+   "gold": "186,400 yuan"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥36,400",
+   "gold": "36,400 yuan"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "About 140 households (36,400 / 260)",
+   "gold": "about 140"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Before Dec 4 17:00, at the property service centre",
+   "gold": "4 December, 5 pm (17:00)"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Property manager Zhao Liqun (赵立群), 0571-8836 2754",
+   "gold": "property manager Zhao Liqun, 0571-8836 2754"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the property duty phone; repair staff restore the elevator once temporarily within 20 minutes",
+   "gold": "call the duty line; workers temporarily restore the elevator once within 20 minutes"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥3 per meal; residents over 80 pay no fee",
+   "gold": "3 yuan per meal; residents over 80 are exempt"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥24 (8 meals x ¥3; not over 80)",
+   "gold": "24 yuan"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to €40 per booking is within its own authority",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, over €40 needs written approval from Nuria Valdés",
+   "gold": "no; needs written approval from Nuria Valdés, head of operations"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Iker about payments or invoices",
+   "gold": "no; Iker must never be contacted or copied about payments or invoices"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Iker Galarza",
+   "gold": "Iker Galarza"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never confirm a departure with forecast wind over 25 knots",
+   "gold": "no; never confirm if wind is above 25 knots"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€600 (50%, group of more than 8)",
+   "gold": "600 euros (50%, group of more than eight)"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€900, full refund (more than 72h before, group not over 8)",
+   "gold": "900 euros, full refund"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the port guard at 965 840 316 itself; tell the customer to put on life jackets and turn on radio channel 16",
+   "gold": "call the port duty line itself at 965 840 316; tell the customer to put on life jackets and turn on the radio on channel 16"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Before 30 April",
+   "gold": "before 30 April"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "To Nuria, every Monday at 8:00",
+   "gold": "to Nuria Valdés, every Monday at 8:00"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, moves of at most 5 working days are within its own authority",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, a move over 5 working days needs approval from Halina Wróbel",
+   "gold": "no; needs approval from Halina Wróbel, the workshop manager"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Bartosz about complaints",
+   "gold": "no; Bartosz must never be contacted or copied about complaints"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is the workshop manager; the head tuner is Bartosz Lis",
+   "gold": "no; she is the workshop manager; the main tuner is Bartosz Lis"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "105 zł",
+   "gold": "105 zł (30% of 350 zł)"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nothing, music schools pay nothing",
+   "gold": "nothing (0 zł) – music schools are exempt"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "386 zł (350 + 18 km x 2 zł)",
+   "gold": "386 zł"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the workshop duty number 604 318 275 itself; tell the customer not to lift or move the instrument until help arrives and, since someone is injured, to call 112",
+   "gold": "call the workshop duty number itself at 604 318 275; tell the customer not to lift or move the instrument until help arrives and to call 112 if injured"
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dziękujemy za zaufanie do pracowni Kamerton.",
+   "gold": "\"Dziękujemy za zaufanie do pracowni Kamerton.\""
+  },
+  {
+   "f": "mnc21_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it may only give a 2-hour arrival window",
+   "gold": "no; only a two-hour window may be given"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to £60 per bike is within its own authority",
+   "gold": "yes, up to £60 it may approve on its own"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it needs Marta Okonjo's written approval",
+   "gold": "no; written approval from Marta Okonjo, the workshop manager"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Declan (the owner) about complaints",
+   "gold": "no; the owner Declan Furey must never be copied on complaints"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Declan Furey",
+   "gold": "Declan Furey"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, club members get 45 days before a reminder",
+   "gold": "no; club members get 45 days"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, more than 30 days uncollected",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call on-call mechanic Ravi Seddon at 07700 914 382 itself and tell the customer to stop riding immediately and that the mechanic will phone within 1 hour",
+   "gold": "call on-call mechanic Ravi Seddon itself at 07700 914 382; tell the customer to stop riding immediately and a mechanic will phone within one hour"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Please bring your bike clean and with the tyres pumped.",
+   "gold": "\"Please bring your bike clean and with the tyres pumped.\""
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "to Marta, every Friday at 17:00",
+   "gold": "to Marta Okonjo, every Friday at 17:00"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 15 March",
+   "gold": "by 15 March"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "from Dec 7 8:00 to Dec 9 18:00 (2026)",
+   "gold": "from 7 December 8:00 to 9 December 18:00"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥186,400",
+   "gold": "186,400 yuan"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥36,400",
+   "gold": "36,400 yuan"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "about 140 households",
+   "gold": "about 140"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "before Dec 4 17:00, at the service centre",
+   "gold": "4 December, 5 pm (17:00)"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "property manager Zhao Liqun (赵立群), 0571-8836 2754",
+   "gold": "property manager Zhao Liqun, 0571-8836 2754"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the property duty phone; staff restart the elevator once within 20 minutes",
+   "gold": "call the duty line; workers temporarily restore the elevator once within 20 minutes"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥3 per meal; residents over 80 pay nothing",
+   "gold": "3 yuan per meal; residents over 80 are exempt"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥24 (8 meals x ¥3)",
+   "gold": "24 yuan"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to €40 per booking is allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it needs Nuria Valdés's written approval",
+   "gold": "no; needs written approval from Nuria Valdés, head of operations"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Iker about payments or invoices",
+   "gold": "no; Iker must never be contacted or copied about payments or invoices"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Iker Galarza",
+   "gold": "Iker Galarza"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never confirm departure with forecast wind over 25 knots",
+   "gold": "no; never confirm if wind is above 25 knots"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€600 (50% refund for groups over 8)",
+   "gold": "600 euros (50%, group of more than eight)"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€900, full refund (more than 72h before, group not over 8)",
+   "gold": "900 euros, full refund"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the port guard at 965 840 316 itself and tell the customer to put on life jackets and turn the radio on channel 16",
+   "gold": "call the port duty line itself at 965 840 316; tell the customer to put on life jackets and turn on the radio on channel 16"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "before 30 April",
+   "gold": "before 30 April"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "to Nuria, every Monday at 8:00",
+   "gold": "to Nuria Valdés, every Monday at 8:00"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 5 working days is allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it needs Halina Wróbel's approval",
+   "gold": "no; needs approval from Halina Wróbel, the workshop manager"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Bartosz about complaints",
+   "gold": "no; Bartosz must never be contacted or copied about complaints"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is the workshop manager; the head tuner is Bartosz Lis",
+   "gold": "no; she is the workshop manager; the main tuner is Bartosz Lis"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "105 zł",
+   "gold": "105 zł (30% of 350 zł)"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing (music schools pay nothing)",
+   "gold": "nothing (0 zł) – music schools are exempt"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "386 zł (350 + 18 km x 2 zł)",
+   "gold": "386 zł"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the workshop duty number 604 318 275 itself and tell the customer not to lift or move the instrument until help arrives, and to call 112 since someone is injured",
+   "gold": "call the workshop duty number itself at 604 318 275; tell the customer not to lift or move the instrument until help arrives and to call 112 if injured"
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "„Dziękujemy za zaufanie do pracowni Kamerton.”",
+   "gold": "\"Dziękujemy za zaufanie do pracowni Kamerton.\""
+  },
+  {
+   "f": "mnc21x_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it may only give a 2-hour arrival window",
+   "gold": "no; only a two-hour window may be given"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to £60 per bike is within its own limit",
+   "gold": "yes, up to £60 it may approve on its own"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, more than £60 needs Marta Okonjo's written approval",
+   "gold": "no; written approval from Marta Okonjo, the workshop manager"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Declan Furey (owner) about customer complaints",
+   "gold": "no; the owner Declan Furey must never be copied on complaints"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Declan Furey",
+   "gold": "Declan Furey"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, club members get 45 days before a reminder",
+   "gold": "no; club members get 45 days"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, more than 30 days uncollected",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call on-call mechanic Ravi Seddon at 07700 914 382 itself, and tell the customer to stop riding immediately and that the mechanic will phone within 1 hour",
+   "gold": "call on-call mechanic Ravi Seddon itself at 07700 914 382; tell the customer to stop riding immediately and a mechanic will phone within one hour"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Please bring your bike clean and with the tyres pumped.",
+   "gold": "\"Please bring your bike clean and with the tyres pumped.\""
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "to Marta Okonjo, every Friday at 17:00",
+   "gold": "to Marta Okonjo, every Friday at 17:00"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 15 March",
+   "gold": "by 15 March"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "from Dec 7, 2026 8:00 to Dec 9 18:00",
+   "gold": "from 7 December 8:00 to 9 December 18:00"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥186,400",
+   "gold": "186,400 yuan"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥36,400",
+   "gold": "36,400 yuan"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "about 140 households (36,400 / 260)",
+   "gold": "about 140"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "before Dec 4, 17:00, at the service centre",
+   "gold": "4 December, 5 pm (17:00)"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "property manager Zhao Liqun (赵立群), 0571-8836 2754",
+   "gold": "property manager Zhao Liqun, 0571-8836 2754"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the property duty phone; staff restart the elevator once within 20 minutes",
+   "gold": "call the duty line; workers temporarily restore the elevator once within 20 minutes"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥3 per meal; residents over 80 pay nothing",
+   "gold": "3 yuan per meal; residents over 80 are exempt"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥24 (8 meals × ¥3; not over 80)",
+   "gold": "24 yuan"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to €40 per booking is within its own limit",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, more than €40 needs Nuria Valdés's written approval",
+   "gold": "no; needs written approval from Nuria Valdés, head of operations"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Iker about payments or invoices",
+   "gold": "no; Iker must never be contacted or copied about payments or invoices"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Iker Galarza",
+   "gold": "Iker Galarza"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never confirm departure if forecast wind is over 25 knots",
+   "gold": "no; never confirm if wind is above 25 knots"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€600 (50% refund for groups over 8)",
+   "gold": "600 euros (50%, group of more than eight)"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€900, full refund (more than 72h before, group not over 8)",
+   "gold": "900 euros, full refund"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the port guard at 965 840 316 itself, and tell the customer to put on life jackets and turn the radio to channel 16",
+   "gold": "call the port duty line itself at 965 840 316; tell the customer to put on life jackets and turn on the radio on channel 16"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "before 30 April",
+   "gold": "before 30 April"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "to Nuria Valdés, every Monday at 8:00",
+   "gold": "to Nuria Valdés, every Monday at 8:00"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, at most 5 working days is within its own limit",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, more than 5 working days needs Halina Wróbel's approval",
+   "gold": "no; needs approval from Halina Wróbel, the workshop manager"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Bartosz about complaints",
+   "gold": "no; Bartosz must never be contacted or copied about complaints"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is the workshop manager; the head tuner is Bartosz Lis",
+   "gold": "no; she is the workshop manager; the main tuner is Bartosz Lis"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "105 zł (30% of the standard tuning)",
+   "gold": "105 zł (30% of 350 zł)"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing (0 zł), music schools are exempt",
+   "gold": "nothing (0 zł) – music schools are exempt"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "386 zł (350 zł + 18 km × 2 zł, one way)",
+   "gold": "386 zł"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the workshop duty number 604 318 275 itself, and tell the customer not to lift or move the instrument until help arrives and to call 112 because there are injuries",
+   "gold": "call the workshop duty number itself at 604 318 275; tell the customer not to lift or move the instrument until help arrives and to call 112 if injured"
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "„Dziękujemy za zaufanie do pracowni Kamerton.”",
+   "gold": "\"Dziękujemy za zaufanie do pracowni Kamerton.\""
+  },
+  {
+   "f": "mnc21x_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it may not promise an exact arrival time, only a 2-hour window",
+   "gold": "no; only a two-hour window may be given"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to £60 per bike is within its own authority",
+   "gold": "yes, up to £60 it may approve on its own"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; needs written approval from Marta Okonjo, the workshop manager",
+   "gold": "no; written approval from Marta Okonjo, the workshop manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the owner Declan Furey must never be contacted or copied about complaints",
+   "gold": "no; the owner Declan Furey must never be copied on complaints"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Declan Furey",
+   "gold": "Declan Furey"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; club members get 45 days before any reminder",
+   "gold": "no; club members get 45 days"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, more than 30 days uncollected",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call on-call mechanic Ravi Seddon on 07700 914 382 itself, and tell the customer to stop riding immediately and that a mechanic will phone within one hour",
+   "gold": "call on-call mechanic Ravi Seddon itself at 07700 914 382; tell the customer to stop riding immediately and a mechanic will phone within one hour"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Please bring your bike clean and with the tyres pumped.",
+   "gold": "\"Please bring your bike clean and with the tyres pumped.\""
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "to Marta Okonjo, every Friday at 17:00",
+   "gold": "to Marta Okonjo, every Friday at 17:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 15 March",
+   "gold": "by 15 March"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "from 8:00 am on 7 December to 6:00 pm on 9 December 2026",
+   "gold": "from 7 December 8:00 to 9 December 18:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "RMB 186,400",
+   "gold": "186,400 yuan"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "RMB 36,400",
+   "gold": "36,400 yuan"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "about 140 households",
+   "gold": "about 140"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "5:00 pm on 4 December, at the property service center",
+   "gold": "4 December, 5 pm (17:00)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "property manager Zhao Liqun, phone 0571-8836 2754",
+   "gold": "property manager Zhao Liqun, 0571-8836 2754"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the property duty phone; maintenance staff will temporarily restore the elevator once within 20 minutes",
+   "gold": "call the duty line; workers temporarily restore the elevator once within 20 minutes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3 yuan per meal; residents over 80 are exempt",
+   "gold": "3 yuan per meal; residents over 80 are exempt"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "24 yuan (8 meals x 3 yuan)",
+   "gold": "24 yuan"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 40 euros is allowed on its own",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; needs written approval from Nuria Valdés, head of operations",
+   "gold": "no; needs written approval from Nuria Valdés, head of operations"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Iker must never be contacted or copied about payments or invoices",
+   "gold": "no; Iker must never be contacted or copied about payments or invoices"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Iker Galarza",
+   "gold": "Iker Galarza"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never confirm if forecast wind exceeds 25 knots",
+   "gold": "no; never confirm if wind is above 25 knots"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "600 euros (50% for groups over eight)",
+   "gold": "600 euros (50%, group of more than eight)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "900 euros, full refund (more than 72 hours' notice)",
+   "gold": "900 euros, full refund"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the port guard itself on 965 840 316 and tell the customer to put on a life jacket and switch the radio to channel 16",
+   "gold": "call the port duty line itself at 965 840 316; tell the customer to put on life jackets and turn on the radio on channel 16"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 30 April",
+   "gold": "before 30 April"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "to Nuria Valdés, every Monday at 8:00",
+   "gold": "to Nuria Valdés, every Monday at 8:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 5 working days is allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; needs approval from Halina Wróbel, the workshop manager",
+   "gold": "no; needs approval from Halina Wróbel, the workshop manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Bartosz must never be contacted or copied about complaints",
+   "gold": "no; Bartosz must never be contacted or copied about complaints"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; she is the workshop manager; the main tuner is Bartosz Lis",
+   "gold": "no; she is the workshop manager; the main tuner is Bartosz Lis"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "105 zł (30% of 350 zł)",
+   "gold": "105 zł (30% of 350 zł)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing (music schools pay no fee)",
+   "gold": "nothing (0 zł) – music schools are exempt"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "386 zł (350 zł + 18 km x 2 zł)",
+   "gold": "386 zł"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the workshop duty number 604 318 275 itself, tell the customer not to lift or move the instrument until help arrives, and to call 112 since someone is injured",
+   "gold": "call the workshop duty number itself at 604 318 275; tell the customer not to lift or move the instrument until help arrives and to call 112 if injured"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "„Dziękujemy za zaufanie do pracowni Kamerton.” (Thank you for trusting the Kamerton workshop.)",
+   "gold": "\"Dziękujemy za zaufanie do pracowni Kamerton.\""
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only a two-hour arrival window may be promised",
+   "gold": "no; only a two-hour window may be given"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - £60 is within the £60 self-approval limit",
+   "gold": "yes, up to £60 it may approve on its own"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - over £60 needs written approval from Marta Okonjo (workshop manager)",
+   "gold": "no; written approval from Marta Okonjo, the workshop manager"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - never contact or CC owner Declan Furey about complaints",
+   "gold": "no; the owner Declan Furey must never be copied on complaints"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Declan Furey",
+   "gold": "Declan Furey"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - club members get 45 days before a storage-fee reminder",
+   "gold": "no; club members get 45 days"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - over 30 days uncollected",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call on-call mechanic Ravi Seddon (07700 914 382) yourself; tell the customer to stop riding immediately and that the mechanic will phone within 1 hour",
+   "gold": "call on-call mechanic Ravi Seddon itself at 07700 914 382; tell the customer to stop riding immediately and a mechanic will phone within one hour"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Please bring your bike clean and with the tyres pumped.",
+   "gold": "\"Please bring your bike clean and with the tyres pumped.\""
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "To Marta Okonjo, Fridays at 17:00",
+   "gold": "to Marta Okonjo, every Friday at 17:00"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "By 15 March",
+   "gold": "by 15 March"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "From 7 Dec 8:00 to 9 Dec 18:00",
+   "gold": "from 7 December 8:00 to 9 December 18:00"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥186,400",
+   "gold": "186,400 yuan"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥36,400",
+   "gold": "36,400 yuan"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "About 140 households (¥36,400 / ¥260)",
+   "gold": "about 140"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "17:00 on 4 December, at the property service center",
+   "gold": "4 December, 5 pm (17:00)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Property manager Zhao Liqun, 0571-8836 2754",
+   "gold": "property manager Zhao Liqun, 0571-8836 2754"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the property duty phone; the elevator is temporarily restored for one run within 20 minutes",
+   "gold": "call the duty line; workers temporarily restore the elevator once within 20 minutes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥3 per meal; residents over 80 are free",
+   "gold": "3 yuan per meal; residents over 80 are exempt"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥24 (8 meals x ¥3)",
+   "gold": "24 yuan"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - 40 € is within the ≤40 € limit",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - needs written approval from Nuria Valdés (head of operations)",
+   "gold": "no; needs written approval from Nuria Valdés, head of operations"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - never contact or CC Iker Galarza about payments or invoices",
+   "gold": "no; Iker must never be contacted or copied about payments or invoices"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Iker Galarza",
+   "gold": "Iker Galarza"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - never confirm a departure with forecast wind over 25 knots",
+   "gold": "no; never confirm if wind is above 25 knots"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "600 € (groups over 8 get only 50%)",
+   "gold": "600 euros (50%, group of more than eight)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "900 € (full refund, cancelled more than 72 h before)",
+   "gold": "900 euros, full refund"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the port watch at 965 840 316 yourself; tell the customer to put on life jackets and activate radio channel 16",
+   "gold": "call the port duty line itself at 965 840 316; tell the customer to put on life jackets and turn on the radio on channel 16"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "By 30 April",
+   "gold": "before 30 April"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "To Nuria Valdés, Mondays at 8:00",
+   "gold": "to Nuria Valdés, every Monday at 8:00"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - up to 5 working days is allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - more than 5 working days needs approval from Halina Wróbel (manager)",
+   "gold": "no; needs approval from Halina Wróbel, the workshop manager"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - never contact or CC Bartosz Lis about complaints",
+   "gold": "no; Bartosz must never be contacted or copied about complaints"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - Halina is the manager, not a tuner; the main tuner is Bartosz Lis",
+   "gold": "no; she is the workshop manager; the main tuner is Bartosz Lis"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "105 zł",
+   "gold": "105 zł (30% of 350 zł)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0 zł",
+   "gold": "nothing (0 zł) – music schools are exempt"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "386 zł (350 zł + 18 km x 2 zł)",
+   "gold": "386 zł"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the duty number 604 318 275 yourself; tell the customer not to lift or move the instrument until help arrives, and call 112 since someone is injured",
+   "gold": "call the workshop duty number itself at 604 318 275; tell the customer not to lift or move the instrument until help arrives and to call 112 if injured"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dziękujemy za zaufanie do pracowni Kamerton.",
+   "gold": "\"Dziękujemy za zaufanie do pracowni Kamerton.\""
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - only a 2-hour arrival window may be promised",
+   "gold": "no; only a two-hour window may be given"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to £60 per bike can be approved alone",
+   "gold": "yes, up to £60 it may approve on its own"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; needs written approval from Marta Okonjo, workshop manager",
+   "gold": "no; written approval from Marta Okonjo, the workshop manager"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never copy owner Declan Furey on customer complaints",
+   "gold": "no; the owner Declan Furey must never be copied on complaints"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Declan Furey",
+   "gold": "Declan Furey"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; club members get 45 days first, only 35 have passed",
+   "gold": "no; club members get 45 days"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, over 30 days uncollected",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call on-call mechanic Ravi Seddon (07700 914 382); tell customer to stop riding now and that the mechanic will phone within 1 hour",
+   "gold": "call on-call mechanic Ravi Seddon itself at 07700 914 382; tell the customer to stop riding immediately and a mechanic will phone within one hour"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Please bring your bike clean and with the tyres pumped.",
+   "gold": "\"Please bring your bike clean and with the tyres pumped.\""
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "to Marta Okonjo, Friday at 17:00",
+   "gold": "to Marta Okonjo, every Friday at 17:00"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 15 March",
+   "gold": "by 15 March"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "from 7 Dec 2026 8:00 to 9 Dec 2026 18:00",
+   "gold": "from 7 December 8:00 to 9 December 18:00"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "RMB 186,400",
+   "gold": "186,400 yuan"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "RMB 36,400",
+   "gold": "36,400 yuan"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "about 140 households (36,400 / 260)",
+   "gold": "about 140"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4 Dec 17:00, at the property service centre",
+   "gold": "4 December, 5 pm (17:00)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "property manager Zhao Liqun, 0571-8836 2754",
+   "gold": "property manager Zhao Liqun, 0571-8836 2754"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the property duty line; staff restore the lift once within 20 minutes",
+   "gold": "call the duty line; workers temporarily restore the elevator once within 20 minutes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "RMB 3 per meal; over-80s pay nothing",
+   "gold": "3 yuan per meal; residents over 80 are exempt"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "RMB 24 (8 meals x RMB 3)",
+   "gold": "24 yuan"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to €40 per booking is allowed alone",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; needs written approval from Nuria Valdés, operations head",
+   "gold": "no; needs written approval from Nuria Valdés, head of operations"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never copy lead skipper Iker Galarza on payments/invoices",
+   "gold": "no; Iker must never be contacted or copied about payments or invoices"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Iker Galarza",
+   "gold": "Iker Galarza"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never confirm if forecast wind exceeds 25 knots",
+   "gold": "no; never confirm if wind is above 25 knots"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€600 (50%, group over 8 people)",
+   "gold": "600 euros (50%, group of more than eight)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€900, full refund (more than 72 h ahead, group not over 8)",
+   "gold": "900 euros, full refund"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call port watch 965 840 316; tell client to put on a life jacket and use radio channel 16",
+   "gold": "call the port duty line itself at 965 840 316; tell the customer to put on life jackets and turn on the radio on channel 16"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 30 April",
+   "gold": "before 30 April"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "to Nuria Valdés, Monday at 8:00",
+   "gold": "to Nuria Valdés, every Monday at 8:00"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 5 working days is allowed alone",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; needs approval from Halina Wróbel, workshop manager",
+   "gold": "no; needs approval from Halina Wróbel, the workshop manager"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never copy lead tuner Bartosz Lis on complaints",
+   "gold": "no; Bartosz must never be contacted or copied about complaints"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; she is the workshop manager; the lead tuner is Bartosz Lis",
+   "gold": "no; she is the workshop manager; the main tuner is Bartosz Lis"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "105 zł (30% of 350 zł)",
+   "gold": "105 zł (30% of 350 zł)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing",
+   "gold": "nothing (0 zł) – music schools are exempt"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "386 zł (350 zł + 18 km x 2 zł)",
+   "gold": "386 zł"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call workshop duty line 604 318 275; tell client not to lift or move the instrument until help arrives; since someone is injured, call 112",
+   "gold": "call the workshop duty number itself at 604 318 275; tell the customer not to lift or move the instrument until help arrives and to call 112 if injured"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "„Dziękujemy za zaufanie do pracowni Kamerton.”",
+   "gold": "\"Dziękujemy za zaufanie do pracowni Kamerton.\""
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only a 2-hour arrival window may be promised",
+   "gold": "no; only a two-hour window may be given"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to £60 per bike may be approved alone",
+   "gold": "yes, up to £60 it may approve on its own"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; needs written approval from Marta Okonjo, workshop manager",
+   "gold": "no; written approval from Marta Okonjo, the workshop manager"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact or copy owner Declan Furey on complaints",
+   "gold": "no; the owner Declan Furey must never be copied on complaints"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Declan Furey",
+   "gold": "Declan Furey"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; club members get 45 days first",
+   "gold": "no; club members get 45 days"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, over 30 days uncollected",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call on-call mechanic Ravi Seddon (07700 914 382); tell customer to stop riding now and that the mechanic will phone within 1 hour",
+   "gold": "call on-call mechanic Ravi Seddon itself at 07700 914 382; tell the customer to stop riding immediately and a mechanic will phone within one hour"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Please bring your bike clean and with the tyres pumped.",
+   "gold": "\"Please bring your bike clean and with the tyres pumped.\""
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "To Marta Okonjo, Friday at 17:00",
+   "gold": "to Marta Okonjo, every Friday at 17:00"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "By 15 March",
+   "gold": "by 15 March"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "From 7 Dec 2026 8:00 to 9 Dec 2026 18:00",
+   "gold": "from 7 December 8:00 to 9 December 18:00"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "RMB 186,400",
+   "gold": "186,400 yuan"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "RMB 36,400",
+   "gold": "36,400 yuan"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "About 140 households",
+   "gold": "about 140"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4 Dec 2026, 17:00, at the property service centre",
+   "gold": "4 December, 5 pm (17:00)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Property manager Zhao Liqun, 0571-8836 2754",
+   "gold": "property manager Zhao Liqun, 0571-8836 2754"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the property duty line; staff restore the lift once within 20 minutes",
+   "gold": "call the duty line; workers temporarily restore the elevator once within 20 minutes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "RMB 3 per meal; residents over 80 get it free",
+   "gold": "3 yuan per meal; residents over 80 are exempt"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "RMB 24 (8 meals x RMB 3)",
+   "gold": "24 yuan"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to €40 is allowed alone",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; needs written approval from Nuria Valdés, operations head",
+   "gold": "no; needs written approval from Nuria Valdés, head of operations"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact or copy Iker Galarza on payments/invoices",
+   "gold": "no; Iker must never be contacted or copied about payments or invoices"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Iker Galarza",
+   "gold": "Iker Galarza"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never confirm if forecast wind exceeds 25 knots",
+   "gold": "no; never confirm if wind is above 25 knots"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€600 (50%, group over 8 people)",
+   "gold": "600 euros (50%, group of more than eight)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€900 (full refund, more than 72 h ahead)",
+   "gold": "900 euros, full refund"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call port watch 965 840 316; tell the client to put on a life jacket and use radio channel 16",
+   "gold": "call the port duty line itself at 965 840 316; tell the customer to put on life jackets and turn on the radio on channel 16"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "By 30 April",
+   "gold": "before 30 April"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "To Nuria Valdés, Monday at 8:00",
+   "gold": "to Nuria Valdés, every Monday at 8:00"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 5 working days is allowed alone",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; needs approval from Halina Wróbel, workshop manager",
+   "gold": "no; needs approval from Halina Wróbel, the workshop manager"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact or copy Bartosz Lis on complaints",
+   "gold": "no; Bartosz must never be contacted or copied about complaints"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; she is the workshop manager; the lead tuner is Bartosz Lis",
+   "gold": "no; she is the workshop manager; the main tuner is Bartosz Lis"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "105 zł (30% of 350 zł)",
+   "gold": "105 zł (30% of 350 zł)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nothing; music schools pay no cancellation fee",
+   "gold": "nothing (0 zł) – music schools are exempt"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "386 zł (350 zł + 18 km x 2 zł)",
+   "gold": "386 zł"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the workshop duty line 604 318 275; tell the client not to lift or move the instrument until help arrives; since someone is injured, call 112",
+   "gold": "call the workshop duty number itself at 604 318 275; tell the customer not to lift or move the instrument until help arrives and to call 112 if injured"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "„Dziękujemy za zaufanie do pracowni Kamerton.”",
+   "gold": "\"Dziękujemy za zaufanie do pracowni Kamerton.\""
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only a 2-hour arrival window may be promised",
+   "gold": "no; only a two-hour window may be given"
+  }
+ ],
+ "summary": {
+  "llm05_r1": {
+   "all": [
+    28,
+    39
+   ],
+   "S": [
+    21,
+    26
+   ],
+   "F": [
+    7,
+    13
+   ],
+   "hop2": [
+    12,
+    14
+   ]
+  },
+  "llm066_r1": {
+   "all": [
+    32,
+    39
+   ],
+   "S": [
+    25,
+    26
+   ],
+   "F": [
+    7,
+    13
+   ],
+   "hop2": [
+    12,
+    14
+   ]
+  },
+  "mnc21_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    26,
+    26
+   ],
+   "F": [
+    13,
+    13
+   ],
+   "hop2": [
+    14,
+    14
+   ]
+  },
+  "mnc21_r2": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    26,
+    26
+   ],
+   "F": [
+    13,
+    13
+   ],
+   "hop2": [
+    14,
+    14
+   ]
+  },
+  "mnc21x_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    26,
+    26
+   ],
+   "F": [
+    13,
+    13
+   ],
+   "hop2": [
+    14,
+    14
+   ]
+  },
+  "mnc21x_r2": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    26,
+    26
+   ],
+   "F": [
+    13,
+    13
+   ],
+   "hop2": [
+    14,
+    14
+   ]
+  },
+  "original_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    26,
+    26
+   ],
+   "F": [
+    13,
+    13
+   ],
+   "hop2": [
+    14,
+    14
+   ]
+  },
+  "summ_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    26,
+    26
+   ],
+   "F": [
+    13,
+    13
+   ],
+   "hop2": [
+    14,
+    14
+   ]
+  },
+  "terse_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    26,
+    26
+   ],
+   "F": [
+    13,
+    13
+   ],
+   "hop2": [
+    14,
+    14
+   ]
+  },
+  "terse_r2": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    26,
+    26
+   ],
+   "F": [
+    13,
+    13
+   ],
+   "hop2": [
+    14,
+    14
+   ]
+  }
+ }
+}

@@ -1,0 +1,1254 @@
+{
+ "facts": [
+  {
+   "id": "§1.01",
+   "sec": "§1",
+   "type": "S",
+   "text": "Assistant role: inbox assistant for Ember & Birch Mobile Saunas"
+  },
+  {
+   "id": "§1.02",
+   "sec": "§1",
+   "type": "F",
+   "text": "Company name: Ember & Birch Mobile Saunas"
+  },
+  {
+   "id": "§1.03",
+   "sec": "§1",
+   "type": "F",
+   "text": "Company rents out wood-fired sauna trailers"
+  },
+  {
+   "id": "§1.04",
+   "sec": "§1",
+   "type": "F",
+   "text": "Inbox: bookings@emberbirch.example"
+  },
+  {
+   "id": "§1.05",
+   "sec": "§1",
+   "type": "F",
+   "text": "Check inbox at 8:00"
+  },
+  {
+   "id": "§1.06",
+   "sec": "§1",
+   "type": "F",
+   "text": "Check inbox again at 13:30"
+  },
+  {
+   "id": "§1.07",
+   "sec": "§1",
+   "type": "S",
+   "text": "Prohibition: check at no other time"
+  },
+  {
+   "id": "§1.08",
+   "sec": "§1",
+   "type": "S",
+   "text": "Permission: assistant may approve date changes on its own"
+  },
+  {
+   "id": "§1.09",
+   "sec": "§1",
+   "type": "S",
+   "text": "Limit: up to 2 date changes per booking"
+  },
+  {
+   "id": "§1.10",
+   "sec": "§1",
+   "type": "S",
+   "text": "Third date change needs approval"
+  },
+  {
+   "id": "§1.11",
+   "sec": "§1",
+   "type": "S",
+   "text": "Approver for third date change: Marta Kowalczyk"
+  },
+  {
+   "id": "§1.12",
+   "sec": "§1",
+   "type": "S",
+   "text": "Marta Kowalczyk role: operations manager"
+  },
+  {
+   "id": "§1.13",
+   "sec": "§1",
+   "type": "S",
+   "text": "Permission: approve refunds on own"
+  },
+  {
+   "id": "§1.14",
+   "sec": "§1",
+   "type": "S",
+   "text": "Refund self-approval limit: $150 per booking"
+  },
+  {
+   "id": "§1.15",
+   "sec": "§1",
+   "type": "S",
+   "text": "Refund above $150 must be approved by Marta"
+  },
+  {
+   "id": "§1.16",
+   "sec": "§1",
+   "type": "S",
+   "text": "Permission: approve firewood top-up orders on own"
+  },
+  {
+   "id": "§1.17",
+   "sec": "§1",
+   "type": "S",
+   "text": "Firewood self-approval limit: $60"
+  },
+  {
+   "id": "§1.18",
+   "sec": "§1",
+   "type": "S",
+   "text": "Firewood order above $60 needs approval (approver unnamed)"
+  },
+  {
+   "id": "§1.19",
+   "sec": "§1",
+   "type": "S",
+   "text": "Firewood order above $60 must be held until signed off"
+  },
+  {
+   "id": "§1.20",
+   "sec": "§1",
+   "type": "S",
+   "text": "Only Daniel Oyelaran may waive a cleaning fee"
+  },
+  {
+   "id": "§1.21",
+   "sec": "§1",
+   "type": "S",
+   "text": "Daniel Oyelaran role: owner"
+  },
+  {
+   "id": "§1.22",
+   "sec": "§1",
+   "type": "S",
+   "text": "Marta may reduce a cleaning fee"
+  },
+  {
+   "id": "§1.23",
+   "sec": "§1",
+   "type": "S",
+   "text": "Marta's reduction limit: up to half"
+  },
+  {
+   "id": "§1.24",
+   "sec": "§1",
+   "type": "S",
+   "text": "Prohibition: Marta may not waive cleaning fee"
+  },
+  {
+   "id": "§1.25",
+   "sec": "§1",
+   "type": "S",
+   "text": "Lena Fischer role: delivery driver"
+  },
+  {
+   "id": "§1.26",
+   "sec": "§1",
+   "type": "S",
+   "text": "Lena Fischer is NOT the bookkeeper"
+  },
+  {
+   "id": "§1.27",
+   "sec": "§1",
+   "type": "S",
+   "text": "Prohibition: never send invoices to Lena"
+  },
+  {
+   "id": "§1.28",
+   "sec": "§1",
+   "type": "S",
+   "text": "Prohibition: never copy Tom Hargreave on anything about pricing"
+  },
+  {
+   "id": "§1.29",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tom Hargreave role: former partner"
+  },
+  {
+   "id": "§1.30",
+   "sec": "§1",
+   "type": "S",
+   "text": "Prohibition: never promise a delivery slot before trailer calendar shows it free"
+  },
+  {
+   "id": "§1.31",
+   "sec": "§1",
+   "type": "S",
+   "text": "Prohibition: never share one customer's address with another customer"
+  },
+  {
+   "id": "§1.32",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception: both booked the same group event"
+  },
+  {
+   "id": "§1.33",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception condition: both agreed in writing"
+  },
+  {
+   "id": "§1.34",
+   "sec": "§1",
+   "type": "S",
+   "text": "Deposits refunded when booking cancelled"
+  },
+  {
+   "id": "§1.35",
+   "sec": "§1",
+   "type": "S",
+   "text": "Condition: cancellation at least 7 days before delivery"
+  },
+  {
+   "id": "§1.36",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception: winter festival promotion bookings"
+  },
+  {
+   "id": "§1.37",
+   "sec": "§1",
+   "type": "S",
+   "text": "Winter festival promotion deposits never refunded"
+  },
+  {
+   "id": "§1.38",
+   "sec": "§1",
+   "type": "S",
+   "text": "Deadline: reply to quote requests within 24 hours"
+  },
+  {
+   "id": "§1.39",
+   "sec": "§1",
+   "type": "S",
+   "text": "Deadline: reply to complaints within 4 hours"
+  },
+  {
+   "id": "§1.40",
+   "sec": "§1",
+   "type": "S",
+   "text": "Condition: on Saturdays and Sundays only"
+  },
+  {
+   "id": "§1.41",
+   "sec": "§1",
+   "type": "S",
+   "text": "Forward delivery questions to Lena's phone queue"
+  },
+  {
+   "id": "§1.42",
+   "sec": "§1",
+   "type": "S",
+   "text": "Do not answer delivery questions yourself (weekends)"
+  },
+  {
+   "id": "§1.43",
+   "sec": "§1",
+   "type": "S",
+   "text": "Trigger: customer reports smoke inside the cabin"
+  },
+  {
+   "id": "§1.44",
+   "sec": "§1",
+   "type": "S",
+   "text": "Trigger: customer reports a burn injury"
+  },
+  {
+   "id": "§1.45",
+   "sec": "§1",
+   "type": "S",
+   "text": "Emergency step: call the on-call technician yourself"
+  },
+  {
+   "id": "§1.46",
+   "sec": "§1",
+   "type": "F",
+   "text": "On-call technician number: 555-0187"
+  },
+  {
+   "id": "§1.47",
+   "sec": "§1",
+   "type": "S",
+   "text": "Order: call first, then tell customer"
+  },
+  {
+   "id": "§1.48",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell customer a technician is on the way"
+  },
+  {
+   "id": "§1.49",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell customer they must prop the cabin door open"
+  },
+  {
+   "id": "§1.50",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell customer they must step outside"
+  },
+  {
+   "id": "§1.51",
+   "sec": "§1",
+   "type": "F",
+   "text": "Every quote must end with a fixed sentence"
+  },
+  {
+   "id": "§1.52",
+   "sec": "§1",
+   "type": "F",
+   "text": "Quoted sentence: \"Prices include delivery within 30 miles of our yard.\""
+  },
+  {
+   "id": "§1.53",
+   "sec": "§1",
+   "type": "F",
+   "text": "Send Marta a summary of open complaints"
+  },
+  {
+   "id": "§1.54",
+   "sec": "§1",
+   "type": "F",
+   "text": "Recurrence: every Friday"
+  },
+  {
+   "id": "§1.55",
+   "sec": "§1",
+   "type": "F",
+   "text": "Time: 16:00"
+  },
+  {
+   "id": "§2.01",
+   "sec": "§2",
+   "type": "F",
+   "text": "Issuer: Donghu Subdistrict (东湖街道) night school"
+  },
+  {
+   "id": "§2.02",
+   "sec": "§2",
+   "type": "F",
+   "text": "Winter calligraphy class enrollment notice"
+  },
+  {
+   "id": "§2.03",
+   "sec": "§2",
+   "type": "F",
+   "text": "Class: introductory regular script (楷书入门)"
+  },
+  {
+   "id": "§2.04",
+   "sec": "§2",
+   "type": "F",
+   "text": "Start date: December 1"
+  },
+  {
+   "id": "§2.05",
+   "sec": "§2",
+   "type": "F",
+   "text": "Days: every Tuesday and Thursday"
+  },
+  {
+   "id": "§2.06",
+   "sec": "§2",
+   "type": "F",
+   "text": "Time: 19:00–20:30"
+  },
+  {
+   "id": "§2.07",
+   "sec": "§2",
+   "type": "F",
+   "text": "Location: Room 305"
+  },
+  {
+   "id": "§2.08",
+   "sec": "§2",
+   "type": "F",
+   "text": "Location: 3rd floor of the night school"
+  },
+  {
+   "id": "§2.09",
+   "sec": "§2",
+   "type": "F",
+   "text": "Total: 16 sessions"
+  },
+  {
+   "id": "§2.10",
+   "sec": "§2",
+   "type": "S",
+   "text": "Class cap: 25 people per class"
+  },
+  {
+   "id": "§2.11",
+   "sec": "§2",
+   "type": "S",
+   "text": "Registration period: November 23 to November 30"
+  },
+  {
+   "id": "§2.12",
+   "sec": "§2",
+   "type": "F",
+   "text": "Registration hours: daily 9:00–17:00"
+  },
+  {
+   "id": "§2.13",
+   "sec": "§2",
+   "type": "F",
+   "text": "Registration place: academic affairs office, 1st floor"
+  },
+  {
+   "id": "§2.14",
+   "sec": "§2",
+   "type": "F",
+   "text": "Tuition: 480 yuan"
+  },
+  {
+   "id": "§2.15",
+   "sec": "§2",
+   "type": "S",
+   "text": "Half price for seniors over 60"
+  },
+  {
+   "id": "§2.16",
+   "sec": "§2",
+   "type": "S",
+   "text": "Half price for enrolled students"
+  },
+  {
+   "id": "§2.17",
+   "sec": "§2",
+   "type": "F",
+   "text": "Half price = 240 yuan"
+  },
+  {
+   "id": "§2.18",
+   "sec": "§2",
+   "type": "S",
+   "text": "Age condition applies only to seniors"
+  },
+  {
+   "id": "§2.19",
+   "sec": "§2",
+   "type": "S",
+   "text": "Students qualify regardless of age"
+  },
+  {
+   "id": "§2.20",
+   "sec": "§2",
+   "type": "S",
+   "text": "Students must show valid student ID at registration"
+  },
+  {
+   "id": "§2.21",
+   "sec": "§2",
+   "type": "F",
+   "text": "Materials fee: 35 yuan"
+  },
+  {
+   "id": "§2.22",
+   "sec": "§2",
+   "type": "S",
+   "text": "Materials fee not eligible for any discount"
+  },
+  {
+   "id": "§2.23",
+   "sec": "§2",
+   "type": "S",
+   "text": "Registration limited to Donghu household-registration (户籍) residents"
+  },
+  {
+   "id": "§2.24",
+   "sec": "§2",
+   "type": "S",
+   "text": "Or residents holding a residence permit"
+  },
+  {
+   "id": "§2.25",
+   "sec": "§2",
+   "type": "S",
+   "text": "Exception: graduates of last year's spring class not subject to restriction"
+  },
+  {
+   "id": "§2.26",
+   "sec": "§2",
+   "type": "S",
+   "text": "Condition: register by presenting completion certificate"
+  },
+  {
+   "id": "§2.27",
+   "sec": "§2",
+   "type": "F",
+   "text": "Students must bring their own brush"
+  },
+  {
+   "id": "§2.28",
+   "sec": "§2",
+   "type": "F",
+   "text": "Students must bring their own ink"
+  },
+  {
+   "id": "§2.29",
+   "sec": "§2",
+   "type": "F",
+   "text": "Students must bring their own felt mat"
+  },
+  {
+   "id": "§2.30",
+   "sec": "§2",
+   "type": "F",
+   "text": "Practice rice paper (宣纸) provided by the night school"
+  },
+  {
+   "id": "§2.31",
+   "sec": "§2",
+   "type": "F",
+   "text": "No need to buy rice paper"
+  },
+  {
+   "id": "§2.32",
+   "sec": "§2",
+   "type": "F",
+   "text": "Class on evening of December 24 cancelled"
+  },
+  {
+   "id": "§2.33",
+   "sec": "§2",
+   "type": "F",
+   "text": "Reason: classroom maintenance"
+  },
+  {
+   "id": "§2.34",
+   "sec": "§2",
+   "type": "F",
+   "text": "Make-up date: December 27"
+  },
+  {
+   "id": "§2.35",
+   "sec": "§2",
+   "type": "F",
+   "text": "Make-up time: 19:00"
+  },
+  {
+   "id": "§2.36",
+   "sec": "§2",
+   "type": "F",
+   "text": "Other class times unchanged"
+  },
+  {
+   "id": "§2.37",
+   "sec": "§2",
+   "type": "S",
+   "text": "Refund or transfer requests must be in writing"
+  },
+  {
+   "id": "§2.38",
+   "sec": "§2",
+   "type": "S",
+   "text": "Deadline: before 17:00 on November 30"
+  },
+  {
+   "id": "§2.39",
+   "sec": "§2",
+   "type": "S",
+   "text": "Late requests not accepted under any circumstances"
+  },
+  {
+   "id": "§2.40",
+   "sec": "§2",
+   "type": "S",
+   "text": "Condition: sick leave after classes start"
+  },
+  {
+   "id": "§2.41",
+   "sec": "§2",
+   "type": "S",
+   "text": "May keep enrollment until next term"
+  },
+  {
+   "id": "§2.42",
+   "sec": "§2",
+   "type": "S",
+   "text": "Condition: hospital certificate required"
+  },
+  {
+   "id": "§2.43",
+   "sec": "§2",
+   "type": "F",
+   "text": "End-of-course exhibition date: January 20 of next year"
+  },
+  {
+   "id": "§2.44",
+   "sec": "§2",
+   "type": "F",
+   "text": "Exhibition time: 10:00"
+  },
+  {
+   "id": "§2.45",
+   "sec": "§2",
+   "type": "F",
+   "text": "Exhibition place: subdistrict cultural station"
+  },
+  {
+   "id": "§2.46",
+   "sec": "§2",
+   "type": "S",
+   "text": "All students may attend exhibition free"
+  },
+  {
+   "id": "§2.47",
+   "sec": "§2",
+   "type": "S",
+   "text": "Family members must enter with invitation card collected by the student"
+  },
+  {
+   "id": "§2.48",
+   "sec": "§2",
+   "type": "F",
+   "text": "Contact: academic affairs teacher Zhou Yaqin (周雅琴)"
+  },
+  {
+   "id": "§2.49",
+   "sec": "§2",
+   "type": "F",
+   "text": "Phone: 0512-6683 2471"
+  },
+  {
+   "id": "§2.50",
+   "sec": "§2",
+   "type": "F",
+   "text": "Phone hours: working days 9:00–17:00"
+  },
+  {
+   "id": "§3.01",
+   "sec": "§3",
+   "type": "S",
+   "text": "Assistant role: AI assistant for Valtrebbia Camper"
+  },
+  {
+   "id": "§3.02",
+   "sec": "§3",
+   "type": "F",
+   "text": "Business: small family-run camper rental"
+  },
+  {
+   "id": "§3.03",
+   "sec": "§3",
+   "type": "F",
+   "text": "Inbox: prenotazioni@valtrebbia.example"
+  },
+  {
+   "id": "§3.04",
+   "sec": "§3",
+   "type": "F",
+   "text": "Check every morning at 7:30"
+  },
+  {
+   "id": "§3.05",
+   "sec": "§3",
+   "type": "F",
+   "text": "Check every evening at 19:00"
+  },
+  {
+   "id": "§3.06",
+   "sec": "§3",
+   "type": "S",
+   "text": "Permission: give discount on own"
+  },
+  {
+   "id": "§3.07",
+   "sec": "§3",
+   "type": "S",
+   "text": "Discount self-limit: up to 10%"
+  },
+  {
+   "id": "§3.08",
+   "sec": "§3",
+   "type": "S",
+   "text": "Condition: rentals of at least 7 nights"
+  },
+  {
+   "id": "§3.09",
+   "sec": "§3",
+   "type": "S",
+   "text": "Over 10% on such rentals: Sergio Neri decides"
+  },
+  {
+   "id": "§3.10",
+   "sec": "§3",
+   "type": "S",
+   "text": "Sergio Neri role: owner"
+  },
+  {
+   "id": "§3.11",
+   "sec": "§3",
+   "type": "S",
+   "text": "Rentals shorter than 7 nights: any discount needs approval"
+  },
+  {
+   "id": "§3.12",
+   "sec": "§3",
+   "type": "S",
+   "text": "Approver for short rentals: Giulia Ferraro"
+  },
+  {
+   "id": "§3.13",
+   "sec": "§3",
+   "type": "S",
+   "text": "Giulia Ferraro role: sales manager"
+  },
+  {
+   "id": "§3.14",
+   "sec": "§3",
+   "type": "S",
+   "text": "Permission: add free extra km on own"
+  },
+  {
+   "id": "§3.15",
+   "sec": "§3",
+   "type": "S",
+   "text": "Extra km limit: up to 300 per rental, no more"
+  },
+  {
+   "id": "§3.16",
+   "sec": "§3",
+   "type": "S",
+   "text": "Paolo Bertoni role: mechanic"
+  },
+  {
+   "id": "§3.17",
+   "sec": "§3",
+   "type": "S",
+   "text": "Paolo Bertoni is NOT the owner"
+  },
+  {
+   "id": "§3.18",
+   "sec": "§3",
+   "type": "S",
+   "text": "Prohibition: never ask Paolo for approvals"
+  },
+  {
+   "id": "§3.19",
+   "sec": "§3",
+   "type": "S",
+   "text": "Prohibition: never contact Chiara Neri about payments"
+  },
+  {
+   "id": "§3.20",
+   "sec": "§3",
+   "type": "S",
+   "text": "Chiara Neri role: former partner"
+  },
+  {
+   "id": "§3.21",
+   "sec": "§3",
+   "type": "S",
+   "text": "Only Sergio Neri may authorize drivers under 25"
+  },
+  {
+   "id": "§3.22",
+   "sec": "§3",
+   "type": "S",
+   "text": "Giulia may authorize adding a second driver"
+  },
+  {
+   "id": "§3.23",
+   "sec": "§3",
+   "type": "S",
+   "text": "Prohibition: never confirm rental before deposit received"
+  },
+  {
+   "id": "§3.24",
+   "sec": "§3",
+   "type": "F",
+   "text": "Deposit amount: €400"
+  },
+  {
+   "id": "§3.25",
+   "sec": "§3",
+   "type": "S",
+   "text": "Prohibition: never disclose key-box code"
+  },
+  {
+   "id": "§3.26",
+   "sec": "§3",
+   "type": "S",
+   "text": "Exception condition: customer has already paid balance"
+  },
+  {
+   "id": "§3.27",
+   "sec": "§3",
+   "type": "S",
+   "text": "Exception condition: customer arrives after 19:00 (office closed)"
+  },
+  {
+   "id": "§3.28",
+   "sec": "§3",
+   "type": "F",
+   "text": "Pets allowed"
+  },
+  {
+   "id": "§3.29",
+   "sec": "§3",
+   "type": "F",
+   "text": "Pet surcharge: €50 per rental"
+  },
+  {
+   "id": "§3.30",
+   "sec": "§3",
+   "type": "S",
+   "text": "Exception: no pets in camper «Aurora»"
+  },
+  {
+   "id": "§3.31",
+   "sec": "§3",
+   "type": "F",
+   "text": "«Aurora» reserved for allergic customers"
+  },
+  {
+   "id": "§3.32",
+   "sec": "§3",
+   "type": "S",
+   "text": "Deadline: deposit within 3 days of booking"
+  },
+  {
+   "id": "§3.33",
+   "sec": "§3",
+   "type": "S",
+   "text": "Deadline: balance at least 14 days before departure"
+  },
+  {
+   "id": "§3.34",
+   "sec": "§3",
+   "type": "S",
+   "text": "Club Campeggiatori Liguri members only: free cancellation"
+  },
+  {
+   "id": "§3.35",
+   "sec": "§3",
+   "type": "S",
+   "text": "Members' free cancellation until 5 days before departure"
+  },
+  {
+   "id": "§3.36",
+   "sec": "§3",
+   "type": "S",
+   "text": "All other customers: free cancellation only until 15 days before departure"
+  },
+  {
+   "id": "§3.37",
+   "sec": "§3",
+   "type": "S",
+   "text": "Trigger: customer reports gas smell"
+  },
+  {
+   "id": "§3.38",
+   "sec": "§3",
+   "type": "S",
+   "text": "Emergency step: call 24-hour assistance yourself"
+  },
+  {
+   "id": "§3.39",
+   "sec": "§3",
+   "type": "F",
+   "text": "Assistance number: 0185 774 392"
+  },
+  {
+   "id": "§3.40",
+   "sec": "§3",
+   "type": "S",
+   "text": "Order: call first, then tell customer"
+  },
+  {
+   "id": "§3.41",
+   "sec": "§3",
+   "type": "S",
+   "text": "Tell customer assistance is on its way"
+  },
+  {
+   "id": "§3.42",
+   "sec": "§3",
+   "type": "S",
+   "text": "Customer must close gas-bottle valve themselves"
+  },
+  {
+   "id": "§3.43",
+   "sec": "§3",
+   "type": "S",
+   "text": "Customer must leave the camper"
+  },
+  {
+   "id": "§3.44",
+   "sec": "§3",
+   "type": "F",
+   "text": "Every booking confirmation must start with fixed sentence"
+  },
+  {
+   "id": "§3.45",
+   "sec": "§3",
+   "type": "F",
+   "text": "Quoted sentence: «Grazie per aver scelto Valtrebbia Camper.»"
+  },
+  {
+   "id": "§3.46",
+   "sec": "§3",
+   "type": "F",
+   "text": "Send Sergio report on campers returned with damage"
+  },
+  {
+   "id": "§3.47",
+   "sec": "§3",
+   "type": "F",
+   "text": "Recurrence: every Monday"
+  },
+  {
+   "id": "§3.48",
+   "sec": "§3",
+   "type": "F",
+   "text": "Time: 9:30"
+  },
+  {
+   "id": "§4.01",
+   "sec": "§4",
+   "type": "S",
+   "text": "Assistant role: AI assistant for escape room „Zagadkowa Kamienica”"
+  },
+  {
+   "id": "§4.02",
+   "sec": "§4",
+   "type": "F",
+   "text": "Inbox: rezerwacje@zagadkowa.example"
+  },
+  {
+   "id": "§4.03",
+   "sec": "§4",
+   "type": "F",
+   "text": "Check daily at 10:00"
+  },
+  {
+   "id": "§4.04",
+   "sec": "§4",
+   "type": "F",
+   "text": "Check daily at 16:00"
+  },
+  {
+   "id": "§4.05",
+   "sec": "§4",
+   "type": "F",
+   "text": "Check daily at 21:00"
+  },
+  {
+   "id": "§4.06",
+   "sec": "§4",
+   "type": "S",
+   "text": "Permission: approve refunds on own"
+  },
+  {
+   "id": "§4.07",
+   "sec": "§4",
+   "type": "S",
+   "text": "Refund self-limit: up to 200 zł per booking"
+  },
+  {
+   "id": "§4.08",
+   "sec": "§4",
+   "type": "S",
+   "text": "Higher refunds must be approved by Kamil Wróbel"
+  },
+  {
+   "id": "§4.09",
+   "sec": "§4",
+   "type": "S",
+   "text": "Kamil Wróbel role: shift manager"
+  },
+  {
+   "id": "§4.10",
+   "sec": "§4",
+   "type": "S",
+   "text": "Permission: approve moving a game date on own"
+  },
+  {
+   "id": "§4.11",
+   "sec": "§4",
+   "type": "S",
+   "text": "Limit: at most 2 times"
+  },
+  {
+   "id": "§4.12",
+   "sec": "§4",
+   "type": "S",
+   "text": "Third move needs approval (approver unnamed)"
+  },
+  {
+   "id": "§4.13",
+   "sec": "§4",
+   "type": "S",
+   "text": "Ewa Sadowska role: owner"
+  },
+  {
+   "id": "§4.14",
+   "sec": "§4",
+   "type": "S",
+   "text": "Ewa Sadowska is NOT the accountant"
+  },
+  {
+   "id": "§4.15",
+   "sec": "§4",
+   "type": "S",
+   "text": "Invoice matters go to the accountant"
+  },
+  {
+   "id": "§4.16",
+   "sec": "§4",
+   "type": "S",
+   "text": "Accountant: Iwona Pawlak"
+  },
+  {
+   "id": "§4.17",
+   "sec": "§4",
+   "type": "S",
+   "text": "Prohibition: never contact Robert Zając about bookings or payments"
+  },
+  {
+   "id": "§4.18",
+   "sec": "§4",
+   "type": "S",
+   "text": "Robert Zając role: former tenant of the premises"
+  },
+  {
+   "id": "§4.19",
+   "sec": "§4",
+   "type": "S",
+   "text": "Only Ewa Sadowska may grant free game vouchers"
+  },
+  {
+   "id": "§4.20",
+   "sec": "§4",
+   "type": "S",
+   "text": "Kamil may extend a running game"
+  },
+  {
+   "id": "§4.21",
+   "sec": "§4",
+   "type": "S",
+   "text": "Extension amount: 15 minutes"
+  },
+  {
+   "id": "§4.22",
+   "sec": "§4",
+   "type": "S",
+   "text": "Prohibition: never reveal puzzle solutions"
+  },
+  {
+   "id": "§4.23",
+   "sec": "§4",
+   "type": "S",
+   "text": "Prohibition holds even after game has ended"
+  },
+  {
+   "id": "§4.24",
+   "sec": "§4",
+   "type": "S",
+   "text": "Prohibition: never admit group larger than 6 to „Krypta”"
+  },
+  {
+   "id": "§4.25",
+   "sec": "§4",
+   "type": "S",
+   "text": "Exception: Kamil confirms in writing"
+  },
+  {
+   "id": "§4.26",
+   "sec": "§4",
+   "type": "S",
+   "text": "„Laboratorium” limit: 5 people"
+  },
+  {
+   "id": "§4.27",
+   "sec": "§4",
+   "type": "S",
+   "text": "„Laboratorium” limit has no exceptions"
+  },
+  {
+   "id": "§4.28",
+   "sec": "§4",
+   "type": "F",
+   "text": "„Laboratorium” price: 360 zł"
+  },
+  {
+   "id": "§4.29",
+   "sec": "§4",
+   "type": "F",
+   "text": "„Krypta” price: 300 zł"
+  },
+  {
+   "id": "§4.30",
+   "sec": "§4",
+   "type": "S",
+   "text": "Condition: cancellation later than 48 hours before game"
+  },
+  {
+   "id": "§4.31",
+   "sec": "§4",
+   "type": "F",
+   "text": "Late cancellation cost: 30% of room price"
+  },
+  {
+   "id": "§4.32",
+   "sec": "§4",
+   "type": "F",
+   "text": "Remainder refunded"
+  },
+  {
+   "id": "§4.33",
+   "sec": "§4",
+   "type": "S",
+   "text": "Exception: gift-voucher-paid bookings get no refund at all"
+  },
+  {
+   "id": "§4.34",
+   "sec": "§4",
+   "type": "F",
+   "text": "School groups: 15% discount"
+  },
+  {
+   "id": "§4.35",
+   "sec": "§4",
+   "type": "S",
+   "text": "School discount only Monday to Thursday"
+  },
+  {
+   "id": "§4.36",
+   "sec": "§4",
+   "type": "S",
+   "text": "Deadline: reply to complaints within 48 hours"
+  },
+  {
+   "id": "§4.37",
+   "sec": "§4",
+   "type": "S",
+   "text": "Deadline: issue invoices within 7 days of the game"
+  },
+  {
+   "id": "§4.38",
+   "sec": "§4",
+   "type": "S",
+   "text": "Trigger: player reports breathlessness during game"
+  },
+  {
+   "id": "§4.39",
+   "sec": "§4",
+   "type": "S",
+   "text": "Trigger: player reports smoke"
+  },
+  {
+   "id": "§4.40",
+   "sec": "§4",
+   "type": "S",
+   "text": "Trigger: player reports injury"
+  },
+  {
+   "id": "§4.41",
+   "sec": "§4",
+   "type": "S",
+   "text": "Emergency step: call the duty phone yourself"
+  },
+  {
+   "id": "§4.42",
+   "sec": "§4",
+   "type": "F",
+   "text": "Duty phone: 601 482 935"
+  },
+  {
+   "id": "§4.43",
+   "sec": "§4",
+   "type": "S",
+   "text": "Order: call first, then tell player"
+  },
+  {
+   "id": "§4.44",
+   "sec": "§4",
+   "type": "S",
+   "text": "Tell player staff are on the way"
+  },
+  {
+   "id": "§4.45",
+   "sec": "§4",
+   "type": "S",
+   "text": "Player must press green emergency button themselves"
+  },
+  {
+   "id": "§4.46",
+   "sec": "§4",
+   "type": "F",
+   "text": "Button is by the door"
+  },
+  {
+   "id": "§4.47",
+   "sec": "§4",
+   "type": "F",
+   "text": "Button unlocks the door"
+  },
+  {
+   "id": "§4.48",
+   "sec": "§4",
+   "type": "F",
+   "text": "Every complaint reply must end with fixed sentence"
+  },
+  {
+   "id": "§4.49",
+   "sec": "§4",
+   "type": "F",
+   "text": "Quoted sentence: „Dziękujemy, że pomagasz nam ulepszać nasze pokoje.”"
+  },
+  {
+   "id": "§4.50",
+   "sec": "§4",
+   "type": "F",
+   "text": "Send Ewa report on number of bookings and refunds for whole week"
+  },
+  {
+   "id": "§4.51",
+   "sec": "§4",
+   "type": "F",
+   "text": "Recurrence: every Sunday"
+  },
+  {
+   "id": "§4.52",
+   "sec": "§4",
+   "type": "F",
+   "text": "Time: 21:30"
+  }
+ ],
+ "A": {
+  "kept": 205,
+  "distorted": [],
+  "lost": [],
+  "added": [],
+  "notes": [
+   "'(the approver is not named)' annotations on §1 firewood and §4 third move are accurate descriptions of the original, not added content.",
+   "'because it is reserved for allergic customers' (§3 Aurora) renders the original appositive; not counted as added."
+  ]
+ },
+ "B": {
+  "kept": 205,
+  "distorted": [],
+  "lost": [],
+  "added": [],
+  "notes": [
+   "Borderline, not counted: recurring reports rendered as 'On Friday' (§1), 'On Monday' (§3), 'On Sunday' (§4) instead of every Friday/Monday/Sunday; read as standing instructions, recurrence is preserved, but singular wording is slightly weaker than A's plural.",
+   "'(the approver is not named)' annotations are accurate, not added content."
+  ]
+ }
+}

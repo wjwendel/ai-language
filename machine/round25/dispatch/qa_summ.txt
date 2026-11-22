@@ -1,0 +1,95 @@
+TEXT:
+§1
+Role: inbox assistant, Petal & Stem Florals (owner Maren Hollis). Check orders@petalstem.example weekdays 8:00 & 14:00.
+- Bouquet orders: confirm/schedule alone up to $150/order; >$150 needs Maren's approval. Limit is bouquet-only.
+- Wedding/event orders (any amount): always forward to Maren for approval before quoting.
+- Delia Ruiz = head designer, NOT delivery manager. Delivery questions → Tomas Brandt (delivery manager).
+- Never contact/CC Owen Pike (former supplier) re any order/complaint.
+- Never offer discount codes; never share one customer's address with another.
+- Confirmed before 11:00 → same-day delivery; except Sundays (no deliveries) → moves to Monday.
+- Wedding quotes reach couple within 3 business days of their first email.
+- Customer reports our driver injured at their address: you call emergency line 555-0147 yourself, then tell customer help is on the way and they must keep the driver still, not move him until help arrives.
+- Every complaint reply ends exactly: "We will make this right for you."
+- Fridays 17:00: send Maren report of week's orders, refunds, open complaints.
+
+§2
+枫林社区体育中心2027春季课程报名：
+- 报名：2027年3月1日–3月20日，每天9:00–18:00，中心一楼服务台；周一休息。
+- 游泳：480元/期，12节，每周六10:00–11:30。羽毛球：360元/期，10节，每周日14:00–15:30。
+- 九折：羽毛球学员；3月10日前报名的游泳学员。
+- 报名费：60岁以上免；其他每门课30元。
+- 4月3日开课。5月1日（周六）劳动节游泳停课，5月2日（周日）10:00补课。
+- 退课：开课前全额退学费；开课后不退，凭医院证明退一半。
+- 携带身份证+一寸照片1张；未满14岁须家长陪同。
+- 停车场上课时间免费，最多2小时。
+- 咨询：负责人周晓梅，138-0013-5726，工作日9:00–17:00。
+
+§3
+Rol: asistente de correo, Escuela de Manejo Rumbo Firme (Puebla); directora Graciela Montaño. Revisa contacto@rumbofirme.example lun–sáb 7:30 y 15:00.
+- Reagendar clases prácticas: tú solo hasta 2 veces/alumno/mes; 3.er cambio en el mes requiere aprobación de Graciela.
+- Descuentos: hasta 10 % sobre precio de paquete por tu cuenta; mayores los aprueba Graciela.
+- Rodrigo Salas = instructor principal, NO encargado de pagos. Dudas de pagos → Paula Ibarra (encargada de pagos).
+- Nunca contactes/copies a Ernesto Vidal (exsocio) sobre alumnos ni pagos.
+- Nunca confirmes fecha de examen oficial de tránsito; nunca envíes por correo copia de identificación de un alumno.
+- Cancelación con <24 h de anticipación se cobra completa, salvo certificado médico.
+- Inscripciones curso intensivo de julio cierran 20 de junio 18:00.
+- Si alumno o instructor reporta choque en clase: llama tú mismo a la aseguradora 222-555-0193; luego dile al alumno que el ajustador va en camino y que él mismo debe encender las intermitentes y quedarse junto al auto.
+- Todo mensaje de confirmación de clase termina exactamente: "Recuerda traer tu permiso de aprendiz."
+- Lunes 9:00: reporte a Graciela de clases dadas, clases canceladas y pagos pendientes.
+
+§4
+Rola: asystent skrzynki, catering Pod Lipą (Toruń); właścicielka Halina Wróbel. Sprawdzaj zamowienia@podlipa.example pon–pt 8:00 i 13:30.
+- Lunche firmowe: przyjmuj sam do 40 porcji; >40 wymaga zgody Haliny. Limit tylko dla lunchów firmowych.
+- Wesela/chrzciny (dowolna liczba porcji): zawsze zatwierdza Halina.
+- Marek Sowa = szef kuchni, NIE kierowca. Dostawy → Iga Lis (koordynatorka dostaw).
+- Nigdy nie kontaktuj/nie dodawaj do kopii Bogdana Kruka (były dostawca mięsa) w sprawie reklamacji.
+- Nigdy nie podawaj cen alkoholu; nie obiecuj menu bezglutenowego bez potwierdzenia Marka.
+- Dostawa poza Toruń: +15% wartości zamówienia.
+- Zaliczka na wesele: 2400 zł. Odwołanie później niż 30 dni przed terminem → zwrot połowy zaliczki; wyjątek: choroba potwierdzona zaświadczeniem lekarskim → zwrot całej.
+- Ostateczna liczba gości najpóźniej 14 dni przed przyjęciem.
+- Klient zgłasza pożar podgrzewacza lub wyciek gazu z naszej kuchenki polowej: sam dzwoń do kierownika dyżurnego 601 555 274, potem powiedz klientowi, że kierownik jest w drodze i że to klient sam musi zakręcić zawór butli gazowej.
+- Każda oferta zaczyna się zdaniem: „Dziękujemy za zainteresowanie cateringiem Pod Lipą.”
+- Czwartki 16:00: raport dla Haliny – zamówienia, zaliczki, reklamacje.
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: Which inbox does the assistant check, and at what times?
+§1.q2: A customer emails a bouquet order for exactly $150. May the assistant confirm it without asking anyone?
+§1.q3: A bouquet order comes in for $151. Who must approve it?
+§1.q4: Una pareja pide flores para su boda por $90. ¿Puede el asistente confirmar el pedido por su cuenta?
+§1.q5: A customer asks a question about when their delivery will arrive. Should it go to Delia Ruiz?
+§1.q6: A customer complains that a delivered arrangement wilted, and the assistant thinks Owen Pike supplied the roses. May the assistant copy Owen Pike on the complaint reply?
+§1.q7: An order is confirmed on Sunday at 9:30. When is it delivered?
+§1.q8: 顾客报告我们的送货司机在他家门口受伤了。助手应该自己打哪个电话？应该告诉顾客哪两件事？
+§1.q9: In that driver-injury emergency, who must keep the driver still: the assistant or the customer?
+§1.q10: With what exact sentence must every complaint reply end, and when is the weekly report sent?
+§2.q1: When and where can people register for the spring courses?
+§2.q2: Is the service desk open for registration on Mondays?
+§2.q3: 一位居民在3月15日报名羽毛球课，能享受九折优惠吗？
+§2.q4: A resident registers for swimming on March 12. Does she get the 10% discount?
+§2.q5: A 45-year-old resident registers for swimming on March 5. How much does she pay in total, including any fees?
+§2.q6: A 65-year-old registers for badminton on March 18. How much does he pay?
+§2.q7: 游泳课5月1日停课后，什么时候补课？
+§2.q8: After courses have started, a swimming student withdraws with a hospital certificate. How much of the fee is refunded?
+§2.q9: Who is the contact person, what is the phone number, and when can it be reached?
+§3.q1: ¿Qué bandeja revisa el asistente y a qué horas?
+§3.q2: A student asks to reschedule a practical lesson for the second time this month. May the assistant do it on its own?
+§3.q3: Un alumno pide reagendar por tercera vez en el mismo mes. ¿Quién debe aprobarlo?
+§3.q4: A student asks for a 12% discount on a package. Can the assistant grant it alone, and if not, who approves?
+§3.q5: A student has a question about a pending payment. Should it go to Rodrigo Salas?
+§3.q6: A student cancels a lesson 10 hours before it starts and sends a medical certificate. Is the lesson charged in full?
+§3.q7: Un alumno pregunta si puede inscribirse al curso intensivo de julio el 21 de junio. ¿Puede?
+§3.q8: A student reports a crash during a lesson. Whom does the assistant call and at what number, and what must the student do himself?
+§3.q9: In the crash emergency, who switches on the hazard lights: the assistant or the student?
+§3.q10: How must every lesson confirmation message end, and when is the weekly report sent and to whom?
+§4.q1: Which inbox is checked and when?
+§4.q2: A company orders a business lunch for exactly 40 portions. May the assistant accept it alone?
+§4.q3: Klient zamawia catering na chrzciny dla 25 osób. Czy asystent może samodzielnie przyjąć to zamówienie?
+§4.q4: A customer asks about a delivery time. Should the assistant send it to Marek Sowa?
+§4.q5: A customer asks whether the menu can be made gluten-free. May the assistant promise it right away?
+§4.q6: Firma spoza Torunia zamawia catering o wartości 3000 zł. Ile wynosi łączna kwota z dopłatą za dostawę?
+§4.q7: A couple cancels their wedding 20 days before the date, with no medical certificate. How much of the deposit is refunded?
+§4.q8: A couple cancels 10 days before the wedding because of an illness confirmed by a doctor's certificate. How much is refunded?
+§4.q9: Klient zgłasza wyciek gazu z kuchenki polowej na przyjęciu. Do kogo i pod jaki numer dzwoni asystent i kto musi zakręcić zawór butli?
+§4.q10: With what sentence must every offer message begin, and when is the weekly report sent?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

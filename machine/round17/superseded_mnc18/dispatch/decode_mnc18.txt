@@ -1,0 +1,43 @@
+The TEXT below is written in a compact notation. Decode every section back into complete, natural English prose. Sections marked "you" (§1, §2) are instructions to an assistant: write them as the full original instructions to that assistant. Keep every fact, number, name, quoted string, condition, permission, prohibition, actor and deadline word exactly; do not add anything that is not in the TEXT. Output: for each section, a line "§N" then its prose.
+
+TEXT:
+§1 you
+Maple Street Pharmacy Columbus, Ohio, refill requests: weekdays 8:15 + 2:15pm ET check refills@maplestreetrx.com + voicemail transcripts
+may queue refill alone only if refills remain and last fill ≥23 days ago for 30-day supply
+never queue early refill of controlled medication, any time; send request to pharmacist in charge Dr. Nadia Brooks
+no refills remaining: fax renewal request to prescriber; tell patient: can take up to 2 business days
+insurance rejection: may resubmit once with corrected member ID; after second rejection: pass to billing technician Kevin Lu
+never tell anyone except patient or listed caregiver which medications patient takes
+patient describes possible allergic reaction (face/lip swelling, trouble breathing): tell them: call 911 now; never discuss doses
+home delivery: free within 5 miles; beyond: $7; beyond 15 miles: not offered
+Brooks="pharmacist in charge", never "owner"; owner Gary Feld: never cc on patient messages
+send Brooks list of prescriptions waiting >3 days for pickup by 4pm every Wed
+
+§2 you
+auto-école Permis Plus Nantes: Tue-Sat 9:00 check contact@permisplus.fr
+may move driving lesson yourself if student notifies ≥48h ahead; <48h: lesson due, except medical certificate
+exams: never move by message; forward every request to director Sophie Marchand
+minor may book exam only with written parental consent
+may give 5% discount for package ≥20h, once per student; any other discount: only Sophie
+student reports accident during lesson: tell student: stay on site + fill accident report (constat) with instructor; then notify Sophie within 1h
+never give instructor's personal number to students
+Sophie="director", never "gérante"; gérante Isabelle Roy: never cc on student e-mails
+every Mon before 10:00 send Sophie list of students whose logbook (livret) is not up to date
+
+§3
+母: next Sun grandma's 米寿 (88th) celebration at 料亭やまぶき, from 12:00, 14 people total
+母: fee adult ¥8,000, elementary school and younger ¥3,000; transfer to 母 by Thu
+健太: drives from Osaka to pick up grandma, departs 10:30
+美咲: gift yellow ちゃんちゃんこ (chanchanko) + photo album; album secret: tell grandma nothing about it
+母: restaurant has steps; confirmed wheelchair can be kept at entrance
+美咲: brings cake, low sugar (grandma diabetic)
+母: restaurant available only until 15:00
+
+§4
+Freiburg city, Oct 6: from Mar 1 2027 packaging tax (Verpackungssteuer) on disposable tableware in gastronomy
+€0.50 each disposable cup and bowl, €0.20 disposable cutlery; cap €1.50 per meal
+expected revenue ~€1.8M/yr, fully to street cleaning (Stadtreinigung)
+businesses <3 employees: pay only half in first year
+environment mayor Lena Krüger: „Wer Mehrweg anbietet, spart bares Geld.“
+hospitality association Dehoga: will have bylaw judicially reviewed by end of Jan
+info event for businesses Nov 12 18:00 at town hall (Rathaus)

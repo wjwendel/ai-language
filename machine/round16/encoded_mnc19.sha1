@@ -1,0 +1,7 @@
+dcbf06f3e9f4f9c6c4e5288765bdeebfd7ddd695  originals.txt
+ed0f997aa358f3290dd400ed888ef84c63bd2dd8  facts.json
+5716e90918b03d77c7074ac58952fa86650e1e7a  questions.json
+4f8d5e6464e2cf1ec959f3ab9af4bf3f615343e0  payload_mnc19.txt
+018f157b1b92229ce4782f17ae75e3ded5ab4d62  ../candidates/mnc19/RULES.md
+Tue Nov 17 19:06:47 CST 2026
+NOTE: questions.json was written 18:37 CT after the MNC18 payload was frozen; the MNC19 payload was written after the questions existed (same agent). The encoder saw the questions, so this encoding is not question-blind. The readers are still blind.

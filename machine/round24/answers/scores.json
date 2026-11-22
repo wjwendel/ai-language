@@ -1,0 +1,4542 @@
+{
+ "rows": [
+  {
+   "f": "llm05_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, standard lock changes up to $180 can be booked",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dana Whitcombe, operations manager",
+   "gold": "Dana Whitcombe, the operations manager"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, safe openings need Dana Whitcombe's approval regardless of price",
+   "gold": "no, safe openings always need Dana Whitcombe's approval"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, key duplication orders can be confirmed at any price",
+   "gold": "yes, key duplication can be confirmed at any price"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Martin Hollins",
+   "gold": "Martin Hollins"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Gareth Lunn (former partner) must not be copied on pricing or invoices",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, faulty parts are refundable within 60 days",
+   "gold": "yes, faulty parts can be refunded within 60 days"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "tell the customer to call emergency dispatch at 555-0147; if anyone is in danger, call 911 rather than waiting for a technician",
+   "gold": "Call the emergency dispatch line 555-0147 itself immediately, then tell the customer a technician is on the way and to call 911 if anyone is in danger"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 17:00 the same business day (that Saturday)",
+   "gold": "by 17:00 the same day"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Friday at 16:00, to Dana Whitcombe: open jobs and unpaid invoices",
+   "gold": "Every Friday at 16:00 to Dana Whitcombe"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Thursday, December 3, 2026, from the morning until 5:00 PM",
+   "gold": "December 3 (Thursday), 9:00 to 17:00"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Friday, December 4, 2026, from the morning until 3:00 PM",
+   "gold": "December 4 (Friday), 10:00 to 15:00"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is excluded from the shutoff (it uses an emergency water tank)",
+   "gold": "no, it is exempt because it is supplied by an emergency water tank"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "six 2-liter bottles per household",
+   "gold": "six 2-liter bottles (12 liters)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "10,000 won (2 x 5,000 won)",
+   "gold": "10,000 won"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the confirmation certificate",
+   "gold": "the confirmation certificate issued by the management office"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,500 won per household, taken off the December management fee",
+   "gold": "3,500 won per household from the December maintenance fee"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Kim Jeong-hun, the management office chief, at 031-555-0182 (weekdays until 6:00 PM)",
+   "gold": "Manager Kim Jeong-hun, 031-555-0182"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the security office, 031-555-0190",
+   "gold": "the security office, 031-555-0190"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "from 8:00 AM",
+   "gold": "8:00 in the morning"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, discounts up to R$ 25 per appointment are allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Renata Siqueira, finance manager",
+   "gold": "Renata Siqueira, the financial manager"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the salon is closed on Mondays (inbox is checked Tuesday to Saturday)",
+   "gold": "no, the salon is closed on Mondays"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the owner is Fábio Mendes",
+   "gold": "no, she is the head groomer; the owner is Fábio Mendes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Leandro Prado must not be sent the schedule or client information",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "R$ 30 (the free-cancellation rule doesn't apply on holidays)",
+   "gold": "R$ 30"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "tell the owner to call the partner veterinary clinic at (19) 5555-0136 and take the animal to the clinic at Rua das Acácias, 210",
+   "gold": "Call the partner vet clinic at (19) 5555-0136 itself and tell the owner to take the dog to the clinic at Rua das Acácias 210 immediately"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "the text only partly gives it: '... horário ... Bigode Feliz ... confirmado.'",
+   "gold": "\"Olá! Seu horário no Bigode Feliz está confirmado.\""
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it's less than 24 hours away, so it needs Juliana Prado's OK first",
+   "gold": "no, it is less than 24 hours ahead, so it must first talk with Juliana"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturday at 17:00, to Fábio Mendes: appointments and reviews",
+   "gold": "Every Saturday at 17:00 to Fábio Mendes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, room-move quotes up to €450 may be confirmed",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, complete house moves go to Sanne Brouwer regardless of price",
+   "gold": "no, complete house moves always need Sanne Brouwer's approval"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "60% of the deposit, i.e. €150 of €250 (40% is withheld)",
+   "gold": "€150 (40% of €250, i.e. €100, is withheld)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the full €250 deposit",
+   "gold": "the full €250 deposit"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the owner is Ellen Hagedoorn",
+   "gold": "no, he is the crew leader; the owner is Ellen Hagedoorn"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Ruud Kamphuis (previous landlord) is not to be contacted about storage contracts",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "at least 10 working days before the moving date",
+   "gold": "10 working days"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the gas emergency service at 0800-555-0173 and don't use light switches",
+   "gold": "Call the outage service 0800-555-0173 itself and tell the customer everyone must leave the building and nobody may use light switches"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday at 9:00, to Ellen Hagedoorn: moves for the next two weeks",
+   "gold": "Every Monday at 9:00 to Ellen Hagedoorn"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, standard lock changes up to $180 may be booked without approval",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dana Whitcombe, operations manager",
+   "gold": "Dana Whitcombe, the operations manager"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, safe openings need Dana Whitcombe's approval at any price",
+   "gold": "no, safe openings always need Dana Whitcombe's approval"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, key duplication orders may be confirmed at any price",
+   "gold": "yes, key duplication can be confirmed at any price"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Martin Hollins",
+   "gold": "Martin Hollins"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never copy Gareth Lunn on pricing or invoices",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, faulty parts are refundable within 60 days",
+   "gold": "yes, faulty parts can be refunded within 60 days"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Immediately call the emergency dispatch line 555-0147, tell the customer a technician is on the way, and tell them to call 911 if there is danger",
+   "gold": "Call the emergency dispatch line 555-0147 itself immediately, then tell the customer a technician is on the way and to call 911 if anyone is in danger"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 17:00 the same day",
+   "gold": "by 17:00 the same day"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Every Friday at 16:00, to Dana Whitcombe, listing open jobs and unpaid invoices",
+   "gold": "Every Friday at 16:00 to Dana Whitcombe"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Thursday, December 3, 2026, from 9 AM to 5 PM",
+   "gold": "December 3 (Thursday), 9:00 to 17:00"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Friday, December 4, 2026, from 10 AM to 3 PM",
+   "gold": "December 4 (Friday), 10:00 to 15:00"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is excluded because it uses an emergency water tank",
+   "gold": "no, it is exempt because it is supplied by an emergency water tank"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "six 2-liter bottles per household",
+   "gold": "six 2-liter bottles (12 liters)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "10,000 won (5,000 won each)",
+   "gold": "10,000 won"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the confirmation certificate",
+   "gold": "the confirmation certificate issued by the management office"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,500 won per household from the December management fee",
+   "gold": "3,500 won per household from the December maintenance fee"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Kim Jeong-hun, the management office director, at 031-555-0182 (weekdays 9 AM to 6 PM)",
+   "gold": "Manager Kim Jeong-hun, 031-555-0182"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the security office at 031-555-0190",
+   "gold": "the security office, 031-555-0190"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "from 8 AM",
+   "gold": "8:00 in the morning"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, discounts up to R$ 25 per appointment are allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Renata Siqueira, financial manager",
+   "gold": "Renata Siqueira, the financial manager"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the salon is closed on Mondays and the inbox is not checked",
+   "gold": "no, the salon is closed on Mondays"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is the head groomer; the owner is Fábio Mendes",
+   "gold": "no, she is the head groomer; the owner is Fábio Mendes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never copy Leandro Prado on the schedule",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "R$ 30",
+   "gold": "R$ 30"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the partner veterinary clinic at (19) 5555-0136 and have the animal taken to the clinic at Rua das Acácias, 210",
+   "gold": "Call the partner vet clinic at (19) 5555-0136 itself and tell the owner to take the dog to the clinic at Rua das Acácias 210 immediately"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "The TEXT is garbled here; it ends with \"...horário no Bigode Feliz confirmado.\"",
+   "gold": "\"Olá! Seu horário no Bigode Feliz está confirmado.\""
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is less than 24 hours ahead, so the assistant must talk to Juliana Prado first",
+   "gold": "no, it is less than 24 hours ahead, so it must first talk with Juliana"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Every Saturday at 17:00, to Fábio Mendes, with the number of appointments that week and the reviews received",
+   "gold": "Every Saturday at 17:00 to Fábio Mendes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, room-move quotes up to €450 may be confirmed",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, complete house moves must be confirmed by Sanne Brouwer regardless of amount",
+   "gold": "no, complete house moves always need Sanne Brouwer's approval"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "60% of the deposit (€150); 40% is kept",
+   "gold": "€150 (40% of €250, i.e. €100, is withheld)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the full €250 deposit",
+   "gold": "the full €250 deposit"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, he is the crew leader; the owner is Ellen Hagedoorn",
+   "gold": "no, he is the crew leader; the owner is Ellen Hagedoorn"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact Ruud Kamphuis about storage contracts",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never promise a move on a Sunday",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "at least 10 working days before the moving date",
+   "gold": "10 working days"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the gas emergency service at 0800-555-0173 and tell everyone to leave the building and not use light switches",
+   "gold": "Call the outage service 0800-555-0173 itself and tell the customer everyone must leave the building and nobody may use light switches"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Every Monday at 9:00, to Ellen Hagedoorn, with an overview of moves in the coming two weeks",
+   "gold": "Every Monday at 9:00 to Ellen Hagedoorn"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $180 is within the up-to-$180 limit for standard lock changes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dana Whitcombe, operations manager",
+   "gold": "Dana Whitcombe, the operations manager"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, safe openings always need Dana Whitcombe's approval, any amount",
+   "gold": "no, safe openings always need Dana Whitcombe's approval"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, key duplication orders may be confirmed at any price",
+   "gold": "yes, key duplication can be confirmed at any price"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Martin Hollins (Priya Okafor is lead technician, not owner)",
+   "gold": "Martin Hollins"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Gareth Lunn must never be copied on messages about pricing or invoices",
+   "gold": "no"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, faulty parts are refundable within 60 days",
+   "gold": "yes, faulty parts can be refunded within 60 days"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Immediately call the 555-0147 emergency dispatch line yourself, then tell the customer a technician is on the way; also call 911 if anyone is in danger; never promise an arrival time shorter than 45 min",
+   "gold": "Call the emergency dispatch line 555-0147 itself immediately, then tell the customer a technician is on the way and to call 911 if anyone is in danger"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 17:00 the same day (Saturday)",
+   "gold": "by 17:00 the same day"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fridays at 16:00 to Dana Whitcombe: all open jobs and unpaid invoices",
+   "gold": "Every Friday at 16:00 to Dana Whitcombe"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dec 3 2026 (Thu), 9:00-17:00",
+   "gold": "December 3 (Thursday), 9:00 to 17:00"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dec 4 2026 (Fri), 10:00-15:00",
+   "gold": "December 4 (Friday), 10:00 to 15:00"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is supplied separately by an emergency water tank and not shut off",
+   "gold": "no, it is exempt because it is supplied by an emergency water tank"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6 bottles × 2 L (12 L) per household",
+   "gold": "six 2-liter bottles (12 liters)"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₩10,000 (₩5,000 each)",
+   "gold": "10,000 won"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the confirmation slip issued by the management office (관리사무소); one slip covers the whole household",
+   "gold": "the confirmation certificate issued by the management office"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₩3,500 off the December maintenance fee",
+   "gold": "3,500 won per household from the December maintenance fee"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Office manager 김정훈 (Kim Jeong-hun), 031-555-0182, weekdays 9:00-18:00",
+   "gold": "Manager Kim Jeong-hun, 031-555-0182"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Security office (경비실) 031-555-0190",
+   "gold": "the security office, 031-555-0190"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "from 8:00",
+   "gold": "8:00 in the morning"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, discounts up to R$25 per service are allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Renata Siqueira, financial manager",
+   "gold": "Renata Siqueira, the financial manager"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the salon is closed Mondays and the inbox is never checked",
+   "gold": "no, the salon is closed on Mondays"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is head groomer; the owner is Fábio Mendes",
+   "gold": "no, she is the head groomer; the owner is Fábio Mendes"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Leandro Prado must never be copied about schedule or clients",
+   "gold": "no"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "R$30 (on holidays any cancellation costs R$30)",
+   "gold": "R$ 30"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call Clínica Veterinária Parceira (19) 5555-0136 yourself and tell the owner to take the animal immediately to the clinic at Rua das Acácias 210",
+   "gold": "Call the partner vet clinic at (19) 5555-0136 itself and tell the owner to take the dog to the clinic at Rua das Acácias 210 immediately"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§3.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Olá! Seu horário no Bigode Feliz está confirmado.\"",
+   "gold": "\"Olá! Seu horário no Bigode Feliz está confirmado.\""
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is less than 24h ahead, so the assistant must first talk to Juliana",
+   "gold": "no, it is less than 24 hours ahead, so it must first talk with Juliana"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturdays at 17:00 to Fábio Mendes: the week's number of services and reviews received",
+   "gold": "Every Saturday at 17:00 to Fábio Mendes"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, room-move quotes up to €450 may be confirmed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, whole-house move quotes always need Sanne Brouwer's prior approval, any amount",
+   "gold": "no, complete house moves always need Sanne Brouwer's approval"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "60% of the €250 deposit = €150 (40% / €100 is kept)",
+   "gold": "€150 (40% of €250, i.e. €100, is withheld)"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the full €250 deposit",
+   "gold": "the full €250 deposit"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, he is crew leader; the owner is Ellen Hagedoorn",
+   "gold": "no, he is the crew leader; the owner is Ellen Hagedoorn"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Ruud Kamphuis must never be contacted about storage contracts",
+   "gold": "no"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never promise a Sunday move",
+   "gold": "no"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "at least 10 working days before the moving date",
+   "gold": "10 working days"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Immediately call the 0800-555-0173 fault service yourself and tell the customer everyone must leave the building and nobody may use light switches",
+   "gold": "Call the outage service 0800-555-0173 itself and tell the customer everyone must leave the building and nobody may use light switches"
+  },
+  {
+   "f": "mnc23_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mondays at 9:00 to Ellen Hagedoorn: overview of all moves in the next two weeks",
+   "gold": "Every Monday at 9:00 to Ellen Hagedoorn"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $180 is within the up-to-$180 limit for standard lock changes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dana Whitcombe, operations manager",
+   "gold": "Dana Whitcombe, the operations manager"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, safe openings always need Dana Whitcombe's approval, any amount",
+   "gold": "no, safe openings always need Dana Whitcombe's approval"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, key duplication orders may be confirmed at any price",
+   "gold": "yes, key duplication can be confirmed at any price"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Martin Hollins",
+   "gold": "Martin Hollins"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Gareth Lunn must never be copied on messages about pricing or invoices",
+   "gold": "no"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, faulty parts are refundable within 60 days",
+   "gold": "yes, faulty parts can be refunded within 60 days"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Immediately call the 555-0147 emergency dispatch line yourself, then tell the customer a technician is on the way; also call 911 if anyone is in danger; do not promise an arrival time shorter than 45 min",
+   "gold": "Call the emergency dispatch line 555-0147 itself immediately, then tell the customer a technician is on the way and to call 911 if anyone is in danger"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 17:00 the same business day (that Saturday)",
+   "gold": "by 17:00 the same day"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fridays at 16:00, to Dana Whitcombe (all open jobs + unpaid invoices)",
+   "gold": "Every Friday at 16:00 to Dana Whitcombe"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dec 3 2026 (Thu), 9:00-17:00",
+   "gold": "December 3 (Thursday), 9:00 to 17:00"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dec 4 2026 (Fri), 10:00-15:00",
+   "gold": "December 4 (Friday), 10:00 to 15:00"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is supplied separately by emergency water tank and not shut off",
+   "gold": "no, it is exempt because it is supplied by an emergency water tank"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6 bottles × 2 L (12 L) per household",
+   "gold": "six 2-liter bottles (12 liters)"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₩10,000 (2 × ₩5,000)",
+   "gold": "10,000 won"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the confirmation slip issued by the 관리사무소 (one slip covers all family of the same household)",
+   "gold": "the confirmation certificate issued by the management office"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₩3,500 off the December maintenance fee",
+   "gold": "3,500 won per household from the December maintenance fee"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "관리소장 김정훈 (Kim Jeong-hun), 031-555-0182, weekdays 9:00-18:00",
+   "gold": "Manager Kim Jeong-hun, 031-555-0182"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "경비실 (security office), 031-555-0190",
+   "gold": "the security office, 031-555-0190"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "from 8:00",
+   "gold": "8:00 in the morning"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, discounts up to R$25 per service are allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Renata Siqueira, financial manager",
+   "gold": "Renata Siqueira, the financial manager"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the salon is closed Monday and the inbox is never checked",
+   "gold": "no, the salon is closed on Mondays"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is the head groomer; the owner is Fábio Mendes",
+   "gold": "no, she is the head groomer; the owner is Fábio Mendes"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Leandro Prado must never be copied about schedule or clients",
+   "gold": "no"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "R$30 (on holidays any cancellation costs R$30)",
+   "gold": "R$ 30"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call Clínica Veterinária Parceira (19) 5555-0136 yourself and tell the owner to take the animal immediately to the clinic at Rua das Acácias 210",
+   "gold": "Call the partner vet clinic at (19) 5555-0136 itself and tell the owner to take the dog to the clinic at Rua das Acácias 210 immediately"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§3.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Olá! Seu horário no Bigode Feliz está confirmado.\"",
+   "gold": "\"Olá! Seu horário no Bigode Feliz está confirmado.\""
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is less than 24h ahead, so the assistant must first talk to Juliana Prado",
+   "gold": "no, it is less than 24 hours ahead, so it must first talk with Juliana"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturdays at 17:00, to Fábio Mendes (week's number of services + reviews received)",
+   "gold": "Every Saturday at 17:00 to Fábio Mendes"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, room-move quotes up to €450 may be confirmed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, whole-house move quotes always need prior approval of Sanne Brouwer, any amount",
+   "gold": "no, complete house moves always need Sanne Brouwer's approval"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "60% of the €250 deposit, i.e. €150 (40% = €100 is kept)",
+   "gold": "€150 (40% of €250, i.e. €100, is withheld)"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the full €250 deposit",
+   "gold": "the full €250 deposit"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, he is the crew leader; the owner is Ellen Hagedoorn",
+   "gold": "no, he is the crew leader; the owner is Ellen Hagedoorn"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact Ruud Kamphuis about storage contracts",
+   "gold": "no"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never promise a Sunday move",
+   "gold": "no"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "at least 10 working days before the moving date",
+   "gold": "10 working days"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Immediately call the 0800-555-0173 fault service yourself and tell the customer everyone must leave the building and nobody may use light switches",
+   "gold": "Call the outage service 0800-555-0173 itself and tell the customer everyone must leave the building and nobody may use light switches"
+  },
+  {
+   "f": "mnc23_r2",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mondays at 9:00, to Ellen Hagedoorn (overview of all moves in the next two weeks)",
+   "gold": "Every Monday at 9:00 to Ellen Hagedoorn"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $180 is within the up-to-$180 limit for standard lock changes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dana Whitcombe, operations manager",
+   "gold": "Dana Whitcombe, the operations manager"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, safe openings always need Dana Whitcombe's approval, any amount",
+   "gold": "no, safe openings always need Dana Whitcombe's approval"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, key duplication orders may be confirmed at any price",
+   "gold": "yes, key duplication can be confirmed at any price"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "Martin Hollins (Priya Okafor is lead technician, not owner)",
+   "gold": "Martin Hollins"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Gareth Lunn must never be copied on messages about pricing or invoices",
+   "gold": "no"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, faulty parts are refundable within 60 days",
+   "gold": "yes, faulty parts can be refunded within 60 days"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Immediately call the 555-0147 emergency dispatch line yourself, then tell the customer a technician is on the way; also call 911 if anyone is in danger; do not promise arrival in under 45 minutes",
+   "gold": "Call the emergency dispatch line 555-0147 itself immediately, then tell the customer a technician is on the way and to call 911 if anyone is in danger"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 17:00 the same day (Saturday)",
+   "gold": "by 17:00 the same day"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fridays at 16:00 to Dana Whitcombe: open jobs and unpaid invoices",
+   "gold": "Every Friday at 16:00 to Dana Whitcombe"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dec 3, 2026 (Thu), 9:00-17:00",
+   "gold": "December 3 (Thursday), 9:00 to 17:00"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dec 4, 2026 (Fri), 10:00-15:00",
+   "gold": "December 4 (Friday), 10:00 to 15:00"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is supplied separately by an emergency water tank and not shut off",
+   "gold": "no, it is exempt because it is supplied by an emergency water tank"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6 bottles of 2 L each (12 L) per household, free",
+   "gold": "six 2-liter bottles (12 liters)"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₩10,000 (₩5,000 each)",
+   "gold": "10,000 won"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the confirmation slip issued by the management office (one slip covers the whole household)",
+   "gold": "the confirmation certificate issued by the management office"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₩3,500 off the December maintenance fee",
+   "gold": "3,500 won per household from the December maintenance fee"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Office chief Kim Jeong-hun (김정훈), 031-555-0182, weekdays 9:00-18:00",
+   "gold": "Manager Kim Jeong-hun, 031-555-0182"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the security office (경비실), 031-555-0190",
+   "gold": "the security office, 031-555-0190"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "from 8:00",
+   "gold": "8:00 in the morning"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, discounts up to R$25 per service are allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Renata Siqueira, financial manager",
+   "gold": "Renata Siqueira, the financial manager"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the salon is closed Mondays and the inbox is never checked",
+   "gold": "no, the salon is closed on Mondays"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is head groomer; the owner is Fábio Mendes",
+   "gold": "no, she is the head groomer; the owner is Fábio Mendes"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Leandro Prado must never be copied about schedule or clients",
+   "gold": "no"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "R$30 (any cancellation on holidays costs R$30)",
+   "gold": "R$ 30"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call Clínica Veterinária Parceira at (19) 5555-0136 yourself and tell the owner to take the animal immediately to the clinic at Rua das Acácias 210",
+   "gold": "Call the partner vet clinic at (19) 5555-0136 itself and tell the owner to take the dog to the clinic at Rua das Acácias 210 immediately"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§3.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Olá! Seu horário no Bigode Feliz está confirmado.\"",
+   "gold": "\"Olá! Seu horário no Bigode Feliz está confirmado.\""
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is less than 24h ahead, so first talk to Juliana Prado",
+   "gold": "no, it is less than 24 hours ahead, so it must first talk with Juliana"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturdays at 17:00 to Fábio Mendes: week's service count and reviews received",
+   "gold": "Every Saturday at 17:00 to Fábio Mendes"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, room-move quotes up to €450 may be confirmed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, whole-house move quotes always need prior approval of Sanne Brouwer, any amount",
+   "gold": "no, complete house moves always need Sanne Brouwer's approval"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€150 (40% of the €250 deposit, €100, is kept)",
+   "gold": "€150 (40% of €250, i.e. €100, is withheld)"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the full €250 deposit",
+   "gold": "the full €250 deposit"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, he is crew leader; the owner is Ellen Hagedoorn",
+   "gold": "no, he is the crew leader; the owner is Ellen Hagedoorn"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact Ruud Kamphuis about storage contracts",
+   "gold": "no"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never promise a Sunday move",
+   "gold": "no"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "at least 10 working days before the moving date",
+   "gold": "10 working days"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Immediately call the 0800-555-0173 fault service yourself and tell the customer everyone must leave the building and nobody may use light switches",
+   "gold": "Call the outage service 0800-555-0173 itself and tell the customer everyone must leave the building and nobody may use light switches"
+  },
+  {
+   "f": "mnc23x_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mondays at 9:00 to Ellen Hagedoorn: overview of all moves in the next two weeks",
+   "gold": "Every Monday at 9:00 to Ellen Hagedoorn"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - $180 is within the limit (up to $180)",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dana Whitcombe, operations manager",
+   "gold": "Dana Whitcombe, the operations manager"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - safe openings always need Dana Whitcombe's approval, any amount",
+   "gold": "no, safe openings always need Dana Whitcombe's approval"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - key duplication orders may be confirmed at any price",
+   "gold": "yes, key duplication can be confirmed at any price"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Martin Hollins",
+   "gold": "Martin Hollins"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - never copy Gareth Lunn on any message about pricing or invoices",
+   "gold": "no"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - faulty parts are refundable within 60 days",
+   "gold": "yes, faulty parts can be refunded within 60 days"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Immediately call the 555-0147 emergency dispatch line yourself, then tell the customer a technician is on the way; also call 911 if anyone is in danger (and don't promise arrival in under 45 minutes)",
+   "gold": "Call the emergency dispatch line 555-0147 itself immediately, then tell the customer a technician is on the way and to call 911 if anyone is in danger"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 17:00 the same day (Saturday)",
+   "gold": "by 17:00 the same day"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fridays at 16:00, to Dana Whitcombe (open jobs + unpaid invoices)",
+   "gold": "Every Friday at 16:00 to Dana Whitcombe"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Thursday, December 3, 2026, 9:00-17:00",
+   "gold": "December 3 (Thursday), 9:00 to 17:00"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Friday, December 4, 2026, 10:00-15:00",
+   "gold": "December 4 (Friday), 10:00 to 15:00"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - it is supplied separately by an emergency water tank and not shut off",
+   "gold": "no, it is exempt because it is supplied by an emergency water tank"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6 bottles x 2 L (12 L) per household",
+   "gold": "six 2-liter bottles (12 liters)"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₩10,000 (2 x ₩5,000)",
+   "gold": "10,000 won"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the confirmation slip issued by the management office (관리사무소); one slip covers the whole household",
+   "gold": "the confirmation certificate issued by the management office"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₩3,500 off the December maintenance fee",
+   "gold": "3,500 won per household from the December maintenance fee"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Office manager Kim Jeong-hun (관리소장 김정훈), 031-555-0182 (weekdays 9:00-18:00)",
+   "gold": "Manager Kim Jeong-hun, 031-555-0182"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the security office (경비실), 031-555-0190",
+   "gold": "the security office, 031-555-0190"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "from 8:00",
+   "gold": "8:00 in the morning"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - discounts up to R$25 are allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Renata Siqueira, financial manager",
+   "gold": "Renata Siqueira, the financial manager"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - on Monday the salon is closed and the inbox is never checked",
+   "gold": "no, the salon is closed on Mondays"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - she is the head groomer; the owner is Fábio Mendes",
+   "gold": "no, she is the head groomer; the owner is Fábio Mendes"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - never copy Leandro Prado about schedule or clients",
+   "gold": "no"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "R$30 (on holidays any cancellation costs R$30)",
+   "gold": "R$ 30"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call Clínica Veterinária Parceira at (19) 5555-0136 yourself and tell the owner to take the animal immediately to the clinic at Rua das Acácias 210",
+   "gold": "Call the partner vet clinic at (19) 5555-0136 itself and tell the owner to take the dog to the clinic at Rua das Acácias 210 immediately"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§3.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Olá! Seu horário no Bigode Feliz está confirmado.\"",
+   "gold": "\"Olá! Seu horário no Bigode Feliz está confirmado.\""
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - it is less than 24h ahead, so the assistant must first talk to Juliana Prado",
+   "gold": "no, it is less than 24 hours ahead, so it must first talk with Juliana"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturdays at 17:00, to Fábio Mendes (week's service count + reviews received)",
+   "gold": "Every Saturday at 17:00 to Fábio Mendes"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - room-move quotes up to €450 may be confirmed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - whole-house move quotes always need prior approval from Sanne Brouwer, any amount",
+   "gold": "no, complete house moves always need Sanne Brouwer's approval"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€150 (60% of the €250 deposit; 40% is kept)",
+   "gold": "€150 (40% of €250, i.e. €100, is withheld)"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the full €250 deposit",
+   "gold": "the full €250 deposit"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - he is the crew leader; the owner is Ellen Hagedoorn",
+   "gold": "no, he is the crew leader; the owner is Ellen Hagedoorn"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - never contact Ruud Kamphuis about storage contracts",
+   "gold": "no"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - never promise a Sunday move",
+   "gold": "no"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "at least 10 working days before the moving date",
+   "gold": "10 working days"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Immediately call the 0800-555-0173 fault service yourself and tell the customer everyone must leave the building and nobody may use light switches",
+   "gold": "Call the outage service 0800-555-0173 itself and tell the customer everyone must leave the building and nobody may use light switches"
+  },
+  {
+   "f": "mnc23x_r2",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mondays at 9:00, to Ellen Hagedoorn (overview of all moves in the next two weeks)",
+   "gold": "Every Monday at 9:00 to Ellen Hagedoorn"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, standard lock changes up to $180 may be booked without approval",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dana Whitcombe, operations manager",
+   "gold": "Dana Whitcombe, the operations manager"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, safe openings always need Dana Whitcombe's approval, any amount",
+   "gold": "no, safe openings always need Dana Whitcombe's approval"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, key duplication may be confirmed at any price",
+   "gold": "yes, key duplication can be confirmed at any price"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Martin Hollins",
+   "gold": "Martin Hollins"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Gareth Lunn must never be copied on pricing or invoice messages",
+   "gold": "no"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, faulty parts are refundable within 60 days",
+   "gold": "yes, faulty parts can be refunded within 60 days"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Immediately call 555-0147 emergency dispatch yourself and tell the customer a technician is on the way; also call 911 if anyone is in danger; do not promise arrival in under 45 minutes",
+   "gold": "Call the emergency dispatch line 555-0147 itself immediately, then tell the customer a technician is on the way and to call 911 if anyone is in danger"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 17:00 the same business day (that Saturday)",
+   "gold": "by 17:00 the same day"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fridays at 16:00 to Dana Whitcombe: open jobs and unpaid invoices",
+   "gold": "Every Friday at 16:00 to Dana Whitcombe"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Thursday, December 3, 2026, 9:00-17:00",
+   "gold": "December 3 (Thursday), 9:00 to 17:00"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Friday, December 4, 2026, 10:00-15:00",
+   "gold": "December 4 (Friday), 10:00 to 15:00"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it has its own emergency tank and no shutoff",
+   "gold": "no, it is exempt because it is supplied by an emergency water tank"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6 x 2L bottles (12 L) per household",
+   "gold": "six 2-liter bottles (12 liters)"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₩10,000 (₩5,000 each; one slip covers the whole household)",
+   "gold": "10,000 won"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "a slip from the management office (관리사무소)",
+   "gold": "the confirmation certificate issued by the management office"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₩3,500 off the December maintenance fee for all affected households",
+   "gold": "3,500 won per household from the December maintenance fee"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Kim Jeong-hun, office manager (관리소장 김정훈), 031-555-0182, weekdays 9-18h",
+   "gold": "Manager Kim Jeong-hun, 031-555-0182"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "security office (경비실) 031-555-0190",
+   "gold": "the security office, 031-555-0190"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "from 8:00",
+   "gold": "8:00 in the morning"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, discounts up to R$25 per service are allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Renata Siqueira, financial manager",
+   "gold": "Renata Siqueira, the financial manager"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Monday is closed and the inbox must never be checked",
+   "gold": "no, the salon is closed on Mondays"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is head groomer; the owner is Fábio Mendes",
+   "gold": "no, she is the head groomer; the owner is Fábio Mendes"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Leandro Prado must never be copied about schedule or clients",
+   "gold": "no"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "R$30 (any cancellation on a holiday costs R$30)",
+   "gold": "R$ 30"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call partner vet Clínica Veterinária Parceira (19) 5555-0136 yourself and tell the owner to take the animal to the clinic now at Rua das Acácias 210",
+   "gold": "Call the partner vet clinic at (19) 5555-0136 itself and tell the owner to take the dog to the clinic at Rua das Acácias 210 immediately"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§3.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Olá! Seu horário no Bigode Feliz está confirmado.\"",
+   "gold": "\"Olá! Seu horário no Bigode Feliz está confirmado.\""
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is less than 24h ahead, so the assistant must first talk to Juliana",
+   "gold": "no, it is less than 24 hours ahead, so it must first talk with Juliana"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturdays at 17:00 to Fábio Mendes: the week's service count and reviews",
+   "gold": "Every Saturday at 17:00 to Fábio Mendes"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, room-move quotes up to €450 may be confirmed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, whole-house move quotes always need Sanne Brouwer's prior approval, any amount",
+   "gold": "no, complete house moves always need Sanne Brouwer's approval"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€150 (60% of the €250 deposit; 40% kept)",
+   "gold": "€150 (40% of €250, i.e. €100, is withheld)"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the full €250 deposit",
+   "gold": "the full €250 deposit"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, he is crew leader; the owner is Ellen Hagedoorn",
+   "gold": "no, he is the crew leader; the owner is Ellen Hagedoorn"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Ruud Kamphuis must never be contacted about storage contracts",
+   "gold": "no"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Sunday moves must never be promised",
+   "gold": "no"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "at least 10 working days before the move date",
+   "gold": "10 working days"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Immediately call the 0800-555-0173 fault service yourself and tell the customer everyone must leave the building and nobody should use light switches",
+   "gold": "Call the outage service 0800-555-0173 itself and tell the customer everyone must leave the building and nobody may use light switches"
+  },
+  {
+   "f": "mnc23xx_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mondays at 9:00 to Ellen Hagedoorn: all moves of the next 2 weeks",
+   "gold": "Every Monday at 9:00 to Ellen Hagedoorn"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $180 is within the ≤$180 limit for standard lock changes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dana Whitcombe, operations manager",
+   "gold": "Dana Whitcombe, the operations manager"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, safe openings always need Dana Whitcombe's approval, any amount",
+   "gold": "no, safe openings always need Dana Whitcombe's approval"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, key duplication may be confirmed at any price",
+   "gold": "yes, key duplication can be confirmed at any price"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Martin Hollins",
+   "gold": "Martin Hollins"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Gareth Lunn must never be copied on pricing or invoice messages",
+   "gold": "no"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, faulty parts are refundable within 60 days",
+   "gold": "yes, faulty parts can be refunded within 60 days"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Immediately call emergency dispatch 555-0147 yourself and tell the customer a technician is on the way; also call 911 if anyone is in danger; do not promise arrival in under 45 minutes",
+   "gold": "Call the emergency dispatch line 555-0147 itself immediately, then tell the customer a technician is on the way and to call 911 if anyone is in danger"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 17:00 that same day (Saturday)",
+   "gold": "by 17:00 the same day"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fridays at 16:00 to Dana Whitcombe: open jobs and unpaid invoices",
+   "gold": "Every Friday at 16:00 to Dana Whitcombe"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Thursday, December 3, 2026, 9:00-17:00",
+   "gold": "December 3 (Thursday), 9:00 to 17:00"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Friday, December 4, 2026, 10:00-15:00",
+   "gold": "December 4 (Friday), 10:00 to 15:00"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it has its own emergency tank and no shutoff",
+   "gold": "no, it is exempt because it is supplied by an emergency water tank"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6 × 2L bottles (12 L) per household",
+   "gold": "six 2-liter bottles (12 liters)"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₩10,000 total (₩5,000 each)",
+   "gold": "10,000 won"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "a slip from the management office (관리사무소); one slip covers the whole household",
+   "gold": "the confirmation certificate issued by the management office"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₩3,500 off the December maintenance fee",
+   "gold": "3,500 won per household from the December maintenance fee"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Office manager Kim Jeong-hun (관리소장 김정훈), 031-555-0182, weekdays 9:00-18:00",
+   "gold": "Manager Kim Jeong-hun, 031-555-0182"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the security office (경비실), 031-555-0190",
+   "gold": "the security office, 031-555-0190"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "from 8:00",
+   "gold": "8:00 in the morning"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, R$25 is within the ≤R$25 limit",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Renata Siqueira, financial manager",
+   "gold": "Renata Siqueira, the financial manager"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, closed Mondays; never check",
+   "gold": "no, the salon is closed on Mondays"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is the head groomer; the owner is Fábio Mendes",
+   "gold": "no, she is the head groomer; the owner is Fábio Mendes"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Leandro Prado must never be copied about schedule or clients",
+   "gold": "no"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "R$30 (any cancellation on holidays costs R$30)",
+   "gold": "R$ 30"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the partner vet Clínica Veterinária Parceira at (19) 5555-0136 yourself and tell the owner to take the animal to the clinic now, at Rua das Acácias 210",
+   "gold": "Call the partner vet clinic at (19) 5555-0136 itself and tell the owner to take the dog to the clinic at Rua das Acácias 210 immediately"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§3.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Olá! Seu horário no Bigode Feliz está confirmado.\"",
+   "gold": "\"Olá! Seu horário no Bigode Feliz está confirmado.\""
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is less than 24h ahead (23h), so the assistant must first talk to Juliana",
+   "gold": "no, it is less than 24 hours ahead, so it must first talk with Juliana"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturdays at 17:00 to Fábio Mendes: the week's service count and reviews",
+   "gold": "Every Saturday at 17:00 to Fábio Mendes"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, €450 is within the ≤€450 limit for room moves",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, whole-house move quotes always need Sanne Brouwer's prior approval, any amount",
+   "gold": "no, complete house moves always need Sanne Brouwer's approval"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€150 (60% of the €250 deposit; €100 is kept)",
+   "gold": "€150 (40% of €250, i.e. €100, is withheld)"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the full €250 deposit",
+   "gold": "the full €250 deposit"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, he is the crew leader; the owner is Ellen Hagedoorn",
+   "gold": "no, he is the crew leader; the owner is Ellen Hagedoorn"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact Ruud Kamphuis about storage contracts",
+   "gold": "no"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never promise a Sunday move",
+   "gold": "no"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "at least 10 working days before the move date",
+   "gold": "10 working days"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Immediately call the fault service at 0800-555-0173 yourself and tell the customer everyone must leave the building and nobody should use light switches",
+   "gold": "Call the outage service 0800-555-0173 itself and tell the customer everyone must leave the building and nobody may use light switches"
+  },
+  {
+   "f": "mnc23xx_r2",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mondays at 9:00 to Ellen Hagedoorn: all moves for the next 2 weeks",
+   "gold": "Every Monday at 9:00 to Ellen Hagedoorn"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $180 is within the self-approval limit for lock changes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dana Whitcombe, the operations manager",
+   "gold": "Dana Whitcombe, the operations manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, safe openings always need Dana Whitcombe's approval",
+   "gold": "no, safe openings always need Dana Whitcombe's approval"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, key duplication orders may be confirmed at any price",
+   "gold": "yes, key duplication can be confirmed at any price"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Martin Hollins",
+   "gold": "Martin Hollins"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Gareth Lunn must never be copied on pricing or invoice messages",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, faulty parts can be refunded within 60 days",
+   "gold": "yes, faulty parts can be refunded within 60 days"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Immediately call the emergency dispatch line 555-0147 itself, then tell the customer a technician is on the way and to also call 911 if anyone is in danger",
+   "gold": "Call the emergency dispatch line 555-0147 itself immediately, then tell the customer a technician is on the way and to call 911 if anyone is in danger"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 17:00 the same business day",
+   "gold": "by 17:00 the same day"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Every Friday at 16:00 to Dana Whitcombe (open jobs and unpaid invoices)",
+   "gold": "Every Friday at 16:00 to Dana Whitcombe"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 3, 2026 (Thursday), 9:00 AM to 5:00 PM",
+   "gold": "December 3 (Thursday), 9:00 to 17:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 4 (Friday), 10:00 AM to 3:00 PM",
+   "gold": "December 4 (Friday), 10:00 to 15:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is supplied separately from an emergency water tank and excluded",
+   "gold": "no, it is exempt because it is supplied by an emergency water tank"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "six 2-liter bottles per household",
+   "gold": "six 2-liter bottles (12 liters)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "10,000 won (5,000 won each)",
+   "gold": "10,000 won"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the confirmation certificate issued by the management office",
+   "gold": "the confirmation certificate issued by the management office"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,500 won per household from the December management fee",
+   "gold": "3,500 won per household from the December maintenance fee"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Office manager Kim Jeong-hoon at 031-555-0182 (weekdays 9 AM to 6 PM)",
+   "gold": "Manager Kim Jeong-hun, 031-555-0182"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the security office, 031-555-0190",
+   "gold": "the security office, 031-555-0190"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "from 8:00 AM",
+   "gold": "8:00 in the morning"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, discounts up to R$ 25 may be granted on its own",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Renata Siqueira, the financial manager",
+   "gold": "Renata Siqueira, the financial manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the salon is closed on Mondays and the inbox must not be checked",
+   "gold": "no, the salon is closed on Mondays"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is the head groomer; the owner is Fábio Mendes",
+   "gold": "no, she is the head groomer; the owner is Fábio Mendes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Leandro Prado must never be copied about schedule or clients",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "R$ 30",
+   "gold": "R$ 30"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the partner veterinary clinic at (19) 5555-0136 itself and tell the owner to take the dog immediately to the clinic at Rua das Acácias, 210",
+   "gold": "Call the partner vet clinic at (19) 5555-0136 itself and tell the owner to take the dog to the clinic at Rua das Acácias 210 immediately"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Olá! Seu horário no Bigode Feliz está confirmado.\"",
+   "gold": "\"Olá! Seu horário no Bigode Feliz está confirmado.\""
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is less than 24 hours ahead, so the assistant must speak with Juliana first",
+   "gold": "no, it is less than 24 hours ahead, so it must first talk with Juliana"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Every Saturday at 17:00 to Fábio Mendes",
+   "gold": "Every Saturday at 17:00 to Fábio Mendes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, room-move quotes up to €450 may be confirmed on its own",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, complete house-move quotes always need Sanne Brouwer's approval",
+   "gold": "no, complete house moves always need Sanne Brouwer's approval"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€150 (40% of the €250 deposit, €100, is withheld)",
+   "gold": "€150 (40% of €250, i.e. €100, is withheld)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the full €250 deposit",
+   "gold": "the full €250 deposit"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, he is the crew leader; the owner is Ellen Hagedoorn",
+   "gold": "no, he is the crew leader; the owner is Ellen Hagedoorn"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact Ruud Kamphuis about storage contracts",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never promise a move on a Sunday",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "at least 10 working days before the moving date",
+   "gold": "10 working days"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Immediately call the emergency service at 0800-555-0173 itself and tell the customer everyone must leave the building and no one may use light switches",
+   "gold": "Call the outage service 0800-555-0173 itself and tell the customer everyone must leave the building and nobody may use light switches"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Every Monday at 9:00 to Ellen Hagedoorn (moves for the coming two weeks)",
+   "gold": "Every Monday at 9:00 to Ellen Hagedoorn"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, quotes up to $180 may be self-booked",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dana Whitcombe (ops manager)",
+   "gold": "Dana Whitcombe, the operations manager"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, safe openings always need Dana Whitcombe's approval, any amount",
+   "gold": "no, safe openings always need Dana Whitcombe's approval"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, key duplication may be confirmed at any price",
+   "gold": "yes, key duplication can be confirmed at any price"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Martin Hollins",
+   "gold": "Martin Hollins"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never CC Gareth Lunn on pricing/invoice messages",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, faulty parts are refundable within 60 days",
+   "gold": "yes, faulty parts can be refunded within 60 days"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Immediately call emergency dispatch 555-0147 yourself, then tell the customer a technician is on the way and to also call 911 if anyone is in danger (without promising arrival in under 45 minutes)",
+   "gold": "Call the emergency dispatch line 555-0147 itself immediately, then tell the customer a technician is on the way and to call 911 if anyone is in danger"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 17:00 the same day (Saturday)",
+   "gold": "by 17:00 the same day"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fridays at 16:00, to Dana Whitcombe: all open jobs plus unpaid invoices",
+   "gold": "Every Friday at 16:00 to Dana Whitcombe"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Thursday, December 3, 09:00-17:00",
+   "gold": "December 3 (Thursday), 9:00 to 17:00"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Friday, December 4, 10:00-15:00",
+   "gold": "December 4 (Friday), 10:00 to 15:00"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is excluded and supplied from an emergency water tank",
+   "gold": "no, it is exempt because it is supplied by an emergency water tank"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "six 2L bottles (12 L) per household",
+   "gold": "six 2-liter bottles (12 liters)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "10,000 won (5,000 won each)",
+   "gold": "10,000 won"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the confirmation certificate issued by the management office (one covers all family members of the same household)",
+   "gold": "the confirmation certificate issued by the management office"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,500 won per household on the December management fee",
+   "gold": "3,500 won per household from the December maintenance fee"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Office manager Kim Jeong-hun, 031-555-0182 (weekdays 09:00-18:00)",
+   "gold": "Manager Kim Jeong-hun, 031-555-0182"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the security office, 031-555-0190",
+   "gold": "the security office, 031-555-0190"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "from 08:00",
+   "gold": "8:00 in the morning"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, discounts up to R$ 25 per service may be granted on its own",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Renata Siqueira (finance manager)",
+   "gold": "Renata Siqueira, the financial manager"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the salon is closed on Mondays and the inbox is not checked",
+   "gold": "no, the salon is closed on Mondays"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is the head groomer; the owner is Fábio Mendes",
+   "gold": "no, she is the head groomer; the owner is Fábio Mendes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never copy Leandro Prado on schedule/client matters",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "R$ 30 (any cancellation on a holiday costs R$ 30)",
+   "gold": "R$ 30"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the partner veterinary clinic at (19) 5555-0136 yourself and tell the owner to take the dog to the clinic immediately, at Rua das Acácias, 210",
+   "gold": "Call the partner vet clinic at (19) 5555-0136 itself and tell the owner to take the dog to the clinic at Rua das Acácias 210 immediately"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Olá! Seu horário no Bigode Feliz está confirmado.\"",
+   "gold": "\"Olá! Seu horário no Bigode Feliz está confirmado.\""
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is less than 24 hours' notice, so it must first be discussed with Juliana Prado",
+   "gold": "no, it is less than 24 hours ahead, so it must first talk with Juliana"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturdays at 17:00, to Fábio Mendes: number of services that week and reviews received",
+   "gold": "Every Saturday at 17:00 to Fábio Mendes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, room-move quotes up to €450 may be self-confirmed",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, complete house moves always need Sanne Brouwer's approval first, regardless of amount",
+   "gold": "no, complete house moves always need Sanne Brouwer's approval"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€150 (60% of the €250 deposit; 40% is withheld)",
+   "gold": "€150 (40% of €250, i.e. €100, is withheld)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the full €250 deposit",
+   "gold": "the full €250 deposit"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, he is the crew leader; the owner is Ellen Hagedoorn",
+   "gold": "no, he is the crew leader; the owner is Ellen Hagedoorn"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact Ruud Kamphuis about storage contracts",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never promise a move on a Sunday",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "at least 10 working days before the moving date",
+   "gold": "10 working days"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Immediately call the emergency service 0800-555-0173 yourself and tell the customer everyone must leave the building and no one may use light switches",
+   "gold": "Call the outage service 0800-555-0173 itself and tell the customer everyone must leave the building and nobody may use light switches"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "every Monday at 9:00, to Ellen Hagedoorn: overview of all moves in the coming two weeks",
+   "gold": "Every Monday at 9:00 to Ellen Hagedoorn"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, self-book allowed up to $180",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dana Whitcombe (ops manager)",
+   "gold": "Dana Whitcombe, the operations manager"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, safe openings always need Dana's approval",
+   "gold": "no, safe openings always need Dana Whitcombe's approval"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, key duplication must be confirmed at any price",
+   "gold": "yes, key duplication can be confirmed at any price"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Martin Hollins",
+   "gold": "Martin Hollins"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, faulty parts within 60 days",
+   "gold": "yes, faulty parts can be refunded within 60 days"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call emergency dispatch 555-0147 immediately yourself, then tell the customer a technician is on the way and to call 911 if anyone is in danger",
+   "gold": "Call the emergency dispatch line 555-0147 itself immediately, then tell the customer a technician is on the way and to call 911 if anyone is in danger"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 17:00 the same day",
+   "gold": "by 17:00 the same day"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fridays 16:00, to Dana Whitcombe (open jobs + unpaid invoices)",
+   "gold": "Every Friday at 16:00 to Dana Whitcombe"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Thu 2026-12-03, 09:00–17:00",
+   "gold": "December 3 (Thursday), 9:00 to 17:00"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fri 2026-12-04, 10:00–15:00",
+   "gold": "December 4 (Friday), 10:00 to 15:00"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, supplied by emergency tank",
+   "gold": "no, it is exempt because it is supplied by an emergency water tank"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6 × 2L bottles per household",
+   "gold": "six 2-liter bottles (12 liters)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "10,000 won (5,000 each)",
+   "gold": "10,000 won"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "confirmation slip from the management office",
+   "gold": "the confirmation certificate issued by the management office"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,500 won off the December management fee",
+   "gold": "3,500 won per household from the December maintenance fee"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "manager Kim Jeong-hun, 031-555-0182 (weekdays 09:00–18:00)",
+   "gold": "Manager Kim Jeong-hun, 031-555-0182"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "security office 031-555-0190",
+   "gold": "the security office, 031-555-0190"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "from 08:00",
+   "gold": "8:00 in the morning"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to R$25 allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Renata Siqueira (finance manager)",
+   "gold": "Renata Siqueira, the financial manager"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, closed Mondays",
+   "gold": "no, the salon is closed on Mondays"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, owner is Fábio Mendes",
+   "gold": "no, she is the head groomer; the owner is Fábio Mendes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "R$30",
+   "gold": "R$ 30"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Partner Vet Clinic (19) 5555-0136 yourself; tell owner to take the dog to the clinic immediately at Rua das Acácias, 210",
+   "gold": "Call the partner vet clinic at (19) 5555-0136 itself and tell the owner to take the dog to the clinic at Rua das Acácias 210 immediately"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Olá! Seu horário no Bigode Feliz está confirmado.",
+   "gold": "\"Olá! Seu horário no Bigode Feliz está confirmado.\""
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, under 24h notice; must first talk to Juliana",
+   "gold": "no, it is less than 24 hours ahead, so it must first talk with Juliana"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturdays 17:00, to Fábio Mendes (service count + reviews)",
+   "gold": "Every Saturday at 17:00 to Fábio Mendes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to €450 allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, full-house quotes always need Sanne Brouwer's approval",
+   "gold": "no, complete house moves always need Sanne Brouwer's approval"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€150 (60% of €250 deposit)",
+   "gold": "€150 (40% of €250, i.e. €100, is withheld)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "full €250 deposit",
+   "gold": "the full €250 deposit"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, owner is Ellen Hagedoorn",
+   "gold": "no, he is the crew leader; the owner is Ellen Hagedoorn"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "at least 10 workdays before",
+   "gold": "10 working days"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call outage service 0800-555-0173 yourself immediately; tell customer everyone must leave the building and no one use light switches",
+   "gold": "Call the outage service 0800-555-0173 itself and tell the customer everyone must leave the building and nobody may use light switches"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mondays 9:00, to Ellen Hagedoorn (moves next two weeks)",
+   "gold": "Every Monday at 9:00 to Ellen Hagedoorn"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $180 is within the self-book limit for lock changes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dana Whitcombe (ops manager)",
+   "gold": "Dana Whitcombe, the operations manager"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, safe openings always need Dana's approval, any amount",
+   "gold": "no, safe openings always need Dana Whitcombe's approval"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, key duplication must be confirmed at any price",
+   "gold": "yes, key duplication can be confirmed at any price"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Martin Hollins",
+   "gold": "Martin Hollins"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never copy Gareth Lunn on pricing/invoice messages",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, faulty parts are covered within 60 days",
+   "gold": "yes, faulty parts can be refunded within 60 days"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Immediately call emergency dispatch 555-0147 itself, then tell the customer a technician is on the way and to call 911 if anyone is in danger; do not promise arrival under 45 min",
+   "gold": "Call the emergency dispatch line 555-0147 itself immediately, then tell the customer a technician is on the way and to call 911 if anyone is in danger"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 17:00 the same business day (that Saturday)",
+   "gold": "by 17:00 the same day"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fridays 16:00, to Dana Whitcombe (all open jobs + unpaid invoices)",
+   "gold": "Every Friday at 16:00 to Dana Whitcombe"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Thu 2026-12-03, 09:00–17:00",
+   "gold": "December 3 (Thursday), 9:00 to 17:00"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Fri 2026-12-04, 10:00–15:00",
+   "gold": "December 4 (Friday), 10:00 to 15:00"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is supplied by emergency tank and not cut",
+   "gold": "no, it is exempt because it is supplied by an emergency water tank"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6 × 2L bottles per household",
+   "gold": "six 2-liter bottles (12 liters)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "10,000 won (5,000 each)",
+   "gold": "10,000 won"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "a confirmation slip from the management office (one slip covers all family in the same household)",
+   "gold": "the confirmation certificate issued by the management office"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,500 won off the December management fee",
+   "gold": "3,500 won per household from the December maintenance fee"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "manager Kim Jeong-hun, 031-555-0182 (weekdays 09:00–18:00)",
+   "gold": "Manager Kim Jeong-hun, 031-555-0182"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "security office, 031-555-0190",
+   "gold": "the security office, 031-555-0190"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "from 08:00",
+   "gold": "8:00 in the morning"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to R$25 per service may be self-granted",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Renata Siqueira (finance manager)",
+   "gold": "Renata Siqueira, the financial manager"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, closed Mondays; don't check",
+   "gold": "no, the salon is closed on Mondays"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is head groomer; the owner is Fábio Mendes",
+   "gold": "no, she is the head groomer; the owner is Fábio Mendes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never cc Leandro Prado on schedule/clients",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "R$30 (any cancellation on holidays)",
+   "gold": "R$ 30"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call Partner Vet Clinic (19) 5555-0136 itself and tell the owner to take the animal to the clinic immediately at Rua das Acácias, 210",
+   "gold": "Call the partner vet clinic at (19) 5555-0136 itself and tell the owner to take the dog to the clinic at Rua das Acácias 210 immediately"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Olá! Seu horário no Bigode Feliz está confirmado.",
+   "gold": "\"Olá! Seu horário no Bigode Feliz está confirmado.\""
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is under 24h notice; must talk to Juliana first",
+   "gold": "no, it is less than 24 hours ahead, so it must first talk with Juliana"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturdays 17:00, to Fábio Mendes (week's service count + reviews received)",
+   "gold": "Every Saturday at 17:00 to Fábio Mendes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, €450 is within the room-move limit",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, full-house moves always need prior approval from Sanne Brouwer",
+   "gold": "no, complete house moves always need Sanne Brouwer's approval"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€150 (60% of €250 deposit; 40% = €100 kept)",
+   "gold": "€150 (40% of €250, i.e. €100, is withheld)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the full €250 deposit",
+   "gold": "the full €250 deposit"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, he is crew leader; the owner is Ellen Hagedoorn",
+   "gold": "no, he is the crew leader; the owner is Ellen Hagedoorn"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact Ruud Kamphuis about storage contracts",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never promise a Sunday move",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "at least 10 workdays before the move date",
+   "gold": "10 working days"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Immediately call outage service 0800-555-0173 itself; tell the customer everyone must leave the building and no one use light switches",
+   "gold": "Call the outage service 0800-555-0173 itself and tell the customer everyone must leave the building and nobody may use light switches"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mondays 9:00, to Ellen Hagedoorn (all moves for the next two weeks)",
+   "gold": "Every Monday at 9:00 to Ellen Hagedoorn"
+  }
+ ],
+ "summary": {
+  "llm05_r1": {
+   "all": [
+    37,
+    40
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    12,
+    15
+   ],
+   "hop2": [
+    12,
+    12
+   ]
+  },
+  "llm066_r1": {
+   "all": [
+    39,
+    40
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    14,
+    15
+   ],
+   "hop2": [
+    12,
+    12
+   ]
+  },
+  "mnc23_r1": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    15,
+    15
+   ],
+   "hop2": [
+    12,
+    12
+   ]
+  },
+  "mnc23_r2": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    15,
+    15
+   ],
+   "hop2": [
+    12,
+    12
+   ]
+  },
+  "mnc23x_r1": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    15,
+    15
+   ],
+   "hop2": [
+    12,
+    12
+   ]
+  },
+  "mnc23x_r2": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    15,
+    15
+   ],
+   "hop2": [
+    12,
+    12
+   ]
+  },
+  "mnc23xx_r1": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    15,
+    15
+   ],
+   "hop2": [
+    12,
+    12
+   ]
+  },
+  "mnc23xx_r2": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    15,
+    15
+   ],
+   "hop2": [
+    12,
+    12
+   ]
+  },
+  "original_r1": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    15,
+    15
+   ],
+   "hop2": [
+    12,
+    12
+   ]
+  },
+  "summ_r1": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    25,
+    25
+   ],
+   "F": [
+    15,
+    15
+   ],
+   "hop2": [
+    12,
+    12
+   ]
+  },
+  "terse_r1": {
+   "all": [
+    39,
+    40
+   ],
+   "S": [
+    24,
+    25
+   ],
+   "F": [
+    15,
+    15
+   ],
+   "hop2": [
+    11,
+    12
+   ]
+  },
+  "terse_r2": {
+   "all": [
+    39,
+    40
+   ],
+   "S": [
+    24,
+    25
+   ],
+   "F": [
+    15,
+    15
+   ],
+   "hop2": [
+    11,
+    12
+   ]
+  }
+ }
+}

@@ -1,0 +1,532 @@
+{
+ "written": "2026-11-19 by independent author (r27)",
+ "questions": [
+  {
+   "id": "§1.q1",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer accepts a repair order quoted at exactly $900. May the assistant confirm it on its own?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q2",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "Un cliente chiede la sostituzione completa del tetto con un preventivo di 750 dollari. L'assistente può confermarla da solo?",
+   "gold": "no; replacement quotes always need Dana Okafor's approval",
+   "accept": [
+    "^\\W*no\\b",
+    "dana|okafor"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q3",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A repair order comes to $901. Who must approve it, and what is that person's role?",
+   "gold": "Dana Okafor, the operations manager",
+   "accept": [
+    "dana|okafor",
+    "operations\\s+manager"
+   ],
+   "reject": [
+    "marcus|bell"
+   ]
+  },
+  {
+   "id": "§1.q4",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer complains that the crew left nails in the driveway. May the assistant copy Marcus Bell on the reply?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q5",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "At 10:00 on Tuesday a customer asks to reschedule an inspection booked for Wednesday 8:00. What should the assistant do?",
+   "gold": "forward the request to Dana Okafor (it arrived less than 24 hours before the visit)",
+   "accept": [
+    "forward|pass|send|refer|escalat",
+    "dana|okafor"
+   ],
+   "reject": [
+    "next\\s+free\\s+slot.*(move|resched)|^\\W*move"
+   ]
+  },
+  {
+   "id": "§1.q6",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "Fyra takinspektioner är redan bokade i dag. En femte kund vill ha en inspektion i dag. Får assistenten boka den själv?",
+   "gold": "no; it must wait for the next day's list",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "dana|okafor"
+   ]
+  },
+  {
+   "id": "§1.q7",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer writes that water is coming through the bedroom ceiling. What exactly must the assistant do and tell the customer?",
+   "gold": "call the on-call crew yourself at 555-0148; tell the customer a crew is on the way; tell the customer to switch off the electricity to that room at the breaker themselves",
+   "accept": [
+    "555\\W?0148",
+    "(crew|help|someone).*(way|coming)|(way|coming)",
+    "breaker|electric|power"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q8",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "In the ceiling-leak emergency, who is supposed to switch off the electricity at the breaker: the assistant, the crew or the customer?",
+   "gold": "the customer",
+   "accept": [
+    "customer"
+   ],
+   "reject": [
+    "^\\W*(the\\s+)?(assistant|crew)\\b"
+   ]
+  },
+  {
+   "id": "§1.q9",
+   "sec": 1,
+   "type": "F",
+   "hop": 1,
+   "q": "견적 이메일은 어떤 정확한 문장으로 끝나야 합니까?",
+   "gold": "\"This quote is valid for 30 days from today.\"",
+   "accept": [
+    "valid\\s+for\\s+30\\s+days\\s+from\\s+today"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q10",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Insurance paperwork is requested on a Tuesday. By when must it be answered?",
+   "gold": "by Thursday at 17:00 of that week",
+   "accept": [
+    "thursday",
+    "(5\\s*p\\.?\\s*m|17[:.]00)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q1",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "When is the bulky-waste collection and during which hours may items be put out?",
+   "gold": "December 5 (Saturday), 7:00 to 10:00 am",
+   "accept": [
+    "(dec\\w*\\W*0?5(?!\\d)|12\\W*(월\\s*)?0?5(?!\\d)|(?<!\\d)5(th)?\\W*(of\\s+)?dec)",
+    "(7\\s*(:00\\s*)?a\\.?\\s*m|0?7[:.]00)",
+    "(10\\s*(:00\\s*)?a\\.?\\s*m|10[:.]00)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q2",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "2019년에 제조된 의자는 무료로 수거됩니까?",
+   "gold": "yes; all chairs are collected free (the date limit applies only to mattresses)",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q3",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "Is a mattress manufactured in 2019 collected free of charge?",
+   "gold": "no; only mattresses made before 2016 are free",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q4",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "Is a mattress manufactured in 2012 collected free of charge?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q5",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "한 세대가 3인용 소파 1개와 문짝이 3개인 장롱 1개를 버리려고 합니다. 스티커 비용은 총 얼마입니까?",
+   "gold": "24,000 won",
+   "accept": [
+    "(?<!\\d)24\\W?000(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q6",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "Can a resident put a refrigerator out on the collection day?",
+   "gold": "no; appliances are excluded and must be booked separately with the appliance pickup center at 080-555-0419",
+   "accept": [
+    "^\\W*no\\b",
+    "080\\W?555\\W?0419"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q7",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "A resident wants to put a sofa out on December 4 at 9 pm. Is that allowed?",
+   "gold": "yes; items may not be put out before 8 pm on December 4",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q8",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "스티커는 언제, 몇 시부터 몇 시까지 판매합니까?",
+   "gold": "November 30 to December 3, 9 am to 6 pm, at the management office",
+   "accept": [
+    "(nov\\w*\\W*30|11\\W*(월\\s*)?30|30(th)?\\W*(of\\s+)?nov)",
+    "(dec\\w*\\W*0?3(?!\\d)|12\\W*(월\\s*)?0?3(?!\\d)|(?<!\\d)3(rd)?\\W*(of\\s+)?dec)",
+    "(9\\s*(:00\\s*)?a\\.?\\s*m|0?9[:.]00)",
+    "(6\\s*(:00\\s*)?p\\.?\\s*m|18[:.]00)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q9",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "By what date must residents with limited mobility apply for door-front pickup?",
+   "gold": "December 2",
+   "accept": [
+    "(dec\\w*\\W*0?2(?!\\d)|12\\W*(월\\s*)?0?2(?!\\d)|(?<!\\d)2(nd)?\\W*(of\\s+)?dec)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q10",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "Who is the contact person for questions, and what is the phone number?",
+   "gold": "Park Ji-hyun (박지현), chief at the management office, 031-555-0172",
+   "accept": [
+    "박지현|park|bak",
+    "031\\W?555\\W?0172"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q1",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer books cleaning for an apartment with exactly 12 windows. May the assistant schedule it on its own?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q2",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Un appartamento ha 13 finestre. L'assistente può fissare l'intervento da solo? Se no, chi deve approvare?",
+   "gold": "no; it needs approval from Chiara Bonetti, the sales manager (responsabile commerciale)",
+   "accept": [
+    "^\\W*no\\b",
+    "chiara|bonetti"
+   ],
+   "reject": [
+    "giulia|rota"
+   ]
+  },
+  {
+   "id": "§3.q3",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A small shop asks for a quote for 5 windows. May the assistant schedule it on its own, and who approves it?",
+   "gold": "no; shop quotes always need approval, approver not stated",
+   "accept": [
+    "^\\W*no\\b",
+    "approv"
+   ],
+   "reject": [
+    "chiara|bonetti",
+    "giulia|rota"
+   ]
+  },
+  {
+   "id": "§3.q4",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Chi è la titolare di Vetri Chiari?",
+   "gold": "Giulia Rota",
+   "accept": [
+    "giulia|rota"
+   ],
+   "reject": [
+    "^\\W*chiara|^\\W*bonetti"
+   ]
+  },
+  {
+   "id": "§3.q5",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Replying to a complaint about streaks on the windows, may the assistant copy Giulia Rota?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q6",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Un cliente disdice il 10 dicembre un intervento previsto per il 14 dicembre. Quanto costa la disdetta?",
+   "gold": "20 euros (December exception)",
+   "accept": [
+    "(?<!\\d)20(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q7",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer cancels on 10 March for an appointment on 14 March. Is there a cancellation fee?",
+   "gold": "no; it is free (more than 48 hours ahead, not December)",
+   "accept": [
+    "^\\W*no\\b|free|nothing|(?<!\\d)0(?!\\d)"
+   ],
+   "reject": [
+    "(?<!\\d)20(?!\\d)"
+   ]
+  },
+  {
+   "id": "§3.q8",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "During a job a customer reports that a window pane broke. What must the assistant do and tell the customer?",
+   "gold": "call the on-call glazier yourself at 035 555 0261; tell the customer the glazier is coming; tell the customer to keep children and pets away from the room themselves",
+   "accept": [
+    "035\\W?555\\W?0261",
+    "child|kid",
+    "pet|animal"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q9",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "In the broken-window emergency, who keeps children and animals away from the room?",
+   "gold": "the customer",
+   "accept": [
+    "customer"
+   ],
+   "reject": [
+    "^\\W*(the\\s+)?(assistant|glazier)\\b"
+   ]
+  },
+  {
+   "id": "§3.q10",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "Must a reply to a complaint start or end with the fixed sentence, and what is it?",
+   "gold": "start: \"Ci scusiamo per il disagio e ce ne occupiamo subito.\"",
+   "accept": [
+    "start|begin|open",
+    "ci\\s+scusiamo\\s+per\\s+il\\s+disagio"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q1",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Six annual service visits are already booked for Tuesday. A customer asks for a seventh on Tuesday. May the assistant book it on its own?",
+   "gold": "no; it needs approval from Elin Sjöberg, the work supervisor",
+   "accept": [
+    "^\\W*no\\b",
+    "elin|sj[öo]e?berg"
+   ],
+   "reject": [
+    "johan|lindqvist"
+   ]
+  },
+  {
+   "id": "§4.q2",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Fem servicebesök är bokade på onsdag. Får assistenten själv boka ett sjätte besök samma dag?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q3",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "En kund avbokar 10 timmar före besöket och är inte sjuk. Hur mycket debiteras kunden?",
+   "gold": "580 kr (40% of 1,450 kr)",
+   "accept": [
+    "(?<!\\d)580(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q4",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer cancels 10 hours before the visit because they are ill and shows a doctor's certificate. What are they charged?",
+   "gold": "nothing; the illness-with-certificate exception applies",
+   "accept": [
+    "^\\W*(no|0|zero)\\b|nothing|free|not\\s+charged|no\\s+(fee|charge)|(?<!\\d)0\\s*kr"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q5",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer cancels 30 hours before the visit. What is the fee?",
+   "gold": "none; it is free",
+   "accept": [
+    "^\\W*(no|0|zero)\\b|nothing|free|none|not\\s+charged|no\\s+(fee|charge)|(?<!\\d)0\\s*kr"
+   ],
+   "reject": [
+    "(?<!\\d)580(?!\\d)"
+   ]
+  },
+  {
+   "id": "§4.q6",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer emails about a warranty claim. May the assistant contact Johan Lindqvist about it?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q7",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Är Elin Sjöberg ägare till Norrvärme Service?",
+   "gold": "no; she is the work supervisor (arbetsledare); the owner is Johan Lindqvist",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q8",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer reports a burning smell from the heat pump. What must the assistant do and tell the customer?",
+   "gold": "call the on-call technician yourself at 070-555 31 84; tell the customer a technician is on the way; tell the customer to switch off the heat pump with the safety switch themselves",
+   "accept": [
+    "070\\W?555\\W?31\\W?84",
+    "(technician|someone|help).*(way|coming)|on\\s+(the|its)\\s+way",
+    "switch|turn\\s+off|shut"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q9",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "Vid brännlukt från värmepumpen: vem ska stänga av värmepumpen med säkerhetsbrytaren?",
+   "gold": "the customer",
+   "accept": [
+    "customer"
+   ],
+   "reject": [
+    "^\\W*(the\\s+)?(assistant|technician)\\b"
+   ]
+  },
+  {
+   "id": "§4.q10",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A complaint arrives on Friday at 15:00. By when must it be answered?",
+   "gold": "by Monday at 12:00 (next weekday)",
+   "accept": [
+    "monday",
+    "(12\\s*(:00\\s*)?(p\\.?\\s*m|noon)|12[:.]00|noon)"
+   ],
+   "reject": []
+  }
+ ]
+}

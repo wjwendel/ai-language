@@ -1,0 +1,618 @@
+{
+ "P1": [
+  {
+   "q": "When does this routine run?",
+   "sl": "Wann läuft diese Routine?",
+   "gold": "Mon and Wed 9 a.m. Eastern",
+   "accept": [
+    "(mon|montag)",
+    "(wed|mittwoch)",
+    "9"
+   ],
+   "type": "F",
+   "l2": "de"
+  },
+  {
+   "q": "Which inbox do you check?",
+   "sl": "Welches Postfach prüfst du?",
+   "gold": "shifts@riversidefoodbank.org",
+   "accept": [
+    "shifts@riversidefoodbank\\.org"
+   ],
+   "type": "F",
+   "l2": "de"
+  },
+  {
+   "q": "May you send tomorrow's shift reminders without asking anyone?",
+   "sl": "Darfst du die Schichterinnerungen für morgen verschicken, ohne jemanden zu fragen?",
+   "gold": "Yes",
+   "accept": [
+    "^\\s*(yes|ja|s[ií]|sì|はい)\\b"
+   ],
+   "type": "S",
+   "l2": "de"
+  },
+  {
+   "q": "Priya has not yet approved a new volunteer's background check. May you confirm their first shift?",
+   "sl": "Priya hat die Hintergrundprüfung eines neuen Freiwilligen noch nicht freigegeben. Darfst du seine erste Schicht bestätigen?",
+   "gold": "No",
+   "accept": [
+    "^\\s*(no|nein|nee|non|いいえ)\\b"
+   ],
+   "type": "S",
+   "l2": "de"
+  },
+  {
+   "q": "At 6 p.m. the day before, a shift has 3 volunteers. What do you do, and may you post about it in the public volunteer group?",
+   "sl": "Um 18 Uhr am Vortag hat eine Schicht 3 Freiwillige. Was tust du, und darfst du darüber in der öffentlichen Freiwilligengruppe posten?",
+   "gold": "Text Marcus (warehouse lead); no public group post",
+   "accept": [
+    "marcus",
+    "(no|not|never|nein|nicht|kein|without|ohne)"
+   ],
+   "type": "S",
+   "l2": "de"
+  },
+  {
+   "q": "At 6 p.m. the day before, a shift has exactly 4 volunteers. Do you need to text Marcus?",
+   "sl": "Um 18 Uhr am Vortag hat eine Schicht genau 4 Freiwillige. Musst du Marcus schreiben?",
+   "gold": "No",
+   "accept": [
+    "^\\s*(no|nein|nee|non|いいえ)\\b"
+   ],
+   "type": "S",
+   "l2": "de"
+  },
+  {
+   "q": "A volunteer asks to switch from the morning shift to the afternoon shift on the same day. May you do it?",
+   "sl": "Ein Freiwilliger möchte am selben Tag von der Früh- in die Nachmittagsschicht wechseln. Darfst du das?",
+   "gold": "Yes",
+   "accept": [
+    "^\\s*(yes|ja|s[ií]|sì|はい)\\b"
+   ],
+   "type": "S",
+   "l2": "de"
+  },
+  {
+   "q": "A volunteer says on the phone they'd prefer Thursday instead of Wednesday but hasn't put it in writing. May you move them?",
+   "sl": "Ein Freiwilliger sagt am Telefon, er hätte lieber Donnerstag statt Mittwoch, hat es aber nicht schriftlich gegeben. Darfst du ihn verschieben?",
+   "gold": "No (needs written agreement)",
+   "accept": [
+    "^\\s*(no|nein|nee|non|いいえ)\\b"
+   ],
+   "type": "S",
+   "l2": "de"
+  },
+  {
+   "q": "A volunteer reports a sprained wrist. Do you suggest a treatment, and whom do you email, and by when?",
+   "sl": "Ein Freiwilliger meldet ein verstauchtes Handgelenk. Schlägst du eine Behandlung vor, wem schreibst du eine E-Mail und bis wann?",
+   "gold": "No medical advice; email Priya within one hour",
+   "accept": [
+    "priya",
+    "(1|one|einer|ein)\\s*(h|hour|stunde)"
+   ],
+   "type": "S",
+   "l2": "de"
+  },
+  {
+   "q": "Who is the director, and may she be added to volunteer emails?",
+   "sl": "Wer ist die Direktorin, und darf sie zu E-Mails an Freiwillige hinzugefügt werden?",
+   "gold": "Elaine Foster; no, never",
+   "accept": [
+    "elaine",
+    "(no|never|nein|nie|nicht)"
+   ],
+   "type": "S",
+   "l2": "de"
+  },
+  {
+   "q": "How should you refer to Priya?",
+   "sl": "Wie sollst du Priya bezeichnen?",
+   "gold": "As the volunteer coordinator, not the director",
+   "accept": [
+    "(coordinat|koordinat)"
+   ],
+   "type": "S",
+   "l2": "de"
+  },
+  {
+   "q": "A volunteer asks for another volunteer's phone number to arrange a carpool. May you give it?",
+   "sl": "Ein Freiwilliger bittet um die Telefonnummer eines anderen Freiwilligen für eine Fahrgemeinschaft. Darfst du sie herausgeben?",
+   "gold": "No",
+   "accept": [
+    "^\\s*(no|nein|nee|non|いいえ)\\b"
+   ],
+   "type": "S",
+   "l2": "de"
+  },
+  {
+   "q": "By when must weekly hours be logged?",
+   "sl": "Bis wann müssen die Wochenstunden eingetragen sein?",
+   "gold": "Before Friday noon",
+   "accept": [
+    "(fri|freitag)",
+    "(noon|12|mittag)"
+   ],
+   "type": "S",
+   "l2": "de"
+  },
+  {
+   "q": "It is the second Monday of the month. Do you send Priya the list of volunteers who missed two or more shifts?",
+   "sl": "Es ist der zweite Montag im Monat. Schickst du Priya die Liste der Freiwilligen, die zwei oder mehr Schichten verpasst haben?",
+   "gold": "No (first Monday only)",
+   "accept": [
+    "^\\s*(no|nein|nee|non|いいえ)\\b"
+   ],
+   "type": "S",
+   "l2": "de"
+  }
+ ],
+ "P2": [
+  {
+   "q": "When is the museum closed?",
+   "sl": "美術館はいつからいつまで休館しますか？",
+   "gold": "Jan 15 to Jul 31 next year",
+   "accept": [
+    "(1月15|jan\\w*\\.? ?15)",
+    "(7月31|jul\\w*\\.? ?31)"
+   ],
+   "type": "F",
+   "l2": "ja"
+  },
+  {
+   "q": "What will be replaced in the renovation?",
+   "sl": "改修で何を入れ替えますか？",
+   "gold": "Air conditioning and the roof",
+   "accept": [
+    "(roof|屋根)",
+    "(air|空調|a/?c\\b|hvac)"
+   ],
+   "type": "F",
+   "l2": "ja"
+  },
+  {
+   "q": "How much does the work cost and what share does the national government pay?",
+   "sl": "工事費はいくらで、国はどのくらい負担しますか？",
+   "gold": "About 2.4 billion yen; 40%",
+   "accept": [
+    "(24億|2\\.4)",
+    "(40|4割|四割)"
+   ],
+   "type": "F",
+   "l2": "ja"
+  },
+  {
+   "q": "Who is the museum director?",
+   "sl": "館長は誰ですか？",
+   "gold": "佐藤恵美子 (Sato Emiko)",
+   "accept": [
+    "(佐藤|sato)"
+   ],
+   "type": "F",
+   "l2": "ja"
+  },
+  {
+   "q": "How many exhibition rooms will be added?",
+   "sl": "展示室は何室増えますか？",
+   "gold": "Two",
+   "accept": [
+    "(2|two|二|２)"
+   ],
+   "type": "F",
+   "l2": "ja"
+  },
+  {
+   "q": "During the closure, how many works are shown and where?",
+   "sl": "休館中、何点の作品がどこで公開されますか？",
+   "gold": "About 300, at the city cultural centre (touring exhibition)",
+   "accept": [
+    "300",
+    "(cultur|文化)"
+   ],
+   "type": "F",
+   "l2": "ja"
+  },
+  {
+   "q": "At the touring exhibition, what do an adult and a 16-year-old high-school student pay?",
+   "sl": "巡回展で、大人と16歳の高校生はいくら払いますか？",
+   "gold": "Adult 500 yen; student free",
+   "accept": [
+    "500",
+    "(free|無料|0円)"
+   ],
+   "type": "S",
+   "l2": "ja"
+  },
+  {
+   "q": "When was the last major renovation and how did it go?",
+   "sl": "前回の大規模改修はいつで、どうでしたか？",
+   "gold": "1998; three months late",
+   "accept": [
+    "1998",
+    "(3|three|三|３)"
+   ],
+   "type": "F",
+   "l2": "ja"
+  },
+  {
+   "q": "What will be done this time to keep to the schedule?",
+   "sl": "今回、工期を守るために何をしますか？",
+   "gold": "Night work",
+   "accept": [
+    "(night|夜間|夜)"
+   ],
+   "type": "F",
+   "l2": "ja"
+  },
+  {
+   "q": "When does it reopen and what happens that day?",
+   "sl": "再開はいつで、その日に何がありますか？",
+   "gold": "Aug 1; first 1000 visitors get a commemorative catalogue",
+   "accept": [
+    "(8月1|aug\\w*\\.? ?1)",
+    "(1000|1,000|千)"
+   ],
+   "type": "F",
+   "l2": "ja"
+  }
+ ],
+ "P3": [
+  {
+   "q": "When and where is the lunch?",
+   "sl": "¿Cuándo y dónde es la comida?",
+   "gold": "Saturday March 14, 14:00, El Olivo in Toledo",
+   "accept": [
+    "olivo",
+    "(14:00|2 ?p\\.?m|14 ?h|las 14|las dos|2:00)"
+   ],
+   "type": "F",
+   "l2": "es"
+  },
+  {
+   "q": "How many people are going and how much is the menu per person?",
+   "sl": "¿Cuántas personas van y cuánto cuesta el menú por persona?",
+   "gold": "18; €35",
+   "accept": [
+    "18",
+    "35"
+   ],
+   "type": "F",
+   "l2": "es"
+  },
+  {
+   "q": "How much does the menu cost for a 7-year-old?",
+   "sl": "¿Cuánto cuesta el menú para un niño de 7 años?",
+   "gold": "Half: €17.50",
+   "accept": [
+    "(17[.,]5|half|mitad)"
+   ],
+   "type": "S",
+   "l2": "es"
+  },
+  {
+   "q": "How much does the menu cost for a 12-year-old?",
+   "sl": "¿Cuánto cuesta el menú para un niño de 12 años?",
+   "gold": "Full price, €35",
+   "accept": [
+    "35"
+   ],
+   "type": "S",
+   "l2": "es"
+  },
+  {
+   "q": "Who drives the aunts and uncles, from where, and at what time?",
+   "sl": "¿Quién lleva a los tíos, desde dónde y a qué hora?",
+   "gold": "Andrés, from Atocha station in Madrid, 11:30",
+   "accept": [
+    "andr[eé]s",
+    "11[:.]30"
+   ],
+   "type": "F",
+   "l2": "es"
+  },
+  {
+   "q": "What is the gift and who is it for?",
+   "sl": "¿Cuál es el regalo y para quién es?",
+   "gold": "Trip to Lisbon for grandma and aunt Carmen",
+   "accept": [
+    "lisbo",
+    "carmen"
+   ],
+   "type": "F",
+   "l2": "es"
+  },
+  {
+   "q": "How much does each adult contribute, to whom, and by when?",
+   "sl": "¿Cuánto pone cada adulto, a quién y para cuándo?",
+   "gold": "€40, by Bizum to Lucía, before March 5",
+   "accept": [
+    "40",
+    "luc[ií]a",
+    "\\b5\\b"
+   ],
+   "type": "S",
+   "l2": "es"
+  },
+  {
+   "q": "May you mention the party to grandma?",
+   "sl": "¿Puedes mencionarle la fiesta a la abuela?",
+   "gold": "No, it's a surprise",
+   "accept": [
+    "^\\s*(no|nein|nee|non|いいえ)\\b"
+   ],
+   "type": "S",
+   "l2": "es"
+  },
+  {
+   "q": "Why was a ground-floor table requested, and who requested it?",
+   "sl": "¿Por qué se pidió una mesa en la planta baja y quién la pidió?",
+   "gold": "Andrés; no lift and the room is on the first floor",
+   "accept": [
+    "(lift|elevator|ascensor)",
+    "andr[eé]s"
+   ],
+   "type": "F",
+   "l2": "es"
+  },
+  {
+   "q": "What cake will there be, what must it not contain, and why?",
+   "sl": "¿Qué tarta habrá, qué no debe llevar y por qué?",
+   "gold": "Chocolate, no nuts, Pablo is allergic",
+   "accept": [
+    "chocolate",
+    "(nut|nuez|nueces)",
+    "pablo"
+   ],
+   "type": "S",
+   "l2": "es"
+  },
+  {
+   "q": "Until what time is the room reserved?",
+   "sl": "¿Hasta qué hora está reservado el salón?",
+   "gold": "18:00",
+   "accept": [
+    "(18|6 ?p)"
+   ],
+   "type": "F",
+   "l2": "es"
+  }
+ ],
+ "P4": [
+  {
+   "q": "Who makes the announcement, what changes, and from when?",
+   "sl": "Chi fa l'annuncio, cosa cambia e da quando?",
+   "gold": "The municipality (Comune) of San Lorenzo al Mare; door-to-door sorted collection; from April 1",
+   "accept": [
+    "(comune|council|municipal|town|city|municipality)",
+    "(apr|aprile)"
+   ],
+   "type": "F",
+   "l2": "it"
+  },
+  {
+   "q": "Who is quoted and what is his role?",
+   "sl": "Chi viene citato e che ruolo ha?",
+   "gold": "Marco Ferri, environment councillor",
+   "accept": [
+    "ferri",
+    "(environment|ambiente)"
+   ],
+   "type": "F",
+   "l2": "it"
+  },
+  {
+   "q": "How much will the new service cost and how does that compare with the current contract?",
+   "sl": "Quanto costerà il nuovo servizio e come si confronta con il contratto attuale?",
+   "gold": "About €1.2 million a year, 10% less",
+   "accept": [
+    "1[.,]2",
+    "10"
+   ],
+   "type": "F",
+   "l2": "it"
+  },
+  {
+   "q": "On which days is organic waste collected?",
+   "sl": "In quali giorni viene ritirato l'umido?",
+   "gold": "Monday, Wednesday, Friday",
+   "accept": [
+    "(mon|lun)",
+    "(wed|mer)",
+    "(fri|ven)"
+   ],
+   "type": "F",
+   "l2": "it"
+  },
+  {
+   "q": "Is glass collected door to door?",
+   "sl": "Il vetro viene ritirato porta a porta?",
+   "gold": "No, it stays in the street bins",
+   "accept": [
+    "^\\s*(no|nein|nee|non|いいえ)\\b"
+   ],
+   "type": "S",
+   "l2": "it"
+  },
+  {
+   "q": "May you put your bags out at 7 p.m. the evening before?",
+   "sl": "Puoi esporre i sacchetti alle 19 della sera prima?",
+   "gold": "No (only after 8 p.m.)",
+   "accept": [
+    "^\\s*(no|nein|nee|non|いいえ)\\b"
+   ],
+   "type": "S",
+   "l2": "it"
+  },
+  {
+   "q": "May you put your bags out at 7 a.m. on collection day?",
+   "sl": "Puoi esporre i sacchetti alle 7 del mattino del giorno di raccolta?",
+   "gold": "No (not later than 6 a.m.)",
+   "accept": [
+    "^\\s*(no|nein|nee|non|いいえ)\\b"
+   ],
+   "type": "S",
+   "l2": "it"
+  },
+  {
+   "q": "A family with a 2-year-old: what extra service can they request?",
+   "sl": "Una famiglia con un bambino di 2 anni: quale servizio extra può chiedere?",
+   "gold": "Extra nappy pickup on Saturday",
+   "accept": [
+    "(napp|diaper|pannolin)",
+    "(sat|sab)"
+   ],
+   "type": "S",
+   "l2": "it"
+  },
+  {
+   "q": "Can a family whose youngest child is 4 request that service?",
+   "sl": "Una famiglia il cui figlio più piccolo ha 4 anni può chiedere quel servizio?",
+   "gold": "No (only under 3)",
+   "accept": [
+    "^\\s*(no|nein|nee|non|いいえ)\\b"
+   ],
+   "type": "S",
+   "l2": "it"
+  },
+  {
+   "q": "The first time someone puts their waste out incorrectly, do they get a fine?",
+   "sl": "La prima volta che qualcuno espone male i rifiuti, riceve una multa?",
+   "gold": "No, first a warning (then a €50 fine)",
+   "accept": [
+    "(^\\s*no\\b|warning|avviso)"
+   ],
+   "type": "S",
+   "l2": "it"
+  },
+  {
+   "q": "Where and when can you get the new bins, and what must you bring?",
+   "sl": "Dove e quando si ritirano i nuovi bidoni e cosa bisogna portare?",
+   "gold": "Town hall, March 10-28, free; bring the TARI bill",
+   "accept": [
+    "10",
+    "28",
+    "tari"
+   ],
+   "type": "F",
+   "l2": "it"
+  }
+ ],
+ "P5": [
+  {
+   "q": "When does this procedure run and which mailbox do you check?",
+   "sl": "Wanneer loopt deze procedure en welke mailbox controleer je?",
+   "gold": "Every working day 9:00; retour@fietsplaats.nl",
+   "accept": [
+    "9",
+    "retour@fietsplaats\\.nl"
+   ],
+   "type": "F",
+   "l2": "nl"
+  },
+  {
+   "q": "A customer returns an item 20 days after delivery. May you send a return label yourself?",
+   "sl": "Een klant stuurt iets terug 20 dagen na levering. Mag je zelf een retourlabel sturen?",
+   "gold": "Yes",
+   "accept": [
+    "^\\s*(yes|ja|s[ií]|sì|はい)\\b"
+   ],
+   "type": "S",
+   "l2": "nl"
+  },
+  {
+   "q": "A customer wants to return an item 45 days after delivery. What do you do?",
+   "sl": "Een klant wil iets terugsturen 45 dagen na levering. Wat doe je?",
+   "gold": "No label; put the request to Ms De Vries",
+   "accept": [
+    "de vries",
+    "(no|not|geen|niet)"
+   ],
+   "type": "S",
+   "l2": "nl"
+  },
+  {
+   "q": "A customer asks for a refund. May you refund them, and who does?",
+   "sl": "Een klant vraagt om terugbetaling. Mag jij terugbetalen, en wie doet het?",
+   "gold": "No; only Mr Bakker from accounting",
+   "accept": [
+    "^\\s*(no|nein|nee|non|いいえ)\\b",
+    "bakker"
+   ],
+   "type": "S",
+   "l2": "nl"
+  },
+  {
+   "q": "A customer reports that a handlebar snapped dangerously. What do you do, and may you admit fault?",
+   "sl": "Een klant meldt dat een stuur gevaarlijk is afgebroken. Wat doe je, en mag je schuld erkennen?",
+   "gold": "Ask for photos, warn Ms De Vries immediately, do not admit fault",
+   "accept": [
+    "(photo|foto)",
+    "de vries"
+   ],
+   "type": "S",
+   "l2": "nl"
+  },
+  {
+   "q": "A delivery was late. May you offer an 8% discount code?",
+   "sl": "Een levering was te laat. Mag je een kortingscode van 8% geven?",
+   "gold": "Yes",
+   "accept": [
+    "^\\s*(yes|ja|s[ií]|sì|はい)\\b"
+   ],
+   "type": "S",
+   "l2": "nl"
+  },
+  {
+   "q": "A delivery was late. May you offer a 15% discount code?",
+   "sl": "Een levering was te laat. Mag je een kortingscode van 15% geven?",
+   "gold": "No (max 10%)",
+   "accept": [
+    "^\\s*(no|nein|nee|non|いいえ)\\b"
+   ],
+   "type": "S",
+   "l2": "nl"
+  },
+  {
+   "q": "A customer sending back a product asks for a discount code. May you give one?",
+   "sl": "Een klant die een product terugstuurt vraagt om een kortingscode. Mag je die geven?",
+   "gold": "No",
+   "accept": [
+    "^\\s*(no|nein|nee|non|いいえ)\\b"
+   ],
+   "type": "S",
+   "l2": "nl"
+  },
+  {
+   "q": "Who is the owner, and may you cc him on customer emails?",
+   "sl": "Wie is de eigenaar, en mag je hem in cc zetten bij klantmails?",
+   "gold": "Pieter Jansen; no, never",
+   "accept": [
+    "jansen",
+    "(no|never|nee|nooit|niet)"
+   ],
+   "type": "S",
+   "l2": "nl"
+  },
+  {
+   "q": "How should you refer to Ms De Vries?",
+   "sl": "Hoe moet je mevrouw De Vries noemen?",
+   "gold": "As the customer service manager, not the owner",
+   "accept": [
+    "(customer service manager|klantenservicemanager|klantenservice)"
+   ],
+   "type": "S",
+   "l2": "nl"
+  },
+  {
+   "q": "What must you send before 4 p.m., and to whom?",
+   "sl": "Wat moet je vóór 16:00 sturen, en aan wie?",
+   "gold": "Overview of the day's returns to Ms De Vries",
+   "accept": [
+    "de vries",
+    "(return|retour)"
+   ],
+   "type": "S",
+   "l2": "nl"
+  }
+ ]
+}

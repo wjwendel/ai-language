@@ -1,0 +1,451 @@
+{
+ "written": "2026-11-17 after encoding frozen",
+ "questions": [
+  {
+   "id": "§1.q1",
+   "sec": 1,
+   "type": "F",
+   "hop": 1,
+   "q": "When are the refill inbox and voicemail transcripts checked?",
+   "gold": "Weekdays at 8:15 a.m. and 2:15 p.m. Eastern",
+   "accept": [
+    "8:15",
+    "2:15|14:15"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q2",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A patient with refills remaining asks to refill a 30-day supply that was last filled 25 days ago (not a controlled medication). May you queue it yourself?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q3",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "Same patient, but the last fill was 20 days ago. May you queue it yourself?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q4",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A patient asks for an early refill of a controlled medication. What do you do?",
+   "gold": "Do not queue it; send the request to Dr. Nadia Brooks",
+   "accept": [
+    "brooks"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q5",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A prescription has no refills left. What do you do, and what do you tell the patient?",
+   "gold": "Fax a renewal request to the prescriber; tell the patient it can take up to 2 business days",
+   "accept": [
+    "fax",
+    "prescriber",
+    "2 business"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q6",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "An insurance claim was rejected twice, the second time after you corrected the member ID. What now?",
+   "gold": "Pass it to billing technician Kevin Lu",
+   "accept": [
+    "kevin|\\blu\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q7",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A patient's neighbour (not a listed caregiver) asks which medications the patient takes. May you tell them?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q8",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A patient says her lips are swelling after a new medication. What do you tell her?",
+   "gold": "Call 911 now (and do not discuss doses)",
+   "accept": [
+    "911"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q9",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A patient lives 8 miles away and wants home delivery. Is it available, and what does it cost?",
+   "gold": "Yes, $7",
+   "accept": [
+    "7"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q10",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A patient lives 20 miles away. Can you offer home delivery?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q11",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Who must never be copied on patient messages?",
+   "gold": "Gary Feld, the owner",
+   "accept": [
+    "feld"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q12",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Is sending Dr. Brooks the pickup list at 4:30 p.m. on Wednesday on time?",
+   "gold": "No (by 4 p.m.)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q1",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "When is the inbox checked?",
+   "gold": "Tuesday to Saturday at 9:00",
+   "accept": [
+    "9"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q2",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A student asks 3 days ahead to move a driving lesson. May you move it yourself?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q3",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A student cancels a lesson 24 hours ahead without a medical certificate. Is the lesson still due?",
+   "gold": "Yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q4",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "A student emails asking to move their driving exam. What do you do?",
+   "gold": "Do not move it; forward to director Sophie Marchand",
+   "accept": [
+    "(sophie|marchand)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q5",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A 17-year-old wants to book the exam but has no written parental consent. Allowed?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q6",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A student who bought a 15-hour package asks for the 5% discount. May you give it?",
+   "gold": "No (20 hours or more only)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q7",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "A student reports an accident during a lesson. What do you tell the student, and whom do you notify, by when?",
+   "gold": "Stay on site and fill in an accident report with the instructor; notify Sophie within 1 hour",
+   "accept": [
+    "stay",
+    "(report|constat)",
+    "(sophie|marchand)",
+    "(1 ?h|one hour|hour)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q8",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "A student asks for their instructor's personal phone number. May you give it?",
+   "gold": "No",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q9",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "Is Sophie Marchand the gérante (managing owner)?",
+   "gold": "No; she is the director",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q10",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "Is sending Sophie the logbook list at 10:00 sharp on Monday on time?",
+   "gold": "No (before 10:00)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q1",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "When does the celebration start, where, and how many people?",
+   "gold": "Next Sunday from 12:00 at 料亭やまぶき, 14 people",
+   "accept": [
+    "12",
+    "やまぶき|yamabuki",
+    "14"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q2",
+   "sec": 3,
+   "type": "F",
+   "hop": 2,
+   "q": "A family of two adults and one 8-year-old pays how much in total?",
+   "gold": "¥19,000",
+   "accept": [
+    "19,?000"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q3",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "By when must the fee be transferred, and to whom?",
+   "gold": "By Thursday, to 母 (Mom)",
+   "accept": [
+    "thu",
+    "(母|mom|mother)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q4",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Which gift must be kept secret from grandma?",
+   "gold": "The photo album",
+   "accept": [
+    "album"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q5",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "What kind of cake is 美咲 bringing, and why?",
+   "gold": "Low-sugar, because grandma is diabetic",
+   "accept": [
+    "sugar",
+    "diabet"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q6",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Can the party stay at the restaurant until 16:00?",
+   "gold": "No (only until 15:00)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q7",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "From where does 健太 drive, and when does he leave?",
+   "gold": "From Osaka, at 10:30",
+   "accept": [
+    "osaka|大阪",
+    "10:30"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q1",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "From what date does the packaging tax apply?",
+   "gold": "1 March 2027",
+   "accept": [
+    "2027",
+    "mar"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q2",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "A take-away meal comes in a disposable bowl and cup with disposable cutlery. What is the tax?",
+   "gold": "€1.20",
+   "accept": [
+    "1[.,]20"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q3",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "A meal uses 3 disposable bowls, 2 cups and cutlery. What is the tax?",
+   "gold": "€1.50 (cap)",
+   "accept": [
+    "1[.,]50"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q4",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A café with 2 employees: what share of the tax does it pay in the first year?",
+   "gold": "Half",
+   "accept": [
+    "half|50"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q5",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "What will the revenue be used for?",
+   "gold": "Entirely for street cleaning",
+   "accept": [
+    "(street|clean|stadtreinigung)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q6",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "What exactly did Lena Krüger say?",
+   "gold": "„Wer Mehrweg anbietet, spart bares Geld.“",
+   "accept": [
+    "wer mehrweg anbietet, spart bares geld"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q7",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "When and where is the info event for businesses?",
+   "gold": "12 November, 18:00, town hall",
+   "accept": [
+    "12",
+    "18",
+    "(town hall|city hall|rathaus)"
+   ],
+   "reject": []
+  }
+ ]
+}

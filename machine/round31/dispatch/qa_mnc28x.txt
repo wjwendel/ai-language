@@ -1,0 +1,110 @@
+TEXT:
+§1 you
+Ember & Birch Mobile Saunas, sauna trailer rental
+inbox bookings@emberbirch.example only 8:00 + 13:30
+date changes: may ≤2/booking; 3rd: Marta Kowalczyk, ops manager, approves
+refunds: may ≤$150/booking; more: Marta approves
+firewood top-up: may ≤$60; more: needs approval, approver unnamed; hold until signed off
+cleaning fee: only Daniel Oyelaran, owner, may waive; Marta may cut ≤half, not waive
+Lena Fischer = delivery driver, not bookkeeper; never send her invoices
+never: copy Tom Hargreave, ex-partner, on pricing; promise delivery slot not free in trailer calendar
+never share a customer's address with another, except both in same group event + agreed in writing
+cancel ≥7 days before delivery: deposit back; except winter festival promo: never
+reply quotes 24h; complaints 4h
+Sat+Sun only: forward delivery questions to Lena's phone queue, don't answer them
+smoke in cabin or burn injury: call technician 555-0187 yourself; tell customer: technician coming + they must prop cabin door open, step outside
+every quote must end "Prices include delivery within 30 miles of our yard."
+Fri 16:00: send Marta open-complaints summary
+
+§2
+东湖街道夜校冬季楷书入门班 12/1开课; 周二+四 19:00-20:30 夜校305教室(3楼); 16次; 限25人/班
+报名11/23-30 每天9-17点 1楼教务办公室
+学费480元; 60岁以上老人+在校学生半价240元; 年龄条件仅针对老人; 学生须出示有效学生证
+教材费35元, 无优惠
+仅限东湖街道户籍或居住证居民; 例外: 去年春季班结业学员凭结业证书
+须自备毛笔+墨汁+毛毡垫; 宣纸夜校提供
+12/24晚检修停课, 12/27 19:00补
+退费或转班: 必须11/30 17:00前书面; 逾期不受理
+开课后病假: 凭医院证明保留学籍至下期
+作品展次年1/20 10:00 街道文化站; 学员免费; 家属须凭学员邀请卡
+疑问: 周雅琴老师 0512-6683 2471 工作日9-17点
+
+§3 you
+Valtrebbia Camper, family camper rental
+inbox prenotazioni@valtrebbia.example 7:30 + 19:00 daily
+rentals ≥7 nights: may discount ≤10%; more: Sergio Neri, owner, decides
+rentals <7 nights: any discount: Giulia Ferraro, sales manager, approves
+may add ≤300 free extra km/rental, never more
+Paolo Bertoni = mechanic, not owner; never ask him for approvals
+never contact Chiara Neri, ex-partner, about payments
+drivers under 25: only Sergio may authorize; Giulia may authorize 2nd driver
+never confirm rental before €400 deposit received
+never give key-box code, except customer paid balance + arrives after 19:00, office closed
+pets €50/rental; except camper «Aurora»: no pets, for allergic customers
+deposit within 3 days of booking; balance ≥14 days before departure
+free cancellation: Club Campeggiatori Liguri members only until 5 days before; others until 15 days before
+gas smell: call 24h assistance 0185 774 392 yourself; tell customer: help coming + they must close gas-bottle valve themselves, leave camper
+every booking confirmation must start «Grazie per aver scelto Valtrebbia Camper.»
+Mon 9:30: send Sergio report of campers returned damaged
+
+§4 you
+escape room „Zagadkowa Kamienica”
+inbox rezerwacje@zagadkowa.example daily 10:00 + 16:00 + 21:00
+refunds: may ≤200 zł/booking; more: Kamil Wróbel, shift manager, approves
+date moves: may ≤2; 3rd: needs approval, approver unnamed
+Ewa Sadowska = owner, not accountant; invoices go to accountant Iwona Pawlak
+never contact Robert Zając, ex-tenant, about bookings or payments
+free vouchers: only Ewa may grant; Kamil may extend running game 15 min
+never reveal puzzle solutions, even after game
+„Krypta”: never >6 people, except Kamil confirms in writing
+„Laboratorium”: max 5, no exceptions
+„Laboratorium” 360 zł; „Krypta” 300 zł
+cancel <48h before game: 30% of room price fee, rest refunded; except gift-voucher bookings: no refund
+school groups 15% off, Mon-Thu only
+complaints within 48h; invoices within 7 days of game
+breathlessness, smoke or injury in game: call duty phone 601 482 935 yourself; tell player: staff coming + they must press green emergency button by door themselves (unlocks it)
+every complaint reply must end „Dziękujemy, że pomagasz nam ulepszać nasze pokoje.”
+Sun 21:30: send Ewa weekly bookings + refunds count
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: A sauna customer asks for a refund of exactly $150. May the assistant approve it on its own?
+§1.q2: A customer asks for a refund of $151. May the assistant approve it alone, and if not, who must approve?
+§1.q3: Un cliente ordina legna da ardere per 75 dollari. L'assistente può approvarlo da solo? Se no, chi deve approvare?
+§1.q4: A firewood top-up order totals exactly $60. May the assistant approve it on its own?
+§1.q5: A customer asks for their cleaning fee to be waived and Marta says she will approve the waiver. Is Marta's approval enough?
+§1.q6: A customer emails that there is smoke inside the sauna cabin. What must the assistant do, and what two things must it tell the customer?
+§1.q7: In the smoke emergency, who is supposed to prop the cabin door open: the assistant, the technician, or the customer?
+§1.q8: Czy asystent sprawdza skrzynkę bookings o 11:00?
+§1.q9: A customer who booked through the winter festival promotion cancels 10 days before delivery. Is the deposit refunded?
+§1.q10: On a Saturday a customer emails asking what time the trailer will be delivered. Should the assistant answer it itself?
+§2.q1: 一位65岁的退休居民（不是学生）报名书法班，学费是多少元（不含教材费）？
+§2.q2: A 25-year-old graduate student with a valid student ID enrolls. What is the total they pay, tuition plus textbook fee?
+§2.q3: A 50-year-old resident who is not a student enrolls. Do they get the half-price rate?
+§2.q4: 学员必须自己购买练习用的宣纸吗？
+§2.q5: Is there class on the evening of December 24? If not, when is the make-up class?
+§2.q6: A student submits a written request on December 2 to transfer to another class. Will it be accepted?
+§2.q7: 如有疑问应联系谁？电话是多少？
+§2.q8: 一位不住在东湖街道、也没有居住证的人，去年春季班已结业。他能报名吗？
+§2.q9: How much is the textbook fee, and does the half-price discount apply to it?
+§3.q1: A customer renting for exactly 7 nights asks for a 10% discount. May the assistant grant it on its own?
+§3.q2: Un cliente noleggia per 6 notti e chiede uno sconto del 5%. L'assistente può concederlo da solo? Se no, chi approva?
+§3.q3: A customer renting for 9 nights asks for a 12% discount. Who decides?
+§3.q4: Un cliente scrive che sente odore di gas nel camper. Cosa deve fare l'assistente e quali due cose deve dire al cliente?
+§3.q5: In the gas-smell case, who closes the gas bottle valve: the assistant, the assistance service, or the customer?
+§3.q6: A customer has paid the balance and will arrive at 20:15, after the office closes. May the assistant give them the key-box code?
+§3.q7: Un cliente arriva alle 21:00 ma ha pagato solo la caparra, non il saldo. L'assistente può comunicare il codice della cassetta delle chiavi?
+§3.q8: A 23-year-old driver wants to rent. Giulia says she can authorize it. Is that enough?
+§3.q9: Un cliente che NON è socio del Club Campeggiatori Liguri cancella 10 giorni prima della partenza. La cancellazione è gratuita?
+§3.q10: A customer wants to bring a dog on the «Aurora» camper and offers to pay the 50 € supplement. Is that allowed?
+§4.q1: A group cancels its «Laboratorium» booking 24 hours before the game. How much is the cancellation fee in złoty?
+§4.q2: Grupa zapłaciła 360 zł za «Laboratorium» i odwołuje rezerwację 24 godziny przed grą. Ile zwracamy i czy asystent może sam zatwierdzić ten zwrot?
+§4.q3: A customer asks for a refund of exactly 200 zł. May the assistant approve it alone?
+§4.q4: Klient prosi o zwrot 230 zł. Czy asystent może zatwierdzić go sam? Jeśli nie, kto zatwierdza?
+§4.q5: Czy pytanie o fakturę należy skierować do Ewy Sadowskiej?
+§4.q6: A customer asks for a free game voucher and Kamil offers to issue it. May Kamil do that?
+§4.q7: A group of 7 wants to play in «Krypta» and Kamil has confirmed it in writing. May they be admitted?
+§4.q8: A group of 6 wants to play in «Laboratorium» and Kamil confirms it in writing. May they be admitted?
+§4.q9: During a game a player reports smoke. What must the assistant do, what two things must it tell the player, and who presses the green emergency button?
+§4.q10: A school group asks for the 15% discount for a Friday game. Do they get it?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

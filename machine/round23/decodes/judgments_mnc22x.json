@@ -1,0 +1,487 @@
+{
+ "round": 23,
+ "judge": "independent, no-context; saw only originals.txt and the two decodes",
+ "facts": [
+  {
+   "id": "§1.1",
+   "type": "F",
+   "text": "Assistant for Inkwell & Press, small print shop, 14 Garland Street, Millbrook"
+  },
+  {
+   "id": "§1.2",
+   "type": "F",
+   "text": "Check orders@ inbox every weekday at 8:30 am and 2:00 pm"
+  },
+  {
+   "id": "§1.3",
+   "type": "F",
+   "text": "Check info@ inbox only Mondays at 10:00 am"
+  },
+  {
+   "id": "§1.4",
+   "type": "S",
+   "text": "May approve misprint reprints alone up to $120 per order"
+  },
+  {
+   "id": "§1.5",
+   "type": "S",
+   "text": "Reprints above $120 need approval from Dana Okafor"
+  },
+  {
+   "id": "§1.6",
+   "type": "S",
+   "text": "Dana Okafor is shop manager, NOT owner; owner is Victor Hale"
+  },
+  {
+   "id": "§1.7",
+   "type": "S",
+   "text": "Victor Hale must never be contacted or copied about customer complaints"
+  },
+  {
+   "id": "§1.8",
+   "type": "S",
+   "text": "Never promise same-day delivery"
+  },
+  {
+   "id": "§1.9",
+   "type": "S",
+   "text": "Never share one customer's artwork files with another customer"
+  },
+  {
+   "id": "§1.10",
+   "type": "S",
+   "text": "Rush orders received before 11:00 am can be printed next business day"
+  },
+  {
+   "id": "§1.11",
+   "type": "S",
+   "text": "Exception: wedding invitations always need three business days regardless of arrival time"
+  },
+  {
+   "id": "§1.12",
+   "type": "S",
+   "text": "Banner quote requests must be answered with a quote within 24 hours"
+  },
+  {
+   "id": "§1.13",
+   "type": "S",
+   "text": "Smoke/burning smell: call building alarm service yourself at 555-0147"
+  },
+  {
+   "id": "§1.14",
+   "type": "S",
+   "text": "Then tell customer to leave the building and wait outside until staff arrive"
+  },
+  {
+   "id": "§1.15",
+   "type": "S",
+   "text": "Every quote email must end with exact sentence: \"Prices are valid for 14 days from the date of this quote.\""
+  },
+  {
+   "id": "§1.16",
+   "type": "S",
+   "text": "Every Friday 4:00 pm send Dana summary of all open orders and unpaid invoices"
+  },
+  {
+   "id": "§1.17",
+   "type": "S",
+   "text": "If unsure whether a request falls within rules, forward to Dana instead of answering"
+  },
+  {
+   "id": "§2.1",
+   "type": "F",
+   "text": "Sakuradai neighborhood association autumn festival notice"
+  },
+  {
+   "id": "§2.2",
+   "type": "F",
+   "text": "Festival Oct 12 (Sat) and Oct 13 (Sun) at Sakuradai No.2 Park"
+  },
+  {
+   "id": "§2.3",
+   "type": "S",
+   "text": "Both days 10:00-20:00"
+  },
+  {
+   "id": "§2.4",
+   "type": "S",
+   "text": "Exception: Bon dance on 13th runs 18:30-20:30, extended 30 minutes"
+  },
+  {
+   "id": "§2.5",
+   "type": "S",
+   "text": "Fee: adults ¥500, elementary pupils ¥200, preschoolers free"
+  },
+  {
+   "id": "§2.6",
+   "type": "S",
+   "text": "Households with unpaid association fee this year: ¥800 per adult"
+  },
+  {
+   "id": "§2.7",
+   "type": "S",
+   "text": "Stall applicants bring form and ¥3,000 fee to association hall reception by Sept 20"
+  },
+  {
+   "id": "§2.8",
+   "type": "S",
+   "text": "Setup help Oct 11 (Fri) from 16:00"
+  },
+  {
+   "id": "§2.9",
+   "type": "S",
+   "text": "Cleanup Oct 14 (Mon, holiday) from 9:00"
+  },
+  {
+   "id": "§2.10",
+   "type": "S",
+   "text": "Rain: postponed to Oct 19 (Sat), announced 7:00 that morning by neighborhood broadcast"
+  },
+  {
+   "id": "§2.11",
+   "type": "S",
+   "text": "If rain on 19th too: cancelled, stall fees fully refunded"
+  },
+  {
+   "id": "§2.12",
+   "type": "S",
+   "text": "No parking; do not come by car"
+  },
+  {
+   "id": "§2.13",
+   "type": "S",
+   "text": "Exception: wheelchair users may use 5-space temporary parking on north side of park"
+  },
+  {
+   "id": "§2.14",
+   "type": "S",
+   "text": "Inquiries: festival committee chair Morita Kazuo, 090-4417-2286"
+  },
+  {
+   "id": "§3.1",
+   "type": "F",
+   "text": "Assistant for Pasticceria Bellandi, small pastry shop, via dei Fossi 22"
+  },
+  {
+   "id": "§3.2",
+   "type": "F",
+   "text": "Check ordini@ inbox every day at 7:00 and 13:00, Sunday excluded"
+  },
+  {
+   "id": "§3.3",
+   "type": "S",
+   "text": "May confirm custom-cake orders alone up to €80"
+  },
+  {
+   "id": "§3.4",
+   "type": "S",
+   "text": "Custom-cake orders above €80 need approval of Chiara Rinaldi"
+  },
+  {
+   "id": "§3.5",
+   "type": "S",
+   "text": "Chiara Rinaldi is head pastry chef, NOT owner; owner is Graziella Bellandi"
+  },
+  {
+   "id": "§3.6",
+   "type": "S",
+   "text": "Flour supplier Marco Ferri must never be contacted or copied on customer complaints"
+  },
+  {
+   "id": "§3.7",
+   "type": "S",
+   "text": "Never promise gluten-free products (lab not certified)"
+  },
+  {
+   "id": "§3.8",
+   "type": "S",
+   "text": "Never share house recipes with anyone"
+  },
+  {
+   "id": "§3.9",
+   "type": "S",
+   "text": "Saturday orders must arrive by Thursday 18:00"
+  },
+  {
+   "id": "§3.10",
+   "type": "S",
+   "text": "Exception: wedding cakes always need at least ten days' notice"
+  },
+  {
+   "id": "§3.11",
+   "type": "S",
+   "text": "Cancel more than 48 h ahead: full refund of €20 deposit; otherwise deposit kept"
+  },
+  {
+   "id": "§3.12",
+   "type": "S",
+   "text": "Corporate event quote requests answered within 2 working days"
+  },
+  {
+   "id": "§3.13",
+   "type": "S",
+   "text": "Allergic reaction: immediately call owner yourself at 347 812 5530 and tell customer to call 118 immediately"
+  },
+  {
+   "id": "§3.14",
+   "type": "S",
+   "text": "Every order confirmation must end with exact sentence «Grazie per aver scelto la Pasticceria Bellandi, vi aspettiamo in negozio.»"
+  },
+  {
+   "id": "§3.15",
+   "type": "S",
+   "text": "Every Monday 9:30 send Chiara summary of week's orders and any cancellations"
+  },
+  {
+   "id": "§4.1",
+   "type": "F",
+   "text": "Assistant for Bergväggen, small climbing gym, Smedjegatan 9"
+  },
+  {
+   "id": "§4.2",
+   "type": "F",
+   "text": "Check bokning@ inbox weekdays 9:00 and 15:00, Saturdays only 10:00"
+  },
+  {
+   "id": "§4.3",
+   "type": "S",
+   "text": "May grant annual-card extensions alone up to 14 days"
+  },
+  {
+   "id": "§4.4",
+   "type": "S",
+   "text": "Longer extensions need approval of Sara Lindqvist, gym manager"
+  },
+  {
+   "id": "§4.5",
+   "type": "S",
+   "text": "Sara Lindqvist is gym manager, NOT owner; owner is Per Åström"
+  },
+  {
+   "id": "§4.6",
+   "type": "S",
+   "text": "Course leader Jonas Berg must never be contacted or copied about course complaints"
+  },
+  {
+   "id": "§4.7",
+   "type": "S",
+   "text": "Never promise anyone may climb without completed safety introduction"
+  },
+  {
+   "id": "§4.8",
+   "type": "S",
+   "text": "Never share members' personal ID numbers or phone numbers"
+  },
+  {
+   "id": "§4.9",
+   "type": "S",
+   "text": "Children under 13 may climb only with an adult"
+  },
+  {
+   "id": "§4.10",
+   "type": "S",
+   "text": "Exception: Wednesday children's course, where gym instructors are responsible"
+  },
+  {
+   "id": "§4.11",
+   "type": "S",
+   "text": "Intro course costs 450 kr"
+  },
+  {
+   "id": "§4.12",
+   "type": "S",
+   "text": "Cancel at least 48 h before course start: 75% of course fee refunded; later cancellation: nothing"
+  },
+  {
+   "id": "§4.13",
+   "type": "S",
+   "text": "Spring bouldering competition registrations due by March 15 at 23:59"
+  },
+  {
+   "id": "§4.14",
+   "type": "S",
+   "text": "Accident with injured climber: call gym duty phone 070-318 44 96 yourself; tell customer not to move injured person and to call 112"
+  },
+  {
+   "id": "§4.15",
+   "type": "S",
+   "text": "Every booking confirmation must start with exact sentence \"Välkommen till Bergväggen – kom ihåg inneskor och giltigt klätterkort.\""
+  },
+  {
+   "id": "§4.16",
+   "type": "S",
+   "text": "Every Sunday 18:00 send Sara report of week's bookings and cancellations"
+  },
+  {
+   "id": "§4.17",
+   "type": "S",
+   "text": "Forward emails not covered by these rules to Sara"
+  }
+ ],
+ "A": {
+  "verdicts": {
+   "§1.1": "ok",
+   "§1.2": "ok",
+   "§1.3": "ok",
+   "§1.4": "ok",
+   "§1.5": "ok",
+   "§1.6": "ok",
+   "§1.7": "ok",
+   "§1.8": "ok",
+   "§1.9": "ok",
+   "§1.10": "ok",
+   "§1.11": "ok",
+   "§1.12": "ok",
+   "§1.13": "ok",
+   "§1.14": "ok",
+   "§1.15": "ok",
+   "§1.16": "ok",
+   "§1.17": "ok",
+   "§2.1": "ok",
+   "§2.2": "ok",
+   "§2.3": "ok",
+   "§2.4": "ok",
+   "§2.5": "ok",
+   "§2.6": "ok",
+   "§2.7": "ok",
+   "§2.8": "ok",
+   "§2.9": "ok",
+   "§2.10": "ok",
+   "§2.11": "ok",
+   "§2.12": "ok",
+   "§2.13": "ok",
+   "§2.14": "ok",
+   "§3.1": "ok",
+   "§3.2": "ok",
+   "§3.3": "ok",
+   "§3.4": "ok",
+   "§3.5": "ok",
+   "§3.6": "ok",
+   "§3.7": "ok",
+   "§3.8": "ok",
+   "§3.9": "ok",
+   "§3.10": "ok",
+   "§3.11": "ok",
+   "§3.12": "ok",
+   "§3.13": "ok",
+   "§3.14": "ok",
+   "§3.15": "ok",
+   "§4.1": "ok",
+   "§4.2": "ok",
+   "§4.3": "ok",
+   "§4.4": "ok",
+   "§4.5": "ok",
+   "§4.6": "ok",
+   "§4.7": "ok",
+   "§4.8": "ok",
+   "§4.9": "ok",
+   "§4.10": "ok",
+   "§4.11": "ok",
+   "§4.12": "ok",
+   "§4.13": "ok",
+   "§4.14": "ok",
+   "§4.15": "ok",
+   "§4.16": "ok",
+   "§4.17": "ok"
+  },
+  "S_distortions": [],
+  "S_lost": [],
+  "F_problems": [],
+  "inventions": [
+   {
+    "decode": "which for the intro course means refunding 337.50 kr",
+    "why": "Derived figure not stated in original §4; arithmetic is correct (75% of 450 kr) so it does not change behaviour, but it is added content."
+   }
+  ]
+ },
+ "B": {
+  "verdicts": {
+   "§1.1": "ok",
+   "§1.2": "ok",
+   "§1.3": "ok",
+   "§1.4": "ok",
+   "§1.5": "ok",
+   "§1.6": "ok",
+   "§1.7": "ok",
+   "§1.8": "ok",
+   "§1.9": "ok",
+   "§1.10": "ok",
+   "§1.11": "ok",
+   "§1.12": "ok",
+   "§1.13": "ok",
+   "§1.14": "ok",
+   "§1.15": "ok",
+   "§1.16": "ok",
+   "§1.17": "ok",
+   "§2.1": "ok",
+   "§2.2": "ok",
+   "§2.3": "ok",
+   "§2.4": "ok",
+   "§2.5": "ok",
+   "§2.6": "ok",
+   "§2.7": "ok",
+   "§2.8": "ok",
+   "§2.9": "ok",
+   "§2.10": "ok",
+   "§2.11": "ok",
+   "§2.12": "ok",
+   "§2.13": "ok",
+   "§2.14": "ok",
+   "§3.1": "ok",
+   "§3.2": "ok",
+   "§3.3": "ok",
+   "§3.4": "distorted",
+   "§3.5": "ok",
+   "§3.6": "ok",
+   "§3.7": "ok",
+   "§3.8": "ok",
+   "§3.9": "ok",
+   "§3.10": "ok",
+   "§3.11": "ok",
+   "§3.12": "ok",
+   "§3.13": "ok",
+   "§3.14": "ok",
+   "§3.15": "ok",
+   "§4.1": "ok",
+   "§4.2": "ok",
+   "§4.3": "ok",
+   "§4.4": "ok",
+   "§4.5": "ok",
+   "§4.6": "ok",
+   "§4.7": "ok",
+   "§4.8": "ok",
+   "§4.9": "ok",
+   "§4.10": "ok",
+   "§4.11": "ok",
+   "§4.12": "ok",
+   "§4.13": "ok",
+   "§4.14": "ok",
+   "§4.15": "ok",
+   "§4.16": "ok",
+   "§4.17": "ok"
+  },
+  "S_distortions": [
+   {
+    "id": "§3.4",
+    "original": "per importi superiori [ordini di torte personalizzate oltre 80 euro] serve l'approvazione di Chiara Rinaldi",
+    "decode": "Any order above €80 needs Chiara's approval.",
+    "why": "Approval requirement widened from custom-cake orders to any order above €80; would make the assistant seek approval for non-custom orders the original does not cover."
+   }
+  ],
+  "S_lost": [],
+  "F_problems": [],
+  "inventions": [
+   {
+    "decode": "which for the intro course means refunding 337.50 kr",
+    "why": "Derived figure not stated in original §4; arithmetic is correct (75% of 450 kr) so it does not change behaviour, but it is added content."
+   }
+  ]
+ },
+ "summary": {
+  "A_S_distortions": 0,
+  "B_S_distortions": 1,
+  "A_S_lost": 0,
+  "B_S_lost": 0,
+  "inventions": 2
+ }
+}

@@ -1,0 +1,833 @@
+{
+ "facts": [
+  {
+   "id": "§1.1",
+   "sec": "§1",
+   "type": "S",
+   "text": "Role: email assistant for Oakline Tree Care"
+  },
+  {
+   "id": "§1.2",
+   "sec": "§1",
+   "type": "F",
+   "text": "Business is a tree surgery business"
+  },
+  {
+   "id": "§1.3",
+   "sec": "§1",
+   "type": "S",
+   "text": "Owner is Priya Haldane"
+  },
+  {
+   "id": "§1.4",
+   "sec": "§1",
+   "type": "F",
+   "text": "Inbox info@oaklinetree.example"
+  },
+  {
+   "id": "§1.5",
+   "sec": "§1",
+   "type": "S",
+   "text": "Check inbox at exactly 07:30, 12:30 and 17:00"
+  },
+  {
+   "id": "§1.6",
+   "sec": "§1",
+   "type": "S",
+   "text": "Stump-grinding: may confirm on own up to $600"
+  },
+  {
+   "id": "§1.7",
+   "sec": "§1",
+   "type": "S",
+   "text": "Stump-grinding above $600 needs approval of Marta Kowal"
+  },
+  {
+   "id": "§1.8",
+   "sec": "§1",
+   "type": "S",
+   "text": "Marta Kowal is the operations manager"
+  },
+  {
+   "id": "§1.9",
+   "sec": "§1",
+   "type": "S",
+   "text": "Firewood: may confirm on own up to 4 cords"
+  },
+  {
+   "id": "§1.10",
+   "sec": "§1",
+   "type": "S",
+   "text": "Larger firewood orders need approval (approver unnamed)"
+  },
+  {
+   "id": "§1.11",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tree removals have no self-approval limit: every removal quote must be approved by Priya Haldane (owner)"
+  },
+  {
+   "id": "§1.12",
+   "sec": "§1",
+   "type": "S",
+   "text": "May offer hedge-trimming discount up to 10% on own, never more"
+  },
+  {
+   "id": "§1.13",
+   "sec": "§1",
+   "type": "S",
+   "text": "Dale Brennan is crew lead, NOT the owner"
+  },
+  {
+   "id": "§1.14",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never send pricing questions to Dale Brennan"
+  },
+  {
+   "id": "§1.15",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never contact or copy Victor Sloane about invoices or payments"
+  },
+  {
+   "id": "§1.16",
+   "sec": "§1",
+   "type": "S",
+   "text": "Victor Sloane is the former business partner"
+  },
+  {
+   "id": "§1.17",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never promise a same-day crew visit"
+  },
+  {
+   "id": "§1.18",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never quote work near power lines"
+  },
+  {
+   "id": "§1.19",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception: customer sent written confirmation from the utility that line is switched off"
+  },
+  {
+   "id": "§1.20",
+   "sec": "§1",
+   "type": "F",
+   "text": "Site visits free for addresses inside Millbrook"
+  },
+  {
+   "id": "§1.21",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception: on Saturdays every site visit costs $45"
+  },
+  {
+   "id": "§1.22",
+   "sec": "§1",
+   "type": "F",
+   "text": "Seniors' Plan customers get 15% off hedge trimming"
+  },
+  {
+   "id": "§1.23",
+   "sec": "§1",
+   "type": "S",
+   "text": "Seniors' discount only on Tuesdays"
+  },
+  {
+   "id": "§1.24",
+   "sec": "§1",
+   "type": "S",
+   "text": "Reply to every quote request within 2 working days"
+  },
+  {
+   "id": "§1.25",
+   "sec": "§1",
+   "type": "S",
+   "text": "Complaints answered within 4 hours"
+  },
+  {
+   "id": "§1.26",
+   "sec": "§1",
+   "type": "S",
+   "text": "If tree fallen on house or car: call emergency crew line 555-0148 yourself"
+  },
+  {
+   "id": "§1.27",
+   "sec": "§1",
+   "type": "S",
+   "text": "Then tell customer an emergency crew is on its way"
+  },
+  {
+   "id": "§1.28",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell customer to keep everyone out of damaged rooms"
+  },
+  {
+   "id": "§1.29",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell customer to keep everyone at least 10 metres from the tree"
+  },
+  {
+   "id": "§1.30",
+   "sec": "§1",
+   "type": "S",
+   "text": "If downed wire also mentioned: call utility at 555-0199 yourself as well"
+  },
+  {
+   "id": "§1.31",
+   "sec": "§1",
+   "type": "F",
+   "text": "Every quote must end with exact sentence: \"This quote is valid for 30 days from the date above.\""
+  },
+  {
+   "id": "§1.32",
+   "sec": "§1",
+   "type": "S",
+   "text": "Every Friday at 16:00 send Priya Haldane a report listing all quotes sent that week"
+  },
+  {
+   "id": "§2.1",
+   "sec": "§2",
+   "type": "F",
+   "text": "Notice: change of lane-use rules at 해솔구민체육센터 pool"
+  },
+  {
+   "id": "§2.2",
+   "sec": "§2",
+   "type": "S",
+   "text": "New rules in effect from April 1"
+  },
+  {
+   "id": "§2.3",
+   "sec": "§2",
+   "type": "F",
+   "text": "Lanes 1-2 beginner"
+  },
+  {
+   "id": "§2.4",
+   "sec": "§2",
+   "type": "F",
+   "text": "Lanes 3-4 intermediate"
+  },
+  {
+   "id": "§2.5",
+   "sec": "§2",
+   "type": "F",
+   "text": "Lane 5 advanced"
+  },
+  {
+   "id": "§2.6",
+   "sec": "§2",
+   "type": "S",
+   "text": "Lane 6 walking only"
+  },
+  {
+   "id": "§2.7",
+   "sec": "§2",
+   "type": "S",
+   "text": "Exception: Wednesday evening free swim, lane 5 used exclusively by masters club"
+  },
+  {
+   "id": "§2.8",
+   "sec": "§2",
+   "type": "S",
+   "text": "During that time advanced swimmers use lane 4 together with intermediate"
+  },
+  {
+   "id": "§2.9",
+   "sec": "§2",
+   "type": "F",
+   "text": "Free swim weekdays 06:00-07:50"
+  },
+  {
+   "id": "§2.10",
+   "sec": "§2",
+   "type": "F",
+   "text": "Free swim weekdays 19:00-21:50"
+  },
+  {
+   "id": "§2.11",
+   "sec": "§2",
+   "type": "F",
+   "text": "Free swim Saturdays 09:00-17:00"
+  },
+  {
+   "id": "§2.12",
+   "sec": "§2",
+   "type": "S",
+   "text": "Closed Sundays and public holidays"
+  },
+  {
+   "id": "§2.13",
+   "sec": "§2",
+   "type": "F",
+   "text": "Day fee adult 4,500 won"
+  },
+  {
+   "id": "§2.14",
+   "sec": "§2",
+   "type": "F",
+   "text": "Day fee youth 3,000 won"
+  },
+  {
+   "id": "§2.15",
+   "sec": "§2",
+   "type": "S",
+   "text": "Aged 65+ pay half the adult fee"
+  },
+  {
+   "id": "§2.16",
+   "sec": "§2",
+   "type": "F",
+   "text": "Free-swim monthly pass 52,000 won"
+  },
+  {
+   "id": "§2.17",
+   "sec": "§2",
+   "type": "F",
+   "text": "Lessons 68,000 won per month"
+  },
+  {
+   "id": "§2.18",
+   "sec": "§2",
+   "type": "S",
+   "text": "Free-swim monthly members and lesson members registered after March 4 must get new card"
+  },
+  {
+   "id": "§2.19",
+   "sec": "§2",
+   "type": "S",
+   "text": "Card pickup window March 25-31"
+  },
+  {
+   "id": "§2.20",
+   "sec": "§2",
+   "type": "F",
+   "text": "Pickup at 1st-floor information desk"
+  },
+  {
+   "id": "§2.21",
+   "sec": "§2",
+   "type": "S",
+   "text": "Lesson members registered before March 4 keep existing card"
+  },
+  {
+   "id": "§2.22",
+   "sec": "§2",
+   "type": "F",
+   "text": "New card issuance free"
+  },
+  {
+   "id": "§2.23",
+   "sec": "§2",
+   "type": "F",
+   "text": "Reissue due to loss costs 3,000 won"
+  },
+  {
+   "id": "§2.24",
+   "sec": "§2",
+   "type": "S",
+   "text": "April lesson registration from March 20 10:00"
+  },
+  {
+   "id": "§2.25",
+   "sec": "§2",
+   "type": "S",
+   "text": "Registration online only"
+  },
+  {
+   "id": "§2.26",
+   "sec": "§2",
+   "type": "F",
+   "text": "Beginner class Tue & Thu 10:00"
+  },
+  {
+   "id": "§2.27",
+   "sec": "§2",
+   "type": "F",
+   "text": "Intermediate class Mon, Wed, Fri 20:00"
+  },
+  {
+   "id": "§2.28",
+   "sec": "§2",
+   "type": "S",
+   "text": "Always keep right in lane"
+  },
+  {
+   "id": "§2.29",
+   "sec": "§2",
+   "type": "S",
+   "text": "Overtake only in the wall-side turning zone"
+  },
+  {
+   "id": "§2.30",
+   "sec": "§2",
+   "type": "S",
+   "text": "Swim cap mandatory"
+  },
+  {
+   "id": "§2.31",
+   "sec": "§2",
+   "type": "F",
+   "text": "Goggles optional"
+  },
+  {
+   "id": "§2.32",
+   "sec": "§2",
+   "type": "S",
+   "text": "Personal kickboards and fins only in lane 5 (advanced lane)"
+  },
+  {
+   "id": "§2.33",
+   "sec": "§2",
+   "type": "F",
+   "text": "Parking for pool users free up to 2 hours"
+  },
+  {
+   "id": "§2.34",
+   "sec": "§2",
+   "type": "F",
+   "text": "After that 500 won per 30 minutes"
+  },
+  {
+   "id": "§2.35",
+   "sec": "§2",
+   "type": "S",
+   "text": "Lockers same-day use only"
+  },
+  {
+   "id": "§2.36",
+   "sec": "§2",
+   "type": "F",
+   "text": "Items left after closing kept at info desk 7 days then discarded"
+  },
+  {
+   "id": "§2.37",
+   "sec": "§2",
+   "type": "S",
+   "text": "Complaints/inquiries contact: facilities team 박지훈 주임"
+  },
+  {
+   "id": "§2.38",
+   "sec": "§2",
+   "type": "F",
+   "text": "Phone 031-555-0172"
+  },
+  {
+   "id": "§2.39",
+   "sec": "§2",
+   "type": "S",
+   "text": "Contact weekdays 09:00-18:00"
+  },
+  {
+   "id": "§3.1",
+   "sec": "§3",
+   "type": "S",
+   "text": "Role: email assistant for Patas na Rua"
+  },
+  {
+   "id": "§3.2",
+   "sec": "§3",
+   "type": "F",
+   "text": "Dog-walking service in Curitiba"
+  },
+  {
+   "id": "§3.3",
+   "sec": "§3",
+   "type": "S",
+   "text": "Owner Bruno Teles"
+  },
+  {
+   "id": "§3.4",
+   "sec": "§3",
+   "type": "F",
+   "text": "Inbox contato@patasnarua.example"
+  },
+  {
+   "id": "§3.5",
+   "sec": "§3",
+   "type": "S",
+   "text": "Check at 7:00, 13:00, 19:00"
+  },
+  {
+   "id": "§3.6",
+   "sec": "§3",
+   "type": "S",
+   "text": "May approve alone packages up to 20 walks"
+  },
+  {
+   "id": "§3.7",
+   "sec": "§3",
+   "type": "S",
+   "text": "Larger packages need approval of Helena Duarte"
+  },
+  {
+   "id": "§3.8",
+   "sec": "§3",
+   "type": "S",
+   "text": "Helena Duarte is operations coordinator"
+  },
+  {
+   "id": "§3.9",
+   "sec": "§3",
+   "type": "S",
+   "text": "May grant alone up to 10% discount on walk packages"
+  },
+  {
+   "id": "§3.10",
+   "sec": "§3",
+   "type": "S",
+   "text": "Any boarding discount needs approval of Bruno Teles (owner)"
+  },
+  {
+   "id": "§3.11",
+   "sec": "§3",
+   "type": "S",
+   "text": "May accept alone boarding up to 3 nights"
+  },
+  {
+   "id": "§3.12",
+   "sec": "§3",
+   "type": "S",
+   "text": "Longer boarding needs Helena Duarte approval"
+  },
+  {
+   "id": "§3.13",
+   "sec": "§3",
+   "type": "S",
+   "text": "Lucas Ferreira is head walker, NOT owner"
+  },
+  {
+   "id": "§3.14",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never forward discount requests to Lucas Ferreira"
+  },
+  {
+   "id": "§3.15",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never contact or copy Sérgio Lima about customer complaints"
+  },
+  {
+   "id": "§3.16",
+   "sec": "§3",
+   "type": "S",
+   "text": "Sérgio Lima is the accountant"
+  },
+  {
+   "id": "§3.17",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never accept dogs over 40 kg on group walks"
+  },
+  {
+   "id": "§3.18",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never give a walker's personal phone to customer"
+  },
+  {
+   "id": "§3.19",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never schedule a dog's first walk without vaccination card"
+  },
+  {
+   "id": "§3.20",
+   "sec": "§3",
+   "type": "S",
+   "text": "Exception: customer sends it by 18:00 the day before the walk"
+  },
+  {
+   "id": "§3.21",
+   "sec": "§3",
+   "type": "S",
+   "text": "Cancellations at least 12 hours ahead get full refund"
+  },
+  {
+   "id": "§3.22",
+   "sec": "§3",
+   "type": "S",
+   "text": "Exception: Annual Plan customers can cancel up to 2 hours before at no cost"
+  },
+  {
+   "id": "§3.23",
+   "sec": "§3",
+   "type": "S",
+   "text": "On Sundays offer only individual walks"
+  },
+  {
+   "id": "§3.24",
+   "sec": "§3",
+   "type": "S",
+   "text": "Answer every new walk request by 18:00 same day"
+  },
+  {
+   "id": "§3.25",
+   "sec": "§3",
+   "type": "S",
+   "text": "Answer boarding requests within 24 hours"
+  },
+  {
+   "id": "§3.26",
+   "sec": "§3",
+   "type": "S",
+   "text": "If dog ran away during walk: call team emergency line (41) 3555-0190 yourself"
+  },
+  {
+   "id": "§3.27",
+   "sec": "§3",
+   "type": "S",
+   "text": "Then tell customer search team is leaving"
+  },
+  {
+   "id": "§3.28",
+   "sec": "§3",
+   "type": "S",
+   "text": "Ask customer to leave home gate open themselves"
+  },
+  {
+   "id": "§3.29",
+   "sec": "§3",
+   "type": "S",
+   "text": "Ask customer to stay home with phone on"
+  },
+  {
+   "id": "§3.30",
+   "sec": "§3",
+   "type": "F",
+   "text": "Every walk confirmation must start with exact sentence: \"Olá! Seu passeio está confirmado.\""
+  },
+  {
+   "id": "§3.31",
+   "sec": "§3",
+   "type": "S",
+   "text": "Every Monday 9:00 send Bruno Teles number of walks of previous week"
+  },
+  {
+   "id": "§4.1",
+   "sec": "§4",
+   "type": "S",
+   "text": "Role: email assistant for Wijnhandel De Kelderdeur"
+  },
+  {
+   "id": "§4.2",
+   "sec": "§4",
+   "type": "F",
+   "text": "In Utrecht (wine shop)"
+  },
+  {
+   "id": "§4.3",
+   "sec": "§4",
+   "type": "S",
+   "text": "Owner Marleen Visser"
+  },
+  {
+   "id": "§4.4",
+   "sec": "§4",
+   "type": "F",
+   "text": "Inbox bestellingen@kelderdeur.example"
+  },
+  {
+   "id": "§4.5",
+   "sec": "§4",
+   "type": "S",
+   "text": "Check at 9:00 and 15:30"
+  },
+  {
+   "id": "§4.6",
+   "sec": "§4",
+   "type": "S",
+   "text": "Business orders: may approve self up to €750"
+  },
+  {
+   "id": "§4.7",
+   "sec": "§4",
+   "type": "S",
+   "text": "Above €750 needs approval of Anouk de Vries"
+  },
+  {
+   "id": "§4.8",
+   "sec": "§4",
+   "type": "S",
+   "text": "Anouk de Vries is store manager (bedrijfsleider)"
+  },
+  {
+   "id": "§4.9",
+   "sec": "§4",
+   "type": "S",
+   "text": "Private orders: may approve self up to €300"
+  },
+  {
+   "id": "§4.10",
+   "sec": "§4",
+   "type": "S",
+   "text": "Above €300 Marleen Visser (owner) decides"
+  },
+  {
+   "id": "§4.11",
+   "sec": "§4",
+   "type": "S",
+   "text": "Thijs Bakker is sommelier, NOT owner"
+  },
+  {
+   "id": "§4.12",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never send Thijs Bakker invoice questions"
+  },
+  {
+   "id": "§4.13",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never contact Ruud Jansen"
+  },
+  {
+   "id": "§4.14",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never cc Ruud Jansen about prices"
+  },
+  {
+   "id": "§4.15",
+   "sec": "§4",
+   "type": "S",
+   "text": "Ruud Jansen is previous supplier"
+  },
+  {
+   "id": "§4.16",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never sell/deliver to anyone who cannot show ID at delivery"
+  },
+  {
+   "id": "§4.17",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never ship spirits abroad"
+  },
+  {
+   "id": "§4.18",
+   "sec": "§4",
+   "type": "F",
+   "text": "Delivery within Utrecht free from €100"
+  },
+  {
+   "id": "§4.19",
+   "sec": "§4",
+   "type": "S",
+   "text": "Exception: Saturdays every delivery costs €7.50"
+  },
+  {
+   "id": "§4.20",
+   "sec": "§4",
+   "type": "F",
+   "text": "Wine Club members get 10% off"
+  },
+  {
+   "id": "§4.21",
+   "sec": "§4",
+   "type": "S",
+   "text": "Wine Club discount only on Thursdays"
+  },
+  {
+   "id": "§4.22",
+   "sec": "§4",
+   "type": "F",
+   "text": "Tasting ticket €35"
+  },
+  {
+   "id": "§4.23",
+   "sec": "§4",
+   "type": "S",
+   "text": "Cancel more than 48h ahead: 60% refund"
+  },
+  {
+   "id": "§4.24",
+   "sec": "§4",
+   "type": "S",
+   "text": "Later cancellation: nothing refunded"
+  },
+  {
+   "id": "§4.25",
+   "sec": "§4",
+   "type": "S",
+   "text": "Answer orders within 1 working day"
+  },
+  {
+   "id": "§4.26",
+   "sec": "§4",
+   "type": "S",
+   "text": "Complaints within 4 hours"
+  },
+  {
+   "id": "§4.27",
+   "sec": "§4",
+   "type": "S",
+   "text": "If someone injured during our delivery: call delivery service 030-555-0136 yourself"
+  },
+  {
+   "id": "§4.28",
+   "sec": "§4",
+   "type": "S",
+   "text": "Then tell customer our team is on the way"
+  },
+  {
+   "id": "§4.29",
+   "sec": "§4",
+   "type": "S",
+   "text": "Tell customer they must call 112 themselves if someone seriously injured"
+  },
+  {
+   "id": "§4.30",
+   "sec": "§4",
+   "type": "F",
+   "text": "Every order confirmation must end with exact sentence: \"Geniet met mate. Geen 18, geen alcohol.\""
+  },
+  {
+   "id": "§4.31",
+   "sec": "§4",
+   "type": "S",
+   "text": "Every Tuesday 10:00 send Marleen Visser overview of all orders over €300 from previous week"
+  }
+ ],
+ "A": {
+  "kept": 131,
+  "distorted": [
+   {
+    "id": "§2.18",
+    "why": "Obligation 'must pick up new card' (받으셔야 합니다) softened to 'new cards will be issued to'; requirement implied but modality changed (minor)"
+   },
+   {
+    "id": "§2.37",
+    "why": "Scope narrowed: '불편 사항이나 문의 사항' (complaints/inconveniences or inquiries) rendered as just 'questions' (minor)"
+   }
+  ],
+  "lost": [],
+  "added": []
+ },
+ "B": {
+  "kept": 131,
+  "distorted": [
+   {
+    "id": "§2.18",
+    "why": "Obligation 'must pick up new card' (받으셔야 합니다) softened to 'new cards will be issued to'; requirement implied but modality changed (minor)"
+   },
+   {
+    "id": "§2.37",
+    "why": "Scope narrowed: '불편 사항이나 문의 사항' (complaints/inconveniences or inquiries) rendered as just 'questions' (minor)"
+   }
+  ],
+  "lost": [],
+  "added": []
+ },
+ "notes": "A and B are near-identical. Both render §1 'check at exactly 07:30...' as 'only at' (judged harmless). Both add the annotation '(the approver is not named)' for firewood, which accurately reflects the original and is not counted as added content. B omits 'yourself' on some self-approval limits (§1 stump-grinding/firewood, §3 walks/boarding, §4 orders); meaning preserved by context, judged harmless. Parking 'for pool users' qualifier dropped by both; judged harmless given notice context. Closing courtesy sentence of §2 excluded."
+}

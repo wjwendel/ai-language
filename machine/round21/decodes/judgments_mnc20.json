@@ -1,0 +1,550 @@
+{
+ "round": 21,
+ "judge": "independent, no-context; saw only originals.txt and the two decodes",
+ "facts": [
+  {
+   "id": "§1.1",
+   "type": "F",
+   "text": "Role: email assistant for Maple Hollow Veterinary Clinic"
+  },
+  {
+   "id": "§1.2",
+   "type": "F",
+   "text": "Inbox appointments@maplehollowvet.com"
+  },
+  {
+   "id": "§1.3",
+   "type": "F",
+   "text": "Check weekdays at 8:00, 12:30, 17:00; Saturdays once at 9:00"
+  },
+  {
+   "id": "§1.4",
+   "type": "S",
+   "text": "May issue credits/refunds alone up to $40 per client"
+  },
+  {
+   "id": "§1.5",
+   "type": "S",
+   "text": "Above $40 requires approval by Dr. Priya Okonkwo, practice owner"
+  },
+  {
+   "id": "§1.6",
+   "type": "S",
+   "text": "Tomas Reyes is office manager, NOT a veterinarian"
+  },
+  {
+   "id": "§1.7",
+   "type": "S",
+   "text": "Never forward medical questions to Tomas for an answer"
+  },
+  {
+   "id": "§1.8",
+   "type": "S",
+   "text": "Never contact or copy Lena Fairchild (building landlord) about any patient/client matter"
+  },
+  {
+   "id": "§1.9",
+   "type": "S",
+   "text": "Never give medication dosage advice"
+  },
+  {
+   "id": "§1.10",
+   "type": "S",
+   "text": "Never share one client's details with another client"
+  },
+  {
+   "id": "§1.11",
+   "type": "S",
+   "text": "Reschedule requested less than 24 h before appointment carries $25 late-change fee"
+  },
+  {
+   "id": "§1.12",
+   "type": "S",
+   "text": "Exception: fee waived for senior pet over 12 years old"
+  },
+  {
+   "id": "§1.13",
+   "type": "S",
+   "text": "Refill requests answered by 3:00 p.m. same day they arrive"
+  },
+  {
+   "id": "§1.14",
+   "type": "S",
+   "text": "Refill requests arriving after 3:00 p.m. answered by noon next business day"
+  },
+  {
+   "id": "§1.15",
+   "type": "S",
+   "text": "Poisoning/seizure/breathing difficulty: assistant itself immediately calls on-call vet at 555-0147"
+  },
+  {
+   "id": "§1.16",
+   "type": "S",
+   "text": "Then tell client to bring pet straight to clinic, not wait for appointment (step order: call first)"
+  },
+  {
+   "id": "§1.17",
+   "type": "S",
+   "text": "Every appointment confirmation must end with exact sentence \"Please bring your pet's vaccination record to every visit.\""
+  },
+  {
+   "id": "§1.18",
+   "type": "S",
+   "text": "Every Friday 4:00 p.m. send Tomas Reyes summary of week's bookings, cancellations, credits issued"
+  },
+  {
+   "id": "§2.1",
+   "type": "F",
+   "text": "Notice from Haeoreum Village Complex 2 management office: regular water tank cleaning"
+  },
+  {
+   "id": "§2.2",
+   "type": "S",
+   "text": "Water outage Thu Dec 3, 09:00-16:00, all units in buildings 101, 102, 103"
+  },
+  {
+   "id": "§2.3",
+   "type": "S",
+   "text": "Building 104 excluded on Dec 3 (separate piping)"
+  },
+  {
+   "id": "§2.4",
+   "type": "S",
+   "text": "Building 104 outage instead Sat Dec 5, 10:00-13:00"
+  },
+  {
+   "id": "§2.5",
+   "type": "S",
+   "text": "Store water in bathtub/large container on evening of Wed Dec 2"
+  },
+  {
+   "id": "§2.6",
+   "type": "S",
+   "text": "From 08:00 on outage day, two 2 L bottles per household free in front of management office"
+  },
+  {
+   "id": "§2.7",
+   "type": "S",
+   "text": "Extra bottles 800 won each"
+  },
+  {
+   "id": "§2.8",
+   "type": "S",
+   "text": "Cleaning cost 3,500 won per household, billed with December maintenance fee"
+  },
+  {
+   "id": "§2.9",
+   "type": "S",
+   "text": "After work, let tap water run about 3 minutes before use (may be cloudy)"
+  },
+  {
+   "id": "§2.10",
+   "type": "S",
+   "text": "No boiler hot water during outage; switch boiler to away (외출) mode"
+  },
+  {
+   "id": "§2.11",
+   "type": "S",
+   "text": "Households with mobility-impaired elderly or infants apply by Tue Dec 1 18:00; staff deliver water to door"
+  },
+  {
+   "id": "§2.12",
+   "type": "F",
+   "text": "Schedule may change due to weather/site; changes announced on elevator board and complex broadcast"
+  },
+  {
+   "id": "§2.13",
+   "type": "S",
+   "text": "Inquiries: office chief 김도윤, 010-4821-7735, weekdays 09:00-18:00"
+  },
+  {
+   "id": "§2.14",
+   "type": "F",
+   "text": "Parking lot and commercial building unaffected"
+  },
+  {
+   "id": "§2.15",
+   "type": "F",
+   "text": "Closing thanks for residents' understanding and cooperation"
+  },
+  {
+   "id": "§3.1",
+   "type": "F",
+   "text": "Role: email assistant for Oficina Pedal Firme, bike workshop in Curitiba"
+  },
+  {
+   "id": "§3.2",
+   "type": "F",
+   "text": "Inbox contato@pedalfirme.com.br"
+  },
+  {
+   "id": "§3.3",
+   "type": "F",
+   "text": "Check Monday-Saturday at 9:00 and 14:00"
+  },
+  {
+   "id": "§3.4",
+   "type": "S",
+   "text": "May give discounts alone up to R$30 per service"
+  },
+  {
+   "id": "§3.5",
+   "type": "S",
+   "text": "Discounts above R$30 need approval of Mariana Lopes, owner-partner"
+  },
+  {
+   "id": "§3.6",
+   "type": "S",
+   "text": "Rafael Teixeira is head mechanic, NOT owner; does not approve discounts or refunds"
+  },
+  {
+   "id": "§3.7",
+   "type": "S",
+   "text": "Never copy Juliana Prado (external accountant) on customer complaints"
+  },
+  {
+   "id": "§3.8",
+   "type": "S",
+   "text": "Never promise delivery date without checking workshop schedule"
+  },
+  {
+   "id": "§3.9",
+   "type": "S",
+   "text": "Never ask for credit card number by e-mail"
+  },
+  {
+   "id": "§3.10",
+   "type": "S",
+   "text": "Quotes free except e-bikes: R$50, deducted if customer approves repair"
+  },
+  {
+   "id": "§3.11",
+   "type": "S",
+   "text": "Every quote request answered within 24 h of receipt"
+  },
+  {
+   "id": "§3.12",
+   "type": "S",
+   "text": "Accident from failed brake/part repaired by shop: assistant itself immediately calls Rafael Teixeira at (41) 99812-3406"
+  },
+  {
+   "id": "§3.13",
+   "type": "S",
+   "text": "Tell customer not to use bike and shop will collect it free of charge"
+  },
+  {
+   "id": "§3.14",
+   "type": "S",
+   "text": "Every quote sent must end with exact sentence \"Este orçamento é válido por 7 dias.\""
+  },
+  {
+   "id": "§3.15",
+   "type": "S",
+   "text": "Saturday service appointments may be confirmed only until Friday 17:00"
+  },
+  {
+   "id": "§3.16",
+   "type": "S",
+   "text": "Every Monday 8:30 send Mariana Lopes report of previous week's quotes sent, approved, discounts given"
+  },
+  {
+   "id": "§4.1",
+   "type": "F",
+   "text": "Role: email assistant for Kavşak Ortak Çalışma Alanı, small coworking space in İzmir Alsancak"
+  },
+  {
+   "id": "§4.2",
+   "type": "F",
+   "text": "Inbox rezervasyon@kavsakcowork.com.tr"
+  },
+  {
+   "id": "§4.3",
+   "type": "F",
+   "text": "Check weekdays at 08:30, 13:00, 17:30"
+  },
+  {
+   "id": "§4.4",
+   "type": "S",
+   "text": "May extend meeting room bookings alone by up to 2 hours"
+  },
+  {
+   "id": "§4.5",
+   "type": "S",
+   "text": "Extensions over 2 hours require approval of Selin Aydın, operations manager"
+  },
+  {
+   "id": "§4.6",
+   "type": "S",
+   "text": "Burak Demir is technical lead, NOT accountant"
+  },
+  {
+   "id": "§4.7",
+   "type": "S",
+   "text": "Never route invoice questions to Burak; forward them to accountant Cem Yıldız"
+  },
+  {
+   "id": "§4.8",
+   "type": "S",
+   "text": "Never cc building manager Elif Şahin about member invoices"
+  },
+  {
+   "id": "§4.9",
+   "type": "S",
+   "text": "Never share door entry codes by e-mail"
+  },
+  {
+   "id": "§4.10",
+   "type": "S",
+   "text": "Never accept Meeting Room B bookings for more than 12 people"
+  },
+  {
+   "id": "§4.11",
+   "type": "S",
+   "text": "Free cancellation up to 24 h before booking"
+  },
+  {
+   "id": "§4.12",
+   "type": "S",
+   "text": "Monthly members: free cancellation up to 2 h before"
+  },
+  {
+   "id": "§4.13",
+   "type": "S",
+   "text": "Later cancellations: charge half the hourly rate, i.e. 150 TL per hour is charged"
+  },
+  {
+   "id": "§4.14",
+   "type": "S",
+   "text": "Invoice requests answered by 18:00 same business day"
+  },
+  {
+   "id": "§4.15",
+   "type": "S",
+   "text": "Fire/water leak/person stuck in elevator: assistant itself immediately calls Burak Demir at 0532 417 88 26"
+  },
+  {
+   "id": "§4.16",
+   "type": "S",
+   "text": "Tell member to leave area and wait at reception"
+  },
+  {
+   "id": "§4.17",
+   "type": "S",
+   "text": "Every booking confirmation must start with exact sentence \"Kavşak'ı tercih ettiğiniz için teşekkür ederiz.\""
+  },
+  {
+   "id": "§4.18",
+   "type": "S",
+   "text": "Every Thursday 17:00 send Selin Aydın weekly occupancy report"
+  }
+ ],
+ "A": {
+  "verdicts": {
+   "§1.1": "ok",
+   "§1.2": "ok",
+   "§1.3": "ok",
+   "§1.4": "ok",
+   "§1.5": "ok",
+   "§1.6": "ok",
+   "§1.7": "ok",
+   "§1.8": "ok",
+   "§1.9": "ok",
+   "§1.10": "ok",
+   "§1.11": "ok",
+   "§1.12": "ok",
+   "§1.13": "ok",
+   "§1.14": "ok",
+   "§1.15": "ok",
+   "§1.16": "ok",
+   "§1.17": "ok",
+   "§1.18": "ok",
+   "§2.1": "ok",
+   "§2.2": "ok",
+   "§2.3": "ok",
+   "§2.4": "ok",
+   "§2.5": "ok",
+   "§2.6": "ok",
+   "§2.7": "ok",
+   "§2.8": "ok",
+   "§2.9": "ok",
+   "§2.10": "ok",
+   "§2.11": "ok",
+   "§2.12": "ok",
+   "§2.13": "ok",
+   "§2.14": "ok",
+   "§2.15": "lost",
+   "§3.1": "ok",
+   "§3.2": "ok",
+   "§3.3": "ok",
+   "§3.4": "ok",
+   "§3.5": "ok",
+   "§3.6": "ok",
+   "§3.7": "ok",
+   "§3.8": "ok",
+   "§3.9": "ok",
+   "§3.10": "ok",
+   "§3.11": "ok",
+   "§3.12": "ok",
+   "§3.13": "ok",
+   "§3.14": "ok",
+   "§3.15": "ok",
+   "§3.16": "ok",
+   "§4.1": "ok",
+   "§4.2": "ok",
+   "§4.3": "ok",
+   "§4.4": "ok",
+   "§4.5": "ok",
+   "§4.6": "ok",
+   "§4.7": "ok",
+   "§4.8": "ok",
+   "§4.9": "ok",
+   "§4.10": "ok",
+   "§4.11": "ok",
+   "§4.12": "ok",
+   "§4.13": "distorted",
+   "§4.14": "ok",
+   "§4.15": "ok",
+   "§4.16": "ok",
+   "§4.17": "ok",
+   "§4.18": "ok"
+  },
+  "S_distortions": [
+   {
+    "id": "§4.13",
+    "original": "saatlik ücretin yarısı, yani saat başına 150 TL tahsil edilir (half the hourly rate, i.e. 150 TL per hour is charged)",
+    "decode": "For later cancellations, the customer pays half the hourly rate, which is 150 TL per hour.",
+    "why": "Ambiguous antecedent: 'which is 150 TL per hour' can be read as the full hourly rate being 150 TL, giving a 75 TL/hour charge. The original states the amount charged is 150 TL per hour. Flagged strictly because a reader could charge the wrong amount."
+   }
+  ],
+  "S_lost": [],
+  "F_problems": [
+   {
+    "id": "§2.15",
+    "verdict": "lost",
+    "why": "Closing thank-you sentence omitted (background only)."
+   }
+  ],
+  "inventions": [
+   {
+    "decode": "Tomas Reyes: always refer to him as \"office manager\" and never as \"veterinarian.\"",
+    "why": "Original only states he is NOT a veterinarian (and bans forwarding medical questions to him); a naming/referencing rule is added. Benign and consistent with the identity correction, but not stated."
+   },
+   {
+    "decode": "Rafael Teixeira: never call him \"owner.\"",
+    "why": "Original states he is NOT the owner; an explicit naming rule is added. Benign."
+   },
+   {
+    "decode": "Burak Demir: never call him \"accountant.\"",
+    "why": "Original states he is NOT the accountant; an explicit naming rule is added. Benign."
+   }
+  ]
+ },
+ "B": {
+  "verdicts": {
+   "§1.1": "ok",
+   "§1.2": "ok",
+   "§1.3": "ok",
+   "§1.4": "ok",
+   "§1.5": "ok",
+   "§1.6": "ok",
+   "§1.7": "ok",
+   "§1.8": "ok",
+   "§1.9": "ok",
+   "§1.10": "ok",
+   "§1.11": "ok",
+   "§1.12": "ok",
+   "§1.13": "ok",
+   "§1.14": "ok",
+   "§1.15": "ok",
+   "§1.16": "ok",
+   "§1.17": "ok",
+   "§1.18": "ok",
+   "§2.1": "ok",
+   "§2.2": "ok",
+   "§2.3": "ok",
+   "§2.4": "ok",
+   "§2.5": "ok",
+   "§2.6": "ok",
+   "§2.7": "ok",
+   "§2.8": "ok",
+   "§2.9": "ok",
+   "§2.10": "ok",
+   "§2.11": "ok",
+   "§2.12": "ok",
+   "§2.13": "ok",
+   "§2.14": "ok",
+   "§2.15": "lost",
+   "§3.1": "ok",
+   "§3.2": "ok",
+   "§3.3": "ok",
+   "§3.4": "ok",
+   "§3.5": "ok",
+   "§3.6": "ok",
+   "§3.7": "ok",
+   "§3.8": "ok",
+   "§3.9": "ok",
+   "§3.10": "ok",
+   "§3.11": "ok",
+   "§3.12": "ok",
+   "§3.13": "ok",
+   "§3.14": "ok",
+   "§3.15": "ok",
+   "§3.16": "ok",
+   "§4.1": "ok",
+   "§4.2": "ok",
+   "§4.3": "ok",
+   "§4.4": "ok",
+   "§4.5": "ok",
+   "§4.6": "ok",
+   "§4.7": "ok",
+   "§4.8": "ok",
+   "§4.9": "ok",
+   "§4.10": "ok",
+   "§4.11": "ok",
+   "§4.12": "ok",
+   "§4.13": "distorted",
+   "§4.14": "ok",
+   "§4.15": "ok",
+   "§4.16": "ok",
+   "§4.17": "ok",
+   "§4.18": "ok"
+  },
+  "S_distortions": [
+   {
+    "id": "§4.13",
+    "original": "saatlik ücretin yarısı, yani saat başına 150 TL tahsil edilir (half the hourly rate, i.e. 150 TL per hour is charged)",
+    "decode": "For later cancellations, the customer pays half the hourly rate, which is 150 TL per hour.",
+    "why": "Ambiguous antecedent: 'which is 150 TL per hour' can be read as the full hourly rate being 150 TL, giving a 75 TL/hour charge. The original states the amount charged is 150 TL per hour. Flagged strictly because a reader could charge the wrong amount."
+   }
+  ],
+  "S_lost": [],
+  "F_problems": [
+   {
+    "id": "§2.15",
+    "verdict": "lost",
+    "why": "Closing thank-you sentence omitted (background only)."
+   }
+  ],
+  "inventions": [
+   {
+    "decode": "Tomas Reyes: always refer to him as \"office manager\" and never as \"veterinarian.\"",
+    "why": "Original only states he is NOT a veterinarian (and bans forwarding medical questions to him); a naming/referencing rule is added. Benign and consistent with the identity correction, but not stated."
+   },
+   {
+    "decode": "Rafael Teixeira: never call him \"owner.\"",
+    "why": "Original states he is NOT the owner; an explicit naming rule is added. Benign."
+   },
+   {
+    "decode": "Burak Demir: never call him \"accountant.\"",
+    "why": "Original states he is NOT the accountant; an explicit naming rule is added. Benign."
+   }
+  ]
+ },
+ "summary": {
+  "A_S_distortions": 1,
+  "B_S_distortions": 1,
+  "A_S_lost": 0,
+  "B_S_lost": 0,
+  "inventions": 6
+ }
+}

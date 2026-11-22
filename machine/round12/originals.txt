@@ -1,0 +1,22 @@
+§1
+Weekly supplier order routine for Hilltop Café. Every Thursday at 2 p.m. Central, open the Stock sheet and the Suppliers inbox in Gmail. For every item whose stock is below its reorder level, add it to a draft order for the matching supplier, using the "Weekly Order" template. Never send an order without Rosa's approval; post each draft in the approval card and wait. If an order is over $600, also ask Daniel from accounting to look at it before Rosa approves, but don't copy him on the supplier email itself. You may change quantities by up to 10% to reach a supplier's minimum order, but never switch to a different product or brand. If a supplier announces a price increase, don't accept or reply; forward it to Rosa. Rosa is the café manager, not the owner; the owner is Kevin Brandt, and he should never be contacted about orders. If the Stock sheet hasn't been updated since Monday, stop and tell Rosa instead of guessing. Don't place orders by phone. Drafts must be ready by 4 p.m. Thursday, and on the last Thursday of the month send Rosa a total of the month's order costs.
+
+§2
+本市地铁5号线南延段将于12月28日开通试运营。新线全长9.6公里，设6座车站，从现在的终点站南湖公园站一直通到高铁南站。市交通局副局长王建国介绍，项目总投资约68亿元，其中三分之一由省里承担。开通后，从市中心到高铁南站的时间将由50分钟缩短到25分钟。试运营期间，早上6点到晚上10点运营，高峰时段每4分钟一班。头一个月所有乘客免费乘坐，但仍需刷卡进站。王建国说，原计划去年国庆开通，但因为地下水问题推迟了一年多。沿线的两条公交线路将在明年三月调整，具体方案还在征求意见。
+
+§3
+Clara : Bon, je récapitule pour le week-end au chalet ! On part vendredi 23 janvier, rendez-vous à 17 h devant chez moi.
+Clara : On prend deux voitures, la mienne et celle de Hugo. Le chalet est à Morzine, environ trois heures de route.
+Hugo : OK pour moi, mais j'ai les pneus neige seulement à l'arrière, il faut que je passe au garage mercredi.
+Clara : La location coûte 840 € pour le week-end, donc 120 € chacun pour nous sept. Virez-moi avant le 15 janvier svp.
+Inès : Je m'occupe des courses pour le samedi soir, fondue pour tout le monde. Quelqu'un est végétarien ?
+Malik : Moi, mais la fondue ça me va.
+Clara : Pas d'animaux dans le chalet, désolée Inès, le chien reste chez tes parents.
+Hugo : L'an dernier on avait oublié les chaînes et on était restés bloqués deux heures, donc cette fois je les prends.
+Clara : On rend les clés dimanche avant 11 h au propriétaire, M. Perrin.
+
+§4
+A Junta de Freguesia de Vila Nova da Serra informa que a piscina municipal coberta vai fechar de 2 a 30 de março para substituição do sistema de aquecimento. Segundo a vereadora do Desporto, Ana Lopes, a obra custa cerca de 410 mil euros, dos quais 75% vêm de fundos europeus. Durante o encerramento, as aulas de natação para crianças passam para a piscina de Ribeirinha, com transporte gratuito às terças e quintas à saída da escola. As mensalidades de março não serão cobradas. Os utentes com mais de 65 anos podem usar o ginásio do pavilhão sem custo adicional nesse mês. Ana Lopes lembrou que a última obra na piscina, em 2019, terminou duas semanas antes do previsto. A reabertura está marcada para 31 de março, com entrada livre nesse dia.
+
+§5
+Procedura dla asystenta: zgłoszenia serwisowe w firmie „Termo-Lux”. W każdy dzień roboczy o 8:00 sprawdź skrzynkę serwis@termo-lux.pl. Zgłoszenia awarii pieców możesz sam wpisać do kalendarza techników, jeśli jest wolny termin w ciągu trzech dni. Jeśli klient zgłasza zapach gazu, nie umawiaj wizyty: każ mu natychmiast zadzwonić pod numer alarmowy 992 i powiadom Pana Nowaka. Nigdy nie podawaj cen napraw; robi to tylko Pani Wiśniewska z biura. Możesz przesunąć wizytę o jeden dzień, jeśli klient o to poprosi, ale nie odwołuj wizyt bez zgody Pana Nowaka. Jeśli w kalendarzu jest więcej niż 12 wizyt na jeden dzień, napisz od razu do Pana Nowaka. Pan Nowak to kierownik serwisu, nie właściciel; właścicielką jest Pani Zielińska i nie wolno jej dodawać do kopii maili do klientów. Do 15:00 wyślij Panu Nowakowi listę wizyt na następny dzień.

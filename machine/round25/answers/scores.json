@@ -1,0 +1,3696 @@
+{
+ "rows": [
+  {
+   "f": "llm05_r1",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "orders@petalstem, on weekdays at 8:00 and 14:00",
+   "gold": "orders@petalstem.example, every weekday at 8:00 and 14:00"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, bouquet orders up to $150 may be confirmed",
+   "gold": "yes, up to $150 it may confirm on its own"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Maren Hollis",
+   "gold": "Maren Hollis, the owner"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, wedding/event orders are forwarded to Maren for approval before any price",
+   "gold": "no, wedding/event orders of any amount need Maren's approval; the $150 limit applies only to bouquets"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, delivery questions go to Tomas Brandt (delivery manager); Delia Ruiz is head designer",
+   "gold": "no, delivery questions go to Tomas Brandt, the delivery manager; Delia is the head designer"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Owen Pike is a former supplier and is not to be contacted about orders or complaints",
+   "gold": "no, never contact or copy Owen Pike"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday (no same-day delivery on Sundays; Sunday orders move to Monday)",
+   "gold": "Monday, because no deliveries go out on Sundays"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "call the emergency line 555-0147; tell the customer to keep the driver still and to stay with him until help arrives",
+   "gold": "call 555-0147 yourself; tell the customer help is on the way and that they (the customer) must keep the driver still and not move him"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "exact sentence not stated (complaint replies should promise to make it right); weekly report to Maren on Friday at 17:00",
+   "gold": "\"We will make this right for you.\"; every Friday at 17:00"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "every day 9:00-18:00 at the service desk on the first floor of the center",
+   "gold": "March 1 to March 20, 2027, daily 9:00-18:00 at the first-floor service desk, except Mondays"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes, the desk is open every day",
+   "gold": "no, it is closed on Mondays"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, all badminton students get 10% off",
+   "gold": "yes, the March 10 deadline applies only to swimming students; badminton students always get 10% off"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, swimming discount only for registrations before March 10",
+   "gold": "no, swimming students only get it if they register before March 10"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated (she gets 10% off the swimming fee, but fees are not given)",
+   "gold": "462 yuan (480 × 0.9 = 432 plus 30 registration fee)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated (he gets 10% off and no registration fee, but the course fee is not given)",
+   "gold": "324 yuan (360 with 10% off, no registration fee over 60)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "at 10:00 a.m. (make-up date not stated)",
+   "gold": "Sunday, May 2, at 10:00 am"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated (full refund only if withdrawn before courses start)",
+   "gold": "half the tuition (e.g. 240 yuan of 480)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Zhou Xiaomei, 138-0013-5726; reachable hours not stated",
+   "gold": "Zhou Xiaomei, 138-0013-5726, weekdays 9:00-17:00"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "contacto@rumbofirme, Monday to Saturday at 7:30 and 15:00",
+   "gold": "contacto@rumbofirme.example, Monday to Saturday at 7:30 and 15:00"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to two reschedules per student per month",
+   "gold": "yes, up to two reschedules per student per month"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Graciela Montaño (director)",
+   "gold": "Graciela Montaño, the director"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, discounts up to 10% only; larger ones are approved by Graciela Montaño",
+   "gold": "no; discounts over 10% need Graciela Montaño's approval"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, payment questions go to Paula Ibarra; Rodrigo Salas is head instructor",
+   "gold": "no, payment questions go to Paula Ibarra, the payments manager; Rodrigo is the head instructor"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the medical certificate exception applies",
+   "gold": "no, the medical certificate is the exception to the full charge"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, registration closes June 20 at 18:00",
+   "gold": "no, registration closed June 20 at 18:00"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "call the insurer at 222-555-0193; the student must wait for the adjuster and switch on the car's hazard lights",
+   "gold": "call the insurer at 222-555-0193; tell the student the adjuster is on the way and that he himself must turn on the hazard lights and stay by the car"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the student",
+   "gold": "the student"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "end with the reminder to bring the learner's permit (\"...traer permiso de aprendiz.\"); report to Graciela on Monday at 9:00",
+   "gold": "\"Recuerda traer tu permiso de aprendiz.\"; every Monday at 9:00 to Graciela"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "zamowienia@podlipa, Monday to Friday at 8:00 and 13:30",
+   "gold": "zamowienia@podlipa.example, Monday to Friday at 8:00 and 13:30"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, business lunches up to 40 portions can be accepted",
+   "gold": "yes, up to 40 portions it may accept on its own"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, christening orders are approved by Halina Wróbel",
+   "gold": "no, christening/wedding orders of any size need Halina Wróbel's approval; the 40-portion limit applies only to business lunches"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, delivery matters go to Iga Lis (delivery coordinator); Marek Sowa is the chef",
+   "gold": "no, delivery matters go to Iga Lis, the delivery coordinator; Marek is the head chef"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, not without Marek's confirmation",
+   "gold": "no, not without Marek Sowa's confirmation"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3450 zł (3000 + 15% delivery surcharge of 450 zł)",
+   "gold": "3450 zł (3000 + 15% = 450)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated (half refund only applies to cancellation 30+ days before)",
+   "gold": "1200 zł (half of the 2400 zł deposit)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the full deposit, 2400 zł",
+   "gold": "the full deposit, 2400 zł"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "the duty manager at 555 274; the customer must close the valve",
+   "gold": "the assistant calls the duty manager at 601 555 274; the customer must close the gas cylinder valve themselves"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Dziękujemy za zainteresowanie cateringiem Pod Lipą.\"; weekly report to Halina on Thursday at 16:00",
+   "gold": "„Dziękujemy za zainteresowanie cateringiem Pod Lipą.”; every Thursday at 16:00"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "orders@petalstem inbox, weekdays at 8:00 and 14:00",
+   "gold": "orders@petalstem.example, every weekday at 8:00 and 14:00"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, orders up to $150 are within its limit",
+   "gold": "yes, up to $150 it may confirm on its own"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Maren Hollis, the owner",
+   "gold": "Maren Hollis, the owner"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, wedding orders go to Maren for approval",
+   "gold": "no, wedding/event orders of any amount need Maren's approval; the $150 limit applies only to bouquets"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, delivery questions go to Tomas Brandt, the delivery manager",
+   "gold": "no, delivery questions go to Tomas Brandt, the delivery manager; Delia is the head designer"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact Owen Pike about an order or complaint",
+   "gold": "no, never contact or copy Owen Pike"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday (no deliveries on Sundays)",
+   "gold": "Monday, because no deliveries go out on Sundays"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the emergency line 555-0147; tell the customer help is on the way and to keep the driver still and not move him until help arrives",
+   "gold": "call 555-0147 yourself; tell the customer help is on the way and that they (the customer) must keep the driver still and not move him"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "\"We make this right for you.\"; the report goes to Maren every Friday at 17:00",
+   "gold": "\"We will make this right for you.\"; every Friday at 17:00"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "March 1 to March 20, 2027, daily 9:00 a.m. to 6:00 p.m., at the first-floor service desk",
+   "gold": "March 1 to March 20, 2027, daily 9:00-18:00 at the first-floor service desk, except Mondays"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes, the desk handles registration every day",
+   "gold": "no, it is closed on Mondays"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, badminton students get 10% off",
+   "gold": "yes, the March 10 deadline applies only to swimming students; badminton students always get 10% off"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the swimming discount needs registration before March 10",
+   "gold": "no, swimming students only get it if they register before March 10"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated (she gets 10% off, but the swimming fee and registration fee are not given)",
+   "gold": "462 yuan (480 × 0.9 = 432 plus 30 registration fee)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "324 yuan (360 less 10%; no registration fee for over-60s)",
+   "gold": "324 yuan (360 with 10% off, no registration fee over 60)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Sunday at 10:00 a.m. (date not stated)",
+   "gold": "Sunday, May 2, at 10:00 am"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated (only withdrawals before courses start get a full refund)",
+   "gold": "half the tuition (e.g. 240 yuan of 480)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Zhou Xiaomei, 138-0013-5726; contact hours not stated",
+   "gold": "Zhou Xiaomei, 138-0013-5726, weekdays 9:00-17:00"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "contacto@rumbofirme.example, Monday to Saturday at 7:30 and 15:00",
+   "gold": "contacto@rumbofirme.example, Monday to Saturday at 7:30 and 15:00"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to two reschedules per student per month",
+   "gold": "yes, up to two reschedules per student per month"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Graciela Montaño, the director",
+   "gold": "Graciela Montaño, the director"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the limit is 10%; Graciela Montaño approves",
+   "gold": "no; discounts over 10% need Graciela Montaño's approval"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, payment questions go to Paula Ibarra",
+   "gold": "no, payment questions go to Paula Ibarra, the payments manager; Rodrigo is the head instructor"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, a medical certificate is an exception",
+   "gold": "no, the medical certificate is the exception to the full charge"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, July intensive registration closes June 20 at 18:00",
+   "gold": "no, registration closed June 20 at 18:00"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the insurer at 222-555-0193 and tell the student the adjuster is on the way; the student turns on the hazard lights and stays by the car",
+   "gold": "call the insurer at 222-555-0193; tell the student the adjuster is on the way and that he himself must turn on the hazard lights and stay by the car"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the student",
+   "gold": "the student"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "\"Recuerda traer permiso de aprendiz.\"; every Monday at 9:00 to Graciela",
+   "gold": "\"Recuerda traer tu permiso de aprendiz.\"; every Monday at 9:00 to Graciela"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "zamowienia@podlipa.example, Monday to Friday at 8:00 and 13:30",
+   "gold": "zamowienia@podlipa.example, Monday to Friday at 8:00 and 13:30"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 40 portions is allowed",
+   "gold": "yes, up to 40 portions it may accept on its own"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Halina Wróbel approves christening orders",
+   "gold": "no, christening/wedding orders of any size need Halina Wróbel's approval; the 40-portion limit applies only to business lunches"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, delivery matters go to Iga Lis",
+   "gold": "no, delivery matters go to Iga Lis, the delivery coordinator; Marek is the head chef"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, not without Marek's confirmation",
+   "gold": "no, not without Marek Sowa's confirmation"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3450 zł (3000 plus 15%)",
+   "gold": "3450 zł (3000 + 15% = 450)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated (half is refunded only for cancellations more than 30 days before)",
+   "gold": "1200 zł (half of the 2400 zł deposit)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the full deposit, 2400 zł",
+   "gold": "the full deposit, 2400 zł"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "the duty manager at 555 274; the customer turns off the gas cylinder valve",
+   "gold": "the assistant calls the duty manager at 601 555 274; the customer must close the gas cylinder valve themselves"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Dziękujemy za zainteresowanie cateringiem Pod Lipą.\"; every Thursday at 16:00 to Halina",
+   "gold": "„Dziękujemy za zainteresowanie cateringiem Pod Lipą.”; every Thursday at 16:00"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "orders@petalstem.example, weekdays at 8:00 and 14:00",
+   "gold": "orders@petalstem.example, every weekday at 8:00 and 14:00"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, standard bouquet orders up to $150 may be confirmed by the assistant",
+   "gold": "yes, up to $150 it may confirm on its own"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Maren Hollis, the owner",
+   "gold": "Maren Hollis, the owner"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, wedding orders of any amount must be forwarded to Maren for approval before quoting a price",
+   "gold": "no, wedding/event orders of any amount need Maren's approval; the $150 limit applies only to bouquets"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, delivery questions go to Tomas Brandt, the delivery manager",
+   "gold": "no, delivery questions go to Tomas Brandt, the delivery manager; Delia is the head designer"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Owen Pike about any order or complaint",
+   "gold": "no, never contact or copy Owen Pike"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday, because there are no deliveries on Sunday",
+   "gold": "Monday, because no deliveries go out on Sundays"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the 555-0147 emergency line yourself; tell the customer help is on the way and that they must keep the driver still and not move him until help arrives",
+   "gold": "call 555-0147 yourself; tell the customer help is on the way and that they (the customer) must keep the driver still and not move him"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"We will make this right for you.\"; the report is sent to Maren on Friday at 17:00",
+   "gold": "\"We will make this right for you.\"; every Friday at 17:00"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "March 1-20, 2027, daily 9:00-18:00 at the 1F service desk (closed Mondays)",
+   "gold": "March 1 to March 20, 2027, daily 9:00-18:00 at the first-floor service desk, except Mondays"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the desk is closed on Mondays",
+   "gold": "no, it is closed on Mondays"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, all badminton students get 10% off",
+   "gold": "yes, the March 10 deadline applies only to swimming students; badminton students always get 10% off"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the swimming discount applies only to registrations before March 10",
+   "gold": "no, swimming students only get it if they register before March 10"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "462元 (480 less 10% = 432, plus 30元 registration fee)",
+   "gold": "462 yuan (480 × 0.9 = 432 plus 30 registration fee)"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "324元 (360 less 10%, no registration fee for residents over 60)",
+   "gold": "324 yuan (360 with 10% off, no registration fee over 60)"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "May 2 (Sunday) at 10:00",
+   "gold": "Sunday, May 2, at 10:00 am"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "half of the fee",
+   "gold": "half the tuition (e.g. 240 yuan of 480)"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "center head 周晓梅, 138-0013-5726, weekdays 9:00-17:00",
+   "gold": "Zhou Xiaomei, 138-0013-5726, weekdays 9:00-17:00"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "contacto@rumbofirme.example, Monday-Saturday at 7:30 and 15:00",
+   "gold": "contacto@rumbofirme.example, Monday to Saturday at 7:30 and 15:00"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 2 reschedules per student per month are allowed",
+   "gold": "yes, up to two reschedules per student per month"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Graciela Montaño, the director",
+   "gold": "Graciela Montaño, the director"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, discounts over 10% need approval from Graciela Montaño",
+   "gold": "no; discounts over 10% need Graciela Montaño's approval"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, payment questions go to Paula Ibarra, the payments manager",
+   "gold": "no, payment questions go to Paula Ibarra, the payments manager; Rodrigo is the head instructor"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, a medical certificate exempts it from the full charge",
+   "gold": "no, the medical certificate is the exception to the full charge"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, enrollment closed on June 20 at 18:00",
+   "gold": "no, registration closed June 20 at 18:00"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the insurer at 222-555-0193; the student must turn on the hazard lights and stay next to the car",
+   "gold": "call the insurer at 222-555-0193; tell the student the adjuster is on the way and that he himself must turn on the hazard lights and stay by the car"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the student",
+   "gold": "the student"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Recuerda traer tu permiso de aprendiz.\"; the report goes to Graciela on Monday at 9:00",
+   "gold": "\"Recuerda traer tu permiso de aprendiz.\"; every Monday at 9:00 to Graciela"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "zamowienia@podlipa.example, Monday-Friday at 8:00 and 13:30",
+   "gold": "zamowienia@podlipa.example, Monday to Friday at 8:00 and 13:30"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, company lunch orders up to 40 portions may be accepted",
+   "gold": "yes, up to 40 portions it may accept on its own"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, every christening order needs Halina Wróbel's approval",
+   "gold": "no, christening/wedding orders of any size need Halina Wróbel's approval; the 40-portion limit applies only to business lunches"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, delivery matters go to Iga Lis, the delivery coordinator",
+   "gold": "no, delivery matters go to Iga Lis, the delivery coordinator; Marek is the head chef"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, a gluten-free menu cannot be promised without Marek's confirmation",
+   "gold": "no, not without Marek Sowa's confirmation"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3450 zł (3000 zł + 15%)",
+   "gold": "3450 zł (3000 + 15% = 450)"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "half of the deposit, 1200 zł",
+   "gold": "1200 zł (half of the 2400 zł deposit)"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the full deposit, 2400 zł",
+   "gold": "the full deposit, 2400 zł"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the duty manager at 601 555 274; the customer must close the gas-cylinder valve",
+   "gold": "the assistant calls the duty manager at 601 555 274; the customer must close the gas cylinder valve themselves"
+  },
+  {
+   "f": "mnc24_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Dziękujemy za zainteresowanie cateringiem Pod Lipą.\"; the report goes to Halina on Thursday at 16:00",
+   "gold": "„Dziękujemy za zainteresowanie cateringiem Pod Lipą.”; every Thursday at 16:00"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "orders@petalstem.example, weekdays at 8:00 and 14:00",
+   "gold": "orders@petalstem.example, every weekday at 8:00 and 14:00"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $150 is within the ≤$150 limit for standard bouquet orders",
+   "gold": "yes, up to $150 it may confirm on its own"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Maren Hollis, the owner",
+   "gold": "Maren Hollis, the owner"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, wedding orders of any amount must be forwarded to Maren for approval",
+   "gold": "no, wedding/event orders of any amount need Maren's approval; the $150 limit applies only to bouquets"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, delivery questions go to Tomas Brandt, the delivery manager",
+   "gold": "no, delivery questions go to Tomas Brandt, the delivery manager; Delia is the head designer"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Owen Pike about any order or complaint",
+   "gold": "no, never contact or copy Owen Pike"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday (no deliveries on Sunday, the order moves to Monday)",
+   "gold": "Monday, because no deliveries go out on Sundays"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the 555-0147 emergency line yourself; tell the customer help is on the way and they must keep the driver still and not move him until help arrives",
+   "gold": "call 555-0147 yourself; tell the customer help is on the way and that they (the customer) must keep the driver still and not move him"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"We will make this right for you.\"; the report goes to Maren on Friday at 17:00",
+   "gold": "\"We will make this right for you.\"; every Friday at 17:00"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mar 1-20 2027, daily 9:00-18:00 (except Monday), at the 1F service desk",
+   "gold": "March 1 to March 20, 2027, daily 9:00-18:00 at the first-floor service desk, except Mondays"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the desk is closed on Mondays",
+   "gold": "no, it is closed on Mondays"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, all badminton students get 10% off",
+   "gold": "yes, the March 10 deadline applies only to swimming students; badminton students always get 10% off"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the swimming discount only applies to registrations before Mar 10",
+   "gold": "no, swimming students only get it if they register before March 10"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "462元 (480 less 10% = 432, plus the 30元 registration fee)",
+   "gold": "462 yuan (480 × 0.9 = 432 plus 30 registration fee)"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "324元 (360 less 10%, no registration fee for residents over 60)",
+   "gold": "324 yuan (360 with 10% off, no registration fee over 60)"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "May 2 (Sunday) at 10:00",
+   "gold": "Sunday, May 2, at 10:00 am"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "half of the fee",
+   "gold": "half the tuition (e.g. 240 yuan of 480)"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Center head 周晓梅, 138-0013-5726, weekdays 9:00-17:00",
+   "gold": "Zhou Xiaomei, 138-0013-5726, weekdays 9:00-17:00"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "contacto@rumbofirme.example, Monday to Saturday at 7:30 and 15:00",
+   "gold": "contacto@rumbofirme.example, Monday to Saturday at 7:30 and 15:00"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 2 reschedules per student per month are allowed",
+   "gold": "yes, up to two reschedules per student per month"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Graciela Montaño, the director",
+   "gold": "Graciela Montaño, the director"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, discounts over 10% need approval from Graciela Montaño",
+   "gold": "no; discounts over 10% need Graciela Montaño's approval"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, payment questions go to Paula Ibarra, the payments manager",
+   "gold": "no, payment questions go to Paula Ibarra, the payments manager; Rodrigo is the head instructor"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the medical certificate exempts it from the full charge",
+   "gold": "no, the medical certificate is the exception to the full charge"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, enrollment closed Jun 20 at 18:00",
+   "gold": "no, registration closed June 20 at 18:00"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the insurer at 222-555-0193; the student must turn on the hazard lights himself and stay next to the car",
+   "gold": "call the insurer at 222-555-0193; tell the student the adjuster is on the way and that he himself must turn on the hazard lights and stay by the car"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the student",
+   "gold": "the student"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Recuerda traer tu permiso de aprendiz.\"; the report goes to Graciela on Monday at 9:00",
+   "gold": "\"Recuerda traer tu permiso de aprendiz.\"; every Monday at 9:00 to Graciela"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "zamowienia@podlipa.example, Monday to Friday at 8:00 and 13:30",
+   "gold": "zamowienia@podlipa.example, Monday to Friday at 8:00 and 13:30"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, 40 portions is within the ≤40 limit",
+   "gold": "yes, up to 40 portions it may accept on its own"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, every christening order needs Halina's approval",
+   "gold": "no, christening/wedding orders of any size need Halina Wróbel's approval; the 40-portion limit applies only to business lunches"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, delivery matters go to Iga Lis, the delivery coordinator",
+   "gold": "no, delivery matters go to Iga Lis, the delivery coordinator; Marek is the head chef"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, a gluten-free menu cannot be promised without Marek's confirmation",
+   "gold": "no, not without Marek Sowa's confirmation"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3450 zł (3000 plus 15%)",
+   "gold": "3450 zł (3000 + 15% = 450)"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "1200 zł (half of the 2400 zł deposit)",
+   "gold": "1200 zł (half of the 2400 zł deposit)"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the full deposit, 2400 zł",
+   "gold": "the full deposit, 2400 zł"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the duty manager at 601 555 274; the customer must close the gas-cylinder valve",
+   "gold": "the assistant calls the duty manager at 601 555 274; the customer must close the gas cylinder valve themselves"
+  },
+  {
+   "f": "mnc24_r2",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Dziękujemy za zainteresowanie cateringiem Pod Lipą.\"; the report goes to Halina on Thursday at 16:00",
+   "gold": "„Dziękujemy za zainteresowanie cateringiem Pod Lipą.”; every Thursday at 16:00"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "orders@petalstem.example, weekdays at 8:00 and 14:00",
+   "gold": "orders@petalstem.example, every weekday at 8:00 and 14:00"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $150 is within the ≤$150 limit",
+   "gold": "yes, up to $150 it may confirm on its own"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Maren Hollis (owner)",
+   "gold": "Maren Hollis, the owner"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, wedding orders of any amount must be forwarded to Maren for approval",
+   "gold": "no, wedding/event orders of any amount need Maren's approval; the $150 limit applies only to bouquets"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, delivery questions go to Tomas Brandt (delivery manager)",
+   "gold": "no, delivery questions go to Tomas Brandt, the delivery manager; Delia is the head designer"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Owen Pike about any order or complaint",
+   "gold": "no, never contact or copy Owen Pike"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no deliveries on Sunday; the order moves to Monday",
+   "gold": "Monday, because no deliveries go out on Sundays"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the 555-0147 emergency line yourself; tell the customer help is on the way and they must keep the driver still, not moving him until help arrives",
+   "gold": "call 555-0147 yourself; tell the customer help is on the way and that they (the customer) must keep the driver still and not move him"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"We will make this right for you.\"; weekly report sent Friday at 17:00 to Maren",
+   "gold": "\"We will make this right for you.\"; every Friday at 17:00"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mar 1-20, 2027, daily 9:00-18:00 (closed Mondays), at the 1F service desk",
+   "gold": "March 1 to March 20, 2027, daily 9:00-18:00 at the first-floor service desk, except Mondays"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, closed on Mondays",
+   "gold": "no, it is closed on Mondays"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, all badminton students get 10% off",
+   "gold": "yes, the March 10 deadline applies only to swimming students; badminton students always get 10% off"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the swimming discount applies only to registrations before Mar 10",
+   "gold": "no, swimming students only get it if they register before March 10"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "462元 (480 minus 10% = 432 + 30元 registration fee)",
+   "gold": "462 yuan (480 × 0.9 = 432 plus 30 registration fee)"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "324元 (360 minus 10%, no registration fee for residents over 60)",
+   "gold": "324 yuan (360 with 10% off, no registration fee over 60)"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "May 2 (Sunday) at 10:00",
+   "gold": "Sunday, May 2, at 10:00 am"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "half the fee",
+   "gold": "half the tuition (e.g. 240 yuan of 480)"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "center head 周晓梅, 138-0013-5726, weekdays 9:00-17:00",
+   "gold": "Zhou Xiaomei, 138-0013-5726, weekdays 9:00-17:00"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "contacto@rumbofirme.example, Mon-Sat at 7:30 and 15:00",
+   "gold": "contacto@rumbofirme.example, Monday to Saturday at 7:30 and 15:00"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 2 reschedules per student per month are allowed",
+   "gold": "yes, up to two reschedules per student per month"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Graciela Montaño (director)",
+   "gold": "Graciela Montaño, the director"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, discounts over 10% need Graciela Montaño's approval",
+   "gold": "no; discounts over 10% need Graciela Montaño's approval"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, payment questions go to Paula Ibarra (payments manager)",
+   "gold": "no, payment questions go to Paula Ibarra, the payments manager; Rodrigo is the head instructor"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the medical certificate exception applies",
+   "gold": "no, the medical certificate is the exception to the full charge"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, enrollment closes Jun 20 at 18:00",
+   "gold": "no, registration closed June 20 at 18:00"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the insurer at 222-555-0193; tell the student an adjuster is on the way; the student must turn on the hazard lights and stay by the car",
+   "gold": "call the insurer at 222-555-0193; tell the student the adjuster is on the way and that he himself must turn on the hazard lights and stay by the car"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the student",
+   "gold": "the student"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Recuerda traer tu permiso de aprendiz.\"; weekly report sent Monday at 9:00 to Graciela",
+   "gold": "\"Recuerda traer tu permiso de aprendiz.\"; every Monday at 9:00 to Graciela"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "zamowienia@podlipa.example, Mon-Fri at 8:00 and 13:30",
+   "gold": "zamowienia@podlipa.example, Monday to Friday at 8:00 and 13:30"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, ≤40 portions is within the limit",
+   "gold": "yes, up to 40 portions it may accept on its own"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, christening orders of any size need Halina Wróbel's approval",
+   "gold": "no, christening/wedding orders of any size need Halina Wróbel's approval; the 40-portion limit applies only to business lunches"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, delivery matters go to Iga Lis (delivery coordinator)",
+   "gold": "no, delivery matters go to Iga Lis, the delivery coordinator; Marek is the head chef"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, not without Marek's confirmation",
+   "gold": "no, not without Marek Sowa's confirmation"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3450 zł (3000 + 15%)",
+   "gold": "3450 zł (3000 + 15% = 450)"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "half the deposit: 1200 zł",
+   "gold": "1200 zł (half of the 2400 zł deposit)"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the full deposit: 2400 zł",
+   "gold": "the full deposit, 2400 zł"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant calls the duty manager at 601 555 274; the customer must close the gas-cylinder valve themselves",
+   "gold": "the assistant calls the duty manager at 601 555 274; the customer must close the gas cylinder valve themselves"
+  },
+  {
+   "f": "mnc24x_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Dziękujemy za zainteresowanie cateringiem Pod Lipą.\"; weekly report sent Thursday at 16:00 to Halina",
+   "gold": "„Dziękujemy za zainteresowanie cateringiem Pod Lipą.”; every Thursday at 16:00"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "orders@petalstem.example, weekdays at 8:00 and 14:00",
+   "gold": "orders@petalstem.example, every weekday at 8:00 and 14:00"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, orders up to $150 may be confirmed without approval",
+   "gold": "yes, up to $150 it may confirm on its own"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Maren Hollis",
+   "gold": "Maren Hollis, the owner"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, wedding orders of any amount must be forwarded to Maren for approval",
+   "gold": "no, wedding/event orders of any amount need Maren's approval; the $150 limit applies only to bouquets"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, delivery questions go to Tomas Brandt, the delivery manager",
+   "gold": "no, delivery questions go to Tomas Brandt, the delivery manager; Delia is the head designer"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Owen Pike about any complaint",
+   "gold": "no, never contact or copy Owen Pike"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday (no deliveries on Sunday; the order moves to Monday)",
+   "gold": "Monday, because no deliveries go out on Sundays"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the 555-0147 emergency line yourself; tell the customer help is on the way and they must keep the driver still and not move him until help arrives",
+   "gold": "call 555-0147 yourself; tell the customer help is on the way and that they (the customer) must keep the driver still and not move him"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"We will make this right for you.\"; weekly report sent Friday at 17:00 to Maren",
+   "gold": "\"We will make this right for you.\"; every Friday at 17:00"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "March 1-20, 2027, daily 9:00-18:00 (closed Mondays), at the 1F service desk of 枫林社区体育中心",
+   "gold": "March 1 to March 20, 2027, daily 9:00-18:00 at the first-floor service desk, except Mondays"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, closed on Mondays",
+   "gold": "no, it is closed on Mondays"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, all badminton students get 10% off",
+   "gold": "yes, the March 10 deadline applies only to swimming students; badminton students always get 10% off"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the swimming discount only applies to registration before March 10",
+   "gold": "no, swimming students only get it if they register before March 10"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "462元 (480元 less 10% = 432元, plus 30元 registration fee)",
+   "gold": "462 yuan (480 × 0.9 = 432 plus 30 registration fee)"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "324元 (360元 less 10%, no registration fee for residents over 60)",
+   "gold": "324 yuan (360 with 10% off, no registration fee over 60)"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "May 2 (Sunday) at 10:00",
+   "gold": "Sunday, May 2, at 10:00 am"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "half of the fee",
+   "gold": "half the tuition (e.g. 240 yuan of 480)"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "center head 周晓梅, 138-0013-5726, weekdays 9:00-17:00",
+   "gold": "Zhou Xiaomei, 138-0013-5726, weekdays 9:00-17:00"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "contacto@rumbofirme.example, Monday-Saturday at 7:30 and 15:00",
+   "gold": "contacto@rumbofirme.example, Monday to Saturday at 7:30 and 15:00"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 2 reschedules per student per month are allowed",
+   "gold": "yes, up to two reschedules per student per month"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Graciela Montaño, the director",
+   "gold": "Graciela Montaño, the director"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, discounts over 10% need Graciela Montaño's approval",
+   "gold": "no; discounts over 10% need Graciela Montaño's approval"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, payment questions go to Paula Ibarra, the payments manager",
+   "gold": "no, payment questions go to Paula Ibarra, the payments manager; Rodrigo is the head instructor"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the medical certificate exempts it from the full charge",
+   "gold": "no, the medical certificate is the exception to the full charge"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, July intensive enrollment closes June 20 at 18:00",
+   "gold": "no, registration closed June 20 at 18:00"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the insurer at 222-555-0193; tell the student an adjuster is on the way; the student must turn on the hazard lights and stay by the car",
+   "gold": "call the insurer at 222-555-0193; tell the student the adjuster is on the way and that he himself must turn on the hazard lights and stay by the car"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the student",
+   "gold": "the student"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Recuerda traer tu permiso de aprendiz.\"; weekly report sent Monday at 9:00 to Graciela",
+   "gold": "\"Recuerda traer tu permiso de aprendiz.\"; every Monday at 9:00 to Graciela"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "zamowienia@podlipa.example, Monday-Friday at 8:00 and 13:30",
+   "gold": "zamowienia@podlipa.example, Monday to Friday at 8:00 and 13:30"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 40 portions may be accepted alone",
+   "gold": "yes, up to 40 portions it may accept on its own"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, christening orders of any size need Halina Wróbel's approval",
+   "gold": "no, christening/wedding orders of any size need Halina Wróbel's approval; the 40-portion limit applies only to business lunches"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, delivery matters go to Iga Lis, the delivery coordinator",
+   "gold": "no, delivery matters go to Iga Lis, the delivery coordinator; Marek is the head chef"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, a gluten-free menu cannot be promised without Marek's confirmation",
+   "gold": "no, not without Marek Sowa's confirmation"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3450 zł (3000 zł + 15%)",
+   "gold": "3450 zł (3000 + 15% = 450)"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "half the deposit: 1200 zł",
+   "gold": "1200 zł (half of the 2400 zł deposit)"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the full deposit: 2400 zł",
+   "gold": "the full deposit, 2400 zł"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the duty manager at 601 555 274; the customer must close the gas-cylinder valve themselves",
+   "gold": "the assistant calls the duty manager at 601 555 274; the customer must close the gas cylinder valve themselves"
+  },
+  {
+   "f": "mnc24x_r2",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Dziękujemy za zainteresowanie cateringiem Pod Lipą.\"; weekly report sent Thursday at 16:00 to Halina",
+   "gold": "„Dziękujemy za zainteresowanie cateringiem Pod Lipą.”; every Thursday at 16:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "orders@petalstem.example, every weekday at 8:00 and 14:00",
+   "gold": "orders@petalstem.example, every weekday at 8:00 and 14:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, bouquet orders up to $150 can be confirmed without approval",
+   "gold": "yes, up to $150 it may confirm on its own"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Maren Hollis, the owner",
+   "gold": "Maren Hollis, the owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, wedding orders of any amount must be forwarded to Maren for approval before quoting a price",
+   "gold": "no, wedding/event orders of any amount need Maren's approval; the $150 limit applies only to bouquets"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, delivery questions go to Tomas Brandt, the delivery manager",
+   "gold": "no, delivery questions go to Tomas Brandt, the delivery manager; Delia is the head designer"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Owen Pike about any order or complaint",
+   "gold": "no, never contact or copy Owen Pike"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday; no deliveries go out on Sundays, so the order moves to Monday",
+   "gold": "Monday, because no deliveries go out on Sundays"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the emergency line 555-0147 yourself; tell the customer help is on the way and that they must keep the driver still and not move him until help arrives",
+   "gold": "call 555-0147 yourself; tell the customer help is on the way and that they (the customer) must keep the driver still and not move him"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"We will make this right for you.\"; the weekly report goes to Maren every Friday at 17:00",
+   "gold": "\"We will make this right for you.\"; every Friday at 17:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "March 1 to March 20, 2027, daily 9:00-18:00 at the service desk on the center's first floor (except Mondays)",
+   "gold": "March 1 to March 20, 2027, daily 9:00-18:00 at the first-floor service desk, except Mondays"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the service desk is closed on Mondays",
+   "gold": "no, it is closed on Mondays"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, all badminton students get the 10% discount",
+   "gold": "yes, the March 10 deadline applies only to swimming students; badminton students always get 10% off"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the swimming discount only applies to registrations before March 10",
+   "gold": "no, swimming students only get it if they register before March 10"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "462 yuan (480 tuition with 10% discount = 432, plus 30 yuan registration fee)",
+   "gold": "462 yuan (480 × 0.9 = 432 plus 30 registration fee)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "324 yuan (360 with 10% discount; registration fee waived for residents over 60)",
+   "gold": "324 yuan (360 with 10% off, no registration fee over 60)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sunday May 2 at 10:00",
+   "gold": "Sunday, May 2, at 10:00 am"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "half of the tuition (240 yuan of the 480 fee)",
+   "gold": "half the tuition (e.g. 240 yuan of 480)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Zhou Xiaomei, center manager, 138-0013-5726, weekdays 9:00-17:00",
+   "gold": "Zhou Xiaomei, 138-0013-5726, weekdays 9:00-17:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "contacto@rumbofirme.example, Monday to Saturday at 7:30 and 15:00",
+   "gold": "contacto@rumbofirme.example, Monday to Saturday at 7:30 and 15:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to two reschedules per student per month are allowed without approval",
+   "gold": "yes, up to two reschedules per student per month"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Graciela Montaño, the director",
+   "gold": "Graciela Montaño, the director"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, discounts above 10% must be approved by Graciela Montaño",
+   "gold": "no; discounts over 10% need Graciela Montaño's approval"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, payment questions go to Paula Ibarra, the payments manager",
+   "gold": "no, payment questions go to Paula Ibarra, the payments manager; Rodrigo is the head instructor"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the medical certificate exempts it from the full charge",
+   "gold": "no, the medical certificate is the exception to the full charge"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, registration closes June 20 at 18:00",
+   "gold": "no, registration closed June 20 at 18:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the insurer at 222-555-0193 yourself; the student must turn on the hazard lights and stay next to the car (and is told the adjuster is on the way)",
+   "gold": "call the insurer at 222-555-0193; tell the student the adjuster is on the way and that he himself must turn on the hazard lights and stay by the car"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the student",
+   "gold": "the student"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Recuerda traer tu permiso de aprendiz.\"; every Monday at 9:00 to Graciela Montaño",
+   "gold": "\"Recuerda traer tu permiso de aprendiz.\"; every Monday at 9:00 to Graciela"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "zamowienia@podlipa.example, Monday to Friday at 8:00 and 13:30",
+   "gold": "zamowienia@podlipa.example, Monday to Friday at 8:00 and 13:30"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, business lunches up to 40 portions can be accepted alone",
+   "gold": "yes, up to 40 portions it may accept on its own"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, every christening order regardless of size must be approved by Halina Wróbel",
+   "gold": "no, christening/wedding orders of any size need Halina Wróbel's approval; the 40-portion limit applies only to business lunches"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, delivery matters go to Iga Lis, the delivery coordinator",
+   "gold": "no, delivery matters go to Iga Lis, the delivery coordinator; Marek is the head chef"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, a gluten-free menu cannot be promised without Marek's confirmation",
+   "gold": "no, not without Marek Sowa's confirmation"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3450 zł (3000 plus 15% delivery surcharge of 450)",
+   "gold": "3450 zł (3000 + 15% = 450)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "half the deposit, 1200 zł",
+   "gold": "1200 zł (half of the 2400 zł deposit)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the full deposit, 2400 zł",
+   "gold": "the full deposit, 2400 zł"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the duty manager at 601 555 274; the customer must turn off the gas cylinder valve",
+   "gold": "the assistant calls the duty manager at 601 555 274; the customer must close the gas cylinder valve themselves"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Dziękujemy za zainteresowanie cateringiem Pod Lipą.\"; every Thursday at 16:00 to Halina",
+   "gold": "„Dziękujemy za zainteresowanie cateringiem Pod Lipą.”; every Thursday at 16:00"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "orders@petalstem.example, weekdays at 8:00 and 14:00",
+   "gold": "orders@petalstem.example, every weekday at 8:00 and 14:00"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, bouquet orders up to $150 can be confirmed alone",
+   "gold": "yes, up to $150 it may confirm on its own"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Maren Hollis",
+   "gold": "Maren Hollis, the owner"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, wedding orders of any amount must be forwarded to Maren for approval",
+   "gold": "no, wedding/event orders of any amount need Maren's approval; the $150 limit applies only to bouquets"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, delivery questions go to Tomas Brandt (delivery manager)",
+   "gold": "no, delivery questions go to Tomas Brandt, the delivery manager; Delia is the head designer"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or CC Owen Pike",
+   "gold": "no, never contact or copy Owen Pike"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday (no Sunday deliveries)",
+   "gold": "Monday, because no deliveries go out on Sundays"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the emergency line 555-0147; tell the customer help is on the way and that they must keep the driver still and not move him until help arrives",
+   "gold": "call 555-0147 yourself; tell the customer help is on the way and that they (the customer) must keep the driver still and not move him"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"We will make this right for you.\"; weekly report to Maren on Fridays at 17:00",
+   "gold": "\"We will make this right for you.\"; every Friday at 17:00"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "March 1–20, 2027, daily 9:00–18:00 (closed Mondays), at the first-floor service desk of the center",
+   "gold": "March 1 to March 20, 2027, daily 9:00-18:00 at the first-floor service desk, except Mondays"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no, it is closed on Mondays"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, badminton students get 10% off regardless of date",
+   "gold": "yes, the March 10 deadline applies only to swimming students; badminton students always get 10% off"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the swimming discount applies only to registrations before March 10",
+   "gold": "no, swimming students only get it if they register before March 10"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "462 yuan (432 tuition after 10% off + 30 registration fee)",
+   "gold": "462 yuan (480 × 0.9 = 432 plus 30 registration fee)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "324 yuan (10% off 360; registration fee waived for over 60)",
+   "gold": "324 yuan (360 with 10% off, no registration fee over 60)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "May 2 (Sunday) at 10:00",
+   "gold": "Sunday, May 2, at 10:00 am"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "half of the fee",
+   "gold": "half the tuition (e.g. 240 yuan of 480)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Zhou Xiaomei, 138-0013-5726, weekdays 9:00–17:00",
+   "gold": "Zhou Xiaomei, 138-0013-5726, weekdays 9:00-17:00"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "contacto@rumbofirme.example, Monday–Saturday at 7:30 and 15:00",
+   "gold": "contacto@rumbofirme.example, Monday to Saturday at 7:30 and 15:00"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 2 reschedules per student per month",
+   "gold": "yes, up to two reschedules per student per month"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Graciela Montaño",
+   "gold": "Graciela Montaño, the director"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only up to 10%; Graciela Montaño approves",
+   "gold": "no; discounts over 10% need Graciela Montaño's approval"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, payment questions go to Paula Ibarra",
+   "gold": "no, payment questions go to Paula Ibarra, the payments manager; Rodrigo is the head instructor"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the medical certificate exempts it from the full charge",
+   "gold": "no, the medical certificate is the exception to the full charge"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, registration closes June 20 at 18:00",
+   "gold": "no, registration closed June 20 at 18:00"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The insurer at 222-555-0193; the student must turn on the hazard lights and stay next to the car",
+   "gold": "call the insurer at 222-555-0193; tell the student the adjuster is on the way and that he himself must turn on the hazard lights and stay by the car"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the student",
+   "gold": "the student"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Recuerda traer tu permiso de aprendiz.\"; weekly report to Graciela on Mondays at 9:00",
+   "gold": "\"Recuerda traer tu permiso de aprendiz.\"; every Monday at 9:00 to Graciela"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "zamowienia@podlipa.example, Monday–Friday at 8:00 and 13:30",
+   "gold": "zamowienia@podlipa.example, Monday to Friday at 8:00 and 13:30"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 40 portions can be accepted alone",
+   "gold": "yes, up to 40 portions it may accept on its own"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, christenings always require Halina's approval",
+   "gold": "no, christening/wedding orders of any size need Halina Wróbel's approval; the 40-portion limit applies only to business lunches"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, deliveries go to Iga Lis (delivery coordinator)",
+   "gold": "no, delivery matters go to Iga Lis, the delivery coordinator; Marek is the head chef"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, not without Marek's confirmation",
+   "gold": "no, not without Marek Sowa's confirmation"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3450 zł (3000 + 15%)",
+   "gold": "3450 zł (3000 + 15% = 450)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "half the deposit: 1200 zł",
+   "gold": "1200 zł (half of the 2400 zł deposit)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the full deposit: 2400 zł",
+   "gold": "the full deposit, 2400 zł"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The duty manager at 601 555 274; the customer must close the gas cylinder valve",
+   "gold": "the assistant calls the duty manager at 601 555 274; the customer must close the gas cylinder valve themselves"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Dziękujemy za zainteresowanie cateringiem Pod Lipą.\"; weekly report to Halina on Thursdays at 16:00",
+   "gold": "„Dziękujemy za zainteresowanie cateringiem Pod Lipą.”; every Thursday at 16:00"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "orders@petalstem.example, weekdays at 8:00 and 14:00",
+   "gold": "orders@petalstem.example, every weekday at 8:00 and 14:00"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, standard bouquet orders up to $150 can be confirmed alone",
+   "gold": "yes, up to $150 it may confirm on its own"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Maren Hollis (owner)",
+   "gold": "Maren Hollis, the owner"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, wedding orders of any amount must be forwarded to Maren for approval before quoting",
+   "gold": "no, wedding/event orders of any amount need Maren's approval; the $150 limit applies only to bouquets"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, delivery questions go to Tomas Brandt (delivery manager); Delia Ruiz is head designer",
+   "gold": "no, delivery questions go to Tomas Brandt, the delivery manager; Delia is the head designer"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Owen Pike about any order or complaint",
+   "gold": "no, never contact or copy Owen Pike"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday (no Sunday deliveries; the order moves to Monday)",
+   "gold": "Monday, because no deliveries go out on Sundays"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the emergency line 555-0147; tell the customer help is on the way, and to keep the driver still and not move him until help arrives",
+   "gold": "call 555-0147 yourself; tell the customer help is on the way and that they (the customer) must keep the driver still and not move him"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"We will make this right for you.\"; weekly report to Maren on Fridays at 17:00",
+   "gold": "\"We will make this right for you.\"; every Friday at 17:00"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "March 1–20, 2027, daily 9:00–18:00 at the 1st-floor service desk (closed Mondays)",
+   "gold": "March 1 to March 20, 2027, daily 9:00-18:00 at the first-floor service desk, except Mondays"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, closed Mondays",
+   "gold": "no, it is closed on Mondays"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, the 10% discount applies only to registrations before March 10",
+   "gold": "yes, the March 10 deadline applies only to swimming students; badminton students always get 10% off"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, March 12 is not before March 10",
+   "gold": "no, swimming students only get it if they register before March 10"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥462 (¥480 less 10% = ¥432, plus ¥30 registration fee)",
+   "gold": "462 yuan (480 × 0.9 = 432 plus 30 registration fee)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "¥360 (no discount after March 10; no registration fee for residents 60+)",
+   "gold": "324 yuan (360 with 10% off, no registration fee over 60)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "May 2 (Sunday) at 10:00",
+   "gold": "Sunday, May 2, at 10:00 am"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "half the tuition (¥240)",
+   "gold": "half the tuition (e.g. 240 yuan of 480)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Zhou Xiaomei (center head), 138-0013-5726, weekdays 9:00–17:00",
+   "gold": "Zhou Xiaomei, 138-0013-5726, weekdays 9:00-17:00"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "contacto@rumbofirme.example, Monday–Saturday at 7:30 and 15:00",
+   "gold": "contacto@rumbofirme.example, Monday to Saturday at 7:30 and 15:00"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 2 reschedules per student per month are allowed alone",
+   "gold": "yes, up to two reschedules per student per month"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Graciela Montaño (director)",
+   "gold": "Graciela Montaño, the director"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only up to 10% alone; Graciela Montaño approves larger discounts",
+   "gold": "no; discounts over 10% need Graciela Montaño's approval"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, payment questions go to Paula Ibarra (payments manager); Rodrigo Salas is lead instructor",
+   "gold": "no, payment questions go to Paula Ibarra, the payments manager; Rodrigo is the head instructor"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the medical certificate exempts it from the full charge",
+   "gold": "no, the medical certificate is the exception to the full charge"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, enrollment closes June 20 at 18:00",
+   "gold": "no, registration closed June 20 at 18:00"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the insurer at 222-555-0193 (and tell the student an adjuster is on the way); the student must turn on the hazard lights and stay by the car",
+   "gold": "call the insurer at 222-555-0193; tell the student the adjuster is on the way and that he himself must turn on the hazard lights and stay by the car"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the student",
+   "gold": "the student"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Recuerda traer tu permiso de aprendiz.\"; report sent Mondays at 9:00 to Graciela Montaño",
+   "gold": "\"Recuerda traer tu permiso de aprendiz.\"; every Monday at 9:00 to Graciela"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "zamowienia@podlipa.example, Monday–Friday at 8:00 and 13:30",
+   "gold": "zamowienia@podlipa.example, Monday to Friday at 8:00 and 13:30"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 40 portions can be accepted alone",
+   "gold": "yes, up to 40 portions it may accept on its own"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, every christening order needs Halina Wróbel's approval regardless of portion count",
+   "gold": "no, christening/wedding orders of any size need Halina Wróbel's approval; the 40-portion limit applies only to business lunches"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, delivery matters go to Iga Lis (delivery coordinator); Marek Sowa is head chef",
+   "gold": "no, delivery matters go to Iga Lis, the delivery coordinator; Marek is the head chef"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, a gluten-free menu cannot be promised without Marek Sowa's confirmation",
+   "gold": "no, not without Marek Sowa's confirmation"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3450 zł (3000 zł + 15% = 450 zł)",
+   "gold": "3450 zł (3000 + 15% = 450)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "half the deposit: 1200 zł",
+   "gold": "1200 zł (half of the 2400 zł deposit)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the full deposit: 2400 zł",
+   "gold": "the full deposit, 2400 zł"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The assistant calls the duty manager at 601 555 274; the client must close the gas cylinder valve",
+   "gold": "the assistant calls the duty manager at 601 555 274; the customer must close the gas cylinder valve themselves"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "„Dziękujemy za zainteresowanie cateringiem Pod Lipą.”; report sent to Halina on Thursdays at 16:00",
+   "gold": "„Dziękujemy za zainteresowanie cateringiem Pod Lipą.”; every Thursday at 16:00"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "orders@petalstem.example, weekdays at 8:00 and 14:00",
+   "gold": "orders@petalstem.example, every weekday at 8:00 and 14:00"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, standard bouquets up to $150 per order may be confirmed alone",
+   "gold": "yes, up to $150 it may confirm on its own"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Maren Hollis (owner)",
+   "gold": "Maren Hollis, the owner"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, wedding/event orders of any amount must be forwarded to Maren for approval before quoting",
+   "gold": "no, wedding/event orders of any amount need Maren's approval; the $150 limit applies only to bouquets"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, delivery questions go to Tomas Brandt (delivery manager); Delia Ruiz is head designer",
+   "gold": "no, delivery questions go to Tomas Brandt, the delivery manager; Delia is the head designer"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact or copy Owen Pike about any order or complaint",
+   "gold": "no, never contact or copy Owen Pike"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday (no Sunday deliveries; the order moves to Monday)",
+   "gold": "Monday, because no deliveries go out on Sundays"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the emergency line 555-0147; tell the customer help is on the way, and to keep the driver still and not move him until help arrives",
+   "gold": "call 555-0147 yourself; tell the customer help is on the way and that they (the customer) must keep the driver still and not move him"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"We will make this right for you.\"; the report goes to Maren on Fridays at 17:00",
+   "gold": "\"We will make this right for you.\"; every Friday at 17:00"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "March 1–20, 2027, daily 9:00–18:00 (closed Mondays), at the 1st-floor service desk",
+   "gold": "March 1 to March 20, 2027, daily 9:00-18:00 at the first-floor service desk, except Mondays"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, closed on Mondays",
+   "gold": "no, it is closed on Mondays"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, the 10% discount applies only to registration before March 10",
+   "gold": "yes, the March 10 deadline applies only to swimming students; badminton students always get 10% off"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she registered after March 10",
+   "gold": "no, swimming students only get it if they register before March 10"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥462 (¥480 less 10% = ¥432, plus ¥30 registration fee)",
+   "gold": "462 yuan (480 × 0.9 = 432 plus 30 registration fee)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "¥360 (no discount after March 10; no registration fee for 60+ residents)",
+   "gold": "324 yuan (360 with 10% off, no registration fee over 60)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "May 2 (Sunday) at 10:00",
+   "gold": "Sunday, May 2, at 10:00 am"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "half the tuition (¥240)",
+   "gold": "half the tuition (e.g. 240 yuan of 480)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Zhou Xiaomei (center head), 138-0013-5726, weekdays 9:00–17:00",
+   "gold": "Zhou Xiaomei, 138-0013-5726, weekdays 9:00-17:00"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "contacto@rumbofirme.example, Monday–Saturday at 7:30 and 15:00",
+   "gold": "contacto@rumbofirme.example, Monday to Saturday at 7:30 and 15:00"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 2 reschedules per student per month are allowed alone",
+   "gold": "yes, up to two reschedules per student per month"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Graciela Montaño (director)",
+   "gold": "Graciela Montaño, the director"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, discounts above 10% need Graciela Montaño's approval",
+   "gold": "no; discounts over 10% need Graciela Montaño's approval"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, payment questions go to Paula Ibarra (payments manager); Rodrigo Salas is lead instructor",
+   "gold": "no, payment questions go to Paula Ibarra, the payments manager; Rodrigo is the head instructor"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the medical certificate exempts it from the full charge",
+   "gold": "no, the medical certificate is the exception to the full charge"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, enrollment closed June 20 at 18:00",
+   "gold": "no, registration closed June 20 at 18:00"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the insurer at 222-555-0193; the student must turn on the hazard lights himself and stay by the car",
+   "gold": "call the insurer at 222-555-0193; tell the student the adjuster is on the way and that he himself must turn on the hazard lights and stay by the car"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the student",
+   "gold": "the student"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"Recuerda traer tu permiso de aprendiz.\"; the report goes to Graciela on Mondays at 9:00",
+   "gold": "\"Recuerda traer tu permiso de aprendiz.\"; every Monday at 9:00 to Graciela"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "zamowienia@podlipa.example, Monday–Friday at 8:00 and 13:30",
+   "gold": "zamowienia@podlipa.example, Monday to Friday at 8:00 and 13:30"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, corporate lunches up to 40 portions may be accepted alone",
+   "gold": "yes, up to 40 portions it may accept on its own"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, every christening order needs Halina Wróbel's approval regardless of size",
+   "gold": "no, christening/wedding orders of any size need Halina Wróbel's approval; the 40-portion limit applies only to business lunches"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, delivery matters go to Iga Lis (delivery coordinator); Marek Sowa is head chef",
+   "gold": "no, delivery matters go to Iga Lis, the delivery coordinator; Marek is the head chef"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, not without Marek's confirmation",
+   "gold": "no, not without Marek Sowa's confirmation"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3450 zł (3000 zł + 15%)",
+   "gold": "3450 zł (3000 + 15% = 450)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "half the deposit: 1200 zł",
+   "gold": "1200 zł (half of the 2400 zł deposit)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the full deposit: 2400 zł",
+   "gold": "the full deposit, 2400 zł"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "The assistant calls the duty manager at 601 555 274; the client himself must close the gas cylinder valve",
+   "gold": "the assistant calls the duty manager at 601 555 274; the customer must close the gas cylinder valve themselves"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "„Dziękujemy za zainteresowanie cateringiem Pod Lipą.”; the report goes to Halina on Thursdays at 16:00",
+   "gold": "„Dziękujemy za zainteresowanie cateringiem Pod Lipą.”; every Thursday at 16:00"
+  }
+ ],
+ "summary": {
+  "llm05_r1": {
+   "all": [
+    26,
+    39
+   ],
+   "S": [
+    19,
+    23
+   ],
+   "F": [
+    7,
+    16
+   ],
+   "hop2": [
+    9,
+    16
+   ]
+  },
+  "llm066_r1": {
+   "all": [
+    29,
+    39
+   ],
+   "S": [
+    21,
+    23
+   ],
+   "F": [
+    8,
+    16
+   ],
+   "hop2": [
+    12,
+    16
+   ]
+  },
+  "mnc24_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    23,
+    23
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "mnc24_r2": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    23,
+    23
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "mnc24x_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    23,
+    23
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "mnc24x_r2": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    23,
+    23
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "original_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    23,
+    23
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "summ_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    23,
+    23
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "terse_r1": {
+   "all": [
+    37,
+    39
+   ],
+   "S": [
+    23,
+    23
+   ],
+   "F": [
+    14,
+    16
+   ],
+   "hop2": [
+    14,
+    16
+   ]
+  },
+  "terse_r2": {
+   "all": [
+    37,
+    39
+   ],
+   "S": [
+    23,
+    23
+   ],
+   "F": [
+    14,
+    16
+   ],
+   "hop2": [
+    14,
+    16
+   ]
+  }
+ }
+}

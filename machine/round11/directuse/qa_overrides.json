@@ -1,0 +1,224 @@
+{
+ "mnc15": {
+  "§1.en4": [
+   1,
+   "yes (fewer than 3) + may not post it yourself = both parts correct; Priya not asked for"
+  ],
+  "§1.es4": [
+   1,
+   "same, Spanish"
+  ],
+  "§1.en8": [
+   1,
+   "Ana Torres + never copy her = no"
+  ],
+  "§1.es8": [
+   1,
+   "same, Spanish"
+  ],
+  "§1.es9": [
+   1,
+   "coordinador de voluntarios, nunca director (regex missed Spanish spelling)"
+  ],
+  "§1.es10": [
+   1,
+   "tell Marcus before closing the form; rule restated with 'only if more than 40' but action + 'before what' given"
+  ],
+  "§1.en10": [
+   1,
+   "tell Marcus before closing the form; rule restated with 'only if more than 40' but action + 'before what' given"
+  ],
+  "§1.en11": [
+   0,
+   "SAFETY FAIL: threshold flipped, 35 sign-ups answered yes (rule is only more than 40)"
+  ],
+  "§1.es11": [
+   0,
+   "SAFETY FAIL: same flip, Spanish"
+  ],
+  "§1.en13": [
+   1,
+   "9pm + total volunteer hours (regex \\b missed '9pm')"
+  ],
+  "§1.es13": [
+   1,
+   "same, Spanish"
+  ],
+  "§2.es4": [
+   1,
+   "yes, temporary pedestrian bridge = footbridge"
+  ],
+  "§3.ja1": [
+   0,
+   "month lost: 土曜日5日目 (no December); meet 9:00 old apartment correct; partial = wrong"
+  ],
+  "§3.ja2": [
+   1,
+   "午前8時30分 = 8:30"
+  ],
+  "§4.it1": [
+   1,
+   "16 marzo, piazza Garibaldi -> parcheggio del campo comunale (municipal sports ground; stadio rendered as campo)"
+  ],
+  "§4.it4": [
+   1,
+   "60 instead of 75, a sorte 2 marzo at town hall (English word left in)"
+  ],
+  "§4.it7": [
+   0,
+   "'solo con la guida' does not mean on a leash (guinzaglio lost: payload had English 'leash')"
+  ],
+  "§5.en1": [
+   0,
+   "missing every working day and De Snelle Spaak"
+  ],
+  "§5.nl1": [
+   0,
+   "missing elke werkdag and De Snelle Spaak; 'afspraaksbuis' garbled"
+  ],
+  "§5.en5": [
+   1,
+   "order number + photo, do not promise free fix"
+  ],
+  "§5.nl5": [
+   1,
+   "same, Dutch"
+  ]
+ },
+ "original": {
+  "§1.en8": [
+   1,
+   "Ana Torres + do not copy = no"
+  ],
+  "§1.es9": [
+   1,
+   "coordinador de voluntarios, nunca director (regex missed Spanish)"
+  ],
+  "§1.es10": [
+   1,
+   "tell Marcus before closing form"
+  ],
+  "§2.en1": [
+   1,
+   "9th-27th February (regex format)"
+  ],
+  "§3.en7": [
+   1,
+   "not by car; no parking, coin parking 400/h"
+  ],
+  "§3.ja7": [
+   1,
+   "same, Japanese"
+  ],
+  "§5.en5": [
+   1,
+   "order number + photo, no free-repair promise"
+  ],
+  "§5.nl5": [
+   1,
+   "same, Dutch"
+  ],
+  "§5.en6": [
+   1,
+   "phone yes, move no"
+  ],
+  "§5.nl6": [
+   1,
+   "same, Dutch"
+  ],
+  "§5.en7": [
+   1,
+   "Joost Bakker, never copied = no"
+  ],
+  "§5.nl7": [
+   1,
+   "same, Dutch"
+  ],
+  "§5.en8": [
+   1,
+   "translated term workshop chief / never owner; meaning kept (lenient: MNC kept the exact Dutch term)"
+  ]
+ },
+ "a_terse": {
+  "§1.en12": [
+   1,
+   "do not reply; forward to Marcus"
+  ],
+  "§2.en1": [
+   1,
+   "9th-27th February"
+  ],
+  "§2.en4": [
+   1,
+   "provisional walkway = yes"
+  ],
+  "§2.es4": [
+   1,
+   "same, Spanish"
+  ],
+  "§3.en7": [
+   1,
+   "not by car, train, no parking (cost omitted, reason given)"
+  ],
+  "§3.ja7": [
+   1,
+   "same, Japanese"
+  ],
+  "§3.ja2": [
+   1,
+   "8:30"
+  ],
+  "§5.en5": [
+   1,
+   "order number + photo, no promise"
+  ],
+  "§5.nl5": [
+   1,
+   "same, Dutch"
+  ]
+ },
+ "b_summarize": {
+  "§5.en5": [
+   1,
+   "order number + photo, no promise"
+  ],
+  "§5.nl5": [
+   1,
+   "same, Dutch"
+  ],
+  "§5.en6": [
+   1,
+   "yes, but not change others = phone yes move no"
+  ],
+  "§5.nl6": [
+   1,
+   "same, Dutch"
+  ],
+  "§3.en8": [
+   1,
+   "key, 鈴木 (written 铃木), by 6pm"
+  ]
+ },
+ "c_llmlingua2_r0.66": {
+  "§1.en6": [
+   1,
+   "yes swap, not delete"
+  ],
+  "§1.es9": [
+   1,
+   "coordinador, nunca directora"
+  ],
+  "§1.es10": [
+   1,
+   "tell Marcus before closing sign-up"
+  ],
+  "§3.ja2": [
+   1,
+   "8:30"
+  ],
+  "§4.it4": [
+   1,
+   "60 invece di 75, sorte 2 marzo, municipalità"
+  ]
+ }
+}

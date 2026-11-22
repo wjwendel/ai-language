@@ -1,0 +1,3786 @@
+{
+ "rows": [
+  {
+   "f": "llm05_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, repair orders up to $900 can be confirmed",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, roof replacement quotes need approval from Dana Okafor",
+   "gold": "no; replacement quotes always need Dana Okafor's approval"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dana Okafor, the operations manager (not the owner)",
+   "gold": "Dana Okafor, the operations manager"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes, the text says to copy Marcus Bell (owner) on complaints",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "forward it to Dana, since it is less than 24 hours before the appointment (22 hours)",
+   "gold": "forward the request to Dana Okafor (it arrived less than 24 hours before the visit)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, max 4 inspections per day; the fifth request waits for the next day",
+   "gold": "no; it must wait for the next day's list"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call crew at 555-0148 and tell the customer the crew is coming and to switch off the electricity",
+   "gold": "call the on-call crew yourself at 555-0148; tell the customer a crew is on the way; tell the customer to switch off the electricity to that room at the breaker themselves"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer (the text only says 'crew switch off electricity'; breaker not stated)",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated exactly; the quote email must end saying the quote is valid for 30 days",
+   "gold": "\"This quote is valid for 30 days from today.\""
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by Thursday 17:00",
+   "gold": "by Thursday at 17:00 of that week"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "December 5 (Saturday); items may be put out from December 4 at 8 pm, with a morning cutoff on the 5th (exact time not stated)",
+   "gold": "December 5 (Saturday), 7:00 to 10:00 am"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, chairs are collected free",
+   "gold": "yes; all chairs are collected free (the date limit applies only to mattresses)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated (text only mentions 2016 for mattresses, without saying before or after)",
+   "gold": "no; only mattresses made before 2016 are free"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated (text only mentions 2016 for mattresses, without saying before or after)",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "16,000 won (3-seat sofa 12,000 + wardrobe 4,000; per-door pricing not stated)",
+   "gold": "24,000 won"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, appliances like refrigerators go to the waste appliance pickup center (080-555-0419)",
+   "gold": "no; appliances are excluded and must be booked separately with the appliance pickup center at 080-555-0419"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, items may be put out from December 4 at 8 pm",
+   "gold": "yes; items may not be put out before 8 pm on December 4"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "November 30 to December 3, from the morning (start time not stated) until 6 pm",
+   "gold": "November 30 to December 3, 9 am to 6 pm, at the management office"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 2",
+   "gold": "December 2"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Park Ji-hyun (chief) at the management office, 031-555-0172",
+   "gold": "Park Ji-hyun (박지현), chief at the management office, 031-555-0172"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 12 windows can be scheduled",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, 13+ windows need approval from Chiara Bonetti, sales manager",
+   "gold": "no; it needs approval from Chiara Bonetti, the sales manager (responsabile commerciale)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, shops need a quote approved by Chiara Bonetti (sales manager)",
+   "gold": "no; shop quotes always need approval, approver not stated"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Giulia Rota",
+   "gold": "Giulia Rota"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, do not copy Giulia Rota on complaint emails",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "20 euros (December cancellations are not free)",
+   "gold": "20 euros (December exception)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, cancellations at least 48 hours before are free (except in December)",
+   "gold": "no; it is free (more than 48 hours ahead, not December)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the glazier at 035 555 0261 and tell the customer to keep children and animals away",
+   "gold": "call the on-call glazier yourself at 035 555 0261; tell the customer the glazier is coming; tell the customer to keep children and pets away from the room themselves"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "position not stated; the sentence is: 'We apologize for the inconvenience, we are taking care of it right away'",
+   "gold": "start: \"Ci scusiamo per il disagio e ce ne occupiamo subito.\""
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, more than 6 visits per day require approval from Elin Sjöberg",
+   "gold": "no; it needs approval from Elin Sjöberg, the work supervisor"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 6 visits per day",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "580 kr (40% of 1,450 kr)",
+   "gold": "580 kr (40% of 1,450 kr)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing; illness with a doctor's certificate is exempt",
+   "gold": "nothing; the illness-with-certificate exception applies"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no fee (cancelled more than 24 hours before)",
+   "gold": "none; it is free"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes, the text says to contact Lindqvist about warranty matters",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Elin Sjöberg is the work supervisor; the owner is Johan Lindqvist",
+   "gold": "no; she is the work supervisor (arbetsledare); the owner is Johan Lindqvist"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "call the on-call technician (555 31 84; full number not shown) and tell the customer the technician is on the way and to turn off the heat pump",
+   "gold": "call the on-call technician yourself at 070-555 31 84; tell the customer a technician is on the way; tell the customer to switch off the heat pump with the safety switch themselves"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by the next weekday at 12:00 (Monday 12:00)",
+   "gold": "by Monday at 12:00 (next weekday)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, repair orders up to $900 can be confirmed by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, roof replacement quotes always need Dana Okafor's approval regardless of amount",
+   "gold": "no; replacement quotes always need Dana Okafor's approval"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dana Okafor, the operations manager",
+   "gold": "Dana Okafor, the operations manager"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never copy Marcus Bell on customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the request is less than 24 hours before the visit, so do not move it; forward it to Dana Okafor",
+   "gold": "forward the request to Dana Okafor (it arrived less than 24 hours before the visit)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the fifth or later request waits for the next day's list",
+   "gold": "no; it must wait for the next day's list"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call crew at 555-0148 and tell the customer the crew is on the way and to switch off the electricity at the breaker",
+   "gold": "call the on-call crew yourself at 555-0148; tell the customer a crew is on the way; tell the customer to switch off the electricity to that room at the breaker themselves"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"quote valid for 30 days from today.\"",
+   "gold": "\"This quote is valid for 30 days from today.\""
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by Thursday at 17:00 the same week",
+   "gold": "by Thursday at 17:00 of that week"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 5 (Saturday); items may be put out from 7:00 to 10:00 am",
+   "gold": "December 5 (Saturday), 7:00 to 10:00 am"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, chairs are collected free",
+   "gold": "yes; all chairs are collected free (the date limit applies only to mattresses)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only mattresses made before 2016 are free",
+   "gold": "no; only mattresses made before 2016 are free"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "16,000 won (3-seat sofa 12,000 + wardrobe 4,000)",
+   "gold": "24,000 won"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, refrigerators are not collected; apply separately to the appliance pickup center (080-555-0419)",
+   "gold": "no; appliances are excluded and must be booked separately with the appliance pickup center at 080-555-0419"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, items may not be put out before 8 pm on December 4, so 9 pm is allowed (with a sticker)",
+   "gold": "yes; items may not be put out before 8 pm on December 4"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "November 30 to December 3, from 9 am to 6 pm",
+   "gold": "November 30 to December 3, 9 am to 6 pm, at the management office"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 2",
+   "gold": "December 2"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Park Ji-hyun (management office), 031-555-0172, weekdays 9 am to 5 pm",
+   "gold": "Park Ji-hyun (박지현), chief at the management office, 031-555-0172"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, apartments up to 12 windows can be scheduled by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Chiara Bonetti (sales manager) must approve",
+   "gold": "no; it needs approval from Chiara Bonetti, the sales manager (responsabile commerciale)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, shops need an approved quote regardless of window count; the approver is not stated",
+   "gold": "no; shop quotes always need approval, approver not stated"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Giulia Rota",
+   "gold": "Giulia Rota"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never copy Giulia Rota on complaint emails",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "20 euros (December cancellations are charged)",
+   "gold": "20 euros (December exception)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, cancellations at least 48 hours before are free",
+   "gold": "no; it is free (more than 48 hours ahead, not December)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-duty glazier at 035 555 0261 and tell the customer the glazier is coming and to keep children and animals away from the room",
+   "gold": "call the on-call glazier yourself at 035 555 0261; tell the customer the glazier is coming; tell the customer to keep children and pets away from the room themselves"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "start with: \"Ci scusiamo per il disagio, ce ne occupiamo subito\"",
+   "gold": "start: \"Ci scusiamo per il disagio e ce ne occupiamo subito.\""
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, more than 6 visits per day require approval from Elin Sjöberg",
+   "gold": "no; it needs approval from Elin Sjöberg, the work supervisor"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 6 visits per day may be booked",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "580 kr (40% of 1,450 kr)",
+   "gold": "580 kr (40% of 1,450 kr)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing, illness with a doctor's certificate is exempt",
+   "gold": "nothing; the illness-with-certificate exception applies"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no fee, cancellations earlier than 24 hours are free",
+   "gold": "none; it is free"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact Johan Lindqvist about warranty matters",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is the work supervisor; the owner is Johan Lindqvist",
+   "gold": "no; she is the work supervisor (arbetsledare); the owner is Johan Lindqvist"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "call the on-call technician at 555 31 84 and tell the customer a technician is on the way and to switch off the heat pump at the safety switch",
+   "gold": "call the on-call technician yourself at 070-555 31 84; tell the customer a technician is on the way; tell the customer to switch off the heat pump with the safety switch themselves"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by the next weekday at 12:00, i.e. Monday at 12:00",
+   "gold": "by Monday at 12:00 (next weekday)"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, repair orders up to $900 may be confirmed by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, roof replacement quotes of any amount always need Dana Okafor's approval",
+   "gold": "no; replacement quotes always need Dana Okafor's approval"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dana Okafor, the operations manager",
+   "gold": "Dana Okafor, the operations manager"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never copy Marcus Bell on customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "forward it to Dana Okafor, since the request arrives less than 24 hours before the visit",
+   "gold": "forward the request to Dana Okafor (it arrived less than 24 hours before the visit)"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, a 5th request for the same day must wait for the next day's list",
+   "gold": "no; it must wait for the next day's list"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call crew at 555-0148 yourself; tell the customer the crew is on the way and they must switch off the electricity to that room at the breaker themselves",
+   "gold": "call the on-call crew yourself at 555-0148; tell the customer a crew is on the way; tell the customer to switch off the electricity to that room at the breaker themselves"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "This quote is valid for 30 days from today.",
+   "gold": "\"This quote is valid for 30 days from today.\""
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by Thursday 17:00 of that same week",
+   "gold": "by Thursday at 17:00 of that week"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturday December 5, 7:00-10:00; items may not be put out before December 4 at 20:00",
+   "gold": "December 5 (Saturday), 7:00 to 10:00 am"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, all chairs are free",
+   "gold": "yes; all chairs are collected free (the date limit applies only to mattresses)"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only mattresses made before 2016 are free; it needs a disposal sticker",
+   "gold": "no; only mattresses made before 2016 are free"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, mattresses made before 2016 are free",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "24,000 won (12,000 sofa + 3 x 4,000 wardrobe)",
+   "gold": "24,000 won"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, appliances like refrigerators are not part of this collection; apply separately to the appliance home-pickup center at 080-555-0419",
+   "gold": "no; appliances are excluded and must be booked separately with the appliance pickup center at 080-555-0419"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, it is after December 4 at 20:00 (with the disposal sticker attached)",
+   "gold": "yes; items may not be put out before 8 pm on December 4"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "November 30 to December 3, 9:00-18:00, at the management office",
+   "gold": "November 30 to December 3, 9 am to 6 pm, at the management office"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "by December 2",
+   "gold": "December 2"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Park Ji-hyeon (박지현 주임) at the management office, 031-555-0172 (weekdays 9:00-17:00)",
+   "gold": "Park Ji-hyun (박지현), chief at the management office, 031-555-0172"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, apartments with 12 or fewer windows may be scheduled by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Chiara Bonetti, the sales manager, must approve",
+   "gold": "no; it needs approval from Chiara Bonetti, the sales manager (responsabile commerciale)"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, every shop quote needs approval regardless of window count; the approver is not stated",
+   "gold": "no; shop quotes always need approval, approver not stated"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Giulia Rota",
+   "gold": "Giulia Rota"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never cc Giulia Rota on complaint emails",
+   "gold": "no"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "20€, every December cancellation costs 20€",
+   "gold": "20 euros (December exception)"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, cancellation at least 48 hours before the job is free",
+   "gold": "no; it is free (more than 48 hours ahead, not December)"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-duty glazier at 035 555 0261 yourself; tell the customer the glazier is on the way and they must keep children and animals away from the room themselves",
+   "gold": "call the on-call glazier yourself at 035 555 0261; tell the customer the glazier is coming; tell the customer to keep children and pets away from the room themselves"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "start, with: «Ci scusiamo per il disagio e ce ne occupiamo subito.»",
+   "gold": "start: \"Ci scusiamo per il disagio e ce ne occupiamo subito.\""
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, more than 6 visits a day needs approval from Elin Sjöberg, the work supervisor",
+   "gold": "no; it needs approval from Elin Sjöberg, the work supervisor"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 6 visits per day may be booked by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "580 kr (40% of 1,450 kr)",
+   "gold": "580 kr (40% of 1,450 kr)"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing, being sick with a doctor's certificate is the exception to the fee",
+   "gold": "nothing; the illness-with-certificate exception applies"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no fee, cancellations earlier than 24 hours before are free",
+   "gold": "none; it is free"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact Johan Lindqvist about warranty matters",
+   "gold": "no"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Elin Sjöberg is the work supervisor; Johan Lindqvist is the owner",
+   "gold": "no; she is the work supervisor (arbetsledare); the owner is Johan Lindqvist"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician at 070-555 31 84 yourself; tell the customer the technician is on the way and they must switch off the heat pump at the safety switch themselves",
+   "gold": "call the on-call technician yourself at 070-555 31 84; tell the customer a technician is on the way; tell the customer to switch off the heat pump with the safety switch themselves"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by Monday 12:00 (the next weekday)",
+   "gold": "by Monday at 12:00 (next weekday)"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; repair orders up to and including $900 may be confirmed by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; roof replacement quotes of any amount always need Dana Okafor's approval",
+   "gold": "no; replacement quotes always need Dana Okafor's approval"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dana Okafor, the operations manager",
+   "gold": "Dana Okafor, the operations manager"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never copy Marcus Bell on customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "forward it to Dana Okafor, since the request arrives less than 24h before the visit (22h)",
+   "gold": "forward the request to Dana Okafor (it arrived less than 24 hours before the visit)"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the 5th request for the same day must wait for the next day's list",
+   "gold": "no; it must wait for the next day's list"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call crew at 555-0148 yourself; tell the customer the crew is on the way and they must switch off the electricity to that room at the breaker themselves",
+   "gold": "call the on-call crew yourself at 555-0148; tell the customer a crew is on the way; tell the customer to switch off the electricity to that room at the breaker themselves"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "This quote is valid for 30 days from today.",
+   "gold": "\"This quote is valid for 30 days from today.\""
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by Thursday 17:00 of the same week",
+   "gold": "by Thursday at 17:00 of that week"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturday December 5, 7:00-10:00, in the ground parking lot between buildings 102 and 105; items may be put out no earlier than December 4 at 20:00",
+   "gold": "December 5 (Saturday), 7:00 to 10:00 am"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; all chairs are free",
+   "gold": "yes; all chairs are collected free (the date limit applies only to mattresses)"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only mattresses made before 2016 are free, so it needs a disposal sticker",
+   "gold": "no; only mattresses made before 2016 are free"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; mattresses made before 2016 are free",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "24,000 won (12,000 for the 3-seat sofa + 3 x 4,000 for the wardrobe doors)",
+   "gold": "24,000 won"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; appliances like refrigerators are not in this collection; apply separately to the appliance home-pickup center at 080-555-0419",
+   "gold": "no; appliances are excluded and must be booked separately with the appliance pickup center at 080-555-0419"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; items may be put out from December 4 at 20:00, but it needs a disposal sticker attached",
+   "gold": "yes; items may not be put out before 8 pm on December 4"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "November 30 to December 3, 9:00-18:00, at the management office",
+   "gold": "November 30 to December 3, 9 am to 6 pm, at the management office"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "by December 2",
+   "gold": "December 2"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Park Ji-hyun (박지현 주임) at the management office, 031-555-0172, weekdays 9:00-17:00",
+   "gold": "Park Ji-hyun (박지현), chief at the management office, 031-555-0172"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; apartments with up to 12 windows may be scheduled by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Chiara Bonetti, the sales manager, must approve",
+   "gold": "no; it needs approval from Chiara Bonetti, the sales manager (responsabile commerciale)"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; every shop quote always needs approval, but the approver is not stated",
+   "gold": "no; shop quotes always need approval, approver not stated"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Giulia Rota",
+   "gold": "Giulia Rota"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never cc Giulia Rota on complaint emails",
+   "gold": "no"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "20 euros; every cancellation in December costs 20 euros",
+   "gold": "20 euros (December exception)"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; cancellations at least 48h before the job are free",
+   "gold": "no; it is free (more than 48 hours ahead, not December)"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-duty glazier at 035 555 0261 yourself; tell the customer the glazier is on the way and they must keep children and animals away from the room themselves",
+   "gold": "call the on-call glazier yourself at 035 555 0261; tell the customer the glazier is coming; tell the customer to keep children and pets away from the room themselves"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "start; «Ci scusiamo per il disagio e ce ne occupiamo subito.»",
+   "gold": "start: \"Ci scusiamo per il disagio e ce ne occupiamo subito.\""
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; more than 6 visits per day need approval from Elin Sjöberg, the work supervisor",
+   "gold": "no; it needs approval from Elin Sjöberg, the work supervisor"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; up to 6 visits per day may be booked by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "580 kr (40% of 1,450 kr)",
+   "gold": "580 kr (40% of 1,450 kr)"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing; sick customers with a doctor's certificate are exempt",
+   "gold": "nothing; the illness-with-certificate exception applies"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no fee; cancellations more than 24h before the visit are free",
+   "gold": "none; it is free"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact Johan Lindqvist about warranty matters",
+   "gold": "no"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Elin Sjöberg is the work supervisor, the owner is Johan Lindqvist",
+   "gold": "no; she is the work supervisor (arbetsledare); the owner is Johan Lindqvist"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician at 070-555 31 84 yourself; tell the customer the technician is on the way and they must switch off the heat pump at the safety switch themselves",
+   "gold": "call the on-call technician yourself at 070-555 31 84; tell the customer a technician is on the way; tell the customer to switch off the heat pump with the safety switch themselves"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by Monday 12:00 (next weekday)",
+   "gold": "by Monday at 12:00 (next weekday)"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, repair orders up to and including $900 may be confirmed by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, roof replacement quotes of any amount always need Dana Okafor's approval",
+   "gold": "no; replacement quotes always need Dana Okafor's approval"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dana Okafor, operations manager",
+   "gold": "Dana Okafor, the operations manager"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never copy Marcus Bell on customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "forward the request to Dana Okafor, since it arrives less than 24h before the visit (22h); do not just move it to the next free slot",
+   "gold": "forward the request to Dana Okafor (it arrived less than 24 hours before the visit)"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the 5th+ inspection on the same day must wait for the next day's list",
+   "gold": "no; it must wait for the next day's list"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call crew at 555-0148 yourself; tell the customer the crew is on the way and they must switch off the electricity to that room at the breaker themselves",
+   "gold": "call the on-call crew yourself at 555-0148; tell the customer a crew is on the way; tell the customer to switch off the electricity to that room at the breaker themselves"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "This quote is valid for 30 days from today.",
+   "gold": "\"This quote is valid for 30 days from today.\""
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by Thursday 17:00 of that same week",
+   "gold": "by Thursday at 17:00 of that week"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturday December 5, 7:00-10:00, in the ground lot between buildings 102 and 105; items may be put out no earlier than December 4 at 20:00",
+   "gold": "December 5 (Saturday), 7:00 to 10:00 am"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, all chairs are free",
+   "gold": "yes; all chairs are collected free (the date limit applies only to mattresses)"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only mattresses made before 2016 are free; it needs a disposal sticker",
+   "gold": "no; only mattresses made before 2016 are free"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, mattresses made before 2016 are free",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "24,000 won (3-seat sofa 12,000 + wardrobe 3 doors x 4,000 = 12,000)",
+   "gold": "24,000 won"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, appliances like fridges are not in this collection; apply separately to the appliance home-pickup center at 080-555-0419",
+   "gold": "no; appliances are excluded and must be booked separately with the appliance pickup center at 080-555-0419"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, items may go out from December 4 at 20:00, but the sofa needs a prepaid disposal sticker attached (1-seat 6,000 won, 3-seat 12,000 won)",
+   "gold": "yes; items may not be put out before 8 pm on December 4"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "November 30 to December 3, 9:00-18:00, at the management office",
+   "gold": "November 30 to December 3, 9 am to 6 pm, at the management office"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "by December 2, at the management office",
+   "gold": "December 2"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Park Ji-hyeon (박지현 주임) at the management office, 031-555-0172, weekdays 9:00-17:00",
+   "gold": "Park Ji-hyun (박지현), chief at the management office, 031-555-0172"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, apartments with up to 12 windows may be scheduled by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, 13 or more windows needs approval of Chiara Bonetti, sales manager",
+   "gold": "no; it needs approval from Chiara Bonetti, the sales manager (responsabile commerciale)"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, every shop quote needs approval regardless of window count; the approver is not stated",
+   "gold": "no; shop quotes always need approval, approver not stated"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Giulia Rota",
+   "gold": "Giulia Rota"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never cc Giulia Rota on complaint emails",
+   "gold": "no"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "20 euros, since every December cancellation costs 20€",
+   "gold": "20 euros (December exception)"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, cancellation at least 48h before the job is free",
+   "gold": "no; it is free (more than 48 hours ahead, not December)"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-duty glazier at 035 555 0261 yourself; tell the customer the glazier is on the way and they must keep children and animals away from the room themselves",
+   "gold": "call the on-call glazier yourself at 035 555 0261; tell the customer the glazier is coming; tell the customer to keep children and pets away from the room themselves"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "start, with: «Ci scusiamo per il disagio e ce ne occupiamo subito.»",
+   "gold": "start: \"Ci scusiamo per il disagio e ce ne occupiamo subito.\""
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, more than 6 visits on the same day needs approval of Elin Sjöberg, work supervisor",
+   "gold": "no; it needs approval from Elin Sjöberg, the work supervisor"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 6 visits per day may be booked by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "580 kr (40% of 1,450 kr)",
+   "gold": "580 kr (40% of 1,450 kr)"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing, the sick-with-doctor's-certificate exception applies",
+   "gold": "nothing; the illness-with-certificate exception applies"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no fee, cancellations more than 24h before the visit are free",
+   "gold": "none; it is free"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact Johan Lindqvist about warranty matters",
+   "gold": "no"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is the work supervisor; Johan Lindqvist is the owner",
+   "gold": "no; she is the work supervisor (arbetsledare); the owner is Johan Lindqvist"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician at 070-555 31 84 yourself; tell the customer the technician is on the way and they must switch off the heat pump at the safety switch themselves",
+   "gold": "call the on-call technician yourself at 070-555 31 84; tell the customer a technician is on the way; tell the customer to switch off the heat pump with the safety switch themselves"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26x_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by the next weekday at 12:00, i.e. Monday 12:00",
+   "gold": "by Monday at 12:00 (next weekday)"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, repair orders up to and including $900 may be confirmed by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, roof replacement quotes of any amount always need Dana Okafor's approval",
+   "gold": "no; replacement quotes always need Dana Okafor's approval"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dana Okafor, operations manager",
+   "gold": "Dana Okafor, the operations manager"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never copy Marcus Bell on customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "forward it to Dana Okafor, since the request arrives less than 24h before the visit",
+   "gold": "forward the request to Dana Okafor (it arrived less than 24 hours before the visit)"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the 5th+ inspection the same day must wait for the next day's list",
+   "gold": "no; it must wait for the next day's list"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call crew at 555-0148 yourself; tell the customer the crew is on the way and they must switch off electricity to that room at the breaker themselves",
+   "gold": "call the on-call crew yourself at 555-0148; tell the customer a crew is on the way; tell the customer to switch off the electricity to that room at the breaker themselves"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "This quote is valid for 30 days from today.",
+   "gold": "\"This quote is valid for 30 days from today.\""
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by Thursday 17:00 of that week",
+   "gold": "by Thursday at 17:00 of that week"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturday December 5, 7:00-10:00; items may be put out no earlier than December 4 at 20:00",
+   "gold": "December 5 (Saturday), 7:00 to 10:00 am"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, all chairs are free",
+   "gold": "yes; all chairs are collected free (the date limit applies only to mattresses)"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only mattresses made before 2016 are free; it needs a disposal sticker",
+   "gold": "no; only mattresses made before 2016 are free"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, mattresses made before 2016 are free",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "24,000원 (12,000원 sofa + 3 x 4,000원 wardrobe)",
+   "gold": "24,000 won"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, appliances like fridges are not in this collection; apply separately to the appliance home-pickup center 080-555-0419",
+   "gold": "no; appliances are excluded and must be booked separately with the appliance pickup center at 080-555-0419"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, items may be put out from December 4 at 20:00, with a disposal sticker attached",
+   "gold": "yes; items may not be put out before 8 pm on December 4"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "November 30 to December 3, 9:00-18:00, at the 관리사무소",
+   "gold": "November 30 to December 3, 9 am to 6 pm, at the management office"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "by December 2",
+   "gold": "December 2"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "박지현 주임 at the 관리사무소, 031-555-0172 (weekdays 9-17h)",
+   "gold": "Park Ji-hyun (박지현), chief at the management office, 031-555-0172"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, apartments with up to 12 windows may be scheduled by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, 13+ windows need approval of Chiara Bonetti, sales manager",
+   "gold": "no; it needs approval from Chiara Bonetti, the sales manager (responsabile commerciale)"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, every shop quote needs approval; the approver is not stated",
+   "gold": "no; shop quotes always need approval, approver not stated"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Giulia Rota",
+   "gold": "Giulia Rota"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never cc Giulia Rota on complaint emails",
+   "gold": "no"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "20€, every cancellation in December costs 20€",
+   "gold": "20 euros (December exception)"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, cancellations at least 48h before the job are free",
+   "gold": "no; it is free (more than 48 hours ahead, not December)"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-duty glazier at 035 555 0261 yourself; tell the customer the glazier is on the way and they must keep children and animals away from the room themselves",
+   "gold": "call the on-call glazier yourself at 035 555 0261; tell the customer the glazier is coming; tell the customer to keep children and pets away from the room themselves"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "start: «Ci scusiamo per il disagio e ce ne occupiamo subito.»",
+   "gold": "start: \"Ci scusiamo per il disagio e ce ne occupiamo subito.\""
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, more than 6 visits the same day need approval of Elin Sjöberg, work supervisor",
+   "gold": "no; it needs approval from Elin Sjöberg, the work supervisor"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 6 visits per day may be booked by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "580 kr (40% of 1,450 kr)",
+   "gold": "580 kr (40% of 1,450 kr)"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing, the sick-with-doctor's-certificate exception applies",
+   "gold": "nothing; the illness-with-certificate exception applies"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no fee, cancellations earlier than 24h before are free",
+   "gold": "none; it is free"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact Johan Lindqvist about warranty matters",
+   "gold": "no"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Elin Sjöberg is the work supervisor; the owner is Johan Lindqvist",
+   "gold": "no; she is the work supervisor (arbetsledare); the owner is Johan Lindqvist"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician at 070-555 31 84 yourself; tell the customer the technician is on the way and they must switch off the heat pump at the safety switch themselves",
+   "gold": "call the on-call technician yourself at 070-555 31 84; tell the customer a technician is on the way; tell the customer to switch off the heat pump with the safety switch themselves"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc26x_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by Monday 12:00 (next weekday)",
+   "gold": "by Monday at 12:00 (next weekday)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; repair orders up to $900 may be confirmed by the assistant on its own",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; roof replacement quotes always need Dana Okafor's approval, regardless of amount",
+   "gold": "no; replacement quotes always need Dana Okafor's approval"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dana Okafor, the operations manager (not the owner)",
+   "gold": "Dana Okafor, the operations manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never copy Marcus Bell on customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "forward it to Dana Okafor, since the request arrives less than 24 hours before the visit (22 hours); do not move it to the next free slot",
+   "gold": "forward the request to Dana Okafor (it arrived less than 24 hours before the visit)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; a fifth request for the same day must wait for the next day's list",
+   "gold": "no; it must wait for the next day's list"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call crew yourself at 555-0148, then tell the customer a crew is on the way and that they must switch off the electricity to that room at the breaker themselves",
+   "gold": "call the on-call crew yourself at 555-0148; tell the customer a crew is on the way; tell the customer to switch off the electricity to that room at the breaker themselves"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"This quote is valid for 30 days from today.\"",
+   "gold": "\"This quote is valid for 30 days from today.\""
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by Thursday at 17:00 of that same week",
+   "gold": "by Thursday at 17:00 of that week"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturday, December 5; items may be put out from 7:00 am to 10:00 am",
+   "gold": "December 5 (Saturday), 7:00 to 10:00 am"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; all chairs are collected free",
+   "gold": "yes; all chairs are collected free (the date limit applies only to mattresses)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only mattresses made before 2016 are free, so it needs a purchased sticker (mattress sticker price not stated)",
+   "gold": "no; only mattresses made before 2016 are free"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; mattresses manufactured before 2016 are collected free",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "24,000 won (12,000 for the 3-seat sofa + 3 doors x 4,000 = 12,000 for the wardrobe)",
+   "gold": "24,000 won"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; appliances like refrigerators are excluded and must be booked separately with the appliance pickup center (080-555-0419)",
+   "gold": "no; appliances are excluded and must be booked separately with the appliance pickup center at 080-555-0419"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; items must not be put out before 8 pm on December 4, so 9 pm is allowed (with the required sticker attached)",
+   "gold": "yes; items may not be put out before 8 pm on December 4"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "November 30 to December 3, from 9 am to 6 pm, at the management office",
+   "gold": "November 30 to December 3, 9 am to 6 pm, at the management office"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "by December 2",
+   "gold": "December 2"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Park Ji-hyun (chief, management office), 031-555-0172, weekdays 9 am to 5 pm",
+   "gold": "Park Ji-hyun (박지현), chief at the management office, 031-555-0172"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; apartments up to 12 windows may be scheduled on its own",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; 13 or more windows need approval from Chiara Bonetti, the sales manager",
+   "gold": "no; it needs approval from Chiara Bonetti, the sales manager (responsabile commerciale)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no; shop quotes always need approval regardless of window count, from Chiara Bonetti (sales manager)",
+   "gold": "no; shop quotes always need approval, approver not stated"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Giulia Rota",
+   "gold": "Giulia Rota"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never copy Giulia Rota on complaint emails",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "20 euros; in December every cancellation costs 20 euros",
+   "gold": "20 euros (December exception)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; cancellations at least 48 hours before are free (outside December)",
+   "gold": "no; it is free (more than 48 hours ahead, not December)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-duty glazier yourself at 035 555 0261, then tell the customer the glazier is on the way and that they must keep children and animals away from the room themselves",
+   "gold": "call the on-call glazier yourself at 035 555 0261; tell the customer the glazier is coming; tell the customer to keep children and pets away from the room themselves"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "start; «Ci scusiamo per il disagio e ce ne occupiamo subito.»",
+   "gold": "start: \"Ci scusiamo per il disagio e ce ne occupiamo subito.\""
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; more than 6 visits per day requires approval from Elin Sjöberg (work supervisor)",
+   "gold": "no; it needs approval from Elin Sjöberg, the work supervisor"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; up to 6 visits per day may be booked on its own",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "580 kr (40% of the 1,450 kr visit price)",
+   "gold": "580 kr (40% of 1,450 kr)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing; the sick-with-doctor's-certificate exception waives the 40% fee",
+   "gold": "nothing; the illness-with-certificate exception applies"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no fee; cancellations earlier than 24 hours before are free",
+   "gold": "none; it is free"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact Johan Lindqvist about warranty matters",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Elin Sjöberg is the work supervisor, the owner is Johan Lindqvist",
+   "gold": "no; she is the work supervisor (arbetsledare); the owner is Johan Lindqvist"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician yourself at 070-555 31 84, then tell the customer a technician is on the way and that they must switch off the heat pump at the safety switch themselves",
+   "gold": "call the on-call technician yourself at 070-555 31 84; tell the customer a technician is on the way; tell the customer to switch off the heat pump with the safety switch themselves"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by the next weekday at 12:00, i.e. Monday at 12:00",
+   "gold": "by Monday at 12:00 (next weekday)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, repair orders up to and including $900 can be confirmed by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, roof replacement quotes always need Dana Okafor's approval, regardless of amount",
+   "gold": "no; replacement quotes always need Dana Okafor's approval"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dana Okafor, operations manager (not the owner)",
+   "gold": "Dana Okafor, the operations manager"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never CC Marcus Bell (owner) on customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the request is less than 24h before the visit (22h), so forward it to Dana Okafor instead of rescheduling",
+   "gold": "forward the request to Dana Okafor (it arrived less than 24 hours before the visit)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, a 5th same-day request goes on the next day's list",
+   "gold": "no; it must wait for the next day's list"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call crew yourself at 555-0148, then tell the customer the crew is on the way and that they must switch off that room's electricity at the breaker themselves",
+   "gold": "call the on-call crew yourself at 555-0148; tell the customer a crew is on the way; tell the customer to switch off the electricity to that room at the breaker themselves"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "This quote is valid for 30 days from today.",
+   "gold": "\"This quote is valid for 30 days from today.\""
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by Thursday 17:00 of that same week",
+   "gold": "by Thursday at 17:00 of that week"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Saturday 12/5, 07:00-10:00 (collection); items may not be put out before 12/4 20:00, so from 12/4 20:00 onward",
+   "gold": "December 5 (Saturday), 7:00 to 10:00 am"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, all chairs are free",
+   "gold": "yes; all chairs are collected free (the date limit applies only to mattresses)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only mattresses made before 2016 are free; it needs a prepaid sticker",
+   "gold": "no; only mattresses made before 2016 are free"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, mattresses made before 2016 are free (wrap it in plastic)",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "24,000 won (3-seat sofa 12,000 + 3 doors x 4,000); do not detach the doors",
+   "gold": "24,000 won"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, appliances like refrigerators are excluded; apply separately to the appliance pickup center (080-555-0419)",
+   "gold": "no; appliances are excluded and must be booked separately with the appliance pickup center at 080-555-0419"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, putting out after 12/4 20:00 is allowed, but it must have a prepaid sticker attached",
+   "gold": "yes; items may not be put out before 8 pm on December 4"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "11/30-12/3, 09:00-18:00, at the management office",
+   "gold": "November 30 to December 3, 9 am to 6 pm, at the management office"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 12/2 (apply at the management office)",
+   "gold": "December 2"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Park Ji-hyeon (주임), 031-555-0172, weekdays 09:00-17:00",
+   "gold": "Park Ji-hyun (박지현), chief at the management office, 031-555-0172"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 12 windows the assistant schedules on its own",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, 13 or more windows needs approval by Chiara Bonetti (sales manager, not owner)",
+   "gold": "no; it needs approval from Chiara Bonetti, the sales manager (responsabile commerciale)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, shop quotes always need approval regardless of window count, from Chiara Bonetti",
+   "gold": "no; shop quotes always need approval, approver not stated"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Giulia Rota",
+   "gold": "Giulia Rota"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the owner Giulia Rota is never copied on complaint emails",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "20 euros (every cancellation in December costs 20 euros)",
+   "gold": "20 euros (December exception)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is at least 48h before and not in December, so it is free",
+   "gold": "no; it is free (more than 48 hours ahead, not December)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-duty glazier yourself at 035 555 0261, then tell the customer the glazier is coming and that they must keep children and animals away from the room themselves",
+   "gold": "call the on-call glazier yourself at 035 555 0261; tell the customer the glazier is coming; tell the customer to keep children and pets away from the room themselves"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "start; «Ci scusiamo per il disagio e ce ne occupiamo subito.»",
+   "gold": "start: \"Ci scusiamo per il disagio e ce ne occupiamo subito.\""
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, a 7th visit needs approval from Elin Sjöberg (supervisor, not owner)",
+   "gold": "no; it needs approval from Elin Sjöberg, the work supervisor"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 6 visits per day can be booked by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "580 kr (40% of 1,450 kr)",
+   "gold": "580 kr (40% of 1,450 kr)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing; the fee is waived for illness with a doctor's certificate",
+   "gold": "nothing; the illness-with-certificate exception applies"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no fee; cancellation 24h or more before is free",
+   "gold": "none; it is free"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact the owner Johan Lindqvist about warranty matters",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is the work supervisor, not the owner (owner is Johan Lindqvist)",
+   "gold": "no; she is the work supervisor (arbetsledare); the owner is Johan Lindqvist"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician yourself at 070-555 31 84, then tell the customer a technician is on the way and that they must switch off the heat pump at the safety switch themselves",
+   "gold": "call the on-call technician yourself at 070-555 31 84; tell the customer a technician is on the way; tell the customer to switch off the heat pump with the safety switch themselves"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by the next working day 12:00, i.e. Monday 12:00",
+   "gold": "by Monday at 12:00 (next weekday)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, repair orders up to $900 may be confirmed alone",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, roof replacement quotes always need Dana Okafor's approval regardless of amount",
+   "gold": "no; replacement quotes always need Dana Okafor's approval"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dana Okafor, the operations manager",
+   "gold": "Dana Okafor, the operations manager"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never CC Marcus on customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "forward it to Dana Okafor, since it was received less than 24h before the visit",
+   "gold": "forward the request to Dana Okafor (it arrived less than 24 hours before the visit)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, max 4 per day; the 5th waits for the next day's list",
+   "gold": "no; it must wait for the next day's list"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call crew at 555-0148, tell the customer the crew is on the way, and tell the customer to switch off that room's electricity at the breaker themselves",
+   "gold": "call the on-call crew yourself at 555-0148; tell the customer a crew is on the way; tell the customer to switch off the electricity to that room at the breaker themselves"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "This quote is valid for 30 days from today.",
+   "gold": "\"This quote is valid for 30 days from today.\""
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by Thursday 17:00 of that week",
+   "gold": "by Thursday at 17:00 of that week"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "Saturday, December 5; items may be put out 7–10 AM",
+   "gold": "December 5 (Saturday), 7:00 to 10:00 am"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, all chairs are free",
+   "gold": "yes; all chairs are collected free (the date limit applies only to mattresses)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only mattresses made before 2016 are free",
+   "gold": "no; only mattresses made before 2016 are free"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, mattresses made before 2016 are free",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₩24,000 (₩12,000 sofa + ₩4,000 x 3 doors)",
+   "gold": "24,000 won"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, appliances are excluded; apply separately to the appliance pickup center at 080-555-0419",
+   "gold": "no; appliances are excluded and must be booked separately with the appliance pickup center at 080-555-0419"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, items may not go out before 8 PM on December 4, so 9 PM is allowed (with the required sticker)",
+   "gold": "yes; items may not be put out before 8 pm on December 4"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "November 30 to December 3, 9 AM to 6 PM, at the management office",
+   "gold": "November 30 to December 3, 9 am to 6 pm, at the management office"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "by December 2",
+   "gold": "December 2"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Supervisor Park Ji-hyun, management office, 031-555-0172 (weekdays 9 AM–5 PM)",
+   "gold": "Park Ji-hyun (박지현), chief at the management office, 031-555-0172"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, apartment jobs up to 12 windows may be booked alone",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, 13+ windows needs approval of Chiara Bonetti, the sales manager",
+   "gold": "no; it needs approval from Chiara Bonetti, the sales manager (responsabile commerciale)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "no, shop quotes always need approval; the approver is not stated (Chiara Bonetti approves 13+ apartment jobs)",
+   "gold": "no; shop quotes always need approval, approver not stated"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Giulia Rota",
+   "gold": "Giulia Rota"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never CC Giulia on complaint emails",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€20, every cancellation in December costs €20",
+   "gold": "20 euros (December exception)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, cancellation is free since it is at least 48h before the job",
+   "gold": "no; it is free (more than 48 hours ahead, not December)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-duty glazier at 035 555 0261, tell the customer the glazier is coming, and tell the customer to keep children and animals out of the room themselves",
+   "gold": "call the on-call glazier yourself at 035 555 0261; tell the customer the glazier is coming; tell the customer to keep children and pets away from the room themselves"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "start: «Ci scusiamo per il disagio e ce ne occupiamo subito.»",
+   "gold": "start: \"Ci scusiamo per il disagio e ce ne occupiamo subito.\""
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, more than 6 visits the same day needs approval of Elin Sjöberg, the work supervisor",
+   "gold": "no; it needs approval from Elin Sjöberg, the work supervisor"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 6 visits per day may be booked alone",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "580 SEK (40% of 1,450 SEK)",
+   "gold": "580 kr (40% of 1,450 kr)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing, the fee is waived when sick with a doctor's certificate",
+   "gold": "nothing; the illness-with-certificate exception applies"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no fee, cancellations 24h or more before are free",
+   "gold": "none; it is free"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact Johan on warranty matters",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Elin is the work supervisor; the owner is Johan Lindqvist",
+   "gold": "no; she is the work supervisor (arbetsledare); the owner is Johan Lindqvist"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician at 070-555 31 84, tell the customer the technician is on the way, and tell the customer to switch off the heat pump at the safety switch themselves",
+   "gold": "call the on-call technician yourself at 070-555 31 84; tell the customer a technician is on the way; tell the customer to switch off the heat pump with the safety switch themselves"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by Monday 12:00 (next weekday)",
+   "gold": "by Monday at 12:00 (next weekday)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; repair orders up to $900 may be confirmed alone",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; roof replacement quotes always need Dana Okafor's approval, whatever the amount",
+   "gold": "no; replacement quotes always need Dana Okafor's approval"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dana Okafor, the operations manager (not the owner)",
+   "gold": "Dana Okafor, the operations manager"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never CC Marcus Bell on customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "forward it to Dana Okafor, since the request came less than 24h before the visit (22h)",
+   "gold": "forward the request to Dana Okafor (it arrived less than 24 hours before the visit)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; max 4 inspections/day, so the 5th waits for the next day's list",
+   "gold": "no; it must wait for the next day's list"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call crew at 555-0148, tell the customer the crew is on the way, and tell the customer to switch off the bedroom's electricity at the breaker themselves",
+   "gold": "call the on-call crew yourself at 555-0148; tell the customer a crew is on the way; tell the customer to switch off the electricity to that room at the breaker themselves"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "This quote is valid for 30 days from today.",
+   "gold": "\"This quote is valid for 30 days from today.\""
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by Thursday 17:00 of the same week",
+   "gold": "by Thursday at 17:00 of that week"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "Saturday, December 5; items may be put out 7–10 AM",
+   "gold": "December 5 (Saturday), 7:00 to 10:00 am"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; all chairs are free",
+   "gold": "yes; all chairs are collected free (the date limit applies only to mattresses)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only mattresses made before 2016 are free",
+   "gold": "no; only mattresses made before 2016 are free"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; mattresses made before 2016 are free",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₩24,000 (₩12,000 sofa + 3 × ₩4,000 wardrobe)",
+   "gold": "24,000 won"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; appliances are excluded; apply separately to the appliance pickup center at 080-555-0419",
+   "gold": "no; appliances are excluded and must be booked separately with the appliance pickup center at 080-555-0419"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; items may not go out before 8 PM Dec 4, so 9 PM is allowed (sticker needed)",
+   "gold": "yes; items may not be put out before 8 pm on December 4"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Nov 30–Dec 3, 9 AM–6 PM, at the management office",
+   "gold": "November 30 to December 3, 9 am to 6 pm, at the management office"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "by December 2",
+   "gold": "December 2"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Supervisor Park Ji-hyun, 031-555-0172 (weekdays 9 AM–5 PM)",
+   "gold": "Park Ji-hyun (박지현), chief at the management office, 031-555-0172"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; apartment jobs up to 12 windows may be booked alone",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; 13+ windows needs approval from Chiara Bonetti, the sales manager",
+   "gold": "no; it needs approval from Chiara Bonetti, the sales manager (responsabile commerciale)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no; every shop quote needs Chiara Bonetti's approval, whatever the window count",
+   "gold": "no; shop quotes always need approval, approver not stated"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Giulia Rota",
+   "gold": "Giulia Rota"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never CC Giulia on complaint emails",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€20; every cancellation in December costs €20",
+   "gold": "20 euros (December exception)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the cancellation is ≥48h ahead and not in December, so it is free",
+   "gold": "no; it is free (more than 48 hours ahead, not December)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-duty glazier at 035 555 0261, tell the customer the glazier is coming, and tell the customer to keep children and animals out of the room themselves",
+   "gold": "call the on-call glazier yourself at 035 555 0261; tell the customer the glazier is coming; tell the customer to keep children and pets away from the room themselves"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "start; «Ci scusiamo per il disagio e ce ne occupiamo subito.»",
+   "gold": "start: \"Ci scusiamo per il disagio e ce ne occupiamo subito.\""
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; more than 6 visits/day needs approval from Elin Sjöberg",
+   "gold": "no; it needs approval from Elin Sjöberg, the work supervisor"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; up to 6 visits/day may be booked alone",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "580 SEK (40% of 1,450 SEK)",
+   "gold": "580 kr (40% of 1,450 kr)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing; sick with a doctor's certificate is exempt",
+   "gold": "nothing; the illness-with-certificate exception applies"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no fee; cancellations 24h or more ahead are free",
+   "gold": "none; it is free"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact Johan on warranty matters",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Elin is the work supervisor; the owner is Johan Lindqvist",
+   "gold": "no; she is the work supervisor (arbetsledare); the owner is Johan Lindqvist"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the on-call technician at 070-555 31 84, tell the customer the technician is on the way, and tell the customer to switch off the heat pump at the safety switch themselves",
+   "gold": "call the on-call technician yourself at 070-555 31 84; tell the customer a technician is on the way; tell the customer to switch off the heat pump with the safety switch themselves"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by Monday 12:00 (next weekday)",
+   "gold": "by Monday at 12:00 (next weekday)"
+  }
+ ],
+ "summary": {
+  "llm05_r1": {
+   "all": [
+    29,
+    40
+   ],
+   "S": [
+    24,
+    28
+   ],
+   "F": [
+    5,
+    12
+   ],
+   "hop2": [
+    11,
+    13
+   ]
+  },
+  "llm066_r1": {
+   "all": [
+    38,
+    40
+   ],
+   "S": [
+    27,
+    28
+   ],
+   "F": [
+    11,
+    12
+   ],
+   "hop2": [
+    12,
+    13
+   ]
+  },
+  "mnc26_r1": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    28,
+    28
+   ],
+   "F": [
+    12,
+    12
+   ],
+   "hop2": [
+    13,
+    13
+   ]
+  },
+  "mnc26_r2": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    28,
+    28
+   ],
+   "F": [
+    12,
+    12
+   ],
+   "hop2": [
+    13,
+    13
+   ]
+  },
+  "mnc26x_r1": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    28,
+    28
+   ],
+   "F": [
+    12,
+    12
+   ],
+   "hop2": [
+    13,
+    13
+   ]
+  },
+  "mnc26x_r2": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    28,
+    28
+   ],
+   "F": [
+    12,
+    12
+   ],
+   "hop2": [
+    13,
+    13
+   ]
+  },
+  "original_r1": {
+   "all": [
+    39,
+    40
+   ],
+   "S": [
+    27,
+    28
+   ],
+   "F": [
+    12,
+    12
+   ],
+   "hop2": [
+    12,
+    13
+   ]
+  },
+  "summ_r1": {
+   "all": [
+    39,
+    40
+   ],
+   "S": [
+    27,
+    28
+   ],
+   "F": [
+    12,
+    12
+   ],
+   "hop2": [
+    12,
+    13
+   ]
+  },
+  "terse_r1": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    28,
+    28
+   ],
+   "F": [
+    12,
+    12
+   ],
+   "hop2": [
+    13,
+    13
+   ]
+  },
+  "terse_r2": {
+   "all": [
+    39,
+    40
+   ],
+   "S": [
+    27,
+    28
+   ],
+   "F": [
+    12,
+    12
+   ],
+   "hop2": [
+    12,
+    13
+   ]
+  }
+ }
+}

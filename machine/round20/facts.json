@@ -1,0 +1,584 @@
+{
+ "written": "2026-11-17 from originals.txt before any round-20 encoding; sealed questions not opened",
+ "facts": [
+  {
+   "id": "P1.1",
+   "sec": 1,
+   "type": "F",
+   "text": "Northgate Community Theatre Columbus Ohio; Tue-Sun 10 a.m. and 5:30 p.m. Eastern check boxoffice@northgatetheatre.org",
+   "must": [
+    "Northgate",
+    "Columbus",
+    "Tue-Sun",
+    "(10 ?am|10:00)",
+    "(5:30 ?pm|17:30)",
+    "(ET|Eastern)",
+    "boxoffice@northgatetheatre\\.org"
+   ]
+  },
+  {
+   "id": "P1.2",
+   "sec": 1,
+   "type": "S",
+   "text": "may hold tickets alone up to 6 seats per performance; 7+ seats arranged by box office manager Renée Castillo",
+   "must": [
+    "may",
+    "hold",
+    "≤\\s*6 seats",
+    "performance",
+    "(≥\\s*7|7\\+)",
+    "Renée Castillo"
+   ]
+  },
+  {
+   "id": "P1.3",
+   "sec": 1,
+   "type": "S",
+   "text": "held tickets paid ≥72h before curtain or released; except school groups may pay at door",
+   "must": [
+    "paid",
+    "≥\\s*72\\s*h before curtain",
+    "releas",
+    "except",
+    "school group",
+    "door"
+   ]
+  },
+  {
+   "id": "P1.4",
+   "sec": 1,
+   "type": "S",
+   "text": "refunds only if requested >7 days before performance; never process refunds yourself; tell patron: email refunds@northgatetheatre.org; forward thread to Renée",
+   "must": [
+    "refund",
+    "only if",
+    ">\\s*7 days before",
+    "never process",
+    "tell patron\\s*:",
+    "refunds@northgatetheatre\\.org",
+    "forward",
+    "thread",
+    "Renée"
+   ]
+  },
+  {
+   "id": "P1.5",
+   "sec": 1,
+   "type": "S",
+   "text": "wheelchair spaces booked only for patrons who ask; never move a patron into one",
+   "must": [
+    "wheelchair",
+    "only",
+    "ask",
+    "never move"
+   ]
+  },
+  {
+   "id": "P1.6",
+   "sec": 1,
+   "type": "S",
+   "text": "latecomers seated only at intermission; except performances ≤90 min: usher may seat at first scene change",
+   "must": [
+    "latecomer",
+    "only",
+    "intermission",
+    "except",
+    "≤\\s*90\\s*min",
+    "usher",
+    "may",
+    "first scene change"
+   ]
+  },
+  {
+   "id": "P1.7",
+   "sec": 1,
+   "type": "S",
+   "text": "patron unwell: tell usher: bring them to lobby; call house manager Ben Adeyemi (614) 555-0176 yourself; then email Renée",
+   "must": [
+    "unwell",
+    "tell usher\\s*:",
+    "lobby",
+    "Ben Adeyemi",
+    "\\(614\\) 555-0176",
+    "yourself",
+    "then",
+    "email Renée"
+   ]
+  },
+  {
+   "id": "P1.8",
+   "sec": 1,
+   "type": "S",
+   "text": "Renée box office manager not artistic director; artistic director Gordon Faulk never contacted about ticketing",
+   "must": [
+    "Renée\\s*=",
+    "never \"?artistic director",
+    "Gordon Faulk",
+    "never contact",
+    "ticketing"
+   ]
+  },
+  {
+   "id": "P1.9",
+   "sec": 1,
+   "type": "S",
+   "text": "every confirmation email starts with \"Doors open 45 minutes before curtain.\"",
+   "must": [
+    "confirmation",
+    "start",
+    "\"Doors open 45 minutes before curtain\\.\""
+   ]
+  },
+  {
+   "id": "P1.10",
+   "sec": 1,
+   "type": "S",
+   "text": "send Renée weekly sales report by 4 p.m. every Monday",
+   "must": [
+    "weekly sales report",
+    "by (4 ?pm|16:00)",
+    "Mon"
+   ]
+  },
+  {
+   "id": "P2.1",
+   "sec": 2,
+   "type": "F",
+   "text": "Agriturismo Poggio dei Mandorli Montepulciano Siena; daily 8:30 and 19:00 check prenotazioni@poggiodeimandorli.it",
+   "must": [
+    "Poggio dei Mandorli",
+    "Montepulciano",
+    "Siena",
+    "daily",
+    "8:30",
+    "19:00",
+    "prenotazioni@poggiodeimandorli\\.it"
+   ]
+  },
+  {
+   "id": "P2.2",
+   "sec": 2,
+   "type": "S",
+   "text": "may confirm bookings alone up to 4 nights; more than 4 nights need reception manager Giulia Ferrante",
+   "must": [
+    "may",
+    "confirm",
+    "≤\\s*4 nights",
+    ">\\s*4 nights",
+    "Giulia Ferrante"
+   ]
+  },
+  {
+   "id": "P2.3",
+   "sec": 2,
+   "type": "S",
+   "text": "check-in 15:00-20:00; arriving after 20:00 guest must notify by 12:00 arrival day; then tell caretaker Sandro Bellini: leave keys in box",
+   "must": [
+    "check-in",
+    "15:00",
+    "20:00",
+    "after 20:00",
+    "guest",
+    "notify",
+    "by 12:00",
+    "arrival day",
+    "tell (caretaker )?(Sandro )?Bellini\\s*:|tell caretaker",
+    "Sandro Bellini",
+    "key",
+    "box"
+   ]
+  },
+  {
+   "id": "P2.4",
+   "sec": 2,
+   "type": "S",
+   "text": "pets only if <10 kg, €15/night supplement; guide dogs always allowed free",
+   "must": [
+    "pet",
+    "only",
+    "<\\s*10\\s*kg",
+    "€15",
+    "night",
+    "guide dog",
+    "always",
+    "free"
+   ]
+  },
+  {
+   "id": "P2.5",
+   "sec": 2,
+   "type": "S",
+   "text": "dinner €38/person; children under 12 half; dinner booking by 17:00 same day",
+   "must": [
+    "dinner",
+    "€38",
+    "(<\\s*12|under 12)",
+    "half",
+    "by 17:00",
+    "same day"
+   ]
+  },
+  {
+   "id": "P2.6",
+   "sec": 2,
+   "type": "S",
+   "text": "never send gate code by email; only Giulia sends it by SMS on arrival day",
+   "must": [
+    "never",
+    "gate code",
+    "e-?mail",
+    "only",
+    "Giulia",
+    "SMS",
+    "arrival day"
+   ]
+  },
+  {
+   "id": "P2.7",
+   "sec": 2,
+   "type": "S",
+   "text": "wasp sting with breathing difficulty: tell guest: call 112 immediately; then you call Giulia 333 555 0184",
+   "must": [
+    "wasp",
+    "breath",
+    "tell (guest|them)\\s*:",
+    "112",
+    "(immediately|now)",
+    "then",
+    "call Giulia",
+    "333 555 0184"
+   ]
+  },
+  {
+   "id": "P2.8",
+   "sec": 2,
+   "type": "S",
+   "text": "Giulia not owner; owner Lorenzo Vitale never cc on guest emails",
+   "must": [
+    "Giulia\\s*=|never \"?owner",
+    "Lorenzo Vitale",
+    "never cc"
+   ]
+  },
+  {
+   "id": "P2.9",
+   "sec": 2,
+   "type": "S",
+   "text": "every confirmation ends with exact sentence «La piscina chiude alle 19:30.»",
+   "must": [
+    "confirmation",
+    "end",
+    "La piscina chiude alle 19:30\\."
+   ]
+  },
+  {
+   "id": "P2.10",
+   "sec": 2,
+   "type": "S",
+   "text": "send Giulia weekend arrivals list by 18:00 every Thursday",
+   "must": [
+    "weekend",
+    "arrival",
+    "list",
+    "by 18:00",
+    "Thu"
+   ]
+  },
+  {
+   "id": "P3.1",
+   "sec": 3,
+   "type": "F",
+   "text": "Chengdu 青禾少儿编程中心; daily 9:00 and 20:00 check kefu@qinghecode.cn",
+   "must": [
+    "(Chengdu|成都)",
+    "青禾少儿编程中心",
+    "daily",
+    "9:00",
+    "20:00",
+    "kefu@qinghecode\\.cn"
+   ]
+  },
+  {
+   "id": "P3.2",
+   "sec": 3,
+   "type": "S",
+   "text": "may reschedule classes yourself max 2 per term; 3rd+ needs academic head 林嘉怡 approval",
+   "must": [
+    "may",
+    "reschedul",
+    "(≤|max)\\s*2",
+    "term",
+    "(3rd|third|≥\\s*3)",
+    "林嘉怡"
+   ]
+  },
+  {
+   "id": "P3.3",
+   "sec": 3,
+   "type": "S",
+   "text": "trial class 1 per child, ¥49",
+   "must": [
+    "trial",
+    "(1|once) per child",
+    "¥?49"
+   ]
+  },
+  {
+   "id": "P3.4",
+   "sec": 3,
+   "type": "S",
+   "text": "refund: ≤4 lessons attended full refund; >4 prorated by remaining lessons; refunds only by finance 周海明, not you; you only tell parent: fill refund form",
+   "must": [
+    "refund",
+    "≤\\s*4",
+    "full",
+    ">\\s*4",
+    "remaining",
+    "周海明",
+    "not (you|yourself)",
+    "tell parent\\s*:",
+    "refund (form|application)"
+   ]
+  },
+  {
+   "id": "P3.5",
+   "sec": 3,
+   "type": "S",
+   "text": "children under 8 must be picked up by registered parent in person; picker not on list: keep child in classroom, you call registered parent to confirm",
+   "must": [
+    "(<\\s*8|under 8)",
+    "registered parent",
+    "in person",
+    "not on (the )?list",
+    "(keep|stay)",
+    "classroom",
+    "call",
+    "confirm"
+   ]
+  },
+  {
+   "id": "P3.6",
+   "sec": 3,
+   "type": "S",
+   "text": "children 8+ may leave alone after parent signed 《自行离校同意书》",
+   "must": [
+    "(8\\+|8 years or older|≥\\s*8)",
+    "may",
+    "alone",
+    "sign",
+    "自行离校同意书"
+   ]
+  },
+  {
+   "id": "P3.7",
+   "sec": 3,
+   "type": "S",
+   "text": "never send other students names or photos to parents",
+   "must": [
+    "never",
+    "name",
+    "photo",
+    "other student"
+   ]
+  },
+  {
+   "id": "P3.8",
+   "sec": 3,
+   "type": "S",
+   "text": "nosebleed or injury in class: tell teacher: have child sit, not tilt head back; you call front desk first-aider 028-5550-3196; then call parent within 15 min",
+   "must": [
+    "(nosebleed|nose)",
+    "injur",
+    "tell teacher\\s*:",
+    "sit",
+    "(not|never|don.t) tilt",
+    "028-5550-3196",
+    "then",
+    "call parent",
+    "within 15\\s*min"
+   ]
+  },
+  {
+   "id": "P3.9",
+   "sec": 3,
+   "type": "S",
+   "text": "林嘉怡 academic head not principal; principal 王立新 never cc on parent emails except complaint escalation",
+   "must": [
+    "林嘉怡\\s*=",
+    "never \"?(principal|校长)",
+    "王立新",
+    "never cc",
+    "except",
+    "complaint"
+   ]
+  },
+  {
+   "id": "P3.10",
+   "sec": 3,
+   "type": "S",
+   "text": "all class reminder SMS end with exact \"请提前10分钟到校签到。\"",
+   "must": [
+    "reminder",
+    "end",
+    "请提前10分钟到校签到。"
+   ]
+  },
+  {
+   "id": "P3.11",
+   "sec": 3,
+   "type": "S",
+   "text": "every Friday before 17:00 send 林嘉怡 week absence list",
+   "must": [
+    "Fri",
+    "before 17:00",
+    "absen",
+    "list"
+   ]
+  },
+  {
+   "id": "P4.1",
+   "sec": 4,
+   "type": "F",
+   "text": "kayak rental Zielona Fala Augustów; daily 7:00 and 14:30 check rezerwacje@zielonafala.pl",
+   "must": [
+    "Zielona Fala",
+    "Augustów",
+    "daily",
+    "7:00",
+    "14:30",
+    "rezerwacje@zielonafala\\.pl"
+   ]
+  },
+  {
+   "id": "P4.2",
+   "sec": 4,
+   "type": "S",
+   "text": "may accept bookings alone up to 5 kayaks; >5 kayaks only base manager Agnieszka Wróbel approves",
+   "must": [
+    "may",
+    "≤\\s*5 kayak",
+    ">\\s*5 kayak",
+    "only",
+    "Agnieszka Wróbel"
+   ]
+  },
+  {
+   "id": "P4.3",
+   "sec": 4,
+   "type": "S",
+   "text": "double kayak 90 zł/day; from 3rd rental day 70 zł/day",
+   "must": [
+    "double",
+    "90 zł",
+    "day",
+    "(from )?3rd",
+    "70 zł"
+   ]
+  },
+  {
+   "id": "P4.4",
+   "sec": 4,
+   "type": "S",
+   "text": "children under 10 only with adult in double kayak; life jackets mandatory for everyone, no exceptions",
+   "must": [
+    "(<\\s*10|under 10)",
+    "only",
+    "adult",
+    "double",
+    "life jacket",
+    "(mandatory|required)",
+    "(everyone|all)",
+    "no exception"
+   ]
+  },
+  {
+   "id": "P4.5",
+   "sec": 4,
+   "type": "S",
+   "text": "kayaks returned by 19:00; each started hour late customer pays 20 zł",
+   "must": [
+    "return",
+    "by 19:00",
+    "(each|every) started hour",
+    "20 zł"
+   ]
+  },
+  {
+   "id": "P4.6",
+   "sec": 4,
+   "type": "S",
+   "text": "wind >40 km/h: you cancel all outings and refund full amount — only case you order refund in system yourself; other refunds Agnieszka",
+   "must": [
+    "wind",
+    ">\\s*40\\s*km/h",
+    "cancel all",
+    "full",
+    "only case",
+    "yourself",
+    "other refund",
+    "Agnieszka"
+   ]
+  },
+  {
+   "id": "P4.7",
+   "sec": 4,
+   "type": "S",
+   "text": "never give customers lifeguard phone number",
+   "must": [
+    "never",
+    "lifeguard",
+    "phone"
+   ]
+  },
+  {
+   "id": "P4.8",
+   "sec": 4,
+   "type": "S",
+   "text": "capsize reported: tell them: stay with kayak; call lifeguard Kamil Nowak 604 555 017 yourself; then write to Agnieszka",
+   "must": [
+    "capsiz",
+    "tell (them|reporter|caller)\\s*:",
+    "stay",
+    "kayak",
+    "Kamil Nowak",
+    "604 555 017",
+    "yourself",
+    "then",
+    "(write|message|text)"
+   ]
+  },
+  {
+   "id": "P4.9",
+   "sec": 4,
+   "type": "S",
+   "text": "Agnieszka base manager not owner; owner Ryszard Malinowski never cc on customer emails",
+   "must": [
+    "Agnieszka\\s*=|Wróbel\\s*=",
+    "never \"?owner",
+    "Ryszard Malinowski",
+    "never cc"
+   ]
+  },
+  {
+   "id": "P4.10",
+   "sec": 4,
+   "type": "S",
+   "text": "every confirmation contains exact sentence „Kamizelka musi być zapięta przez cały czas.”",
+   "must": [
+    "confirmation",
+    "Kamizelka musi być zapięta przez cały czas\\."
+   ]
+  },
+  {
+   "id": "P4.11",
+   "sec": 4,
+   "type": "S",
+   "text": "send Agnieszka daily report before 21:00",
+   "must": [
+    "daily report",
+    "before 21:00",
+    "Agnieszka"
+   ]
+  }
+ ]
+}

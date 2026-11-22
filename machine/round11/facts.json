@@ -1,0 +1,414 @@
+{
+ "schema": "[subject, relation, object, tag]; tags NEG/COND/PERM/ACT/DEADLINE/ID = instruction-safety facts (P1,P5)",
+ "written": "2026-11-14T01:06:24 (from originals, before MNC15 encoding, baselines review, QA or decode)",
+ "source_languages": {
+  "P1": "en",
+  "P2": "es",
+  "P3": "ja",
+  "P4": "it",
+  "P5": "nl"
+ },
+ "facts": {
+  "P1": [
+   [
+    "you",
+    "when",
+    "every Tuesday 7:30 p.m. Central",
+    "DEADLINE"
+   ],
+   [
+    "routine",
+    "is",
+    "weekly volunteer-shift routine, Eastside Food Pantry",
+    ""
+   ],
+   [
+    "you",
+    "open",
+    "Shifts sheet + Volunteers inbox",
+    "ACT"
+   ],
+   [
+    "you",
+    "each new sign-up",
+    "check name against Background Checks list, add to picked shift",
+    "ACT"
+   ],
+   [
+    "you",
+    "must never",
+    "confirm a volunteer whose background check is missing",
+    "NEG"
+   ],
+   [
+    "you",
+    "if check missing",
+    "send name to Marcus Bell, leave shift open",
+    "COND"
+   ],
+   [
+    "Marcus Bell",
+    "is",
+    "volunteer coordinator",
+    "ID"
+   ],
+   [
+    "shifts",
+    "fewer than 3 volunteers",
+    "need a reminder post",
+    "COND"
+   ],
+   [
+    "posting on pantry social accounts",
+    "only by",
+    "Priya Shah, communications",
+    "ACT"
+   ],
+   [
+    "you",
+    "reminder post",
+    "draft it, send to Priya, never post it yourself",
+    "NEG"
+   ],
+   [
+    "you",
+    "may",
+    "swap two volunteers if both agree in writing",
+    "PERM"
+   ],
+   [
+    "you",
+    "must not",
+    "delete anyone from the sheet",
+    "NEG"
+   ],
+   [
+    "volunteers under 16",
+    "may only",
+    "take Saturday shifts, with a parent listed on the form",
+    "COND"
+   ],
+   [
+    "Marcus",
+    "call",
+    "volunteer coordinator, never director",
+    "ID"
+   ],
+   [
+    "Ana Torres",
+    "is",
+    "director",
+    "ID"
+   ],
+   [
+    "you",
+    "must not",
+    "copy Ana on volunteer emails",
+    "NEG"
+   ],
+   [
+    "you",
+    "if more than 40 sign up for one Saturday",
+    "tell Marcus before closing the sign-up form",
+    "COND"
+   ],
+   [
+    "you",
+    "complaints about pantry rules",
+    "do not reply; forward to Marcus without answering",
+    "NEG"
+   ],
+   [
+    "you",
+    "finish by",
+    "9 p.m.",
+    "DEADLINE"
+   ],
+   [
+    "you",
+    "last Tuesday of each month",
+    "send Ana total volunteer hours",
+    "DEADLINE"
+   ]
+  ],
+  "P2": [
+   [
+    "Ayuntamiento de Valdecastro",
+    "closes to traffic",
+    "puente de San Telmo, 9-27 Feb",
+    ""
+   ],
+   [
+    "closure",
+    "reason",
+    "repair expansion joints",
+    ""
+   ],
+   [
+    "works",
+    "cost",
+    "~310,000 euros; Diputación pays 70%",
+    ""
+   ],
+   [
+    "bus line 4",
+    "detour",
+    "via avenida de los Olmos",
+    ""
+   ],
+   [
+    "plaza Mayor stop",
+    "moves to",
+    "calle Cervantes 18",
+    ""
+   ],
+   [
+    "pedestrians + bicycles",
+    "can cross",
+    "temporary footbridge",
+    ""
+   ],
+   [
+    "Lucía Ferrer, concejala de Obras",
+    "recalled",
+    "2023 north tunnel repair 3 weeks late due to rain",
+    ""
+   ],
+   [
+    "works",
+    "this time",
+    "night shifts (because of that delay)",
+    ""
+   ],
+   [
+    "barrio de la Ribera residents",
+    "park",
+    "free in municipal car park with resident card",
+    ""
+   ],
+   [
+    "ambulances",
+    "pass",
+    "at all times",
+    ""
+   ]
+  ],
+  "P3": [
+   [
+    "健太",
+    "moves",
+    "Sat Dec 5",
+    ""
+   ],
+   [
+    "helpers",
+    "meet",
+    "9 a.m. at old apartment",
+    ""
+   ],
+   [
+    "truck",
+    "comes",
+    "8:30",
+    ""
+   ],
+   [
+    "翔",
+    "arrives",
+    "~1 p.m. directly at new home (part-time job in morning)",
+    ""
+   ],
+   [
+    "健太",
+    "buys lunch",
+    "pizza",
+    ""
+   ],
+   [
+    "美咲",
+    "brings",
+    "20 cardboard boxes",
+    ""
+   ],
+   [
+    "new building",
+    "has",
+    "no elevator, so fridge by movers, extra 8,000 yen",
+    ""
+   ],
+   [
+    "parking",
+    "none; coin parking",
+    "400 yen/hour",
+    ""
+   ],
+   [
+    "helpers",
+    "come",
+    "by train, not by car",
+    ""
+   ],
+   [
+    "old apartment key",
+    "return to",
+    "landlord 鈴木, by 6 p.m.",
+    ""
+   ]
+  ],
+  "P4": [
+   [
+    "Thursday weekly market, Borgo San Michele",
+    "moves from 16 March",
+    "from piazza Garibaldi to stadio comunale car park",
+    ""
+   ],
+   [
+    "move",
+    "duration/reason",
+    "~4 months, square repaved",
+    ""
+   ],
+   [
+    "Marco Rinaldi, assessore al commercio",
+    "said",
+    "works cost 780,000 euros, half by Regione",
+    ""
+   ],
+   [
+    "stalls",
+    "number",
+    "60 instead of 75",
+    ""
+   ],
+   [
+    "places",
+    "assigned",
+    "by draw, 2 March, town hall",
+    ""
+   ],
+   [
+    "free shuttle",
+    "from station",
+    "every 20 min, 7-13",
+    ""
+   ],
+   [
+    "2021 Saturday market move",
+    "effect",
+    "sales -30% in first weeks",
+    ""
+   ],
+   [
+    "Comune",
+    "so",
+    "cuts occupancy tax 50% until July",
+    ""
+   ],
+   [
+    "dogs",
+    "allowed",
+    "only on leash",
+    ""
+   ]
+  ],
+  "P5": [
+   [
+    "you",
+    "when",
+    "every working day 9:00",
+    "DEADLINE"
+   ],
+   [
+    "you",
+    "open",
+    "appointment mailbox, bike shop De Snelle Spaak, Utrecht",
+    "ACT"
+   ],
+   [
+    "you",
+    "may",
+    "confirm ordinary maintenance appointments yourself if agenda slot free",
+    "PERM"
+   ],
+   [
+    "you",
+    "electric bikes",
+    "confirm nothing; forward to Femke de Vries, wait for her answer",
+    "NEG"
+   ],
+   [
+    "you",
+    "must never",
+    "give a price yourself",
+    "NEG"
+   ],
+   [
+    "prices",
+    "only by",
+    "Bram Visser, werkplaatschef",
+    "ACT"
+   ],
+   [
+    "you",
+    "if customer complains about repair",
+    "ask order number + photo, promise no free repair",
+    "COND"
+   ],
+   [
+    "you",
+    "may",
+    "fix misspelled phone number in agenda",
+    "PERM"
+   ],
+   [
+    "you",
+    "must not",
+    "move other customers' appointments",
+    "NEG"
+   ],
+   [
+    "Bram",
+    "call to customers",
+    "werkplaatschef, never eigenaar",
+    "ID"
+   ],
+   [
+    "Joost Bakker",
+    "is",
+    "owner (eigenaar)",
+    "ID"
+   ],
+   [
+    "you",
+    "must never",
+    "put Joost in copy on customer emails",
+    "NEG"
+   ],
+   [
+    "you",
+    "if more than 15 bikes waiting for repair",
+    "warn Bram",
+    "COND"
+   ],
+   [
+    "you",
+    "must never",
+    "send anything on Joost's behalf without his written approval",
+    "NEG"
+   ],
+   [
+    "you",
+    "before 16:30",
+    "send Femke overview of tomorrow's appointments",
+    "DEADLINE"
+   ]
+  ]
+ },
+ "counts": {
+  "P1": 20,
+  "P2": 10,
+  "P3": 10,
+  "P4": 9,
+  "P5": 15
+ }
+}

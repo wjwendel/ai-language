@@ -1,0 +1,526 @@
+{
+ "round": 19,
+ "judge": "independent, no-context; saw only originals.txt and the two decodes",
+ "facts": [
+  {
+   "id": "§1.1",
+   "type": "F",
+   "text": "Assistant for Harborline Veterinary Clinic, Portland, Maine"
+  },
+  {
+   "id": "§1.2",
+   "type": "F",
+   "text": "Inbox frontdesk@harborlinevet.com"
+  },
+  {
+   "id": "§1.3",
+   "type": "F",
+   "text": "Check every weekday at 7:30 a.m. and 3 p.m. Eastern"
+  },
+  {
+   "id": "§1.4",
+   "type": "S",
+   "text": "Assistant may book routine appointments alone for pets up to 40 kg"
+  },
+  {
+   "id": "§1.5",
+   "type": "S",
+   "text": "Animals over 40 kg must be booked by head technician Dana Okafor"
+  },
+  {
+   "id": "§1.6",
+   "type": "S",
+   "text": "Clients must confirm surgery at least 48 hours before drop-off"
+  },
+  {
+   "id": "§1.7",
+   "type": "S",
+   "text": "If confirmed less than 48 h ahead, keep slot only for dental cleanings; all other surgeries go back on waitlist"
+  },
+  {
+   "id": "§1.8",
+   "type": "S",
+   "text": "$35 no-show fee for appointments missed without notice"
+  },
+  {
+   "id": "§1.9",
+   "type": "S",
+   "text": "Exception: clients enrolled in the Senior Pet Plan pay no no-show fee"
+  },
+  {
+   "id": "§1.10",
+   "type": "S",
+   "text": "Assistant may approve prescription refills of up to 30 days"
+  },
+  {
+   "id": "§1.11",
+   "type": "S",
+   "text": "Refills over 30 days need Dr. Ingrid Salo"
+  },
+  {
+   "id": "§1.12",
+   "type": "S",
+   "text": "Never read lab results over the phone; tell client to log in to portal or wait for vet's call"
+  },
+  {
+   "id": "§1.13",
+   "type": "S",
+   "text": "Chocolate/rat poison: tell caller to drive in immediately, assistant phones emergency line (207) 555-0143 itself, then texts Dana (in that order)"
+  },
+  {
+   "id": "§1.14",
+   "type": "S",
+   "text": "Dr. Salo is the medical director, not the owner"
+  },
+  {
+   "id": "§1.15",
+   "type": "S",
+   "text": "Owner Martin Kell must never be copied on client emails"
+  },
+  {
+   "id": "§1.16",
+   "type": "S",
+   "text": "Every client reminder must end with exact line \"Reply STOP to opt out of reminders.\""
+  },
+  {
+   "id": "§1.17",
+   "type": "S",
+   "text": "Send Dana list of accounts with balances over $200 by 9 a.m. every Friday"
+  },
+  {
+   "id": "§2.1",
+   "type": "F",
+   "text": "Assistant for Résidence étudiante Les Tilleuls, Lyon"
+  },
+  {
+   "id": "§2.2",
+   "type": "F",
+   "text": "Inbox accueil@residence-tilleuls.fr"
+  },
+  {
+   "id": "§2.3",
+   "type": "F",
+   "text": "Check Monday to Saturday at 9:15"
+  },
+  {
+   "id": "§2.4",
+   "type": "S",
+   "text": "Assistant may extend a stay by up to 7 nights itself"
+  },
+  {
+   "id": "§2.5",
+   "type": "S",
+   "text": "Beyond 7 nights only accommodation manager Claire Vasseur can accept"
+  },
+  {
+   "id": "§2.6",
+   "type": "S",
+   "text": "Resident may host a guest free for at most 3 nights per month"
+  },
+  {
+   "id": "§2.7",
+   "type": "S",
+   "text": "From the 4th night of the month the resident pays €18 per night"
+  },
+  {
+   "id": "§2.8",
+   "type": "S",
+   "text": "Rent due no later than the 3rd of each month"
+  },
+  {
+   "id": "§2.9",
+   "type": "S",
+   "text": "Resident must upload transfer proof, not the assistant"
+  },
+  {
+   "id": "§2.10",
+   "type": "S",
+   "text": "Assistant may refund a deposit up to €600 itself"
+  },
+  {
+   "id": "§2.11",
+   "type": "S",
+   "text": "Deposit over €600 refunded only after check-out inspection (état des lieux) signed by Claire"
+  },
+  {
+   "id": "§2.12",
+   "type": "S",
+   "text": "Never give a resident's room number to a visitor"
+  },
+  {
+   "id": "§2.13",
+   "type": "S",
+   "text": "Instead call the resident to come down to reception"
+  },
+  {
+   "id": "§2.14",
+   "type": "S",
+   "text": "Fire alarm: tell residents to exit by stairway B, assistant calls caretaker at 04 72 55 01 38 itself, then SMS Claire (in that order)"
+  },
+  {
+   "id": "§2.15",
+   "type": "S",
+   "text": "Claire is accommodation manager, not the director"
+  },
+  {
+   "id": "§2.16",
+   "type": "S",
+   "text": "Director Mme Hélène Brisset must never be cc'd on resident emails, except in exclusion cases"
+  },
+  {
+   "id": "§2.17",
+   "type": "S",
+   "text": "Every reminder email must contain exact sentence « Merci de régulariser votre situation sous huit jours. »"
+  },
+  {
+   "id": "§2.18",
+   "type": "S",
+   "text": "Every Monday before 10:00 send Claire list of rents unpaid for more than 5 days"
+  },
+  {
+   "id": "§3.1",
+   "type": "F",
+   "text": "Assistant for Hanbit Yoga Studio (한빛 요가 스튜디오), Mapo-gu, Seoul"
+  },
+  {
+   "id": "§3.2",
+   "type": "F",
+   "text": "Inbox info@hanbityoga.kr"
+  },
+  {
+   "id": "§3.3",
+   "type": "F",
+   "text": "Check daily at 8:00 and 18:00"
+  },
+  {
+   "id": "§3.4",
+   "type": "S",
+   "text": "Assistant may book a member's classes itself up to 2 per day"
+  },
+  {
+   "id": "§3.5",
+   "type": "S",
+   "text": "3 or more on the same day need approval of operations manager 정수아"
+  },
+  {
+   "id": "§3.6",
+   "type": "S",
+   "text": "Cancellation free if made up to 3 hours before start"
+  },
+  {
+   "id": "§3.7",
+   "type": "S",
+   "text": "Cancellation with less than 3 hours left deducts 1 session from pass"
+  },
+  {
+   "id": "§3.8",
+   "type": "S",
+   "text": "Exception: no deduction if class changed due to instructor"
+  },
+  {
+   "id": "§3.9",
+   "type": "S",
+   "text": "Trial class once per person, ₩15,000"
+  },
+  {
+   "id": "§3.10",
+   "type": "S",
+   "text": "10-class pass refundable only if 4 or fewer sessions used"
+  },
+  {
+   "id": "§3.11",
+   "type": "S",
+   "text": "정수아 processes refunds herself, not the assistant; assistant only tells member to fill out refund form"
+  },
+  {
+   "id": "§3.12",
+   "type": "S",
+   "text": "Never tell a member's phone number or home address to other members"
+  },
+  {
+   "id": "§3.13",
+   "type": "S",
+   "text": "Injury in class: tell instructor not to move member, assistant calls 119 itself, then texts 정수아 at 010-5550-2741 (in that order)"
+  },
+  {
+   "id": "§3.14",
+   "type": "S",
+   "text": "정수아 is operations manager, not the CEO"
+  },
+  {
+   "id": "§3.15",
+   "type": "S",
+   "text": "CEO 박도현 must never be cc'd on member emails"
+  },
+  {
+   "id": "§3.16",
+   "type": "S",
+   "text": "Every notice text must end with exact sentence \"수업 10분 전까지 입실해 주세요.\""
+  },
+  {
+   "id": "§3.17",
+   "type": "S",
+   "text": "Send 정수아 the week's no-show list before 21:00 every Sunday"
+  },
+  {
+   "id": "§4.1",
+   "type": "F",
+   "text": "Assistant for Raiz Verde Hortifrúti Orgânico, Belo Horizonte"
+  },
+  {
+   "id": "§4.2",
+   "type": "F",
+   "text": "Inbox pedidos@raizverde.com.br"
+  },
+  {
+   "id": "§4.3",
+   "type": "F",
+   "text": "Check Monday to Saturday at 7:00 and 16:00"
+  },
+  {
+   "id": "§4.4",
+   "type": "S",
+   "text": "Assistant may accept orders up to R$800.00 alone"
+  },
+  {
+   "id": "§4.5",
+   "type": "S",
+   "text": "Orders over R$800.00 need approval of sales manager Thiago Ramalho"
+  },
+  {
+   "id": "§4.6",
+   "type": "S",
+   "text": "Delivery free for orders of R$150.00 or more"
+  },
+  {
+   "id": "§4.7",
+   "type": "S",
+   "text": "Below R$150.00 a R$12.00 delivery fee applies"
+  },
+  {
+   "id": "§4.8",
+   "type": "S",
+   "text": "Exception: Cesta Semanal plan customers pay no fee"
+  },
+  {
+   "id": "§4.9",
+   "type": "S",
+   "text": "Next-day delivery orders must be placed by 20:00"
+  },
+  {
+   "id": "§4.10",
+   "type": "S",
+   "text": "After 20:00 offer delivery two days later"
+  },
+  {
+   "id": "§4.11",
+   "type": "S",
+   "text": "Orders more than 2 hours late get a 10% coupon, generated by the assistant itself in the panel"
+  },
+  {
+   "id": "§4.12",
+   "type": "S",
+   "text": "Refunds only by financial analyst Juliana Prates"
+  },
+  {
+   "id": "§4.13",
+   "type": "S",
+   "text": "Tell customer to send photo of damaged product to qualidade@raizverde.com.br within 24 hours after delivery"
+  },
+  {
+   "id": "§4.14",
+   "type": "S",
+   "text": "Never tell customer the driver's route or mobile number"
+  },
+  {
+   "id": "§4.15",
+   "type": "S",
+   "text": "If customer not home, ask driver to call central office at (31) 5555-0192"
+  },
+  {
+   "id": "§4.16",
+   "type": "S",
+   "text": "Thiago is sales manager, not the owner"
+  },
+  {
+   "id": "§4.17",
+   "type": "S",
+   "text": "Owner Marta Ribeiro must never be cc'd on customer emails"
+  },
+  {
+   "id": "§4.18",
+   "type": "S",
+   "text": "Every order confirmation must end with exact sentence \"Frutas maduras podem variar de cor e tamanho.\""
+  },
+  {
+   "id": "§4.19",
+   "type": "S",
+   "text": "Send Thiago cancelled-orders report before 11:00 every Thursday"
+  }
+ ],
+ "A": {
+  "verdicts": {
+   "§1.1": "ok",
+   "§1.2": "ok",
+   "§1.3": "ok",
+   "§1.4": "ok",
+   "§1.5": "ok",
+   "§1.6": "ok",
+   "§1.7": "ok",
+   "§1.8": "ok",
+   "§1.9": "ok",
+   "§1.10": "ok",
+   "§1.11": "ok",
+   "§1.12": "ok",
+   "§1.13": "ok",
+   "§1.14": "ok",
+   "§1.15": "ok",
+   "§1.16": "ok",
+   "§1.17": "ok",
+   "§2.1": "ok",
+   "§2.2": "ok",
+   "§2.3": "ok",
+   "§2.4": "ok",
+   "§2.5": "ok",
+   "§2.6": "ok",
+   "§2.7": "ok",
+   "§2.8": "ok",
+   "§2.9": "ok",
+   "§2.10": "ok",
+   "§2.11": "ok",
+   "§2.12": "ok",
+   "§2.13": "ok",
+   "§2.14": "ok",
+   "§2.15": "ok",
+   "§2.16": "ok",
+   "§2.17": "ok",
+   "§2.18": "ok",
+   "§3.1": "ok",
+   "§3.2": "ok",
+   "§3.3": "ok",
+   "§3.4": "ok",
+   "§3.5": "ok",
+   "§3.6": "ok",
+   "§3.7": "ok",
+   "§3.8": "ok",
+   "§3.9": "ok",
+   "§3.10": "ok",
+   "§3.11": "ok",
+   "§3.12": "ok",
+   "§3.13": "ok",
+   "§3.14": "ok",
+   "§3.15": "ok",
+   "§3.16": "ok",
+   "§3.17": "ok",
+   "§4.1": "ok",
+   "§4.2": "ok",
+   "§4.3": "ok",
+   "§4.4": "ok",
+   "§4.5": "ok",
+   "§4.6": "ok",
+   "§4.7": "ok",
+   "§4.8": "ok",
+   "§4.9": "ok",
+   "§4.10": "ok",
+   "§4.11": "ok",
+   "§4.12": "ok",
+   "§4.13": "ok",
+   "§4.14": "ok",
+   "§4.15": "ok",
+   "§4.16": "ok",
+   "§4.17": "ok",
+   "§4.18": "ok",
+   "§4.19": "ok"
+  },
+  "S_distortions": [],
+  "S_lost": [],
+  "F_problems": [],
+  "inventions": []
+ },
+ "B": {
+  "verdicts": {
+   "§1.1": "ok",
+   "§1.2": "ok",
+   "§1.3": "ok",
+   "§1.4": "ok",
+   "§1.5": "ok",
+   "§1.6": "ok",
+   "§1.7": "ok",
+   "§1.8": "ok",
+   "§1.9": "ok",
+   "§1.10": "ok",
+   "§1.11": "ok",
+   "§1.12": "ok",
+   "§1.13": "ok",
+   "§1.14": "ok",
+   "§1.15": "ok",
+   "§1.16": "ok",
+   "§1.17": "ok",
+   "§2.1": "ok",
+   "§2.2": "ok",
+   "§2.3": "ok",
+   "§2.4": "ok",
+   "§2.5": "ok",
+   "§2.6": "ok",
+   "§2.7": "ok",
+   "§2.8": "ok",
+   "§2.9": "ok",
+   "§2.10": "ok",
+   "§2.11": "ok",
+   "§2.12": "ok",
+   "§2.13": "ok",
+   "§2.14": "ok",
+   "§2.15": "ok",
+   "§2.16": "ok",
+   "§2.17": "ok",
+   "§2.18": "ok",
+   "§3.1": "ok",
+   "§3.2": "ok",
+   "§3.3": "ok",
+   "§3.4": "ok",
+   "§3.5": "ok",
+   "§3.6": "ok",
+   "§3.7": "ok",
+   "§3.8": "ok",
+   "§3.9": "ok",
+   "§3.10": "ok",
+   "§3.11": "ok",
+   "§3.12": "ok",
+   "§3.13": "ok",
+   "§3.14": "ok",
+   "§3.15": "ok",
+   "§3.16": "ok",
+   "§3.17": "ok",
+   "§4.1": "ok",
+   "§4.2": "ok",
+   "§4.3": "ok",
+   "§4.4": "ok",
+   "§4.5": "ok",
+   "§4.6": "ok",
+   "§4.7": "ok",
+   "§4.8": "ok",
+   "§4.9": "ok",
+   "§4.10": "ok",
+   "§4.11": "ok",
+   "§4.12": "ok",
+   "§4.13": "ok",
+   "§4.14": "ok",
+   "§4.15": "ok",
+   "§4.16": "ok",
+   "§4.17": "ok",
+   "§4.18": "ok",
+   "§4.19": "ok"
+  },
+  "S_distortions": [],
+  "S_lost": [],
+  "F_problems": [],
+  "inventions": []
+ },
+ "summary": {
+  "A_S_distortions": 0,
+  "B_S_distortions": 0,
+  "A_S_lost": 0,
+  "B_S_lost": 0,
+  "inventions": 0
+ }
+}

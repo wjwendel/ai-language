@@ -1,0 +1,924 @@
+{
+ "rows": [
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tuesday to Sunday at 10am and 5:30pm ET.",
+   "gold": "Tuesday to Sunday at 10 a.m. and 5:30 p.m. Eastern"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, holds of up to 6 seats per performance may be done alone.",
+   "gold": "Yes (up to 6)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, payment at least 72 hours before curtain keeps them.",
+   "gold": "Yes (at least 72 hours)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, refunds only if requested more than 7 days before; never process refunds yourself — tell the patron to email refunds@northgatetheatre.org and forward the thread to Renée Castillo, box office manager.",
+   "gold": "No (more than 7 days only)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is over 90 minutes, so they are seated only at intermission.",
+   "gold": "No (only for performances up to 90 minutes; otherwise at intermission)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell the usher to bring them to the lobby; then call house manager Ben Adeyemi at (614) 555-0176 yourself; then email Renée.",
+   "gold": "Tell the usher to bring them to the lobby; call Ben Adeyemi at (614) 555-0176 yourself; then email Renée"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact artistic director Gordon Faulk about ticketing.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, it is due by 4pm every Monday.",
+   "gold": "Yes (by 4 p.m.)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, you may confirm up to 4 nights alone.",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "They must notify by 12:00 on arrival day; then tell caretaker Sandro Bellini to leave the keys in the key box.",
+   "gold": "By 12:00 noon on the arrival day; tell the caretaker Sandro Bellini to leave the keys in the box"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, pets only if under 10 kg.",
+   "gold": "No (less than 10 kg only)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€133 (2 adults €76, 8-year-old half €19, 12-year-old full €38); book by 17:00 same day.",
+   "gold": "€133 (3 × €38 + €19; the 12-year-old pays full price)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, guide dogs are always allowed free.",
+   "gold": "No; guide dogs are always free"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell the guest to call 112 immediately; then call Giulia Ferrante, reception manager, yourself at 333 555 0184.",
+   "gold": "Tell them to call 112 immediately; then call Giulia at 333 555 0184 yourself"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never cc owner Lorenzo Vitale on guest emails.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, it is due by 18:00 every Thursday.",
+   "gold": "Yes (by 18:00)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Academic head 林嘉怡 (Lin Jiayi).",
+   "gold": "Lin Jiayi, the academic supervisor"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, full refund (≤4 lessons); processed only by finance 周海明 (Zhou Haiming), not you — you tell the parent to fill out the refund application form.",
+   "gold": "Yes, full refund; Zhou Haiming in finance processes it (you just tell the parent to fill in the refund form)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, 8 or older with the signed 《自行离校同意书》 may leave alone.",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, under 8 must be picked up in person by a registered parent.",
+   "gold": "No (under 8 must be picked up by the registered parent)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell the teacher to have the child sit down first and not tilt the head back; call the front-desk first-aider at 028-5550-3196 yourself; then call the parent within 15 minutes.",
+   "gold": "Tell the teacher to sit the child down, head not tilted back; call the front-desk first-aider at 028-5550-3196 yourself; then phone the parent within 15 minutes"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no for a routine email; yes for a complaint escalation.",
+   "gold": "No for routine; yes for a complaint escalation"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "请提前10分钟到校签到。",
+   "gold": "“请提前10分钟到校签到。”"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it must be sent before 17:00 on Friday.",
+   "gold": "No (before 17:00)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Daily at 7:00 and 14:30.",
+   "gold": "Every day at 7:00 and 14:30"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, up to 5 kayaks may be accepted alone.",
+   "gold": "Yes (up to 5)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Base manager Agnieszka Wróbel.",
+   "gold": "Only Agnieszka Wróbel"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "20 zł (one started hour late).",
+   "gold": "20 zł (one started hour)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only wind over 40 km/h triggers cancellation and full refund.",
+   "gold": "No (only if it exceeds 40 km/h)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, children under 10 only with an adult in a double kayak; life jacket mandatory.",
+   "gold": "No (under 10 only with an adult in a two-person kayak)"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Tell them to stay with the kayak; call lifeguard Kamil Nowak yourself; then write to Agnieszka Wróbel. no, never give customers the lifeguard's number.",
+   "gold": "Tell them to stay with the kayak; call lifeguard Kamil Nowak at 604 555 017 yourself; then message Agnieszka. No, never give out the lifeguard's number"
+  },
+  {
+   "f": "mnc19_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never cc owner Ryszard Malinowski on customer emails.",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tuesday to Sunday at 10am and 5:30pm ET",
+   "gold": "Tuesday to Sunday at 10 a.m. and 5:30 p.m. Eastern"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, holds of up to 6 seats per performance may be done alone",
+   "gold": "Yes (up to 6)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, payment at least 72h before curtain is in time, so they are kept",
+   "gold": "Yes (at least 72 hours)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, refunds only if requested more than 7 days before; and you never process refunds yourself (refunds go via refunds@northgatetheatre.org, thread forwarded to Renée)",
+   "gold": "No (more than 7 days only)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the performance is over 90 minutes, so the latecomer is seated only at intermission",
+   "gold": "No (only for performances up to 90 minutes; otherwise at intermission)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "First tell the usher to bring them to the lobby; then call house manager Ben Adeyemi at (614) 555-0176 yourself; then email Renée",
+   "gold": "Tell the usher to bring them to the lobby; call Ben Adeyemi at (614) 555-0176 yourself; then email Renée"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never contact artistic director Gordon Faulk about ticketing",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, the report is due by 4pm every Monday",
+   "gold": "Yes (by 4 p.m.)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, you may confirm bookings of up to 4 nights alone",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "They must notify by 12:00 on arrival day; then tell caretaker Sandro Bellini to leave the keys in the key box",
+   "gold": "By 12:00 noon on the arrival day; tell the caretaker Sandro Bellini to leave the keys in the box"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, pets only if under 10 kg",
+   "gold": "No (less than 10 kg only)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€133 (2 x €38 adults + €19 for the 8-year-old at half price + €38 for the 12-year-old at full price)",
+   "gold": "€133 (3 × €38 + €19; the 12-year-old pays full price)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, guide dogs are always allowed free",
+   "gold": "No; guide dogs are always free"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell the guest to call 112 immediately; then call Giulia yourself at 333 555 0184",
+   "gold": "Tell them to call 112 immediately; then call Giulia at 333 555 0184 yourself"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never cc owner Lorenzo Vitale on guest emails",
+   "gold": "No"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, the list is due by 18:00 every Thursday",
+   "gold": "Yes (by 18:00)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "academic head 林嘉怡 (Lin Jiayi)",
+   "gold": "Lin Jiayi, the academic supervisor"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, full refund (4 or fewer lessons); refunds are processed only by finance 周海明 (Zhou Haiming), not you; you only tell the parent to fill out the refund application form",
+   "gold": "Yes, full refund; Zhou Haiming in finance processes it (you just tell the parent to fill in the refund form)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, children 8 or older may leave alone once the parent signs the self-dismissal consent form",
+   "gold": "Yes"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, children under 8 must be picked up in person by a registered parent",
+   "gold": "No (under 8 must be picked up by the registered parent)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell the teacher to have the child sit down first, without tilting the head back; call the front-desk first-aider at 028-5550-3196 yourself; then call the parent within 15 minutes",
+   "gold": "Tell the teacher to sit the child down, head not tilted back; call the front-desk first-aider at 028-5550-3196 yourself; then phone the parent within 15 minutes"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no for a routine parent email; yes for a complaint escalation",
+   "gold": "No for routine; yes for a complaint escalation"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "请提前10分钟到校签到。",
+   "gold": "“请提前10分钟到校签到。”"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it must be sent before 17:00 on Friday",
+   "gold": "No (before 17:00)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "daily at 7:00 and 14:30",
+   "gold": "Every day at 7:00 and 14:30"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, you may accept bookings of 5 or fewer kayaks alone",
+   "gold": "Yes (up to 5)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "base manager Agnieszka Wróbel",
+   "gold": "Only Agnieszka Wróbel"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "20 zł (one started hour late)",
+   "gold": "20 zł (one started hour)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, cancellation and a full refund apply only when the wind is over 40 km/h",
+   "gold": "No (only if it exceeds 40 km/h)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, children under 10 may paddle only with an adult in a double kayak (life jacket mandatory)",
+   "gold": "No (under 10 only with an adult in a two-person kayak)"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell them to stay with the kayak; call lifeguard Kamil Nowak at 604 555 017 yourself; then write to Agnieszka. no, never give customers the lifeguard's phone number",
+   "gold": "Tell them to stay with the kayak; call lifeguard Kamil Nowak at 604 555 017 yourself; then message Agnieszka. No, never give out the lifeguard's number"
+  },
+  {
+   "f": "mnc19_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never cc owner Ryszard Malinowski on customer emails",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tuesday to Sunday at 10 a.m. and 5:30 p.m. Eastern",
+   "gold": "Tuesday to Sunday at 10 a.m. and 5:30 p.m. Eastern"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, holds of up to 6 seats per performance may be made on your own",
+   "gold": "Yes (up to 6)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, payment at least 72 hours before curtain keeps the hold",
+   "gold": "Yes (at least 72 hours)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, refunds require a request more than 7 days before; tell the patron to email refunds@northgatetheatre.org and forward the thread to Renée (never process it yourself)",
+   "gold": "No (more than 7 days only)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, for performances over 90 minutes latecomers are seated only at intermission",
+   "gold": "No (only for performances up to 90 minutes; otherwise at intermission)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell the usher to bring the patron to the lobby; then you call house manager Ben Adeyemi at (614) 555-0176 yourself; then email Renée",
+   "gold": "Tell the usher to bring them to the lobby; call Ben Adeyemi at (614) 555-0176 yourself; then email Renée"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Gordon Faulk must never be contacted about ticketing",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, it is due by 4 p.m. Monday",
+   "gold": "Yes (by 4 p.m.)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, you may confirm stays of up to 4 nights yourself",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "They must notify by 12:00 on the day of arrival; you tell the caretaker Sandro Bellini to leave the keys in the key box",
+   "gold": "By 12:00 noon on the arrival day; tell the caretaker Sandro Bellini to leave the keys in the box"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, pets must weigh less than 10 kg",
+   "gold": "No (less than 10 kg only)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€133 (2 adults €76 + 12-year-old full €38 + 8-year-old half €19)",
+   "gold": "€133 (3 × €38 + €19; the 12-year-old pays full price)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, guide dogs are always admitted free",
+   "gold": "No; guide dogs are always free"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell them to call 112 immediately; then you call Giulia at 333 555 0184",
+   "gold": "Tell them to call 112 immediately; then call Giulia at 333 555 0184 yourself"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Lorenzo Vitale must never be copied on guest emails",
+   "gold": "No"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, it is due by 18:00 Thursday",
+   "gold": "Yes (by 18:00)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lin Jiayi, the academic supervisor",
+   "gold": "Lin Jiayi, the academic supervisor"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, full refund (no more than 4 lessons attended); finance staff Zhou Haiming processes it, you only tell the parent to fill in the refund application form",
+   "gold": "Yes, full refund; Zhou Haiming in finance processes it (you just tell the parent to fill in the refund form)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, children 8 and over may leave alone once the parent signed the self-dismissal consent form",
+   "gold": "Yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, children under 8 must be picked up by the registered parent in person",
+   "gold": "No (under 8 must be picked up by the registered parent)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell the teacher to have the child sit down and not tilt the head back; you call the front-desk first aider at 028-5550-3196, then phone the parent within 15 minutes",
+   "gold": "Tell the teacher to sit the child down, head not tilted back; call the front-desk first-aider at 028-5550-3196 yourself; then phone the parent within 15 minutes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no on a routine parent email; yes on a complaint escalation",
+   "gold": "No for routine; yes for a complaint escalation"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "请提前10分钟到校签到。 (Please arrive 10 minutes early to sign in.)",
+   "gold": "“请提前10分钟到校签到。”"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it must be sent before 17:00 Friday",
+   "gold": "No (before 17:00)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Every day at 7:00 and 14:30",
+   "gold": "Every day at 7:00 and 14:30"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, you may accept bookings of up to 5 kayaks yourself",
+   "gold": "Yes (up to 5)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Agnieszka Wróbel, the base manager (only she)",
+   "gold": "Only Agnieszka Wróbel"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "20 zł (one started hour late)",
+   "gold": "20 zł (one started hour)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, cancellation and full refund apply only when wind exceeds 40 km/h",
+   "gold": "No (only if it exceeds 40 km/h)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, children under 10 may paddle only with an adult in a two-person kayak (and a life jacket is mandatory)",
+   "gold": "No (under 10 only with an adult in a two-person kayak)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tell them to stay with the kayak; you call lifeguard Kamil Nowak at 604 555 017 yourself; then write to Agnieszka. No, never give customers the lifeguard's number",
+   "gold": "Tell them to stay with the kayak; call lifeguard Kamil Nowak at 604 555 017 yourself; then message Agnieszka. No, never give out the lifeguard's number"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Ryszard Malinowski must never be copied on customer emails",
+   "gold": "No"
+  }
+ ],
+ "summary": {
+  "mnc19_r1": {
+   "all": [
+    31,
+    32
+   ],
+   "S": [
+    27,
+    28
+   ],
+   "F": [
+    4,
+    4
+   ],
+   "hop2": [
+    18,
+    18
+   ]
+  },
+  "mnc19_r2": {
+   "all": [
+    32,
+    32
+   ],
+   "S": [
+    28,
+    28
+   ],
+   "F": [
+    4,
+    4
+   ],
+   "hop2": [
+    18,
+    18
+   ]
+  },
+  "original_r1": {
+   "all": [
+    32,
+    32
+   ],
+   "S": [
+    28,
+    28
+   ],
+   "F": [
+    4,
+    4
+   ],
+   "hop2": [
+    18,
+    18
+   ]
+  }
+ }
+}

@@ -1,0 +1,55 @@
+TEXT:
+§1
+inbox assistant for Petal & Stem Florals small flower shop owned by Maren Hollis Check orders@petalstem inbox weekday at 8:00 14:00 confirm schedule standard bouquet orders up to $150 per order above $150 needs approval from Maren Hollis owner limit applies only to bouquet orders wedding event orders forwarded to Maren for approval before quote price Delia Ruiz head designer NOT delivery manager delivery questions to Tomas Brandt delivery manager Never contact Owen Pike former supplier about order or complaint Never offer discount code share customer address with another Orders confirmed before 11:00 delivered same day except Sundays no deliveries order moves to Monday Wedding quotes reach couple within 3 business days of first email If customer reports delivery driver injured call emergency line at 555-0147 tell help on way keep driver still not move until help arrives reply to complaint end with "We make this right for you." Every Friday at 17:00 send Maren report listing week's orders refunds open complaints
+
+§2
+枫林社区体育中心2027年春季课程报名通知:春季课程报名时间为2027年3月1日至3月20日,每天上午9:00至下午6:00在中心一楼服务台办理,每周六上午10:00至11:30上课;羽毛球课每期学费360元,每周日下午2:00至3:30上课。羽毛球课学员和3月10日前报名的游泳课学员均可享受九折优惠。60岁以上居民报名任何课程免收报名费)劳动节游泳课停课一次(星期日)上午10:00补课。开课前申请退课可退还全部学费,未满14岁的学员须由家长陪同报名。中心停车场在上课时间免费开放,请联系体育中心负责人周晓梅,电话138-0013-5726
+
+§3
+asistente de correo de Escuela de Manejo Rumbo Firme Puebla Revisa bandeja contacto@rumbofirme.example lunes a sábado 7:30 15:00. reagendar clases prácticas hasta dos veces por alumno al mes tercer cambio necesita aprobación de Graciela Montaño directora aplicar descuentos hasta 10 % sobre precio paquete descuento mayor aprueba Graciela Rodrigo Salas instructor principal NO encargado de pagos dudas de pagos van a Paula Ibarra encargada de pagos Nunca contactes copies Ernesto Vidal exsocio sobre alumnos pagos Nunca confirmes fecha de examen oficial de tránsito envíes correo copia de identificación alumno clases canceladas menos de 24 horas anticipación cobran completas excepto certificado médico. inscripciones curso intensivo de julio cierran 20 de junio 18:00. Si alumno instructor reporta choque durante clase llama aseguradora al 222-555-0193 dile alumno ajustador camino encender luces intermitentes junto auto mensaje confirmación de clase terminar "Recuerda traer permiso de aprendiz." Cada lunes 9:00 envía a Graciela reporte de clases dadas clases canceladas pagos pendientes
+
+§4
+asystentem skrzynki pocztowej firmy cateringowej Pod Lipą z Torunia Sprawdzaj zamowienia@podlipa.example od poniedziałku do piątku 8:00 13:30 przyjmować zamówienia lunche firmowe do 40 porcji powyżej 40 wymagają zgody Haliny Wróbel właścicielki limit dotyczy tylko lunchów firmowych zamówienie wesele chrzciny zatwierdza Halina Marek Sowa szefem kuchni NIE kierowcą sprawy dostaw kieruj do Igi Lis koordynatorki dostaw nie kontaktuj dodawaj Bogdana Kruka byłego dostawcy sprawie reklamacji podawaj cen alkoholu obiecuj menu bezglutenowego bez potwierdzenia Marka dostawę poza Toruniem doliczamy 15% wartości zamówienia Zaliczka na wesele 2400 zł odwołaniu wesela niż 30 dni przed terminem zwrot połowy zaliczki odwołania choroby zwracamy całą zaliczkę Ostateczną liczbę gości podać 14 dni przed przyjęciem zgłosi pożar podgrzewacza wyciek gazu zadzwoń do kierownika dyżurnego 555 274 kierownik drodze klient zakręcić zawór butli gazowej wiadomość ofertą „Dziękujemy za zainteresowanie cateringiem Pod Lipą.” czwartek o 16:00 wyślij Halinie raport zamówień zaliczek reklamacji
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: Which inbox does the assistant check, and at what times?
+§1.q2: A customer emails a bouquet order for exactly $150. May the assistant confirm it without asking anyone?
+§1.q3: A bouquet order comes in for $151. Who must approve it?
+§1.q4: Una pareja pide flores para su boda por $90. ¿Puede el asistente confirmar el pedido por su cuenta?
+§1.q5: A customer asks a question about when their delivery will arrive. Should it go to Delia Ruiz?
+§1.q6: A customer complains that a delivered arrangement wilted, and the assistant thinks Owen Pike supplied the roses. May the assistant copy Owen Pike on the complaint reply?
+§1.q7: An order is confirmed on Sunday at 9:30. When is it delivered?
+§1.q8: 顾客报告我们的送货司机在他家门口受伤了。助手应该自己打哪个电话？应该告诉顾客哪两件事？
+§1.q9: In that driver-injury emergency, who must keep the driver still: the assistant or the customer?
+§1.q10: With what exact sentence must every complaint reply end, and when is the weekly report sent?
+§2.q1: When and where can people register for the spring courses?
+§2.q2: Is the service desk open for registration on Mondays?
+§2.q3: 一位居民在3月15日报名羽毛球课，能享受九折优惠吗？
+§2.q4: A resident registers for swimming on March 12. Does she get the 10% discount?
+§2.q5: A 45-year-old resident registers for swimming on March 5. How much does she pay in total, including any fees?
+§2.q6: A 65-year-old registers for badminton on March 18. How much does he pay?
+§2.q7: 游泳课5月1日停课后，什么时候补课？
+§2.q8: After courses have started, a swimming student withdraws with a hospital certificate. How much of the fee is refunded?
+§2.q9: Who is the contact person, what is the phone number, and when can it be reached?
+§3.q1: ¿Qué bandeja revisa el asistente y a qué horas?
+§3.q2: A student asks to reschedule a practical lesson for the second time this month. May the assistant do it on its own?
+§3.q3: Un alumno pide reagendar por tercera vez en el mismo mes. ¿Quién debe aprobarlo?
+§3.q4: A student asks for a 12% discount on a package. Can the assistant grant it alone, and if not, who approves?
+§3.q5: A student has a question about a pending payment. Should it go to Rodrigo Salas?
+§3.q6: A student cancels a lesson 10 hours before it starts and sends a medical certificate. Is the lesson charged in full?
+§3.q7: Un alumno pregunta si puede inscribirse al curso intensivo de julio el 21 de junio. ¿Puede?
+§3.q8: A student reports a crash during a lesson. Whom does the assistant call and at what number, and what must the student do himself?
+§3.q9: In the crash emergency, who switches on the hazard lights: the assistant or the student?
+§3.q10: How must every lesson confirmation message end, and when is the weekly report sent and to whom?
+§4.q1: Which inbox is checked and when?
+§4.q2: A company orders a business lunch for exactly 40 portions. May the assistant accept it alone?
+§4.q3: Klient zamawia catering na chrzciny dla 25 osób. Czy asystent może samodzielnie przyjąć to zamówienie?
+§4.q4: A customer asks about a delivery time. Should the assistant send it to Marek Sowa?
+§4.q5: A customer asks whether the menu can be made gluten-free. May the assistant promise it right away?
+§4.q6: Firma spoza Torunia zamawia catering o wartości 3000 zł. Ile wynosi łączna kwota z dopłatą za dostawę?
+§4.q7: A couple cancels their wedding 20 days before the date, with no medical certificate. How much of the deposit is refunded?
+§4.q8: A couple cancels 10 days before the wedding because of an illness confirmed by a doctor's certificate. How much is refunded?
+§4.q9: Klient zgłasza wyciek gazu z kuchenki polowej na przyjęciu. Do kogo i pod jaki numer dzwoni asystent i kto musi zakręcić zawór butli?
+§4.q10: With what sentence must every offer message begin, and when is the weekly report sent?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".
