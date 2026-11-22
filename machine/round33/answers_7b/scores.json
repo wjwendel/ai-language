@@ -1,0 +1,3327 @@
+{
+ "rows": [
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Owen Tarrant, owner",
+   "gold": "Owen Tarrant, the owner"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Nadia Brecht, workshop manager",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant may approve the 5th free reprint, but not the refund",
+   "gold": "only the 5th reprint; the 46 refund needs approval"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "assistant calls Pim Larsson at 0161 555 0147; customer must keep people out from under the sign",
+   "gold": "Assistant calls Pim Larsson at 0161 555 0147 and tells the customer an installer is on his way; the customer must keep people out from under the sign until he arrives"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "4 hours",
+   "gold": "by 10:00 the next working day"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "15,000 + 40,000 = 55,000원",
+   "gold": "27,500 won"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "0원 (50% of 15,000 + 40,000 = 27,500원, but free for basic-livelihood recipients)",
+   "gold": "nothing (free)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12:00",
+   "gold": "12:00 noon"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "contact 박선영 주무관 at 031-770-4128",
+   "gold": "Park Sun-young (Health Promotion Team), 031-770-4128"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "14 days",
+   "gold": "14 days"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas, owner",
+   "gold": "Mathilde Delmas, the owner"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Ferrand, workshop head",
+   "gold": "Camille Ferrand, the workshop head"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, must be approved by Mathilde Delmas",
+   "gold": "No; Mathilde Delmas, the owner, must approve (900 euros is above 800)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "Call Camille Ferrand at 04 72 55 01 38, tell the customer she will call back within the hour; the customer must stand the book upright, fanned open, away from any radiator"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6,000,000 đồng",
+   "gold": "6,000,000 dong"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "80% of 6,000,000 = 4,800,000 đồng",
+   "gold": "4,800,000 dong"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "50% of 6,000,000 = 3,000,000 đồng",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Khang, owner",
+   "gold": "Trần Văn Khang, the owner"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Long, site manager",
+   "gold": "Phạm Đức Long, the site manager"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "assistant calls Phạm Đức Long at 0903 418 265; customer must shut the main water valve themselves",
+   "gold": "Call Phạm Đức Long at 0903 418 265, tell the customer the team is on the way; the customer must shut off the main water valve themselves"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Owen Tarrant, owner",
+   "gold": "Owen Tarrant, the owner"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Nadia Brecht, workshop manager",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "assistant can approve the 5th free reprint, but not the refund",
+   "gold": "only the 5th reprint; the 46 refund needs approval"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "assistant calls Pim Larsson at 0161 555 0147; customer must keep people out from under the sign",
+   "gold": "Assistant calls Pim Larsson at 0161 555 0147 and tells the customer an installer is on his way; the customer must keep people out from under the sign until he arrives"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "4 hours",
+   "gold": "by 10:00 the next working day"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "15,000 + 40,000 = 55,000원",
+   "gold": "27,500 won"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "0원",
+   "gold": "nothing (free)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12:00",
+   "gold": "12:00 noon"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "박선영 주무관 031-770-4128",
+   "gold": "Park Sun-young (Health Promotion Team), 031-770-4128"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "14 days",
+   "gold": "14 days"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas, owner",
+   "gold": "Mathilde Delmas, the owner"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Ferrand, workshop head",
+   "gold": "Camille Ferrand, the workshop head"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, must be approved by Mathilde Delmas",
+   "gold": "No; Mathilde Delmas, the owner, must approve (900 euros is above 800)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Ferrand 04 72 55 01 38; customer must stand the book upright, fanned open, away from any radiator",
+   "gold": "Call Camille Ferrand at 04 72 55 01 38, tell the customer she will call back within the hour; the customer must stand the book upright, fanned open, away from any radiator"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "24 hours",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6,000,000 dong",
+   "gold": "6,000,000 dong"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "80% of deposit",
+   "gold": "4,800,000 dong"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "50% of deposit",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Khang, owner",
+   "gold": "Trần Văn Khang, the owner"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Long, site manager",
+   "gold": "Phạm Đức Long, the site manager"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Long 0903 418 265; customer must shut the main water valve themselves immediately",
+   "gold": "Call Phạm Đức Long at 0903 418 265, tell the customer the team is on the way; the customer must shut off the main water valve themselves"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Owen Tarrant, owner",
+   "gold": "Owen Tarrant, the owner"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Nadia Brecht, workshop manager",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant may approve the 5th free reprint, but not the refund",
+   "gold": "only the 5th reprint; the 46 refund needs approval"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Pim Larsson, 0161 555 0147; the customer must keep people out from under the sign themselves until the installer arrives",
+   "gold": "Assistant calls Pim Larsson at 0161 555 0147 and tells the customer an installer is on his way; the customer must keep people out from under the sign until he arrives"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "4 hours",
+   "gold": "by 10:00 the next working day"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "15,000 + 40,000 = 55,000원",
+   "gold": "27,500 won"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "0원",
+   "gold": "nothing (free)"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12:00",
+   "gold": "12:00 noon"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "박선영 주무관, 031-770-4128",
+   "gold": "Park Sun-young (Health Promotion Team), 031-770-4128"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "14 days",
+   "gold": "14 days"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas, owner",
+   "gold": "Mathilde Delmas, the owner"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Ferrand, workshop head",
+   "gold": "Camille Ferrand, the workshop head"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, must be approved by Mathilde Delmas",
+   "gold": "No; Mathilde Delmas, the owner, must approve (900 euros is above 800)"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Camille Ferrand, 04 72 55 01 38; the customer must stand the book upright, fanned open, away from any radiator",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "24 hours",
+   "gold": "Call Camille Ferrand at 04 72 55 01 38, tell the customer she will call back within the hour; the customer must stand the book upright, fanned open, away from any radiator"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6,000,000 đồng",
+   "gold": "6,000,000 dong"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "80% of deposit",
+   "gold": "4,800,000 dong"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "50% of deposit",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Khang, owner",
+   "gold": "Trần Văn Khang, the owner"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Long, site manager",
+   "gold": "Phạm Đức Long, the site manager"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Phạm Đức Long, 0903 418 265; the customer must shut the main water valve themselves immediately",
+   "gold": "Call Phạm Đức Long at 0903 418 265, tell the customer the team is on the way; the customer must shut off the main water valve themselves"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r3",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Owen Tarrant",
+   "gold": "Owen Tarrant, the owner"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Nadia Brecht",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant may approve the 5th free reprint alone, but not the refund",
+   "gold": "only the 5th reprint; the 46 refund needs approval"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "assistant calls Pim Tarrant at 0161 555 0147; customer must keep people from under sign until installer arrives",
+   "gold": "Assistant calls Pim Larsson at 0161 555 0147 and tells the customer an installer is on his way; the customer must keep people out from under the sign until he arrives"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "4 hours",
+   "gold": "by 10:00 the next working day"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "15,000 + 40,000 = 55,000 won",
+   "gold": "27,500 won"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "15,000 + 40,000 * 50% = 32,500 won",
+   "gold": "nothing (free)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12:00",
+   "gold": "12:00 noon"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "health promotion team officer 박선영 at 031-770-4128",
+   "gold": "Park Sun-young (Health Promotion Team), 031-770-4128"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "14 days",
+   "gold": "14 days"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Camille Ferrand",
+   "gold": "Mathilde Delmas, the owner"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Mathilde Delmas",
+   "gold": "Camille Ferrand, the workshop head"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Mathilde Delmas must approve it",
+   "gold": "No; Mathilde Delmas, the owner, must approve (900 euros is above 800)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Camille Ferrand at 04 72 55 01 38; customer must stand book upright, fanned open, away from radiators",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "24 hours",
+   "gold": "Call Camille Ferrand at 04 72 55 01 38, tell the customer she will call back within the hour; the customer must stand the book upright, fanned open, away from any radiator"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "30% of the quote",
+   "gold": "6,000,000 dong"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "80% of the deposit",
+   "gold": "4,800,000 dong"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "50% of the deposit",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Khang must approve it",
+   "gold": "Trần Văn Khang, the owner"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Long must approve it",
+   "gold": "Phạm Đức Long, the site manager"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Trần Văn Khang at 0903 418 265; customer must shut main water valve themselves immediately",
+   "gold": "Call Phạm Đức Long at 0903 418 265, tell the customer the team is on the way; the customer must shut off the main water valve themselves"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "immediately",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Owen Tarrant",
+   "gold": "Owen Tarrant, the owner"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Nadia Brecht",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant may approve the 5th free reprint alone, but not the refund",
+   "gold": "only the 5th reprint; the 46 refund needs approval"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "assistant calls Pim Larsson at 0161 555 0147; customer must keep people from under sign until installer arrives",
+   "gold": "Assistant calls Pim Larsson at 0161 555 0147 and tells the customer an installer is on his way; the customer must keep people out from under the sign until he arrives"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "4 hours",
+   "gold": "by 10:00 the next working day"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "15,000 + 40,000 = 55,000 won",
+   "gold": "27,500 won"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "15,000 / 2 = 7,500 won",
+   "gold": "nothing (free)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12:00",
+   "gold": "12:00 noon"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "health promotion team officer 박선영 at 031-770-4128",
+   "gold": "Park Sun-young (Health Promotion Team), 031-770-4128"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "14 days",
+   "gold": "14 days"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Camille Ferrand",
+   "gold": "Mathilde Delmas, the owner"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Mathilde Delmas",
+   "gold": "Camille Ferrand, the workshop head"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Mathilde Delmas must approve it",
+   "gold": "No; Mathilde Delmas, the owner, must approve (900 euros is above 800)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "assistant calls Camille Ferrand at 04 72 55 01 38; customer must stand book upright, fanned open, away from radiators",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "24 hours",
+   "gold": "Call Camille Ferrand at 04 72 55 01 38, tell the customer she will call back within the hour; the customer must stand the book upright, fanned open, away from any radiator"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "30% of quote",
+   "gold": "6,000,000 dong"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "80% of deposit",
+   "gold": "4,800,000 dong"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "50% of deposit",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Khang must approve it",
+   "gold": "Trần Văn Khang, the owner"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Long must approve it",
+   "gold": "Phạm Đức Long, the site manager"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "assistant calls Phạm Đức Long at 0903 418 265; customer must shut main water valve themselves immediately",
+   "gold": "Call Phạm Đức Long at 0903 418 265, tell the customer the team is on the way; the customer must shut off the main water valve themselves"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Owen Tarrant",
+   "gold": "Owen Tarrant, the owner"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Nadia Brecht",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "only the 5th reprint; the 46 refund needs approval"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Pim Larsson, 0161 555 0147; the customer must keep people from under the sign until the installer arrives",
+   "gold": "Assistant calls Pim Larsson at 0161 555 0147 and tells the customer an installer is on his way; the customer must keep people out from under the sign until he arrives"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "4 hours",
+   "gold": "by 10:00 the next working day"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, the October 1 date condition applies only to the checkup notice, not to the ID card.",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "15,000 won for bone density + 40,000 won for thyroid ultrasound = 55,000 won total",
+   "gold": "27,500 won"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "0 won, as 65+ residents pay only 50% of optional tests",
+   "gold": "nothing (free)"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "The checkup ends at 12:00 on November 15.",
+   "gold": "12:00 noon"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "She should contact the health promotion team officer 박선영 at 031-770-4128.",
+   "gold": "Park Sun-young (Health Promotion Team), 031-770-4128"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, residents cannot cancel on the day of the checkup through the health centre website.",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, the free checkup is only for residents 40+.",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Within 14 days of the checkup, results are mailed.",
+   "gold": "14 days"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "Yes, a resident can receive the checkup on a weekday at 11:40 AM.",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Camille Ferrand",
+   "gold": "Mathilde Delmas, the owner"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Mathilde Delmas",
+   "gold": "Camille Ferrand, the workshop head"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, Mathilde Delmas must approve it.",
+   "gold": "No; Mathilde Delmas, the owner, must approve (900 euros is above 800)"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "No",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Ferrand, 04 72 55 01 38; the customer must stand the book upright, fanned open, away from radiators.",
+   "gold": "Call Camille Ferrand at 04 72 55 01 38, tell the customer she will call back within the hour; the customer must stand the book upright, fanned open, away from any radiator"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "24 hours",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6,000,000 dong",
+   "gold": "6,000,000 dong"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "80% of the deposit is refunded.",
+   "gold": "4,800,000 dong"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "50% of the deposit is refunded.",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Khang Văn Minh",
+   "gold": "Trần Văn Khang, the owner"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Long Đức Pham",
+   "gold": "Phạm Đức Long, the site manager"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Trần Văn Khang, 0903 418 265; the customer must shut the main water valve immediately.",
+   "gold": "Call Phạm Đức Long at 0903 418 265, tell the customer the team is on the way; the customer must shut off the main water valve themselves"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r3",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "No, individuals must pay immediately at acceptance.",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Owen Tarrant",
+   "gold": "Owen Tarrant, the owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Owen Tarrant",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant can approve the 5th free reprint alone, but not the refund of 46",
+   "gold": "only the 5th reprint; the 46 refund needs approval"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant calls Pim Larsson at 0161 555 0147, and the customer must keep people out from under the sign until the installer arrives",
+   "gold": "Assistant calls Pim Larsson at 0161 555 0147 and tells the customer an installer is on his way; the customer must keep people out from under the sign until he arrives"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "24 hours",
+   "gold": "by 10:00 the next working day"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "15,000 + 40,000 = 55,000",
+   "gold": "27,500 won"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "0",
+   "gold": "nothing (free)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12:00",
+   "gold": "12:00 noon"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "박선영 주무관 (031-770-4128)",
+   "gold": "Park Sun-young (Health Promotion Team), 031-770-4128"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "14 days",
+   "gold": "14 days"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas, the owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Ferrand",
+   "gold": "Camille Ferrand, the workshop head"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Mathilde Delmas",
+   "gold": "No; Mathilde Delmas, the owner, must approve (900 euros is above 800)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Camille Ferrand at 04 72 55 01 38, the customer must stand the book upright, open in an open fan, away from any radiator",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "24 hours",
+   "gold": "Call Camille Ferrand at 04 72 55 01 38, tell the customer she will call back within the hour; the customer must stand the book upright, fanned open, away from any radiator"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6,000,000",
+   "gold": "6,000,000 dong"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "80%",
+   "gold": "4,800,000 dong"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "50%",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Hugo Brassac",
+   "gold": "Trần Văn Khang, the owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Hugo Brassac",
+   "gold": "Phạm Đức Long, the site manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Hugo Brassac at 0903 418 265, the customer must turn off the main water valve",
+   "gold": "Call Phạm Đức Long at 0903 418 265, tell the customer the team is on the way; the customer must shut off the main water valve themselves"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "original_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Owen Tarrant",
+   "gold": "Owen Tarrant, the owner"
+  },
+  {
+   "f": "original_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "original_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Nadia Brecht",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "original_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant can approve the 5th free reprint alone, but not the refund of 46",
+   "gold": "only the 5th reprint; the 46 refund needs approval"
+  },
+  {
+   "f": "original_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant calls Pim Larsson at 0161 555 0147; the customer must keep people out from under the sign until the installer arrives",
+   "gold": "Assistant calls Pim Larsson at 0161 555 0147 and tells the customer an installer is on his way; the customer must keep people out from under the sign until he arrives"
+  },
+  {
+   "f": "original_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "14:00 on the next working day",
+   "gold": "by 10:00 the next working day"
+  },
+  {
+   "f": "original_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "original_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "55,000 won",
+   "gold": "27,500 won"
+  },
+  {
+   "f": "original_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "0 won",
+   "gold": "nothing (free)"
+  },
+  {
+   "f": "original_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12:00",
+   "gold": "12:00 noon"
+  },
+  {
+   "f": "original_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "박선영 주무관 (031-770-4128)",
+   "gold": "Park Sun-young (Health Promotion Team), 031-770-4128"
+  },
+  {
+   "f": "original_r2",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "original_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "original_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "14 days",
+   "gold": "14 days"
+  },
+  {
+   "f": "original_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas, the owner"
+  },
+  {
+   "f": "original_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Ferrand",
+   "gold": "Camille Ferrand, the workshop head"
+  },
+  {
+   "f": "original_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Mathilde Delmas",
+   "gold": "No; Mathilde Delmas, the owner, must approve (900 euros is above 800)"
+  },
+  {
+   "f": "original_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas"
+  },
+  {
+   "f": "original_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Camille Ferrand at 04 72 55 01 38; the customer must place the book upright, open in an accordion, away from any radiator",
+   "gold": "no"
+  },
+  {
+   "f": "original_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "24 hours",
+   "gold": "Call Camille Ferrand at 04 72 55 01 38, tell the customer she will call back within the hour; the customer must stand the book upright, fanned open, away from any radiator"
+  },
+  {
+   "f": "original_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "original_r2",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6,000,000 dong",
+   "gold": "6,000,000 dong"
+  },
+  {
+   "f": "original_r2",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "80% of the deposit",
+   "gold": "4,800,000 dong"
+  },
+  {
+   "f": "original_r2",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "50% of the deposit",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "original_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Hugo Brassac",
+   "gold": "Trần Văn Khang, the owner"
+  },
+  {
+   "f": "original_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Hugo Brassac",
+   "gold": "Phạm Đức Long, the site manager"
+  },
+  {
+   "f": "original_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Hugo Brassac at 0903 418 265; the customer must turn off the main water valve",
+   "gold": "Call Phạm Đức Long at 0903 418 265, tell the customer the team is on the way; the customer must shut off the main water valve themselves"
+  },
+  {
+   "f": "original_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "original_r3",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r3",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r3",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r3",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Owen Tarrant",
+   "gold": "Owen Tarrant, the owner"
+  },
+  {
+   "f": "original_r3",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "original_r3",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Nadia Brecht",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "original_r3",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r3",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant can approve the 5th free reprint alone, but not the refund of 46",
+   "gold": "only the 5th reprint; the 46 refund needs approval"
+  },
+  {
+   "f": "original_r3",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the assistant calls Pim Larsson at 0161 555 0147; the customer must keep people out from under the sign until the installer arrives",
+   "gold": "Assistant calls Pim Larsson at 0161 555 0147 and tells the customer an installer is on his way; the customer must keep people out from under the sign until he arrives"
+  },
+  {
+   "f": "original_r3",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "24 hours",
+   "gold": "by 10:00 the next working day"
+  },
+  {
+   "f": "original_r3",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "original_r3",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r3",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "55,000 won",
+   "gold": "27,500 won"
+  },
+  {
+   "f": "original_r3",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "0 won",
+   "gold": "nothing (free)"
+  },
+  {
+   "f": "original_r3",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12:00",
+   "gold": "12:00 noon"
+  },
+  {
+   "f": "original_r3",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "박선영 주무관 (031-770-4128)",
+   "gold": "Park Sun-young (Health Promotion Team), 031-770-4128"
+  },
+  {
+   "f": "original_r3",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "original_r3",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "original_r3",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "14 days",
+   "gold": "14 days"
+  },
+  {
+   "f": "original_r3",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r3",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r3",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas, the owner"
+  },
+  {
+   "f": "original_r3",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Ferrand",
+   "gold": "Camille Ferrand, the workshop head"
+  },
+  {
+   "f": "original_r3",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Mathilde Delmas",
+   "gold": "No; Mathilde Delmas, the owner, must approve (900 euros is above 800)"
+  },
+  {
+   "f": "original_r3",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas"
+  },
+  {
+   "f": "original_r3",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r3",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r3",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Camille Ferrand at 04 72 55 01 38; the customer must place the book upright, open in an open fan, away from any radiator",
+   "gold": "no"
+  },
+  {
+   "f": "original_r3",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "24 hours",
+   "gold": "Call Camille Ferrand at 04 72 55 01 38, tell the customer she will call back within the hour; the customer must stand the book upright, fanned open, away from any radiator"
+  },
+  {
+   "f": "original_r3",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "original_r3",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6,000,000 dong",
+   "gold": "6,000,000 dong"
+  },
+  {
+   "f": "original_r3",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "80% of the deposit",
+   "gold": "4,800,000 dong"
+  },
+  {
+   "f": "original_r3",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "50% of the deposit",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "original_r3",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Hugo Brassac",
+   "gold": "Trần Văn Khang, the owner"
+  },
+  {
+   "f": "original_r3",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Hugo Brassac",
+   "gold": "Phạm Đức Long, the site manager"
+  },
+  {
+   "f": "original_r3",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r3",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Hugo Brassac at 0903 418 265; the customer must turn off the main water valve",
+   "gold": "Call Phạm Đức Long at 0903 418 265, tell the customer the team is on the way; the customer must shut off the main water valve themselves"
+  },
+  {
+   "f": "original_r3",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r3",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  }
+ ],
+ "summary": {
+  "mnc28_r1": {
+   "all": [
+    28,
+    39
+   ],
+   "S": [
+    20,
+    27
+   ],
+   "F": [
+    8,
+    12
+   ],
+   "hop2": [
+    15,
+    20
+   ]
+  },
+  "mnc28_r2": {
+   "all": [
+    30,
+    39
+   ],
+   "S": [
+    22,
+    27
+   ],
+   "F": [
+    8,
+    12
+   ],
+   "hop2": [
+    14,
+    20
+   ]
+  },
+  "mnc28_r3": {
+   "all": [
+    26,
+    39
+   ],
+   "S": [
+    19,
+    27
+   ],
+   "F": [
+    7,
+    12
+   ],
+   "hop2": [
+    13,
+    20
+   ]
+  },
+  "mnc28x_r1": {
+   "all": [
+    20,
+    39
+   ],
+   "S": [
+    15,
+    27
+   ],
+   "F": [
+    5,
+    12
+   ],
+   "hop2": [
+    9,
+    20
+   ]
+  },
+  "mnc28x_r2": {
+   "all": [
+    22,
+    39
+   ],
+   "S": [
+    17,
+    27
+   ],
+   "F": [
+    5,
+    12
+   ],
+   "hop2": [
+    10,
+    20
+   ]
+  },
+  "mnc28x_r3": {
+   "all": [
+    26,
+    39
+   ],
+   "S": [
+    18,
+    27
+   ],
+   "F": [
+    8,
+    12
+   ],
+   "hop2": [
+    11,
+    20
+   ]
+  },
+  "original_r1": {
+   "all": [
+    21,
+    39
+   ],
+   "S": [
+    14,
+    27
+   ],
+   "F": [
+    7,
+    12
+   ],
+   "hop2": [
+    10,
+    20
+   ]
+  },
+  "original_r2": {
+   "all": [
+    21,
+    39
+   ],
+   "S": [
+    14,
+    27
+   ],
+   "F": [
+    7,
+    12
+   ],
+   "hop2": [
+    10,
+    20
+   ]
+  },
+  "original_r3": {
+   "all": [
+    21,
+    39
+   ],
+   "S": [
+    14,
+    27
+   ],
+   "F": [
+    7,
+    12
+   ],
+   "hop2": [
+    10,
+    20
+   ]
+  }
+ }
+}

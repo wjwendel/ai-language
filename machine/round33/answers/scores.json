@@ -1,0 +1,3696 @@
+{
+ "rows": [
+  {
+   "f": "llm05_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; weekday checks are at 8:30 and 14:00",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; needs Nadia Brecht's approval (beyond 3 free reprints)",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; trade customers get 5 free reprints per order without approval",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Owen Tarrant",
+   "gold": "Owen Tarrant, the owner"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; custom-sign refunds above 45 need Owen Tarrant's approval",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Owen Tarrant",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Owen Tarrant may approve cancelling an order in production",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the 5th free reprint only; the 46 custom-sign refund needs Owen Tarrant's approval",
+   "gold": "only the 5th reprint; the 46 refund needs approval"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Pim Larsson (installer) at 0161 555 0147; the customer must keep people out from under the sign until he arrives",
+   "gold": "Assistant calls Pim Larsson at 0161 555 0147 and tells the customer an installer is on his way; the customer must keep people out from under the sign until he arrives"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 10:00 the next day (Friday)",
+   "gold": "by 10:00 the next working day"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the October 1 date applies only to the checkup notice",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated (bone density costs 7,500 won at 50%; thyroid ultrasound price not stated)",
+   "gold": "27,500 won"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing; basic-livelihood recipients are fully free",
+   "gold": "nothing (free)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12:00 noon",
+   "gold": "12:00 noon"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Park Seon-young (박선영 주무관), Health Promotion Team, 031-770-4128",
+   "gold": "Park Sun-young (Health Promotion Team), 031-770-4128"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; same-day cancellation is by phone only",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; must be aged 40 or over",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "14 days",
+   "gold": "14 days"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; weekday checkups run 8:00 to 11:00",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no; a discount up to 15% on restoration needs Camille Ferrand's approval",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas, the owner"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Mathilde Delmas",
+   "gold": "Camille Ferrand, the workshop head"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; quote over 800 euros must be approved by Mathilde Delmas (and the 10% restoration discount by Camille Ferrand)",
+   "gold": "No; Mathilde Delmas, the owner, must approve (900 euros is above 800)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Wednesday-morning walk-ins accepted only until 12:00",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "call Camille Ferrand at 04 72 55 01 38; the customer must stand the book upright away from any radiator",
+   "gold": "Call Camille Ferrand at 04 72 55 01 38, tell the customer she will call back within the hour; the customer must stand the book upright, fanned open, away from any radiator"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 24 hours",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6,000,000 dong",
+   "gold": "6,000,000 dong"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "80%: 4,800,000 dong",
+   "gold": "4,800,000 dong"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "50%: 3,000,000 dong",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Trần Văn Khang",
+   "gold": "Trần Văn Khang, the owner"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Phạm Đức Long",
+   "gold": "Phạm Đức Long, the site manager"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; email quotes without on-site survey only for areas under 5 m²",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Mr. Phạm Đức Long at 0903 418 265; the customer must shut off the water valve until the worker arrives",
+   "gold": "Call Phạm Đức Long at 0903 418 265, tell the customer the team is on the way; the customer must shut off the main water valve themselves"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; individuals pay at acceptance (15 days is for businesses)",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; scheduled weekday checks are at 8:30 and 14:00 only",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; non-trade customers get up to 3 free reprints, beyond that needs Nadia Brecht's approval",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; trade customers get up to 5 free reprints per order without approval",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Owen Tarrant (owner)",
+   "gold": "Owen Tarrant, the owner"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; custom sign refunds above 45 need Owen Tarrant's approval",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Owen Tarrant (owner)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Nadia may cancel only orders not yet in production",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only the 5th free reprint; the 46 custom-sign refund needs Owen Tarrant's approval",
+   "gold": "only the 5th reprint; the 46 refund needs approval"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Pim Larsson at 0161 555 0147 and tell the customer the installer is on the way; the customer must keep people out from under the sign until he arrives",
+   "gold": "Assistant calls Pim Larsson at 0161 555 0147 and tells the customer an installer is on his way; the customer must keep people out from under the sign until he arrives"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 10:00 the next working day (Friday 10:00)",
+   "gold": "by 10:00 the next working day"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the October 1 date applies only to the checkup notice",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no; staff mark the questionnaire",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated; the thyroid ultrasound price is not given (he pays 50% of optional costs, e.g. 7,500 won for bone density)",
+   "gold": "27,500 won"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing; optional tests are fully free for basic-livelihood recipients",
+   "gold": "nothing (free)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12:00 noon",
+   "gold": "12:00 noon"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Park Seon-young (박선영 주무관), Health Promotion Team, 031-770-4128",
+   "gold": "Park Sun-young (Health Promotion Team), 031-770-4128"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; same-day cancellation is by phone only",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; eligibility is residents aged 40 or older",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 14 days",
+   "gold": "14 days"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; weekday checkups run 8:30 to 11:30",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; up to 15% on restoration is allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas (owner)",
+   "gold": "Mathilde Delmas, the owner"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Ferrand (workshop head)",
+   "gold": "Camille Ferrand, the workshop head"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the 900-euro quote exceeds 800 euros, so Mathilde Delmas must approve it before sending",
+   "gold": "No; Mathilde Delmas, the owner, must approve (900 euros is above 800)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Wednesday walk-in drop-offs are accepted only until 12:00",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Camille Ferrand at 04 72 55 01 38 and tell the customer she will call back within the hour; the customer should stand the book upright, open, away from radiators",
+   "gold": "Call Camille Ferrand at 04 72 55 01 38, tell the customer she will call back within the hour; the customer must stand the book upright, fanned open, away from any radiator"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 24 hours",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6,000,000 dong",
+   "gold": "6,000,000 dong"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "80% of the deposit: 4,800,000 dong",
+   "gold": "4,800,000 dong"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "50% of the deposit: 3,000,000 dong",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Trần Văn Khang (owner)",
+   "gold": "Trần Văn Khang, the owner"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Phạm Đức Long (site manager)",
+   "gold": "Phạm Đức Long, the site manager"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the exception is only for areas under 5 m²",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Phạm Đức Long at 0903 418 265 and tell the customer the crew is coming; the customer should shut off the water valve",
+   "gold": "Call Phạm Đức Long at 0903 418 265, tell the customer the team is on the way; the customer must shut off the main water valve themselves"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; individual customers pay immediately on acceptance",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the inbox is checked on weekdays only at 8:30 and 14:00",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the limit is 3 free reprints, so a 4th needs approval from Nadia Brecht, workshop manager",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; trade customers (TR accounts) may get up to 5 free reprints per order without approval",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Owen Tarrant, owner (stock-sign refunds above 120)",
+   "gold": "Owen Tarrant, the owner"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the custom-sign limit is 45, so it needs approval (approver not named)",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated; approval is needed (above 45) but the approver is not named",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Owen may approve cancelling an order already in production",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only the 5th free reprint (trade limit 5); the 46 custom-sign refund exceeds 45 and needs approval (approver not named)",
+   "gold": "only the 5th reprint; the 46 refund needs approval"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Pim Larsson at once at 0161 555 0147; tell the customer an installer is on his way and that they must keep people out from under the sign themselves until he arrives",
+   "gold": "Assistant calls Pim Larsson at 0161 555 0147 and tells the customer an installer is on his way; the customer must keep people out from under the sign until he arrives"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 10:00 the next working day (Friday 10:00), since it arrived after 14:00",
+   "gold": "by 10:00 the next working day"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the October 1 condition applies only to the checkup notice received by mail",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; they must mark it themselves, and staff do not check or mark it for them",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "27,500 won (50% of 15,000 + 40,000; basic checks are free)",
+   "gold": "27,500 won"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing (0 won); basic-livelihood recipients get optional tests free regardless of age",
+   "gold": "nothing (free)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12:00 noon",
+   "gold": "12:00 noon"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Officer Park Seon-young (박선영 주무관), Health Promotion Team, at 031-770-4128",
+   "gold": "Park Sun-young (Health Promotion Team), 031-770-4128"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; same-day cancellation is by phone only",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; eligibility requires age 40 or older",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 14 days",
+   "gold": "14 days"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; weekday checkup hours end at 11:30",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; restoration discounts up to 15% may be granted by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas, owner",
+   "gold": "Mathilde Delmas, the owner"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Ferrand, workshop head",
+   "gold": "Camille Ferrand, the workshop head"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the amount after discount is 900 euros (>800), so Mathilde Delmas must approve it before sending",
+   "gold": "No; Mathilde Delmas, the owner, must approve (900 euros is above 800)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; walk-in drop-offs on Wednesday morning are accepted only until 12:00, otherwise by appointment",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Camille Ferrand at 04 72 55 01 38; tell the customer she will call them back within the hour and that they must stand the book upright, fanned open, away from any radiator",
+   "gold": "Call Camille Ferrand at 04 72 55 01 38, tell the customer she will call back within the hour; the customer must stand the book upright, fanned open, away from any radiator"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 24 hours",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6,000,000 dong (30%)",
+   "gold": "6,000,000 dong"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4,800,000 dong (80% of the 6,000,000 deposit)",
+   "gold": "4,800,000 dong"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000,000 dong (50% of the 6,000,000 deposit)",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Trần Văn Khang, owner",
+   "gold": "Trần Văn Khang, the owner"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Phạm Đức Long, site manager",
+   "gold": "Phạm Đức Long, the site manager"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the exception applies only to areas under 5 m²",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Phạm Đức Long immediately at 0903 418 265; tell the customer the crew is on the way and that they must shut the main water valve themselves immediately",
+   "gold": "Call Phạm Đức Long at 0903 418 265, tell the customer the team is on the way; the customer must shut off the main water valve themselves"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; individual customers must pay immediately at acceptance",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; weekday inbox checks are at 8:30 and 14:00 only",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; limit is 3 free reprints per order; a 4th needs approval of Nadia Brecht, workshop manager",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; trade customers (TR) may get up to 5 free reprints per order without approval",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Owen Tarrant, owner",
+   "gold": "Owen Tarrant, the owner"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; custom-sign refunds may be approved only up to 45; above needs approval (approver not named)",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated; above 45 on custom signs needs approval but the approver is not named",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Owen Tarrant may approve cancelling an order already in production",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only the 5th free reprint (trade customer, within 5); the 46 custom-sign refund exceeds 45 and needs approval (approver not named)",
+   "gold": "only the 5th reprint; the 46 refund needs approval"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Pim Larsson at once at 0161 555 0147; tell the customer an installer is on his way and they must keep people out from under the sign themselves until he arrives",
+   "gold": "Assistant calls Pim Larsson at 0161 555 0147 and tells the customer an installer is on his way; the customer must keep people out from under the sign until he arrives"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 10:00 the next working day (Friday), since it arrived after 14:00",
+   "gold": "by 10:00 the next working day"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the October 1 condition applies only to the mailed checkup notice",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; staff do not check or mark it on their behalf",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "27,500 won (50% of 15,000 + 40,000)",
+   "gold": "27,500 won"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "0 won; basic-livelihood recipients get optional tests fully free regardless of age",
+   "gold": "nothing (free)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12:00 noon",
+   "gold": "12:00 noon"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "박선영 주무관 (Park Seon-young), 건강증진팀 (health promotion team), 031-770-4128",
+   "gold": "Park Sun-young (Health Promotion Team), 031-770-4128"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; same-day cancellation is by phone only",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Haedeun residents aged 40 or older are eligible",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 14 days",
+   "gold": "14 days"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; weekday checkup hours end at 11:30",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; restoration discounts up to 15% may be granted",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas, owner",
+   "gold": "Mathilde Delmas, the owner"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Ferrand, workshop head",
+   "gold": "Camille Ferrand, the workshop head"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the amount after discount is 900 euros (>800), so Mathilde Delmas must approve it before sending (the 10% discount itself is within the 15% limit)",
+   "gold": "No; Mathilde Delmas, the owner, must approve (900 euros is above 800)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Wednesday walk-in drop-offs are accepted only until 12:00, otherwise by appointment",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Camille Ferrand at 04 72 55 01 38; tell the customer she will call back within the hour and they must stand the book upright, fanned open, away from any radiator",
+   "gold": "Call Camille Ferrand at 04 72 55 01 38, tell the customer she will call back within the hour; the customer must stand the book upright, fanned open, away from any radiator"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 24h",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6,000,000 dong",
+   "gold": "6,000,000 dong"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4,800,000 dong (80% of the 6,000,000 deposit)",
+   "gold": "4,800,000 dong"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000,000 dong (50% of the 6,000,000 deposit)",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Trần Văn Khang, owner",
+   "gold": "Trần Văn Khang, the owner"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Phạm Đức Long, site manager",
+   "gold": "Phạm Đức Long, the site manager"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the exception applies only to areas under 5 m²",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Phạm Đức Long immediately at 0903 418 265; tell the customer the crew is on the way and they must shut the main water valve themselves immediately",
+   "gold": "Call Phạm Đức Long at 0903 418 265, tell the customer the team is on the way; the customer must shut off the main water valve themselves"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; individual customers must pay immediately at acceptance",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; weekday inbox checks are at 8:30 and 14:00 only",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; non-trade limit is 3 free reprints per order, a 4th needs Nadia Brecht's approval",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; trade accounts starting TR may get up to 5 free reprints per order without approval",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Owen Tarrant (stock-sign refunds above 120 need Owen's approval)",
+   "gold": "Owen Tarrant, the owner"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; custom-sign refunds above 45 need approval (approver not stated)",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "approval is required since it is above 45, but the approver is not stated",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Owen may approve cancelling an order already in production",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only the 5th free reprint (TR account, up to 5); the 46 custom-sign refund exceeds 45 and needs approval (approver not stated)",
+   "gold": "only the 5th reprint; the 46 refund needs approval"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Pim Larsson yourself at once on 0161 555 0147; tell the customer the installer is coming and they must themselves keep people from under the sign until he arrives",
+   "gold": "Assistant calls Pim Larsson at 0161 555 0147 and tells the customer an installer is on his way; the customer must keep people out from under the sign until he arrives"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 10:00 the next working day (Friday 10:00), since it arrived after 14:00",
+   "gold": "by 10:00 the next working day"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the 'mailed since Oct 1' condition applies only to the checkup notice",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; staff don't check or mark it",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "27,500 won (50% of 15,000 + 40,000 = 55,000)",
+   "gold": "27,500 won"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "0 won; optional tests are fully free for basic-livelihood recipients",
+   "gold": "nothing (free)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12:00",
+   "gold": "12:00 noon"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "health promotion team officer 박선영 at 031-770-4128",
+   "gold": "Park Sun-young (Health Promotion Team), 031-770-4128"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; same-day cancellation is by phone only",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; eligibility is Haeden-gu residents aged 40+",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 14 days",
+   "gold": "14 days"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; weekday hours end at 11:30",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; restoration discounts up to 15% are allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas (new binding discounts above 10%)",
+   "gold": "Mathilde Delmas, the owner"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Ferrand (restoration discounts above 15%)",
+   "gold": "Camille Ferrand, the workshop head"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; after discount it is 900 euros (>800), so Mathilde Delmas must approve before sending",
+   "gold": "No; Mathilde Delmas, the owner, must approve (900 euros is above 800)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never copy Hugo Brassac on any invoice message",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; posting is allowed when the 25-euro shipping insurance is paid",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Wednesday walk-ins are only until 12:00, otherwise by appointment",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Camille Ferrand yourself on 04 72 55 01 38; tell the customer she calls back within the hour and they must stand the book upright, fanned open, away from radiators",
+   "gold": "Call Camille Ferrand at 04 72 55 01 38, tell the customer she will call back within the hour; the customer must stand the book upright, fanned open, away from any radiator"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 24h",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6,000,000 đồng (30%)",
+   "gold": "6,000,000 dong"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4,800,000 đồng (80% of the 6,000,000 deposit)",
+   "gold": "4,800,000 dong"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000,000 đồng (50% of the 6,000,000 deposit)",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Trần Văn Khang (small-repair discounts above 500,000 đồng)",
+   "gold": "Trần Văn Khang, the owner"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Phạm Đức Long (new tiling discounts above 2%)",
+   "gold": "Phạm Đức Long, the site manager"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the exception is only for areas under 5 m², and exactly 5 m² needs an on-site survey",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Phạm Đức Long yourself immediately on 0903 418 265; tell the customer the crew is coming and they must shut the main water valve themselves immediately",
+   "gold": "Call Phạm Đức Long at 0903 418 265, tell the customer the team is on the way; the customer must shut off the main water valve themselves"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact or cc Đỗ Văn Quang about any complaint",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; individuals must pay immediately at acceptance (15 days is for business customers)",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the inbox is checked on weekdays only at 8:30 and 14:00",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; beyond 3 free reprints needs Nadia's approval",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; trade (TR) accounts may get up to 5 free reprints per order without approval",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Owen Tarrant",
+   "gold": "Owen Tarrant, the owner"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; custom-sign refunds only up to 45 alone; above needs approval (approver unnamed)",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated; approval is needed above 45 but the approver is unnamed",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Owen may approve cancelling an order already in production",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the 5th free reprint; the 46 custom-sign refund exceeds 45 and needs approval",
+   "gold": "only the 5th reprint; the 46 refund needs approval"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Pim Larsson at once on 0161 555 0147; then tell the customer the installer is coming and they must themselves keep people from under the sign until he arrives",
+   "gold": "Assistant calls Pim Larsson at 0161 555 0147 and tells the customer an installer is on his way; the customer must keep people out from under the sign until he arrives"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 10:00 the next working day (Friday), since it arrived after 14:00",
+   "gold": "by 10:00 the next working day"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the 'mailed since Oct 1' condition applies only to the checkup notice",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; the person must mark it themselves, staff don't check or mark it",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "27,500 won (50% of 15,000 + 40,000)",
+   "gold": "27,500 won"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "0 won; optional tests are fully free for basic-livelihood recipients",
+   "gold": "nothing (free)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12:00",
+   "gold": "12:00 noon"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "health promotion team officer 박선영 at 031-770-4128",
+   "gold": "Park Sun-young (Health Promotion Team), 031-770-4128"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; same-day cancellation is by phone only",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; eligibility requires Haeden-gu residents aged 40+",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 14 days",
+   "gold": "14 days"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; weekday hours are 8:30-11:30",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; restoration discounts up to 15% are allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas, the owner"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Ferrand",
+   "gold": "Camille Ferrand, the workshop head"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the quote is 900 euros after discount (>800), so Mathilde Delmas must approve before sending",
+   "gold": "No; Mathilde Delmas, the owner, must approve (900 euros is above 800)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Wednesday walk-ins are only until 12:00, otherwise by appointment",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Camille Ferrand on 04 72 55 01 38; then tell the customer she calls back within the hour and they must themselves stand the book upright, fanned open, away from radiators",
+   "gold": "Call Camille Ferrand at 04 72 55 01 38, tell the customer she will call back within the hour; the customer must stand the book upright, fanned open, away from any radiator"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 24h",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6,000,000 dong (30%)",
+   "gold": "6,000,000 dong"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4,800,000 dong (80% of the 6,000,000 deposit)",
+   "gold": "4,800,000 dong"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000,000 dong (50% of the 6,000,000 deposit)",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Trần Văn Khang (owner)",
+   "gold": "Trần Văn Khang, the owner"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Phạm Đức Long (site manager)",
+   "gold": "Phạm Đức Long, the site manager"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the exception is only for areas under 5 m²",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Phạm Đức Long immediately on 0903 418 265; then tell the customer a crew is coming and they must shut the main water valve themselves immediately",
+   "gold": "Call Phạm Đức Long at 0903 418 265, tell the customer the team is on the way; the customer must shut off the main water valve themselves"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; individuals must pay immediately at acceptance",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; weekday checks are only at 8:30 and 14:00",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; a non-trade customer gets up to 3 free reprints per order, so a 4th needs approval from Nadia Brecht",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; trade customers (TR accounts) may get up to 5 free reprints per order without approval",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Owen Tarrant, the owner (above 120 on stock signs)",
+   "gold": "Owen Tarrant, the owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the assistant's limit on custom-sign refunds is 45 per order, so 120 needs approval",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "approval is required (above the 45 limit for custom signs), but the TEXT does not state who must approve it",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Owen Tarrant may approve cancelling an order already in production",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only the 5th free reprint (trade limit is 5); the 46 custom-sign refund exceeds the 45 limit and needs approval",
+   "gold": "only the 5th reprint; the 46 refund needs approval"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Pim Larsson at once at 0161 555 0147; tell the customer an installer is on his way, and the customer must keep people out from under the sign until he arrives",
+   "gold": "Assistant calls Pim Larsson at 0161 555 0147 and tells the customer an installer is on his way; the customer must keep people out from under the sign until he arrives"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 10:00 on Friday (the next working day), since it arrived after 14:00",
+   "gold": "by 10:00 the next working day"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the October 1 date applies only to the mailed checkup notice, not the ID card",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; the resident must mark fasting on the questionnaire themselves; staff will not check or mark it for them",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "27,500 won (50% of 15,000 + 40,000 = 55,000)",
+   "gold": "27,500 won"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing; basic-livelihood recipients get optional tests fully free regardless of age (0 won)",
+   "gold": "nothing (free)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12:00 noon",
+   "gold": "12:00 noon"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Park Seon-young (박선영), Health Promotion Team, at 031-770-4128",
+   "gold": "Park Sun-young (Health Promotion Team), 031-770-4128"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; same-day cancellation is by phone only (website cancellation only until the day before)",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; eligibility is Haedeun residents aged 40 or over",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 14 days",
+   "gold": "14 days"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; weekday checkup hours end at 11:30 a.m.",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; the assistant may grant up to 15% on a restoration alone",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas, the owner (new-binding limit is 10%)",
+   "gold": "Mathilde Delmas, the owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Ferrand, the workshop head (above 15% on restoration)",
+   "gold": "Camille Ferrand, the workshop head"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the quote after discount is 900 euros (over 800), so Mathilde Delmas must approve it before sending (the 10% discount itself is within the assistant's restoration limit)",
+   "gold": "No; Mathilde Delmas, the owner, must approve (900 euros is above 800)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never copy Hugo Brassac on a message about an invoice",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; posting is allowed if the 25-euro shipping insurance has been paid",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; walk-in drop-offs are accepted on Wednesday morning only until 12:00, otherwise by appointment",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Camille Ferrand at 04 72 55 01 38; tell the customer she will call back within the hour, and the customer must stand the book upright, fanned open, away from any radiator",
+   "gold": "Call Camille Ferrand at 04 72 55 01 38, tell the customer she will call back within the hour; the customer must stand the book upright, fanned open, away from any radiator"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 24 hours",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6,000,000 dong (30% of the quote)",
+   "gold": "6,000,000 dong"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4,800,000 dong (80% of the 6,000,000 deposit, cancelled at least 7 days before)",
+   "gold": "4,800,000 dong"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000,000 dong (50% of the 6,000,000 deposit, cancelled less than 7 days before)",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mr. Trần Văn Khang, the owner (small repair discounts above 500,000 dong)",
+   "gold": "Trần Văn Khang, the owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mr. Phạm Đức Long, the project manager (new tiling discounts above 2%)",
+   "gold": "Phạm Đức Long, the site manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; quotes without an on-site survey are only allowed if the area is under 5 m²",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Mr. Phạm Đức Long immediately at 0903 418 265; tell the customer the crew is on the way, and the customer must shut off the main water valve immediately themselves",
+   "gold": "Call Phạm Đức Long at 0903 418 265, tell the customer the team is on the way; the customer must shut off the main water valve themselves"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never contact or copy Đỗ Văn Quang about any complaint",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; individual customers must pay immediately at acceptance (15 days applies to business customers)",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — inbox is checked on weekdays only at 8:30 and 14:00",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — non-trade limit is 3 free reprints per order; beyond that goes to Nadia Brecht",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — trade accounts (TR*) may have up to 5 free reprints per order without approval",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Owen Tarrant (owner) — stock sign refunds over 120",
+   "gold": "Owen Tarrant, the owner"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — custom sign refunds over 45 need approval",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "approval required (over 45 on a custom sign); approver not stated",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — orders in production can be cancelled only by Owen",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the 5th free reprint (trade limit 5); the 46 custom-sign refund exceeds 45 and needs approval",
+   "gold": "only the 5th reprint; the 46 refund needs approval"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Pim Larsson immediately at 0161 555 0147; tell the customer the installer is on his way and they must keep people out from under the sign until he arrives",
+   "gold": "Assistant calls Pim Larsson at 0161 555 0147 and tells the customer an installer is on his way; the customer must keep people out from under the sign until he arrives"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 10:00 the next working day (Friday), since it arrived after 14:00",
+   "gold": "by 10:00 the next working day"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the October 1 condition applies only to the mailed notice",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — the resident marks it personally; staff cannot do it for them",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "27,500 won (50% of 15,000 + 40,000)",
+   "gold": "27,500 won"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "0 won — basic-livelihood recipients get optional tests free regardless of age",
+   "gold": "nothing (free)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12:00",
+   "gold": "12:00 noon"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Park Seon-young (박선영 주무관), Health Promotion Team, 031-770-4128",
+   "gold": "Park Sun-young (Health Promotion Team), 031-770-4128"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — same-day cancellation is by phone only",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — eligibility is age 40 or older",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 14 days",
+   "gold": "14 days"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — weekday hours end at 11:30",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — restoration discounts up to 15% may be granted alone",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas — new binding discounts over 10%",
+   "gold": "Mathilde Delmas, the owner"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Ferrand — restoration discounts over 15%",
+   "gold": "Camille Ferrand, the workshop head"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — after discount it is 900 euros (>800), so Mathilde Delmas must approve before sending",
+   "gold": "No; Mathilde Delmas, the owner, must approve (900 euros is above 800)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes — posting is allowed when the 25-euro shipping insurance is paid",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — Wednesday walk-ins only until 12:00",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Camille Ferrand yourself at 04 72 55 01 38; tell the customer she will call back within the hour and that they must stand the book upright, fanned open, away from any radiator",
+   "gold": "Call Camille Ferrand at 04 72 55 01 38, tell the customer she will call back within the hour; the customer must stand the book upright, fanned open, away from any radiator"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 24 hours",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6,000,000 dong (30%)",
+   "gold": "6,000,000 dong"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4,800,000 dong (80% of the 6,000,000 deposit)",
+   "gold": "4,800,000 dong"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000,000 dong (50% of the 6,000,000 deposit)",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "anh Trần Văn Khang — small repair discounts over 500,000 dong",
+   "gold": "Trần Văn Khang, the owner"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "anh Phạm Đức Long — new tiling discounts over 2%",
+   "gold": "Phạm Đức Long, the site manager"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — the no-survey exception applies only to areas under 5 m²",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call anh Phạm Đức Long immediately at 0903 418 265; tell the customer the crew is coming and they must shut off the main water valve immediately",
+   "gold": "Call Phạm Đức Long at 0903 418 265, tell the customer the team is on the way; the customer must shut off the main water valve themselves"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no — individuals pay immediately upon acceptance; 15 days applies to businesses",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; checks are at 8:30 and 14:00 on weekdays",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; beyond 3 per order for non-trade needs Nadia Brecht",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; trade customers get up to 5 per order with no approval",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Owen Tarrant",
+   "gold": "Owen Tarrant, the owner"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; custom sign refunds over 45 need approval",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "approval needed (over 45 on a custom sign); the TEXT does not say who approves",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Owen may cancel an order in production",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the 5th free reprint only; the 46 custom-sign refund exceeds 45 and needs approval",
+   "gold": "only the 5th reprint; the 46 refund needs approval"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Pim Larsson right away on 0161 555 0147; the customer must keep people out from under the sign until he arrives",
+   "gold": "Assistant calls Pim Larsson at 0161 555 0147 and tells the customer an installer is on his way; the customer must keep people out from under the sign until he arrives"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 10:00 on Friday (next working day)",
+   "gold": "by 10:00 the next working day"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the after-Oct-1 condition applies only to the checkup notice",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "27,500 won (50% of 15,000 + 40,000)",
+   "gold": "27,500 won"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing (0 won); optional items are fully free for basic livelihood recipients",
+   "gold": "nothing (free)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12:00",
+   "gold": "12:00 noon"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Health Promotion Team, officer Park Seon-young, 031-770-4128",
+   "gold": "Park Sun-young (Health Promotion Team), 031-770-4128"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; same-day cancellation is by phone only",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; eligibility is age 40+",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 14 days",
+   "gold": "14 days"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; weekday hours end at 11:30",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas, the owner"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Ferrand",
+   "gold": "Camille Ferrand, the workshop head"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the post-discount quote is 900 euros (over 800), so Mathilde Delmas must approve",
+   "gold": "No; Mathilde Delmas, the owner, must approve (900 euros is above 800)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Wednesday walk-ins are only until 12:00",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Camille Ferrand on 04 72 55 01 38; the customer must stand the book upright, fanned open, away from radiators",
+   "gold": "Call Camille Ferrand at 04 72 55 01 38, tell the customer she will call back within the hour; the customer must stand the book upright, fanned open, away from any radiator"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 24 hours",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6,000,000 VND",
+   "gold": "6,000,000 dong"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4,800,000 VND (80% of the 6,000,000 deposit)",
+   "gold": "4,800,000 dong"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000,000 VND (50% of the deposit)",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mr. Trần Văn Khang",
+   "gold": "Trần Văn Khang, the owner"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mr. Phạm Đức Long",
+   "gold": "Phạm Đức Long, the site manager"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the area must be under 5 m²",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Mr. Phạm Đức Long right away on 0903 418 265; the customer must shut the main water valve themselves right away",
+   "gold": "Call Phạm Đức Long at 0903 418 265, tell the customer the team is on the way; the customer must shut off the main water valve themselves"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; individuals pay at acceptance",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, inbox is checked weekdays at 8:30 and 14:00 only",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, non-trade limit is 3 per order; a 4th needs Nadia Brecht's approval",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, trade customers get up to 5 per order with no approval",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Owen Tarrant (owner)",
+   "gold": "Owen Tarrant, the owner"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, custom-sign self-approval limit is 45; it needs approval (approver not stated)",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "it exceeds the 45 self-approval limit and needs approval; who approves is not stated",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only Owen Tarrant may cancel an order in production",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only the 5th free reprint (trade limit 5); the 46 custom-sign refund exceeds 45 and needs approval",
+   "gold": "only the 5th reprint; the 46 refund needs approval"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call installer Pim Larsson immediately at 0161 555 0147; tell the customer the installer is on his way; customer must keep people out from under the sign until he arrives",
+   "gold": "Assistant calls Pim Larsson at 0161 555 0147 and tells the customer an installer is on his way; the customer must keep people out from under the sign until he arrives"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by 10:00 on Friday (next working day)",
+   "gold": "by 10:00 the next working day"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the after-Oct-1 condition applies to the checkup notice, not the ID",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, staff will not check or mark it for you",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "27,500 won (50% of 15,000 + 40,000)",
+   "gold": "27,500 won"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing, 0 won; optional items are fully free for basic livelihood recipients",
+   "gold": "nothing (free)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "12:00",
+   "gold": "12:00 noon"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Health Promotion Team, officer Park Seon-young, 031-770-4128",
+   "gold": "Park Sun-young (Health Promotion Team), 031-770-4128"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, same-day cancellation is by phone only",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, eligibility is residents aged 40+",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 14 days",
+   "gold": "14 days"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, weekday hours end at 11:30",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, restoration self-discount limit is 15%",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas, the owner"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Ferrand",
+   "gold": "Camille Ferrand, the workshop head"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, post-discount quote is 900 euros (>800), so Mathilde Delmas must approve; the 10% discount itself is within the assistant's limit",
+   "gold": "No; Mathilde Delmas, the owner, must approve (900 euros is above 800)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mathilde Delmas",
+   "gold": "Mathilde Delmas"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, but do not promise a completion date",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Wednesday walk-ins are only until 12:00",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Camille Ferrand at 04 72 55 01 38; tell the client she'll call back within the hour; client must stand the book upright, fanned open, away from radiators",
+   "gold": "Call Camille Ferrand at 04 72 55 01 38, tell the customer she will call back within the hour; the customer must stand the book upright, fanned open, away from any radiator"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 24 hours",
+   "gold": "within 24 hours"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "6,000,000 VND (30%)",
+   "gold": "6,000,000 dong"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "80% of the deposit: 4,800,000 VND",
+   "gold": "4,800,000 dong"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "50% of the deposit: 3,000,000 VND",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mr. Trần Văn Khang (owner)",
+   "gold": "Trần Văn Khang, the owner"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mr. Phạm Đức Long (site manager)",
+   "gold": "Phạm Đức Long, the site manager"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, emailed quotes without survey are only allowed for areas under 5 m²",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call site manager Phạm Đức Long immediately at 0903 418 265; tell the customer the crew is en route; customer must shut the main water valve themselves immediately",
+   "gold": "Call Phạm Đức Long at 0903 418 265, tell the customer the team is on the way; the customer must shut off the main water valve themselves"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, individuals pay at acceptance",
+   "gold": "no"
+  }
+ ],
+ "summary": {
+  "llm05_r1": {
+   "all": [
+    33,
+    39
+   ],
+   "S": [
+    23,
+    27
+   ],
+   "F": [
+    10,
+    12
+   ],
+   "hop2": [
+    17,
+    20
+   ]
+  },
+  "llm066_r1": {
+   "all": [
+    36,
+    39
+   ],
+   "S": [
+    26,
+    27
+   ],
+   "F": [
+    10,
+    12
+   ],
+   "hop2": [
+    18,
+    20
+   ]
+  },
+  "mnc28_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    27,
+    27
+   ],
+   "F": [
+    12,
+    12
+   ],
+   "hop2": [
+    20,
+    20
+   ]
+  },
+  "mnc28_r2": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    27,
+    27
+   ],
+   "F": [
+    12,
+    12
+   ],
+   "hop2": [
+    20,
+    20
+   ]
+  },
+  "mnc28x_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    27,
+    27
+   ],
+   "F": [
+    12,
+    12
+   ],
+   "hop2": [
+    20,
+    20
+   ]
+  },
+  "mnc28x_r2": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    27,
+    27
+   ],
+   "F": [
+    12,
+    12
+   ],
+   "hop2": [
+    20,
+    20
+   ]
+  },
+  "original_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    27,
+    27
+   ],
+   "F": [
+    12,
+    12
+   ],
+   "hop2": [
+    20,
+    20
+   ]
+  },
+  "summ_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    27,
+    27
+   ],
+   "F": [
+    12,
+    12
+   ],
+   "hop2": [
+    20,
+    20
+   ]
+  },
+  "terse_r1": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    27,
+    27
+   ],
+   "F": [
+    12,
+    12
+   ],
+   "hop2": [
+    20,
+    20
+   ]
+  },
+  "terse_r2": {
+   "all": [
+    39,
+    39
+   ],
+   "S": [
+    27,
+    27
+   ],
+   "F": [
+    12,
+    12
+   ],
+   "hop2": [
+    20,
+    20
+   ]
+  }
+ }
+}

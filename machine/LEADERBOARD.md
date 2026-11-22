@@ -269,3 +269,16 @@ Not a new best: terse English saved 9.5 points more than MNC28 main at equal acc
 | LLMLingua-2 0.66 / 0.5 | 43.7% / 54.8% (o200k) | 77.5% / 70.0% ×1 (0.66 lost Japanese section; 0.5 invented approvers, dropped an emergency step) | – | – |
 7B (3 runs): MNC28 45-57.5%, MNC28x 50-52.5%, original 45-50% (ties). Bench-v1 not run. Questions at ceiling for faithful texts.
 Not a new best: terse English saved 14.3 points more than MNC28 main at equal accuracy; MNC28x close behind terse (−2.2 o200k). Ready counter: **MNC28: 2/3**. Details: machine/round32/SCORES.md.
+
+
+### r33 (fully blind, independent author; en/ko/fr/vi), MNC28 main frozen (RULES sha1 f70a3563) + MNC28x probe — run and scored 2026-11-22 01:17-~02:00 CT (strong reader = fresh no-context frontier helpers; independent decode judge)
+| Text | Saved o200k / cl100k | Direct use, strong (S) | Blind decode (judge, 138 facts) | Instruction-safety |
+|---|---|---|---|---|
+| MNC28 (main, no key) | 22.3% / 32.7% | 100% ×2 (S 27/27 ×2) | A 138/138; B 137/138 (1 F decoder-caused distortion), 0 S errors | **PASS** |
+| MNC28x (probe; all non-English sections as English slots) | 41.6% / 55.0% | 100% ×2 (S 27/27 ×2) | not run | – (probe) |
+| original | 0 | 100% (after one shared regex fix; 97.4% before) | – | – |
+| terse English | 42.4% / 55.6% | 100% ×2 | – | – |
+| summarize | 31.0% / 33.4% | 100% ×1 | – | – |
+| LLMLingua-2 0.66 / 0.5 | 34.2% / 48.7% (o200k) | 92.3% / 84.6% ×1 (both named an unstated approver; 0.5 flipped a permission and dropped an emergency step) | – | – |
+7B (3 runs): MNC28 66.7-76.9%, MNC28x 51.3-66.7%, original 53.8% ×3. Bench-v1 not run. Questions at ceiling for faithful texts.
+Not a new best: terse English saved 20.1 points more than MNC28 main at equal accuracy; MNC28x ties terse (−0.8 o200k, −0.6 cl100k). Ready counter: **MNC28: 3/3** — meets the ready-for-live-instructions bar (rounds 31-33). Details: machine/round33/SCORES.md.

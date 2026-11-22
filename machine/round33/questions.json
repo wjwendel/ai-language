@@ -1,0 +1,552 @@
+{
+ "written": "2026-11-22 by independent author (r33)",
+ "questions": [
+  {
+   "id": "§1.q1",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "평일 오전 11시 15분에 고객 이메일이 도착했습니다. 비서는 정해진 일정상 오전 11시 15분에 받은편지함을 확인합니까?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§1.q2",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A non-trade customer asks for a 4th free reprint on one order. May the assistant approve it alone?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§1.q3",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A trade customer (account TR-882) asks for a 5th free reprint on one order. May the assistant approve it without anyone's approval?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": [
+    "^\\W*no\\b"
+   ]
+  },
+  {
+   "id": "§1.q4",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer asks for a refund of 121 on a stock sign. Who must approve it?",
+   "gold": "Owen Tarrant, the owner",
+   "accept": [
+    "owen|tarrant"
+   ],
+   "reject": [
+    "^\\W*(nadia|brecht|pim|larsson)"
+   ]
+  },
+  {
+   "id": "§1.q5",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer asks for a refund of 120 on a custom sign. May the assistant approve it alone?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§1.q6",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer asks for a refund of 50 on a custom sign. Who must approve it?",
+   "gold": "needs approval, approver not stated",
+   "accept": [
+    "not\\s+(stated|specified|named|given|mentioned)|unspecified|unnamed|doesn.?t\\s+(say|specify|name)|does\\s+not\\s+(say|specify|name)|no\\s+approver|unknown|does\\s+not\\s+state|doesn.?t\\s+state"
+   ],
+   "reject": [
+    "^\\W*(owen|tarrant|nadia|brecht|pim|larsson|the owner|the workshop manager)"
+   ]
+  },
+  {
+   "id": "§1.q7",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "Nadia Brecht wants to cancel an order that is already in production. Is she allowed to approve that cancellation?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§1.q8",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A trade customer (account TR-17) asks in one email for a 5th free reprint and a refund of 46 on a custom sign. Which of the two may the assistant approve alone?",
+   "gold": "only the 5th reprint; the 46 refund needs approval",
+   "accept": [
+    "reprint"
+   ],
+   "reject": [
+    "^\\W*(both|neither|the\\s+refund)"
+   ]
+  },
+  {
+   "id": "§1.q9",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer reports that a sign installed by the shop is hanging loose over a walkway. Whom does the assistant call and at what number, and what must the customer do themselves?",
+   "gold": "Assistant calls Pim Larsson at 0161 555 0147 and tells the customer an installer is on his way; the customer must keep people out from under the sign until he arrives",
+   "accept": [
+    "0161\\W*555\\W*0147",
+    "pim|larsson",
+    "(keep|clear|block|stop|prevent)",
+    "(people|anyone|everyone|pedestrian|area|under)"
+   ],
+   "reject": [
+    "555\\W*0174"
+   ]
+  },
+  {
+   "id": "§1.q10",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Une nouvelle demande arrive un jeudi à 15h20. Quelle est la limite pour y répondre ?",
+   "gold": "by 10:00 the next working day",
+   "accept": [
+    "(10:00|10\\s*a\\.?m|10\\s*h|10\\s*o.?clock)",
+    "(next|following)"
+   ],
+   "reject": [
+    "19:20|7:20"
+   ]
+  },
+  {
+   "id": "§2.q1",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "Does the October 1 date condition apply to the ID card (신분증) as well as to the checkup notice?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§2.q2",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "혈액 검사를 받는 주민은 금식 여부를 문진표에 본인이 직접 표시해야 합니까?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": [
+    "^\\W*no\\b"
+   ]
+  },
+  {
+   "id": "§2.q3",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "A 67-year-old resident who is not a basic-livelihood recipient takes both optional tests. How much does he pay in total?",
+   "gold": "27,500 won",
+   "accept": [
+    "(?<!\\d)27\\W?500(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q4",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "A 70-year-old basic-livelihood recipient (기초생활수급자) takes both optional tests. How much does she pay?",
+   "gold": "nothing (free)",
+   "accept": [
+    "(?<!\\d)0(?!\\d)|free|nothing|no\\s+charge|무료"
+   ],
+   "reject": [
+    "27\\W?500|55\\W?000"
+   ]
+  },
+  {
+   "id": "§2.q5",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "11월 15일 토요일 특별 검진은 몇 시에 끝납니까?",
+   "gold": "12:00 noon",
+   "accept": [
+    "(?<!\\d)12(?!\\d)|noon|정오"
+   ],
+   "reject": [
+    "11:30|11\\s*:?\\s*30"
+   ]
+  },
+  {
+   "id": "§2.q6",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "A resident wants both to change her appointment and to ask about her results. Whom should she contact, and at what number?",
+   "gold": "Park Sun-young (Health Promotion Team), 031-770-4128",
+   "accept": [
+    "park|박선영|sun.?young|seon.?young",
+    "031\\W*770\\W*4128"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q7",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "Can a resident cancel on the day of the checkup through the health centre website?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§2.q8",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "A 39-year-old Haedeun resident wants the free checkup. Is she eligible?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§2.q9",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "Within how many days of the checkup are results mailed?",
+   "gold": "14 days",
+   "accept": [
+    "(?<!\\d)14(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q10",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "평일 오전 11시 40분에 도착한 주민이 검진을 받을 수 있습니까?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§3.q1",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Un client demande une remise de 15 % sur une restauration. L'assistant peut-il l'accorder seul ?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": [
+    "^\\W*no\\b"
+   ]
+  },
+  {
+   "id": "§3.q2",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer wants a 12% discount on a new binding. Who must approve it?",
+   "gold": "Mathilde Delmas, the owner",
+   "accept": [
+    "mathilde|delmas"
+   ],
+   "reject": [
+    "^\\W*(camille|ferrand|hugo|brassac)"
+   ]
+  },
+  {
+   "id": "§3.q3",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer wants a 16% discount on a restoration. Who must approve it?",
+   "gold": "Camille Ferrand, the workshop head",
+   "accept": [
+    "camille|ferrand"
+   ],
+   "reject": [
+    "^\\W*(mathilde|hugo|brassac)"
+   ]
+  },
+  {
+   "id": "§3.q4",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A restoration quote is 1,000 euros before discount and the customer gets a 10% discount. May the quote be sent without approval? If not, who must approve it?",
+   "gold": "No; Mathilde Delmas, the owner, must approve (900 euros is above 800)",
+   "accept": [
+    "^\\W*no\\b",
+    "mathilde|delmas"
+   ],
+   "reject": [
+    "^\\W*(yes|camille)"
+   ]
+  },
+  {
+   "id": "§3.q5",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Who is the owner of the workshop?",
+   "gold": "Mathilde Delmas",
+   "accept": [
+    "mathilde|delmas"
+   ],
+   "reject": [
+    "^\\W*(camille|ferrand|hugo)"
+   ]
+  },
+  {
+   "id": "§3.q6",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "May the assistant copy Hugo Brassac on a message about an invoice?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§3.q7",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer who has paid the 25-euro shipping insurance asks for the book to be posted back. Is that allowed?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": [
+    "^\\W*no\\b"
+   ]
+  },
+  {
+   "id": "§3.q8",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Un client veut déposer un livre sans rendez-vous le mercredi à 12h10. Est-ce permis ?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§3.q9",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer says a book the workshop returned to them got wet. Whom does the assistant call and at what number, and what must the customer do themselves?",
+   "gold": "Call Camille Ferrand at 04 72 55 01 38, tell the customer she will call back within the hour; the customer must stand the book upright, fanned open, away from any radiator",
+   "accept": [
+    "04\\W*72\\W*55\\W*01\\W*38",
+    "camille|ferrand",
+    "(upright|standing|stand|on\\s+end)",
+    "(fan|open)"
+   ],
+   "reject": [
+    "55\\W*01\\W*83(?!\\d)"
+   ]
+  },
+  {
+   "id": "§3.q10",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Dans quel délai faut-il répondre à une réclamation ?",
+   "gold": "within 24 hours",
+   "accept": [
+    "(?<!\\d)24\\s*h"
+   ],
+   "reject": [
+    "(?<!\\d)2\\s*(working|business)"
+   ]
+  },
+  {
+   "id": "§4.q1",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "Báo giá ốp lát mới là 20.000.000 đồng. Tiền cọc là bao nhiêu?",
+   "gold": "6,000,000 dong",
+   "accept": [
+    "(?<!\\d)6\\W?000\\W?000(?!\\d)|(?<!\\d)6\\s*(million|triệu)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q2",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "For a quote of 20,000,000 dong, the customer cancels 10 days before the start date. How much of the deposit is refunded?",
+   "gold": "4,800,000 dong",
+   "accept": [
+    "(?<!\\d)4\\W?800\\W?000(?!\\d)|4[.,]8\\s*(million|triệu)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q3",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "Cùng báo giá 20.000.000 đồng, khách hủy trước ngày thi công 6 ngày. Khách được hoàn bao nhiêu tiền cọc?",
+   "gold": "3,000,000 dong",
+   "accept": [
+    "(?<!\\d)3\\W?000\\W?000(?!\\d)|(?<!\\d)3\\s*(million|triệu)"
+   ],
+   "reject": [
+    "4\\W?800"
+   ]
+  },
+  {
+   "id": "§4.q4",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "Khách đơn sửa chữa nhỏ xin giảm 550.000 đồng. Ai phải duyệt?",
+   "gold": "Trần Văn Khang, the owner",
+   "accept": [
+    "khang"
+   ],
+   "reject": [
+    "^\\W*(long|phạm|pham|hà|ha\\b|lê|le\\b|quang)"
+   ]
+  },
+  {
+   "id": "§4.q5",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A new tiling order customer asks for a 3% discount. Who must approve it?",
+   "gold": "Phạm Đức Long, the site manager",
+   "accept": [
+    "long"
+   ],
+   "reject": [
+    "^\\W*(khang|trần|tran|hà|lê|quang)"
+   ]
+  },
+  {
+   "id": "§4.q6",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer wants an emailed quote, without an on-site survey, for exactly 5 m² of tiling. Is that allowed?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§4.q7",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer reports water leaking because a worker drilled into a pipe. Whom does the assistant call and at what number, and what must the customer do themselves?",
+   "gold": "Call Phạm Đức Long at 0903 418 265, tell the customer the team is on the way; the customer must shut off the main water valve themselves",
+   "accept": [
+    "0903\\W*418\\W*265",
+    "long",
+    "valve|van"
+   ],
+   "reject": [
+    "418\\W*256(?!\\d)"
+   ]
+  },
+  {
+   "id": "§4.q8",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "May the assistant copy Đỗ Văn Quang on a complaint?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§4.q9",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "Khách cá nhân có được thanh toán trong vòng 15 ngày sau nghiệm thu không?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  }
+ ]
+}

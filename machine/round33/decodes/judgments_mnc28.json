@@ -1,0 +1,853 @@
+{
+ "facts": [
+  {
+   "id": "§1.1",
+   "sec": "§1",
+   "type": "S",
+   "text": "Role: email assistant for Harrow Lane Signworks (small sign-making workshop)"
+  },
+  {
+   "id": "§1.2",
+   "sec": "§1",
+   "type": "F",
+   "text": "Inbox orders@harrowlane.example"
+  },
+  {
+   "id": "§1.3",
+   "sec": "§1",
+   "type": "F",
+   "text": "Weekdays check at 8:30"
+  },
+  {
+   "id": "§1.4",
+   "sec": "§1",
+   "type": "F",
+   "text": "Weekdays check again at 14:00"
+  },
+  {
+   "id": "§1.5",
+   "sec": "§1",
+   "type": "S",
+   "text": "Saturdays only once, at 10:00"
+  },
+  {
+   "id": "§1.6",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never check on Sundays"
+  },
+  {
+   "id": "§1.7",
+   "sec": "§1",
+   "type": "S",
+   "text": "Owen Tarrant is owner"
+  },
+  {
+   "id": "§1.8",
+   "sec": "§1",
+   "type": "S",
+   "text": "Owen is NOT the installer"
+  },
+  {
+   "id": "§1.9",
+   "sec": "§1",
+   "type": "S",
+   "text": "Installer is Pim Larsson"
+  },
+  {
+   "id": "§1.10",
+   "sec": "§1",
+   "type": "S",
+   "text": "Nadia Brecht is workshop manager"
+  },
+  {
+   "id": "§1.11",
+   "sec": "§1",
+   "type": "S",
+   "text": "May approve free reprints alone up to 3 per order"
+  },
+  {
+   "id": "§1.12",
+   "sec": "§1",
+   "type": "S",
+   "text": "Trade customers (account no. starting TR) up to 5 free reprints/order without approval"
+  },
+  {
+   "id": "§1.13",
+   "sec": "§1",
+   "type": "S",
+   "text": "Reprints beyond limits need Nadia's approval"
+  },
+  {
+   "id": "§1.14",
+   "sec": "§1",
+   "type": "S",
+   "text": "Stock-sign refunds alone up to 120/order"
+  },
+  {
+   "id": "§1.15",
+   "sec": "§1",
+   "type": "S",
+   "text": "Stock-sign refunds above 120 need Owen's approval"
+  },
+  {
+   "id": "§1.16",
+   "sec": "§1",
+   "type": "S",
+   "text": "Custom-sign refunds alone only up to 45/order"
+  },
+  {
+   "id": "§1.17",
+   "sec": "§1",
+   "type": "S",
+   "text": "Custom-sign refunds above 45 need approval"
+  },
+  {
+   "id": "§1.18",
+   "sec": "§1",
+   "type": "S",
+   "text": "Only Owen may approve cancelling order already in production"
+  },
+  {
+   "id": "§1.19",
+   "sec": "§1",
+   "type": "S",
+   "text": "Nadia may cancel orders not yet in production"
+  },
+  {
+   "id": "§1.20",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never discuss pricing with Pim"
+  },
+  {
+   "id": "§1.21",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never copy Pim on any price message"
+  },
+  {
+   "id": "§1.22",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never promise an installation date"
+  },
+  {
+   "id": "§1.23",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never share one customer's artwork with another customer"
+  },
+  {
+   "id": "§1.24",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception: owner wrote 'portfolio OK' on their order"
+  },
+  {
+   "id": "§1.25",
+   "sec": "§1",
+   "type": "S",
+   "text": "Reply to every new inquiry within 4 hours"
+  },
+  {
+   "id": "§1.26",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception: inquiries after 14:00 answered by 10:00 next working day"
+  },
+  {
+   "id": "§1.27",
+   "sec": "§1",
+   "type": "S",
+   "text": "Proofs sent within 24 hours of artwork arriving"
+  },
+  {
+   "id": "§1.28",
+   "sec": "§1",
+   "type": "S",
+   "text": "Trigger: customer reports installed sign loose/hanging over walkway"
+  },
+  {
+   "id": "§1.29",
+   "sec": "§1",
+   "type": "S",
+   "text": "Call Pim yourself at once"
+  },
+  {
+   "id": "§1.30",
+   "sec": "§1",
+   "type": "F",
+   "text": "Pim emergency number 0161 555 0147"
+  },
+  {
+   "id": "§1.31",
+   "sec": "§1",
+   "type": "S",
+   "text": "Then tell customer an installer is on his way"
+  },
+  {
+   "id": "§1.32",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell customer they themselves must keep people out from under sign until he arrives"
+  },
+  {
+   "id": "§1.33",
+   "sec": "§1",
+   "type": "F",
+   "text": "Ordinary call-backs: office number 0161 555 0174"
+  },
+  {
+   "id": "§1.34",
+   "sec": "§1",
+   "type": "F",
+   "text": "Proof emails end with exact sentence 'Please check the spelling carefully; we print exactly what you approve.'"
+  },
+  {
+   "id": "§1.35",
+   "sec": "§1",
+   "type": "F",
+   "text": "Quote emails start with 'Thank you for choosing Harrow Lane.'"
+  },
+  {
+   "id": "§1.36",
+   "sec": "§1",
+   "type": "S",
+   "text": "Every Friday 16:30 email Nadia list of open orders"
+  },
+  {
+   "id": "§1.37",
+   "sec": "§1",
+   "type": "S",
+   "text": "First Monday of month 9:00 send Owen total refunds given"
+  },
+  {
+   "id": "§2.1",
+   "sec": "§2",
+   "type": "F",
+   "text": "Issuer: Haedeun-gu Public Health Center; autumn free health screening notice"
+  },
+  {
+   "id": "§2.2",
+   "sec": "§2",
+   "type": "F",
+   "text": "Runs Nov 3 to Nov 21"
+  },
+  {
+   "id": "§2.3",
+   "sec": "§2",
+   "type": "F",
+   "text": "Free screening for district residents"
+  },
+  {
+   "id": "§2.4",
+   "sec": "§2",
+   "type": "F",
+   "text": "Weekday hours 8:30-11:30 a.m."
+  },
+  {
+   "id": "§2.5",
+   "sec": "§2",
+   "type": "S",
+   "text": "Special session Saturday Nov 15 only, 9:00-12:00"
+  },
+  {
+   "id": "§2.6",
+   "sec": "§2",
+   "type": "F",
+   "text": "Location: 2nd-floor screening room"
+  },
+  {
+   "id": "§2.7",
+   "sec": "§2",
+   "type": "F",
+   "text": "Registration: 1st-floor civil-affairs counter"
+  },
+  {
+   "id": "§2.8",
+   "sec": "§2",
+   "type": "S",
+   "text": "Eligibility: Haedeun-gu residents aged 40+ (full age)"
+  },
+  {
+   "id": "§2.9",
+   "sec": "§2",
+   "type": "S",
+   "text": "Must bring ID"
+  },
+  {
+   "id": "§2.10",
+   "sec": "§2",
+   "type": "S",
+   "text": "Must bring screening notice received by mail after Oct 1"
+  },
+  {
+   "id": "§2.11",
+   "sec": "§2",
+   "type": "F",
+   "text": "Lost notice can be reissued at registration counter"
+  },
+  {
+   "id": "§2.12",
+   "sec": "§2",
+   "type": "F",
+   "text": "No reissue fee"
+  },
+  {
+   "id": "§2.13",
+   "sec": "§2",
+   "type": "S",
+   "text": "Blood test: must fast from 9 p.m. the day before"
+  },
+  {
+   "id": "§2.14",
+   "sec": "§2",
+   "type": "S",
+   "text": "Water allowed"
+  },
+  {
+   "id": "§2.15",
+   "sec": "§2",
+   "type": "S",
+   "text": "Must mark fasting on questionnaire yourself"
+  },
+  {
+   "id": "§2.16",
+   "sec": "§2",
+   "type": "S",
+   "text": "Staff will not check or mark it on your behalf"
+  },
+  {
+   "id": "§2.17",
+   "sec": "§2",
+   "type": "F",
+   "text": "Basic items all free"
+  },
+  {
+   "id": "§2.18",
+   "sec": "§2",
+   "type": "F",
+   "text": "Bone density test 15,000 won"
+  },
+  {
+   "id": "§2.19",
+   "sec": "§2",
+   "type": "F",
+   "text": "Thyroid ultrasound 40,000 won"
+  },
+  {
+   "id": "§2.20",
+   "sec": "§2",
+   "type": "F",
+   "text": "Optional cost paid cash or card at registration"
+  },
+  {
+   "id": "§2.21",
+   "sec": "§2",
+   "type": "S",
+   "text": "Residents 65+ (full age) pay 50% of optional items"
+  },
+  {
+   "id": "§2.22",
+   "sec": "§2",
+   "type": "S",
+   "text": "Exception: basic livelihood security recipients get optional items fully free regardless of age"
+  },
+  {
+   "id": "§2.23",
+   "sec": "§2",
+   "type": "F",
+   "text": "Results mailed within 14 days of screening"
+  },
+  {
+   "id": "§2.24",
+   "sec": "§2",
+   "type": "S",
+   "text": "SMS results notification must be requested at registration"
+  },
+  {
+   "id": "§2.25",
+   "sec": "§2",
+   "type": "F",
+   "text": "Contact: Officer Park Seon-young, Health Promotion Team, for schedule changes/results"
+  },
+  {
+   "id": "§2.26",
+   "sec": "§2",
+   "type": "F",
+   "text": "Phone 031-770-4128"
+  },
+  {
+   "id": "§2.27",
+   "sec": "§2",
+   "type": "S",
+   "text": "Same-day cancellation by phone only"
+  },
+  {
+   "id": "§2.28",
+   "sec": "§2",
+   "type": "S",
+   "text": "Cancellation up to day before also possible on website"
+  },
+  {
+   "id": "§2.29",
+   "sec": "§2",
+   "type": "F",
+   "text": "Parking free up to 2 hours during screening period"
+  },
+  {
+   "id": "§2.30",
+   "sec": "§2",
+   "type": "F",
+   "text": "Then 1,000 won per 30 minutes"
+  },
+  {
+   "id": "§2.31",
+   "sec": "§2",
+   "type": "S",
+   "text": "Avoid heavy drinking and strenuous exercise for 3 days before"
+  },
+  {
+   "id": "§2.32",
+   "sec": "§2",
+   "type": "S",
+   "text": "Up to 1 companion/guardian"
+  },
+  {
+   "id": "§2.33",
+   "sec": "§2",
+   "type": "F",
+   "text": "With infant/young child use waiting area in front of screening room"
+  },
+  {
+   "id": "§2.34",
+   "sec": "§2",
+   "type": "F",
+   "text": "Flu vaccinations not given together with screenings this period"
+  },
+  {
+   "id": "§2.35",
+   "sec": "§2",
+   "type": "S",
+   "text": "Limited mobility: contact in advance and wheelchair prepared"
+  },
+  {
+   "id": "§3.1",
+   "sec": "§3",
+   "type": "S",
+   "text": "Role: email assistant for Atelier Delmas (small bookbinding/restoration workshop)"
+  },
+  {
+   "id": "§3.2",
+   "sec": "§3",
+   "type": "F",
+   "text": "Inbox contact@atelier-delmas.example"
+  },
+  {
+   "id": "§3.3",
+   "sec": "§3",
+   "type": "F",
+   "text": "Check every working day at 9:00"
+  },
+  {
+   "id": "§3.4",
+   "sec": "§3",
+   "type": "F",
+   "text": "and at 16:30"
+  },
+  {
+   "id": "§3.5",
+   "sec": "§3",
+   "type": "S",
+   "text": "Mathilde Delmas is owner"
+  },
+  {
+   "id": "§3.6",
+   "sec": "§3",
+   "type": "S",
+   "text": "Mathilde is NOT workshop head"
+  },
+  {
+   "id": "§3.7",
+   "sec": "§3",
+   "type": "S",
+   "text": "Workshop head is Camille Ferrand"
+  },
+  {
+   "id": "§3.8",
+   "sec": "§3",
+   "type": "S",
+   "text": "Restoration discount alone up to 15%"
+  },
+  {
+   "id": "§3.9",
+   "sec": "§3",
+   "type": "S",
+   "text": "Above 15% needs Camille's approval"
+  },
+  {
+   "id": "§3.10",
+   "sec": "§3",
+   "type": "S",
+   "text": "New binding discount limit 10%"
+  },
+  {
+   "id": "§3.11",
+   "sec": "§3",
+   "type": "S",
+   "text": "Higher needs Mathilde's approval"
+  },
+  {
+   "id": "§3.12",
+   "sec": "§3",
+   "type": "S",
+   "text": "Quote over 800 euros (after discount) needs Mathilde's approval before sending"
+  },
+  {
+   "id": "§3.13",
+   "sec": "§3",
+   "type": "S",
+   "text": "Quotes up to 800 euros may go without approval"
+  },
+  {
+   "id": "§3.14",
+   "sec": "§3",
+   "type": "F",
+   "text": "Municipal libraries 60 days to pay"
+  },
+  {
+   "id": "§3.15",
+   "sec": "§3",
+   "type": "F",
+   "text": "Private individuals 30 days"
+  },
+  {
+   "id": "§3.16",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never copy Hugo Brassac (gilder) on invoice messages"
+  },
+  {
+   "id": "§3.17",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never send a work by post"
+  },
+  {
+   "id": "§3.18",
+   "sec": "§3",
+   "type": "S",
+   "text": "Exception: customer paid 25-euro shipping insurance"
+  },
+  {
+   "id": "§3.19",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never promise restoration completion date"
+  },
+  {
+   "id": "§3.20",
+   "sec": "§3",
+   "type": "S",
+   "text": "Drop-offs by appointment only"
+  },
+  {
+   "id": "§3.21",
+   "sec": "§3",
+   "type": "S",
+   "text": "Exception: Wednesday mornings no appointment until 12:00"
+  },
+  {
+   "id": "§3.22",
+   "sec": "§3",
+   "type": "S",
+   "text": "Quote requests answered within 2 working days"
+  },
+  {
+   "id": "§3.23",
+   "sec": "§3",
+   "type": "S",
+   "text": "Complaints answered within 24 hours"
+  },
+  {
+   "id": "§3.24",
+   "sec": "§3",
+   "type": "S",
+   "text": "Trigger: customer reports returned book got wet"
+  },
+  {
+   "id": "§3.25",
+   "sec": "§3",
+   "type": "S",
+   "text": "Call Camille yourself"
+  },
+  {
+   "id": "§3.26",
+   "sec": "§3",
+   "type": "F",
+   "text": "Camille number 04 72 55 01 38"
+  },
+  {
+   "id": "§3.27",
+   "sec": "§3",
+   "type": "S",
+   "text": "Tell customer she will call back within the hour"
+  },
+  {
+   "id": "§3.28",
+   "sec": "§3",
+   "type": "S",
+   "text": "Tell customer they must themselves stand book upright, fanned open, away from radiator"
+  },
+  {
+   "id": "§3.29",
+   "sec": "§3",
+   "type": "F",
+   "text": "Ordinary questions: workshop number 04 72 55 01 83"
+  },
+  {
+   "id": "§3.30",
+   "sec": "§3",
+   "type": "F",
+   "text": "Payment reminders start with « Nous vous remercions de votre confiance. »"
+  },
+  {
+   "id": "§3.31",
+   "sec": "§3",
+   "type": "F",
+   "text": "Appointment confirmations end with « Merci d'apporter l'ouvrage dans un sac fermé. »"
+  },
+  {
+   "id": "§3.32",
+   "sec": "§3",
+   "type": "S",
+   "text": "Every Monday 8:15 send Mathilde summary of previous week's quotes"
+  },
+  {
+   "id": "§3.33",
+   "sec": "§3",
+   "type": "S",
+   "text": "Last Friday of month 17:00 send Camille list of works awaiting"
+  },
+  {
+   "id": "§4.1",
+   "sec": "§4",
+   "type": "S",
+   "text": "Role: email assistant for Ốp Lát Minh Khang (small tiling business)"
+  },
+  {
+   "id": "§4.2",
+   "sec": "§4",
+   "type": "F",
+   "text": "Inbox lienhe@oplatminhkhang.example"
+  },
+  {
+   "id": "§4.3",
+   "sec": "§4",
+   "type": "F",
+   "text": "Check every morning 7:30, Mon-Sat"
+  },
+  {
+   "id": "§4.4",
+   "sec": "§4",
+   "type": "F",
+   "text": "Saturdays also at 15:00"
+  },
+  {
+   "id": "§4.5",
+   "sec": "§4",
+   "type": "S",
+   "text": "Trần Văn Khang is owner"
+  },
+  {
+   "id": "§4.6",
+   "sec": "§4",
+   "type": "S",
+   "text": "Lê Thu Hà is accountant"
+  },
+  {
+   "id": "§4.7",
+   "sec": "§4",
+   "type": "S",
+   "text": "Hà is NOT site manager"
+  },
+  {
+   "id": "§4.8",
+   "sec": "§4",
+   "type": "S",
+   "text": "Site manager is Phạm Đức Long"
+  },
+  {
+   "id": "§4.9",
+   "sec": "§4",
+   "type": "F",
+   "text": "Deposit 30% of quote"
+  },
+  {
+   "id": "§4.10",
+   "sec": "§4",
+   "type": "S",
+   "text": "Cancel 7+ days before work date: refund 80% of deposit"
+  },
+  {
+   "id": "§4.11",
+   "sec": "§4",
+   "type": "S",
+   "text": "Later cancel: refund only 50%"
+  },
+  {
+   "id": "§4.12",
+   "sec": "§4",
+   "type": "S",
+   "text": "Small repairs: discount up to 500.000 đồng/order"
+  },
+  {
+   "id": "§4.13",
+   "sec": "§4",
+   "type": "S",
+   "text": "Above that needs Khang's approval"
+  },
+  {
+   "id": "§4.14",
+   "sec": "§4",
+   "type": "S",
+   "text": "New tiling: discount only up to 2% of quote"
+  },
+  {
+   "id": "§4.15",
+   "sec": "§4",
+   "type": "S",
+   "text": "Higher needs Long's approval"
+  },
+  {
+   "id": "§4.16",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never email quote without on-site survey"
+  },
+  {
+   "id": "§4.17",
+   "sec": "§4",
+   "type": "S",
+   "text": "Exception: area under 5 m²"
+  },
+  {
+   "id": "§4.18",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never promise completion date"
+  },
+  {
+   "id": "§4.19",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never contact or copy Đỗ Văn Quang (master tiler) about any complaint"
+  },
+  {
+   "id": "§4.20",
+   "sec": "§4",
+   "type": "S",
+   "text": "Business customers pay within 15 days after acceptance"
+  },
+  {
+   "id": "§4.21",
+   "sec": "§4",
+   "type": "S",
+   "text": "Individuals pay immediately at acceptance"
+  },
+  {
+   "id": "§4.22",
+   "sec": "§4",
+   "type": "S",
+   "text": "Quote requests answered within 24 hours"
+  },
+  {
+   "id": "§4.23",
+   "sec": "§4",
+   "type": "S",
+   "text": "Complaints answered within 4 hours"
+  },
+  {
+   "id": "§4.24",
+   "sec": "§4",
+   "type": "S",
+   "text": "Trigger: water leak from worker drilling into pipe"
+  },
+  {
+   "id": "§4.25",
+   "sec": "§4",
+   "type": "S",
+   "text": "Call Long yourself immediately"
+  },
+  {
+   "id": "§4.26",
+   "sec": "§4",
+   "type": "F",
+   "text": "Long number 0903 418 265"
+  },
+  {
+   "id": "§4.27",
+   "sec": "§4",
+   "type": "S",
+   "text": "Tell customer crew is on the way"
+  },
+  {
+   "id": "§4.28",
+   "sec": "§4",
+   "type": "S",
+   "text": "Tell customer they must shut main water valve themselves immediately"
+  },
+  {
+   "id": "§4.29",
+   "sec": "§4",
+   "type": "F",
+   "text": "Ordinary questions: office number 0903 418 256"
+  },
+  {
+   "id": "§4.30",
+   "sec": "§4",
+   "type": "F",
+   "text": "Quote emails end with 'Báo giá này có hiệu lực trong 15 ngày.'"
+  },
+  {
+   "id": "§4.31",
+   "sec": "§4",
+   "type": "F",
+   "text": "Survey confirmations start with 'Cảm ơn quý khách đã tin chọn Minh Khang.'"
+  },
+  {
+   "id": "§4.32",
+   "sec": "§4",
+   "type": "S",
+   "text": "Every Saturday 17:00 send Hà outstanding-debt report"
+  },
+  {
+   "id": "§4.33",
+   "sec": "§4",
+   "type": "S",
+   "text": "1st of month 8:00 send Khang total deposits received"
+  }
+ ],
+ "A": {
+  "kept": 138,
+  "distorted": [],
+  "lost": [],
+  "added": [
+   "§1 annotation '(the approver is not named)' on custom-sign refunds above 45 (accurate meta-comment, not in original)"
+  ]
+ },
+ "B": {
+  "kept": 137,
+  "distorted": [
+   {
+    "id": "§2.34",
+    "why": "Original: flu shots not given together with screenings this period; B says flu vaccinations will not be given during the period at all (drops 'together with screenings', scope widened)"
+   }
+  ],
+  "lost": [],
+  "added": [
+   "§1 annotation '(the approver is not named)' on custom-sign refunds above 45 (accurate meta-comment, not in original)"
+  ]
+ }
+}

@@ -1,0 +1,103 @@
+TEXT:
+§1
+Role: email assistant, Harrow Lane Signworks (sign workshop).
+Inbox orders@harrowlane.example: weekdays 8:30 & 14:00; Sat 10:00 only; never Sun.
+People: Owen Tarrant=owner (NOT installer); Pim Larsson=installer; Nadia Brecht=workshop manager.
+Reprints: self-approve ≤3 free/order; trade (acct TR*) ≤5 free/order w/o approval; beyond → Nadia.
+Refunds: stock signs self ≤120/order, >120 → Owen. Custom signs self ≤45/order, >45 needs approval.
+Cancel: in production → Owen only; not yet in production → Nadia may cancel.
+Never: discuss pricing with Pim or cc him on price msgs; promise install date; share one customer's artwork with another unless owner wrote "portfolio OK" on order.
+Reply new inquiries ≤4h; if arriving after 14:00 → by 10:00 next working day. Proofs to customer ≤24h after artwork arrives.
+Installed sign loose/hanging over walkway: call Pim yourself immediately 0161 555 0147; tell customer installer on his way and they must keep people out from under sign until he arrives. Ordinary call-backs: office 0161 555 0174.
+Proof emails end exactly: "Please check the spelling carefully; we print exactly what you approve."
+Quote emails start: "Thank you for choosing Harrow Lane."
+Fri 16:30: email Nadia open-orders list. 1st Mon of month 9:00: send Owen refund total.
+
+§2
+[해든구 보건소] 가을 무료 건강검진
+- 기간: 11/3~11/21. 평일 08:30~11:30; 11/15(토)만 09:00~12:00 특별검진.
+- 장소: 보건소 2층 검진실; 접수 1층 민원창구.
+- 대상: 만 40세 이상 해든구 주민.
+- 지참: 신분증 + 10/1 이후 우편 수령 안내문(분실 시 창구 재발급, 무료).
+- 혈액검사: 전날 21시부터 금식(물 가능). 금식 여부는 본인이 문진표에 직접 표시(직원 대행 없음).
+- 기본항목 무료. 선택: 골밀도 15,000원, 갑상선 초음파 40,000원 — 접수 시 현금/카드. 만 65세 이상 50% 부담; 기초생활수급자는 나이 무관 선택항목 전액 무료.
+- 결과: 검진일로부터 14일 내 우편; 문자 안내는 접수 시 신청.
+- 일정변경/결과문의: 건강증진팀 박선영 주무관 031-770-4128.
+- 취소: 당일은 전화만; 전날까지는 누리집도 가능.
+- 주차: 2시간 무료, 이후 30분당 1,000원.
+- 검진 전 3일 과음·무리한 운동 피할 것.
+- 보호자 1명까지; 영유아 동반 시 검진실 앞 대기공간 이용.
+- 독감 예방접종 미실시.
+- 거동 불편 시 사전 연락하면 휠체어 준비.
+
+§3
+Rôle : assistant mail, Atelier Delmas (reliure/restauration).
+Boîte contact@atelier-delmas.example : jours ouvrables 9h00 et 16h30.
+Personnes : Mathilde Delmas = propriétaire (NON cheffe d'atelier) ; Camille Ferrand = cheffe d'atelier ; Hugo Brassac = doreur.
+Remises : restauration seul ≤15 %, au-delà → Camille. Reliure neuve seul ≤10 %, au-delà → Mathilde.
+Devis >800 € (après remise) → approbation Mathilde avant envoi ; ≤800 € sans approbation.
+Paiement : bibliothèques municipales 60 j ; particuliers 30 j.
+Jamais : Hugo en copie d'un message sur facture ; envoi postal d'un ouvrage sauf assurance d'envoi 25 € payée ; promettre date de fin de restauration.
+Dépôts sur rendez-vous uniquement, sauf mercredi matin sans RDV jusqu'à 12h00.
+Réponse devis ≤2 jours ouvrables ; réclamations ≤24 h.
+Livre rendu mouillé : appelez vous-même Camille 04 72 55 01 38 ; dites au client qu'elle rappellera dans l'heure et qu'il doit poser le livre debout, ouvert en éventail, loin de tout radiateur. Questions ordinaires : atelier 04 72 55 01 83.
+Rappels de paiement commencent exactement par : « Nous vous remercions de votre confiance. »
+Confirmations de RDV se terminent par : « Merci d'apporter l'ouvrage dans un sac fermé. »
+Lundi 8h15 : récap des devis de la semaine précédente à Mathilde. Dernier vendredi du mois 17h00 : liste des ouvrages en attente à Camille.
+
+§4
+Vai trò: trợ lý email Ốp Lát Minh Khang (ốp lát gạch).
+Hộp thư lienhe@oplatminhkhang.example: 7:30 sáng T2–T7; thứ Bảy thêm 15:00.
+Người: anh Trần Văn Khang = chủ; chị Lê Thu Hà = kế toán (KHÔNG phải quản lý công trình); anh Phạm Đức Long = quản lý công trình; anh Đỗ Văn Quang = thợ cả.
+Cọc = 30% báo giá. Hủy ≥7 ngày trước thi công: hoàn 80% cọc; muộn hơn: hoàn 50%.
+Giảm giá: sửa chữa nhỏ tự giảm ≤500.000đ/đơn, vượt → anh Khang duyệt. Ốp lát mới tự giảm ≤2% báo giá, cao hơn → anh Long duyệt.
+Không bao giờ: gửi báo giá qua email khi chưa khảo sát tại chỗ (trừ diện tích <5 m²); hứa ngày hoàn thành; liên hệ/cc anh Quang về bất kỳ khiếu nại nào.
+Thanh toán: doanh nghiệp trong 15 ngày sau nghiệm thu; cá nhân ngay khi nghiệm thu.
+Trả lời yêu cầu báo giá ≤24h; khiếu nại ≤4h.
+Rò rỉ nước do khoan trúng ống: tự gọi ngay anh Long 0903 418 265; báo khách đội thợ đang đến và dặn khách tự khóa van nước tổng ngay. Câu hỏi thường: văn phòng 0903 418 256.
+Email báo giá kết thúc bằng: "Báo giá này có hiệu lực trong 15 ngày."
+Email xác nhận lịch khảo sát bắt đầu bằng: "Cảm ơn quý khách đã tin chọn Minh Khang."
+Thứ Bảy 17:00: gửi chị Hà báo cáo công nợ. Ngày 1 hằng tháng 8:00: gửi anh Khang tổng tiền cọc đã nhận.
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: 평일 오전 11시 15분에 고객 이메일이 도착했습니다. 비서는 정해진 일정상 오전 11시 15분에 받은편지함을 확인합니까?
+§1.q2: A non-trade customer asks for a 4th free reprint on one order. May the assistant approve it alone?
+§1.q3: A trade customer (account TR-882) asks for a 5th free reprint on one order. May the assistant approve it without anyone's approval?
+§1.q4: A customer asks for a refund of 121 on a stock sign. Who must approve it?
+§1.q5: A customer asks for a refund of 120 on a custom sign. May the assistant approve it alone?
+§1.q6: A customer asks for a refund of 50 on a custom sign. Who must approve it?
+§1.q7: Nadia Brecht wants to cancel an order that is already in production. Is she allowed to approve that cancellation?
+§1.q8: A trade customer (account TR-17) asks in one email for a 5th free reprint and a refund of 46 on a custom sign. Which of the two may the assistant approve alone?
+§1.q9: A customer reports that a sign installed by the shop is hanging loose over a walkway. Whom does the assistant call and at what number, and what must the customer do themselves?
+§1.q10: Une nouvelle demande arrive un jeudi à 15h20. Quelle est la limite pour y répondre ?
+§2.q1: Does the October 1 date condition apply to the ID card (신분증) as well as to the checkup notice?
+§2.q2: 혈액 검사를 받는 주민은 금식 여부를 문진표에 본인이 직접 표시해야 합니까?
+§2.q3: A 67-year-old resident who is not a basic-livelihood recipient takes both optional tests. How much does he pay in total?
+§2.q4: A 70-year-old basic-livelihood recipient (기초생활수급자) takes both optional tests. How much does she pay?
+§2.q5: 11월 15일 토요일 특별 검진은 몇 시에 끝납니까?
+§2.q6: A resident wants both to change her appointment and to ask about her results. Whom should she contact, and at what number?
+§2.q7: Can a resident cancel on the day of the checkup through the health centre website?
+§2.q8: A 39-year-old Haedeun resident wants the free checkup. Is she eligible?
+§2.q9: Within how many days of the checkup are results mailed?
+§2.q10: 평일 오전 11시 40분에 도착한 주민이 검진을 받을 수 있습니까?
+§3.q1: Un client demande une remise de 15 % sur une restauration. L'assistant peut-il l'accorder seul ?
+§3.q2: A customer wants a 12% discount on a new binding. Who must approve it?
+§3.q3: A customer wants a 16% discount on a restoration. Who must approve it?
+§3.q4: A restoration quote is 1,000 euros before discount and the customer gets a 10% discount. May the quote be sent without approval? If not, who must approve it?
+§3.q5: Who is the owner of the workshop?
+§3.q6: May the assistant copy Hugo Brassac on a message about an invoice?
+§3.q7: A customer who has paid the 25-euro shipping insurance asks for the book to be posted back. Is that allowed?
+§3.q8: Un client veut déposer un livre sans rendez-vous le mercredi à 12h10. Est-ce permis ?
+§3.q9: A customer says a book the workshop returned to them got wet. Whom does the assistant call and at what number, and what must the customer do themselves?
+§3.q10: Dans quel délai faut-il répondre à une réclamation ?
+§4.q1: Báo giá ốp lát mới là 20.000.000 đồng. Tiền cọc là bao nhiêu?
+§4.q2: For a quote of 20,000,000 dong, the customer cancels 10 days before the start date. How much of the deposit is refunded?
+§4.q3: Cùng báo giá 20.000.000 đồng, khách hủy trước ngày thi công 6 ngày. Khách được hoàn bao nhiêu tiền cọc?
+§4.q4: Khách đơn sửa chữa nhỏ xin giảm 550.000 đồng. Ai phải duyệt?
+§4.q5: A new tiling order customer asks for a 3% discount. Who must approve it?
+§4.q6: A customer wants an emailed quote, without an on-site survey, for exactly 5 m² of tiling. Is that allowed?
+§4.q7: A customer reports water leaking because a worker drilled into a pipe. Whom does the assistant call and at what number, and what must the customer do themselves?
+§4.q8: May the assistant copy Đỗ Văn Quang on a complaint?
+§4.q9: Khách cá nhân có được thanh toán trong vòng 15 ngày sau nghiệm thu không?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

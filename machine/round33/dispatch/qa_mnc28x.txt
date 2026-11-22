@@ -1,0 +1,124 @@
+TEXT:
+§1 you
+Harrow Lane Signworks
+inbox orders@harrowlane.example weekdays 8:30 + 14:00; Sat only once 10:00; never Sun
+Owen Tarrant = owner, NOT installer; Pim Larsson = installer
+Nadia Brecht = workshop manager
+free reprints: may ≤3/order
+trade customers, account starting TR: may ≤5 free reprints/order without approval
+reprints beyond those limits: need Nadia's approval
+stock-sign refunds: may ≤120/order; above: Owen must approve
+custom-sign refunds: may only ≤45/order; above: need approval, approver unnamed
+cancel order already in production: only Owen may approve
+Nadia may cancel orders not yet in production
+never: discuss pricing with Pim; copy Pim on any price message; promise installation date
+never share a customer's artwork with another customer, except artwork owner wrote "portfolio OK" on their order
+new inquiries: reply within 4h, except arrivals after 14:00: by 10:00 next working day
+proofs must reach customer within 24h of artwork arriving
+our installed sign loose or over walkway: call Pim yourself at once, 0161 555 0147; then tell customer: installer coming + customer must themselves keep people from under sign until he arrives
+ordinary call-backs: give office 0161 555 0174
+every proof email must end "Please check the spelling carefully; we print exactly what you approve."
+every quote email must start "Thank you for choosing Harrow Lane."
+Fri 16:30: email Nadia open-orders list; 1st Mon/month 9:00: send Owen refunds-given total
+
+§2
+Haeden-gu health center free autumn checkup for residents, Nov 3-21
+weekdays 8:30-11:30; Sat Nov 15 only: special 9:00-12:00
+2F checkup room; register 1F civil counter
+eligible: Haeden-gu residents 40+
+must bring: ID + checkup notice mailed since Oct 1
+lost notice: reissued at counter, no fee
+blood test: must fast from 21:00 day before; water ok
+fasting: person must mark questionnaire themselves; staff don't check or mark it
+basic items free
+optional: bone density 15,000 won; thyroid ultrasound 40,000 won; pay at registration, cash or card
+65+: pay only 50% of optional
+however basic-livelihood recipients, any age: optional also fully free
+results mailed within 14 days of checkup; text notice: apply at registration
+schedule change or results inquiry: health promotion team officer 박선영 031-770-4128
+same-day cancel: phone only; until day before: also website
+parking during period: free ≤2h; then 1,000 won/30 min
+3 days before: avoid heavy drinking and strenuous exercise
+≤1 guardian; with small children: use waiting area outside checkup room
+no flu shots this period
+limited mobility: contact ahead, wheelchair prepared
+
+§3 you
+Atelier Delmas
+inbox contact@atelier-delmas.example working days 9:00 + 16:30
+Mathilde Delmas = owner, NOT workshop head; Camille Ferrand = workshop head
+restoration discount: may ≤15%; above: Camille must approve
+new binding discount: may ≤10%; higher: Mathilde must approve
+quote >800 euros after discount: Mathilde must approve before sending; ≤800: may go without approval
+pay terms: municipal libraries 60 days; individuals 30 days
+never: copy Hugo Brassac, gilder, on any invoice message; promise restoration end date
+never post a work to customer, except customer paid 25-euro shipping insurance
+drop-offs only by appointment, except Wed morning: walk-ins until 12:00
+quote requests: reply within 2 working days; complaints must get reply within 24h
+returned book got wet: call Camille yourself, 04 72 55 01 38; then tell customer: she calls back within the hour + customer must themselves stand book upright, fanned open, away from radiators
+ordinary questions: workshop 04 72 55 01 83
+every payment reminder must start « Nous vous remercions de votre confiance. »
+every appointment confirmation must end « Merci d'apporter l'ouvrage dans un sac fermé. »
+Mon 8:15: Mathilde last week's quotes summary; last Fri/month 17:00: Camille pending works list
+
+§4 you
+Ốp Lát Minh Khang
+inbox lienhe@oplatminhkhang.example 7:30 Mon-Sat; Sat also 15:00
+Trần Văn Khang = owner
+Lê Thu Hà = accountant, NOT site manager; Phạm Đức Long = site manager
+deposit 30% of quote
+customer cancels ≥7 days before work date: refund 80% deposit; later: only 50%
+small repairs: may discount ≤500.000 đồng/order; above: Khang must approve
+new tiling: may discount only ≤2% of quote; higher: Long must approve
+never email a quote without on-site survey, except area <5 m²
+never: promise completion date; contact or cc Đỗ Văn Quang, master tiler, about any complaint
+business customers may pay within 15 days after acceptance; individuals must pay immediately at acceptance
+quote requests must be answered within 24h; complaints within 4h
+worker drilled pipe, water leaking: call Long yourself immediately, 0903 418 265; then tell customer: crew coming + customer must shut main water valve themselves immediately
+ordinary questions: office 0903 418 256
+every quote email must end "Báo giá này có hiệu lực trong 15 ngày."
+every survey confirmation email must start "Cảm ơn quý khách đã tin chọn Minh Khang."
+Sat 17:00: Hà debt report; 1st/month 8:00: Khang deposits-received total
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: 평일 오전 11시 15분에 고객 이메일이 도착했습니다. 비서는 정해진 일정상 오전 11시 15분에 받은편지함을 확인합니까?
+§1.q2: A non-trade customer asks for a 4th free reprint on one order. May the assistant approve it alone?
+§1.q3: A trade customer (account TR-882) asks for a 5th free reprint on one order. May the assistant approve it without anyone's approval?
+§1.q4: A customer asks for a refund of 121 on a stock sign. Who must approve it?
+§1.q5: A customer asks for a refund of 120 on a custom sign. May the assistant approve it alone?
+§1.q6: A customer asks for a refund of 50 on a custom sign. Who must approve it?
+§1.q7: Nadia Brecht wants to cancel an order that is already in production. Is she allowed to approve that cancellation?
+§1.q8: A trade customer (account TR-17) asks in one email for a 5th free reprint and a refund of 46 on a custom sign. Which of the two may the assistant approve alone?
+§1.q9: A customer reports that a sign installed by the shop is hanging loose over a walkway. Whom does the assistant call and at what number, and what must the customer do themselves?
+§1.q10: Une nouvelle demande arrive un jeudi à 15h20. Quelle est la limite pour y répondre ?
+§2.q1: Does the October 1 date condition apply to the ID card (신분증) as well as to the checkup notice?
+§2.q2: 혈액 검사를 받는 주민은 금식 여부를 문진표에 본인이 직접 표시해야 합니까?
+§2.q3: A 67-year-old resident who is not a basic-livelihood recipient takes both optional tests. How much does he pay in total?
+§2.q4: A 70-year-old basic-livelihood recipient (기초생활수급자) takes both optional tests. How much does she pay?
+§2.q5: 11월 15일 토요일 특별 검진은 몇 시에 끝납니까?
+§2.q6: A resident wants both to change her appointment and to ask about her results. Whom should she contact, and at what number?
+§2.q7: Can a resident cancel on the day of the checkup through the health centre website?
+§2.q8: A 39-year-old Haedeun resident wants the free checkup. Is she eligible?
+§2.q9: Within how many days of the checkup are results mailed?
+§2.q10: 평일 오전 11시 40분에 도착한 주민이 검진을 받을 수 있습니까?
+§3.q1: Un client demande une remise de 15 % sur une restauration. L'assistant peut-il l'accorder seul ?
+§3.q2: A customer wants a 12% discount on a new binding. Who must approve it?
+§3.q3: A customer wants a 16% discount on a restoration. Who must approve it?
+§3.q4: A restoration quote is 1,000 euros before discount and the customer gets a 10% discount. May the quote be sent without approval? If not, who must approve it?
+§3.q5: Who is the owner of the workshop?
+§3.q6: May the assistant copy Hugo Brassac on a message about an invoice?
+§3.q7: A customer who has paid the 25-euro shipping insurance asks for the book to be posted back. Is that allowed?
+§3.q8: Un client veut déposer un livre sans rendez-vous le mercredi à 12h10. Est-ce permis ?
+§3.q9: A customer says a book the workshop returned to them got wet. Whom does the assistant call and at what number, and what must the customer do themselves?
+§3.q10: Dans quel délai faut-il répondre à une réclamation ?
+§4.q1: Báo giá ốp lát mới là 20.000.000 đồng. Tiền cọc là bao nhiêu?
+§4.q2: For a quote of 20,000,000 dong, the customer cancels 10 days before the start date. How much of the deposit is refunded?
+§4.q3: Cùng báo giá 20.000.000 đồng, khách hủy trước ngày thi công 6 ngày. Khách được hoàn bao nhiêu tiền cọc?
+§4.q4: Khách đơn sửa chữa nhỏ xin giảm 550.000 đồng. Ai phải duyệt?
+§4.q5: A new tiling order customer asks for a 3% discount. Who must approve it?
+§4.q6: A customer wants an emailed quote, without an on-site survey, for exactly 5 m² of tiling. Is that allowed?
+§4.q7: A customer reports water leaking because a worker drilled into a pipe. Whom does the assistant call and at what number, and what must the customer do themselves?
+§4.q8: May the assistant copy Đỗ Văn Quang on a complaint?
+§4.q9: Khách cá nhân có được thanh toán trong vòng 15 ngày sau nghiệm thu không?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

@@ -7,13 +7,19 @@ Break a message into its atoms. Send only the smallest form that still holds eve
 
 AIL (the rest of this repo) is written so people can read it. MNC drops that constraint. Every choice is driven by token cost, because fewer tokens mean less compute, lower latency and less energy. MNC stays auditable in a different way: any AI given the key can decode the payload to plain language, in whatever language you ask for.
 
-## Latest round: round 32, fully blind (2026-11-21)
+## Latest round: round 33, fully blind (2026-11-22)
+- **Setup:** an independent helper wrote four new passages (English, Korean, French, Vietnamese; three are instructions to an AI assistant, one is an everyday notice) and 39 questions, sealed until the compressed forms were written. Readers were fresh helpers with no other context (one model family, 2 runs each for the main texts).
+- **Result:** the main form (MNC28, unchanged since round 31) was 22.3% smaller on o200k (32.7% on cl100k) and answered 39/39 in both runs. Terse plain English was smaller (42.4% / 55.6%) at the same 39/39, so it won on savings again. The experimental form (MNC28x) was 41.6% / 55.0% smaller at 39/39, about a tie with terse English. LLMLingua-2 was 34.2% / 48.7% smaller but scored 92.3% / 84.6% and made safety errors. The original text answered 39/39 (38/39 before one shared scorer fix, recorded in SCORES.md).
+- **Safety check:** two blind decodes of MNC28 back to prose made no safety-relevant errors (one decoder widened one everyday detail). This is MNC28's third consecutive fully blind round at 100% on our instruction-safety check, which is the bar this project set for trying it on live instructions. That is a project-internal bar, not a general guarantee.
+- **Limits:** one reader family, 2 runs, questions easy for every faithful text; on a small local model (3 runs) MNC28 scored 66.7-76.9% vs 53.8% for the original; the older frozen benchmark was not run. Full numbers: round33/SCORES.md and LEADERBOARD.md.
+
+## Previous round: round 32, fully blind (2026-11-21)
 - **Setup:** an independent helper wrote four new passages (English, Japanese, Spanish, Turkish; three are instructions to an AI assistant, one is an everyday notice) and 40 questions, sealed until the compressed forms were written. Readers were fresh helpers with no other context (one model family, 2 runs each for the main texts).
 - **Result:** the main form (MNC28, unchanged since round 31) was 24.7% smaller on o200k (31.5% on cl100k) and answered 40/40 in both runs. Terse plain English was smaller (39.0% / 49.3%) at the same 40/40, so it won on savings again. The experimental form (MNC28x) was 36.8% / 47.5% smaller at 40/40, close to terse English. LLMLingua-2 was 43.7% / 54.8% smaller but scored 77.5% / 70.0%, and the 0.5 setting made safety errors. The original text answered 40/40 (38/40 before two scorer corrections, recorded in SCORES.md).
 - **Safety check:** two blind decodes of MNC28 back to prose kept all 147 judged facts with no meaning changes. MNC28's readiness count is 2 of 3.
 - **Limits:** one reader family, 2 runs, questions easy for every faithful text; a small local model (3 runs) scored all texts within each other's spread; the older frozen benchmark was not run. Full numbers: round32/SCORES.md and LEADERBOARD.md.
 
-## Previous round: round 31, fully blind (2026-11-21)
+## Earlier round: round 31, fully blind (2026-11-21)
 - **Setup:** an independent helper wrote four new passages (English, Chinese, Italian, Polish; three are instructions to an AI assistant, one is an everyday notice) and 39 questions, sealed until the compressed forms were written. Readers were fresh helpers with no other context (one model family, 2 runs each for the main texts).
 - **Result:** the new main form (MNC28) was 28.1% smaller on o200k (30.8% on cl100k) and answered 39/39 in both runs. Terse plain English was smaller (37.6% / 44.5%) at the same 39/39, so it won on savings this round. An experimental, more aggressive form (MNC28x) was 38.5% / 41.1% smaller at 39/39 — about a tie with terse English. LLMLingua-2 was 33.2% / 48.2% smaller at 87.2% / 69.2% and dropped emergency steps. The original text answered 39/39.
 - **Safety check:** two blind decodes of MNC28 back to prose kept all 205 judged facts with no meaning changes. MNC28's readiness count is 1 of 3.
