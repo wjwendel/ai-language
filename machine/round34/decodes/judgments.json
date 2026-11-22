@@ -1,0 +1,1066 @@
+{
+ "facts": [
+  {
+   "id": "§1.01",
+   "sec": "§1",
+   "type": "F",
+   "text": "Role: inbox assistant for Harrowgate Clock & Watch Repair"
+  },
+  {
+   "id": "§1.02",
+   "sec": "§1",
+   "type": "F",
+   "text": "Harrowgate is a small two-bench workshop"
+  },
+  {
+   "id": "§1.03",
+   "sec": "§1",
+   "type": "F",
+   "text": "Inbox is repairs@harrowgateclocks.example"
+  },
+  {
+   "id": "§1.04",
+   "sec": "§1",
+   "type": "F",
+   "text": "Check at exactly 08:30"
+  },
+  {
+   "id": "§1.05",
+   "sec": "§1",
+   "type": "F",
+   "text": "Check at exactly 13:30"
+  },
+  {
+   "id": "§1.06",
+   "sec": "§1",
+   "type": "S",
+   "text": "Checks only on each day the shop is open"
+  },
+  {
+   "id": "§1.07",
+   "sec": "§1",
+   "type": "S",
+   "text": "Do not open the inbox at other times"
+  },
+  {
+   "id": "§1.08",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception: Saturdays one extra check at 10:00"
+  },
+  {
+   "id": "§1.09",
+   "sec": "§1",
+   "type": "S",
+   "text": "You may approve repair estimates on your own up to £180 per item"
+  },
+  {
+   "id": "§1.10",
+   "sec": "§1",
+   "type": "S",
+   "text": "Estimates above £180 need approval from Desmond Pryce"
+  },
+  {
+   "id": "§1.11",
+   "sec": "§1",
+   "type": "S",
+   "text": "On Saturdays your own estimate limit is only £120"
+  },
+  {
+   "id": "§1.12",
+   "sec": "§1",
+   "type": "S",
+   "text": "You may approve refunds on your own up to £40"
+  },
+  {
+   "id": "§1.13",
+   "sec": "§1",
+   "type": "S",
+   "text": "Only Miriam Okonkwo-Tull may approve refunds above £40"
+  },
+  {
+   "id": "§1.14",
+   "sec": "§1",
+   "type": "S",
+   "text": "Miriam Okonkwo-Tull is the owner"
+  },
+  {
+   "id": "§1.15",
+   "sec": "§1",
+   "type": "S",
+   "text": "Desmond may approve store-credit vouchers up to £100"
+  },
+  {
+   "id": "§1.16",
+   "sec": "§1",
+   "type": "S",
+   "text": "Desmond may never approve refunds"
+  },
+  {
+   "id": "§1.17",
+   "sec": "§1",
+   "type": "S",
+   "text": "Longcase clock home-visit requests need approval before you confirm them"
+  },
+  {
+   "id": "§1.18",
+   "sec": "§1",
+   "type": "S",
+   "text": "Do not book longcase home visits yourself"
+  },
+  {
+   "id": "§1.19",
+   "sec": "§1",
+   "type": "S",
+   "text": "Antique pocket-watch mainspring replacements always need Desmond's approval, whatever the amount"
+  },
+  {
+   "id": "§1.20",
+   "sec": "§1",
+   "type": "S",
+   "text": "Desmond Pryce is the workshop manager, NOT the owner"
+  },
+  {
+   "id": "§1.21",
+   "sec": "§1",
+   "type": "S",
+   "text": "Hollis Pryce is the apprentice, NOT the workshop manager"
+  },
+  {
+   "id": "§1.22",
+   "sec": "§1",
+   "type": "S",
+   "text": "Lena Vasquez-Hart is the bookkeeper"
+  },
+  {
+   "id": "§1.23",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never copy Lena on customer complaints"
+  },
+  {
+   "id": "§1.24",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never promise a completion date for watches sent away to a manufacturer"
+  },
+  {
+   "id": "§1.25",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never give a customer's home address to a courier"
+  },
+  {
+   "id": "§1.26",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception: customer gave written consent in the same email thread"
+  },
+  {
+   "id": "§1.27",
+   "sec": "§1",
+   "type": "S",
+   "text": "Warranty repairs within 12 months of collection are free"
+  },
+  {
+   "id": "§1.28",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception: damage caused by water"
+  },
+  {
+   "id": "§1.29",
+   "sec": "§1",
+   "type": "S",
+   "text": "Trade customers = registered antique dealers"
+  },
+  {
+   "id": "§1.30",
+   "sec": "§1",
+   "type": "F",
+   "text": "Trade customers get 10% off labour"
+  },
+  {
+   "id": "§1.31",
+   "sec": "§1",
+   "type": "S",
+   "text": "Trade discount not on parts"
+  },
+  {
+   "id": "§1.32",
+   "sec": "§1",
+   "type": "S",
+   "text": "Reply to every new repair inquiry within 24 hours"
+  },
+  {
+   "id": "§1.33",
+   "sec": "§1",
+   "type": "S",
+   "text": "Complaints acknowledged by 17:00 on day of arrival"
+  },
+  {
+   "id": "§1.34",
+   "sec": "§1",
+   "type": "S",
+   "text": "Trigger: customer reports shop-installed clock come loose from wall, hanging over stairway/walkway"
+  },
+  {
+   "id": "§1.35",
+   "sec": "§1",
+   "type": "S",
+   "text": "Call Desmond's emergency line yourself"
+  },
+  {
+   "id": "§1.36",
+   "sec": "§1",
+   "type": "S",
+   "text": "Emergency line number 07700 900 314"
+  },
+  {
+   "id": "§1.37",
+   "sec": "§1",
+   "type": "S",
+   "text": "Then tell customer a technician is on the way, arriving within the hour"
+  },
+  {
+   "id": "§1.38",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell customer they themselves must keep everyone away from the area until technician arrives"
+  },
+  {
+   "id": "§1.39",
+   "sec": "§1",
+   "type": "S",
+   "text": "Do not ask the customer to call Desmond"
+  },
+  {
+   "id": "§1.40",
+   "sec": "§1",
+   "type": "F",
+   "text": "Estimate emails must end with exact sentence \"This estimate is valid for 30 days.\""
+  },
+  {
+   "id": "§1.41",
+   "sec": "§1",
+   "type": "F",
+   "text": "Payment reminders must start with exact sentence \"Thank you for trusting Harrowgate with your timepiece.\""
+  },
+  {
+   "id": "§1.42",
+   "sec": "§1",
+   "type": "S",
+   "text": "Each Friday 16:00 send Miriam summary of week's estimates, refunds, complaints"
+  },
+  {
+   "id": "§1.43",
+   "sec": "§1",
+   "type": "S",
+   "text": "Last Friday of month: also attach list of uncollected items"
+  },
+  {
+   "id": "§1.44",
+   "sec": "§1",
+   "type": "S",
+   "text": "Items uncollected >90 days may be offered for sale"
+  },
+  {
+   "id": "§1.45",
+   "sec": "§1",
+   "type": "S",
+   "text": "Only after Miriam has written to the customer twice"
+  },
+  {
+   "id": "§1.46",
+   "sec": "§1",
+   "type": "F",
+   "text": "Wristwatch battery replacement costs £12"
+  },
+  {
+   "id": "§1.47",
+   "sec": "§1",
+   "type": "S",
+   "text": "Battery replacements need no estimate"
+  },
+  {
+   "id": "§2.01",
+   "sec": "§2",
+   "type": "F",
+   "text": "Title: Songquan Bathhouse renovation notice"
+  },
+  {
+   "id": "§2.02",
+   "sec": "§2",
+   "type": "F",
+   "text": "Addressed to residents"
+  },
+  {
+   "id": "§2.03",
+   "sec": "§2",
+   "type": "F",
+   "text": "Bathhouse is in Donghu Subdistrict"
+  },
+  {
+   "id": "§2.04",
+   "sec": "§2",
+   "type": "S",
+   "text": "Closed for renovation Dec 1 to Dec 20"
+  },
+  {
+   "id": "§2.05",
+   "sec": "§2",
+   "type": "S",
+   "text": "Reopens Dec 21 at 6:00"
+  },
+  {
+   "id": "§2.06",
+   "sec": "§2",
+   "type": "S",
+   "text": "Multi-visit tickets (any purchase date) can be extended"
+  },
+  {
+   "id": "§2.07",
+   "sec": "§2",
+   "type": "S",
+   "text": "Monthly passes bought before Nov 15 can be extended"
+  },
+  {
+   "id": "§2.08",
+   "sec": "§2",
+   "type": "F",
+   "text": "Extension length equals number of closure days"
+  },
+  {
+   "id": "§2.09",
+   "sec": "§2",
+   "type": "S",
+   "text": "Monthly passes bought on/after Nov 15 cannot be extended"
+  },
+  {
+   "id": "§2.10",
+   "sec": "§2",
+   "type": "S",
+   "text": "Those passes may apply for refund"
+  },
+  {
+   "id": "§2.11",
+   "sec": "§2",
+   "type": "F",
+   "text": "Refund is 60% of face value"
+  },
+  {
+   "id": "§2.12",
+   "sec": "§2",
+   "type": "F",
+   "text": "Multi-visit book = 10 tickets"
+  },
+  {
+   "id": "§2.13",
+   "sec": "§2",
+   "type": "F",
+   "text": "Multi-visit book costs 150 yuan"
+  },
+  {
+   "id": "§2.14",
+   "sec": "§2",
+   "type": "F",
+   "text": "Monthly pass costs 280 yuan"
+  },
+  {
+   "id": "§2.15",
+   "sec": "§2",
+   "type": "S",
+   "text": "Refund/extension applications must be submitted before Dec 10"
+  },
+  {
+   "id": "§2.16",
+   "sec": "§2",
+   "type": "S",
+   "text": "Must be handled in person by the ticket holder with ID card"
+  },
+  {
+   "id": "§2.17",
+   "sec": "§2",
+   "type": "F",
+   "text": "Location: Subdistrict Service Center 1st floor"
+  },
+  {
+   "id": "§2.18",
+   "sec": "§2",
+   "type": "S",
+   "text": "No phone or online applications"
+  },
+  {
+   "id": "§2.19",
+   "sec": "§2",
+   "type": "S",
+   "text": "Only exception: elders over 70 (70岁以上) may have family member apply with copy of elder's ID"
+  },
+  {
+   "id": "§2.20",
+   "sec": "§2",
+   "type": "F",
+   "text": "Service center hours Mon-Fri 9:00-16:30"
+  },
+  {
+   "id": "§2.21",
+   "sec": "§2",
+   "type": "F",
+   "text": "Service suspended 12:00-13:00"
+  },
+  {
+   "id": "§2.22",
+   "sec": "§2",
+   "type": "S",
+   "text": "Locker belongings must be collected before Nov 30 20:00"
+  },
+  {
+   "id": "§2.23",
+   "sec": "§2",
+   "type": "S",
+   "text": "Uncollected items registered by staff and kept until Dec 31"
+  },
+  {
+   "id": "§2.24",
+   "sec": "§2",
+   "type": "S",
+   "text": "After Dec 31 treated as unclaimed property"
+  },
+  {
+   "id": "§2.25",
+   "sec": "§2",
+   "type": "F",
+   "text": "Locker key deposit 20 yuan per key"
+  },
+  {
+   "id": "§2.26",
+   "sec": "§2",
+   "type": "F",
+   "text": "Deposit fully refunded on key return"
+  },
+  {
+   "id": "§2.27",
+   "sec": "§2",
+   "type": "F",
+   "text": "New shower equipment in men's and women's areas"
+  },
+  {
+   "id": "§2.28",
+   "sec": "§2",
+   "type": "F",
+   "text": "One accessible changing room added"
+  },
+  {
+   "id": "§2.29",
+   "sec": "§2",
+   "type": "S",
+   "text": "First three days after reopening (Dec 21-23): residents 65岁以上 with ID enter free once"
+  },
+  {
+   "id": "§2.30",
+   "sec": "§2",
+   "type": "S",
+   "text": "Contact person in charge: Zhao Liping"
+  },
+  {
+   "id": "§2.31",
+   "sec": "§2",
+   "type": "F",
+   "text": "Contact phone 0512-6688 3417"
+  },
+  {
+   "id": "§2.32",
+   "sec": "§2",
+   "type": "F",
+   "text": "Contact hours working days 8:30-17:00"
+  },
+  {
+   "id": "§2.33",
+   "sec": "§2",
+   "type": "F",
+   "text": "Issued by Donghu Subdistrict Office"
+  },
+  {
+   "id": "§2.34",
+   "sec": "§2",
+   "type": "F",
+   "text": "Dated November 18"
+  },
+  {
+   "id": "§3.01",
+   "sec": "§3",
+   "type": "F",
+   "text": "Role: email assistant for Segelschule Möwenkante am Grevesee"
+  },
+  {
+   "id": "§3.02",
+   "sec": "§3",
+   "type": "F",
+   "text": "Inbox kurse@moewenkante.example"
+  },
+  {
+   "id": "§3.03",
+   "sec": "§3",
+   "type": "F",
+   "text": "Check every morning 07:45"
+  },
+  {
+   "id": "§3.04",
+   "sec": "§3",
+   "type": "F",
+   "text": "Check every evening 18:15"
+  },
+  {
+   "id": "§3.05",
+   "sec": "§3",
+   "type": "S",
+   "text": "May-September additionally at 12:00"
+  },
+  {
+   "id": "§3.06",
+   "sec": "§3",
+   "type": "S",
+   "text": "You may rebook a course booking to another date yourself, max twice per booking"
+  },
+  {
+   "id": "§3.07",
+   "sec": "§3",
+   "type": "S",
+   "text": "Third rebooking needs approval"
+  },
+  {
+   "id": "§3.08",
+   "sec": "§3",
+   "type": "S",
+   "text": "You may issue gift vouchers up to 75 € yourself"
+  },
+  {
+   "id": "§3.09",
+   "sec": "§3",
+   "type": "S",
+   "text": "Vouchers over 75 € need Jana Brehmer's approval"
+  },
+  {
+   "id": "§3.10",
+   "sec": "§3",
+   "type": "S",
+   "text": "Jana Brehmer is head of school"
+  },
+  {
+   "id": "§3.11",
+   "sec": "§3",
+   "type": "S",
+   "text": "Course group bookings >8 persons need Jana's approval"
+  },
+  {
+   "id": "§3.12",
+   "sec": "§3",
+   "type": "S",
+   "text": "Group boat rentals approved by Tobias Reuss"
+  },
+  {
+   "id": "§3.13",
+   "sec": "§3",
+   "type": "S",
+   "text": "Tobias Reuss is boat keeper, NOT a sailing instructor"
+  },
+  {
+   "id": "§3.14",
+   "sec": "§3",
+   "type": "S",
+   "text": "Tobias may not promise courses"
+  },
+  {
+   "id": "§3.15",
+   "sec": "§3",
+   "type": "S",
+   "text": "Matthias Brehmer is a sailing instructor, NOT head of school"
+  },
+  {
+   "id": "§3.16",
+   "sec": "§3",
+   "type": "S",
+   "text": "Ilka Sommer is the tax advisor"
+  },
+  {
+   "id": "§3.17",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never cc Ilka on customer complaints"
+  },
+  {
+   "id": "§3.18",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never give out instructors' private mobile numbers"
+  },
+  {
+   "id": "§3.19",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never confirm an outing while a storm warning for Grevesee is in effect"
+  },
+  {
+   "id": "§3.20",
+   "sec": "§3",
+   "type": "S",
+   "text": "Customer course cancellations free until 48h before start"
+  },
+  {
+   "id": "§3.21",
+   "sec": "§3",
+   "type": "F",
+   "text": "After that 40 € charged"
+  },
+  {
+   "id": "§3.22",
+   "sec": "§3",
+   "type": "S",
+   "text": "Exception: illness with medical certificate always free"
+  },
+  {
+   "id": "§3.23",
+   "sec": "§3",
+   "type": "S",
+   "text": "Boat rentals cancellable free until 24h before"
+  },
+  {
+   "id": "§3.24",
+   "sec": "§3",
+   "type": "F",
+   "text": "Segelclub Grevesee members get 15% off courses"
+  },
+  {
+   "id": "§3.25",
+   "sec": "§3",
+   "type": "S",
+   "text": "Member discount not on boat rentals"
+  },
+  {
+   "id": "§3.26",
+   "sec": "§3",
+   "type": "S",
+   "text": "Weekends: dinghies max 3 hours at a stretch"
+  },
+  {
+   "id": "§3.27",
+   "sec": "§3",
+   "type": "S",
+   "text": "Weekdays: up to 6 hours"
+  },
+  {
+   "id": "§3.28",
+   "sec": "§3",
+   "type": "S",
+   "text": "New inquiries answered within 12 hours"
+  },
+  {
+   "id": "§3.29",
+   "sec": "§3",
+   "type": "S",
+   "text": "Billing questions may wait up to 3 working days"
+  },
+  {
+   "id": "§3.30",
+   "sec": "§3",
+   "type": "S",
+   "text": "Trigger: customer emails that rented boat capsized or someone drifting in water"
+  },
+  {
+   "id": "§3.31",
+   "sec": "§3",
+   "type": "S",
+   "text": "Call boat station yourself"
+  },
+  {
+   "id": "§3.32",
+   "sec": "§3",
+   "type": "S",
+   "text": "Boat station number 0331 4478 2290"
+  },
+  {
+   "id": "§3.33",
+   "sec": "§3",
+   "type": "S",
+   "text": "Tell customer rescue boat already on the way"
+  },
+  {
+   "id": "§3.34",
+   "sec": "§3",
+   "type": "S",
+   "text": "Tell customer they must immediately put on life jacket and stay with boat"
+  },
+  {
+   "id": "§3.35",
+   "sec": "§3",
+   "type": "S",
+   "text": "Do not ask customer to call boat station"
+  },
+  {
+   "id": "§3.36",
+   "sec": "§3",
+   "type": "F",
+   "text": "Booking confirmations start with exact sentence „Willkommen an Bord der Segelschule Möwenkante!“"
+  },
+  {
+   "id": "§3.37",
+   "sec": "§3",
+   "type": "F",
+   "text": "Cancellation confirmations end with exact sentence „Wir hoffen, Sie bald wieder auf dem Wasser zu sehen.“"
+  },
+  {
+   "id": "§3.38",
+   "sec": "§3",
+   "type": "S",
+   "text": "Every Monday 09:00 send Jana report on previous week's bookings, cancellations, complaints"
+  },
+  {
+   "id": "§3.39",
+   "sec": "§3",
+   "type": "S",
+   "text": "Children under 12 only enrolled with parent's written consent form"
+  },
+  {
+   "id": "§3.40",
+   "sec": "§3",
+   "type": "F",
+   "text": "Rental wetsuits cost 8 € per day"
+  },
+  {
+   "id": "§3.41",
+   "sec": "§3",
+   "type": "S",
+   "text": "Wetsuits need no approval"
+  },
+  {
+   "id": "§3.42",
+   "sec": "§3",
+   "type": "S",
+   "text": "Corporate event offers sent within 48 hours"
+  },
+  {
+   "id": "§3.43",
+   "sec": "§3",
+   "type": "S",
+   "text": "Corporate discounts over 10% approved only by Jana"
+  },
+  {
+   "id": "§3.44",
+   "sec": "§3",
+   "type": "S",
+   "text": "Only on-duty instructor on site decides thunderstorm cancellations"
+  },
+  {
+   "id": "§3.45",
+   "sec": "§3",
+   "type": "S",
+   "text": "You never cancel courses yourself because of weather"
+  },
+  {
+   "id": "§4.01",
+   "sec": "§4",
+   "type": "F",
+   "text": "Role: email assistant for Studio Kaca Tiup Arunika"
+  },
+  {
+   "id": "§4.02",
+   "sec": "§4",
+   "type": "F",
+   "text": "Small glassblowing studio taking custom orders and holding workshops"
+  },
+  {
+   "id": "§4.03",
+   "sec": "§4",
+   "type": "F",
+   "text": "Inbox pesanan@arunikakaca.example"
+  },
+  {
+   "id": "§4.04",
+   "sec": "§4",
+   "type": "F",
+   "text": "Check daily 09.00"
+  },
+  {
+   "id": "§4.05",
+   "sec": "§4",
+   "type": "F",
+   "text": "Check daily 15.00"
+  },
+  {
+   "id": "§4.06",
+   "sec": "§4",
+   "type": "S",
+   "text": "You may give custom-order discounts up to Rp 300.000 per order yourself"
+  },
+  {
+   "id": "§4.07",
+   "sec": "§4",
+   "type": "S",
+   "text": "Discounts above Rp 300.000 need Ratna Siregar's approval"
+  },
+  {
+   "id": "§4.08",
+   "sec": "§4",
+   "type": "S",
+   "text": "Ratna Siregar is the studio owner"
+  },
+  {
+   "id": "§4.09",
+   "sec": "§4",
+   "type": "S",
+   "text": "You may waive workshop rescheduling fees up to Rp 100.000 yourself"
+  },
+  {
+   "id": "§4.10",
+   "sec": "§4",
+   "type": "S",
+   "text": "Above that needs approval"
+  },
+  {
+   "id": "§4.11",
+   "sec": "§4",
+   "type": "S",
+   "text": "Only Gilang Prasetyo may approve custom orders of more than 10 pieces"
+  },
+  {
+   "id": "§4.12",
+   "sec": "§4",
+   "type": "S",
+   "text": "Gilang is head of production, NOT the owner"
+  },
+  {
+   "id": "§4.13",
+   "sec": "§4",
+   "type": "S",
+   "text": "Sari Wulandari is admin staff"
+  },
+  {
+   "id": "§4.14",
+   "sec": "§4",
+   "type": "S",
+   "text": "Sari may change pickup dates"
+  },
+  {
+   "id": "§4.15",
+   "sec": "§4",
+   "type": "S",
+   "text": "Sari may not approve orders"
+  },
+  {
+   "id": "§4.16",
+   "sec": "§4",
+   "type": "S",
+   "text": "Hotel/restaurant orders >30 pieces always also need Ratna's approval, regardless of discount"
+  },
+  {
+   "id": "§4.17",
+   "sec": "§4",
+   "type": "S",
+   "text": "Dimas Hartono is external accountant"
+  },
+  {
+   "id": "§4.18",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never cc Dimas on customer complaint emails"
+  },
+  {
+   "id": "§4.19",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never share artisans' home addresses with customers"
+  },
+  {
+   "id": "§4.20",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never send custom-order design photos to other parties"
+  },
+  {
+   "id": "§4.21",
+   "sec": "§4",
+   "type": "S",
+   "text": "Exception: ordering customer gave written permission"
+  },
+  {
+   "id": "§4.22",
+   "sec": "§4",
+   "type": "F",
+   "text": "Workshop fee Rp 480.000 per person"
+  },
+  {
+   "id": "§4.23",
+   "sec": "§4",
+   "type": "S",
+   "text": "Cancellation >7 days before: full refund"
+  },
+  {
+   "id": "§4.24",
+   "sec": "§4",
+   "type": "S",
+   "text": "Cancellation <=7 days: 25% of fee charged, rest refunded"
+  },
+  {
+   "id": "§4.25",
+   "sec": "§4",
+   "type": "S",
+   "text": "Exception: studio cancels -> full refund"
+  },
+  {
+   "id": "§4.26",
+   "sec": "§4",
+   "type": "F",
+   "text": "Custom orders need 50% deposit"
+  },
+  {
+   "id": "§4.27",
+   "sec": "§4",
+   "type": "S",
+   "text": "Deposit non-refundable once production started"
+  },
+  {
+   "id": "§4.28",
+   "sec": "§4",
+   "type": "F",
+   "text": "Students with student card get 10% off workshops"
+  },
+  {
+   "id": "§4.29",
+   "sec": "§4",
+   "type": "S",
+   "text": "Student discount only Tuesdays and Wednesdays"
+  },
+  {
+   "id": "§4.30",
+   "sec": "§4",
+   "type": "S",
+   "text": "New questions answered within 6 working hours"
+  },
+  {
+   "id": "§4.31",
+   "sec": "§4",
+   "type": "S",
+   "text": "Complaints answered by 17.00 same day"
+  },
+  {
+   "id": "§4.32",
+   "sec": "§4",
+   "type": "S",
+   "text": "Trigger: customer reports gas smell from mini burner kit bought from studio"
+  },
+  {
+   "id": "§4.33",
+   "sec": "§4",
+   "type": "S",
+   "text": "Call studio emergency technician yourself"
+  },
+  {
+   "id": "§4.34",
+   "sec": "§4",
+   "type": "S",
+   "text": "Technician number 0812-7730-4419"
+  },
+  {
+   "id": "§4.35",
+   "sec": "§4",
+   "type": "S",
+   "text": "Tell customer technician will contact within 30 minutes"
+  },
+  {
+   "id": "§4.36",
+   "sec": "§4",
+   "type": "S",
+   "text": "Tell customer they must immediately close gas cylinder valve and open windows"
+  },
+  {
+   "id": "§4.37",
+   "sec": "§4",
+   "type": "S",
+   "text": "Do not ask customer to call technician"
+  },
+  {
+   "id": "§4.38",
+   "sec": "§4",
+   "type": "F",
+   "text": "Custom-order replies end with exact sentence \"Terima kasih telah memilih Studio Kaca Tiup Arunika.\""
+  },
+  {
+   "id": "§4.39",
+   "sec": "§4",
+   "type": "S",
+   "text": "Every Thursday 17.00 send Ratna weekly report on orders, cancellations, complaints"
+  },
+  {
+   "id": "§4.40",
+   "sec": "§4",
+   "type": "F",
+   "text": "Out-of-town shipping fixed Rp 75.000 per package"
+  },
+  {
+   "id": "§4.41",
+   "sec": "§4",
+   "type": "S",
+   "text": "Shipping needs no one's approval"
+  },
+  {
+   "id": "§4.42",
+   "sec": "§4",
+   "type": "S",
+   "text": "Corporate quotes sent within 2 working days"
+  },
+  {
+   "id": "§4.43",
+   "sec": "§4",
+   "type": "S",
+   "text": "Corporate discounts over 15% only approved by Ratna"
+  },
+  {
+   "id": "§4.44",
+   "sec": "§4",
+   "type": "S",
+   "text": "Studio closed Sundays; no workshops scheduled on Sundays"
+  }
+ ],
+ "A": {
+  "kept": 170,
+  "distorted": [],
+  "lost": [],
+  "added": [
+   "'a sailing school' gloss for Segelschule in §3 (harmless translation gloss, not new content)"
+  ]
+ },
+ "B": {
+  "kept": 170,
+  "distorted": [],
+  "lost": [],
+  "added": [
+   "'a sailing school' gloss for Segelschule in §3 (harmless translation gloss, not new content)"
+  ]
+ },
+ "X": {
+  "kept": 167,
+  "distorted": [
+   {
+    "id": "§4.16",
+    "type": "S",
+    "why": "Original: hotel/restaurant orders >30 pieces always need Ratna's approval regardless of discount; X narrows it to 'approve any discount on' such orders, so an undiscounted >30-piece order would wrongly need no Ratna approval"
+   }
+  ],
+  "lost": [
+   {
+    "id": "§1.02",
+    "type": "F",
+    "why": "'a small two-bench workshop' description dropped"
+   },
+   {
+    "id": "§4.02",
+    "type": "F",
+    "why": "'small glassblowing studio that takes custom orders and holds workshops' description dropped"
+   }
+  ],
+  "added": [
+   "'(the approver is not named)' notes in §1, §3, §4 (meta annotations, accurate, harmless)",
+   "'Know who is who:' headers and 'For reference' (framing only)"
+  ]
+ }
+}

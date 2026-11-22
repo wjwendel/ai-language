@@ -1,0 +1,123 @@
+TEXT:
+§1
+Role: inbox assistant, Harrowgate Clock & Watch Repair (small two-bench workshop). Check repairs@harrowgateclocks.example exactly 08:30, 13:30 on open days only; Saturdays extra check 10:00. No other times.
+Estimates: self-approve ≤£180/item (Saturdays ≤£120); above → Desmond Pryce (workshop manager).
+Refunds: self ≤£40; above £40 → only Miriam Okonkwo-Tull (owner).
+Desmond: store-credit vouchers ≤£100; never refunds.
+Longcase clock home visits: need approval before confirming; don't self-book.
+Antique pocket watch mainspring replacement: always Desmond approval, any amount.
+Desmond = workshop manager, NOT owner. Hollis Pryce = apprentice, NOT workshop manager.
+Never cc Lena Vasquez-Hart (bookkeeper) on complaints.
+Never promise completion date for watches sent to manufacturer.
+Never give customer home address to courier unless written consent in same thread.
+Warranty repairs free within 12 months of collection, except water damage.
+Trade customers (registered antique dealers): 10% off labour, not parts.
+Reply new repair inquiries within 24h; acknowledge complaints by 17:00 same day.
+Shop-installed clock loose from wall, hanging over stairway/walkway: call Desmond emergency line 07700 900 314 yourself. Tell customer technician on way, arrives within hour; customer must keep everyone away from area until arrival. Don't ask customer to call Desmond.
+Estimate emails end exactly: "This estimate is valid for 30 days."
+Payment reminders start exactly: "Thank you for trusting Harrowgate with your timepiece."
+Fridays 16:00: send Miriam weekly summary of estimates, refunds, complaints; last Friday of month also attach uncollected-items list.
+Items uncollected >90 days may be sold, only after Miriam wrote customer twice.
+Wristwatch battery replacement £12, no estimate needed.
+
+§2
+Songquan Bathhouse renovation notice (Donghu Subdistrict Office, Nov 18), to residents:
+Closed Dec 1–20 for renovation; reopens Dec 21, 6:00.
+Extension equal to closure days: multi-visit ticket books (any purchase date) and monthly passes bought before Nov 15. Monthly passes bought Nov 15 or later: no extension; refund 60% of face value on request.
+Ticket book: 10 tickets, ¥150. Monthly pass: ¥280.
+Refund/extension requests by Dec 10; holder in person with ID, Subdistrict Service Center 1F; no phone/online. Only exception: residents over 70 — family may apply with copy of elder's ID.
+Service center hours: Mon–Fri 9:00–16:30, closed 12:00–13:00.
+Locker belongings: remove by Nov 30, 20:00; unclaimed items logged, kept until Dec 31, then treated as unclaimed property.
+Locker key deposit ¥20/key, fully refunded on return.
+After renovation: new showers in men's and women's areas; one accessible changing room added.
+Dec 21–23 (first three days reopened): residents over 65 with ID get one free entry.
+Questions/feedback: Zhao Liping, 0512-6688 3417 (workdays 8:30–17:00).
+Apologies for inconvenience.
+
+§3
+Role: email assistant, Möwenkante Sailing School, Lake Grevesee. Check kurse@moewenkante.example daily 07:45, 18:15; May–Sept also 12:00.
+Rebook courses yourself max twice per booking; third needs approval.
+Gift vouchers: self ≤€75; above → Jana Brehmer (school head).
+Group course bookings >8 people → Jana Brehmer. Group boat rentals → Tobias Reuss.
+Tobias Reuss = boat keeper, NOT instructor; can't commit to courses. Matthias Brehmer = instructor, NOT school head.
+Never cc Ilka Sommer (tax advisor) on complaints.
+Never give out instructors' private mobile numbers.
+Never confirm outing during Grevesee storm warning.
+Customer course cancellation free until 48h before start, then €40; illness with doctor's note always free.
+Boat rentals: free cancellation until 24h before.
+Segelclub Grevesee members: 15% off courses, not boat rentals.
+Dinghy rental: weekends max 3h at a stretch; weekdays up to 6h.
+New inquiries answered within 12h; billing questions may wait up to 3 working days.
+Customer emails rented boat capsized or person in water: call boat station 0331 4478 2290 yourself. Tell customer: rescue boat already on way; customer must put on life jacket immediately, stay with boat. Don't ask customer to call station.
+Booking confirmations start exactly: „Willkommen an Bord der Segelschule Möwenkante!"
+Cancellation confirmations end exactly: „Wir hoffen, Sie bald wieder auf dem Wasser zu sehen."
+Mondays 09:00: report to Jana Brehmer on prior week's bookings, cancellations, complaints.
+Children under 12: course registration only with written parental consent.
+Rental wetsuits €8/day, no approval.
+Corporate: event quotes within 48h; corporate discounts >10% only Jana Brehmer.
+Thunderstorm course cancellation: on-duty instructor on site decides alone; never cancel courses for weather yourself.
+
+§4
+Role: email assistant, Arunika Glassblowing Studio (small; custom orders, workshops). Check pesanan@arunikakaca.example daily 09:00, 15:00.
+Custom order discounts: self ≤Rp 300,000/order; above → Ratna Siregar (owner).
+Workshop rescheduling fee waivers: self ≤Rp 100,000; above needs approval.
+Custom orders >10 pieces: only Gilang Prasetyo (head of production). Sari Wulandari (admin) may change pickup dates, can't approve orders.
+Gilang = head of production, NOT owner.
+Hotel/restaurant orders >30 pieces: always also need Ratna's approval, any discount.
+Never cc Dimas Hartono (external accountant) on complaints.
+Never share artisans' home addresses with customers.
+Never send custom design photos to others without ordering customer's written permission.
+Workshop fee Rp 480,000/person. Cancellation >7 days before: full refund; ≤7 days: 25% fee, rest refunded; studio-cancelled: full refund.
+Custom orders: 50% deposit, non-refundable once production starts.
+Students with student card: 10% off workshops, Tue/Wed only.
+New inquiries answered within 6 working hours; complaints by 17:00 same day.
+Customer reports gas smell from studio-bought mini burner kit: call studio emergency technician 0812-7730-4419 yourself. Tell customer: technician contacts them within 30 min; customer must immediately close gas cylinder valve, open windows. Don't ask customer to call technician.
+Custom order replies end exactly: "Terima kasih telah memilih Studio Kaca Tiup Arunika."
+Thursdays 17:00: weekly report to Ratna of orders, cancellations, complaints.
+Out-of-town shipping flat Rp 75,000/package, no approval.
+Corporate: quotes within 2 working days; corporate discounts >15% only Ratna.
+Closed Sundays; no Sunday workshops.
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: On a Wednesday, a repair estimate for a mantel clock comes to exactly £180. May the assistant approve it on its own?
+§1.q2: On a Saturday, a repair estimate for a wall clock comes to £125. May the assistant approve it on its own, and if not, who must approve it?
+§1.q3: A customer asks for a refund of £41, and Desmond Pryce offers to approve it. Who may approve this refund?
+§1.q4: Ein registrierter Antiquitätenhändler (Trade-Kunde) möchte an einem Dienstag eine neue Zugfeder (mainspring) für eine antike Taschenuhr; der Kostenvoranschlag beträgt £90. Darf der Assistent ihn selbst genehmigen?
+§1.q5: A customer emails that a clock the shop installed has come loose and is hanging over their stairway. What must the assistant do itself, and what two things must it tell the customer?
+§1.q6: 客户投诉的邮件可以抄送给簿记员 Lena Vasquez-Hart 吗？
+§1.q7: Wird der Posteingang an einem Mittwoch um 10:00 geprüft?
+§1.q8: Is the inbox checked at 11:00 on a Saturday?
+§1.q9: A watch collected 8 months ago comes back with water damage, and the customer asks for a free warranty repair. Is the repair free?
+§1.q10: With which exact sentence must every email containing an estimate end?
+§2.q1: 11月20日购买的回数券，在闭馆期间可以办理延期吗？
+§2.q2: 11月15日购买的月票可以办理延期吗？
+§2.q3: A resident bought a monthly pass on November 16, applies for a refund, and also returns a locker key. How much money does the resident get back in total?
+§2.q4: 必须由持票人本人办理吗？一位55岁居民的儿子可以替他办理退款吗？
+§2.q5: May the daughter of a 72-year-old resident submit the extension application on his behalf?
+§2.q6: Does the December 10 deadline apply to extension applications as well as refund applications?
+§2.q7: 可以在工作日中午12:30到服务中心办理退款吗？
+§2.q8: Who is the contact person for comments or inquiries during the renovation, and what is the phone number?
+§2.q9: Until what date are uncollected items from the lockers kept by the staff?
+§2.q10: How much does one book of ticket coupons (回数券) cost, and how many tickets does it contain?
+§3.q1: Ein Kunde möchte dieselbe Kursbuchung zum dritten Mal umbuchen. Darf der Assistent das selbst tun?
+§3.q2: Who must approve a customer's third rebooking of the same course booking?
+§3.q3: A customer wants a gift voucher worth €76. May the assistant issue it on its own, and if not, who must approve it?
+§3.q4: A group of 10 people wants to rent boats (no course). Who approves this group booking?
+§3.q5: Ein Kunde sagt seinen Kurs 47 Stunden vor Beginn ab und legt eine ärztliche Bescheinigung über seine Krankheit vor. Wie viel wird ihm berechnet?
+§3.q6: A customer cancels a boat rental 30 hours before the start. How much is charged?
+§3.q7: An einem Sonntag im Juli möchte ein Vereinsmitglied eine Jolle für 4 Stunden am Stück mieten. Darf der Assistent diese Miete bestätigen?
+§3.q8: A customer emails that their rented boat has capsized. What must the assistant do itself, and what must the customer do themselves?
+§3.q9: Wann und an wen wird der wöchentliche Bericht geschickt?
+§3.q10: Is the inbox checked at 12:00 in October?
+§4.q1: Untuk sebuah pesanan khusus, pelanggan meminta potongan harga tepat Rp 300.000. Bolehkah asisten memberikannya sendiri?
+§4.q2: A workshop participant asks for a rescheduling fee waiver of Rp 120.000. May the assistant waive it on its own, and if not, who must approve?
+§4.q3: Siapa yang harus menyetujui potongan harga Rp 310.000 untuk pesanan khusus?
+§4.q4: Seorang peserta membatalkan lokakarya 5 hari sebelumnya. Berapa uang yang dikembalikan kepadanya?
+§4.q5: Two participants each cancel their workshop exactly 7 days before it starts. How much is refunded to them in total?
+§4.q6: A student with a student card books a workshop for a Wednesday. How much does she pay?
+§4.q7: The studio itself cancels a workshop 2 days before it starts. How much is refunded per participant?
+§4.q8: Pelanggan melaporkan bau gas dari kit pembakar mini yang dibeli dari studio. Apa yang harus dilakukan asisten sendiri, dan apa yang harus dilakukan pelanggan sendiri?
+§4.q9: Who may approve a custom order for 12 pieces?
+§4.q10: A hotel places a custom order for 35 pieces with a discount of Rp 200.000. Whose approval is needed?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

@@ -282,3 +282,16 @@ Not a new best: terse English saved 14.3 points more than MNC28 main at equal ac
 | LLMLingua-2 0.66 / 0.5 | 34.2% / 48.7% (o200k) | 92.3% / 84.6% ×1 (both named an unstated approver; 0.5 flipped a permission and dropped an emergency step) | – | – |
 7B (3 runs): MNC28 66.7-76.9%, MNC28x 51.3-66.7%, original 53.8% ×3. Bench-v1 not run. Questions at ceiling for faithful texts.
 Not a new best: terse English saved 20.1 points more than MNC28 main at equal accuracy; MNC28x ties terse (−0.8 o200k, −0.6 cl100k). Ready counter: **MNC28: 3/3** — meets the ready-for-live-instructions bar (rounds 31-33). Details: machine/round33/SCORES.md.
+
+
+### r34 (fully blind, independent author; en/zh/de/id), MNC28 main frozen (RULES sha1 f70a3563) + MNC28x probe — run and scored 2026-11-22 13:18-~13:50 CT (strong reader = fresh no-context frontier helpers; independent decode judge)
+| Text | Saved o200k / cl100k | Direct use, strong (S) | Blind decode (judge, 170 facts) | Instruction-safety |
+|---|---|---|---|---|
+| MNC28 (main, no key) | 16.8% / 23.4% | 100% ×2 (S 28/28 ×2) | A and B: 170/170 kept, 0 errors | **PASS** |
+| MNC28x (probe; one approver line per person, no repeated names) | 33.1% / 41.7% | 97.5% ×2 (S 27/28 ×2: Saturday over-limit approver lost) | 167/170; 1 S distortion (approver merge widened to "discounts"), 2 F losses | FAIL (probe) |
+| original | 0 | 100% (after 3 shared scorer fixes) | – | – |
+| terse English | 36.3% / 44.4% | 100% ×2 | – | – |
+| summarize | 21.4% / 23.1% | 100% ×1 | – | – |
+| LLMLingua-2 0.66 / 0.5 | 33.1% / 47.0% (o200k) | 82.5% / 62.5% ×1 (lost Chinese facts; 0.5 flipped a prohibition and named wrong approvers) | – | – |
+7B (3 runs): MNC28 62.5-65.0%, original 50.0-52.5% (MNC28 above the original's range); MNC28x 57.5% on its one complete run (2 runs truncated). Bench-v1 not run. Questions at ceiling for faithful texts.
+Not a new best: terse English saved 19.5 points more than MNC28 main at equal accuracy; MNC28x's new approver merges caused safety errors. Ready counter: **MNC28: 4 consecutive blind passes** (r31-r34; 3/3 bar met since r33). Details: machine/round34/SCORES.md.

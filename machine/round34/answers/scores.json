@@ -1,0 +1,3786 @@
+{
+ "rows": [
+  {
+   "f": "llm05_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Desmond Pryce must approve (Saturday limit is £120)",
+   "gold": "No; on Saturdays the own limit is only £120, so Desmond Pryce, the workshop manager, must approve it."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Miriam Okonkwo-Tull (owner) only; refunds above £40 need her, not Desmond",
+   "gold": "Only Miriam Okonkwo-Tull, the owner (Desmond may never approve refunds)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; mainspring replacements for antique pocket watches need Desmond Pryce's approval",
+   "gold": "no (mainspring replacements for antique pocket watches always need Desmond's approval)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call Desmond's emergency line 07700 900 314 itself; tell the customer a technician will arrive within an hour and to keep everyone away until it arrives",
+   "gold": "Call Desmond's emergency line on 07700 900 314 itself; tell the customer a technician is on the way and will arrive within the hour, and that the customer themselves must keep everyone away from the area until the technician arrives."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes; Lena Vasquez-Hart is copied on complaints",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no (10:00 is an extra check only on Saturdays)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; water damage is excluded from warranty",
+   "gold": "no (water damage is excluded from warranty)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated (text truncated; ends '...valid 30 days.')",
+   "gold": "\"This estimate is valid for 30 days.\""
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "yes (ticket books can be extended regardless of purchase date)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no (only monthly passes bought before November 15 can be extended)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated (60% of face value plus 20 yuan key deposit; pass price not stated)",
+   "gold": "188 yuan (60% of 280 = 168, plus the 20 yuan key deposit)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "yes (with a copy of the elderly person's ID)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; service suspended 12:00-13:00",
+   "gold": "no (processing is paused from 12:00 to 13:00)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated for contact person; phone 0512-6688 3417",
+   "gold": "Zhao Liping (赵立平), 0512-6688 3417"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated (items not collected by Nov 30 20:00 are treated as unclaimed)",
+   "gold": "December 31"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "price not stated; 10 tickets per book",
+   "gold": "150 yuan for 10 tickets"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; a third rebooking needs approval",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "Needs approval; the approver is not stated."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Jana Brehmer must approve vouchers over €75",
+   "gold": "No; Jana Brehmer, the head of the school, must approve it."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Jana Brehmer",
+   "gold": "Tobias Reuss, the boat keeper."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€0; illness with a certificate is free",
+   "gold": "Nothing; illness with a doctor's certificate is always free."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€0; free cancellation up to 24 hours before",
+   "gold": "Nothing; boat rentals can be cancelled free of charge up to 24 hours before."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; on weekends dinghies are rented for max 3 hours",
+   "gold": "no (on weekends dinghies are rented for at most 3 hours)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the boat station 0331 4478 2290 itself and tell the customer a rescue boat is on the way; customer must put on a life jacket and stay with the boat, not call the boat station",
+   "gold": "Call the boat station on 0331 4478 2290 itself; tell the customer the rescue boat is on its way, and that the customer must immediately put on their life jacket and stay with the boat."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Every Monday at 09:00 to Jana Brehmer",
+   "gold": "Every Monday at 09:00 to Jana Brehmer."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the 12:00 check is only May to September",
+   "gold": "no (the 12:00 check is only from May to September)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no; Gilang Prasetyo must approve (limit Rp 100.000)",
+   "gold": "No; it needs approval, but the approver is not stated."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ratna Siregar",
+   "gold": "Ratna Siregar, the owner."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 360.000 (75% of Rp 480.000)",
+   "gold": "Rp 360.000 (fee of 25% = Rp 120.000 deducted from Rp 480.000)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 720.000 (7 days or less: 75% each)",
+   "gold": "Rp 720.000 (each pays a 25% fee of Rp 120.000 and gets Rp 360.000 back)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 432.000 (10% student discount Tue/Wed)",
+   "gold": "Rp 432.000 (10% off Rp 480.000)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "The full amount, Rp 480.000."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the emergency technician 0812-7730-4419 itself and tell the customer a technician comes within 30 minutes; customer must close the gas cylinder valve and open the windows, not call the technician",
+   "gold": "Call the studio's emergency technician at 0812-7730-4419 itself; tell the customer the technician will contact them within 30 minutes, and that the customer must immediately close the gas canister valve and open the windows themselves."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Gilang Prasetyo (head of production)",
+   "gold": "Only Gilang Prasetyo, the head of production."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Ratna Siregar (hotel order over 30 pieces)",
+   "gold": "Both Gilang Prasetyo (more than 10 pieces) and Ratna Siregar (hotel order of more than 30 pieces); the discount itself is within the assistant's limit."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, estimates up to £180 per item may be approved",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the Saturday limit is £120; Desmond Pryce (workshop manager) must approve",
+   "gold": "No; on Saturdays the own limit is only £120, so Desmond Pryce, the workshop manager, must approve it."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Miriam Okonkwo-Tull (owner); Desmond never approves refunds",
+   "gold": "Only Miriam Okonkwo-Tull, the owner (Desmond may never approve refunds)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, mainspring replacements for antique pocket watches need Desmond Pryce's approval at any amount",
+   "gold": "no (mainspring replacements for antique pocket watches always need Desmond's approval)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Desmond's emergency line on 07700 900 314 itself (not ask the customer to call); tell the customer a technician is on the way and will arrive within an hour, and to keep everyone away from the area until the technician arrives",
+   "gold": "Call Desmond's emergency line on 07700 900 314 itself; tell the customer a technician is on the way and will arrive within the hour, and that the customer themselves must keep everyone away from the area until the technician arrives."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the 10:00 extra check is only on Saturdays",
+   "gold": "no (10:00 is an extra check only on Saturdays)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, water damage is excluded from free warranty repairs",
+   "gold": "no (water damage is excluded from warranty)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "This estimate valid for 30 days.",
+   "gold": "\"This estimate is valid for 30 days.\""
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "yes (ticket books can be extended regardless of purchase date)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it cannot be extended; it is refunded at 60% of face value",
+   "gold": "no (only monthly passes bought before November 15 can be extended)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "60% of the pass's face value plus the 20 yuan key deposit (face value not stated)",
+   "gold": "188 yuan (60% of 280 = 168, plus the 20 yuan key deposit)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, a family member may handle it with a copy of the elderly person's ID card",
+   "gold": "yes (with a copy of the elderly person's ID)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, service is suspended from 12:00 to 13:00",
+   "gold": "no (processing is paused from 12:00 to 13:00)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Zhao Liping (赵立平), 0512-6688 3417",
+   "gold": "Zhao Liping (赵立平), 0512-6688 3417"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated (items must be collected by November 30 at 20:00, after which they are treated as unclaimed)",
+   "gold": "December 31"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "price not stated; one book contains 10 tickets",
+   "gold": "150 yuan for 10 tickets"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, at most two rebookings; a third needs approval",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "Needs approval; the approver is not stated."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, vouchers over €75 must be approved by Jana Brehmer",
+   "gold": "No; Jana Brehmer, the head of the school, must approve it."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tobias Reuss",
+   "gold": "Tobias Reuss, the boat keeper."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€0, illness with a doctor's certificate is free",
+   "gold": "Nothing; illness with a doctor's certificate is always free."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€0, boat rentals can be cancelled free up to 24 hours before",
+   "gold": "Nothing; boat rentals can be cancelled free of charge up to 24 hours before."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, on weekends dinghies are rented for at most 3 hours",
+   "gold": "no (on weekends dinghies are rented for at most 3 hours)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the boat station at 0331 4478 2290 itself (not ask the customer to call); the customer must put on a life jacket and stay with the boat (told a rescue boat is on the way)",
+   "gold": "Call the boat station on 0331 4478 2290 itself; tell the customer the rescue boat is on its way, and that the customer must immediately put on their life jacket and stay with the boat."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "every Monday at 09:00 to Jana Brehmer",
+   "gold": "Every Monday at 09:00 to Jana Brehmer."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the 12:00 check is only May to September",
+   "gold": "no (the 12:00 check is only from May to September)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, discounts up to Rp 300.000 may be given",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, fees up to Rp 100.000 only; approver not stated",
+   "gold": "No; it needs approval, but the approver is not stated."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ratna Siregar",
+   "gold": "Ratna Siregar, the owner."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 360.000 (25% fee on Rp 480.000)",
+   "gold": "Rp 360.000 (fee of 25% = Rp 120.000 deducted from Rp 480.000)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 720.000 (Rp 360.000 each after the 25% fee)",
+   "gold": "Rp 720.000 (each pays a 25% fee of Rp 120.000 and gets Rp 360.000 back)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 432.000",
+   "gold": "Rp 432.000 (10% off Rp 480.000)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "full refund, Rp 480.000",
+   "gold": "The full amount, Rp 480.000."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the studio emergency technician at 0812-7730-4419 itself (not ask the customer to call), telling the customer the technician will contact them within 30 minutes; the customer must close the gas cylinder valve and open the windows",
+   "gold": "Call the studio's emergency technician at 0812-7730-4419 itself; tell the customer the technician will contact them within 30 minutes, and that the customer must immediately close the gas canister valve and open the windows themselves."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Gilang Prasetyo",
+   "gold": "Only Gilang Prasetyo, the head of production."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ratna Siregar (hotel order over 30 pieces) and Gilang Prasetyo (custom order over 10 pieces); the discount is within the assistant's limit",
+   "gold": "Both Gilang Prasetyo (more than 10 pieces) and Ratna Siregar (hotel order of more than 30 pieces); the discount itself is within the assistant's limit."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Saturday limit is £120, so Desmond Pryce (workshop manager) must approve",
+   "gold": "No; on Saturdays the own limit is only £120, so Desmond Pryce, the workshop manager, must approve it."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Miriam Okonkwo-Tull (owner); Desmond may never approve refunds",
+   "gold": "Only Miriam Okonkwo-Tull, the owner (Desmond may never approve refunds)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; antique pocket watch mainspring replacements always need Desmond Pryce's approval",
+   "gold": "no (mainspring replacements for antique pocket watches always need Desmond's approval)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Desmond's emergency line 07700 900 314 itself; tell customer a technician is on the way and will arrive within the hour, and the customer must keep everyone away from that area until the technician arrives",
+   "gold": "Call Desmond's emergency line on 07700 900 314 itself; tell the customer a technician is on the way and will arrive within the hour, and that the customer themselves must keep everyone away from the area until the technician arrives."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no (10:00 is an extra check only on Saturdays)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; water damage is excluded from free warranty",
+   "gold": "no (water damage is excluded from warranty)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "This estimate is valid for 30 days.",
+   "gold": "\"This estimate is valid for 30 days.\""
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes (ticket books can be extended regardless of purchase date)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it can only be refunded at 60% of face value",
+   "gold": "no (only monthly passes bought before November 15 can be extended)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "188 yuan (168 refund + 20 key deposit)",
+   "gold": "188 yuan (60% of 280 = 168, plus the 20 yuan key deposit)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, the holder must apply in person; no, the son of a 55-year-old cannot",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, bringing a copy of his ID",
+   "gold": "yes (with a copy of the elderly person's ID)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; service is paused 12:00-13:00",
+   "gold": "no (processing is paused from 12:00 to 13:00)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Zhao Liping (赵立平), 0512-6688 3417",
+   "gold": "Zhao Liping (赵立平), 0512-6688 3417"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 31",
+   "gold": "December 31"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150 yuan, 10 tickets",
+   "gold": "150 yuan for 10 tickets"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "Needs approval; the approver is not stated."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Jana Brehmer must approve",
+   "gold": "No; Jana Brehmer, the head of the school, must approve it."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tobias Reuss",
+   "gold": "Tobias Reuss, the boat keeper."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0 €",
+   "gold": "Nothing; illness with a doctor's certificate is always free."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0 €",
+   "gold": "Nothing; boat rentals can be cancelled free of charge up to 24 hours before."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; on weekends dinghies max 3h at a stretch",
+   "gold": "no (on weekends dinghies are rented for at most 3 hours)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the boat station 0331 4478 2290 itself; tell customer a rescue boat is already on the way and they must immediately put on a life jacket and stay with the boat",
+   "gold": "Call the boat station on 0331 4478 2290 itself; tell the customer the rescue boat is on its way, and that the customer must immediately put on their life jacket and stay with the boat."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "every Monday at 09:00, to Jana Brehmer",
+   "gold": "Every Monday at 09:00 to Jana Brehmer."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; 12:00 checks only May to September",
+   "gold": "no (the 12:00 check is only from May to September)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; approver not stated",
+   "gold": "No; it needs approval, but the approver is not stated."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ratna Siregar",
+   "gold": "Ratna Siregar, the owner."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 360.000",
+   "gold": "Rp 360.000 (fee of 25% = Rp 120.000 deducted from Rp 480.000)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 720.000",
+   "gold": "Rp 720.000 (each pays a 25% fee of Rp 120.000 and gets Rp 360.000 back)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 432.000",
+   "gold": "Rp 432.000 (10% off Rp 480.000)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 480.000 (full refund)",
+   "gold": "The full amount, Rp 480.000."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the studio emergency technician 0812-7730-4419 itself; tell customer the technician will contact them within 30 minutes and they must immediately close the gas cylinder valve and open windows",
+   "gold": "Call the studio's emergency technician at 0812-7730-4419 itself; tell the customer the technician will contact them within 30 minutes, and that the customer must immediately close the gas canister valve and open the windows themselves."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Gilang Prasetyo",
+   "gold": "Only Gilang Prasetyo, the head of production."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Gilang Prasetyo and Ratna Siregar",
+   "gold": "Both Gilang Prasetyo (more than 10 pieces) and Ratna Siregar (hotel order of more than 30 pieces); the discount itself is within the assistant's limit."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, £180 is within the £180 limit on weekdays",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Saturday limit is £120; approver not stated (Desmond Pryce's approval is specified only for estimates above £180)",
+   "gold": "No; on Saturdays the own limit is only £120, so Desmond Pryce, the workshop manager, must approve it."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Miriam Okonkwo-Tull, the owner; Desmond may never approve refunds",
+   "gold": "Only Miriam Okonkwo-Tull, the owner (Desmond may never approve refunds)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, mainspring replacements for antique pocket watches always need Desmond Pryce's approval, whatever the amount",
+   "gold": "no (mainspring replacements for antique pocket watches always need Desmond's approval)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Desmond's emergency line 07700 900 314 itself; then tell the customer a technician is on the way and will arrive within the hour, and that the customer must keep everyone away from that area until the technician arrives",
+   "gold": "Call Desmond's emergency line on 07700 900 314 itself; tell the customer a technician is on the way and will arrive within the hour, and that the customer themselves must keep everyone away from the area until the technician arrives."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never copy Lena Vasquez-Hart on customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only at 08:30 and 13:30",
+   "gold": "no (10:00 is an extra check only on Saturdays)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Saturday checks are 08:30, 10:00 and 13:30",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, water damage is excluded from free warranty repairs",
+   "gold": "no (water damage is excluded from warranty)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "This estimate is valid for 30 days.",
+   "gold": "\"This estimate is valid for 30 days.\""
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, ticket coupons can be extended regardless of purchase date (apply before December 10)",
+   "gold": "yes (ticket books can be extended regardless of purchase date)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, monthly passes bought on or after November 15 cannot be extended, but a refund of 60% of face value can be requested",
+   "gold": "no (only monthly passes bought before November 15 can be extended)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "188 yuan (168 yuan refund = 60% of 280, plus 20 yuan key deposit)",
+   "gold": "188 yuan (60% of 280 = 168, plus the 20 yuan key deposit)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, the ticket holder must apply in person with ID; no, the son of a 55-year-old cannot (only residents over 70 may have a family member apply)",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, a family member may apply for a resident over 70, bringing a copy of the resident's ID card",
+   "gold": "yes (with a copy of the elderly person's ID)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, both refund and extension applications must be submitted before December 10",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, service is paused from 12:00 to 13:00",
+   "gold": "no (processing is paused from 12:00 to 13:00)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Zhao Liping, 0512-6688 3417 (weekdays 8:30-17:00)",
+   "gold": "Zhao Liping (赵立平), 0512-6688 3417"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 31",
+   "gold": "December 31"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150 yuan for a book of 10 tickets",
+   "gold": "150 yuan for 10 tickets"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, a third rebooking needs approval",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "Needs approval; the approver is not stated."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, vouchers above 75 € must be approved by Jana Brehmer, head of school",
+   "gold": "No; Jana Brehmer, the head of the school, must approve it."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tobias Reuss, the boat keeper",
+   "gold": "Tobias Reuss, the boat keeper."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing, illness cancellations with a medical certificate are always free",
+   "gold": "Nothing; illness with a doctor's certificate is always free."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing, boat rentals can be cancelled free until 24h before",
+   "gold": "Nothing; boat rentals can be cancelled free of charge up to 24 hours before."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, dinghies are rented for at most 3 hours at a stretch on weekends",
+   "gold": "no (on weekends dinghies are rented for at most 3 hours)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the boat station at 0331 4478 2290 itself; tell the customer a rescue boat is already on the way and that the customer must immediately put on a life jacket and stay with the boat",
+   "gold": "Call the boat station on 0331 4478 2290 itself; tell the customer the rescue boat is on its way, and that the customer must immediately put on their life jacket and stay with the boat."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "every Monday at 09:00 to Jana Brehmer",
+   "gold": "Every Monday at 09:00 to Jana Brehmer."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the 12:00 check happens only May to September",
+   "gold": "no (the 12:00 check is only from May to September)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, discounts up to Rp 300.000 per order are allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, waivers above Rp 100.000 need approval; approver not stated",
+   "gold": "No; it needs approval, but the approver is not stated."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ratna Siregar, the owner",
+   "gold": "Ratna Siregar, the owner."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 360.000 (25% of Rp 480.000 = Rp 120.000 charged)",
+   "gold": "Rp 360.000 (fee of 25% = Rp 120.000 deducted from Rp 480.000)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 720.000 total (Rp 360.000 each)",
+   "gold": "Rp 720.000 (each pays a 25% fee of Rp 120.000 and gets Rp 360.000 back)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 432.000 (10% off Rp 480.000)",
+   "gold": "Rp 432.000 (10% off Rp 480.000)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "full refund, Rp 480.000",
+   "gold": "The full amount, Rp 480.000."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the studio emergency technician at 0812-7730-4419 itself; tell the customer the technician will contact them within 30 minutes and that they must immediately close the gas cylinder valve and open the windows",
+   "gold": "Call the studio's emergency technician at 0812-7730-4419 itself; tell the customer the technician will contact them within 30 minutes, and that the customer must immediately close the gas canister valve and open the windows themselves."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Gilang Prasetyo, head of production",
+   "gold": "Only Gilang Prasetyo, the head of production."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Gilang Prasetyo (more than 10 pieces) and Ratna Siregar (hotel order over 30 pieces); the Rp 200.000 discount itself needs no approval",
+   "gold": "Both Gilang Prasetyo (more than 10 pieces) and Ratna Siregar (hotel order of more than 30 pieces); the discount itself is within the assistant's limit."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, £180 is within the ≤£180 limit",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no, Saturday limit is ≤£120; approver not stated",
+   "gold": "No; on Saturdays the own limit is only £120, so Desmond Pryce, the workshop manager, must approve it."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Miriam Okonkwo-Tull; Desmond may never approve refunds",
+   "gold": "Only Miriam Okonkwo-Tull, the owner (Desmond may never approve refunds)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Desmond Pryce must always approve antique pocket-watch mainspring replacements, any amount",
+   "gold": "no (mainspring replacements for antique pocket watches always need Desmond's approval)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Desmond's emergency line 07700 900 314 itself; tell customer a technician is coming and arrives within an hour, and the customer must themselves keep everyone away from that area until the technician arrives",
+   "gold": "Call Desmond's emergency line on 07700 900 314 itself; tell the customer a technician is on the way and will arrive within the hour, and that the customer themselves must keep everyone away from the area until the technician arrives."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only 08:30 and 13:30 (extra 10:00 check is Saturday only)",
+   "gold": "no (10:00 is an extra check only on Saturdays)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Saturday checks are 08:30, 10:00 and 13:30",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, water damage is excluded from the free warranty",
+   "gold": "no (water damage is excluded from warranty)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "This estimate is valid for 30 days.",
+   "gold": "\"This estimate is valid for 30 days.\""
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, multi-visit tickets of any purchase date may be extended by the number of closed days; apply before Dec 10",
+   "gold": "yes (ticket books can be extended regardless of purchase date)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, passes bought Nov 15 or later get no extension; may apply for a 60% refund instead",
+   "gold": "no (only monthly passes bought before November 15 can be extended)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "188 yuan (168 yuan refund = 60% of 280, plus 20 yuan key deposit)",
+   "gold": "188 yuan (60% of 280 = 168, plus the 20 yuan key deposit)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, holder must apply in person with ID; no, the son of a 55-year-old cannot apply for him (exception only for residents 70+)",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, with a copy of the elder's ID",
+   "gold": "yes (with a copy of the elderly person's ID)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the center is paused 12:00-13:00",
+   "gold": "no (processing is paused from 12:00 to 13:00)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "赵立平 (person in charge), 0512-6688 3417",
+   "gold": "Zhao Liping (赵立平), 0512-6688 3417"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 31",
+   "gold": "December 31"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150 yuan for a book of 10 tickets",
+   "gold": "150 yuan for 10 tickets"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, a 3rd rebooking needs approval",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "Needs approval; the approver is not stated."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Jana Brehmer must approve",
+   "gold": "No; Jana Brehmer, the head of the school, must approve it."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tobias Reuss",
+   "gold": "Tobias Reuss, the boat keeper."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing, 0 € (illness with medical certificate is always free)",
+   "gold": "Nothing; illness with a doctor's certificate is always free."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing, 0 € (free cancellation until 24h before)",
+   "gold": "Nothing; boat rentals can be cancelled free of charge up to 24 hours before."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, on weekends dinghies are limited to ≤3h at a stretch",
+   "gold": "no (on weekends dinghies are rented for at most 3 hours)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the boat station at 0331 4478 2290 itself; tell customer a rescue boat is already coming; customer must immediately put on a life jacket and stay with the boat",
+   "gold": "Call the boat station on 0331 4478 2290 itself; tell the customer the rescue boat is on its way, and that the customer must immediately put on their life jacket and stay with the boat."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mondays at 09:00 to Jana Brehmer (previous week's bookings, cancellations and complaints)",
+   "gold": "Every Monday at 09:00 to Jana Brehmer."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the 12:00 check is only May-Sep",
+   "gold": "no (the 12:00 check is only from May to September)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, within the ≤Rp 300.000 limit",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; approver not stated",
+   "gold": "No; it needs approval, but the approver is not stated."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ratna Siregar",
+   "gold": "Ratna Siregar, the owner."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 360.000 (25% of Rp 480.000 charged)",
+   "gold": "Rp 360.000 (fee of 25% = Rp 120.000 deducted from Rp 480.000)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 720.000 total (Rp 360.000 each)",
+   "gold": "Rp 720.000 (each pays a 25% fee of Rp 120.000 and gets Rp 360.000 back)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 432.000 (10% student discount on Wednesday)",
+   "gold": "Rp 432.000 (10% off Rp 480.000)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "full refund, Rp 480.000",
+   "gold": "The full amount, Rp 480.000."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the studio emergency technician at 0812-7730-4419 itself; tell customer the technician contacts them within 30 min; customer must immediately close the gas cylinder valve and open windows",
+   "gold": "Call the studio's emergency technician at 0812-7730-4419 itself; tell the customer the technician will contact them within 30 minutes, and that the customer must immediately close the gas canister valve and open the windows themselves."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Gilang Prasetyo",
+   "gold": "Only Gilang Prasetyo, the head of production."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ratna Siregar (hotel order >30 pieces, any discount) and Gilang Prasetyo (custom order >10 pieces)",
+   "gold": "Both Gilang Prasetyo (more than 10 pieces) and Ratna Siregar (hotel order of more than 30 pieces); the discount itself is within the assistant's limit."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; £180 is within the ≤£180 weekday limit",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no; Saturday limit is ≤£120; approver not stated",
+   "gold": "No; on Saturdays the own limit is only £120, so Desmond Pryce, the workshop manager, must approve it."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Miriam Okonkwo-Tull (owner); Desmond may never approve refunds",
+   "gold": "Only Miriam Okonkwo-Tull, the owner (Desmond may never approve refunds)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; antique pocket-watch mainspring replacements always need Desmond Pryce's approval, any amount",
+   "gold": "no (mainspring replacements for antique pocket watches always need Desmond's approval)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Desmond's emergency line 07700 900 314 itself; then tell the customer a technician is coming and arrives within an hour, and that the customer must themselves keep everyone away from that area until the technician arrives",
+   "gold": "Call Desmond's emergency line on 07700 900 314 itself; tell the customer a technician is on the way and will arrive within the hour, and that the customer themselves must keep everyone away from the area until the technician arrives."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only 08:30 and 13:30",
+   "gold": "no (10:00 is an extra check only on Saturdays)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Saturday extra check is only at 10:00",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; water damage is excluded from free warranty repairs",
+   "gold": "no (water damage is excluded from warranty)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "This estimate is valid for 30 days.",
+   "gold": "\"This estimate is valid for 30 days.\""
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; multi-visit tickets of any purchase date may be extended by the number of closed days (apply in person before Dec 10)",
+   "gold": "yes (ticket books can be extended regardless of purchase date)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; passes bought Nov 15 or later get no extension but may apply for a refund of 60% of face value (168 yuan)",
+   "gold": "no (only monthly passes bought before November 15 can be extended)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "188 yuan (168 yuan refund = 60% of 280, plus 20 yuan key deposit)",
+   "gold": "188 yuan (60% of 280 = 168, plus the 20 yuan key deposit)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, the holder must apply in person with ID; no, the son of a 55-year-old cannot apply for him (family exception only for residents 70+)",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; family may apply for residents 70+ with a copy of the elder's ID",
+   "gold": "yes (with a copy of the elderly person's ID)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the center pauses 12:00-13:00",
+   "gold": "no (processing is paused from 12:00 to 13:00)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "赵立平 (Zhao Liping), 0512-6688 3417",
+   "gold": "Zhao Liping (赵立平), 0512-6688 3417"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 31",
+   "gold": "December 31"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150 yuan for a book of 10 tickets",
+   "gold": "150 yuan for 10 tickets"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; a 3rd rebooking needs approval",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "Needs approval; the approver is not stated."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Jana Brehmer must approve",
+   "gold": "No; Jana Brehmer, the head of the school, must approve it."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tobias Reuss",
+   "gold": "Tobias Reuss, the boat keeper."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0 €; illness with medical certificate is always free",
+   "gold": "Nothing; illness with a doctor's certificate is always free."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing; free cancellation until 24h before",
+   "gold": "Nothing; boat rentals can be cancelled free of charge up to 24 hours before."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; on weekends dinghies max 3 hours at a stretch",
+   "gold": "no (on weekends dinghies are rented for at most 3 hours)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the boat station 0331 4478 2290 itself; tell the customer a rescue boat is already coming; the customer must immediately put on a life jacket and stay with the boat",
+   "gold": "Call the boat station on 0331 4478 2290 itself; tell the customer the rescue boat is on its way, and that the customer must immediately put on their life jacket and stay with the boat."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Monday 09:00, to Jana Brehmer (previous week's bookings, cancellations and complaints)",
+   "gold": "Every Monday at 09:00 to Jana Brehmer."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the 12:00 check is only May-Sep",
+   "gold": "no (the 12:00 check is only from May to September)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; within the ≤Rp 300.000 limit",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; above Rp 100.000 needs approval, approver not stated",
+   "gold": "No; it needs approval, but the approver is not stated."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ratna Siregar",
+   "gold": "Ratna Siregar, the owner."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 360.000 (25% of Rp 480.000 charged)",
+   "gold": "Rp 360.000 (fee of 25% = Rp 120.000 deducted from Rp 480.000)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 720.000 (Rp 360.000 each)",
+   "gold": "Rp 720.000 (each pays a 25% fee of Rp 120.000 and gets Rp 360.000 back)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 432.000 (10% student discount on Wednesday)",
+   "gold": "Rp 432.000 (10% off Rp 480.000)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "full refund, Rp 480.000",
+   "gold": "The full amount, Rp 480.000."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the studio emergency technician at 0812-7730-4419 itself; tell the customer the technician contacts them within 30 minutes; the customer must immediately close the gas cylinder valve and open windows",
+   "gold": "Call the studio's emergency technician at 0812-7730-4419 itself; tell the customer the technician will contact them within 30 minutes, and that the customer must immediately close the gas canister valve and open the windows themselves."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Gilang Prasetyo",
+   "gold": "Only Gilang Prasetyo, the head of production."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ratna Siregar (hotel order >30 pieces, any discount) and Gilang Prasetyo (custom orders >10 pieces)",
+   "gold": "Both Gilang Prasetyo (more than 10 pieces) and Ratna Siregar (hotel order of more than 30 pieces); the discount itself is within the assistant's limit."
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; up to £180 per item is within its own limit on weekdays",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Saturday limit is £120, so Desmond Pryce (workshop manager) must approve",
+   "gold": "No; on Saturdays the own limit is only £120, so Desmond Pryce, the workshop manager, must approve it."
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Miriam Okonkwo-Tull, the owner; Desmond may never approve refunds",
+   "gold": "Only Miriam Okonkwo-Tull, the owner (Desmond may never approve refunds)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; mainspring replacements for antique pocket watches always need Desmond Pryce's approval, whatever the amount",
+   "gold": "no (mainspring replacements for antique pocket watches always need Desmond's approval)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Desmond's emergency line 07700 900 314 itself (not ask the customer to call); tell the customer a technician is on the way and will arrive within the hour, and that they themselves must keep everyone away from that area until the technician arrives",
+   "gold": "Call Desmond's emergency line on 07700 900 314 itself; tell the customer a technician is on the way and will arrive within the hour, and that the customer themselves must keep everyone away from the area until the technician arrives."
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never copy Lena Vasquez-Hart on customer complaints",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only 08:30 and 13:30 (the extra 10:00 check is Saturdays only)",
+   "gold": "no (10:00 is an extra check only on Saturdays)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Saturday checks are 08:30, 10:00 and 13:30",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; water damage is excluded from free warranty repairs",
+   "gold": "no (water damage is excluded from warranty)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "This estimate is valid for 30 days.",
+   "gold": "\"This estimate is valid for 30 days.\""
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; ticket coupons can be extended regardless of purchase date",
+   "gold": "yes (ticket books can be extended regardless of purchase date)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; monthly passes bought on or after Nov 15 cannot be extended (refund of 60% possible instead)",
+   "gold": "no (only monthly passes bought before November 15 can be extended)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "188 yuan (60% of 280 = 168 refund + 20 yuan key deposit)",
+   "gold": "188 yuan (60% of 280 = 168, plus the 20 yuan key deposit)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, the holder must apply in person with ID; no, the son cannot (exception only for people over 70)",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; a family member may apply for someone over 70 with a copy of the elder's ID card",
+   "gold": "yes (with a copy of the elderly person's ID)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; both refund and extension applications must be submitted before December 10",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; service is suspended 12:00-13:00",
+   "gold": "no (processing is paused from 12:00 to 13:00)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Zhao Liping (赵立平), phone 0512-6688 3417 (weekdays 8:30-17:00)",
+   "gold": "Zhao Liping (赵立平), 0512-6688 3417"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 31",
+   "gold": "December 31"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150 yuan for a book of 10 tickets",
+   "gold": "150 yuan for 10 tickets"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; a third rebooking needs approval",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "Needs approval; the approver is not stated."
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; vouchers over €75 must be approved by Jana Brehmer, the head of the school",
+   "gold": "No; Jana Brehmer, the head of the school, must approve it."
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tobias Reuss (boat keeper)",
+   "gold": "Tobias Reuss, the boat keeper."
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€0; illness with a doctor's certificate is always free",
+   "gold": "Nothing; illness with a doctor's certificate is always free."
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€0; boat rentals can be cancelled free up to 24 hours before",
+   "gold": "Nothing; boat rentals can be cancelled free of charge up to 24 hours before."
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; on weekends dinghies are rented for at most 3 hours at a stretch",
+   "gold": "no (on weekends dinghies are rented for at most 3 hours)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the boat station at 0331 4478 2290 itself (not ask the customer to call); tell the customer the rescue boat is already on its way, and that they must immediately put on their life jacket and stay with the boat",
+   "gold": "Call the boat station on 0331 4478 2290 itself; tell the customer the rescue boat is on its way, and that the customer must immediately put on their life jacket and stay with the boat."
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "every Monday at 09:00, to Jana Brehmer",
+   "gold": "Every Monday at 09:00 to Jana Brehmer."
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the 12:00 check is only May to September",
+   "gold": "no (the 12:00 check is only from May to September)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; discounts up to Rp 300.000 per order are within its own limit",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; waivers above Rp 100.000 need approval, but who must approve is not stated",
+   "gold": "No; it needs approval, but the approver is not stated."
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ratna Siregar, the studio owner",
+   "gold": "Ratna Siregar, the owner."
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 360.000 (25% fee of Rp 480.000 deducted)",
+   "gold": "Rp 360.000 (fee of 25% = Rp 120.000 deducted from Rp 480.000)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 720.000 (Rp 360.000 each)",
+   "gold": "Rp 720.000 (each pays a 25% fee of Rp 120.000 and gets Rp 360.000 back)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 432.000 (10% student discount on Wednesday)",
+   "gold": "Rp 432.000 (10% off Rp 480.000)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "full refund, Rp 480.000",
+   "gold": "The full amount, Rp 480.000."
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the studio emergency technician at 0812-7730-4419 itself (not ask the customer to call); tell the customer the technician will contact them within 30 minutes, and that they must immediately close the gas cylinder valve and open the windows",
+   "gold": "Call the studio's emergency technician at 0812-7730-4419 itself; tell the customer the technician will contact them within 30 minutes, and that the customer must immediately close the gas canister valve and open the windows themselves."
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Gilang Prasetyo, the head of production",
+   "gold": "Only Gilang Prasetyo, the head of production."
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "both Gilang Prasetyo (more than 10 pieces) and Ratna Siregar (hotel order over 30 pieces); the Rp 200.000 discount itself is within the assistant's limit",
+   "gold": "Both Gilang Prasetyo (more than 10 pieces) and Ratna Siregar (hotel order of more than 30 pieces); the discount itself is within the assistant's limit."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes (open day limit is ≤£180)",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Saturday limit is ≤£120, so Desmond Pryce (workshop manager) must approve",
+   "gold": "No; on Saturdays the own limit is only £120, so Desmond Pryce, the workshop manager, must approve it."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Miriam Okonkwo-Tull (owner); Desmond may never approve refunds",
+   "gold": "Only Miriam Okonkwo-Tull, the owner (Desmond may never approve refunds)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; antique pocket-watch mainspring replacements always need Desmond Pryce's approval, any amount",
+   "gold": "no (mainspring replacements for antique pocket watches always need Desmond's approval)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Desmond's emergency line 07700 900 314 itself (not ask the customer to); tell the customer a technician is on the way arriving within the hour, and they must keep everyone away from the area until then",
+   "gold": "Call Desmond's emergency line on 07700 900 314 itself; tell the customer a technician is on the way and will arrive within the hour, and that the customer themselves must keep everyone away from the area until the technician arrives."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only 08:30 and 13:30 on weekdays (Saturdays also 10:00)",
+   "gold": "no (10:00 is an extra check only on Saturdays)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Saturdays checked at 08:30, 10:00 and 13:30",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; water damage is excluded from warranty",
+   "gold": "no (water damage is excluded from warranty)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "This estimate is valid for 30 days.",
+   "gold": "\"This estimate is valid for 30 days.\""
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; coupon books of any purchase date can be extended by the number of closure days",
+   "gold": "yes (ticket books can be extended regardless of purchase date)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; passes bought on or after Nov 15 cannot be extended, only refunded at 60% of face value (168 yuan)",
+   "gold": "no (only monthly passes bought before November 15 can be extended)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "188 yuan (168 yuan refund = 60% of 280, plus 20 yuan key deposit)",
+   "gold": "188 yuan (60% of 280 = 168, plus the 20 yuan key deposit)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, holder must apply in person with ID; no, the son cannot (proxy only allowed for those over 70)",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; a family member may apply for someone over 70 with a copy of the elder's ID card (before Dec 10)",
+   "gold": "yes (with a copy of the elderly person's ID)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; service paused 12:00–13:00",
+   "gold": "no (processing is paused from 12:00 to 13:00)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Zhao Liping, 0512-6688 3417 (workdays 8:30–17:00)",
+   "gold": "Zhao Liping (赵立平), 0512-6688 3417"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 31",
+   "gold": "December 31"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150 yuan for a book of 10 tickets",
+   "gold": "150 yuan for 10 tickets"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the third rebooking needs approval",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "Needs approval; the approver is not stated."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Jana Brehmer (head of school) must approve",
+   "gold": "No; Jana Brehmer, the head of the school, must approve it."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tobias Reuss",
+   "gold": "Tobias Reuss, the boat keeper."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing (€0); illness with doctor's certificate is always free",
+   "gold": "Nothing; illness with a doctor's certificate is always free."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "nothing (€0); free cancellation up to 24 h before",
+   "gold": "Nothing; boat rentals can be cancelled free of charge up to 24 hours before."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; dinghies max 3 hours at a stretch on weekends",
+   "gold": "no (on weekends dinghies are rented for at most 3 hours)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "assistant calls the boat station 0331 4478 2290 itself and tells the customer a rescue boat is on the way; customer must put on a life jacket immediately and stay with the boat",
+   "gold": "Call the boat station on 0331 4478 2290 itself; tell the customer the rescue boat is on its way, and that the customer must immediately put on their life jacket and stay with the boat."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mondays at 09:00 to Jana Brehmer (previous week's bookings, cancellations, complaints)",
+   "gold": "Every Monday at 09:00 to Jana Brehmer."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; 12:00 check only May–September",
+   "gold": "no (the 12:00 check is only from May to September)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes (limit ≤Rp 300.000)",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; above Rp 100.000 needs approval, approver not stated",
+   "gold": "No; it needs approval, but the approver is not stated."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ratna Siregar (owner)",
+   "gold": "Ratna Siregar, the owner."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 360.000 (25% fee of Rp 480.000 deducted)",
+   "gold": "Rp 360.000 (fee of 25% = Rp 120.000 deducted from Rp 480.000)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 720.000 total (Rp 360.000 each after 25% fee)",
+   "gold": "Rp 720.000 (each pays a 25% fee of Rp 120.000 and gets Rp 360.000 back)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 432.000 (10% student discount on Wednesday)",
+   "gold": "Rp 432.000 (10% off Rp 480.000)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 480.000 (full refund)",
+   "gold": "The full amount, Rp 480.000."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "assistant calls emergency technician 0812-7730-4419 itself and tells customer the technician will contact within 30 minutes; customer must immediately close the gas cylinder valve and open the windows",
+   "gold": "Call the studio's emergency technician at 0812-7730-4419 itself; tell the customer the technician will contact them within 30 minutes, and that the customer must immediately close the gas canister valve and open the windows themselves."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Gilang Prasetyo (head of production)",
+   "gold": "Only Gilang Prasetyo, the head of production."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Gilang Prasetyo (over 10 pieces) and Ratna Siregar (hotel order over 30 pieces)",
+   "gold": "Both Gilang Prasetyo (more than 10 pieces) and Ratna Siregar (hotel order of more than 30 pieces); the discount itself is within the assistant's limit."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Desmond Pryce (workshop manager) must approve (Saturday limit is £120)",
+   "gold": "No; on Saturdays the own limit is only £120, so Desmond Pryce, the workshop manager, must approve it."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Miriam Okonkwo-Tull (owner); Desmond never approves refunds",
+   "gold": "Only Miriam Okonkwo-Tull, the owner (Desmond may never approve refunds)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; antique pocket watch mainspring replacement always needs Desmond Pryce's approval, any amount",
+   "gold": "no (mainspring replacements for antique pocket watches always need Desmond's approval)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call Desmond's emergency line 07700 900 314 itself; tell the customer a technician is on the way and arrives within an hour, and that they must keep everyone away from the area until arrival",
+   "gold": "Call Desmond's emergency line on 07700 900 314 itself; tell the customer a technician is on the way and will arrive within the hour, and that the customer themselves must keep everyone away from the area until the technician arrives."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only 08:30 and 13:30",
+   "gold": "no (10:00 is an extra check only on Saturdays)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Saturday checks are 08:30, 10:00 and 13:30 only",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; water damage is excluded from warranty",
+   "gold": "no (water damage is excluded from warranty)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "This estimate is valid for 30 days.",
+   "gold": "\"This estimate is valid for 30 days.\""
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; ticket books of any purchase date are extended by the closure days (20 days)",
+   "gold": "yes (ticket books can be extended regardless of purchase date)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; passes bought Nov 15 or later get no extension, only a 60% refund on request",
+   "gold": "no (only monthly passes bought before November 15 can be extended)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥188 (¥168 refund = 60% of ¥280, plus ¥20 key deposit)",
+   "gold": "188 yuan (60% of 280 = 168, plus the 20 yuan key deposit)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, the holder must apply in person with ID; no, the son of a 55-year-old cannot apply for him (exception only for residents over 70)",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, with a copy of the elder's ID",
+   "gold": "yes (with a copy of the elderly person's ID)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the service center is closed 12:00–13:00",
+   "gold": "no (processing is paused from 12:00 to 13:00)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Zhao Liping, 0512-6688 3417 (workdays 8:30–17:00)",
+   "gold": "Zhao Liping (赵立平), 0512-6688 3417"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 31",
+   "gold": "December 31"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥150 for 10 tickets",
+   "gold": "150 yuan for 10 tickets"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; a third rebooking needs approval",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "Needs approval; the approver is not stated."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Jana Brehmer (school head)",
+   "gold": "No; Jana Brehmer, the head of the school, must approve it."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tobias Reuss",
+   "gold": "Tobias Reuss, the boat keeper."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€0; illness with a doctor's note is always free",
+   "gold": "Nothing; illness with a doctor's certificate is always free."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€0; free cancellation until 24h before",
+   "gold": "Nothing; boat rentals can be cancelled free of charge up to 24 hours before."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; weekend dinghy rentals are max 3 hours at a stretch",
+   "gold": "no (on weekends dinghies are rented for at most 3 hours)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the boat station 0331 4478 2290 itself and tell the customer a rescue boat is already on the way; the customer must put on a life jacket immediately and stay with the boat",
+   "gold": "Call the boat station on 0331 4478 2290 itself; tell the customer the rescue boat is on its way, and that the customer must immediately put on their life jacket and stay with the boat."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mondays at 09:00, to Jana Brehmer",
+   "gold": "Every Monday at 09:00 to Jana Brehmer."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the 12:00 check is only May–September",
+   "gold": "no (the 12:00 check is only from May to September)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it needs approval (approver not stated)",
+   "gold": "No; it needs approval, but the approver is not stated."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ratna Siregar (owner)",
+   "gold": "Ratna Siregar, the owner."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 360,000 (25% fee deducted from Rp 480,000)",
+   "gold": "Rp 360.000 (fee of 25% = Rp 120.000 deducted from Rp 480.000)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 720,000 total (Rp 360,000 each; 25% fee applies at ≤7 days)",
+   "gold": "Rp 720.000 (each pays a 25% fee of Rp 120.000 and gets Rp 360.000 back)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 432,000 (10% student discount on Wednesday)",
+   "gold": "Rp 432.000 (10% off Rp 480.000)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "full refund, Rp 480,000",
+   "gold": "The full amount, Rp 480.000."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "call the studio emergency technician 0812-7730-4419 itself and tell the customer the technician will contact them within 30 minutes; the customer must immediately close the gas cylinder valve and open the windows",
+   "gold": "Call the studio's emergency technician at 0812-7730-4419 itself; tell the customer the technician will contact them within 30 minutes, and that the customer must immediately close the gas canister valve and open the windows themselves."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Gilang Prasetyo (head of production)",
+   "gold": "Only Gilang Prasetyo, the head of production."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "both Gilang Prasetyo (over 10 pieces) and Ratna Siregar (hotel order over 30 pieces)",
+   "gold": "Both Gilang Prasetyo (more than 10 pieces) and Ratna Siregar (hotel order of more than 30 pieces); the discount itself is within the assistant's limit."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes (£180 is within the ≤£180 limit on non-Saturdays)",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Desmond Pryce (workshop manager) must approve (Saturday limit is ≤£120)",
+   "gold": "No; on Saturdays the own limit is only £120, so Desmond Pryce, the workshop manager, must approve it."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Miriam Okonkwo-Tull (owner); Desmond cannot approve refunds",
+   "gold": "Only Miriam Okonkwo-Tull, the owner (Desmond may never approve refunds)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; antique pocket watch mainspring replacement always needs Desmond Pryce's approval, any amount",
+   "gold": "no (mainspring replacements for antique pocket watches always need Desmond's approval)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call Desmond's emergency line 07700 900 314 itself (not ask the customer to call); tell the customer a technician is on the way and arrives within an hour, and that they must keep everyone away from the area until arrival",
+   "gold": "Call Desmond's emergency line on 07700 900 314 itself; tell the customer a technician is on the way and will arrive within the hour, and that the customer themselves must keep everyone away from the area until the technician arrives."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no (only 08:30 and 13:30 on open days)",
+   "gold": "no (10:00 is an extra check only on Saturdays)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no (Saturday checks are 08:30, 10:00, 13:30)",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; water damage is excluded from the warranty",
+   "gold": "no (water damage is excluded from warranty)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "\"This estimate is valid for 30 days.\"",
+   "gold": "\"This estimate is valid for 30 days.\""
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; extended by the number of closure days",
+   "gold": "yes (ticket books can be extended regardless of purchase date)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; passes bought Nov 15 or later get no extension, only a 60% refund of face value on request",
+   "gold": "no (only monthly passes bought before November 15 can be extended)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥188 (¥168 = 60% of ¥280 refund + ¥20 key deposit)",
+   "gold": "188 yuan (60% of 280 = 168, plus the 20 yuan key deposit)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, the holder must apply in person with ID; no, the son cannot (family may apply only for residents over 70)",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, with a copy of the elder's ID",
+   "gold": "yes (with a copy of the elderly person's ID)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the service center is closed 12:00–13:00",
+   "gold": "no (processing is paused from 12:00 to 13:00)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Zhao Liping, 0512-6688 3417 (workdays 8:30–17:00)",
+   "gold": "Zhao Liping (赵立平), 0512-6688 3417"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "December 31",
+   "gold": "December 31"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥150 for 10 tickets",
+   "gold": "150 yuan for 10 tickets"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; a third rebooking needs approval",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "Needs approval; the approver is not stated."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Jana Brehmer (school head) must approve",
+   "gold": "No; Jana Brehmer, the head of the school, must approve it."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tobias Reuss",
+   "gold": "Tobias Reuss, the boat keeper."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€0; illness with a doctor's note is always free",
+   "gold": "Nothing; illness with a doctor's certificate is always free."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€0 (free cancellation until 24h before)",
+   "gold": "Nothing; boat rentals can be cancelled free of charge up to 24 hours before."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; weekend dinghy rentals are max 3 hours at a stretch",
+   "gold": "no (on weekends dinghies are rented for at most 3 hours)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the boat station 0331 4478 2290 itself (not ask the customer to call); the customer must put on a life jacket immediately and stay with the boat (rescue boat already on the way)",
+   "gold": "Call the boat station on 0331 4478 2290 itself; tell the customer the rescue boat is on its way, and that the customer must immediately put on their life jacket and stay with the boat."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mondays at 09:00, to Jana Brehmer",
+   "gold": "Every Monday at 09:00 to Jana Brehmer."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no (12:00 check only May–September)",
+   "gold": "no (the 12:00 check is only from May to September)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes (≤Rp 300,000)",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it needs approval, but the approver is not stated",
+   "gold": "No; it needs approval, but the approver is not stated."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ratna Siregar (owner)",
+   "gold": "Ratna Siregar, the owner."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 360,000 (25% fee deducted from Rp 480,000)",
+   "gold": "Rp 360.000 (fee of 25% = Rp 120.000 deducted from Rp 480.000)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 720,000 total (Rp 360,000 each; 25% fee applies at ≤7 days)",
+   "gold": "Rp 720.000 (each pays a 25% fee of Rp 120.000 and gets Rp 360.000 back)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Rp 432,000 (10% student discount, Wednesday)",
+   "gold": "Rp 432.000 (10% off Rp 480.000)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "full refund, Rp 480,000",
+   "gold": "The full amount, Rp 480.000."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Call the studio emergency technician 0812-7730-4419 itself (not ask the customer to call) and tell the customer the technician will contact them within 30 minutes; the customer must immediately close the gas cylinder valve and open windows",
+   "gold": "Call the studio's emergency technician at 0812-7730-4419 itself; tell the customer the technician will contact them within 30 minutes, and that the customer must immediately close the gas canister valve and open the windows themselves."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Gilang Prasetyo (head of production)",
+   "gold": "Only Gilang Prasetyo, the head of production."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Gilang Prasetyo (order >10 pieces) and Ratna Siregar (hotel order >30 pieces)",
+   "gold": "Both Gilang Prasetyo (more than 10 pieces) and Ratna Siregar (hotel order of more than 30 pieces); the discount itself is within the assistant's limit."
+  }
+ ],
+ "summary": {
+  "llm05_r1": {
+   "all": [
+    25,
+    40
+   ],
+   "S": [
+    20,
+    28
+   ],
+   "F": [
+    5,
+    12
+   ],
+   "hop2": [
+    11,
+    15
+   ]
+  },
+  "llm066_r1": {
+   "all": [
+    33,
+    40
+   ],
+   "S": [
+    26,
+    28
+   ],
+   "F": [
+    7,
+    12
+   ],
+   "hop2": [
+    14,
+    15
+   ]
+  },
+  "mnc28_r1": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    28,
+    28
+   ],
+   "F": [
+    12,
+    12
+   ],
+   "hop2": [
+    15,
+    15
+   ]
+  },
+  "mnc28_r2": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    28,
+    28
+   ],
+   "F": [
+    12,
+    12
+   ],
+   "hop2": [
+    15,
+    15
+   ]
+  },
+  "mnc28x_r1": {
+   "all": [
+    39,
+    40
+   ],
+   "S": [
+    27,
+    28
+   ],
+   "F": [
+    12,
+    12
+   ],
+   "hop2": [
+    14,
+    15
+   ]
+  },
+  "mnc28x_r2": {
+   "all": [
+    39,
+    40
+   ],
+   "S": [
+    27,
+    28
+   ],
+   "F": [
+    12,
+    12
+   ],
+   "hop2": [
+    14,
+    15
+   ]
+  },
+  "original_r1": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    28,
+    28
+   ],
+   "F": [
+    12,
+    12
+   ],
+   "hop2": [
+    15,
+    15
+   ]
+  },
+  "summ_r1": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    28,
+    28
+   ],
+   "F": [
+    12,
+    12
+   ],
+   "hop2": [
+    15,
+    15
+   ]
+  },
+  "terse_r1": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    28,
+    28
+   ],
+   "F": [
+    12,
+    12
+   ],
+   "hop2": [
+    15,
+    15
+   ]
+  },
+  "terse_r2": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    28,
+    28
+   ],
+   "F": [
+    12,
+    12
+   ],
+   "hop2": [
+    15,
+    15
+   ]
+  }
+ }
+}
