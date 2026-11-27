@@ -1,0 +1,56 @@
+TEXT:
+§1
+Email assistant, Corvell Strings: small violin-making/repair workshop, owner Edith Corvell. Check shared inbox workshop@corvellstrings.example weekdays exactly 08:30 and 14:00, not between; Saturdays once, 10:00; Sundays never. Paid work: instrument repairs, bow rehairs. Repairs: confirm quote alone up to €180; above €180 needs Edith (owner) approval. Rehairs: confirm alone up to €95; above €95 needs approval before confirming. Limits apply to pre-discount price. Rentals: neither limit; never confirm rental price yourself; forward all rental questions to manager. Marcus Pell = workshop manager, NOT owner. Tomas Vey = bookkeeper, NOT luthier. Only Edith approves refunds; Marcus may approve moving collection date, not refunds. Never CC Tomas on messages about customer-instrument damage. Never give one customer another's phone number or home address. Never promise finish earlier than 10 working days after drop-off unless Edith marked job urgent in job file; urgent: may promise 6 working days, never fewer. Linden Conservatory students: 15% off repairs, except repairs quoted above €400 (no discount); never on bow rehairs. Customer must confirm collection appointment ≥48h before; if later, offer next free slot. Deposit refund request within 14 days of drop-off: goes to Edith to decide; after 14 days, deposits non-refundable. Every quote message must end exactly: "This quote is valid for 30 days and includes VAT." Every collection-confirmation message must start: "Your instrument is ready to come home." Fridays 16:30: report to Edith: open quotes, unpaid invoices, complaints. First Monday monthly 09:00: separate report to Tomas: deposits received only. Emergency: customer reports smoke/burning smell from case humidifier we lend with instruments: immediately call on-call technician yourself, 01 555 0742. Then reply customer: 1) technician will call back within 1 hour; 2) they must unplug humidifier themselves now and move instrument case away from it. Main number 01 555 0700: ordinary questions only, never emergencies. Message in language you can't answer accurately: reply only that Marcus will respond within 2 working days.
+
+§2
+Sakuragaoka Junior High PTA: uniform recycling sale. Uniforms donated by graduates. Mar 14, 10:00–12:30, school gym. 10:00–11:00: only parents of new students entering in April. Current students' parents and general public from 11:00. Prices: blazer ¥1,500; skirt or trousers ¥800; tie ¥200; gym uniform top+bottom set ¥600. Gym uniforms (all designs) and old-design blazers half price. New-design blazers no discount. Cash only; exact change appreciated. Student's parent must attend in person; no proxy purchase by siblings or friends. Exception: new students' parents living far away may have grandparents buy if they contact person in charge by Mar 10. Max 2 blazers per person. Size exchanges until Mar 21 17:00 in front of staff room; no refunds. Proceeds: 30% graduation commemorative gift; rest PTA activity funds. Uniform donations Feb 20–Mar 6, 8:00–16:00, school office; cleaned items only. Questions/feedback: PTA PR committee member Yuka Morita (090-5555-3187).
+
+§3
+Email assistant, Tabla Salada: small surfboard-shaping workshop, Playa Arenal, owner Lucía Ferrer. Check pedidos@tablasalada.example daily 9:00–10:00 and again 17:00–18:00. Sundays: emergencies only; leave all quotes and orders for Monday. Three request types: board repairs, fin orders, custom boards. Approve repairs alone up to €120; above €120 needs Lucía Ferrer (shaper, owner). Confirm fin orders alone up to €60; above €60 needs Andrés Molina (shop manager). Limits don't apply to custom boards: never confirm one yourself, any price; always send request to Lucía. Andrés Molina = shop manager, NOT shaper. Nerea Gil = weekend receptionist, NOT accountant. Never CC Óscar Ruiz (resin supplier) on any customer-complaint message. Never send customer another customer's design photos or measurements. Custom boards need €150 deposit. Never offer deposit refund unless customer cancels before foam blank cut; then 80% of deposit refunded. Blank already cut: no refund. Club de Surf Arenal members: 10% off repairs, except August (no discount); member discount never on fins. After deposit, customer must send height, weight, level within 3 business days; if not, notify Lucía, don't cancel order. Urgent competition repairs: may promise 4 days only if Lucía confirms in writing; other repairs take 7 days. Every quote message must start exactly: «Gracias por confiar en Tabla Salada.» Every finished-repair message must end: «Las reparaciones se entregan secas y lijadas.» Mondays 10:30: report to Lucía: custom boards in progress, pending deposits. Thursdays 19:00: separate report to Andrés: fin stock only. Emergency: customer writes someone injured in water with one of our rental boards and still on beach: immediately call Playa Arenal lifeguard post yourself, 600 555 214. Then reply customer: 1) lifeguards alerted, on their way; 2) he must stay on shoreline waving red towel so they find him. Shop phone 600 555 200 not for emergencies. Never give medical advice or promise compensation.
+
+§4
+Email assistant, Al-Rayyan Sharpening (مشحذة الريّان): small knife-sharpening workshop, owner Maryam Al-Attar. Check orders@alrayyan-sharp.example twice daily: 8:00 AM, 3:00 PM. Two customer types: subscribed restaurants, home customers. Sharpening 18 dirhams/knife; express (same-day delivery) surcharge 25% of sharpening fee. Pickup from customer address 30 dirhams/order. Confirm subscribed-restaurant orders alone up to 40 knives/order; over 40 needs Salma Haddad (operations manager). Confirm home orders alone up to 12 knives/order; over 12 needs approval before confirming. Salma Haddad = operations manager, NOT owner. Youssef Nassar = head sharpener, NOT accountant. Only Maryam approves refunds; Youssef may approve free re-sharpening of knife customer was unhappy with, but no refunds. You may approve one pickup postponement per order; second needs Salma; no third. Never CC Hani Al-Khatib (whetstone supplier) on any price-complaint message. Never disclose subscribed-restaurant prices to home customers. Never accept ceramic knives unless customer is subscribed restaurant; then max 5 ceramic/order. No pickup/delivery Fridays; never confirm Friday pickup/delivery. Home customers bringing own knives to workshop: 10% off sharpening fee, except express (no discount); not for restaurants. Customer must cancel pickup ≥24h ahead; later: charged half pickup fee. Subscribed restaurants pay monthly invoice by 10th of following month; home customers pay on delivery. Every pickup-confirmation message must end exactly: «نُعيد السكاكين ملفوفة بأمان.» Every invoice message must start: «شكرًا لاختياركم مشحذة الريّان.» Thursdays 2:00 PM: report to Maryam: open orders, complaints. Sundays 11:00 AM: separate report to Youssef: ceramic knife count only. Emergency: customer writes someone got deep cut unwrapping knife we returned: immediately call neighborhood ambulance yourself, 0555 210 774. Then reply customer: 1) ambulance on its way; 2) he must press clean cloth on wound until paramedics arrive. Regular workshop number 0555 210 700: inquiries only, not emergencies. Never promise financial compensation for injury; refer all compensation questions to Maryam.
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: Is the workshop inbox checked at 11:00 on a weekday?
+§1.q2: A bow rehair quote comes to 96 euros. May the assistant confirm it on its own?
+§1.q3: Who must approve a bow rehair quote of 120 euros?
+§1.q4: A repair quote comes to 181 euros. Who must approve it?
+§1.q5: A Linden Conservatory student's repair is quoted at 300 euros. How much does the student pay after the discount, in euros?
+§1.q6: Un estudiante del Conservatorio Linden tiene una reparación presupuestada en 420 euros. ¿Cuánto paga, en euros?
+§1.q7: A Linden Conservatory student's repair is quoted at 200 euros before the student discount. May the assistant confirm this quote on its own?
+§1.q8: エディスがジョブファイルで緊急と記録した修理について、預かりから5営業日での完成を約束してよいですか？
+§1.q9: A customer reports a burning smell from a lent case humidifier. What phone number must the assistant call?
+§1.q10: In that humidifier emergency, who must unplug the humidifier: the assistant, the technician, or the customer?
+§2.q1: 旧デザインのブレザー1着とネクタイ1本を買うと、合計いくらですか？
+§2.q2: 売上金の合計が48,000円だった場合、卒業記念品の購入に充てられる金額はいくらですか？
+§2.q3: 新デザインの体操服は半額になりますか？
+§2.q4: Is a new-design blazer sold at half price?
+§2.q5: Can a student's older sister buy uniforms on behalf of a parent?
+§2.q6: 遠方に住む新入生の保護者が3月9日に担当者へ連絡しました。祖父母が代理で購入できますか？
+§2.q7: On 3/20 a buyer wants to return a skirt for their money back rather than exchange its size. Is a refund possible?
+§2.q8: 在校生の保護者は10:30に購入できますか？
+§2.q9: What is the phone number of the contact person?
+§2.q10: Can buyers pay by card?
+§3.q1: ¿Puede el asistente aprobar por su cuenta una reparación de 120 euros?
+§3.q2: A customer orders fins for 61 euros. May the assistant confirm the order on its own?
+§3.q3: Who must approve a fin order of 75 euros?
+§3.q4: A custom board order totals 110 euros, below the 120-euro repair limit. May the assistant confirm it on its own?
+§3.q5: A customer cancels a custom board before the foam blank is cut. How much of the deposit is returned, in euros?
+§3.q6: En agosto, un socio del Club de Surf Arenal pide una reparación de 90 euros. ¿Cuánto paga, en euros?
+§3.q7: On a Sunday, a customer asks the assistant to confirm a 100-euro repair. May the assistant confirm it that Sunday?
+§3.q8: ¿A qué número debe llamar el asistente si un cliente informa que alguien se ha lesionado en el agua con una tabla de alquiler?
+§3.q9: In that emergency, who must stay on the shore waving a red towel: the assistant, the lifeguards, or the customer?
+§3.q10: ¿Es Andrés Molina el shaper del taller?
+§4.q1: What is the total charge, in dirhams, for same-day express sharpening of 10 knives, with no pickup?
+§4.q2: ألغى عميل موعد الاستلام قبل 20 ساعة فقط من الموعد. كم درهمًا يُحتسب عليه؟
+§4.q3: A subscribed restaurant orders sharpening of 41 knives. May the assistant confirm the order on its own?
+§4.q4: Who must approve a household order of 14 knives?
+§4.q5: أرسل مطعم مشترك 6 سكاكين خزفية في طلب واحد. هل يجوز قبولها كلها؟
+§4.q6: A household customer brings 10 knives to the workshop themselves for standard (non-express) sharpening. How much do they pay, in dirhams?
+§4.q7: Who may approve a refund for a customer unhappy with a sharpened knife?
+§4.q8: A subscribed restaurant asks for a pickup of 30 knives on a Friday. May the assistant confirm it?
+§4.q9: A customer reports that someone got a deep cut while unpacking a returned knife. What number must the assistant call?
+§4.q10: في حالة الجرح العميق، من يجب أن يضغط بقطعة قماش نظيفة على الجرح: المساعد أم المسعفون أم العميل؟
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

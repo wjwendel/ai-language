@@ -1,0 +1,74 @@
+{
+ "mnc28x_r1": {
+  "§1.q3": [
+   1,
+   "shared fix: question asks who approves; text says approval needed without naming approver, so bare \"not stated\" is correct"
+  ],
+  "§4.q4": [
+   1,
+   "shared fix: question asks who approves; text says approval needed without naming approver, so bare \"not stated\" is correct"
+  ]
+ },
+ "summ_r1": {
+  "§1.q3": [
+   1,
+   "shared fix: question asks who approves; text says approval needed without naming approver, so bare \"not stated\" is correct"
+  ],
+  "§4.q4": [
+   1,
+   "shared fix: question asks who approves; text says approval needed without naming approver, so bare \"not stated\" is correct"
+  ]
+ },
+ "mnc28x_r2": {
+  "§1.q3": [
+   1,
+   "shared fix: question asks who approves; text says approval needed without naming approver, so bare \"not stated\" is correct"
+  ],
+  "§4.q4": [
+   1,
+   "shared fix: question asks who approves; text says approval needed without naming approver, so bare \"not stated\" is correct"
+  ]
+ },
+ "terse_r1": {
+  "§1.q3": [
+   1,
+   "shared fix: question asks who approves; text says approval needed without naming approver, so bare \"not stated\" is correct"
+  ],
+  "§4.q4": [
+   1,
+   "shared fix: question asks who approves; text says approval needed without naming approver, so bare \"not stated\" is correct"
+  ]
+ },
+ "llm05_r1": {
+  "§1.q3": [
+   1,
+   "shared fix: question asks who approves; text says approval needed without naming approver, so bare \"not stated\" is correct"
+  ]
+ },
+ "mnc28_r1": {
+  "§1.q3": [
+   1,
+   "shared fix: question asks who approves; text says approval needed without naming approver, so bare \"not stated\" is correct"
+  ],
+  "§4.q4": [
+   1,
+   "shared fix: question asks who approves; text says approval needed without naming approver, so bare \"not stated\" is correct"
+  ]
+ },
+ "mnc28_r2": {
+  "§1.q3": [
+   1,
+   "shared fix: question asks who approves; text says approval needed without naming approver, so bare \"not stated\" is correct"
+  ],
+  "§4.q4": [
+   1,
+   "shared fix: question asks who approves; text says approval needed without naming approver, so bare \"not stated\" is correct"
+  ]
+ },
+ "llm066_r1": {
+  "§1.q3": [
+   1,
+   "shared fix: question asks who approves; text says approval needed without naming approver, so bare \"not stated\" is correct"
+  ]
+ }
+}

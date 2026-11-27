@@ -1,0 +1,3786 @@
+{
+ "rows": [
+  {
+   "f": "llm05_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (only at 08:30 and 14:00)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (rehair limit is 95 euros)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "It needs approval; the approver is not stated."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Edith Corvell",
+   "gold": "Edith Corvell, the owner."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "255",
+   "gold": "255 euros."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "420",
+   "gold": "420 euros (no discount on repairs quoted above 400 euros)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (limits apply to the price before discount; 200 is above 180)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (urgent jobs: six working days, never fewer)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "01 555 0742",
+   "gold": "01 555 0742 (the on-call technician)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "1,700 yen",
+   "gold": "950 yen."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "14,400 yen."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Yes (all gym clothes are half price regardless of design)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "No."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "No (a parent must come in person; siblings may not buy on their behalf)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Yes."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "No (size exchanges until 3/21 17:00, but no refunds)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (10:00-11:00 is only for parents of incoming students)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "090-5555-3187",
+   "gold": "090-5555-3187 (Yuka Morita)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "No (cash only)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (fin limit is 60 euros)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Andrés Molina",
+   "gold": "Andrés Molina, the shop manager."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (custom boards are never confirmed by the assistant; they go to Lucía)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "120",
+   "gold": "120 euros (80% of 150)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "90",
+   "gold": "90 euros (no discount in August)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (on Sundays only emergencies are answered)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "600 555 214",
+   "gold": "600 555 214 (the Playa Arenal lifeguard post)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (he is the shop manager)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "225",
+   "gold": "225 dirhams."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "15",
+   "gold": "15 dirhams (half the 30-dirham pickup fee)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (restaurant limit is 40 knives)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Salma Haddad",
+   "gold": "It needs approval; the approver is not stated."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (subscribed restaurants: at most 5 ceramic knives per order)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "162",
+   "gold": "162 dirhams."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Maryam Al-Attar",
+   "gold": "Only Maryam Al-Attar (the owner)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "No (no pickups or deliveries on Fridays)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0555 210 774",
+   "gold": "0555 210 774 (the neighbourhood ambulance service)."
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (only at 08:30 and 14:00)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (rehair limit is 95 euros)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "It needs approval; the approver is not stated."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Edith Corvell",
+   "gold": "Edith Corvell, the owner."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "255",
+   "gold": "255 euros."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "420",
+   "gold": "420 euros (no discount on repairs quoted above 400 euros)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (limits apply to the price before discount; 200 is above 180)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (urgent jobs: six working days, never fewer)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "01 555 0742",
+   "gold": "01 555 0742 (the on-call technician)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "950 yen."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "14,400 yen."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Yes (all gym clothes are half price regardless of design)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "No."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "No (a parent must come in person; siblings may not buy on their behalf)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Yes."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "No (size exchanges until 3/21 17:00, but no refunds)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (10:00-11:00 is only for parents of incoming students)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "090-5555-3187",
+   "gold": "090-5555-3187 (Yuka Morita)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "No (cash only)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (fin limit is 60 euros)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Andrés Molina",
+   "gold": "Andrés Molina, the shop manager."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (custom boards are never confirmed by the assistant; they go to Lucía)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "120",
+   "gold": "120 euros (80% of 150)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "90",
+   "gold": "90 euros (no discount in August)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (on Sundays only emergencies are answered)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "600 555 214",
+   "gold": "600 555 214 (the Playa Arenal lifeguard post)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (he is the shop manager)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "225",
+   "gold": "225 dirhams."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "15",
+   "gold": "15 dirhams (half the 30-dirham pickup fee)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (restaurant limit is 40 knives)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Salma Haddad",
+   "gold": "It needs approval; the approver is not stated."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (subscribed restaurants: at most 5 ceramic knives per order)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "162",
+   "gold": "162 dirhams."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Maryam Al-Attar",
+   "gold": "Only Maryam Al-Attar (the owner)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "No (no pickups or deliveries on Fridays)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0555 210 774",
+   "gold": "0555 210 774 (the neighbourhood ambulance service)."
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the inbox is checked only at 08:30 and 14:00 on weekdays",
+   "gold": "No (only at 08:30 and 14:00)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, rehair quotes above 95 euros need approval first",
+   "gold": "No (rehair limit is 95 euros)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "It needs approval; the approver is not stated."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Edith Corvell, the owner",
+   "gold": "Edith Corvell, the owner."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "255",
+   "gold": "255 euros."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "420, because repairs quoted above 400 euros get no discount",
+   "gold": "420 euros (no discount on repairs quoted above 400 euros)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the limit applies to the price before discount and 200 is above 180, so Edith Corvell must approve it",
+   "gold": "No (limits apply to the price before discount; 200 is above 180)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, an urgent job can be promised in 6 working days at the earliest",
+   "gold": "No (urgent jobs: six working days, never fewer)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "01 555 0742",
+   "gold": "01 555 0742 (the on-call technician)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "950 yen",
+   "gold": "950 yen."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "14,400 yen",
+   "gold": "14,400 yen."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes (all gym clothes are half price regardless of design)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (a parent must come in person; siblings may not buy on their behalf)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, there are no refunds",
+   "gold": "No (size exchanges until 3/21 17:00, but no refunds)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, they can buy from 11:00",
+   "gold": "No (10:00-11:00 is only for parents of incoming students)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "090-5555-3187",
+   "gold": "090-5555-3187 (Yuka Morita)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, cash only",
+   "gold": "No (cash only)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it needs approval from Andrés Molina",
+   "gold": "No (fin limit is 60 euros)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Andrés Molina, the shop manager",
+   "gold": "Andrés Molina, the shop manager."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, custom boards are never confirmed by the assistant and always go to Lucía Ferrer",
+   "gold": "No (custom boards are never confirmed by the assistant; they go to Lucía)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "120",
+   "gold": "120 euros (80% of 150)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "90, because there is no member discount in August",
+   "gold": "90 euros (no discount in August)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, on Sundays only emergencies are answered and quotes wait for Monday",
+   "gold": "No (on Sundays only emergencies are answered)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "600 555 214",
+   "gold": "600 555 214 (the Playa Arenal lifeguard post)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Lucía Ferrer is the shaper and Andrés Molina is the shop manager",
+   "gold": "No (he is the shop manager)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "225",
+   "gold": "225 dirhams."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "15",
+   "gold": "15 dirhams (half the 30-dirham pickup fee)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it needs approval from Salma Haddad",
+   "gold": "No (restaurant limit is 40 knives)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "It needs approval; the approver is not stated."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the maximum is 5 ceramic knives per order",
+   "gold": "No (subscribed restaurants: at most 5 ceramic knives per order)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "162",
+   "gold": "162 dirhams."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Maryam al-Attar only",
+   "gold": "Only Maryam Al-Attar (the owner)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, there is no pickup or delivery on Fridays",
+   "gold": "No (no pickups or deliveries on Fridays)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0555 210 774",
+   "gold": "0555 210 774 (the neighbourhood ambulance service)."
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (only at 08:30 and 14:00)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (rehair limit is 95 euros)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "It needs approval; the approver is not stated."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Edith Corvell",
+   "gold": "Edith Corvell, the owner."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "255",
+   "gold": "255 euros."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "420",
+   "gold": "420 euros (no discount on repairs quoted above 400 euros)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (limits apply to the price before discount; 200 is above 180)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (urgent jobs: six working days, never fewer)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "01 555 0742",
+   "gold": "01 555 0742 (the on-call technician)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "950 yen",
+   "gold": "950 yen."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "14,400 yen",
+   "gold": "14,400 yen."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes (all gym clothes are half price regardless of design)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (a parent must come in person; siblings may not buy on their behalf)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (size exchanges until 3/21 17:00, but no refunds)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (10:00-11:00 is only for parents of incoming students)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "090-5555-3187",
+   "gold": "090-5555-3187 (Yuka Morita)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (cash only)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (fin limit is 60 euros)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Andrés Molina",
+   "gold": "Andrés Molina, the shop manager."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (custom boards are never confirmed by the assistant; they go to Lucía)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "120",
+   "gold": "120 euros (80% of 150)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "90",
+   "gold": "90 euros (no discount in August)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (on Sundays only emergencies are answered)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "600 555 214",
+   "gold": "600 555 214 (the Playa Arenal lifeguard post)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (he is the shop manager)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "225",
+   "gold": "225 dirhams."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "15",
+   "gold": "15 dirhams (half the 30-dirham pickup fee)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (restaurant limit is 40 knives)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "It needs approval; the approver is not stated."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (subscribed restaurants: at most 5 ceramic knives per order)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "162",
+   "gold": "162 dirhams."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Maryam al-Attar",
+   "gold": "Only Maryam Al-Attar (the owner)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (no pickups or deliveries on Fridays)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0555 210 774",
+   "gold": "0555 210 774 (the neighbourhood ambulance service)."
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (only at 08:30 and 14:00)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (rehair limit is 95 euros)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "It needs approval; the approver is not stated."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Edith Corvell",
+   "gold": "Edith Corvell, the owner."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "255",
+   "gold": "255 euros."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "420",
+   "gold": "420 euros (no discount on repairs quoted above 400 euros)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (limits apply to the price before discount; 200 is above 180)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (urgent jobs: six working days, never fewer)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "01 555 0742",
+   "gold": "01 555 0742 (the on-call technician)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "950 yen",
+   "gold": "950 yen."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "14,400 yen",
+   "gold": "14,400 yen."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes (all gym clothes are half price regardless of design)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (a parent must come in person; siblings may not buy on their behalf)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (size exchanges until 3/21 17:00, but no refunds)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (10:00-11:00 is only for parents of incoming students)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "090-5555-3187",
+   "gold": "090-5555-3187 (Yuka Morita)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (cash only)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (fin limit is 60 euros)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Andrés Molina",
+   "gold": "Andrés Molina, the shop manager."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (custom boards are never confirmed by the assistant; they go to Lucía)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "120",
+   "gold": "120 euros (80% of 150)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "90",
+   "gold": "90 euros (no discount in August)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (on Sundays only emergencies are answered)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "600 555 214",
+   "gold": "600 555 214 (the Playa Arenal lifeguard post)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (he is the shop manager)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "225",
+   "gold": "225 dirhams."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "15",
+   "gold": "15 dirhams (half the 30-dirham pickup fee)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (restaurant limit is 40 knives)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "It needs approval; the approver is not stated."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (subscribed restaurants: at most 5 ceramic knives per order)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "162",
+   "gold": "162 dirhams."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Maryam",
+   "gold": "Only Maryam Al-Attar (the owner)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (no pickups or deliveries on Fridays)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0555 210 774",
+   "gold": "0555 210 774 (the neighbourhood ambulance service)."
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the inbox is checked only at 08:30 and 14:00 on weekdays, never in between",
+   "gold": "No (only at 08:30 and 14:00)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, 96 euros is over the 95-euro rehair limit, so it needs approval first",
+   "gold": "No (rehair limit is 95 euros)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "It needs approval; the approver is not stated."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Edith Corvell",
+   "gold": "Edith Corvell, the owner."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "255 euros",
+   "gold": "255 euros."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "420 euros, because repairs quoted above 400 euros get no discount",
+   "gold": "420 euros (no discount on repairs quoted above 400 euros)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the limit uses the price before discount, and 200 euros is over 180, so Edith must approve",
+   "gold": "No (limits apply to the price before discount; 200 is above 180)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, an urgent job can be promised in 6 working days at the earliest, never fewer",
+   "gold": "No (urgent jobs: six working days, never fewer)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "01 555 0742",
+   "gold": "01 555 0742 (the on-call technician)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "950 yen",
+   "gold": "950 yen."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "14,400 yen",
+   "gold": "14,400 yen."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, PE uniforms of any design are half price",
+   "gold": "Yes (all gym clothes are half price regardless of design)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, siblings and friends cannot buy for a parent",
+   "gold": "No (a parent must come in person; siblings may not buy on their behalf)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, because they made contact by March 10",
+   "gold": "Yes."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, there are no refunds",
+   "gold": "No (size exchanges until 3/21 17:00, but no refunds)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, current students' parents can buy from 11:00",
+   "gold": "No (10:00-11:00 is only for parents of incoming students)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "090-5555-3187 (森田由佳, PTA PR committee)",
+   "gold": "090-5555-3187 (Yuka Morita)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is cash only",
+   "gold": "No (cash only)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, 61 euros is over the 60-euro limit, so Andrés must approve",
+   "gold": "No (fin limit is 60 euros)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Andrés Molina",
+   "gold": "Andrés Molina, the shop manager."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, custom boards are never confirmed by the assistant and always go to Lucía",
+   "gold": "No (custom boards are never confirmed by the assistant; they go to Lucía)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "120 euros",
+   "gold": "120 euros (80% of 150)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "90 euros, because there is no club discount in August",
+   "gold": "90 euros (no discount in August)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, quotes and orders received on Sunday wait until Monday",
+   "gold": "No (on Sundays only emergencies are answered)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "600 555 214",
+   "gold": "600 555 214 (the Playa Arenal lifeguard post)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, he is the shop manager; Lucía Ferrer is the shaper",
+   "gold": "No (he is the shop manager)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "225 dirhams",
+   "gold": "225 dirhams."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "15 dirhams",
+   "gold": "15 dirhams (half the 30-dirham pickup fee)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, 41 is over the 40-knife limit, so Salma must approve",
+   "gold": "No (restaurant limit is 40 knives)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "It needs approval; the approver is not stated."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the limit is 5 ceramic knives per order",
+   "gold": "No (subscribed restaurants: at most 5 ceramic knives per order)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "162 dirhams",
+   "gold": "162 dirhams."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Maryam",
+   "gold": "Only Maryam Al-Attar (the owner)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, there are no pickups on Fridays",
+   "gold": "No (no pickups or deliveries on Fridays)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0555 210 774",
+   "gold": "0555 210 774 (the neighbourhood ambulance service)."
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the inbox is checked only at 08:30 and 14:00 on weekdays",
+   "gold": "No (only at 08:30 and 14:00)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; a rehair quote above 95 euros needs approval first",
+   "gold": "No (rehair limit is 95 euros)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated; the TEXT says it needs approval but does not name who gives it",
+   "gold": "It needs approval; the approver is not stated."
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Edith Corvell, the owner",
+   "gold": "Edith Corvell, the owner."
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "255",
+   "gold": "255 euros."
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "420; repairs quoted above 400 euros get no discount",
+   "gold": "420 euros (no discount on repairs quoted above 400 euros)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the 180-euro limit applies before the discount, so Edith Corvell must approve it",
+   "gold": "No (limits apply to the price before discount; 200 is above 180)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; for an urgent job the earliest promise is six working days",
+   "gold": "No (urgent jobs: six working days, never fewer)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "01 555 0742",
+   "gold": "01 555 0742 (the on-call technician)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "950 yen (old-design blazer at half price, 750, plus tie, 200)",
+   "gold": "950 yen."
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "14,400 yen",
+   "gold": "14,400 yen."
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; all gym clothes are half price whatever the design",
+   "gold": "Yes (all gym clothes are half price regardless of design)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; new-design blazers get no discount",
+   "gold": "No."
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; brothers, sisters and friends cannot buy on a parent's behalf",
+   "gold": "No (a parent must come in person; siblings may not buy on their behalf)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; the parent made contact by the March 10 deadline",
+   "gold": "Yes."
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only size exchanges are offered, with no refunds",
+   "gold": "No (size exchanges until 3/21 17:00, but no refunds)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; parents of current students can buy only from 11:00",
+   "gold": "No (10:00-11:00 is only for parents of incoming students)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "090-5555-3187 (Yuka Morita)",
+   "gold": "090-5555-3187 (Yuka Morita)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; cash only",
+   "gold": "No (cash only)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; the assistant can approve repairs up to 120 euros",
+   "gold": "Yes."
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; a fin order above 60 euros needs Andrés Molina's approval",
+   "gold": "No (fin limit is 60 euros)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Andrés Molina, the shop manager",
+   "gold": "Andrés Molina, the shop manager."
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the assistant never confirms custom boards and must send every one to Lucía Ferrer",
+   "gold": "No (custom boards are never confirmed by the assistant; they go to Lucía)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "120",
+   "gold": "120 euros (80% of 150)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "90; there is no member discount in August",
+   "gold": "90 euros (no discount in August)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; on Sundays only emergencies are answered, so it waits until Monday",
+   "gold": "No (on Sundays only emergencies are answered)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "600 555 214",
+   "gold": "600 555 214 (the Playa Arenal lifeguard post)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; he is the shop manager, not the shaper",
+   "gold": "No (he is the shop manager)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "225",
+   "gold": "225 dirhams."
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "15 (half the 30-dirham pickup fee)",
+   "gold": "15 dirhams (half the 30-dirham pickup fee)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; an order above 40 knives needs Salma Haddad's approval",
+   "gold": "No (restaurant limit is 40 knives)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated; the TEXT says it needs approval but does not name who gives it",
+   "gold": "It needs approval; the approver is not stated."
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the limit is 5 ceramic knives per order",
+   "gold": "No (subscribed restaurants: at most 5 ceramic knives per order)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "162",
+   "gold": "162 dirhams."
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Maryam Al-Attar",
+   "gold": "Only Maryam Al-Attar (the owner)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; there are no pickups or deliveries on Fridays",
+   "gold": "No (no pickups or deliveries on Fridays)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0555 210 774",
+   "gold": "0555 210 774 (the neighbourhood ambulance service)."
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (only at 08:30 and 14:00)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, 96€ is over the 95€ limit, so it needs approval before it is confirmed",
+   "gold": "No (rehair limit is 95 euros)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "It needs approval; the approver is not stated."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Edith Corvell",
+   "gold": "Edith Corvell, the owner."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "255",
+   "gold": "255 euros."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "420",
+   "gold": "420 euros (no discount on repairs quoted above 400 euros)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the limit uses the price before discount (200€ > 180€), so Edith must approve it",
+   "gold": "No (limits apply to the price before discount; 200 is above 180)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the minimum for urgent jobs is 6 working days",
+   "gold": "No (urgent jobs: six working days, never fewer)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "01 555 0742",
+   "gold": "01 555 0742 (the on-call technician)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "950 yen",
+   "gold": "950 yen."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "14,400 yen",
+   "gold": "14,400 yen."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes (all gym clothes are half price regardless of design)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (a parent must come in person; siblings may not buy on their behalf)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, there are no refunds",
+   "gold": "No (size exchanges until 3/21 17:00, but no refunds)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, they can buy from 11:00",
+   "gold": "No (10:00-11:00 is only for parents of incoming students)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "090-5555-3187",
+   "gold": "090-5555-3187 (Yuka Morita)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, cash only",
+   "gold": "No (cash only)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it needs Andrés Molina's approval",
+   "gold": "No (fin limit is 60 euros)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Andrés Molina",
+   "gold": "Andrés Molina, the shop manager."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, custom boards are never confirmed by the assistant and always go to Lucía",
+   "gold": "No (custom boards are never confirmed by the assistant; they go to Lucía)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "120",
+   "gold": "120 euros (80% of 150)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "90",
+   "gold": "90 euros (no discount in August)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, on Sundays only emergencies are handled and repair requests wait until Monday",
+   "gold": "No (on Sundays only emergencies are answered)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "600 555 214",
+   "gold": "600 555 214 (the Playa Arenal lifeguard post)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, he is the shop manager",
+   "gold": "No (he is the shop manager)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "225",
+   "gold": "225 dirhams."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "15",
+   "gold": "15 dirhams (half the 30-dirham pickup fee)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it needs Salma Haddad's approval",
+   "gold": "No (restaurant limit is 40 knives)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "It needs approval; the approver is not stated."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the maximum is 5 per order",
+   "gold": "No (subscribed restaurants: at most 5 ceramic knives per order)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "162",
+   "gold": "162 dirhams."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mariam Al-Attar only",
+   "gold": "Only Maryam Al-Attar (the owner)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, there are no pickups on Fridays",
+   "gold": "No (no pickups or deliveries on Fridays)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0555 210 774",
+   "gold": "0555 210 774 (the neighbourhood ambulance service)."
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (only at 08:30 and 14:00)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (rehair limit is 95 euros)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "It needs approval; the approver is not stated."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Edith Corvell (owner)",
+   "gold": "Edith Corvell, the owner."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "255",
+   "gold": "255 euros."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "420",
+   "gold": "420 euros (no discount on repairs quoted above 400 euros)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (limits apply to the price before discount; 200 is above 180)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (urgent jobs: six working days, never fewer)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "01 555 0742",
+   "gold": "01 555 0742 (the on-call technician)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥950",
+   "gold": "950 yen."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥14,400",
+   "gold": "14,400 yen."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes (all gym clothes are half price regardless of design)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (a parent must come in person; siblings may not buy on their behalf)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (size exchanges until 3/21 17:00, but no refunds)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (10:00-11:00 is only for parents of incoming students)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "090-5555-3187",
+   "gold": "090-5555-3187 (Yuka Morita)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (cash only)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "Yes."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (fin limit is 60 euros)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Andrés Molina (shop manager)",
+   "gold": "Andrés Molina, the shop manager."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (custom boards are never confirmed by the assistant; they go to Lucía)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "120",
+   "gold": "120 euros (80% of 150)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "90",
+   "gold": "90 euros (no discount in August)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (on Sundays only emergencies are answered)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "600 555 214",
+   "gold": "600 555 214 (the Playa Arenal lifeguard post)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (he is the shop manager)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "225",
+   "gold": "225 dirhams."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "15",
+   "gold": "15 dirhams (half the 30-dirham pickup fee)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (restaurant limit is 40 knives)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "It needs approval; the approver is not stated."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (subscribed restaurants: at most 5 ceramic knives per order)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "162",
+   "gold": "162 dirhams."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Maryam Al-Attar (owner)",
+   "gold": "Only Maryam Al-Attar (the owner)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No (no pickups or deliveries on Fridays)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0555 210 774",
+   "gold": "0555 210 774 (the neighbourhood ambulance service)."
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the inbox is checked only at 08:30 and 14:00 on weekdays",
+   "gold": "No (only at 08:30 and 14:00)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, a rehair above €95 needs approval before it is confirmed",
+   "gold": "No (rehair limit is 95 euros)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (approval is required, but the TEXT does not say who gives it for rehairs)",
+   "gold": "It needs approval; the approver is not stated."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Edith Corvell (owner)",
+   "gold": "Edith Corvell, the owner."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "255",
+   "gold": "255 euros."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "420 (no discount on repairs quoted above €400)",
+   "gold": "420 euros (no discount on repairs quoted above 400 euros)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, limits apply to the pre-discount price and €200 is above €180, so Edith must approve",
+   "gold": "No (limits apply to the price before discount; 200 is above 180)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, even for urgent jobs the minimum is 6 working days",
+   "gold": "No (urgent jobs: six working days, never fewer)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "01 555 0742",
+   "gold": "01 555 0742 (the on-call technician)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥950",
+   "gold": "950 yen."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥14,400",
+   "gold": "14,400 yen."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, all gym uniform designs are half price",
+   "gold": "Yes (all gym clothes are half price regardless of design)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "No."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, no proxy purchases by siblings or friends",
+   "gold": "No (a parent must come in person; siblings may not buy on their behalf)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, they contacted the person in charge by March 10",
+   "gold": "Yes."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only size exchanges are allowed (until Mar 21 17:00), no refunds",
+   "gold": "No (size exchanges until 3/21 17:00, but no refunds)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, current students' parents may buy from 11:00",
+   "gold": "No (10:00-11:00 is only for parents of incoming students)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "090-5555-3187 (Yuka Morita)",
+   "gold": "090-5555-3187 (Yuka Morita)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, cash only",
+   "gold": "No (cash only)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, the limit is up to €120",
+   "gold": "Yes."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, fin orders above €60 need Andrés Molina",
+   "gold": "No (fin limit is 60 euros)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Andrés Molina (shop manager)",
+   "gold": "Andrés Molina, the shop manager."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, never confirm custom boards; send the request to Lucía",
+   "gold": "No (custom boards are never confirmed by the assistant; they go to Lucía)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "120",
+   "gold": "120 euros (80% of 150)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "90 (no member discount in August)",
+   "gold": "90 euros (no discount in August)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, on Sundays quotes and orders are left for Monday",
+   "gold": "No (on Sundays only emergencies are answered)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "600 555 214 (Playa Arenal lifeguard post)",
+   "gold": "600 555 214 (the Playa Arenal lifeguard post)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, he is the shop manager",
+   "gold": "No (he is the shop manager)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "225",
+   "gold": "225 dirhams."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "15",
+   "gold": "15 dirhams (half the 30-dirham pickup fee)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, over 40 knives needs Salma Haddad",
+   "gold": "No (restaurant limit is 40 knives)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (approval is required, but the TEXT does not say who gives it for home orders)",
+   "gold": "It needs approval; the approver is not stated."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the maximum is 5 ceramic knives per order",
+   "gold": "No (subscribed restaurants: at most 5 ceramic knives per order)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "162",
+   "gold": "162 dirhams."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "only Maryam Al-Attar",
+   "gold": "Only Maryam Al-Attar (the owner)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, there is no pickup or delivery on Fridays",
+   "gold": "No (no pickups or deliveries on Fridays)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0555 210 774",
+   "gold": "0555 210 774 (the neighbourhood ambulance service)."
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "The customer, themselves."
+  }
+ ],
+ "summary": {
+  "llm05_r1": {
+   "all": [
+    30,
+    40
+   ],
+   "S": [
+    23,
+    27
+   ],
+   "F": [
+    7,
+    13
+   ],
+   "hop2": [
+    11,
+    16
+   ]
+  },
+  "llm066_r1": {
+   "all": [
+    30,
+    40
+   ],
+   "S": [
+    23,
+    27
+   ],
+   "F": [
+    7,
+    13
+   ],
+   "hop2": [
+    11,
+    16
+   ]
+  },
+  "mnc28_r1": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    27,
+    27
+   ],
+   "F": [
+    13,
+    13
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "mnc28_r2": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    27,
+    27
+   ],
+   "F": [
+    13,
+    13
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "mnc28x_r1": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    27,
+    27
+   ],
+   "F": [
+    13,
+    13
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "mnc28x_r2": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    27,
+    27
+   ],
+   "F": [
+    13,
+    13
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "original_r1": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    27,
+    27
+   ],
+   "F": [
+    13,
+    13
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "summ_r1": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    27,
+    27
+   ],
+   "F": [
+    13,
+    13
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "terse_r1": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    27,
+    27
+   ],
+   "F": [
+    13,
+    13
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  },
+  "terse_r2": {
+   "all": [
+    40,
+    40
+   ],
+   "S": [
+    27,
+    27
+   ],
+   "F": [
+    13,
+    13
+   ],
+   "hop2": [
+    16,
+    16
+   ]
+  }
+ }
+}

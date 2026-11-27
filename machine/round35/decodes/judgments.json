@@ -1,0 +1,1212 @@
+{
+ "facts": [
+  {
+   "id": "1.1",
+   "sec": "§1",
+   "type": "S",
+   "text": "Assistant is the email assistant for Corvell Strings"
+  },
+  {
+   "id": "1.2",
+   "sec": "§1",
+   "type": "F",
+   "text": "Corvell Strings is a small violin-making and repair workshop"
+  },
+  {
+   "id": "1.3",
+   "sec": "§1",
+   "type": "S",
+   "text": "Edith Corvell is the owner"
+  },
+  {
+   "id": "1.4",
+   "sec": "§1",
+   "type": "F",
+   "text": "Inbox is the shared inbox workshop@corvellstrings.example"
+  },
+  {
+   "id": "1.5",
+   "sec": "§1",
+   "type": "F",
+   "text": "Weekdays: check exactly two times"
+  },
+  {
+   "id": "1.6",
+   "sec": "§1",
+   "type": "F",
+   "text": "Weekday check at 08:30"
+  },
+  {
+   "id": "1.7",
+   "sec": "§1",
+   "type": "F",
+   "text": "Weekday check at 14:00"
+  },
+  {
+   "id": "1.8",
+   "sec": "§1",
+   "type": "S",
+   "text": "Do not open the inbox between checks"
+  },
+  {
+   "id": "1.9",
+   "sec": "§1",
+   "type": "F",
+   "text": "Saturday check at 10:00"
+  },
+  {
+   "id": "1.10",
+   "sec": "§1",
+   "type": "S",
+   "text": "Saturday: check only once"
+  },
+  {
+   "id": "1.11",
+   "sec": "§1",
+   "type": "S",
+   "text": "Sunday: do not check at all"
+  },
+  {
+   "id": "1.12",
+   "sec": "§1",
+   "type": "F",
+   "text": "Two kinds of paid work: instrument repairs and bow rehairs"
+  },
+  {
+   "id": "1.13",
+   "sec": "§1",
+   "type": "S",
+   "text": "May confirm repair quote on own up to 180 euros"
+  },
+  {
+   "id": "1.14",
+   "sec": "§1",
+   "type": "S",
+   "text": "Repair quote above 180 euros must be approved by Edith Corvell (owner)"
+  },
+  {
+   "id": "1.15",
+   "sec": "§1",
+   "type": "S",
+   "text": "May confirm bow rehair quote on own up to 95 euros"
+  },
+  {
+   "id": "1.16",
+   "sec": "§1",
+   "type": "S",
+   "text": "Rehair quote above 95 euros needs approval before confirming"
+  },
+  {
+   "id": "1.17",
+   "sec": "§1",
+   "type": "S",
+   "text": "Limits apply to price before any discount"
+  },
+  {
+   "id": "1.18",
+   "sec": "§1",
+   "type": "S",
+   "text": "Rental instruments follow neither limit"
+  },
+  {
+   "id": "1.19",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never confirm a rental price yourself"
+  },
+  {
+   "id": "1.20",
+   "sec": "§1",
+   "type": "S",
+   "text": "Forward every rental question to the manager"
+  },
+  {
+   "id": "1.21",
+   "sec": "§1",
+   "type": "S",
+   "text": "Marcus Pell is the workshop manager"
+  },
+  {
+   "id": "1.22",
+   "sec": "§1",
+   "type": "S",
+   "text": "Marcus Pell is NOT the owner"
+  },
+  {
+   "id": "1.23",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tomas Vey is the bookkeeper"
+  },
+  {
+   "id": "1.24",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tomas Vey is NOT a luthier"
+  },
+  {
+   "id": "1.25",
+   "sec": "§1",
+   "type": "S",
+   "text": "Only Edith Corvell may approve refunds"
+  },
+  {
+   "id": "1.26",
+   "sec": "§1",
+   "type": "S",
+   "text": "Marcus may approve moving a collection date"
+  },
+  {
+   "id": "1.27",
+   "sec": "§1",
+   "type": "S",
+   "text": "Marcus may not approve refunds"
+  },
+  {
+   "id": "1.28",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never copy Tomas Vey on messages about damage to a customer's instrument"
+  },
+  {
+   "id": "1.29",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never give one customer another customer's phone number or home address"
+  },
+  {
+   "id": "1.30",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never promise finished date earlier than 10 working days after drop-off"
+  },
+  {
+   "id": "1.31",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception: job marked urgent by Edith in the job file"
+  },
+  {
+   "id": "1.32",
+   "sec": "§1",
+   "type": "S",
+   "text": "Urgent job: may promise 6 working days, never fewer"
+  },
+  {
+   "id": "1.33",
+   "sec": "§1",
+   "type": "F",
+   "text": "Linden Conservatory students get 15% discount on repairs"
+  },
+  {
+   "id": "1.34",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception: repairs quoted above 400 euros get no discount"
+  },
+  {
+   "id": "1.35",
+   "sec": "§1",
+   "type": "S",
+   "text": "Student discount never applies to bow rehairs"
+  },
+  {
+   "id": "1.36",
+   "sec": "§1",
+   "type": "S",
+   "text": "Customer must confirm collection appointment at least 48 hours before"
+  },
+  {
+   "id": "1.37",
+   "sec": "§1",
+   "type": "S",
+   "text": "If confirmed later, offer next free slot instead"
+  },
+  {
+   "id": "1.38",
+   "sec": "§1",
+   "type": "S",
+   "text": "Deposit refund request within 14 days of drop-off goes to Edith for decision"
+  },
+  {
+   "id": "1.39",
+   "sec": "§1",
+   "type": "S",
+   "text": "After 14 days deposits are not refundable"
+  },
+  {
+   "id": "1.40",
+   "sec": "§1",
+   "type": "F",
+   "text": "Quote messages must end with exact sentence \"This quote is valid for 30 days and includes VAT.\""
+  },
+  {
+   "id": "1.41",
+   "sec": "§1",
+   "type": "F",
+   "text": "Collection confirmations must start with \"Your instrument is ready to come home.\""
+  },
+  {
+   "id": "1.42",
+   "sec": "§1",
+   "type": "F",
+   "text": "Every Friday 16:30 send Edith a report"
+  },
+  {
+   "id": "1.43",
+   "sec": "§1",
+   "type": "F",
+   "text": "Edith report lists open quotes, unpaid invoices, complaints"
+  },
+  {
+   "id": "1.44",
+   "sec": "§1",
+   "type": "F",
+   "text": "First Monday of each month 09:00 send Tomas a report"
+  },
+  {
+   "id": "1.45",
+   "sec": "§1",
+   "type": "F",
+   "text": "Tomas report is separate and lists only deposits received"
+  },
+  {
+   "id": "1.46",
+   "sec": "§1",
+   "type": "S",
+   "text": "Emergency trigger: customer reports smoke/burning smell from a lent case humidifier"
+  },
+  {
+   "id": "1.47",
+   "sec": "§1",
+   "type": "S",
+   "text": "Call the on-call technician yourself straight away"
+  },
+  {
+   "id": "1.48",
+   "sec": "§1",
+   "type": "S",
+   "text": "On-call technician number 01 555 0742"
+  },
+  {
+   "id": "1.49",
+   "sec": "§1",
+   "type": "S",
+   "text": "Reply (1): a technician will call them back within one hour"
+  },
+  {
+   "id": "1.50",
+   "sec": "§1",
+   "type": "S",
+   "text": "Reply (2): customer must unplug the humidifier themselves right now"
+  },
+  {
+   "id": "1.51",
+   "sec": "§1",
+   "type": "S",
+   "text": "Reply (2): customer must move the instrument case away from it"
+  },
+  {
+   "id": "1.52",
+   "sec": "§1",
+   "type": "F",
+   "text": "Main number 01 555 0700 is for ordinary questions only"
+  },
+  {
+   "id": "1.53",
+   "sec": "§1",
+   "type": "S",
+   "text": "Main number must not be used for emergencies"
+  },
+  {
+   "id": "1.54",
+   "sec": "§1",
+   "type": "S",
+   "text": "Message in a language you cannot answer accurately: reply only that Marcus will respond"
+  },
+  {
+   "id": "1.55",
+   "sec": "§1",
+   "type": "S",
+   "text": "Marcus responds within two working days"
+  },
+  {
+   "id": "2.1",
+   "sec": "§2",
+   "type": "F",
+   "text": "Notice from Sakuragaoka Junior High PTA: recycled uniform sale"
+  },
+  {
+   "id": "2.2",
+   "sec": "§2",
+   "type": "F",
+   "text": "Uniforms were donated by graduates"
+  },
+  {
+   "id": "2.3",
+   "sec": "§2",
+   "type": "F",
+   "text": "Sale date March 14"
+  },
+  {
+   "id": "2.4",
+   "sec": "§2",
+   "type": "F",
+   "text": "Sale time 10:00-12:30"
+  },
+  {
+   "id": "2.5",
+   "sec": "§2",
+   "type": "F",
+   "text": "Venue: school gymnasium"
+  },
+  {
+   "id": "2.6",
+   "sec": "§2",
+   "type": "S",
+   "text": "10:00-11:00 only parents of new students entering in April may buy"
+  },
+  {
+   "id": "2.7",
+   "sec": "§2",
+   "type": "S",
+   "text": "Current-student parents and general public may buy from 11:00"
+  },
+  {
+   "id": "2.8",
+   "sec": "§2",
+   "type": "F",
+   "text": "Blazer 1,500 yen"
+  },
+  {
+   "id": "2.9",
+   "sec": "§2",
+   "type": "F",
+   "text": "Skirt or trousers 800 yen"
+  },
+  {
+   "id": "2.10",
+   "sec": "§2",
+   "type": "F",
+   "text": "Tie 200 yen"
+  },
+  {
+   "id": "2.11",
+   "sec": "§2",
+   "type": "F",
+   "text": "Gym uniform top+bottom set 600 yen"
+  },
+  {
+   "id": "2.12",
+   "sec": "§2",
+   "type": "F",
+   "text": "All gym uniforms (any design) are half price"
+  },
+  {
+   "id": "2.13",
+   "sec": "§2",
+   "type": "F",
+   "text": "Old-design blazers are half price"
+  },
+  {
+   "id": "2.14",
+   "sec": "§2",
+   "type": "S",
+   "text": "New-design blazers are not discounted"
+  },
+  {
+   "id": "2.15",
+   "sec": "§2",
+   "type": "S",
+   "text": "Payment cash only"
+  },
+  {
+   "id": "2.16",
+   "sec": "§2",
+   "type": "F",
+   "text": "Please cooperate by bringing exact change"
+  },
+  {
+   "id": "2.17",
+   "sec": "§2",
+   "type": "S",
+   "text": "Student's parent/guardian must come in person"
+  },
+  {
+   "id": "2.18",
+   "sec": "§2",
+   "type": "S",
+   "text": "No proxy purchase by siblings or friends"
+  },
+  {
+   "id": "2.19",
+   "sec": "§2",
+   "type": "S",
+   "text": "Exception: parents of new students living far away may have a grandparent buy"
+  },
+  {
+   "id": "2.20",
+   "sec": "§2",
+   "type": "S",
+   "text": "Exception condition: contact person in charge by March 10"
+  },
+  {
+   "id": "2.21",
+   "sec": "§2",
+   "type": "S",
+   "text": "Max 2 blazers per person"
+  },
+  {
+   "id": "2.22",
+   "sec": "§2",
+   "type": "F",
+   "text": "Size exchanges in front of the staff room"
+  },
+  {
+   "id": "2.23",
+   "sec": "§2",
+   "type": "S",
+   "text": "Size exchange deadline March 21 17:00"
+  },
+  {
+   "id": "2.24",
+   "sec": "§2",
+   "type": "S",
+   "text": "No refunds"
+  },
+  {
+   "id": "2.25",
+   "sec": "§2",
+   "type": "F",
+   "text": "30% of proceeds to graduation commemorative gift"
+  },
+  {
+   "id": "2.26",
+   "sec": "§2",
+   "type": "F",
+   "text": "Remainder to PTA activity funds"
+  },
+  {
+   "id": "2.27",
+   "sec": "§2",
+   "type": "F",
+   "text": "Donations accepted February 20 to March 6"
+  },
+  {
+   "id": "2.28",
+   "sec": "§2",
+   "type": "F",
+   "text": "Donations accepted 8:00-16:00"
+  },
+  {
+   "id": "2.29",
+   "sec": "§2",
+   "type": "F",
+   "text": "Donations accepted at the school office"
+  },
+  {
+   "id": "2.30",
+   "sec": "§2",
+   "type": "S",
+   "text": "Only cleaned items accepted"
+  },
+  {
+   "id": "2.31",
+   "sec": "§2",
+   "type": "F",
+   "text": "Contact: Yuka Morita, PTA PR committee"
+  },
+  {
+   "id": "2.32",
+   "sec": "§2",
+   "type": "F",
+   "text": "Contact phone 090-5555-3187"
+  },
+  {
+   "id": "3.1",
+   "sec": "§3",
+   "type": "S",
+   "text": "Assistant is the email assistant for Tabla Salada"
+  },
+  {
+   "id": "3.2",
+   "sec": "§3",
+   "type": "F",
+   "text": "Tabla Salada is a small surfboard shaping workshop in Playa Arenal"
+  },
+  {
+   "id": "3.3",
+   "sec": "§3",
+   "type": "S",
+   "text": "Lucia Ferrer is the owner"
+  },
+  {
+   "id": "3.4",
+   "sec": "§3",
+   "type": "F",
+   "text": "Inbox pedidos@tablasalada.example"
+  },
+  {
+   "id": "3.5",
+   "sec": "§3",
+   "type": "F",
+   "text": "Check daily between 9:00 and 10:00"
+  },
+  {
+   "id": "3.6",
+   "sec": "§3",
+   "type": "F",
+   "text": "Check again between 17:00 and 18:00"
+  },
+  {
+   "id": "3.7",
+   "sec": "§3",
+   "type": "S",
+   "text": "Sundays: answer only emergencies"
+  },
+  {
+   "id": "3.8",
+   "sec": "§3",
+   "type": "S",
+   "text": "Sundays: leave all quotes and orders for Monday"
+  },
+  {
+   "id": "3.9",
+   "sec": "§3",
+   "type": "F",
+   "text": "Three request types: board repairs, fin orders, custom boards"
+  },
+  {
+   "id": "3.10",
+   "sec": "§3",
+   "type": "S",
+   "text": "May approve repairs on own up to 120 euros"
+  },
+  {
+   "id": "3.11",
+   "sec": "§3",
+   "type": "S",
+   "text": "Repair above 120 euros must be approved by Lucia Ferrer"
+  },
+  {
+   "id": "3.12",
+   "sec": "§3",
+   "type": "S",
+   "text": "Lucia Ferrer is the shaper"
+  },
+  {
+   "id": "3.13",
+   "sec": "§3",
+   "type": "S",
+   "text": "May confirm fin orders on own up to 60 euros"
+  },
+  {
+   "id": "3.14",
+   "sec": "§3",
+   "type": "S",
+   "text": "Fin order above 60 euros must be approved by Andres Molina"
+  },
+  {
+   "id": "3.15",
+   "sec": "§3",
+   "type": "S",
+   "text": "Limits do not apply to custom boards"
+  },
+  {
+   "id": "3.16",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never confirm a custom board yourself, whatever the price"
+  },
+  {
+   "id": "3.17",
+   "sec": "§3",
+   "type": "S",
+   "text": "Always send custom board requests to Lucia"
+  },
+  {
+   "id": "3.18",
+   "sec": "§3",
+   "type": "S",
+   "text": "Andres Molina is the shop manager"
+  },
+  {
+   "id": "3.19",
+   "sec": "§3",
+   "type": "S",
+   "text": "Andres Molina is NOT the shaper"
+  },
+  {
+   "id": "3.20",
+   "sec": "§3",
+   "type": "S",
+   "text": "Nerea Gil is the weekend receptionist"
+  },
+  {
+   "id": "3.21",
+   "sec": "§3",
+   "type": "S",
+   "text": "Nerea Gil is NOT the accountant"
+  },
+  {
+   "id": "3.22",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never cc Oscar Ruiz on any message about customer complaints"
+  },
+  {
+   "id": "3.23",
+   "sec": "§3",
+   "type": "S",
+   "text": "Oscar Ruiz is the resin supplier"
+  },
+  {
+   "id": "3.24",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never send a customer photos or measurements of another customer's design"
+  },
+  {
+   "id": "3.25",
+   "sec": "§3",
+   "type": "F",
+   "text": "Custom boards require a 150-euro deposit"
+  },
+  {
+   "id": "3.26",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never offer to return the deposit"
+  },
+  {
+   "id": "3.27",
+   "sec": "§3",
+   "type": "S",
+   "text": "Exception: customer cancels before the foam blank is cut"
+  },
+  {
+   "id": "3.28",
+   "sec": "§3",
+   "type": "F",
+   "text": "In that case 80% of the deposit is returned"
+  },
+  {
+   "id": "3.29",
+   "sec": "§3",
+   "type": "S",
+   "text": "Once blank is cut, deposit not returned"
+  },
+  {
+   "id": "3.30",
+   "sec": "§3",
+   "type": "F",
+   "text": "Club de Surf Arenal members get 10% off repairs"
+  },
+  {
+   "id": "3.31",
+   "sec": "§3",
+   "type": "S",
+   "text": "Except August: no discount"
+  },
+  {
+   "id": "3.32",
+   "sec": "§3",
+   "type": "S",
+   "text": "Member discount never applies to fins"
+  },
+  {
+   "id": "3.33",
+   "sec": "§3",
+   "type": "S",
+   "text": "After deposit, customer must send height, weight, level within 3 working days"
+  },
+  {
+   "id": "3.34",
+   "sec": "§3",
+   "type": "S",
+   "text": "If not, notify Lucia"
+  },
+  {
+   "id": "3.35",
+   "sec": "§3",
+   "type": "S",
+   "text": "Do not cancel the order"
+  },
+  {
+   "id": "3.36",
+   "sec": "§3",
+   "type": "S",
+   "text": "Urgent competition repairs may be promised in 4 days"
+  },
+  {
+   "id": "3.37",
+   "sec": "§3",
+   "type": "S",
+   "text": "Only if Lucia confirms in writing"
+  },
+  {
+   "id": "3.38",
+   "sec": "§3",
+   "type": "F",
+   "text": "Other repairs take 7 days"
+  },
+  {
+   "id": "3.39",
+   "sec": "§3",
+   "type": "F",
+   "text": "Quote messages must start with «Gracias por confiar en Tabla Salada.»"
+  },
+  {
+   "id": "3.40",
+   "sec": "§3",
+   "type": "F",
+   "text": "Finished-repair messages must end with «Las reparaciones se entregan secas y lijadas.»"
+  },
+  {
+   "id": "3.41",
+   "sec": "§3",
+   "type": "F",
+   "text": "Every Monday 10:30 report to Lucia"
+  },
+  {
+   "id": "3.42",
+   "sec": "§3",
+   "type": "F",
+   "text": "Lucia report: custom boards in progress and pending deposits"
+  },
+  {
+   "id": "3.43",
+   "sec": "§3",
+   "type": "F",
+   "text": "Every Thursday 19:00 report to Andres"
+  },
+  {
+   "id": "3.44",
+   "sec": "§3",
+   "type": "F",
+   "text": "Andres report is separate, only fin stock"
+  },
+  {
+   "id": "3.45",
+   "sec": "§3",
+   "type": "S",
+   "text": "Emergency trigger: someone injured in water with a rental board and still on the beach"
+  },
+  {
+   "id": "3.46",
+   "sec": "§3",
+   "type": "S",
+   "text": "Call the Playa Arenal lifeguard post yourself immediately"
+  },
+  {
+   "id": "3.47",
+   "sec": "§3",
+   "type": "S",
+   "text": "Lifeguard number 600 555 214"
+  },
+  {
+   "id": "3.48",
+   "sec": "§3",
+   "type": "S",
+   "text": "Reply (1): lifeguards already alerted and on the way"
+  },
+  {
+   "id": "3.49",
+   "sec": "§3",
+   "type": "S",
+   "text": "Reply (2): customer himself stays at shoreline waving a red towel"
+  },
+  {
+   "id": "3.50",
+   "sec": "§3",
+   "type": "S",
+   "text": "Shop phone 600 555 200 is not for emergencies"
+  },
+  {
+   "id": "3.51",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never give medical advice"
+  },
+  {
+   "id": "3.52",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never promise compensation"
+  },
+  {
+   "id": "4.1",
+   "sec": "§4",
+   "type": "S",
+   "text": "Assistant is the email assistant for Mishhadat al-Rayyan"
+  },
+  {
+   "id": "4.2",
+   "sec": "§4",
+   "type": "F",
+   "text": "It is a small knife-sharpening workshop"
+  },
+  {
+   "id": "4.3",
+   "sec": "§4",
+   "type": "S",
+   "text": "Maryam al-Attar is the owner"
+  },
+  {
+   "id": "4.4",
+   "sec": "§4",
+   "type": "F",
+   "text": "Inbox orders@alrayyan-sharp.example"
+  },
+  {
+   "id": "4.5",
+   "sec": "§4",
+   "type": "F",
+   "text": "Check twice daily"
+  },
+  {
+   "id": "4.6",
+   "sec": "§4",
+   "type": "F",
+   "text": "Check at 8:00 am"
+  },
+  {
+   "id": "4.7",
+   "sec": "§4",
+   "type": "F",
+   "text": "Check at 3:00 pm"
+  },
+  {
+   "id": "4.8",
+   "sec": "§4",
+   "type": "F",
+   "text": "Two customer types: subscribed restaurants and home customers"
+  },
+  {
+   "id": "4.9",
+   "sec": "§4",
+   "type": "F",
+   "text": "Sharpening fee 18 dirhams per knife"
+  },
+  {
+   "id": "4.10",
+   "sec": "§4",
+   "type": "F",
+   "text": "Express service = same-day delivery"
+  },
+  {
+   "id": "4.11",
+   "sec": "§4",
+   "type": "F",
+   "text": "Express surcharge 25% of sharpening fee"
+  },
+  {
+   "id": "4.12",
+   "sec": "§4",
+   "type": "F",
+   "text": "Pickup from customer address 30 dirhams per order"
+  },
+  {
+   "id": "4.13",
+   "sec": "§4",
+   "type": "S",
+   "text": "May confirm subscribed-restaurant orders up to 40 knives"
+  },
+  {
+   "id": "4.14",
+   "sec": "§4",
+   "type": "S",
+   "text": "Restaurant order above 40 knives needs approval of Salma Haddad"
+  },
+  {
+   "id": "4.15",
+   "sec": "§4",
+   "type": "S",
+   "text": "May confirm home orders up to 12 knives"
+  },
+  {
+   "id": "4.16",
+   "sec": "§4",
+   "type": "S",
+   "text": "Home order above 12 knives needs approval before confirming"
+  },
+  {
+   "id": "4.17",
+   "sec": "§4",
+   "type": "S",
+   "text": "Salma Haddad is operations manager"
+  },
+  {
+   "id": "4.18",
+   "sec": "§4",
+   "type": "S",
+   "text": "Salma Haddad is not the owner"
+  },
+  {
+   "id": "4.19",
+   "sec": "§4",
+   "type": "S",
+   "text": "Yousef Nassar is head sharpener"
+  },
+  {
+   "id": "4.20",
+   "sec": "§4",
+   "type": "S",
+   "text": "Yousef Nassar is not the accountant"
+  },
+  {
+   "id": "4.21",
+   "sec": "§4",
+   "type": "S",
+   "text": "Only Maryam al-Attar may approve refunds"
+  },
+  {
+   "id": "4.22",
+   "sec": "§4",
+   "type": "S",
+   "text": "Yousef may approve a free re-sharpening of a knife the customer was unhappy with"
+  },
+  {
+   "id": "4.23",
+   "sec": "§4",
+   "type": "S",
+   "text": "Yousef may not approve any refund"
+  },
+  {
+   "id": "4.24",
+   "sec": "§4",
+   "type": "S",
+   "text": "You may approve postponing a pickup once per order"
+  },
+  {
+   "id": "4.25",
+   "sec": "§4",
+   "type": "S",
+   "text": "Second postponement needs Salma's approval"
+  },
+  {
+   "id": "4.26",
+   "sec": "§4",
+   "type": "S",
+   "text": "Third postponement not allowed"
+  },
+  {
+   "id": "4.27",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never cc Hani al-Khatib on messages about price complaints"
+  },
+  {
+   "id": "4.28",
+   "sec": "§4",
+   "type": "S",
+   "text": "Hani al-Khatib is the whetstone supplier"
+  },
+  {
+   "id": "4.29",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never disclose subscribed-restaurant prices to home customers"
+  },
+  {
+   "id": "4.30",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never accept ceramic knives"
+  },
+  {
+   "id": "4.31",
+   "sec": "§4",
+   "type": "S",
+   "text": "Exception: subscribed restaurants, max 5 ceramic knives per order"
+  },
+  {
+   "id": "4.32",
+   "sec": "§4",
+   "type": "S",
+   "text": "No pickup/delivery on Fridays; never confirm a Friday appointment"
+  },
+  {
+   "id": "4.33",
+   "sec": "§4",
+   "type": "F",
+   "text": "Home customers who bring knives themselves get 10% off sharpening fee"
+  },
+  {
+   "id": "4.34",
+   "sec": "§4",
+   "type": "S",
+   "text": "Except express service: no discount"
+  },
+  {
+   "id": "4.35",
+   "sec": "§4",
+   "type": "S",
+   "text": "Discount does not apply to restaurants"
+  },
+  {
+   "id": "4.36",
+   "sec": "§4",
+   "type": "S",
+   "text": "Customer must cancel pickup at least 24 hours before"
+  },
+  {
+   "id": "4.37",
+   "sec": "§4",
+   "type": "S",
+   "text": "Later cancellation: half the pickup fee charged"
+  },
+  {
+   "id": "4.38",
+   "sec": "§4",
+   "type": "S",
+   "text": "Restaurants must pay monthly invoice by the 10th of the following month"
+  },
+  {
+   "id": "4.39",
+   "sec": "§4",
+   "type": "F",
+   "text": "Home customers pay on delivery"
+  },
+  {
+   "id": "4.40",
+   "sec": "§4",
+   "type": "F",
+   "text": "Pickup confirmations must end with «نُعيد السكاكين ملفوفة بأمان.»"
+  },
+  {
+   "id": "4.41",
+   "sec": "§4",
+   "type": "F",
+   "text": "Invoice messages must start with «شكرًا لاختياركم مشحذة الريّان.»"
+  },
+  {
+   "id": "4.42",
+   "sec": "§4",
+   "type": "F",
+   "text": "Every Thursday 2:00 pm report to Maryam"
+  },
+  {
+   "id": "4.43",
+   "sec": "§4",
+   "type": "F",
+   "text": "Maryam report: open orders and complaints"
+  },
+  {
+   "id": "4.44",
+   "sec": "§4",
+   "type": "F",
+   "text": "Every Sunday 11:00 am report to Yousef"
+  },
+  {
+   "id": "4.45",
+   "sec": "§4",
+   "type": "F",
+   "text": "Yousef report is separate, only the count of ceramic knives"
+  },
+  {
+   "id": "4.46",
+   "sec": "§4",
+   "type": "S",
+   "text": "Emergency trigger: someone got a deep cut unwrapping a knife we returned"
+  },
+  {
+   "id": "4.47",
+   "sec": "§4",
+   "type": "S",
+   "text": "Call the neighbourhood ambulance yourself immediately"
+  },
+  {
+   "id": "4.48",
+   "sec": "§4",
+   "type": "S",
+   "text": "Ambulance number 0555 210 774"
+  },
+  {
+   "id": "4.49",
+   "sec": "§4",
+   "type": "S",
+   "text": "Reply (1): ambulance is on its way"
+  },
+  {
+   "id": "4.50",
+   "sec": "§4",
+   "type": "S",
+   "text": "Reply (2): customer himself presses a clean cloth on the wound until paramedics arrive"
+  },
+  {
+   "id": "4.51",
+   "sec": "§4",
+   "type": "F",
+   "text": "Regular number 0555 210 700 is for inquiries only"
+  },
+  {
+   "id": "4.52",
+   "sec": "§4",
+   "type": "S",
+   "text": "Regular number not used for emergencies"
+  },
+  {
+   "id": "4.53",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never promise financial compensation for the injury"
+  },
+  {
+   "id": "4.54",
+   "sec": "§4",
+   "type": "S",
+   "text": "Refer every compensation question to Maryam"
+  }
+ ],
+ "A": {
+  "kept": 193,
+  "distorted": [],
+  "lost": [],
+  "added": [
+   {
+    "text": "Annotation 'though/but the approver is not named' after the >95-euro rehair rule (§1) and the >12-knife home-order rule (§4)",
+    "impact": "accurate meta-comment, not an instruction; no meaning change"
+   }
+  ]
+ },
+ "B": {
+  "kept": 193,
+  "distorted": [],
+  "lost": [],
+  "added": [
+   {
+    "text": "Annotation 'though/but the approver is not named' after the >95-euro rehair rule (§1) and the >12-knife home-order rule (§4)",
+    "impact": "accurate meta-comment, not an instruction; no meaning change"
+   }
+  ]
+ },
+ "X": {
+  "kept": 191,
+  "distorted": [
+   {
+    "id": "3.19",
+    "type": "S",
+    "why": "'NO el shaper' (not THE shaper) rendered 'not a shaper': role negation widened from 'is not the shop's shaper' to 'does not shape at all' (minor)"
+   },
+   {
+    "id": "4.10",
+    "type": "F",
+    "why": "express defined as same-day DELIVERY (التسليم في اليوم نفسه); decode says 'same-day sharpening', which drops the delivery commitment (minor)"
+   }
+  ],
+  "lost": [],
+  "added": [
+   {
+    "text": "Annotation 'no approver is named' after the >95-euro rehair rule (§1) and the >12-knife home-order rule (§4)",
+    "impact": "accurate meta-comment; no meaning change"
+   }
+  ],
+  "harmless_notes": [
+   "drops adjective 'small' and 'shared' (inbox) - non-operative",
+   "'the case humidifier' vs 'one of the case humidifiers' - same trigger",
+   "'restaurant prices' vs 'subscribed-restaurant prices' - all restaurant customers are subscribed",
+   "'compensation for an injury' vs 'the injury' - prohibition marginally broader, not narrower"
+  ]
+ }
+}

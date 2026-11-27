@@ -295,3 +295,16 @@ Not a new best: terse English saved 20.1 points more than MNC28 main at equal ac
 | LLMLingua-2 0.66 / 0.5 | 33.1% / 47.0% (o200k) | 82.5% / 62.5% ×1 (lost Chinese facts; 0.5 flipped a prohibition and named wrong approvers) | – | – |
 7B (3 runs): MNC28 62.5-65.0%, original 50.0-52.5% (MNC28 above the original's range); MNC28x 57.5% on its one complete run (2 runs truncated). Bench-v1 not run. Questions at ceiling for faithful texts.
 Not a new best: terse English saved 19.5 points more than MNC28 main at equal accuracy; MNC28x's new approver merges caused safety errors. Ready counter: **MNC28: 4 consecutive blind passes** (r31-r34; 3/3 bar met since r33). Details: machine/round34/SCORES.md.
+
+
+### r35 (fully blind, independent author; en/ja/es/ar), MNC28 main frozen (RULES sha1 f70a3563) + MNC28x probe — run and scored 2026-11-27 01:14-~01:50 CT (strong reader = fresh no-context frontier helpers; independent decode judge)
+| Text | Saved o200k / cl100k | Direct use, strong (S) | Blind decode (judge, 193 facts) | Instruction-safety |
+|---|---|---|---|---|
+| MNC28 (main, no key) | 20.1% / 40.8% | 100% ×2 (S 27/27 ×2) | A and B: 193/193 kept, 0 errors | **PASS** |
+| MNC28x (probe; approver merge reverted, terse-style wording) | 40.1% / 57.9% | 100% ×2 (S 27/27 ×2) | 191/193; 1 S distortion (role negation "not THE shaper" widened to "not a shaper"), 1 F distortion (same-day delivery → same-day sharpening) | FAIL (probe) |
+| original | 0 | 100% (after 1 shared scorer fix) | – | – |
+| terse English | 37.7% / 56.6% | 100% ×2 | – | – |
+| summarize | 23.3% / 25.8% | 100% ×1 | – | – |
+| LLMLingua-2 0.66 / 0.5 | 40.0% / 52.7% (o200k) | 75.0% / 75.0% ×1 (lost most Japanese facts; both named an unstated approver) | – | – |
+7B (3 runs): MNC28 65.0% ×3, original 62.5% ×3, MNC28x 62.5-65.0% (1-question margins; effectively ties). Bench-v1 not run. Questions at ceiling for faithful texts.
+Not a formal new best: MNC28x saved more than terse English at equal accuracy (+2.4 o200k, +1.3 cl100k) but failed the strict decode gate; terse English saved 17.6 points more than MNC28 main. Ready counter: **MNC28: 5 consecutive blind passes** (r31-r35; 3/3 bar met since r33). Details: machine/round35/SCORES.md.
