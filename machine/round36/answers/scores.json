@@ -1,0 +1,3606 @@
+{
+ "rows": [
+  {
+   "f": "llm05_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Odile Varga",
+   "gold": "Odile Varga (the workshop manager)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no (only Marguerite Ashdown, the owner, may approve express bespoke orders; Teodor is the head milliner, not the owner)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0800 555 0172",
+   "gold": "0800 555 0172"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3 days",
+   "gold": "within 3 days"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Odile Varga",
+   "gold": "Odile Varga (55 + 9 shipping = 64 pounds, above the 60-pound limit)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "9 pounds",
+   "gold": "9 pounds"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "3 bags"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no (the April 19 deadline covers only lettuce seeds borrowed before March 10)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes (the March 10 date limits only the lettuce seeds)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no (proxy return is allowed only for residents aged 70 or older)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000 won",
+   "gold": "3,000 won (4,000 deposit minus 1,000 refund)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "only the exchange",
+   "gold": "only the exchange (store-bought seeds cannot be donated)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "010-4471-2286",
+   "gold": "010-4471-2286 (Han Seo-yun)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2nd-floor auditorium",
+   "gold": "in the 2nd-floor hall of the community center"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Caio Mendes",
+   "gold": "Caio Mendes (the owner)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Renata Albuquerque",
+   "gold": "Renata Albuquerque (the store manager)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no (only Caio Mendes, the owner, may approve wholesale orders above 50 kg; Lauro is the master cheesemaker, not the owner)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "(31) 98877-4120",
+   "gold": "(31) 98877-4120"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1.5 kg",
+   "gold": "1.5 kg"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "R$ 245",
+   "gold": "R$ 245 (170 + 40 + 35 refrigerated shipping)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Mehra (the owner)",
+   "gold": "Sudha Mehra (the owner)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Neha Joshi",
+   "gold": "Neha Joshi (the counter manager)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no (only Sudha Mehra, the owner, may accept such offers; Imran is the head mechanic, not the owner)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹1,000",
+   "gold": "₹1,000"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹2,480",
+   "gold": "₹2,480 (600 + 1,700 + 180)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "98290 41736",
+   "gold": "98290 41736"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Odile Varga",
+   "gold": "Odile Varga (the workshop manager)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no (only Marguerite Ashdown, the owner, may approve express bespoke orders; Teodor is the head milliner, not the owner)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0800 555 0172",
+   "gold": "0800 555 0172"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3 days",
+   "gold": "within 3 days"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Odile Varga",
+   "gold": "Odile Varga (55 + 9 shipping = 64 pounds, above the 60-pound limit)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "9",
+   "gold": "9 pounds"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "3 bags"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no (the April 19 deadline covers only lettuce seeds borrowed before March 10)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes (the March 10 date limits only the lettuce seeds)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no (proxy return is allowed only for residents aged 70 or older)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3000",
+   "gold": "3,000 won (4,000 deposit minus 1,000 refund)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the exchange of 2 bags",
+   "gold": "only the exchange (store-bought seeds cannot be donated)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "010-4471-2286",
+   "gold": "010-4471-2286 (Han Seo-yun)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "주민센터 2층 강당 (community center 2nd-floor auditorium)",
+   "gold": "in the 2nd-floor hall of the community center"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Caio Mendes",
+   "gold": "Caio Mendes (the owner)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Renata Albuquerque",
+   "gold": "Renata Albuquerque (the store manager)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no (only Caio Mendes, the owner, may approve wholesale orders above 50 kg; Lauro is the master cheesemaker, not the owner)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "(31) 98877-4120",
+   "gold": "(31) 98877-4120"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1.5 kg",
+   "gold": "1.5 kg"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "245",
+   "gold": "R$ 245 (170 + 40 + 35 refrigerated shipping)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sudha Mehra",
+   "gold": "Sudha Mehra (the owner)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Neha Joshi",
+   "gold": "Neha Joshi (the counter manager)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no (only Sudha Mehra, the owner, may accept such offers; Imran is the head mechanic, not the owner)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹1,000",
+   "gold": "₹1,000"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹2,480",
+   "gold": "₹2,480 (600 + 1,700 + 180)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "98290 41736",
+   "gold": "98290 41736"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Odile Varga",
+   "gold": "Odile Varga (the workshop manager)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (it needs approval, but the TEXT doesn't name the approver)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, deposit refunds above 25 pounds need approval",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only at 8:30 and 14:00",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only Marguerite Ashdown may approve express bespoke orders",
+   "gold": "no (only Marguerite Ashdown, the owner, may approve express bespoke orders; Teodor is the head milliner, not the owner)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0800 555 0172",
+   "gold": "0800 555 0172"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 3 days",
+   "gold": "within 3 days"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Odile Varga (55 + 9 shipping = 64 pounds, above the 60-pound limit)",
+   "gold": "Odile Varga (55 + 9 shipping = 64 pounds, above the 60-pound limit)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "9 pounds (free shipping only on orders over 80)",
+   "gold": "9 pounds"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3 bags",
+   "gold": "3 bags"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only lettuce seeds borrowed before March 10",
+   "gold": "no (the April 19 deadline covers only lettuce seeds borrowed before March 10)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes (the March 10 date limits only the lettuce seeds)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, proxy return only for residents aged 70 or over",
+   "gold": "no (proxy return is allowed only for residents aged 70 or older)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000 won",
+   "gold": "3,000 won (4,000 deposit minus 1,000 refund)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "only the exchange of 2 bags; store-bought seeds cannot be donated",
+   "gold": "only the exchange (store-bought seeds cannot be donated)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "010-4471-2286 (Han Seo-yun)",
+   "gold": "010-4471-2286 (Han Seo-yun)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "2nd-floor auditorium of the community center",
+   "gold": "in the 2nd-floor hall of the community center"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it needs Caio Mendes's approval",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Caio Mendes",
+   "gold": "Caio Mendes (the owner)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (it needs approval, but the TEXT doesn't name the approver)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Renata Albuquerque",
+   "gold": "Renata Albuquerque (the store manager)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only Caio Mendes may approve wholesale orders above 50 kg",
+   "gold": "no (only Caio Mendes, the owner, may approve wholesale orders above 50 kg; Lauro is the master cheesemaker, not the owner)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "(31) 98877-4120",
+   "gold": "(31) 98877-4120"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1.5 kg",
+   "gold": "1.5 kg"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "R$ 245 (170 basket + 40 cheese + 35 shipping)",
+   "gold": "R$ 245 (170 + 40 + 35 refrigerated shipping)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only at 10:00 and 16:30",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (parts refunds above ₹400 need approval, but the TEXT doesn't name the approver)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sudha Mehra",
+   "gold": "Sudha Mehra (the owner)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Neha Joshi",
+   "gold": "Neha Joshi (the counter manager)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only Sudha Mehra may accept such offers",
+   "gold": "no (only Sudha Mehra, the owner, may accept such offers; Imran is the head mechanic, not the owner)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹1,000 (40% of the advance)",
+   "gold": "₹1,000"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹2,480 (600 + 1,700 + 180)",
+   "gold": "₹2,480 (600 + 1,700 + 180)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "98290 41736",
+   "gold": "98290 41736"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the drive belt is only for electric typewriters",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Odile Varga",
+   "gold": "Odile Varga (the workshop manager)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Marguerite Ashdown may approve express bespoke orders",
+   "gold": "no (only Marguerite Ashdown, the owner, may approve express bespoke orders; Teodor is the head milliner, not the owner)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0800 555 0172",
+   "gold": "0800 555 0172"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 3 days",
+   "gold": "within 3 days"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Odile Varga",
+   "gold": "Odile Varga (55 + 9 shipping = 64 pounds, above the 60-pound limit)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "9",
+   "gold": "9 pounds"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3 bags",
+   "gold": "3 bags"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no (the April 19 deadline covers only lettuce seeds borrowed before March 10)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes (the March 10 date limits only the lettuce seeds)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no (proxy return is allowed only for residents aged 70 or older)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000 won",
+   "gold": "3,000 won (4,000 deposit minus 1,000 refund)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "only the exchange of 2 bags",
+   "gold": "only the exchange (store-bought seeds cannot be donated)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "010-4471-2286",
+   "gold": "010-4471-2286 (Han Seo-yun)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "in the 2nd-floor auditorium of the community center",
+   "gold": "in the 2nd-floor hall of the community center"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Caio Mendes",
+   "gold": "Caio Mendes (the owner)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Renata Albuquerque",
+   "gold": "Renata Albuquerque (the store manager)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Caio Mendes may approve wholesale orders above 50 kg",
+   "gold": "no (only Caio Mendes, the owner, may approve wholesale orders above 50 kg; Lauro is the master cheesemaker, not the owner)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "(31) 98877-4120",
+   "gold": "(31) 98877-4120"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1.5 kg",
+   "gold": "1.5 kg"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "245",
+   "gold": "R$ 245 (170 + 40 + 35 refrigerated shipping)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sudha Mehra",
+   "gold": "Sudha Mehra (the owner)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Neha Joshi",
+   "gold": "Neha Joshi (the counter manager)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Sudha Mehra may accept such an offer",
+   "gold": "no (only Sudha Mehra, the owner, may accept such offers; Imran is the head mechanic, not the owner)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹1,000",
+   "gold": "₹1,000"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹2,480",
+   "gold": "₹2,480 (600 + 1,700 + 180)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "98290 41736",
+   "gold": "98290 41736"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Odile Varga (workshop manager)",
+   "gold": "Odile Varga (the workshop manager)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Approval is needed because it is over 25 pounds, but the TEXT does not name the approver",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is over the 25-pound limit, so approval is needed",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is checked only at 8:30 and 14:00",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only Marguerite Ashdown may approve express bespoke orders",
+   "gold": "no (only Marguerite Ashdown, the owner, may approve express bespoke orders; Teodor is the head milliner, not the owner)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0800 555 0172",
+   "gold": "0800 555 0172"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 3 days",
+   "gold": "within 3 days"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Odile Varga (55 + 9 shipping = 64 pounds, above the 60-pound limit)",
+   "gold": "Odile Varga (55 + 9 shipping = 64 pounds, above the 60-pound limit)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "9 pounds (free shipping only on orders over 80)",
+   "gold": "9 pounds"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3 packets",
+   "gold": "3 bags"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the rule covers only lettuce seeds borrowed before March 10",
+   "gold": "no (the April 19 deadline covers only lettuce seeds borrowed before March 10)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, all native bean seeds must be returned by April 19",
+   "gold": "yes (the March 10 date limits only the lettuce seeds)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, family may return only for residents aged 70 or older",
+   "gold": "no (proxy return is allowed only for residents aged 70 or older)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000 won",
+   "gold": "3,000 won (4,000 deposit minus 1,000 refund)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Only the exchange of 2 packets; store-bought seeds cannot be donated",
+   "gold": "only the exchange (store-bought seeds cannot be donated)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "010-4471-2286 (manager 한서윤)",
+   "gold": "010-4471-2286 (Han Seo-yun)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "2F auditorium of the community center",
+   "gold": "in the 2nd-floor hall of the community center"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, it is within the R$ 80 limit",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, any compensation must be approved by Caio",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Caio Mendes (owner)",
+   "gold": "Caio Mendes (the owner)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Approval is needed because it is over 10%, but the TEXT does not name the approver",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Renata Albuquerque (store manager)",
+   "gold": "Renata Albuquerque (the store manager)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only Caio may approve wholesale orders over 50 kg",
+   "gold": "no (only Caio Mendes, the owner, may approve wholesale orders above 50 kg; Lauro is the master cheesemaker, not the owner)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "(31) 98877-4120 (veterinarian Helena Saraiva)",
+   "gold": "(31) 98877-4120"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1.5 kg",
+   "gold": "1.5 kg"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "R$ 245 (170 basket + 40 cheese + 35 refrigerated shipping)",
+   "gold": "R$ 245 (170 + 40 + 35 refrigerated shipping)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is checked only at 10:00 and 16:30",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Approval is needed because it is over ₹400, but the TEXT does not name the approver",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sudha Mehra (owner)",
+   "gold": "Sudha Mehra (the owner)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Neha Joshi (counter manager)",
+   "gold": "Neha Joshi (the counter manager)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only Sudha may accept such offers",
+   "gold": "no (only Sudha Mehra, the owner, may accept such offers; Imran is the head mechanic, not the owner)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹1,000 (40% of the advance)",
+   "gold": "₹1,000"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹2,480 (600 inspection + 1,700 repair + 180 ribbon)",
+   "gold": "₹2,480 (600 + 1,700 + 180)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "98290 41736 (on-call electrician)",
+   "gold": "98290 41736"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the drive-belt is replaced only on electric typewriters",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Odile Varga (workshop manager)",
+   "gold": "Odile Varga (the workshop manager)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (it needs approval, but the TEXT does not name the approver)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; deposit refunds over 25 pounds need approval, and the approver is not stated",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it is checked only at 8:30 and 14:00",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Marguerite Ashdown may approve express bespoke orders",
+   "gold": "no (only Marguerite Ashdown, the owner, may approve express bespoke orders; Teodor is the head milliner, not the owner)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0800 555 0172",
+   "gold": "0800 555 0172"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 3 days",
+   "gold": "within 3 days"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Odile Varga (55 + 9 shipping = 64 pounds, which is over 60)",
+   "gold": "Odile Varga (55 + 9 shipping = 64 pounds, above the 60-pound limit)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "9 pounds (free shipping is only for orders over 80)",
+   "gold": "9 pounds"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3 packets",
+   "gold": "3 bags"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only lettuce seeds borrowed before Mar 10 must be returned by Apr 19",
+   "gold": "no (the April 19 deadline covers only lettuce seeds borrowed before March 10)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; all borrowed native bean seeds must be returned by Apr 19",
+   "gold": "yes (the March 10 date limits only the lettuce seeds)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; family may return only for residents aged 70+",
+   "gold": "no (proxy return is allowed only for residents aged 70 or older)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000 won",
+   "gold": "3,000 won (4,000 deposit minus 1,000 refund)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "only the exchange of 2 packets; store-bought seed donations are not accepted",
+   "gold": "only the exchange (store-bought seeds cannot be donated)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "010-4471-2286",
+   "gold": "010-4471-2286 (Han Seo-yun)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "2F auditorium of the community center",
+   "gold": "in the 2nd-floor hall of the community center"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Caio Mendes must approve any compensation",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Caio Mendes",
+   "gold": "Caio Mendes (the owner)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Renata Albuquerque",
+   "gold": "Renata Albuquerque (the store manager)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Caio Mendes may approve wholesale orders over 50 kg",
+   "gold": "no (only Caio Mendes, the owner, may approve wholesale orders above 50 kg; Lauro is the master cheesemaker, not the owner)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "(31) 98877-4120",
+   "gold": "(31) 98877-4120"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1.5 kg",
+   "gold": "1.5 kg"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "R$ 245",
+   "gold": "R$ 245 (170 + 40 + 35 refrigerated shipping)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it is checked only at 10:00 and 16:30",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (over ₹400 needs approval, but the approver is not named)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sudha Mehra",
+   "gold": "Sudha Mehra (the owner)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Neha Joshi",
+   "gold": "Neha Joshi (the counter manager)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Sudha may accept such offers",
+   "gold": "no (only Sudha Mehra, the owner, may accept such offers; Imran is the head mechanic, not the owner)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹1,000",
+   "gold": "₹1,000"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹2,480",
+   "gold": "₹2,480 (600 + 1,700 + 180)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "98290 41736",
+   "gold": "98290 41736"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Odile Varga",
+   "gold": "Odile Varga (the workshop manager)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "It needs approval, but the TEXT doesn't say who gives it (not stated)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only Marguerite Ashdown may approve express bespoke orders",
+   "gold": "no (only Marguerite Ashdown, the owner, may approve express bespoke orders; Teodor is the head milliner, not the owner)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0800 555 0172",
+   "gold": "0800 555 0172"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3 days",
+   "gold": "within 3 days"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Odile Varga (55 + 9 shipping = 64 pounds, over 60)",
+   "gold": "Odile Varga (55 + 9 shipping = 64 pounds, above the 60-pound limit)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "9 pounds (free shipping is only for orders over 80)",
+   "gold": "9 pounds"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3 bags",
+   "gold": "3 bags"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no (the April 19 deadline covers only lettuce seeds borrowed before March 10)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes (the March 10 date limits only the lettuce seeds)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only for residents aged 70 or older",
+   "gold": "no (proxy return is allowed only for residents aged 70 or older)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000 won",
+   "gold": "3,000 won (4,000 deposit minus 1,000 refund)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "only the exchange of 2 bags",
+   "gold": "only the exchange (store-bought seeds cannot be donated)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "010-4471-2286",
+   "gold": "010-4471-2286 (Han Seo-yun)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "in the 2nd-floor auditorium of the community center",
+   "gold": "in the 2nd-floor hall of the community center"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Caio Mendes",
+   "gold": "Caio Mendes (the owner)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "It needs approval, but the TEXT doesn't say who gives it (not stated)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Renata Albuquerque",
+   "gold": "Renata Albuquerque (the store manager)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only Caio Mendes can approve wholesale orders over 50 kg",
+   "gold": "no (only Caio Mendes, the owner, may approve wholesale orders above 50 kg; Lauro is the master cheesemaker, not the owner)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "(31) 98877-4120",
+   "gold": "(31) 98877-4120"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1.5 kg",
+   "gold": "1.5 kg"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "R$ 245",
+   "gold": "R$ 245 (170 + 40 + 35 refrigerated shipping)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "It needs approval (over ₹400), but the TEXT doesn't say who gives it (not stated)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sudha Mehra",
+   "gold": "Sudha Mehra (the owner)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Neha Joshi",
+   "gold": "Neha Joshi (the counter manager)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only Sudha Mehra can accept such offers",
+   "gold": "no (only Sudha Mehra, the owner, may accept such offers; Imran is the head mechanic, not the owner)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹1,000",
+   "gold": "₹1,000"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹2,480",
+   "gold": "₹2,480 (600 + 1,700 + 180)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "98290 41736",
+   "gold": "98290 41736"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Odile Varga",
+   "gold": "Odile Varga (the workshop manager)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (it needs approval, but the TEXT doesn't say from whom)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no (only Marguerite Ashdown, the owner, may approve express bespoke orders; Teodor is the head milliner, not the owner)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0800 555 0172",
+   "gold": "0800 555 0172"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 3 days",
+   "gold": "within 3 days"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Odile Varga",
+   "gold": "Odile Varga (55 + 9 shipping = 64 pounds, above the 60-pound limit)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "£9",
+   "gold": "9 pounds"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3 bags",
+   "gold": "3 bags"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no (the April 19 deadline covers only lettuce seeds borrowed before March 10)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes (the March 10 date limits only the lettuce seeds)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no (proxy return is allowed only for residents aged 70 or older)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000 won",
+   "gold": "3,000 won (4,000 deposit minus 1,000 refund)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "only the exchange of 2 bags",
+   "gold": "only the exchange (store-bought seeds cannot be donated)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "010-4471-2286",
+   "gold": "010-4471-2286 (Han Seo-yun)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "in the 2nd-floor auditorium",
+   "gold": "in the 2nd-floor hall of the community center"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Caio Mendes",
+   "gold": "Caio Mendes (the owner)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (it needs approval, but the TEXT doesn't say from whom)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Renata Albuquerque",
+   "gold": "Renata Albuquerque (the store manager)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no (only Caio Mendes, the owner, may approve wholesale orders above 50 kg; Lauro is the master cheesemaker, not the owner)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "(31) 98877-4120",
+   "gold": "(31) 98877-4120"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1.5 kg",
+   "gold": "1.5 kg"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "R$245",
+   "gold": "R$ 245 (170 + 40 + 35 refrigerated shipping)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (it needs approval, but the TEXT doesn't say from whom)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sudha Mehra",
+   "gold": "Sudha Mehra (the owner)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Neha Joshi",
+   "gold": "Neha Joshi (the counter manager)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no (only Sudha Mehra, the owner, may accept such offers; Imran is the head mechanic, not the owner)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹1,000",
+   "gold": "₹1,000"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹2,480",
+   "gold": "₹2,480 (600 + 1,700 + 180)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "98290 41736",
+   "gold": "98290 41736"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Odile Varga",
+   "gold": "Odile Varga (the workshop manager)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (it needs approval because it is above £25, but the TEXT does not say who approves it)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no (only Marguerite Ashdown, the owner, may approve express bespoke orders; Teodor is the head milliner, not the owner)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0800 555 0172",
+   "gold": "0800 555 0172"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3 days",
+   "gold": "within 3 days"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Odile Varga",
+   "gold": "Odile Varga (55 + 9 shipping = 64 pounds, above the 60-pound limit)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "£9",
+   "gold": "9 pounds"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3 packets",
+   "gold": "3 bags"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no (the April 19 deadline covers only lettuce seeds borrowed before March 10)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes (the March 10 date limits only the lettuce seeds)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no (proxy return is allowed only for residents aged 70 or older)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₩3,000",
+   "gold": "3,000 won (4,000 deposit minus 1,000 refund)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "only the exchange of 2 packets",
+   "gold": "only the exchange (store-bought seeds cannot be donated)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "010-4471-2286",
+   "gold": "010-4471-2286 (Han Seo-yun)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "2F auditorium",
+   "gold": "in the 2nd-floor hall of the community center"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Caio Mendes",
+   "gold": "Caio Mendes (the owner)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (it needs approval, but the TEXT does not say who approves it)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Renata Albuquerque",
+   "gold": "Renata Albuquerque (the store manager)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no (only Caio Mendes, the owner, may approve wholesale orders above 50 kg; Lauro is the master cheesemaker, not the owner)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "(31) 98877-4120",
+   "gold": "(31) 98877-4120"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1.5 kg",
+   "gold": "1.5 kg"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "R$245",
+   "gold": "R$ 245 (170 + 40 + 35 refrigerated shipping)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (it needs approval because it is above ₹400, but the TEXT does not say who approves it)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sudha Mehra",
+   "gold": "Sudha Mehra (the owner)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Neha Joshi",
+   "gold": "Neha Joshi (the counter manager)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no (only Sudha Mehra, the owner, may accept such offers; Imran is the head mechanic, not the owner)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹1,000",
+   "gold": "₹1,000"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹2,480",
+   "gold": "₹2,480 (600 + 1,700 + 180)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "98290 41736",
+   "gold": "98290 41736"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Odile Varga",
+   "gold": "Odile Varga (the workshop manager)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (above £25 needs approval; approver not named)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Marguerite Ashdown approves express bespoke orders",
+   "gold": "no (only Marguerite Ashdown, the owner, may approve express bespoke orders; Teodor is the head milliner, not the owner)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0800 555 0172",
+   "gold": "0800 555 0172"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 3 days",
+   "gold": "within 3 days"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Odile Varga (£55 + £9 shipping = £64, above £60)",
+   "gold": "Odile Varga (55 + 9 shipping = 64 pounds, above the 60-pound limit)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "£9",
+   "gold": "9 pounds"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3 packets",
+   "gold": "3 bags"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no (the April 19 deadline covers only lettuce seeds borrowed before March 10)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes (the March 10 date limits only the lettuce seeds)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; family may return only for people 70+",
+   "gold": "no (proxy return is allowed only for residents aged 70 or older)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q5",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₩3,000",
+   "gold": "3,000 won (4,000 deposit minus 1,000 refund)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the exchange of 2 packets",
+   "gold": "only the exchange (store-bought seeds cannot be donated)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "010-4471-2286",
+   "gold": "010-4471-2286 (Han Seo-yun)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 1,
+   "answer": "2F auditorium",
+   "gold": "in the 2nd-floor hall of the community center"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; all compensation needs Caio",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Caio Mendes",
+   "gold": "Caio Mendes (the owner)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (over 10% needs approval; approver not named)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Renata Albuquerque",
+   "gold": "Renata Albuquerque (the store manager)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Caio approves wholesale orders over 50 kg",
+   "gold": "no (only Caio Mendes, the owner, may approve wholesale orders above 50 kg; Lauro is the master cheesemaker, not the owner)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "(31) 98877-4120",
+   "gold": "(31) 98877-4120"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1.5 kg",
+   "gold": "1.5 kg"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "R$245",
+   "gold": "R$ 245 (170 + 40 + 35 refrigerated shipping)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (above ₹400 needs approval; approver not named)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Sudha Mehra",
+   "gold": "Sudha Mehra (the owner)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Neha Joshi",
+   "gold": "Neha Joshi (the counter manager)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Sudha accepts purchase offers",
+   "gold": "no (only Sudha Mehra, the owner, may accept such offers; Imran is the head mechanic, not the owner)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹1,000",
+   "gold": "₹1,000"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹2,480",
+   "gold": "₹2,480 (600 + 1,700 + 180)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "98290 41736",
+   "gold": "98290 41736"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  }
+ ],
+ "summary": {
+  "llm05_r1": {
+   "all": [
+    34,
+    38
+   ],
+   "S": [
+    23,
+    24
+   ],
+   "F": [
+    11,
+    14
+   ],
+   "hop2": [
+    19,
+    22
+   ]
+  },
+  "llm066_r1": {
+   "all": [
+    35,
+    38
+   ],
+   "S": [
+    24,
+    24
+   ],
+   "F": [
+    11,
+    14
+   ],
+   "hop2": [
+    20,
+    22
+   ]
+  },
+  "mnc28_r1": {
+   "all": [
+    38,
+    38
+   ],
+   "S": [
+    24,
+    24
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    22,
+    22
+   ]
+  },
+  "mnc28_r2": {
+   "all": [
+    38,
+    38
+   ],
+   "S": [
+    24,
+    24
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    22,
+    22
+   ]
+  },
+  "mnc28x_r1": {
+   "all": [
+    38,
+    38
+   ],
+   "S": [
+    24,
+    24
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    22,
+    22
+   ]
+  },
+  "mnc28x_r2": {
+   "all": [
+    38,
+    38
+   ],
+   "S": [
+    24,
+    24
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    22,
+    22
+   ]
+  },
+  "original_r1": {
+   "all": [
+    38,
+    38
+   ],
+   "S": [
+    24,
+    24
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    22,
+    22
+   ]
+  },
+  "summ_r1": {
+   "all": [
+    38,
+    38
+   ],
+   "S": [
+    24,
+    24
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    22,
+    22
+   ]
+  },
+  "terse_r1": {
+   "all": [
+    38,
+    38
+   ],
+   "S": [
+    24,
+    24
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    22,
+    22
+   ]
+  },
+  "terse_r2": {
+   "all": [
+    38,
+    38
+   ],
+   "S": [
+    24,
+    24
+   ],
+   "F": [
+    14,
+    14
+   ],
+   "hop2": [
+    22,
+    22
+   ]
+  }
+ }
+}

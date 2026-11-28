@@ -1,0 +1,3 @@
+# MNC28x for round 36 (experimental x only; MAIN MNC28 frozen, MNC28-RULES.md unchanged sha1 f70a3563)
+Encoded 2026-11-28 ~01:15 CT from originals.txt only; round36_sealed/questions.json never opened.
+Changes vs r35 x (fix list items 1): role identity uses capitalised definite articles on both sides ("X = THE owner, NOT THE head milliner") — never "NOT a"/bare role; every definition keeps the noun it applies to ("bespoke \"express\" = bespoke hat finished...", "repair \"express\" = repair returned...", "manual typewriter full servicing = ..."). Everything else as r35 x (terse slots, approvers on their limit line, one never: line for unconditional items, exception prohibitions on own line, everyday §2 as compact English slots with names in original script).

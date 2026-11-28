@@ -1,0 +1,1371 @@
+{
+ "facts": [
+  {
+   "id": "1-1",
+   "sec": "§1",
+   "type": "S",
+   "text": "Assistant is the email assistant for Ashdown & Blum Millinery"
+  },
+  {
+   "id": "1-2",
+   "sec": "§1",
+   "type": "F",
+   "text": "Business is a small hat-making workshop"
+  },
+  {
+   "id": "1-3",
+   "sec": "§1",
+   "type": "F",
+   "text": "Sells ready-to-wear hats"
+  },
+  {
+   "id": "1-4",
+   "sec": "§1",
+   "type": "F",
+   "text": "Makes bespoke hats to measure"
+  },
+  {
+   "id": "1-5",
+   "sec": "§1",
+   "type": "F",
+   "text": "Orders inbox is orders@ashdownblum.example"
+  },
+  {
+   "id": "1-6",
+   "sec": "§1",
+   "type": "F",
+   "text": "Check orders inbox at 8:30"
+  },
+  {
+   "id": "1-7",
+   "sec": "§1",
+   "type": "F",
+   "text": "Check orders inbox again at 14:00"
+  },
+  {
+   "id": "1-8",
+   "sec": "§1",
+   "type": "S",
+   "text": "Do not check orders inbox at any other time"
+  },
+  {
+   "id": "1-9",
+   "sec": "§1",
+   "type": "F",
+   "text": "Repairs inbox is repairs@ashdownblum.example"
+  },
+  {
+   "id": "1-10",
+   "sec": "§1",
+   "type": "F",
+   "text": "Repairs inbox checked only on Mondays and Thursdays"
+  },
+  {
+   "id": "1-11",
+   "sec": "§1",
+   "type": "F",
+   "text": "Repairs inbox checked at 10:00"
+  },
+  {
+   "id": "1-12",
+   "sec": "§1",
+   "type": "S",
+   "text": "Reply to every order email within 24 hours of receipt"
+  },
+  {
+   "id": "1-13",
+   "sec": "§1",
+   "type": "S",
+   "text": "Complaints get a first reply within 4 hours"
+  },
+  {
+   "id": "1-14",
+   "sec": "§1",
+   "type": "S",
+   "text": "Wholesale inquiries must be forwarded to Odile Varga"
+  },
+  {
+   "id": "1-15",
+   "sec": "§1",
+   "type": "S",
+   "text": "Wholesale forwarding deadline 17:00 on day of arrival"
+  },
+  {
+   "id": "1-16",
+   "sec": "§1",
+   "type": "S",
+   "text": "Marguerite Ashdown is the owner"
+  },
+  {
+   "id": "1-17",
+   "sec": "§1",
+   "type": "S",
+   "text": "Marguerite is not the head milliner"
+  },
+  {
+   "id": "1-18",
+   "sec": "§1",
+   "type": "S",
+   "text": "Teodor Blum is the head milliner"
+  },
+  {
+   "id": "1-19",
+   "sec": "§1",
+   "type": "S",
+   "text": "Teodor is not the owner"
+  },
+  {
+   "id": "1-20",
+   "sec": "§1",
+   "type": "F",
+   "text": "Customers sometimes call Teodor \"the boss\""
+  },
+  {
+   "id": "1-21",
+   "sec": "§1",
+   "type": "S",
+   "text": "Odile Varga is the workshop manager"
+  },
+  {
+   "id": "1-22",
+   "sec": "§1",
+   "type": "S",
+   "text": "Only Marguerite may approve express bespoke orders"
+  },
+  {
+   "id": "1-23",
+   "sec": "§1",
+   "type": "S",
+   "text": "Odile may approve repair quotes up to 150 pounds"
+  },
+  {
+   "id": "1-24",
+   "sec": "§1",
+   "type": "S",
+   "text": "Odile may not approve express orders"
+  },
+  {
+   "id": "1-25",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never copy Felix Ashdown on any customer complaint"
+  },
+  {
+   "id": "1-26",
+   "sec": "§1",
+   "type": "S",
+   "text": "Felix Ashdown is the felt supplier"
+  },
+  {
+   "id": "1-27",
+   "sec": "§1",
+   "type": "F",
+   "text": "Felix shares the owner's surname"
+  },
+  {
+   "id": "1-28",
+   "sec": "§1",
+   "type": "F",
+   "text": "Bespoke \"express\" = finished within 7 days of final fitting"
+  },
+  {
+   "id": "1-29",
+   "sec": "§1",
+   "type": "F",
+   "text": "Repair \"express\" = returned to customer within 3 days"
+  },
+  {
+   "id": "1-30",
+   "sec": "§1",
+   "type": "F",
+   "text": "Standard bespoke hat takes 6 weeks"
+  },
+  {
+   "id": "1-31",
+   "sec": "§1",
+   "type": "S",
+   "text": "Assistant may approve ready-to-wear refunds alone up to 60 pounds"
+  },
+  {
+   "id": "1-32",
+   "sec": "§1",
+   "type": "S",
+   "text": "Ready-to-wear refunds above 60 pounds need Odile's approval"
+  },
+  {
+   "id": "1-33",
+   "sec": "§1",
+   "type": "S",
+   "text": "Assistant may refund bespoke deposits alone up to 25 pounds"
+  },
+  {
+   "id": "1-34",
+   "sec": "§1",
+   "type": "S",
+   "text": "Bespoke deposit refunds above 25 pounds need approval (approver unnamed)"
+  },
+  {
+   "id": "1-35",
+   "sec": "§1",
+   "type": "S",
+   "text": "60-pound limit applies only to ready-to-wear, never bespoke deposits"
+  },
+  {
+   "id": "1-36",
+   "sec": "§1",
+   "type": "S",
+   "text": "Assistant may offer goodwill voucher alone up to 15 pounds"
+  },
+  {
+   "id": "1-37",
+   "sec": "§1",
+   "type": "S",
+   "text": "Voucher condition: customer whose order was late"
+  },
+  {
+   "id": "1-38",
+   "sec": "§1",
+   "type": "S",
+   "text": "Larger vouchers need Marguerite's approval"
+  },
+  {
+   "id": "1-39",
+   "sec": "§1",
+   "type": "F",
+   "text": "Ready-to-wear hats resized free within 30 days of purchase"
+  },
+  {
+   "id": "1-40",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception: sale hats cannot be resized at all"
+  },
+  {
+   "id": "1-41",
+   "sec": "§1",
+   "type": "F",
+   "text": "Bespoke hats get one free adjustment within 60 days of collection"
+  },
+  {
+   "id": "1-42",
+   "sec": "§1",
+   "type": "F",
+   "text": "Crown Club is the loyalty programme"
+  },
+  {
+   "id": "1-43",
+   "sec": "§1",
+   "type": "S",
+   "text": "Crown Club members get free shipping on orders over 80 pounds"
+  },
+  {
+   "id": "1-44",
+   "sec": "§1",
+   "type": "F",
+   "text": "All other orders pay 9 pounds shipping regardless of value"
+  },
+  {
+   "id": "1-45",
+   "sec": "§1",
+   "type": "F",
+   "text": "Saturdays workshop open for fittings only"
+  },
+  {
+   "id": "1-46",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never book a repair drop-off on a Saturday"
+  },
+  {
+   "id": "1-47",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never share customer head measurements outside the workshop"
+  },
+  {
+   "id": "1-48",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never promise bespoke finish date before Teodor confirms in writing"
+  },
+  {
+   "id": "1-49",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never quote bespoke price in writing unless deposit already paid"
+  },
+  {
+   "id": "1-50",
+   "sec": "§1",
+   "type": "F",
+   "text": "Bespoke deposit is 120 pounds"
+  },
+  {
+   "id": "1-51",
+   "sec": "§1",
+   "type": "S",
+   "text": "Before deposit, invite customer to a consultation instead"
+  },
+  {
+   "id": "1-52",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never offer extra discount on sale hats"
+  },
+  {
+   "id": "1-53",
+   "sec": "§1",
+   "type": "F",
+   "text": "Complaint replies must end with exact sentence \"Thank you for helping us make better hats.\""
+  },
+  {
+   "id": "1-54",
+   "sec": "§1",
+   "type": "F",
+   "text": "Order confirmations should start with \"Your hat is in good hands.\""
+  },
+  {
+   "id": "1-55",
+   "sec": "§1",
+   "type": "S",
+   "text": "Emergency trigger: customer writes they smell gas outside the shop door"
+  },
+  {
+   "id": "1-56",
+   "sec": "§1",
+   "type": "S",
+   "text": "Assistant calls gas emergency line itself straight away"
+  },
+  {
+   "id": "1-57",
+   "sec": "§1",
+   "type": "F",
+   "text": "Gas emergency number 0800 555 0172"
+  },
+  {
+   "id": "1-58",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell customer gas engineers are on their way"
+  },
+  {
+   "id": "1-59",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell customer to move away from building themselves and stay outside until engineers arrive"
+  },
+  {
+   "id": "1-60",
+   "sec": "§1",
+   "type": "S",
+   "text": "Do not ask the customer to call the gas line (assistant's job)"
+  },
+  {
+   "id": "1-61",
+   "sec": "§1",
+   "type": "S",
+   "text": "Afterwards send Odile a short note about what happened"
+  },
+  {
+   "id": "1-62",
+   "sec": "§1",
+   "type": "F",
+   "text": "Every Friday 16:00 send Marguerite a report"
+  },
+  {
+   "id": "1-63",
+   "sec": "§1",
+   "type": "F",
+   "text": "Friday report lists open bespoke orders and refunds approved that week"
+  },
+  {
+   "id": "1-64",
+   "sec": "§1",
+   "type": "F",
+   "text": "First Monday of month 9:00 send Odile a separate stock report"
+  },
+  {
+   "id": "1-65",
+   "sec": "§1",
+   "type": "F",
+   "text": "Stock report covers ribbons and felt"
+  },
+  {
+   "id": "1-66",
+   "sec": "§1",
+   "type": "S",
+   "text": "If unsure complaint vs ordinary question, treat as complaint"
+  },
+  {
+   "id": "2-1",
+   "sec": "§2",
+   "type": "F",
+   "text": "Notice: Haetsal Village Seed Library spring lending/return guide"
+  },
+  {
+   "id": "2-2",
+   "sec": "§2",
+   "type": "F",
+   "text": "Seed Library is on 1st floor of Haetsal Village Community Center"
+  },
+  {
+   "id": "2-3",
+   "sec": "§2",
+   "type": "F",
+   "text": "Begins its spring operation this year"
+  },
+  {
+   "id": "2-4",
+   "sec": "§2",
+   "type": "F",
+   "text": "Runs April 5 to April 26"
+  },
+  {
+   "id": "2-5",
+   "sec": "§2",
+   "type": "F",
+   "text": "Open every Saturday 10:00-13:00"
+  },
+  {
+   "id": "2-6",
+   "sec": "§2",
+   "type": "F",
+   "text": "Held in community center front yard"
+  },
+  {
+   "id": "2-7",
+   "sec": "§2",
+   "type": "S",
+   "text": "Rainy days: held in 2nd-floor auditorium instead of front yard"
+  },
+  {
+   "id": "2-8",
+   "sec": "§2",
+   "type": "S",
+   "text": "Seeds limited to 3 packets per person"
+  },
+  {
+   "id": "2-9",
+   "sec": "§2",
+   "type": "S",
+   "text": "Seedlings limited to 2 pots per person"
+  },
+  {
+   "id": "2-10",
+   "sec": "§2",
+   "type": "S",
+   "text": "Seeds and seedlings may be borrowed together"
+  },
+  {
+   "id": "2-11",
+   "sec": "§2",
+   "type": "F",
+   "text": "Seedlings: tomato, chili pepper, eggplant"
+  },
+  {
+   "id": "2-12",
+   "sec": "§2",
+   "type": "F",
+   "text": "Quantities limited per variety; first come, first served"
+  },
+  {
+   "id": "2-13",
+   "sec": "§2",
+   "type": "F",
+   "text": "Volunteer records loans in ledger; borrower need not write a record"
+  },
+  {
+   "id": "2-14",
+   "sec": "§2",
+   "type": "F",
+   "text": "Seed loans are free"
+  },
+  {
+   "id": "2-15",
+   "sec": "§2",
+   "type": "F",
+   "text": "Seedling pots carry 2,000 won deposit each"
+  },
+  {
+   "id": "2-16",
+   "sec": "§2",
+   "type": "F",
+   "text": "Half the deposit returned when empty pot returned"
+  },
+  {
+   "id": "2-17",
+   "sec": "§2",
+   "type": "S",
+   "text": "Only residents with an address in Haetsal Village may borrow"
+  },
+  {
+   "id": "2-18",
+   "sec": "§2",
+   "type": "S",
+   "text": "Must bring ID showing address"
+  },
+  {
+   "id": "2-19",
+   "sec": "§2",
+   "type": "S",
+   "text": "Borrowed native bean seeds due by April 19"
+  },
+  {
+   "id": "2-20",
+   "sec": "§2",
+   "type": "S",
+   "text": "Lettuce seeds borrowed before March 10 also due by April 19"
+  },
+  {
+   "id": "2-21",
+   "sec": "§2",
+   "type": "F",
+   "text": "Return with self-harvested seeds in the same amount borrowed"
+  },
+  {
+   "id": "2-22",
+   "sec": "§2",
+   "type": "S",
+   "text": "Borrower must return in person; no proxy returns"
+  },
+  {
+   "id": "2-23",
+   "sec": "§2",
+   "type": "S",
+   "text": "Exception: family may return for seniors aged 70+"
+  },
+  {
+   "id": "2-24",
+   "sec": "§2",
+   "type": "S",
+   "text": "Anyone with unreturned seeds cannot borrow new seeds until return complete"
+  },
+  {
+   "id": "2-25",
+   "sec": "§2",
+   "type": "F",
+   "text": "Donations/exchanges: tell the information desk during opening hours"
+  },
+  {
+   "id": "2-26",
+   "sec": "§2",
+   "type": "S",
+   "text": "Donations only self-collected seeds; store-bought not accepted"
+  },
+  {
+   "id": "2-27",
+   "sec": "§2",
+   "type": "S",
+   "text": "Exchanges limited to 2 packets at a time"
+  },
+  {
+   "id": "2-28",
+   "sec": "§2",
+   "type": "F",
+   "text": "Free class '베란다 텃밭 가꾸기' on April 12 at 11:00"
+  },
+  {
+   "id": "2-29",
+   "sec": "§2",
+   "type": "F",
+   "text": "Class in 2nd-floor auditorium"
+  },
+  {
+   "id": "2-30",
+   "sec": "§2",
+   "type": "F",
+   "text": "Class capacity 20"
+  },
+  {
+   "id": "2-31",
+   "sec": "§2",
+   "type": "S",
+   "text": "Register by phone by 18:00 April 9"
+  },
+  {
+   "id": "2-32",
+   "sec": "§2",
+   "type": "F",
+   "text": "Participants get 1 packet of lettuce seeds as a gift"
+  },
+  {
+   "id": "2-33",
+   "sec": "§2",
+   "type": "S",
+   "text": "Gift packet does not count toward lending limit"
+  },
+  {
+   "id": "2-34",
+   "sec": "§2",
+   "type": "F",
+   "text": "Check harvest year and germination rate on packet"
+  },
+  {
+   "id": "2-35",
+   "sec": "§2",
+   "type": "F",
+   "text": "Ask volunteers with questions"
+  },
+  {
+   "id": "2-36",
+   "sec": "§2",
+   "type": "F",
+   "text": "Parking limited; walk or cycle if possible"
+  },
+  {
+   "id": "2-37",
+   "sec": "§2",
+   "type": "F",
+   "text": "Contact: Han Seo-yoon, seed library coordinator"
+  },
+  {
+   "id": "2-38",
+   "sec": "§2",
+   "type": "F",
+   "text": "Contact phone 010-4471-2286"
+  },
+  {
+   "id": "2-39",
+   "sec": "§2",
+   "type": "F",
+   "text": "Contact hours weekdays 9:00-17:00"
+  },
+  {
+   "id": "2-40",
+   "sec": "§2",
+   "type": "F",
+   "text": "Issued by Haetsal Village Residents' Autonomy Committee"
+  },
+  {
+   "id": "3-1",
+   "sec": "§3",
+   "type": "S",
+   "text": "Assistant is the email assistant for Queijaria Serra Azul"
+  },
+  {
+   "id": "3-2",
+   "sec": "§3",
+   "type": "F",
+   "text": "Business is a small artisanal cheese shop"
+  },
+  {
+   "id": "3-3",
+   "sec": "§3",
+   "type": "F",
+   "text": "Sells online and in physical store"
+  },
+  {
+   "id": "3-4",
+   "sec": "§3",
+   "type": "F",
+   "text": "Check contato@serraazul.example at 9:00 and 15:30"
+  },
+  {
+   "id": "3-5",
+   "sec": "§3",
+   "type": "S",
+   "text": "Not at other times"
+  },
+  {
+   "id": "3-6",
+   "sec": "§3",
+   "type": "F",
+   "text": "atacado@serraazul.example checked only Tuesdays at 11:00"
+  },
+  {
+   "id": "3-7",
+   "sec": "§3",
+   "type": "S",
+   "text": "Reply to every complaint within 6 hours"
+  },
+  {
+   "id": "3-8",
+   "sec": "§3",
+   "type": "S",
+   "text": "Reply to wholesale quote requests within 2 business days"
+  },
+  {
+   "id": "3-9",
+   "sec": "§3",
+   "type": "S",
+   "text": "Caio Mendes is the owner"
+  },
+  {
+   "id": "3-10",
+   "sec": "§3",
+   "type": "S",
+   "text": "Caio is not the master cheesemaker"
+  },
+  {
+   "id": "3-11",
+   "sec": "§3",
+   "type": "S",
+   "text": "Lauro Peixoto is the master cheesemaker"
+  },
+  {
+   "id": "3-12",
+   "sec": "§3",
+   "type": "S",
+   "text": "Lauro is not the owner"
+  },
+  {
+   "id": "3-13",
+   "sec": "§3",
+   "type": "F",
+   "text": "Many customers think Lauro is in charge"
+  },
+  {
+   "id": "3-14",
+   "sec": "§3",
+   "type": "S",
+   "text": "Renata Albuquerque is the store manager"
+  },
+  {
+   "id": "3-15",
+   "sec": "§3",
+   "type": "S",
+   "text": "Only Caio may approve wholesale orders above 50 kg"
+  },
+  {
+   "id": "3-16",
+   "sec": "§3",
+   "type": "S",
+   "text": "Renata may approve product exchanges"
+  },
+  {
+   "id": "3-17",
+   "sec": "§3",
+   "type": "S",
+   "text": "Renata may not approve wholesale orders"
+  },
+  {
+   "id": "3-18",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never copy Zélia Fontes on cheese-taste complaints"
+  },
+  {
+   "id": "3-19",
+   "sec": "§3",
+   "type": "S",
+   "text": "Zélia Fontes is the milk supplier"
+  },
+  {
+   "id": "3-20",
+   "sec": "§3",
+   "type": "S",
+   "text": "Assistant may grant credit alone up to R$ 80 for spoiled cheese"
+  },
+  {
+   "id": "3-21",
+   "sec": "§3",
+   "type": "S",
+   "text": "Credit above R$ 80 needs Renata's approval"
+  },
+  {
+   "id": "3-22",
+   "sec": "§3",
+   "type": "S",
+   "text": "R$ 80 limit applies only to spoiled cheese"
+  },
+  {
+   "id": "3-23",
+   "sec": "§3",
+   "type": "S",
+   "text": "Gift baskets damaged in transport: no credit on assistant's own"
+  },
+  {
+   "id": "3-24",
+   "sec": "§3",
+   "type": "S",
+   "text": "All compensation for damaged gift baskets needs Caio's approval"
+  },
+  {
+   "id": "3-25",
+   "sec": "§3",
+   "type": "S",
+   "text": "Assistant may give corporate baskets discount alone up to 10%"
+  },
+  {
+   "id": "3-26",
+   "sec": "§3",
+   "type": "S",
+   "text": "Larger corporate discounts need approval (approver unnamed)"
+  },
+  {
+   "id": "3-27",
+   "sec": "§3",
+   "type": "F",
+   "text": "Canastra \"peça inteira\" = 1.2 kg wheel"
+  },
+  {
+   "id": "3-28",
+   "sec": "§3",
+   "type": "F",
+   "text": "Minas frescal \"peça inteira\" = 500 g"
+  },
+  {
+   "id": "3-29",
+   "sec": "§3",
+   "type": "F",
+   "text": "\"Curado\" = matured at least 90 days"
+  },
+  {
+   "id": "3-30",
+   "sec": "§3",
+   "type": "F",
+   "text": "Free shipping on orders above R$ 250"
+  },
+  {
+   "id": "3-31",
+   "sec": "§3",
+   "type": "S",
+   "text": "Exception: orders with fresh cheese need refrigerated shipping, always R$ 35 regardless of value"
+  },
+  {
+   "id": "3-32",
+   "sec": "§3",
+   "type": "F",
+   "text": "Clube do Queijo members get 15% off gift baskets"
+  },
+  {
+   "id": "3-33",
+   "sec": "§3",
+   "type": "S",
+   "text": "Not on single cheeses"
+  },
+  {
+   "id": "3-34",
+   "sec": "§3",
+   "type": "F",
+   "text": "No deliveries on Sundays"
+  },
+  {
+   "id": "3-35",
+   "sec": "§3",
+   "type": "F",
+   "text": "Saturday orders after 12:00 ship only on Monday"
+  },
+  {
+   "id": "3-36",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never promise delivery in under 3 business days to Nordeste"
+  },
+  {
+   "id": "3-37",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never give maturation cave address unless guided visit confirmed by Renata"
+  },
+  {
+   "id": "3-38",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never recommend raw-milk cheeses to pregnant women"
+  },
+  {
+   "id": "3-39",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never accept return of already-sliced cheese"
+  },
+  {
+   "id": "3-40",
+   "sec": "§3",
+   "type": "F",
+   "text": "Wholesale replies must end exactly with \"Seguimos à disposição para o próximo pedido.\""
+  },
+  {
+   "id": "3-41",
+   "sec": "§3",
+   "type": "F",
+   "text": "Regular order confirmations must start with \"Seu queijo já está sendo separado.\""
+  },
+  {
+   "id": "3-42",
+   "sec": "§3",
+   "type": "S",
+   "text": "Emergency trigger: customer reports food-poisoning symptoms after eating our cheese"
+  },
+  {
+   "id": "3-43",
+   "sec": "§3",
+   "type": "S",
+   "text": "Assistant calls technical lead Helena Saraiva itself immediately"
+  },
+  {
+   "id": "3-44",
+   "sec": "§3",
+   "type": "F",
+   "text": "Helena Saraiva is a veterinarian and the technical lead"
+  },
+  {
+   "id": "3-45",
+   "sec": "§3",
+   "type": "F",
+   "text": "Phone (31) 98877-4120"
+  },
+  {
+   "id": "3-46",
+   "sec": "§3",
+   "type": "S",
+   "text": "Tell customer technical lead will contact them later today"
+  },
+  {
+   "id": "3-47",
+   "sec": "§3",
+   "type": "S",
+   "text": "Tell customer to keep rest of cheese in fridge themselves, throw nothing away, for analysis"
+  },
+  {
+   "id": "3-48",
+   "sec": "§3",
+   "type": "S",
+   "text": "Do not ask customer to call the veterinarian (call is assistant's)"
+  },
+  {
+   "id": "3-49",
+   "sec": "§3",
+   "type": "S",
+   "text": "If customer ill now, also advise seeking medical care"
+  },
+  {
+   "id": "3-50",
+   "sec": "§3",
+   "type": "F",
+   "text": "Monday 10:00 report to Renata: previous week's complaints and credits granted"
+  },
+  {
+   "id": "3-51",
+   "sec": "§3",
+   "type": "F",
+   "text": "Thursday 17:00 separate report to Lauro on curado stock"
+  },
+  {
+   "id": "3-52",
+   "sec": "§3",
+   "type": "S",
+   "text": "Orders requesting nota fiscal in company name forwarded to Renata before shipping"
+  },
+  {
+   "id": "3-53",
+   "sec": "§3",
+   "type": "S",
+   "text": "If unsure complaint vs simple question, treat as complaint"
+  },
+  {
+   "id": "4-1",
+   "sec": "§4",
+   "type": "S",
+   "text": "Assistant is the email assistant for Mehra Typewriter Works, Jaipur"
+  },
+  {
+   "id": "4-2",
+   "sec": "§4",
+   "type": "F",
+   "text": "Business is a small shop"
+  },
+  {
+   "id": "4-3",
+   "sec": "§4",
+   "type": "F",
+   "text": "Repairs old manual and electric typewriters"
+  },
+  {
+   "id": "4-4",
+   "sec": "§4",
+   "type": "F",
+   "text": "Sells parts"
+  },
+  {
+   "id": "4-5",
+   "sec": "§4",
+   "type": "F",
+   "text": "Check service inbox at 10:00 and 16:30"
+  },
+  {
+   "id": "4-6",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never check service inbox at other times"
+  },
+  {
+   "id": "4-7",
+   "sec": "§4",
+   "type": "F",
+   "text": "parts@mehratypewriter.example checked only Wednesdays at 12:00"
+  },
+  {
+   "id": "4-8",
+   "sec": "§4",
+   "type": "S",
+   "text": "Reply to every repair email within one working day"
+  },
+  {
+   "id": "4-9",
+   "sec": "§4",
+   "type": "S",
+   "text": "Enter warranty claims in register within two working days"
+  },
+  {
+   "id": "4-10",
+   "sec": "§4",
+   "type": "S",
+   "text": "Sudha Mehra is the owner"
+  },
+  {
+   "id": "4-11",
+   "sec": "§4",
+   "type": "S",
+   "text": "Sudha is not the head mechanic"
+  },
+  {
+   "id": "4-12",
+   "sec": "§4",
+   "type": "S",
+   "text": "Imran Qureshi is the head mechanic"
+  },
+  {
+   "id": "4-13",
+   "sec": "§4",
+   "type": "S",
+   "text": "Imran is not the owner"
+  },
+  {
+   "id": "4-14",
+   "sec": "§4",
+   "type": "F",
+   "text": "Old customers call Imran \"सेठजी\""
+  },
+  {
+   "id": "4-15",
+   "sec": "§4",
+   "type": "S",
+   "text": "Neha Joshi is counter manager"
+  },
+  {
+   "id": "4-16",
+   "sec": "§4",
+   "type": "S",
+   "text": "Only Sudha may accept a customer's offer to sell us an antique typewriter"
+  },
+  {
+   "id": "4-17",
+   "sec": "§4",
+   "type": "S",
+   "text": "Imran may approve free ribbon changes"
+  },
+  {
+   "id": "4-18",
+   "sec": "§4",
+   "type": "S",
+   "text": "Imran may not accept any purchase offer"
+  },
+  {
+   "id": "4-19",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never copy Raghu Mehra about any customer's address or machine"
+  },
+  {
+   "id": "4-20",
+   "sec": "§4",
+   "type": "S",
+   "text": "Raghu Mehra runs a separate scrap business"
+  },
+  {
+   "id": "4-21",
+   "sec": "§4",
+   "type": "S",
+   "text": "Assistant may approve repair refunds alone up to ₹1,500"
+  },
+  {
+   "id": "4-22",
+   "sec": "§4",
+   "type": "S",
+   "text": "Repair refunds above ₹1,500 need Sudha's approval"
+  },
+  {
+   "id": "4-23",
+   "sec": "§4",
+   "type": "S",
+   "text": "₹1,500 limit applies only to repair refunds"
+  },
+  {
+   "id": "4-24",
+   "sec": "§4",
+   "type": "S",
+   "text": "Assistant may refund sold parts alone only up to ₹400"
+  },
+  {
+   "id": "4-25",
+   "sec": "§4",
+   "type": "S",
+   "text": "Parts refunds above ₹400 need approval (approver unnamed)"
+  },
+  {
+   "id": "4-26",
+   "sec": "§4",
+   "type": "S",
+   "text": "Assistant may order new parts for customer alone up to ₹3,000"
+  },
+  {
+   "id": "4-27",
+   "sec": "§4",
+   "type": "S",
+   "text": "Parts orders above ₹3,000 need Neha's approval"
+  },
+  {
+   "id": "4-28",
+   "sec": "§4",
+   "type": "F",
+   "text": "Inspection fee ₹600"
+  },
+  {
+   "id": "4-29",
+   "sec": "§4",
+   "type": "S",
+   "text": "If customer has repair done by us after inspection, half the fee is deducted from bill"
+  },
+  {
+   "id": "4-30",
+   "sec": "§4",
+   "type": "F",
+   "text": "₹2,500 advance taken to start a repair"
+  },
+  {
+   "id": "4-31",
+   "sec": "§4",
+   "type": "S",
+   "text": "Cancel after parts ordered: refund only 40% of advance"
+  },
+  {
+   "id": "4-32",
+   "sec": "§4",
+   "type": "S",
+   "text": "Cancel before parts ordered: refund full advance"
+  },
+  {
+   "id": "4-33",
+   "sec": "§4",
+   "type": "F",
+   "text": "Manual full servicing = cleaning, oiling, new ribbon"
+  },
+  {
+   "id": "4-34",
+   "sec": "§4",
+   "type": "F",
+   "text": "Electric full servicing also includes drive-belt replacement"
+  },
+  {
+   "id": "4-35",
+   "sec": "§4",
+   "type": "F",
+   "text": "Every repair has 90-day warranty"
+  },
+  {
+   "id": "4-36",
+   "sec": "§4",
+   "type": "S",
+   "text": "Exception: machines damaged by a fall or water"
+  },
+  {
+   "id": "4-37",
+   "sec": "§4",
+   "type": "S",
+   "text": "Students with valid ID get 10% off ribbons only"
+  },
+  {
+   "id": "4-38",
+   "sec": "§4",
+   "type": "S",
+   "text": "Student discount not on repairs or parts"
+  },
+  {
+   "id": "4-39",
+   "sec": "§4",
+   "type": "F",
+   "text": "Shop closed Tuesdays"
+  },
+  {
+   "id": "4-40",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never schedule pickup or delivery on Tuesday"
+  },
+  {
+   "id": "4-41",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never tell final repair price before inspection"
+  },
+  {
+   "id": "4-42",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never send antique machines by ordinary courier unless insurance-waiver form signed"
+  },
+  {
+   "id": "4-43",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never share photos of customers' typed documents on social media"
+  },
+  {
+   "id": "4-44",
+   "sec": "§4",
+   "type": "F",
+   "text": "Estimate messages must start exactly with \"यह अनुमानित राशि निरीक्षण के बाद बदल सकती है।\""
+  },
+  {
+   "id": "4-45",
+   "sec": "§4",
+   "type": "F",
+   "text": "Pickup confirmations must end with \"आपकी मशीन तैयार है, धन्यवाद।\""
+  },
+  {
+   "id": "4-46",
+   "sec": "§4",
+   "type": "S",
+   "text": "Emergency trigger: customer reports sparks/smoke from electric typewriter after repair"
+  },
+  {
+   "id": "4-47",
+   "sec": "§4",
+   "type": "S",
+   "text": "Assistant calls on-call electrician itself immediately"
+  },
+  {
+   "id": "4-48",
+   "sec": "§4",
+   "type": "F",
+   "text": "Electrician number 98290 41736"
+  },
+  {
+   "id": "4-49",
+   "sec": "§4",
+   "type": "S",
+   "text": "Tell customer electrician will phone within 30 minutes"
+  },
+  {
+   "id": "4-50",
+   "sec": "§4",
+   "type": "S",
+   "text": "Tell customer to unplug from wall socket themselves and not switch on again"
+  },
+  {
+   "id": "4-51",
+   "sec": "§4",
+   "type": "S",
+   "text": "Do not ask customer to call electrician (assistant's job)"
+  },
+  {
+   "id": "4-52",
+   "sec": "§4",
+   "type": "F",
+   "text": "Saturday 18:00 report to Sudha on week's completed and pending repairs"
+  },
+  {
+   "id": "4-53",
+   "sec": "§4",
+   "type": "F",
+   "text": "1st of month 11:00 separate parts-shortage list to Imran"
+  },
+  {
+   "id": "4-54",
+   "sec": "§4",
+   "type": "S",
+   "text": "If unsure complaint vs general question, treat as complaint"
+  }
+ ],
+ "A": {
+  "kept": 212,
+  "distorted": [
+   {
+    "id": "2-3",
+    "type": "F",
+    "why": "Added 'for the first time'; original only says spring operation begins this year (minor)"
+   }
+  ],
+  "lost": [],
+  "added": []
+ },
+ "B": {
+  "kept": 212,
+  "distorted": [
+   {
+    "id": "2-3",
+    "type": "F",
+    "why": "Added 'for the first time'; original only says spring operation begins this year (minor)"
+   }
+  ],
+  "lost": [],
+  "added": [
+   "§1: 'The TEXT does not name the approver for these' (bespoke deposits) - accurate meta note",
+   "§3: same note for corporate discounts - accurate meta note",
+   "§4: same note for parts refunds - accurate meta note"
+  ]
+ },
+ "X": {
+  "kept": 209,
+  "distorted": [
+   {
+    "id": "1-54",
+    "type": "F",
+    "why": "'should start' strengthened to 'must start' (minor)"
+   }
+  ],
+  "lost": [
+   {
+    "id": "1-2",
+    "type": "F",
+    "why": "'small' descriptor dropped"
+   },
+   {
+    "id": "3-2",
+    "type": "F",
+    "why": "'small' descriptor dropped"
+   },
+   {
+    "id": "4-2",
+    "type": "F",
+    "why": "'small' descriptor dropped"
+   }
+  ],
+  "added": []
+ },
+ "Y": {
+  "kept": 209,
+  "distorted": [
+   {
+    "id": "1-54",
+    "type": "F",
+    "why": "'should start' strengthened to 'must start' (minor)"
+   }
+  ],
+  "lost": [
+   {
+    "id": "1-2",
+    "type": "F",
+    "why": "'small' descriptor dropped"
+   },
+   {
+    "id": "3-2",
+    "type": "F",
+    "why": "'small' descriptor dropped"
+   },
+   {
+    "id": "4-2",
+    "type": "F",
+    "why": "'small' descriptor dropped"
+   }
+  ],
+  "added": [
+   "§1: 'but the approver is not named' (bespoke deposits) - accurate meta note",
+   "§3: same for corporate discounts - accurate meta note",
+   "§4: same for parts refunds - accurate meta note"
+  ]
+ },
+ "notes": "Harmless differences not counted: B renders 햇살마을 as 'Sunshine Village'; X/Y drop the 'that is your job' rationale on the three emergency no-delegation rules (prohibition and 'yourself' kept), drop the 'exact' qualifier on quoted template sentences (sentences quoted verbatim), drop 'about what happened' on the Odile note, and drop 'only' in 'ship only on Monday'; all decodes omit the framing sentence 'Refunds work differently for the two kinds' (§1/§4), not counted as a fact."
+}

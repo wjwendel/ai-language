@@ -1,0 +1,26 @@
+{
+ "mnc28x_r1": {
+  "§2.q8": [
+   1,
+   "shared scorer fix: \"2F\" is the standard abbreviation of 2nd floor (2층); accept regex missed it"
+  ]
+ },
+ "mnc28x_r2": {
+  "§2.q8": [
+   1,
+   "shared scorer fix: \"2F\" is the standard abbreviation of 2nd floor (2층); accept regex missed it"
+  ]
+ },
+ "terse_r1": {
+  "§2.q8": [
+   1,
+   "shared scorer fix: \"2F\" is the standard abbreviation of 2nd floor (2층); accept regex missed it"
+  ]
+ },
+ "terse_r2": {
+  "§2.q8": [
+   1,
+   "shared scorer fix: \"2F\" is the standard abbreviation of 2nd floor (2층); accept regex missed it"
+  ]
+ }
+}

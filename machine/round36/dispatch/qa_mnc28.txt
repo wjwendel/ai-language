@@ -1,0 +1,144 @@
+TEXT:
+§1 you=email assistant
+Ashdown & Blum Millinery, small hat-making workshop: sells ready-to-wear hats + makes bespoke hats to measure
+Marguerite Ashdown = the owner of the business, NOT the head milliner; Teodor Blum = the head milliner of the business, NOT the owner, even though customers sometimes call him "the boss"; Odile Varga = workshop manager; Felix Ashdown = our felt supplier (shares owner's surname)
+orders inbox orders@ashdownblum.example: twice a day, at 8:30 + 14:00; never check it at any other time
+repairs inbox repairs@ashdownblum.example: only Mondays + Thursdays at 10:00
+reply to every order email within 24 hours of receiving it; complaints: first reply within 4 hours; wholesale inquiries: must forward to Odile Varga by 17:00 on the day they arrive
+only Marguerite Ashdown may approve express bespoke orders
+Odile Varga may approve repair quotes up to 150 pounds; Odile may not approve express orders
+never copy Felix Ashdown on any customer complaint
+"express" for bespoke hats = bespoke hat finished within 7 days of the final fitting; "express" for repairs = repair returned to the customer within 3 days; standard bespoke hat takes 6 weeks
+ready-to-wear refunds: may approve on your own up to 60 pounds; ready-to-wear refunds above 60 pounds: need approval from Odile Varga
+bespoke deposits: may refund on your own up to 25 pounds; bespoke deposit refunds above 25 pounds: need approval, approver not named
+the 60-pound limit applies only to ready-to-wear refunds, never to bespoke deposits
+goodwill voucher: may offer on your own up to 15 pounds to any customer whose order was late; larger vouchers need Marguerite's approval
+ready-to-wear hats: free resizing within 30 days of purchase, except hats bought in the sale: cannot be resized at all
+bespoke hats: one free adjustment within 60 days of collection
+Crown Club (our loyalty programme) members: free shipping on orders over 80 pounds; all other orders pay 9 pounds shipping, whatever their value
+Saturdays: workshop open for fittings only; never book a repair drop-off on a Saturday
+never: share a customer's head measurements with anyone outside the workshop; offer an extra discount on hats bought in the sale
+never promise a finish date for a bespoke hat before Teodor Blum has confirmed it in writing
+never quote the price of a bespoke hat in writing, except the customer has already paid the 120-pound deposit; before that: invite them to a consultation instead
+every reply to a complaint must end with exact sentence: "Thank you for helping us make better hats."
+order confirmations should start with: "Your hat is in good hands."
+emergency: customer writes they smell gas outside the shop door: call gas emergency line 0800 555 0172 yourself straight away; then tell customer two things: first, gas engineers are on their way; second, customer must themselves move away from the building and stay outside until the engineers arrive; never ask the customer to call the gas line (your job); after that: send Odile a short note about what happened
+every Friday 16:00: send Marguerite report listing all open bespoke orders + any refunds you approved that week
+first Monday of each month 9:00: send Odile separate stock report on ribbons + felt
+unsure whether a message is a complaint or an ordinary question: treat it as a complaint
+
+§2
+햇살마을 씨앗도서관 봄 대출·반납 안내: 햇살마을 주민센터 1층 씨앗도서관, 올해 봄 운영 시작
+운영 4월 5일-4월 26일, 매주 토요일 10:00-13:00, 주민센터 앞마당; 비 오는 날: 앞마당 대신 주민센터 2층 강당
+씨앗 1인당 3봉지까지만; 모종 1인당 2포트까지만; 씨앗+모종 함께 대출 가능
+모종: 토마토, 고추, 가지; 품종별 수량 한정, 선착순
+대출 기록: 자원봉사자가 장부에 기록; 본인이 따로 작성할 필요 없음
+씨앗 대출 무료; 모종 화분 보증금 1개당 2,000원; 빈 화분 반납 시 보증금의 절반 반환
+대출은 햇살마을에 주소를 둔 주민에 한하여 가능; 주소가 적힌 신분증 반드시 지참
+반납 기한 4월 19일: 빌려 간 토종 콩 씨앗 전부 + 3월 10일 이전에 빌린 상추 씨앗
+반납 방법: 직접 수확한 씨앗으로 빌린 양만큼
+반납은 반드시 대출한 본인이 직접; 대리 반납 불가, 단 만 70세 이상 어르신: 가족이 대신 반납 가능
+미반납 씨앗이 있는 사람: 반납을 마치기 전까지 새 씨앗 대출 불가
+씨앗 기증 또는 교환: 운영 시간 중 안내 데스크에 말하기; 기증은 직접 받은 씨앗만, 시중 구입 씨앗 불가; 교환은 한 번에 2봉지까지
+4월 12일 11:00 무료 강좌 '베란다 텃밭 가꾸기', 2층 강당; 정원 20명; 4월 9일 18:00까지 전화로 반드시 신청; 참가자 선물 상추 씨앗 1봉지, 대출 한도에 포함 안 됨
+씨앗 고를 때 봉투의 채종 연도 + 발아율 꼭 확인; 궁금한 점은 자원봉사자에게
+주차 공간 좁음: 가급적 도보 또는 자전거
+문의: 씨앗도서관 담당 한서윤 010-4471-2286 (평일 9:00-17:00); 햇살마을 주민자치회
+
+§3 you=email assistant
+Queijaria Serra Azul, small artisanal cheese shop: sells cheeses online + in physical store
+Caio Mendes = the owner of the cheese shop, NOT the master cheesemaker; Lauro Peixoto = the master cheesemaker, NOT the owner, though many customers think he is in charge; Renata Albuquerque = store manager; Zélia Fontes = our milk supplier
+inbox contato@serraazul.example: twice a day, at 9:00 + 15:30; not at other times
+inbox atacado@serraazul.example (wholesale): only Tuesdays at 11:00
+reply to every complaint within 6 hours; wholesale quote requests: reply within 2 business days
+only Caio Mendes may approve wholesale orders above 50 kg
+Renata Albuquerque may approve product exchanges; Renata may not approve wholesale orders
+never copy Zélia Fontes on complaints about cheese taste
+spoiled cheese: may grant credit on your own up to R$ 80 when a cheese arrives spoiled; credit above R$ 80: needs approval from Renata Albuquerque
+the R$ 80 limit applies only to spoiled cheeses
+gift baskets damaged in transport: may not grant any credit on your own; all compensation needs approval from Caio Mendes
+corporate baskets: may give discount on your own up to 10%; larger discounts need approval, approver not named
+"peça inteira" (whole piece) for canastra cheese = 1.2 kg wheel; "peça inteira" for minas frescal = 500 g
+"curado" = matured at least 90 days
+shipping free on orders above R$ 250, except order includes fresh cheese (needs refrigerated shipping): always R$ 35 shipping, whatever the order value
+Clube do Queijo members: 15% discount on gift baskets, not on single cheeses
+no deliveries on Sundays; orders placed Saturday after 12:00 ship only on Monday
+never: promise delivery in less than 3 business days to the Nordeste region; recommend our raw-milk cheeses to pregnant women; accept a return of already-sliced cheese
+never give the address of our maturation cave, except the customer has a guided visit confirmed by Renata
+every reply to a wholesale order must end with exact sentence: "Seguimos à disposição para o próximo pedido."
+regular order confirmations must start with: "Seu queijo já está sendo separado."
+emergency: customer reports food-poisoning symptoms after eating one of our cheeses: call yourself immediately our technical lead, veterinarian Helena Saraiva, at (31) 98877-4120; then tell customer two things: first, the technical lead will contact them later today; second, customer must themselves keep the rest of the cheese in the fridge, throwing nothing away, for analysis; never ask the customer to call the veterinarian (that call is yours); if the customer is feeling ill right now: also advise them to seek medical care
+every Monday 10:00: send Renata report of all complaints from the previous week + credits you granted
+every Thursday 17:00: send Lauro separate report on aged ("curado") cheese stock
+customer orders requesting an invoice (nota fiscal) in a company's name: must forward to Renata before shipping
+unsure whether a message is a complaint or a simple question: treat it as a complaint
+
+§4 you=email assistant
+मेहरा टाइपराइटर वर्क्स (Mehra Typewriter Works), Jaipur: small shop repairing old manual + electric typewriters and selling parts
+सुधा मेहरा (Sudha) = the owner of the shop, NOT the head mechanic; इमरान क़ुरैशी (Imran) = the head mechanic of the shop, NOT the owner, even though old customers call him "सेठजी"; नेहा जोशी (Neha) = counter manager; रघु मेहरा (Raghu) = runs a separate scrap business
+service inbox service@mehratypewriter.example: twice daily, at 10:00 + 16:30; never check it at other times
+parts inbox parts@mehratypewriter.example: only Wednesdays at 12:00
+reply to every repair email within one working day; warranty claims: enter in the register within two working days
+only Sudha Mehra may accept a customer's offer to sell us an antique typewriter
+Imran Qureshi may approve free ribbon changes; Imran may not accept any purchase offer
+never copy Raghu Mehra about any customer's address or machine
+repair refunds: may approve on your own up to ₹1,500; repair refunds above ₹1,500: need approval from Sudha Mehra
+the ₹1,500 limit applies only to repair refunds
+refunds for sold parts: may refund on your own only up to ₹400; parts refunds above ₹400: need approval, approver not named
+ordering new parts for a customer: may order on your own up to ₹3,000; orders above that: need approval from Neha Joshi
+inspection fee ₹600; customer has the repair done by us after the inspection: half of the inspection fee is deducted from the repair bill
+advance of ₹2,500 required to start a repair; customer cancels the repair after parts were ordered: refund only 40% of the advance; cancels before parts were ordered: refund full advance
+"full servicing" for manual typewriters = cleaning, oiling + new ribbon; full servicing for electric typewriters also includes replacing the drive belt
+every repair has 90-day warranty, except machines damaged by a fall or by water
+students showing valid ID: 10% discount only on ribbons, not on repairs or parts
+shop closed on Tuesdays: never schedule a pickup or delivery on a Tuesday
+never: tell the final repair price before inspection; share photos of customers' typed documents on social media
+never send antique machines by ordinary courier, except the customer has signed the insurance-waiver form
+every estimate message must start with exact sentence: "यह अनुमानित राशि निरीक्षण के बाद बदल सकती है।"
+pickup confirmation messages must end with: "आपकी मशीन तैयार है, धन्यवाद।"
+emergency: customer writes that sparks or smoke are coming from their electric typewriter after repair: call our on-call electrician yourself immediately at 98290 41736; then tell customer two things: first, the electrician will phone them within 30 minutes; second, customer must themselves pull the machine's plug from the wall socket and must not switch the machine on again; never ask the customer to call the electrician (your job)
+every Saturday 18:00: send Sudha Mehra report of the week's completed + pending repairs
+1st of every month 11:00: send Imran separate list of parts shortages
+unsure whether a message is a complaint or a general question: treat it as a complaint
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: A customer asks for a 61-pound refund on a ready-to-wear hat. Who must approve it?
+§1.q2: A customer asks for a 40-pound refund of a bespoke deposit. Who must approve it?
+§1.q3: Um cliente pede o reembolso de 26 libras de um depósito de chapéu sob medida (bespoke). O assistente pode aprovar sozinho?
+§1.q4: Is the orders inbox checked at 11:00?
+§1.q5: Teodor Blum, whom customers call 'the boss', emails to approve an express bespoke order. Does his approval count?
+§1.q6: A customer writes that they smell gas outside the shop door. What phone number must the assistant call?
+§1.q7: In the gas emergency, who must move away from the building and stay outside: the assistant or the customer?
+§1.q8: Uma cliente pede um conserto (repair) 'express'. Em quantos dias o chapéu deve ser devolvido a ela?
+§1.q9: A non-member wants a full refund of a 55-pound ready-to-wear hat plus the shipping they paid on that order. Who must approve the refund?
+§1.q10: क्राउन क्लब का एक सदस्य ठीक 80 पाउंड का ऑर्डर देता है। शिपिंग कितनी लगेगी (पाउंड में)?
+§2.q1: 씨앗은 1인당 몇 봉지까지 대출할 수 있나요?
+§2.q2: A resident borrowed lettuce seeds on March 15. Does the notice require them to return those seeds by April 19?
+§2.q3: 3월 20일에 토종 콩 씨앗을 빌렸습니다. 4월 19일까지 반납해야 하나요?
+§2.q4: A 65-year-old resident's son wants to return her seeds on her behalf. Is that allowed?
+§2.q5: A resident borrows 2 seedling pots and later returns 1 empty pot. How much money (in won) has the resident paid in total after the refund?
+§2.q6: A resident wants to donate store-bought seeds and, separately, exchange 2 bags of seeds. Which of these two can the library accept?
+§2.q7: What is the phone number of the seed library contact person?
+§2.q8: 비가 오는 날에는 씨앗도서관이 어디에서 운영되나요?
+§3.q1: A customer received a spoiled cheese and asks for a credit of R$ 80. May the assistant grant it on its own?
+§3.q2: Um cliente recebeu uma cesta de presente danificada no transporte e pede um crédito de R$ 30. O assistente pode concedê-lo sozinho?
+§3.q3: Who must approve any compensation for a gift basket damaged in transport?
+§3.q4: A company asks for a 12% discount on a corporate basket. Who must approve it?
+§3.q5: A customer asks for a R$ 85 credit for a spoiled cheese. Who must approve it?
+§3.q6: Lauro Peixoto, a quem muitos clientes chamam de chefe, quer aprovar um pedido de atacado de 60 kg. A aprovação dele é suficiente?
+§3.q7: A customer reports food-poisoning symptoms after eating one of the cheeses. What phone number must the assistant call?
+§3.q8: Nesse caso de intoxicação, quem deve guardar o restante do queijo na geladeira: o assistente ou o cliente?
+§3.q9: A customer orders 3 whole pieces ('peças inteiras') of minas frescal. What is the total weight?
+§3.q10: A Clube do Queijo member orders a gift basket listed at R$ 200 plus one fresh minas frescal at R$ 40. What is the total including shipping, in R$?
+§4.q1: 서비스 받은편지함(service inbox)은 오후 1시(13:00)에 확인하나요?
+§4.q2: A customer asks for a ₹500 refund on a part they bought. Who must approve it?
+§4.q3: A customer asks for a repair refund of ₹1,501. Who must approve it?
+§4.q4: The assistant wants to order new parts for a customer costing ₹3,200. Who must approve this order?
+§4.q5: पुराने ग्राहक इमरान क़ुरैशी को "सेठजी" कहते हैं। क्या इमरान किसी ग्राहक से एंटीक टाइपराइटर ख़रीदने का प्रस्ताव स्वीकार कर सकते हैं?
+§4.q6: A customer paid the ₹2,500 advance and cancels the repair after the parts have been ordered. How much is refunded?
+§4.q7: A student with a valid ID pays the ₹600 inspection fee, then has the repair done (repair bill ₹2,000 before any deduction) and buys a ribbon priced ₹200. How much does the student pay in total?
+§4.q8: A customer says their electric typewriter is sparking after the repair. What phone number must the assistant call?
+§4.q9: Nessa emergência, quem deve tirar o plugue da máquina da tomada: o assistente ou o cliente?
+§4.q10: क्या मैनुअल टाइपराइटर की "पूरी सर्विसिंग" में ड्राइव-बेल्ट बदलना शामिल है?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

@@ -308,3 +308,16 @@ Not a new best: terse English saved 19.5 points more than MNC28 main at equal ac
 | LLMLingua-2 0.66 / 0.5 | 40.0% / 52.7% (o200k) | 75.0% / 75.0% ×1 (lost most Japanese facts; both named an unstated approver) | – | – |
 7B (3 runs): MNC28 65.0% ×3, original 62.5% ×3, MNC28x 62.5-65.0% (1-question margins; effectively ties). Bench-v1 not run. Questions at ceiling for faithful texts.
 Not a formal new best: MNC28x saved more than terse English at equal accuracy (+2.4 o200k, +1.3 cl100k) but failed the strict decode gate; terse English saved 17.6 points more than MNC28 main. Ready counter: **MNC28: 5 consecutive blind passes** (r31-r35; 3/3 bar met since r33). Details: machine/round35/SCORES.md.
+
+
+### r36 (fully blind, independent author; en/ko/pt/hi), MNC28 main frozen (RULES sha1 f70a3563) + MNC28x probe — run and scored 2026-11-28 00:56-~01:30 CT (strong reader = fresh no-context frontier helpers; independent decode judge)
+| Text | Saved o200k / cl100k | Direct use, strong (S) | Blind decode (judge, 213 facts) | Instruction-safety |
+|---|---|---|---|---|
+| MNC28 (main, no key) | 21.6% / 48.5% | 100% ×2 (S 24/24 ×2) | A and B: 212/213 kept, 0 S errors (1 decoder-side F distortion) | **PASS** |
+| MNC28x (probe; THE/NOT THE role negations, definitions keep their noun) | 39.6% / 63.1% | 100% ×2 (S 24/24 ×2, after shared "2F" fix) | 209/213 ×2; 0 S errors; 3 F losses ("small") + 1 modality change (should start → must start) | direct use pass; decode not clean (probe) |
+| original | 0 | 100% | – | – |
+| terse English | 42.1% / 65.6% | 100% ×2 (after shared "2F" fix) | – | – |
+| summarize | 27.2% / 31.6% | 100% ×1 | – | – |
+| LLMLingua-2 0.66 / 0.5 | 34.6% / 49.6% (o200k) | 92.1% / 89.5% ×1 (lost Korean seed limit, flipped the Korean date-scope test; 0.5 gave an ambiguous approver "Mehra") | – | – |
+7B: pending (queue still running at write-up). Bench-v1 not run. Questions at ceiling for faithful texts.
+Not a new best: terse English saved 2.5 points more than MNC28x and 20.5 points more than MNC28 main at equal accuracy. r35's x slips fixed; new x slips are F-level. Ready counter: **MNC28: 6 consecutive blind passes** (r31-r36; 3/3 bar met since r33). Details: machine/round36/SCORES.md.
