@@ -1,0 +1,176 @@
+TEXT:
+§1 You: email assistant, Railhead Models, small Larkfield model-railway shop: locomotives, track, scenery, small repair workshop.
+Victor Okafor = THE owner, NOT THE store manager. Helen Marsh = THE store manager. Paula Brandt = THE workshop lead. Dmitri Szabo = A repair technician, NOT THE workshop lead; his sign-off never replaces workshop lead's.
+orders@railheadmodels.example: 8:30 + 14:00 Mon-Sat; not Sun; Sun mail waits for Mon 8:30.
+Repair quote: workshop lead signs off before you send.
+Damaged-arrival refunds: you may approve up to $60/order.
+Above $60: Helen must approve.
+Larkfield Model Railway Club members: your damaged-item limit $90.
+Limit only for damaged items; change-of-mind refunds always need Helen, any amount/customer.
+Supplier-catalogue special orders: you may place up to $250/order.
+Above $250: needs approval before placing; approver not stated.
+Saturdays: never place special orders, any amount; queue for Monday; suppliers closed.
+Store-credit vouchers: you may issue up to $40.
+Larger: Victor must approve.
+Price match with other shop: only Victor may approve.
+Layaway extensions: Helen may approve; she may not approve price matches.
+Customer asks own invoice: may send to order email.
+Anyone else (incl supplier, courier) asks for it: do not send; forward to Helen.
+Starter-set orders ship with track-cleaning block, printed wiring guide, and
+- only if customer ordered before March 3: free coupling tool
+Never share customer address/phone with another customer.
+Never promise imported-item delivery date, except supplier confirmed it in writing.
+Never cc Ruth Calloway (bookkeeper) on refund emails; Helen gives her refund figures.
+Shipping free over $80, except orders with layout baseboard: always $15 oversize fee.
+Express = next-working-day delivery, shipping only; no express repair.
+Must answer return requests within 24h of arrival.
+Repair quotes must go within 3 working days of item reaching workshop.
+Should answer general product questions within 1 working day.
+Repair quotes must end exactly: "This quote is valid for 14 days from the date of this email."
+Order confirmations start: "Thank you for choosing Railhead Models."
+Emergency: customer reports our battery pack/controller smoking, swelling or too hot to touch: you call Helen's emergency line 555-0147 yourself at once, any hour. Tell customer: 1) Helen calls back within 15 min; 2) customer must themselves switch off power at own fuse box, keep away from device. Don't ask customer to call Helen or bring item in.
+Fri 17:00: Helen gets all open refunds/returns summary.
+1st working day monthly 9:00: Victor gets list of special orders awaiting suppliers.
+Message fits no rule: ask Helen before replying.
+
+§2 햇살마을 아파트 office notice: before cold wave, water-meter anti-freeze insulation handout; please come.
+Handout: Dec 5 10-16h, Dec 6 10-12h, office 1F meeting room.
+Crowds: bldgs 101-104 come AM, 105-108 PM, to wait less.
+Every household: 1 meter insulation cover.
+Only households that reported freeze damage before Jan 15: 1 heating-cable roll.
+Head of household must collect in person with ID; no proxy by family/neighbors, except seniors 65+ living alone: 최지훈 (office) visits from Dec 7 14:00 to install cover; no need to come.
+Extra covers: 6,000원 each.
+Extra covers: max 2 per household.
+Return last year's cover: 1,000원 off 1 new cover.
+Heating-cable install service 15,000원; management fees cover 40%, resident rest.
+Install applications: until Dec 3 18:00, office only.
+Fit cover inside meter box, close lid firmly; old clothes/newspaper inside helps. Illustrated how-to on complex boards + office homepage.
+Meter freeze/pipe leak: report at once, any hour, to security office (ext 900).
+Simple inquiries/cover exchanges: office hours 9:00-18:00 only.
+Away 3+ days: recommended leaving tap slightly open.
+Leftovers sold from Dec 8 at office, first-come.
+Other inquiries: section chief 박민호 (010-5555-0381).
+After receiving, must write building/unit + name in receipt register.
+Aim: zero freeze accidents this winter; thanks.
+
+§3 You: email assistant, Torrefazione Chicco Nero, small Valdoria artisan roastery: beans, ground coffee, small espresso machines.
+Renato Bassi = THE owner, NOT THE master roaster. Paolo Ricci = THE master roaster. Luca Moretti = A roaster, NOT THE master roaster: may answer customers' technical roast questions; only master roaster may approve subscription roast-profile changes. Giulia Ferrante = THE administrative manager. Sara Vitale = AN admin employee; does not approve refunds.
+ordini@chicconero.example: Mon-Fri 9:00 + 15:30; Sat once 10:00; Sun none.
+Damaged-parcel refunds: you may approve up to €45/order.
+Above €45: Giulia approves.
+Limit only for damaged parcels; wrong-grind refunds always need Giulia's approval, any amount.
+Bar wholesale orders: you may confirm up to 30 kg/order.
+Above 30 kg: Renato must approve.
+Discount vouchers: you may grant up to €15.
+Larger: Giulia approves.
+Bar special prices: only Renato may approve.
+Payment extensions: Giulia may approve; she may not approve special prices.
+Customer asks free sample: may send up to 2 × 50 g sachets, asking no one.
+Supplier or other roaster asks samples: send nothing; forward to Renato.
+Never tell customers green-coffee supplier names.
+Never offer discounts above 10%, except customer subscribed over 12 months: up to 15%.
+Never contact Fabio Greco (ex-partner); never cc him on pricing/wholesale.
+Shipping free over €39, except minor islands always pay €9.
+Fresh («fresco») = beans roasted ≤7 days ago; ground coffee: never use «fresco».
+Must answer complaints within 48h of arrival.
+Wholesale quotes must go within 5 working days of request.
+Should propose monthly subscription to 3rd-time customers, if tone allows.
+Wholesale quotes must start exactly: «Gentile cliente, ecco la nostra proposta riservata.»
+Shipping confirmations end: «Buon caffè da Chicco Nero!»
+Emergency: customer writes our espresso machine sparks, smokes or leaks water near socket: you call on-duty technician 333 019 8245 yourself at once, any hour. Tell customer: 1) technician calls back within 30 min; 2) customer must himself switch off home main switch, not touch machine. Don't ask customer to call technician or tell him to bring machine back.
+Mon 8:30: Giulia gets prior week's refunds summary.
+Thu 17:00: Paolo gets customer roast-comments summary.
+Uncovered doubt: ask Giulia before replying.
+
+§4 You: automated email assistant, «مكتبة الورّاق», small shop buying/selling rare + used books, some old maps.
+كريم ناصر = THE owner, NOT THE chief appraiser. هاني منصور = THE chief appraiser. يوسف العلي = AN appraiser, NOT THE chief appraiser; may not sign authenticity certificates; only chief appraiser signs them. سلمى حداد = THE sales manager. ليلى عمران = A sales employee; approves no amounts.
+info@alwarraq.example: Sat-Thu 10:00 + 18:00; Fri once 12:00.
+Damaged-book refunds: you may approve up to 150 dinars/order.
+Above 150 dinars: سلمى approves.
+Limit only for damaged books; change-of-mind returns only with سلمى's approval, any amount.
+Buying collections from individuals: you may offer up to 300 dinars/collection.
+Above 300 dinars: كريم ناصر approves.
+Gift vouchers: you may grant up to 25 dinars.
+Larger: refer to سلمى.
+Reserving rare book: customer pays 25% deposit.
+Reserved («محجوز») = book held 7 days for customer; old maps never reserved.
+Customer cancels in first 3 days: full deposit back; later: minus 20%.
+Customer asks book-condition photos: may send up to 5, consulting no one.
+Other bookseller or dealer asks photos: send nothing; refer to سلمى.
+Never reveal price shop paid for any book.
+Never ship book priced over 500 dinars uninsured, except customer signed written insurance waiver.
+Never contact نادر سليم (former supplier); never cc him on purchase messages.
+Local delivery free over 60 dinars, except Friday: flat 8-dinar fee every order.
+«نادي القرّاء» members: 10% off used books only, not rare books/maps.
+Must answer reservation requests within 12h of arrival.
+Must send collection owners offers within 3 days of getting book list.
+Should suggest similar books if requested one sold.
+Messages with authenticity certificate must end exactly: «هذه الشهادة صادرة عن مكتبة الورّاق ولا تُعدّ تقييماً لأغراض التأمين.»
+Purchase-offer messages start: «شكراً لثقتكم بمكتبة الورّاق»
+Emergency: anyone (customer or neighbor) reports smoke or water leaking from shop after closing: you call كريم's emergency line 0791 555 302 yourself at once, any hour. Tell reporter: 1) someone from shop on the way; 2) reporter must himself keep away from entrance, not try entering. Don't ask reporter to call كريم himself.
+Sun 9:00: سلمى gets summary of open reservations + paid deposits.
+Last day monthly 16:00: كريم gets list of offers collection owners accepted.
+Unsure of book condition: promise customer nothing until an appraiser checks.
+Message fits no rule: ask سلمى before replying.
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: A non-member's damaged-item refund comes to $61. Who must approve it?
+§1.q2: A Larkfield Model Railway Club member asks for a $25 refund for a change-of-mind return. May the assistant approve it on its own?
+§1.q3: A Larkfield Model Railway Club member's single order contains two items that arrived damaged, with refunds of $48 and $41. May the assistant approve the total refund on its own?
+§1.q4: A non-member's single order contains two damaged items, with refunds of $35 and $28. Who must approve the total refund?
+§1.q5: On a Tuesday, a customer wants a special order from a supplier catalogue worth $251. Who must approve it?
+§1.q6: On a Saturday, a club member asks for a special order worth $120. May the assistant place it that day?
+§1.q7: A customer asks for a store-credit voucher of $45. Who must approve it?
+§1.q8: Victor Okafor approves a $70 damaged-item refund for a non-member. Does that satisfy the approval rule for this refund?
+§1.q9: Dmitri Szabo has signed off a repair quote. May the assistant send the quote on that basis?
+§1.q10: Helen Marsh approves a price match with another shop. May the assistant apply the price match on that basis?
+§1.q11: A supplier asks for a copy of a customer's invoice. May the assistant send it to the supplier?
+§1.q12: A customer ordered a starter set on March 10. Does the order ship with the printed wiring guide?
+§1.q13: A customer reports that a controller bought from the shop is smoking. What phone number must the assistant call?
+§1.q14: In that emergency, who must switch off the power at the fuse box?
+§1.q15: Is answering a general product question within one working day required or only recommended?
+§2.q1: 12월 6일 보온재 배부는 몇 시에 끝나나요?
+§2.q2: 1월 15일 이후에 동파 피해를 신고한 세대도 계량기 보온 덮개를 받을 수 있나요?
+§2.q3: A household that reported freeze damage on January 20 asks for a roll of heating cable. Does it get one?
+§2.q4: 세대주가 바빠서 배우자가 대신 보온재를 받아 갈 수 있나요?
+§2.q5: A 70-year-old resident who lives alone: must she come to the meeting room herself to collect the cover?
+§2.q6: 열선 설치 대행을 신청하면 주민이 내야 하는 금액은 얼마인가요?
+§2.q7: A household buys 2 extra covers without returning any old cover and also uses the heating-cable installation service. How much does it pay in total?
+§2.q8: 한 세대가 추가 덮개를 3개 살 수 있나요?
+§2.q9: 밤 10시에 배관 누수가 생기면 어디로 알려야 하나요?
+§2.q10: 오후 7시에 덮개 교환 요청을 하면 받아 주나요?
+§2.q11: What is the deadline for applying for the heating-cable installation service?
+§2.q12: Where are the covers handed out?
+§2.q13: Is leaving the tap slightly open when away for three or more days required or only recommended?
+§3.q1: La casella viene controllata alle 12:00 di un martedì?
+§3.q2: Is the inbox checked at 15:30 on a Saturday?
+§3.q3: A parcel arrived damaged and the refund would be 45 euro. May the assistant approve it on its own?
+§3.q4: A damaged-parcel refund comes to 46 euro. Who must approve it?
+§3.q5: A customer received the wrong grind and the refund would be 12 euro. May the assistant approve it on its own?
+§3.q6: Un bar ordina 18 kg di caffè in grani e 14 kg di caffè macinato nello stesso ordine all'ingrosso. Chi deve approvare l'ordine?
+§3.q7: Luca Moretti approva una modifica al profilo di tostatura di un abbonamento. L'assistente può applicare la modifica su questa base?
+§3.q8: Renato Bassi approves a change to a subscription's roast profile. Is that approval enough for the assistant to apply the change?
+§3.q9: Un altro torrefattore chiede 2 bustine di campione gratuite. L'assistente può spedirle?
+§3.q10: Un cliente abbonato da esattamente 12 mesi chiede uno sconto del 15%. L'assistente può concederlo?
+§3.q11: A customer who has been subscribed for 14 months asks for a 12% discount. May the assistant give it?
+§3.q12: May the assistant describe ground coffee roasted 5 days ago as 'fresco'?
+§3.q13: A customer writes that the espresso machine bought from the shop is sparking. What phone number must the assistant call?
+§3.q14: In that emergency, who must switch off the main switch at home?
+§3.q15: Proporre l'abbonamento mensile a chi ordina per la terza volta è obbligatorio o solo consigliato?
+§4.q1: سعر كتاب نادر 480 ديناراً. كم يبلغ العربون اللازم لحجزه؟
+§4.q2: A customer paid the deposit to reserve a 480-dinar rare book and cancels the reservation on the 5th day. How much is refunded?
+§4.q3: A customer paid the deposit to reserve a 480-dinar rare book and cancels within the first three days. How much is refunded?
+§4.q4: وصل كتاب تالف وقيمة استرداد ثمنه 150 ديناراً بالضبط. هل يجوز للمساعد أن يوافق على الاسترداد بنفسه؟
+§4.q5: A damaged-book refund comes to 155 dinars. Who must approve it?
+§4.q6: A customer returns a 40-dinar book because they changed their mind. May the assistant accept the return on its own?
+§4.q7: عرض شراء مجموعة كتب من أحد الأفراد بقيمة 320 ديناراً. من يجب أن يوافق عليه؟
+§4.q8: وقّع يوسف العلي شهادة أصالة لكتاب. هل يجوز للمساعد إرسال هذه الشهادة إلى العميل؟
+§4.q9: Karim Nasser signs an authenticity certificate. May the assistant send that certificate?
+§4.q10: Another bookseller asks for 3 photos of a book's condition. May the assistant send them?
+§4.q11: يريد عميل حجز خريطة قديمة. هل يمكن حجزها؟
+§4.q12: A customer buys a 650-dinar book and has signed a written waiver of insurance. May it be shipped without insurance?
+§4.q13: A neighbour emails that smoke is coming from the shop after closing. What phone number must the assistant call?
+§4.q14: In that emergency, who must keep away from the shop entrance and not try to go in?
+§4.q15: يوم الجمعة، طلب عضو في «نادي القرّاء» توصيلاً محلياً لطلب قيمته 75 ديناراً. هل التوصيل مجاني؟
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

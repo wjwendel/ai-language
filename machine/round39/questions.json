@@ -1,0 +1,739 @@
+{
+ "written": "2026-11-28 09:58 CST (CT) by independent author (r39)",
+ "questions": [
+  {
+   "id": "§1.q1",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A non-member's damaged-item refund comes to $61. Who must approve it?",
+   "gold": "Helen Marsh (the store manager)",
+   "accept": [
+    "helen|marsh"
+   ],
+   "reject": [
+    "victor|okafor|paula|brandt|dmitri|szabo|ruth|calloway"
+   ]
+  },
+  {
+   "id": "§1.q2",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A Larkfield Model Railway Club member asks for a $25 refund for a change-of-mind return. May the assistant approve it on its own?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q3",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A Larkfield Model Railway Club member's single order contains two items that arrived damaged, with refunds of $48 and $41. May the assistant approve the total refund on its own?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q4",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A non-member's single order contains two damaged items, with refunds of $35 and $28. Who must approve the total refund?",
+   "gold": "Helen Marsh",
+   "accept": [
+    "helen|marsh"
+   ],
+   "reject": [
+    "victor|okafor|paula|brandt|dmitri|szabo|ruth|calloway"
+   ]
+  },
+  {
+   "id": "§1.q5",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "On a Tuesday, a customer wants a special order from a supplier catalogue worth $251. Who must approve it?",
+   "gold": "needs approval, approver not stated",
+   "accept": [
+    "not\\W*(stated|named|specified|say|state)|does\\W*n.t\\W*(say|state|name)|unspecified"
+   ],
+   "reject": [
+    "victor|okafor|helen|marsh|paula|brandt|dmitri|szabo|ruth|calloway"
+   ]
+  },
+  {
+   "id": "§1.q6",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "On a Saturday, a club member asks for a special order worth $120. May the assistant place it that day?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q7",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer asks for a store-credit voucher of $45. Who must approve it?",
+   "gold": "Victor Okafor",
+   "accept": [
+    "victor|okafor"
+   ],
+   "reject": [
+    "helen|marsh|paula|brandt|dmitri|szabo|ruth|calloway"
+   ]
+  },
+  {
+   "id": "§1.q8",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "Victor Okafor approves a $70 damaged-item refund for a non-member. Does that satisfy the approval rule for this refund?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q9",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "Dmitri Szabo has signed off a repair quote. May the assistant send the quote on that basis?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q10",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Helen Marsh approves a price match with another shop. May the assistant apply the price match on that basis?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q11",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A supplier asks for a copy of a customer's invoice. May the assistant send it to the supplier?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q12",
+   "sec": 1,
+   "type": "F",
+   "hop": 2,
+   "q": "A customer ordered a starter set on March 10. Does the order ship with the printed wiring guide?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q13",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer reports that a controller bought from the shop is smoking. What phone number must the assistant call?",
+   "gold": "555-0147",
+   "accept": [
+    "555\\W?0147"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q14",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "In that emergency, who must switch off the power at the fuse box?",
+   "gold": "the customer",
+   "accept": [
+    "customer|caller|they\\W*themselves|the\\W*person"
+   ],
+   "reject": [
+    "^\\W*(the\\s+)?(assistant|helen|victor)\\b"
+   ]
+  },
+  {
+   "id": "§1.q15",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Is answering a general product question within one working day required or only recommended?",
+   "gold": "recommended (should), not required",
+   "accept": [
+    "recommend|should|not\\W*(required|mandatory|obligatory|compulsory)|optional|advis|suggest|consigliat|raccomand|권장|يُستحسن"
+   ],
+   "reject": [
+    "^\\W*(yes|required|mandatory)\\b"
+   ]
+  },
+  {
+   "id": "§2.q1",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "12월 6일 보온재 배부는 몇 시에 끝나나요?",
+   "gold": "12:00 noon",
+   "accept": [
+    "(?<!\\d)12(?!\\d)|noon|정오"
+   ],
+   "reject": [
+    "(4\\s*p|16:00)"
+   ]
+  },
+  {
+   "id": "§2.q2",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "1월 15일 이후에 동파 피해를 신고한 세대도 계량기 보온 덮개를 받을 수 있나요?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q3",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "A household that reported freeze damage on January 20 asks for a roll of heating cable. Does it get one?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q4",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "세대주가 바빠서 배우자가 대신 보온재를 받아 갈 수 있나요?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q5",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "A 70-year-old resident who lives alone: must she come to the meeting room herself to collect the cover?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q6",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "열선 설치 대행을 신청하면 주민이 내야 하는 금액은 얼마인가요?",
+   "gold": "9,000 won",
+   "accept": [
+    "(?<!\\d)9\\W?000(?!\\d)"
+   ],
+   "reject": [
+    "^\\W*(15|6)\\W?000"
+   ]
+  },
+  {
+   "id": "§2.q7",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "A household buys 2 extra covers without returning any old cover and also uses the heating-cable installation service. How much does it pay in total?",
+   "gold": "21,000 won",
+   "accept": [
+    "(?<!\\d)21\\W?000(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q8",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "한 세대가 추가 덮개를 3개 살 수 있나요?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q9",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "밤 10시에 배관 누수가 생기면 어디로 알려야 하나요?",
+   "gold": "the security office, extension 900",
+   "accept": [
+    "(?<!\\d)900(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q10",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "오후 7시에 덮개 교환 요청을 하면 받아 주나요?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q11",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "What is the deadline for applying for the heating-cable installation service?",
+   "gold": "December 3, 6 pm",
+   "accept": [
+    "(december|dec)\\W*3(?!\\d)|(?<!\\d)3(rd)?\\W*(of\\W*)?(december|dec)|12\\W*월\\W*3\\W*일|(?<!\\d)12/3(?!\\d)",
+    "(6\\s*p\\.?\\s*m|18:00|오후\\s*6)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q12",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "Where are the covers handed out?",
+   "gold": "the 1st-floor meeting room of the management office",
+   "accept": [
+    "(1\\s*F\\b|1st\\W*fl|first\\W*fl|1층|ground\\W*fl|floor\\W*1)",
+    "meeting|회의실|conference"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q13",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "Is leaving the tap slightly open when away for three or more days required or only recommended?",
+   "gold": "recommended, not required",
+   "accept": [
+    "recommend|should|not\\W*(required|mandatory|obligatory|compulsory)|optional|advis|suggest|consigliat|raccomand|권장|يُستحسن"
+   ],
+   "reject": [
+    "^\\W*(yes|required|mandatory)\\b"
+   ]
+  },
+  {
+   "id": "§3.q1",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "La casella viene controllata alle 12:00 di un martedì?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q2",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Is the inbox checked at 15:30 on a Saturday?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q3",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A parcel arrived damaged and the refund would be 45 euro. May the assistant approve it on its own?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q4",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A damaged-parcel refund comes to 46 euro. Who must approve it?",
+   "gold": "Giulia Ferrante (the head of administration)",
+   "accept": [
+    "giulia|ferrante"
+   ],
+   "reject": [
+    "renato|bassi|paolo|ricci|luca|moretti|sara|vitale|fabio|greco"
+   ]
+  },
+  {
+   "id": "§3.q5",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer received the wrong grind and the refund would be 12 euro. May the assistant approve it on its own?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q6",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Un bar ordina 18 kg di caffè in grani e 14 kg di caffè macinato nello stesso ordine all'ingrosso. Chi deve approvare l'ordine?",
+   "gold": "Renato Bassi (the owner)",
+   "accept": [
+    "renato|bassi"
+   ],
+   "reject": [
+    "paolo|ricci|luca|moretti|giulia|ferrante|sara|vitale|fabio|greco"
+   ]
+  },
+  {
+   "id": "§3.q7",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Luca Moretti approva una modifica al profilo di tostatura di un abbonamento. L'assistente può applicare la modifica su questa base?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q8",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Renato Bassi approves a change to a subscription's roast profile. Is that approval enough for the assistant to apply the change?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q9",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Un altro torrefattore chiede 2 bustine di campione gratuite. L'assistente può spedirle?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q10",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Un cliente abbonato da esattamente 12 mesi chiede uno sconto del 15%. L'assistente può concederlo?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q11",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer who has been subscribed for 14 months asks for a 12% discount. May the assistant give it?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q12",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "May the assistant describe ground coffee roasted 5 days ago as 'fresco'?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q13",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer writes that the espresso machine bought from the shop is sparking. What phone number must the assistant call?",
+   "gold": "333 019 8245",
+   "accept": [
+    "333\\W?019\\W?8245"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q14",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "In that emergency, who must switch off the main switch at home?",
+   "gold": "the customer",
+   "accept": [
+    "customer|cliente|they\\W*themselves|the\\W*person"
+   ],
+   "reject": [
+    "^\\W*(the\\s+)?(assistant|technician|renato|giulia)\\b"
+   ]
+  },
+  {
+   "id": "§3.q15",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Proporre l'abbonamento mensile a chi ordina per la terza volta è obbligatorio o solo consigliato?",
+   "gold": "recommended (should), not required",
+   "accept": [
+    "recommend|should|not\\W*(required|mandatory|obligatory|compulsory)|optional|advis|suggest|consigliat|raccomand|권장|يُستحسن"
+   ],
+   "reject": [
+    "^\\W*(yes|required|mandatory|obbligatorio)\\b"
+   ]
+  },
+  {
+   "id": "§4.q1",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "سعر كتاب نادر 480 ديناراً. كم يبلغ العربون اللازم لحجزه؟",
+   "gold": "120 dinars",
+   "accept": [
+    "(?<!\\d)120(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q2",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "A customer paid the deposit to reserve a 480-dinar rare book and cancels the reservation on the 5th day. How much is refunded?",
+   "gold": "96 dinars",
+   "accept": [
+    "(?<!\\d)96(?!\\d)"
+   ],
+   "reject": [
+    "^\\D*(?<!\\d)120(?!\\d)"
+   ]
+  },
+  {
+   "id": "§4.q3",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "A customer paid the deposit to reserve a 480-dinar rare book and cancels within the first three days. How much is refunded?",
+   "gold": "120 dinars (the full deposit)",
+   "accept": [
+    "(?<!\\d)120(?!\\d)"
+   ],
+   "reject": [
+    "^\\D*(?<!\\d)96(?!\\d)"
+   ]
+  },
+  {
+   "id": "§4.q4",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "وصل كتاب تالف وقيمة استرداد ثمنه 150 ديناراً بالضبط. هل يجوز للمساعد أن يوافق على الاسترداد بنفسه؟",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q5",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A damaged-book refund comes to 155 dinars. Who must approve it?",
+   "gold": "Salma Haddad (the sales manager)",
+   "accept": [
+    "salma|haddad"
+   ],
+   "reject": [
+    "karim|nasser|hani|mansour|yousef|yusuf|leila|layla|omran|nader|salim"
+   ]
+  },
+  {
+   "id": "§4.q6",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer returns a 40-dinar book because they changed their mind. May the assistant accept the return on its own?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q7",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "عرض شراء مجموعة كتب من أحد الأفراد بقيمة 320 ديناراً. من يجب أن يوافق عليه؟",
+   "gold": "Karim Nasser (the owner)",
+   "accept": [
+    "karim|nasser|nasir|كريم"
+   ],
+   "reject": [
+    "hani|mansour|yousef|yusuf|salma|haddad|leila|layla|omran|nader|salim"
+   ]
+  },
+  {
+   "id": "§4.q8",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "وقّع يوسف العلي شهادة أصالة لكتاب. هل يجوز للمساعد إرسال هذه الشهادة إلى العميل؟",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q9",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "Karim Nasser signs an authenticity certificate. May the assistant send that certificate?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q10",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "Another bookseller asks for 3 photos of a book's condition. May the assistant send them?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q11",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "يريد عميل حجز خريطة قديمة. هل يمكن حجزها؟",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q12",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer buys a 650-dinar book and has signed a written waiver of insurance. May it be shipped without insurance?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q13",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A neighbour emails that smoke is coming from the shop after closing. What phone number must the assistant call?",
+   "gold": "0791 555 302",
+   "accept": [
+    "0?791\\W?555\\W?302"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q14",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "In that emergency, who must keep away from the shop entrance and not try to go in?",
+   "gold": "the person who reported it (the neighbour)",
+   "accept": [
+    "neighbou?r|report|sender|caller|customer|person|they\\W*themselves"
+   ],
+   "reject": [
+    "^\\W*(the\\s+)?(assistant|karim)\\b"
+   ]
+  },
+  {
+   "id": "§4.q15",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "يوم الجمعة، طلب عضو في «نادي القرّاء» توصيلاً محلياً لطلب قيمته 75 ديناراً. هل التوصيل مجاني؟",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  }
+ ]
+}

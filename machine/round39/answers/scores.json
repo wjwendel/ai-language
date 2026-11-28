@@ -1,0 +1,75 @@
+{
+ "llm05_r1.json": {
+  "ok": 51,
+  "n": 58,
+  "S_fail": [
+   "\u00a71.q15=required",
+   "\u00a73.q10=yes",
+   "\u00a73.q13=019 8245",
+   "\u00a74.q13=0791 555"
+  ],
+  "F_fail": [
+   "\u00a72.q9=the security office (\uacbd\ube44\uc2e4)",
+   "\u00a74.q2=nothing (0 dinars)",
+   "\u00a74.q3=96 dinars"
+  ]
+ },
+ "llm066_r1.json": {
+  "ok": 57,
+  "n": 58,
+  "S_fail": [
+   "\u00a71.q15=required"
+  ],
+  "F_fail": []
+ },
+ "mnc28_r1.json": {
+  "ok": 58,
+  "n": 58,
+  "S_fail": [],
+  "F_fail": []
+ },
+ "mnc28_r2.json": {
+  "ok": 58,
+  "n": 58,
+  "S_fail": [],
+  "F_fail": []
+ },
+ "mnc28x_r1.json": {
+  "ok": 58,
+  "n": 58,
+  "S_fail": [],
+  "F_fail": []
+ },
+ "mnc28x_r2.json": {
+  "ok": 57,
+  "n": 58,
+  "S_fail": [
+   "\u00a74.q5=\u0633\u0644\u0645\u0649 \u062d\u062f\u0627\u062f (sales manager)"
+  ],
+  "F_fail": []
+ },
+ "original_r1.json": {
+  "ok": 58,
+  "n": 58,
+  "S_fail": [],
+  "F_fail": []
+ },
+ "summ_r1.json": {
+  "ok": 58,
+  "n": 58,
+  "S_fail": [],
+  "F_fail": []
+ },
+ "terse_r1.json": {
+  "ok": 58,
+  "n": 58,
+  "S_fail": [],
+  "F_fail": []
+ },
+ "terse_r2.json": {
+  "ok": 58,
+  "n": 58,
+  "S_fail": [],
+  "F_fail": []
+ }
+}

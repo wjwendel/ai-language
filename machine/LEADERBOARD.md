@@ -349,3 +349,18 @@ Not a new best: terse English saved 6.8 points more than MNC28x (but slipped one
 | LLMLingua-2 0.66 / 0.5 | 39.9% / 52.3% (o200k) | 73.3% / 70.0% ×1 (lost almost all Japanese facts; 0.5 named an unstated approver) | – | – |
 7B: r38 pending. r37 7B scored: MNC28 67.8-69.5% (2 runs), MNC28x 69.5-79.7% (3 runs); original runs invalid (prompt too long for the 7B setup). Bench-v1 not run.
 Not a new best: terse English saved 15.7 points more than MNC28x and 25.5 more than MNC28 at equal accuracy. MNC28x was fully faithful but too wordy. Ready counter: **MNC28's streak ended at 7 (r31-r37); counter now 0** after the r38 decode fail (rules unchanged). Details: machine/round38/SCORES.md.
+
+
+
+### r39 (fully blind, independent author; en/ko/it/ar, 58 q), MNC28 main frozen (RULES sha1 f70a3563) + MNC28x probe ("terse first, then rails", no key) — run and scored 2026-11-28 09:51-~10:35 CT (strong reader = fresh no-context frontier helpers; independent decode judge)
+| Text | Saved o200k / cl100k | Direct use, strong (S) | Blind decode (judge, 196 facts) | Instruction-safety |
+|---|---|---|---|---|
+| MNC28 (main, no key) | 29.8% / 49.9% | 100% ×2 (S 43/43 ×2) | 195/196 ×2; 0 S errors (1 F word lost: "shared") | **PASS** |
+| MNC28x (probe) | 40.0% / 57.0% | 100% / 98.3% (r2: correct approver written in Arabic script, regex wants Latin; counted as a miss) | 194/196 and 192/196; 1 S loss ×2 (a person's title in the Korean section), plus 2 F distortions in B | direct use pass; decode FAIL (probe) |
+| original | 0 | 100% | – | – |
+| terse English | 41.5% / 59.0% | 100% ×2 | – | – |
+| summarize | 31.5% / 35.9% | 100% ×1 | – | – |
+| LLMLingua-2 0.66 / 0.5 | 33.5% / 48.9% (o200k) | 98.3% / 87.9% ×1 (0.66 turned a "should" into "required"; 0.5 also gave incomplete emergency numbers) | – | – |
+7B: r39 pending (queue running at write-up). r38 7B scored: MNC28 63.3-66.7%, MNC28x 66.7-70.0%, original 68.3-70.0% (3 runs each; overlapping spreads = ties). Bench-v1 not run.
+Not a new best: terse English saved 1.5 points more than MNC28x and 11.7 more than MNC28 at 100% ×2. MNC28x closed most of the savings gap (24.2% → 40.0%) but failed the decode gate. Ready counter: **MNC28: 1/3** (clean blind pass after the r38 fail; rules unchanged). Details: machine/round39/SCORES.md.
+

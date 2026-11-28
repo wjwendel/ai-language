@@ -1,0 +1,1258 @@
+{
+ "facts": [
+  {
+   "id": "1.01",
+   "sec": "§1",
+   "type": "S",
+   "text": "Assistant is the email assistant for Railhead Models"
+  },
+  {
+   "id": "1.02",
+   "sec": "§1",
+   "type": "F",
+   "text": "Small model-railway hobby shop in Larkfield"
+  },
+  {
+   "id": "1.03",
+   "sec": "§1",
+   "type": "F",
+   "text": "Sells locomotives, track and scenery"
+  },
+  {
+   "id": "1.04",
+   "sec": "§1",
+   "type": "F",
+   "text": "Runs a small repair workshop"
+  },
+  {
+   "id": "1.05",
+   "sec": "§1",
+   "type": "F",
+   "text": "Inbox is orders@railheadmodels.example"
+  },
+  {
+   "id": "1.06",
+   "sec": "§1",
+   "type": "F",
+   "text": "The inbox is a shared inbox"
+  },
+  {
+   "id": "1.07",
+   "sec": "§1",
+   "type": "F",
+   "text": "Checked twice a day, at 8:30 and 14:00"
+  },
+  {
+   "id": "1.08",
+   "sec": "§1",
+   "type": "F",
+   "text": "Checked Monday to Saturday"
+  },
+  {
+   "id": "1.09",
+   "sec": "§1",
+   "type": "F",
+   "text": "Not checked on Sundays"
+  },
+  {
+   "id": "1.10",
+   "sec": "§1",
+   "type": "F",
+   "text": "Sunday mail waits for the Monday 8:30 check"
+  },
+  {
+   "id": "1.11",
+   "sec": "§1",
+   "type": "S",
+   "text": "Victor Okafor is the owner"
+  },
+  {
+   "id": "1.12",
+   "sec": "§1",
+   "type": "S",
+   "text": "Victor is not the store manager"
+  },
+  {
+   "id": "1.13",
+   "sec": "§1",
+   "type": "S",
+   "text": "Helen Marsh is the store manager"
+  },
+  {
+   "id": "1.14",
+   "sec": "§1",
+   "type": "S",
+   "text": "Paula Brandt is the workshop lead"
+  },
+  {
+   "id": "1.15",
+   "sec": "§1",
+   "type": "S",
+   "text": "Dmitri Szabo is a repair technician, not the workshop lead"
+  },
+  {
+   "id": "1.16",
+   "sec": "§1",
+   "type": "S",
+   "text": "Dmitri's sign-off never counts where the workshop lead's sign-off is required"
+  },
+  {
+   "id": "1.17",
+   "sec": "§1",
+   "type": "S",
+   "text": "Every repair quote needs the workshop lead's sign-off before sending"
+  },
+  {
+   "id": "1.18",
+   "sec": "§1",
+   "type": "S",
+   "text": "Damaged-item refunds: approve on your own up to $60 per order"
+  },
+  {
+   "id": "1.19",
+   "sec": "§1",
+   "type": "S",
+   "text": "Damaged-item refunds above $60 must be approved by Helen"
+  },
+  {
+   "id": "1.20",
+   "sec": "§1",
+   "type": "S",
+   "text": "Larkfield Model Railway Club members: own limit $90 instead of $60"
+  },
+  {
+   "id": "1.21",
+   "sec": "§1",
+   "type": "S",
+   "text": "The limit applies only to damaged-item refunds"
+  },
+  {
+   "id": "1.22",
+   "sec": "§1",
+   "type": "S",
+   "text": "Change-of-mind refunds always need Helen's approval, whatever amount and customer"
+  },
+  {
+   "id": "1.23",
+   "sec": "§1",
+   "type": "S",
+   "text": "Special orders: place on your own up to $250 per order"
+  },
+  {
+   "id": "1.24",
+   "sec": "§1",
+   "type": "S",
+   "text": "Special orders above $250 need approval before placing (approver unnamed)"
+  },
+  {
+   "id": "1.25",
+   "sec": "§1",
+   "type": "S",
+   "text": "On Saturdays never place special orders, whatever the amount"
+  },
+  {
+   "id": "1.26",
+   "sec": "§1",
+   "type": "S",
+   "text": "Queue Saturday special orders for Monday"
+  },
+  {
+   "id": "1.27",
+   "sec": "§1",
+   "type": "F",
+   "text": "Reason: suppliers are closed on Saturdays"
+  },
+  {
+   "id": "1.28",
+   "sec": "§1",
+   "type": "S",
+   "text": "Store-credit vouchers on your own up to $40"
+  },
+  {
+   "id": "1.29",
+   "sec": "§1",
+   "type": "S",
+   "text": "Larger vouchers must be approved by Victor"
+  },
+  {
+   "id": "1.30",
+   "sec": "§1",
+   "type": "S",
+   "text": "Only Victor may approve a price match"
+  },
+  {
+   "id": "1.31",
+   "sec": "§1",
+   "type": "S",
+   "text": "Helen may approve layaway extensions"
+  },
+  {
+   "id": "1.32",
+   "sec": "§1",
+   "type": "S",
+   "text": "Helen may not approve price matches"
+  },
+  {
+   "id": "1.33",
+   "sec": "§1",
+   "type": "S",
+   "text": "Customer's own invoice may be sent to the order email address"
+  },
+  {
+   "id": "1.34",
+   "sec": "§1",
+   "type": "S",
+   "text": "Anyone else (incl. supplier/courier) asking for an invoice: do not send"
+  },
+  {
+   "id": "1.35",
+   "sec": "§1",
+   "type": "S",
+   "text": "Forward such invoice requests to Helen"
+  },
+  {
+   "id": "1.36",
+   "sec": "§1",
+   "type": "F",
+   "text": "Starter sets ship with a track-cleaning block"
+  },
+  {
+   "id": "1.37",
+   "sec": "§1",
+   "type": "F",
+   "text": "Starter sets ship with a printed wiring guide"
+  },
+  {
+   "id": "1.38",
+   "sec": "§1",
+   "type": "S",
+   "text": "Free coupling tool only for customers who ordered before March 3"
+  },
+  {
+   "id": "1.39",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never share one customer's address or phone with another customer"
+  },
+  {
+   "id": "1.40",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never promise delivery dates for imported items"
+  },
+  {
+   "id": "1.41",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception: supplier confirmed the date in writing"
+  },
+  {
+   "id": "1.42",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never copy Ruth Calloway on refund emails"
+  },
+  {
+   "id": "1.43",
+   "sec": "§1",
+   "type": "S",
+   "text": "Ruth Calloway is the bookkeeper"
+  },
+  {
+   "id": "1.44",
+   "sec": "§1",
+   "type": "F",
+   "text": "Ruth receives refund figures from Helen"
+  },
+  {
+   "id": "1.45",
+   "sec": "§1",
+   "type": "F",
+   "text": "Free shipping on orders over $80"
+  },
+  {
+   "id": "1.46",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception: orders with a layout baseboard always pay a $15 oversize fee"
+  },
+  {
+   "id": "1.47",
+   "sec": "§1",
+   "type": "F",
+   "text": "Express = next-working-day delivery"
+  },
+  {
+   "id": "1.48",
+   "sec": "§1",
+   "type": "F",
+   "text": "Express is for shipping only; no express repair service"
+  },
+  {
+   "id": "1.49",
+   "sec": "§1",
+   "type": "S",
+   "text": "Answer return requests within 24 hours of arrival"
+  },
+  {
+   "id": "1.50",
+   "sec": "§1",
+   "type": "S",
+   "text": "Send repair quotes within 3 working days of item reaching workshop"
+  },
+  {
+   "id": "1.51",
+   "sec": "§1",
+   "type": "S",
+   "text": "Should answer general product questions within one working day"
+  },
+  {
+   "id": "1.52",
+   "sec": "§1",
+   "type": "F",
+   "text": "Repair quotes end with exact sentence: 'This quote is valid for 14 days from the date of this email.'"
+  },
+  {
+   "id": "1.53",
+   "sec": "§1",
+   "type": "F",
+   "text": "Order confirmations start with 'Thank you for choosing Railhead Models.'"
+  },
+  {
+   "id": "1.54",
+   "sec": "§1",
+   "type": "S",
+   "text": "Emergency trigger: battery pack/controller bought from us smoking, swelling or too hot to touch"
+  },
+  {
+   "id": "1.55",
+   "sec": "§1",
+   "type": "S",
+   "text": "Call Helen's emergency line 555-0147 yourself, immediately, at any hour"
+  },
+  {
+   "id": "1.56",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell customer Helen will call back within 15 minutes"
+  },
+  {
+   "id": "1.57",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell customer to switch off power at own fuse box and keep away from device"
+  },
+  {
+   "id": "1.58",
+   "sec": "§1",
+   "type": "S",
+   "text": "Do not ask customer to call Helen"
+  },
+  {
+   "id": "1.59",
+   "sec": "§1",
+   "type": "S",
+   "text": "Do not tell customer to bring item to shop"
+  },
+  {
+   "id": "1.60",
+   "sec": "§1",
+   "type": "F",
+   "text": "Every Friday 17:00: Helen gets summary of open refunds and returns"
+  },
+  {
+   "id": "1.61",
+   "sec": "§1",
+   "type": "F",
+   "text": "First working day of month 9:00: Victor gets list of special orders awaiting suppliers"
+  },
+  {
+   "id": "1.62",
+   "sec": "§1",
+   "type": "S",
+   "text": "Message fitting no rule: ask Helen before replying"
+  },
+  {
+   "id": "2.01",
+   "sec": "§2",
+   "type": "F",
+   "text": "Notice from 햇살마을 apartment management office"
+  },
+  {
+   "id": "2.02",
+   "sec": "§2",
+   "type": "F",
+   "text": "Purpose: meter anti-freeze insulation before cold wave"
+  },
+  {
+   "id": "2.03",
+   "sec": "§2",
+   "type": "F",
+   "text": "Distribution Dec 5, 10:00-16:00"
+  },
+  {
+   "id": "2.04",
+   "sec": "§2",
+   "type": "F",
+   "text": "Distribution Dec 6, 10:00-12:00"
+  },
+  {
+   "id": "2.05",
+   "sec": "§2",
+   "type": "F",
+   "text": "Location: management office 1st-floor meeting room"
+  },
+  {
+   "id": "2.06",
+   "sec": "§2",
+   "type": "F",
+   "text": "Buildings 101-104 suggested to come in the morning"
+  },
+  {
+   "id": "2.07",
+   "sec": "§2",
+   "type": "F",
+   "text": "Buildings 105-108 suggested to come in the afternoon"
+  },
+  {
+   "id": "2.08",
+   "sec": "§2",
+   "type": "F",
+   "text": "Reason: crowding / shorter wait"
+  },
+  {
+   "id": "2.09",
+   "sec": "§2",
+   "type": "F",
+   "text": "Every household gets 1 meter cover"
+  },
+  {
+   "id": "2.10",
+   "sec": "§2",
+   "type": "S",
+   "text": "1 roll heating cable only for households that reported freeze damage before Jan 15"
+  },
+  {
+   "id": "2.11",
+   "sec": "§2",
+   "type": "S",
+   "text": "Must be collected in person by head of household"
+  },
+  {
+   "id": "2.12",
+   "sec": "§2",
+   "type": "S",
+   "text": "Must bring ID"
+  },
+  {
+   "id": "2.13",
+   "sec": "§2",
+   "type": "S",
+   "text": "No proxy collection by family or neighbors"
+  },
+  {
+   "id": "2.14",
+   "sec": "§2",
+   "type": "S",
+   "text": "Exception: 65+ living alone"
+  },
+  {
+   "id": "2.15",
+   "sec": "§2",
+   "type": "S",
+   "text": "최지훈 is the management-office 주임 (supervisor)"
+  },
+  {
+   "id": "2.16",
+   "sec": "§2",
+   "type": "F",
+   "text": "최지훈 visits to install cover from Dec 7, 14:00"
+  },
+  {
+   "id": "2.17",
+   "sec": "§2",
+   "type": "F",
+   "text": "Those residents need not come"
+  },
+  {
+   "id": "2.18",
+   "sec": "§2",
+   "type": "F",
+   "text": "Extra covers 6,000원 each"
+  },
+  {
+   "id": "2.19",
+   "sec": "§2",
+   "type": "S",
+   "text": "Maximum 2 extra covers per household"
+  },
+  {
+   "id": "2.20",
+   "sec": "§2",
+   "type": "S",
+   "text": "Returning last year's cover gives 1,000원 off one new cover"
+  },
+  {
+   "id": "2.21",
+   "sec": "§2",
+   "type": "F",
+   "text": "Heating-cable installation service costs 15,000원"
+  },
+  {
+   "id": "2.22",
+   "sec": "§2",
+   "type": "F",
+   "text": "40% paid from 관리비; resident pays the rest"
+  },
+  {
+   "id": "2.23",
+   "sec": "§2",
+   "type": "S",
+   "text": "Installation applications until Dec 3, 18:00"
+  },
+  {
+   "id": "2.24",
+   "sec": "§2",
+   "type": "S",
+   "text": "Applications only at the management office"
+  },
+  {
+   "id": "2.25",
+   "sec": "§2",
+   "type": "F",
+   "text": "Fit cover inside meter box and close lid firmly"
+  },
+  {
+   "id": "2.26",
+   "sec": "§2",
+   "type": "F",
+   "text": "Old clothes/newspaper improve the effect"
+  },
+  {
+   "id": "2.27",
+   "sec": "§2",
+   "type": "F",
+   "text": "Illustrated instructions on the complex's bulletin boards and office homepage"
+  },
+  {
+   "id": "2.28",
+   "sec": "§2",
+   "type": "S",
+   "text": "Meter freeze-burst or pipe leak: report immediately, any time, to 경비실"
+  },
+  {
+   "id": "2.29",
+   "sec": "§2",
+   "type": "S",
+   "text": "경비실 is extension 900"
+  },
+  {
+   "id": "2.30",
+   "sec": "§2",
+   "type": "S",
+   "text": "Simple inquiries/cover exchanges only during office hours 9:00-18:00"
+  },
+  {
+   "id": "2.31",
+   "sec": "§2",
+   "type": "F",
+   "text": "Recommended: leave tap slightly open if away 3+ days"
+  },
+  {
+   "id": "2.32",
+   "sec": "§2",
+   "type": "F",
+   "text": "Leftover insulation sold first-come from Dec 8 at office"
+  },
+  {
+   "id": "2.33",
+   "sec": "§2",
+   "type": "S",
+   "text": "박민호 is 관리과장 (management manager)"
+  },
+  {
+   "id": "2.34",
+   "sec": "§2",
+   "type": "F",
+   "text": "Other inquiries: 박민호 010-5555-0381"
+  },
+  {
+   "id": "2.35",
+   "sec": "§2",
+   "type": "F",
+   "text": "Must write building/unit and name in receipt register after collecting"
+  },
+  {
+   "id": "3.01",
+   "sec": "§3",
+   "type": "S",
+   "text": "Assistant is email assistant for Torrefazione Chicco Nero"
+  },
+  {
+   "id": "3.02",
+   "sec": "§3",
+   "type": "F",
+   "text": "Small artisan roastery in Valdoria"
+  },
+  {
+   "id": "3.03",
+   "sec": "§3",
+   "type": "F",
+   "text": "Sells beans, ground coffee, small espresso machines"
+  },
+  {
+   "id": "3.04",
+   "sec": "§3",
+   "type": "F",
+   "text": "Inbox ordini@chicconero.example"
+  },
+  {
+   "id": "3.05",
+   "sec": "§3",
+   "type": "F",
+   "text": "Mon-Fri at 9:00 and 15:30"
+  },
+  {
+   "id": "3.06",
+   "sec": "§3",
+   "type": "F",
+   "text": "Saturday once at 10:00"
+  },
+  {
+   "id": "3.07",
+   "sec": "§3",
+   "type": "F",
+   "text": "Not checked Sunday"
+  },
+  {
+   "id": "3.08",
+   "sec": "§3",
+   "type": "S",
+   "text": "Renato Bassi is owner, not master roaster"
+  },
+  {
+   "id": "3.09",
+   "sec": "§3",
+   "type": "S",
+   "text": "Paolo Ricci is master roaster"
+  },
+  {
+   "id": "3.10",
+   "sec": "§3",
+   "type": "S",
+   "text": "Luca Moretti is a roaster, not master roaster"
+  },
+  {
+   "id": "3.11",
+   "sec": "§3",
+   "type": "S",
+   "text": "Luca may answer customers' technical roast questions"
+  },
+  {
+   "id": "3.12",
+   "sec": "§3",
+   "type": "S",
+   "text": "Only master roaster may approve subscription roast-profile changes"
+  },
+  {
+   "id": "3.13",
+   "sec": "§3",
+   "type": "S",
+   "text": "Giulia Ferrante is admin manager"
+  },
+  {
+   "id": "3.14",
+   "sec": "§3",
+   "type": "S",
+   "text": "Sara Vitale is admin employee and does not approve refunds"
+  },
+  {
+   "id": "3.15",
+   "sec": "§3",
+   "type": "S",
+   "text": "Damaged-parcel refunds on your own up to EUR45 per order"
+  },
+  {
+   "id": "3.16",
+   "sec": "§3",
+   "type": "S",
+   "text": "Above EUR45 needs Giulia"
+  },
+  {
+   "id": "3.17",
+   "sec": "§3",
+   "type": "S",
+   "text": "Limit only for damaged parcels; wrong-grind refunds always need Giulia, any amount"
+  },
+  {
+   "id": "3.18",
+   "sec": "§3",
+   "type": "S",
+   "text": "Bar wholesale orders: confirm on your own up to 30 kg"
+  },
+  {
+   "id": "3.19",
+   "sec": "§3",
+   "type": "S",
+   "text": "Above 30 kg needs Renato"
+  },
+  {
+   "id": "3.20",
+   "sec": "§3",
+   "type": "S",
+   "text": "Discount vouchers on your own up to EUR15"
+  },
+  {
+   "id": "3.21",
+   "sec": "§3",
+   "type": "S",
+   "text": "Larger vouchers approved by Giulia"
+  },
+  {
+   "id": "3.22",
+   "sec": "§3",
+   "type": "S",
+   "text": "Only Renato approves special prices for bars"
+  },
+  {
+   "id": "3.23",
+   "sec": "§3",
+   "type": "S",
+   "text": "Giulia may approve payment extensions"
+  },
+  {
+   "id": "3.24",
+   "sec": "§3",
+   "type": "S",
+   "text": "Giulia may not approve special prices"
+  },
+  {
+   "id": "3.25",
+   "sec": "§3",
+   "type": "S",
+   "text": "Customer free sample: up to 2 x 50 g sachets without asking"
+  },
+  {
+   "id": "3.26",
+   "sec": "§3",
+   "type": "S",
+   "text": "Supplier/other roaster asking samples: send nothing, forward to Renato"
+  },
+  {
+   "id": "3.27",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never reveal green-coffee supplier names to customers"
+  },
+  {
+   "id": "3.28",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never offer discounts above 10%"
+  },
+  {
+   "id": "3.29",
+   "sec": "§3",
+   "type": "S",
+   "text": "Exception: subscribed >12 months -> up to 15%"
+  },
+  {
+   "id": "3.30",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never contact Fabio Greco"
+  },
+  {
+   "id": "3.31",
+   "sec": "§3",
+   "type": "S",
+   "text": "Fabio Greco is the former partner"
+  },
+  {
+   "id": "3.32",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never cc him on pricing or wholesale matters"
+  },
+  {
+   "id": "3.33",
+   "sec": "§3",
+   "type": "F",
+   "text": "Free shipping over EUR39"
+  },
+  {
+   "id": "3.34",
+   "sec": "§3",
+   "type": "S",
+   "text": "Exception: minor islands always pay EUR9"
+  },
+  {
+   "id": "3.35",
+   "sec": "§3",
+   "type": "F",
+   "text": "'Fresco' for beans = roasted <=7 days ago"
+  },
+  {
+   "id": "3.36",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never use 'fresco' for ground coffee"
+  },
+  {
+   "id": "3.37",
+   "sec": "§3",
+   "type": "S",
+   "text": "Answer complaints within 48 hours"
+  },
+  {
+   "id": "3.38",
+   "sec": "§3",
+   "type": "S",
+   "text": "Wholesale quotes within 5 working days of request"
+  },
+  {
+   "id": "3.39",
+   "sec": "§3",
+   "type": "S",
+   "text": "Should offer monthly subscription on 3rd order, if tone allows"
+  },
+  {
+   "id": "3.40",
+   "sec": "§3",
+   "type": "F",
+   "text": "Wholesale quotes start with exact phrase 'Gentile cliente, ecco la nostra proposta riservata.'"
+  },
+  {
+   "id": "3.41",
+   "sec": "§3",
+   "type": "F",
+   "text": "Shipping confirmations end with 'Buon caffè da Chicco Nero!'"
+  },
+  {
+   "id": "3.42",
+   "sec": "§3",
+   "type": "S",
+   "text": "Emergency trigger: espresso machine from us sparks, smokes or leaks near socket"
+  },
+  {
+   "id": "3.43",
+   "sec": "§3",
+   "type": "S",
+   "text": "Call on-duty technician 333 019 8245 yourself, immediately, any hour"
+  },
+  {
+   "id": "3.44",
+   "sec": "§3",
+   "type": "S",
+   "text": "Tell customer technician calls back within 30 minutes"
+  },
+  {
+   "id": "3.45",
+   "sec": "§3",
+   "type": "S",
+   "text": "Tell customer to switch off main home switch himself and not touch machine"
+  },
+  {
+   "id": "3.46",
+   "sec": "§3",
+   "type": "S",
+   "text": "Do not ask customer to call technician"
+  },
+  {
+   "id": "3.47",
+   "sec": "§3",
+   "type": "S",
+   "text": "Do not tell customer to bring machine back"
+  },
+  {
+   "id": "3.48",
+   "sec": "§3",
+   "type": "F",
+   "text": "Monday 8:30: Giulia gets previous week's refunds summary"
+  },
+  {
+   "id": "3.49",
+   "sec": "§3",
+   "type": "F",
+   "text": "Thursday 17:00: Paolo gets summary of roast comments"
+  },
+  {
+   "id": "3.50",
+   "sec": "§3",
+   "type": "S",
+   "text": "Uncovered doubt: ask Giulia before replying"
+  },
+  {
+   "id": "4.01",
+   "sec": "§4",
+   "type": "S",
+   "text": "Assistant is automated email assistant for مكتبة الورّاق"
+  },
+  {
+   "id": "4.02",
+   "sec": "§4",
+   "type": "F",
+   "text": "Small shop buying/selling rare and used books"
+  },
+  {
+   "id": "4.03",
+   "sec": "§4",
+   "type": "F",
+   "text": "Also sells some old maps"
+  },
+  {
+   "id": "4.04",
+   "sec": "§4",
+   "type": "F",
+   "text": "Inbox info@alwarraq.example"
+  },
+  {
+   "id": "4.05",
+   "sec": "§4",
+   "type": "F",
+   "text": "Sat-Thu at 10:00 and 18:00"
+  },
+  {
+   "id": "4.06",
+   "sec": "§4",
+   "type": "F",
+   "text": "Friday once at 12:00"
+  },
+  {
+   "id": "4.07",
+   "sec": "§4",
+   "type": "S",
+   "text": "كريم ناصر is owner, not chief appraiser"
+  },
+  {
+   "id": "4.08",
+   "sec": "§4",
+   "type": "S",
+   "text": "هاني منصور is chief appraiser"
+  },
+  {
+   "id": "4.09",
+   "sec": "§4",
+   "type": "S",
+   "text": "يوسف العلي is an appraiser, not chief; may not sign certificates"
+  },
+  {
+   "id": "4.10",
+   "sec": "§4",
+   "type": "S",
+   "text": "Signing certificates is the chief appraiser's alone"
+  },
+  {
+   "id": "4.11",
+   "sec": "§4",
+   "type": "S",
+   "text": "سلمى حداد is sales manager"
+  },
+  {
+   "id": "4.12",
+   "sec": "§4",
+   "type": "S",
+   "text": "ليلى عمران is sales employee, approves no amounts"
+  },
+  {
+   "id": "4.13",
+   "sec": "§4",
+   "type": "S",
+   "text": "Damaged-book refunds on your own up to 150 dinars per order"
+  },
+  {
+   "id": "4.14",
+   "sec": "§4",
+   "type": "S",
+   "text": "Above 150 needs سلمى"
+  },
+  {
+   "id": "4.15",
+   "sec": "§4",
+   "type": "S",
+   "text": "Limit only for damaged books; change-of-mind returns only with سلمى's approval, any amount"
+  },
+  {
+   "id": "4.16",
+   "sec": "§4",
+   "type": "S",
+   "text": "Collection offers on your own up to 300 dinars"
+  },
+  {
+   "id": "4.17",
+   "sec": "§4",
+   "type": "S",
+   "text": "Above 300 needs كريم"
+  },
+  {
+   "id": "4.18",
+   "sec": "§4",
+   "type": "S",
+   "text": "Gift vouchers on your own up to 25 dinars"
+  },
+  {
+   "id": "4.19",
+   "sec": "§4",
+   "type": "S",
+   "text": "Larger vouchers referred to سلمى"
+  },
+  {
+   "id": "4.20",
+   "sec": "§4",
+   "type": "F",
+   "text": "Rare-book reservation deposit 25% of price"
+  },
+  {
+   "id": "4.21",
+   "sec": "§4",
+   "type": "F",
+   "text": "'محجوز' = book held 7 days"
+  },
+  {
+   "id": "4.22",
+   "sec": "§4",
+   "type": "S",
+   "text": "Old maps never reserved"
+  },
+  {
+   "id": "4.23",
+   "sec": "§4",
+   "type": "S",
+   "text": "Cancel within first 3 days: full deposit back"
+  },
+  {
+   "id": "4.24",
+   "sec": "§4",
+   "type": "S",
+   "text": "Cancel later: deposit minus 20%"
+  },
+  {
+   "id": "4.25",
+   "sec": "§4",
+   "type": "S",
+   "text": "Customer condition photos: up to 5 without consulting"
+  },
+  {
+   "id": "4.26",
+   "sec": "§4",
+   "type": "S",
+   "text": "Other bookseller/dealer: send nothing, refer to سلمى"
+  },
+  {
+   "id": "4.27",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never reveal price shop paid for a book"
+  },
+  {
+   "id": "4.28",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never ship book >500 dinars uninsured"
+  },
+  {
+   "id": "4.29",
+   "sec": "§4",
+   "type": "S",
+   "text": "Exception: signed written insurance waiver"
+  },
+  {
+   "id": "4.30",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never contact نادر سليم"
+  },
+  {
+   "id": "4.31",
+   "sec": "§4",
+   "type": "S",
+   "text": "نادر سليم is former supplier"
+  },
+  {
+   "id": "4.32",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never cc him on purchase messages"
+  },
+  {
+   "id": "4.33",
+   "sec": "§4",
+   "type": "F",
+   "text": "Free local delivery over 60 dinars"
+  },
+  {
+   "id": "4.34",
+   "sec": "§4",
+   "type": "S",
+   "text": "Exception: Friday flat 8-dinar fee on every order"
+  },
+  {
+   "id": "4.35",
+   "sec": "§4",
+   "type": "S",
+   "text": "Club members 10% off used books only, not rare books or maps"
+  },
+  {
+   "id": "4.36",
+   "sec": "§4",
+   "type": "S",
+   "text": "Answer reservation requests within 12 hours"
+  },
+  {
+   "id": "4.37",
+   "sec": "§4",
+   "type": "S",
+   "text": "Send collection owners offers within 3 days of receiving list"
+  },
+  {
+   "id": "4.38",
+   "sec": "§4",
+   "type": "F",
+   "text": "Should suggest similar books if requested one sold"
+  },
+  {
+   "id": "4.39",
+   "sec": "§4",
+   "type": "F",
+   "text": "Certificate messages end with exact Arabic sentence"
+  },
+  {
+   "id": "4.40",
+   "sec": "§4",
+   "type": "F",
+   "text": "Purchase-offer messages begin with 'شكراً لثقتكم بمكتبة الورّاق'"
+  },
+  {
+   "id": "4.41",
+   "sec": "§4",
+   "type": "S",
+   "text": "Emergency trigger: anyone (customer or neighbor) reports smoke/water leak after closing"
+  },
+  {
+   "id": "4.42",
+   "sec": "§4",
+   "type": "S",
+   "text": "Call كريم's emergency line 0791 555 302 yourself, immediately, any hour"
+  },
+  {
+   "id": "4.43",
+   "sec": "§4",
+   "type": "S",
+   "text": "Tell reporter someone from shop is on the way"
+  },
+  {
+   "id": "4.44",
+   "sec": "§4",
+   "type": "S",
+   "text": "Tell reporter to keep away from entrance and not go in"
+  },
+  {
+   "id": "4.45",
+   "sec": "§4",
+   "type": "S",
+   "text": "Do not ask reporter to call كريم"
+  },
+  {
+   "id": "4.46",
+   "sec": "§4",
+   "type": "F",
+   "text": "Sunday 9:00: سلمى gets summary of open reservations and deposits"
+  },
+  {
+   "id": "4.47",
+   "sec": "§4",
+   "type": "F",
+   "text": "Last day of month 16:00: كريم gets list of accepted offers"
+  },
+  {
+   "id": "4.48",
+   "sec": "§4",
+   "type": "S",
+   "text": "Unsure of condition: promise nothing until an appraiser checks"
+  },
+  {
+   "id": "4.49",
+   "sec": "§4",
+   "type": "S",
+   "text": "Message fitting no rule: ask سلمى"
+  }
+ ],
+ "A": {
+  "kept": 195,
+  "distorted": [],
+  "lost": [
+   {
+    "id": "1.06",
+    "type": "F",
+    "why": "'shared' inbox descriptor omitted"
+   }
+  ],
+  "added": [
+   "Note that the >$250 special-order approver is not named (accurate meta-comment, not in original wording; no rule change)"
+  ]
+ },
+ "B": {
+  "kept": 195,
+  "distorted": [],
+  "lost": [
+   {
+    "id": "1.06",
+    "type": "F",
+    "why": "'shared' inbox descriptor omitted"
+   }
+  ],
+  "added": [
+   "Note that the >$250 special-order approver is not named (accurate meta-comment, not in original wording; no rule change)"
+  ]
+ },
+ "X": {
+  "kept": 194,
+  "distorted": [],
+  "lost": [
+   {
+    "id": "1.06",
+    "type": "F",
+    "why": "'shared' inbox descriptor omitted"
+   },
+   {
+    "id": "2.15",
+    "type": "S",
+    "why": "최지훈's title 주임 (supervisor) dropped; only 'from the management office' kept"
+   }
+  ],
+  "added": [
+   "Note that the >$250 special-order approver is not named (accurate meta-comment, not in original wording; no rule change)"
+  ]
+ },
+ "Y": {
+  "kept": 192,
+  "distorted": [
+   {
+    "id": "2.27",
+    "type": "F",
+    "why": "'bulletin boards in the complex' widened to 'in each building of the complex'"
+   },
+   {
+    "id": "2.32",
+    "type": "F",
+    "why": "leftover 'insulation' (보온재, covers+cables) narrowed to 'leftover covers'"
+   }
+  ],
+  "lost": [
+   {
+    "id": "1.06",
+    "type": "F",
+    "why": "'shared' inbox descriptor omitted"
+   },
+   {
+    "id": "2.15",
+    "type": "S",
+    "why": "최지훈's title 주임 (supervisor) dropped; only 'from the management office' kept"
+   }
+  ],
+  "added": [
+   "Note that the >$250 special-order approver is not named (accurate meta-comment, not in original wording; no rule change)",
+   "'in each building' (bulletin-board location not in original)"
+  ]
+ }
+}
