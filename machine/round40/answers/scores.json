@@ -1,0 +1,5496 @@
+{
+ "rows": [
+  {
+   "f": "llm05_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - $340 + $60 rush surcharge = $400, not above the $400 limit",
+   "gold": "yes — $340 + $60 rush surcharge = $400, within the $400 repair limit"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helen Okafor (studio manager) - $345 + $60 = $405, above $400",
+   "gold": "Helen Okafor, the studio manager (total $405 is above $400)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tessa Brandt (owner)",
+   "gold": "Tessa Brandt, the owner"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - above $150, needs Tessa Brandt's approval",
+   "gold": "no — the $400 limit is for repairs only; commissions above $150 need Tessa Brandt"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - rush never applies to commission orders",
+   "gold": "no — commission orders are never offered as rush"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - weekday checks are at 8:30 and 13:30 only",
+   "gold": "no — weekdays only at 8:30 and 13:30"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - only the lead glazier (Rafael Nunes) can sign installation safety sign-offs",
+   "gold": "no — only the lead glazier (Rafael Nunes) may sign it"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - every repair customer gets a care leaflet and microfibre cloth",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated (text gives $300 threshold without saying whether exactly $300 qualifies)",
+   "gold": "no — only for repairs costing more than $300"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0147 (emergency glazing line, not the studio main line)",
+   "gold": "555-0147"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes - approval requests must state the quote amount and attach the photo of the panel",
+   "gold": "no — it is recommended (should), not required; only the quote amount is required"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "within 2 hours",
+   "gold": "24 hours (the 2-hour rule applies on Fridays only)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - forward the supplier's sample request to Helen",
+   "gold": "no — forward the request to Helen; the free-sample permission is for customers"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$10 - 3 tiles free, each extra tile $5",
+   "gold": "$10 (2 tiles beyond the third × $5)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - there are no collection points in building lobbies",
+   "gold": "no — only at the tent on the south-gate square"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "yes — 'unopened' applies only to socks"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - donations must be delivered in person by the resident; only exception is residents over 75 living alone",
+   "gold": "no — must be delivered in person; no collection service"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - the exception is only for residents over 75 living alone",
+   "gold": "no — the exception is only for residents over 75 living alone"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no — the deadline is 17:00 on December 10"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "8 yuan (one voucher); max 4 bags per household accepted",
+   "gold": "32 yuan (max 4 bags × 8 yuan)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - each bag must not exceed 5 kg",
+   "gold": "no — each bag must be at most 5 kg"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Liu Jingyi (刘静怡), the property customer-service supervisor"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Property customer service supervisor (物业客服主管)",
+   "gold": "property customer-service supervisor (物业客服主管)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no — only on the complex's bulletin boards (one at the south gate, one at the north gate)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - collection is 9:00-11:30 and 14:00-16:30",
+   "gold": "no — collection is 9:00–11:30 and 14:00–16:30"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "0571-8836 2049 (Liu Jingyi)",
+   "gold": "0571-8836 2049"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - Saturday 10% member discount makes it 171 euros, under 180",
+   "gold": "yes — 10% Saturday member discount makes it 171 euros, within the 180-euro limit"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lucía Ferrer (operations manager) - no discount on Fridays, 190 > 180",
+   "gold": "Lucía Ferrer, the head of operations (no discount on Friday; 190 > 180)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - up to 300 euros can be confirmed",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tomás Ibarra (head instructor)",
+   "gold": "Tomás Ibarra, the head instructor"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - Andrés Gil cannot approve enrollments; Tomás Ibarra must",
+   "gold": "no — only Tomás Ibarra, the head instructor, approves courses above 300 euros"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - only Marta Soler approves refunds; Lucía issues exchange vouchers",
+   "gold": "no — only Marta Soler may approve refunds"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - snorkel trips are never a double dive",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the 40-euro deposit",
+   "gold": "the 40-euro deposit"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - full refund when the maritime authority closes the port",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - under-16 night dive allowed if accompanied by a parent with advanced/higher certification",
+   "gold": "yes (exception: accompanied by a parent with Advanced certification or higher)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - hotel changes need Lucía Ferrer's approval",
+   "gold": "no — a hotel request needs Lucía Ferrer's approval"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "900 555 312 (dive medical line)",
+   "gold": "900 555 312"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - sea forecast is recommended, not mandatory",
+   "gold": "no — it is recommended, not required (meeting time and place are required)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - every course student gets a logbook and centre sticker",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - up to 2500 rupees can be approved",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Anil Kapoor (store manager)",
+   "gold": "Anil Kapoor (अनिल कपूर), the store manager"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Rekha Nair (head optometrist)",
+   "gold": "needs approval; approver not stated"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - up to 1500 rupees can be accepted",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - changes over 2.00 must be certified by the head optometrist",
+   "gold": "no — changes above 2.00 only the chief optometrist (Rekha Nair) may certify"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - Anil Kapoor can give credit but cannot approve refunds; Sunita Mehra approves refunds",
+   "gold": "no — only Sunita Mehra may approve refunds"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1800 rupees (40%)",
+   "gold": "1800 rupees (40% of 4500)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4500 rupees (full refund, shop's mistake)",
+   "gold": "4500 rupees (full refund)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "50 rupees (5% of order amount)",
+   "gold": "60 rupees (5% is 50, below the 60 minimum)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - prescription copies go to the customer only",
+   "gold": "no — do not send it; inform Anil Kapoor"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "200 rupees - free Wednesday checks are only for 60 or older",
+   "gold": "200 rupees"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q12",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "98100 45672 (eye hospital emergency, not the shop number 98100 45627)",
+   "gold": "98100 45672"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - repurchase of the same lenses without a valid prescription is only within 6 months",
+   "gold": "no — the exception covers only lenses bought within the last 6 months"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - express (48 hours, 300 rupees) applies to glasses only",
+   "gold": "no — express is for spectacles only"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $340 + $60 rush surcharge = $400, within the $400 limit",
+   "gold": "yes — $340 + $60 rush surcharge = $400, within the $400 repair limit"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helen Okafor ($345 + $60 = $405, over $400)",
+   "gold": "Helen Okafor, the studio manager (total $405 is above $400)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tessa Brandt",
+   "gold": "Tessa Brandt, the owner"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, over $150 needs Tessa Brandt's approval",
+   "gold": "no — the $400 limit is for repairs only; commissions above $150 need Tessa Brandt"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no — commission orders are never offered as rush"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, checks only at 8:30 and 13:30",
+   "gold": "no — weekdays only at 8:30 and 13:30"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only the lead glazier (Rafael Nunes) may sign installation safety sign-offs",
+   "gold": "no — only the lead glazier (Rafael Nunes) may sign it"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only for repairs costing more than $300",
+   "gold": "no — only for repairs costing more than $300"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0147",
+   "gold": "555-0147"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes, attach the panel photo if the customer sent one",
+   "gold": "no — it is recommended (should), not required; only the quote amount is required"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "within 2 hours",
+   "gold": "24 hours (the 2-hour rule applies on Fridays only)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, forward the request to Helen",
+   "gold": "no — forward the request to Helen; the free-sample permission is for customers"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$10 (first 3 free, 2 extra at $5 each)",
+   "gold": "$10 (2 tiles beyond the third × $5)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only the recycling tent at the south gate plaza",
+   "gold": "no — only at the tent on the south-gate square"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes — 'unopened' applies only to socks"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only residents over 75 living alone are excepted",
+   "gold": "no — must be delivered in person; no collection service"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, exception is only for those over 75 living alone",
+   "gold": "no — the exception is only for residents over 75 living alone"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, deadline is 17:00 on December 10",
+   "gold": "no — the deadline is 17:00 on December 10"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "8 yuan (one voucher); max 4 bags accepted",
+   "gold": "32 yuan (max 4 bags × 8 yuan)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, max 5 kg per bag",
+   "gold": "no — each bag must be at most 5 kg"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Liu Jingyi (刘静怡), the property customer-service supervisor"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "property customer service supervisor (物业客服主管)",
+   "gold": "property customer-service supervisor (物业客服主管)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no — only on the complex's bulletin boards (one at the south gate, one at the north gate)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, no collection at midday",
+   "gold": "no — collection is 9:00–11:30 and 14:00–16:30"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "0571-8836 2049",
+   "gold": "0571-8836 2049"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, 10% Saturday member discount makes it 171 euros",
+   "gold": "yes — 10% Saturday member discount makes it 171 euros, within the 180-euro limit"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lucía Ferrer",
+   "gold": "Lucía Ferrer, the head of operations (no discount on Friday; 190 > 180)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tomás Ibarra",
+   "gold": "Tomás Ibarra, the head instructor"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Andrés Gil cannot approve enrollments",
+   "gold": "no — only Tomás Ibarra, the head instructor, approves courses above 300 euros"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only Marta Soler can approve refunds",
+   "gold": "no — only Marta Soler may approve refunds"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the 40-euro deposit",
+   "gold": "the 40-euro deposit"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes (exception: accompanied by a parent with Advanced certification or higher)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, needs Lucía Ferrer's approval",
+   "gold": "no — a hotel request needs Lucía Ferrer's approval"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "900 555 312",
+   "gold": "900 555 312"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, recommended but not mandatory",
+   "gold": "no — it is recommended, not required (meeting time and place are required)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Anil Kapoor",
+   "gold": "Anil Kapoor (अनिल कपूर), the store manager"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval; approver not stated"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, changes over 2.00 need the chief optometrist Rekha Nair",
+   "gold": "no — changes above 2.00 only the chief optometrist (Rekha Nair) may certify"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only Sunita Mehra can approve refunds",
+   "gold": "no — only Sunita Mehra may approve refunds"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1800 rupees (40%)",
+   "gold": "1800 rupees (40% of 4500)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4500 rupees (full refund)",
+   "gold": "4500 rupees (full refund)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "60 rupees (5% is 50, minimum 60)",
+   "gold": "60 rupees (5% is 50, below the 60 minimum)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, do not send it; inform Anil Kapoor",
+   "gold": "no — do not send it; inform Anil Kapoor"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "200 rupees",
+   "gold": "200 rupees"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "98100 45672",
+   "gold": "98100 45672"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no — the exception covers only lenses bought within the last 6 months"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, express is only for glasses",
+   "gold": "no — express is for spectacles only"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; $340 + $60 rush surcharge = $400, which is within the $400 limit",
+   "gold": "yes — $340 + $60 rush surcharge = $400, within the $400 repair limit"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helen Okafor, studio manager ($345 + $60 = $405, over $400)",
+   "gold": "Helen Okafor, the studio manager (total $405 is above $400)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tessa Brandt, owner",
+   "gold": "Tessa Brandt, the owner"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; over $150, needs Tessa Brandt's approval",
+   "gold": "no — the $400 limit is for repairs only; commissions above $150 need Tessa Brandt"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; commission orders are never offered as rush",
+   "gold": "no — commission orders are never offered as rush"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Mon-Fri inbox is checked only at 8:30 and 13:30",
+   "gold": "no — weekdays only at 8:30 and 13:30"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only the lead glazier (Rafael Nunes) may sign the installation safety sign-off",
+   "gold": "no — only the lead glazier (Rafael Nunes) may sign it"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the film is only for repairs costing more than $300",
+   "gold": "no — only for repairs costing more than $300"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0147 (emergency glazing line)",
+   "gold": "555-0147"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; attaching the photo is recommended (should), not required",
+   "gold": "no — it is recommended (should), not required; only the quote amount is required"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 24 hours (the 2h rule applies only on Fridays)",
+   "gold": "24 hours (the 2-hour rule applies on Fridays only)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never send anything, forward the request to Helen",
+   "gold": "no — forward the request to Helen; the free-sample permission is for customers"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$10 (first 3 tiles free, $5 each for the 4th and 5th)",
+   "gold": "$10 (2 tiles beyond the third × $5)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the only collection point is the tent at the south gate square (南门广场), no lobby collection, never leave clothes in lobbies",
+   "gold": "no — only at the tent on the south-gate square"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, if washed clean and bagged; sweaters are accepted",
+   "gold": "yes — 'unopened' applies only to socks"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; no proxy collection, the only exception is residents over 75 living alone",
+   "gold": "no — must be delivered in person; no collection service"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; over 75, living alone, booked before Dec 10 17:00",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; home pickup is only for residents over 75 living alone",
+   "gold": "no — the exception is only for residents over 75 living alone"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; deadline is Dec 10 17:00",
+   "gold": "no — the deadline is 17:00 on December 10"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "32 yuan (max 4 bags per household x 8 yuan)",
+   "gold": "32 yuan (max 4 bags × 8 yuan)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; each bag at most 5 kg",
+   "gold": "no — each bag must be at most 5 kg"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Liu Jingyi (刘静怡), property customer-service supervisor, 0571-8836 2049 (working days 8:30-17:30)",
+   "gold": "Liu Jingyi (刘静怡), the property customer-service supervisor"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "物业客服主管 (property management customer-service supervisor)",
+   "gold": "property customer-service supervisor (物业客服主管)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it is posted on the notice boards at the south gate and north gate only",
+   "gold": "no — only on the complex's bulletin boards (one at the south gate, one at the north gate)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; no collection at noon (hours 9:00-11:30 and 14:00-16:30)",
+   "gold": "no — collection is 9:00–11:30 and 14:00–16:30"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "0571-8836 2049",
+   "gold": "0571-8836 2049"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; Saturday 10% member discount brings it to 171 euros, under 180",
+   "gold": "yes — 10% Saturday member discount makes it 171 euros, within the 180-euro limit"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lucía Ferrer, jefa de operaciones (no discount on Friday, 190 euros is over 180)",
+   "gold": "Lucía Ferrer, the head of operations (no discount on Friday; 190 > 180)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; up to 300 euros is allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tomás Ibarra",
+   "gold": "Tomás Ibarra, the head instructor"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Andrés Gil is not instructor jefe, so he may not approve enrolments; Tomás Ibarra must approve",
+   "gold": "no — only Tomás Ibarra, the head instructor, approves courses above 300 euros"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Marta Soler may approve refunds",
+   "gold": "no — only Marta Soler may approve refunds"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the 40-euro deposit (señal)",
+   "gold": "the 40-euro deposit"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; accompanied by his mother with Advanced certification",
+   "gold": "yes (exception: accompanied by a parent with Advanced certification or higher)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; a partner hotel's date change request needs Lucía Ferrer's approval",
+   "gold": "no — a hotel request needs Lucía Ferrer's approval"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "900 555 312 (dive medical line)",
+   "gold": "900 555 312"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the sea forecast is recommended, not mandatory",
+   "gold": "no — it is recommended, not required (meeting time and place are required)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; up to 2500 rupees may be approved",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "अनिल कपूर (Anil Kapoor), store manager",
+   "gold": "Anil Kapoor (अनिल कपूर), the store manager"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "approval is needed, but the approver is not stated",
+   "gold": "needs approval; approver not stated"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; changes over 2.00 may only be certified by the chief optometrist (रेखा नायर)",
+   "gold": "no — changes above 2.00 only the chief optometrist (Rekha Nair) may certify"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only सुनीता मेहरा (Sunita Mehra) may approve refunds; Anil may give store credit",
+   "gold": "no — only Sunita Mehra may approve refunds"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1800 rupees (40%)",
+   "gold": "1800 rupees (40% of 4500)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4500 rupees (full refund)",
+   "gold": "4500 rupees (full refund)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "60 rupees (5% = 50, minimum 60)",
+   "gold": "60 rupees (5% is 50, below the 60 minimum)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never send it, inform अनिल कपूर (Anil Kapoor)",
+   "gold": "no — do not send it; inform Anil Kapoor"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "200 rupees (free test only for 60 or older)",
+   "gold": "200 rupees"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "98100 45672 (eye hospital emergency line)",
+   "gold": "98100 45672"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the exception is only for the same lens bought within the last 6 months",
+   "gold": "no — the exception covers only lenses bought within the last 6 months"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; express is only for glasses",
+   "gold": "no — express is for spectacles only"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; $340 + $60 rush surcharge = $400, within the $400 limit",
+   "gold": "yes — $340 + $60 rush surcharge = $400, within the $400 repair limit"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helen Okafor, studio manager ($345 + $60 = $405)",
+   "gold": "Helen Okafor, the studio manager (total $405 is above $400)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tessa Brandt, owner",
+   "gold": "Tessa Brandt, the owner"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; above $150 needs Tessa Brandt's approval",
+   "gold": "no — the $400 limit is for repairs only; commissions above $150 need Tessa Brandt"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; commission orders are never offered as rush",
+   "gold": "no — commission orders are never offered as rush"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only at 8:30 and 13:30 on weekdays",
+   "gold": "no — weekdays only at 8:30 and 13:30"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only the lead glazier (Rafael Nunes) may sign",
+   "gold": "no — only the lead glazier (Rafael Nunes) may sign it"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only for repairs costing more than $300",
+   "gold": "no — only for repairs costing more than $300"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0147 (emergency glazing line)",
+   "gold": "555-0147"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it should be attached but is not required (amount must be stated)",
+   "gold": "no — it is recommended (should), not required; only the quote amount is required"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "within 24 hours (the 2-hour rule is Fridays only)",
+   "gold": "24 hours (the 2-hour rule applies on Fridays only)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never send anything, forward the request to Helen",
+   "gold": "no — forward the request to Helen; the free-sample permission is for customers"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$10 (first 3 free, $5 each beyond the 3rd)",
+   "gold": "$10 (2 tiles beyond the third × $5)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only at the collection tent at 南门广场",
+   "gold": "no — only at the tent on the south-gate square"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, if washed clean and bagged",
+   "gold": "yes — 'unopened' applies only to socks"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; no proxy collection (exception only for over-75s living alone)",
+   "gold": "no — must be delivered in person; no collection service"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only for those over 75 living alone",
+   "gold": "no — the exception is only for residents over 75 living alone"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; deadline is December 10 17:00",
+   "gold": "no — the deadline is 17:00 on December 10"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "32 yuan (max 4 bags per household, 8 yuan each)",
+   "gold": "32 yuan (max 4 bags × 8 yuan)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; max 5 kg per bag",
+   "gold": "no — each bag must be at most 5 kg"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "刘静怡 (Liu Jingyi), 物业客服主管, 0571-8836 2049",
+   "gold": "Liu Jingyi (刘静怡), the property customer-service supervisor"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "物业客服主管 (property customer service supervisor)",
+   "gold": "property customer-service supervisor (物业客服主管)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; posted on the notice boards at 南门 and 北门",
+   "gold": "no — only on the complex's bulletin boards (one at the south gate, one at the north gate)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; no collection at noon",
+   "gold": "no — collection is 9:00–11:30 and 14:00–16:30"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "0571-8836 2049",
+   "gold": "0571-8836 2049"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; 10% Saturday member discount brings it to 171 euros",
+   "gold": "yes — 10% Saturday member discount makes it 171 euros, within the 180-euro limit"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lucía Ferrer, jefa de operaciones",
+   "gold": "Lucía Ferrer, the head of operations (no discount on Friday; 190 > 180)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tomás Ibarra, instructor jefe",
+   "gold": "Tomás Ibarra, the head instructor"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Andrés Gil may not approve enrolments",
+   "gold": "no — only Tomás Ibarra, the head instructor, approves courses above 300 euros"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Marta Soler may approve refunds",
+   "gold": "no — only Marta Soler may approve refunds"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the 40-euro deposit (señal)",
+   "gold": "the 40-euro deposit"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; accompanied by mother with Advanced certification",
+   "gold": "yes (exception: accompanied by a parent with Advanced certification or higher)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; needs Lucía Ferrer's approval",
+   "gold": "no — a hotel request needs Lucía Ferrer's approval"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "900 555 312 (dive medical line)",
+   "gold": "900 555 312"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; recommended, not mandatory",
+   "gold": "no — it is recommended, not required (meeting time and place are required)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "अनिल कपूर (Anil Kapoor), store manager",
+   "gold": "Anil Kapoor (अनिल कपूर), the store manager"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval; approver not stated"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; changes over 2.00 need the chief optometrist (रेखा नायर)",
+   "gold": "no — changes above 2.00 only the chief optometrist (Rekha Nair) may certify"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only सुनीता मेहरा may approve refunds",
+   "gold": "no — only Sunita Mehra may approve refunds"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1800 rupees (40%)",
+   "gold": "1800 rupees (40% of 4500)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4500 rupees (full refund)",
+   "gold": "4500 rupees (full refund)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "60 rupees (5% = 50, minimum 60)",
+   "gold": "60 rupees (5% is 50, below the 60 minimum)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; never send it, inform अनिल कपूर",
+   "gold": "no — do not send it; inform Anil Kapoor"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "200 rupees",
+   "gold": "200 rupees"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "98100 45672 (eye hospital emergency line)",
+   "gold": "98100 45672"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; exception only for purchases within the last 6 months",
+   "gold": "no — the exception covers only lenses bought within the last 6 months"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; express is only for glasses",
+   "gold": "no — express is for spectacles only"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $340 + $60 rush surcharge = $400, within the $400 limit",
+   "gold": "yes — $340 + $60 rush surcharge = $400, within the $400 repair limit"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helen Okafor (studio manager); $345 + $60 = $405 exceeds $400",
+   "gold": "Helen Okafor, the studio manager (total $405 is above $400)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tessa Brandt (owner)",
+   "gold": "Tessa Brandt, the owner"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, above $150 it needs Tessa",
+   "gold": "no — the $400 limit is for repairs only; commissions above $150 need Tessa Brandt"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, commissions are never offered as rush",
+   "gold": "no — commission orders are never offered as rush"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, weekdays only at 8:30 and 13:30",
+   "gold": "no — weekdays only at 8:30 and 13:30"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only the lead glazier (Rafael Nunes) may sign it",
+   "gold": "no — only the lead glazier (Rafael Nunes) may sign it"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only if the repair cost is over $300",
+   "gold": "no — only for repairs costing more than $300"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0147 (emergency glazing line)",
+   "gold": "555-0147"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it should attach it but is not required",
+   "gold": "no — it is recommended (should), not required; only the quote amount is required"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "24 hours (the 2-hour rule applies only on Fridays)",
+   "gold": "24 hours (the 2-hour rule applies on Fridays only)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, send nothing and forward the request to Helen",
+   "gold": "no — forward the request to Helen; the free-sample permission is for customers"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$10 (3 free, 2 extra at $5 each)",
+   "gold": "$10 (2 tiles beyond the third × $5)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only at the collection tent in the south-gate square",
+   "gold": "no — only at the tent on the south-gate square"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, if washed and bagged",
+   "gold": "yes — 'unopened' applies only to socks"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, no property proxy collection; only seniors 75+ living alone can book home pickup",
+   "gold": "no — must be delivered in person; no collection service"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, booked before the Dec 10 17:00 deadline",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only seniors 75+ living alone",
+   "gold": "no — the exception is only for residents over 75 living alone"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the deadline is Dec 10 17:00",
+   "gold": "no — the deadline is 17:00 on December 10"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "32 yuan (max 4 bags x 8 yuan)",
+   "gold": "32 yuan (max 4 bags × 8 yuan)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, bags max 5 kg",
+   "gold": "no — each bag must be at most 5 kg"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Liu Jingyi, customer-service supervisor, 0571-8836 2049, weekdays 8:30-17:30",
+   "gold": "Liu Jingyi (刘静怡), the property customer-service supervisor"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "customer-service supervisor (property)",
+   "gold": "property customer-service supervisor (物业客服主管)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only one board each at the south gate and north gate",
+   "gold": "no — only on the complex's bulletin boards (one at the south gate, one at the north gate)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, no collection at noon",
+   "gold": "no — collection is 9:00–11:30 and 14:00–16:30"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "0571-8836 2049",
+   "gold": "0571-8836 2049"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, 10% Saturday member discount makes it 171 euros, within 180",
+   "gold": "yes — 10% Saturday member discount makes it 171 euros, within the 180-euro limit"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lucía Ferrer (operations head); no discount on Friday, 190 euros exceeds 180",
+   "gold": "Lucía Ferrer, the head of operations (no discount on Friday; 190 > 180)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tomás Ibarra (head instructor)",
+   "gold": "Tomás Ibarra, the head instructor"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Andrés may not approve enrollments; above 300 euros needs Tomás",
+   "gold": "no — only Tomás Ibarra, the head instructor, approves courses above 300 euros"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only Marta may approve refunds",
+   "gold": "no — only Marta Soler may approve refunds"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the 40-euro deposit",
+   "gold": "the 40-euro deposit"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, accompanied by a parent with Advanced certification (signed medical form still required to confirm)",
+   "gold": "yes (exception: accompanied by a parent with Advanced certification or higher)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, a partner hotel request needs Lucía",
+   "gold": "no — a hotel request needs Lucía Ferrer's approval"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "900 555 312 (dive medical line)",
+   "gold": "900 555 312"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer himself",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, recommended but not required",
+   "gold": "no — it is recommended, not required (meeting time and place are required)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Anil Kapoor (store manager)",
+   "gold": "Anil Kapoor (अनिल कपूर), the store manager"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval; approver not stated"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, a change over 2.00 needs the chief optometrist (Rekha Nair)",
+   "gold": "no — changes above 2.00 only the chief optometrist (Rekha Nair) may certify"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only Sunita may approve refunds",
+   "gold": "no — only Sunita Mehra may approve refunds"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1800 rupees (40%)",
+   "gold": "1800 rupees (40% of 4500)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4500 rupees (full refund)",
+   "gold": "4500 rupees (full refund)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "60 rupees (5% = 50, minimum 60)",
+   "gold": "60 rupees (5% is 50, below the 60 minimum)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, don't send it; inform Anil",
+   "gold": "no — do not send it; inform Anil Kapoor"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "200 rupees (free only for 60+)",
+   "gold": "200 rupees"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "98100 45672 (eye-hospital emergency line)",
+   "gold": "98100 45672"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the exception covers only purchases within the last 6 months",
+   "gold": "no — the exception covers only lenses bought within the last 6 months"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, express is for glasses only",
+   "gold": "no — express is for spectacles only"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, $340 + $60 rush surcharge = $400, within the $400 limit",
+   "gold": "yes — $340 + $60 rush surcharge = $400, within the $400 repair limit"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helen Okafor ($345 + $60 = $405, above $400)",
+   "gold": "Helen Okafor, the studio manager (total $405 is above $400)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tessa Brandt",
+   "gold": "Tessa Brandt, the owner"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, above $150 it needs Tessa",
+   "gold": "no — the $400 limit is for repairs only; commissions above $150 need Tessa Brandt"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, commissions are never offered as rush",
+   "gold": "no — commission orders are never offered as rush"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, weekdays only at 8:30 and 13:30",
+   "gold": "no — weekdays only at 8:30 and 13:30"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only the lead glazier (Rafael Nunes) may sign it",
+   "gold": "no — only the lead glazier (Rafael Nunes) may sign it"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only if repair cost is over $300",
+   "gold": "no — only for repairs costing more than $300"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0147 (emergency glazing line)",
+   "gold": "555-0147"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it should be attached but is not required (only the quote amount is required)",
+   "gold": "no — it is recommended (should), not required; only the quote amount is required"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "24 hours (the 2-hour rule applies only on Fridays)",
+   "gold": "24 hours (the 2-hour rule applies on Fridays only)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, send nothing and forward the request to Helen",
+   "gold": "no — forward the request to Helen; the free-sample permission is for customers"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$10 (3 free, 2 extra at $5 each)",
+   "gold": "$10 (2 tiles beyond the third × $5)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only at the collection tent at the south-gate square; no lobby points",
+   "gold": "no — only at the tent on the south-gate square"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, if washed and bagged (sweaters accepted, undamaged)",
+   "gold": "yes — 'unopened' applies only to socks"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, proxy collection only via volunteer pickup for seniors 75+ living alone",
+   "gold": "no — must be delivered in person; no collection service"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, booked before the Dec 10 17:00 deadline",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, home pickup is only for seniors 75+ living alone",
+   "gold": "no — the exception is only for residents over 75 living alone"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, deadline is Dec 10 17:00",
+   "gold": "no — the deadline is 17:00 on December 10"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "32 yuan (max 4 bags x 8 yuan)",
+   "gold": "32 yuan (max 4 bags × 8 yuan)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, max 5 kg per bag",
+   "gold": "no — each bag must be at most 5 kg"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Liu Jingyi, customer-service supervisor, 0571-8836 2049, weekdays 8:30-17:30",
+   "gold": "Liu Jingyi (刘静怡), the property customer-service supervisor"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "property customer-service supervisor",
+   "gold": "property customer-service supervisor (物业客服主管)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only on bulletin boards at the south gate and north gate",
+   "gold": "no — only on the complex's bulletin boards (one at the south gate, one at the north gate)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, no collection at noon (morning ends 11:30, afternoon starts 14:00)",
+   "gold": "no — collection is 9:00–11:30 and 14:00–16:30"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "0571-8836 2049",
+   "gold": "0571-8836 2049"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, Saturday member 10% off makes it 171 euros, within 180",
+   "gold": "yes — 10% Saturday member discount makes it 171 euros, within the 180-euro limit"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lucía Ferrer (no discount on Friday, 190 euros is above 180)",
+   "gold": "Lucía Ferrer, the head of operations (no discount on Friday; 190 > 180)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tomás Ibarra",
+   "gold": "Tomás Ibarra, the head instructor"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Andrés may not approve enrollments; above 300 euros needs Tomás",
+   "gold": "no — only Tomás Ibarra, the head instructor, approves courses above 300 euros"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only Marta may approve refunds",
+   "gold": "no — only Marta Soler may approve refunds"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the 40-euro deposit",
+   "gold": "the 40-euro deposit"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, accompanied by a parent with Advanced certification (signed medical form still required)",
+   "gold": "yes (exception: accompanied by a parent with Advanced certification or higher)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, a partner hotel request needs Lucía",
+   "gold": "no — a hotel request needs Lucía Ferrer's approval"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "900 555 312 (dive medical line)",
+   "gold": "900 555 312"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer himself",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, recommended but not required",
+   "gold": "no — it is recommended, not required (meeting time and place are required)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Anil Kapoor",
+   "gold": "Anil Kapoor (अनिल कपूर), the store manager"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval; approver not stated"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, a change over 2.00 can only be certified by the chief optometrist (Rekha Nair)",
+   "gold": "no — changes above 2.00 only the chief optometrist (Rekha Nair) may certify"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, only Sunita may approve refunds; Anil may only give store credit",
+   "gold": "no — only Sunita Mehra may approve refunds"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1800 rupees (40%)",
+   "gold": "1800 rupees (40% of 4500)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4500 rupees (full refund)",
+   "gold": "4500 rupees (full refund)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "60 rupees (5% = 50, minimum 60)",
+   "gold": "60 rupees (5% is 50, below the 60 minimum)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, don't send it; inform Anil",
+   "gold": "no — do not send it; inform Anil Kapoor"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "200 rupees (free only for 60+)",
+   "gold": "200 rupees"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "98100 45672 (eye-hospital emergency line)",
+   "gold": "98100 45672"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the exception covers only purchases in the last 6 months",
+   "gold": "no — the exception covers only lenses bought within the last 6 months"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, express is for glasses only",
+   "gold": "no — express is for spectacles only"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - $340 + $60 rush surcharge = $400, within the $400 limit",
+   "gold": "yes — $340 + $60 rush surcharge = $400, within the $400 repair limit"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helen Okafor (studio manager) - $345 + $60 = $405, above $400",
+   "gold": "Helen Okafor, the studio manager (total $405 is above $400)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tessa Brandt (owner)",
+   "gold": "Tessa Brandt, the owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - above $150, needs Tessa Brandt's approval",
+   "gold": "no — the $400 limit is for repairs only; commissions above $150 need Tessa Brandt"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no — commission orders are never offered as rush"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - only at 8:30 and 13:30 on weekdays",
+   "gold": "no — weekdays only at 8:30 and 13:30"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - only the lead glazier (Rafael Nunes) may sign it",
+   "gold": "no — only the lead glazier (Rafael Nunes) may sign it"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - only for repairs costing more than $300",
+   "gold": "no — only for repairs costing more than $300"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0147",
+   "gold": "555-0147"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - should attach it, but only the quote amount is required",
+   "gold": "no — it is recommended (should), not required; only the quote amount is required"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "24 hours (the 2-hour rule applies only on Fridays)",
+   "gold": "24 hours (the 2-hour rule applies on Fridays only)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - send nothing; forward the request to Helen",
+   "gold": "no — forward the request to Helen; the free-sample permission is for customers"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$10 (first 3 free, $5 each for the 4th and 5th)",
+   "gold": "$10 (2 tiles beyond the third × $5)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - only at the recycling tent in the south gate plaza",
+   "gold": "no — only at the tent on the south-gate square"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - if washed and bagged",
+   "gold": "yes — 'unopened' applies only to socks"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - no proxy collection; only residents over 75 living alone may book a volunteer pickup",
+   "gold": "no — must be delivered in person; no collection service"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - only for residents over 75 living alone",
+   "gold": "no — the exception is only for residents over 75 living alone"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - deadline is before 17:00 on December 10",
+   "gold": "no — the deadline is 17:00 on December 10"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "32 yuan (max 4 bags per household x 8 yuan)",
+   "gold": "32 yuan (max 4 bags × 8 yuan)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - each bag max 5 kg",
+   "gold": "no — each bag must be at most 5 kg"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Liu Jingyi, property customer service supervisor, 0571-8836 2049 (weekdays 8:30-17:30)",
+   "gold": "Liu Jingyi (刘静怡), the property customer-service supervisor"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "property customer service supervisor (物业客服主管)",
+   "gold": "property customer-service supervisor (物业客服主管)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - only on the bulletin boards at the south and north gates",
+   "gold": "no — only on the complex's bulletin boards (one at the south gate, one at the north gate)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - no collection at noon",
+   "gold": "no — collection is 9:00–11:30 and 14:00–16:30"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "0571-8836 2049",
+   "gold": "0571-8836 2049"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - 10% Saturday member discount makes it 171 euros, within 180",
+   "gold": "yes — 10% Saturday member discount makes it 171 euros, within the 180-euro limit"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lucía Ferrer (no discount on Friday; 190 euros exceeds 180)",
+   "gold": "Lucía Ferrer, the head of operations (no discount on Friday; 190 > 180)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tomás Ibarra (head instructor)",
+   "gold": "Tomás Ibarra, the head instructor"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - only the head instructor Tomás Ibarra can approve",
+   "gold": "no — only Tomás Ibarra, the head instructor, approves courses above 300 euros"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - only Marta Soler can approve refunds",
+   "gold": "no — only Marta Soler may approve refunds"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the 40-euro deposit",
+   "gold": "the 40-euro deposit"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - accompanied by a parent with Advanced certification (signed medical form still required)",
+   "gold": "yes (exception: accompanied by a parent with Advanced certification or higher)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - needs Lucía Ferrer's approval",
+   "gold": "no — a hotel request needs Lucía Ferrer's approval"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "900 555 312",
+   "gold": "900 555 312"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer (diver) themselves",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - recommended but not mandatory; meeting time and place are mandatory",
+   "gold": "no — it is recommended, not required (meeting time and place are required)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Anil Kapoor (store manager)",
+   "gold": "Anil Kapoor (अनिल कपूर), the store manager"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated - it needs approval but the approver is not named",
+   "gold": "needs approval; approver not stated"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - changes above 2.00 can only be certified by the chief optometrist (Rekha Nair)",
+   "gold": "no — changes above 2.00 only the chief optometrist (Rekha Nair) may certify"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - only Sunita Mehra can approve refunds",
+   "gold": "no — only Sunita Mehra may approve refunds"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1800 rupees (40%)",
+   "gold": "1800 rupees (40% of 4500)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4500 rupees (full refund)",
+   "gold": "4500 rupees (full refund)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "60 rupees (5% = 50, minimum 60)",
+   "gold": "60 rupees (5% is 50, below the 60 minimum)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - do not send; inform Anil Kapoor",
+   "gold": "no — do not send it; inform Anil Kapoor"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "200 rupees",
+   "gold": "200 rupees"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "98100 45672",
+   "gold": "98100 45672"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - same lenses must have been bought within the last 6 months",
+   "gold": "no — the exception covers only lenses bought within the last 6 months"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no — express is for spectacles only"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes ($340 + $60 rush = $400, within the $400 limit)",
+   "gold": "yes — $340 + $60 rush surcharge = $400, within the $400 repair limit"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helen Okafor (studio manager); $345 + $60 = $405 > $400",
+   "gold": "Helen Okafor, the studio manager (total $405 is above $400)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tessa Brandt (owner)",
+   "gold": "Tessa Brandt, the owner"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; over $150, needs Tessa Brandt",
+   "gold": "no — the $400 limit is for repairs only; commissions above $150 need Tessa Brandt"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; commissions never rush",
+   "gold": "no — commission orders are never offered as rush"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; weekdays checked only at 8:30 and 13:30",
+   "gold": "no — weekdays only at 8:30 and 13:30"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only the lead glazier (Rafael Nunes) may sign installation safety sign-offs",
+   "gold": "no — only the lead glazier (Rafael Nunes) may sign it"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; film only for repairs over $300",
+   "gold": "no — only for repairs costing more than $300"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0147 (emergency glazing line)",
+   "gold": "555-0147"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes, if the customer sent one",
+   "gold": "no — it is recommended (should), not required; only the quote amount is required"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "24 hours (2-hour rule applies only on Fridays)",
+   "gold": "24 hours (the 2-hour rule applies on Fridays only)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; send nothing and forward the request to Helen",
+   "gold": "no — forward the request to Helen; the free-sample permission is for customers"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$10 (3 free, 2 extra at $5 each)",
+   "gold": "$10 (2 tiles beyond the third × $5)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only the South Gate plaza tent, nothing in lobbies",
+   "gold": "no — only at the tent on the south-gate square"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, if washed and bagged",
+   "gold": "yes — 'unopened' applies only to socks"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; property does not collect on behalf, residents must deliver in person",
+   "gold": "no — must be delivered in person; no collection service"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; home pickup only for residents over 75 living alone",
+   "gold": "no — the exception is only for residents over 75 living alone"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; deadline is 17:00 on December 10",
+   "gold": "no — the deadline is 17:00 on December 10"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "32 yuan (max 4 bags per household x 8 yuan)",
+   "gold": "32 yuan (max 4 bags × 8 yuan)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; each bag must be 5 kg or less",
+   "gold": "no — each bag must be at most 5 kg"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Liu Jingyi (刘静怡), property customer service supervisor, 0571-8836 2049 (weekdays 8:30–17:30)",
+   "gold": "Liu Jingyi (刘静怡), the property customer-service supervisor"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "property customer service supervisor (物业客服主管)",
+   "gold": "property customer-service supervisor (物业客服主管)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only on the South Gate and North Gate notice boards",
+   "gold": "no — only on the complex's bulletin boards (one at the south gate, one at the north gate)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; no collection at midday (11:30–14:00)",
+   "gold": "no — collection is 9:00–11:30 and 14:00–16:30"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "0571-8836 2049",
+   "gold": "0571-8836 2049"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; Saturday 10% member discount brings it to 171 euros, within 180",
+   "gold": "yes — 10% Saturday member discount makes it 171 euros, within the 180-euro limit"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lucía Ferrer (no discount on Friday, 190 euros > 180)",
+   "gold": "Lucía Ferrer, the head of operations (no discount on Friday; 190 > 180)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tomás Ibarra (head instructor)",
+   "gold": "Tomás Ibarra, the head instructor"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Andrés Gil cannot approve enrollments (needs Tomás Ibarra)",
+   "gold": "no — only Tomás Ibarra, the head instructor, approves courses above 300 euros"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Marta Soler can approve refunds",
+   "gold": "no — only Marta Soler may approve refunds"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; snorkel never counts",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the 40-euro deposit",
+   "gold": "the 40-euro deposit"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; under 16 allowed with a parent holding Advanced or higher",
+   "gold": "yes (exception: accompanied by a parent with Advanced certification or higher)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; partner-hotel requests need Lucía Ferrer's approval",
+   "gold": "no — a hotel request needs Lucía Ferrer's approval"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "900 555 312 (diving medical line)",
+   "gold": "900 555 312"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; forecast is recommended but optional",
+   "gold": "no — it is recommended, not required (meeting time and place are required)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Anil Kapoor (store manager)",
+   "gold": "Anil Kapoor (अनिल कपूर), the store manager"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (approval is required above 1500 rupees, but the approver is not named)",
+   "gold": "needs approval; approver not stated"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; changes over 2.00 must be certified by the chief optometrist (Rekha Nair)",
+   "gold": "no — changes above 2.00 only the chief optometrist (Rekha Nair) may certify"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Sunita Mehra can refund (Anil can give store credit)",
+   "gold": "no — only Sunita Mehra may approve refunds"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1800 rupees (40%)",
+   "gold": "1800 rupees (40% of 4500)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "4500 rupees (full refund)",
+   "gold": "4500 rupees (full refund)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "60 rupees (5% = 50, minimum 60)",
+   "gold": "60 rupees (5% is 50, below the 60 minimum)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; do not send, inform Anil Kapoor",
+   "gold": "no — do not send it; inform Anil Kapoor"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "200 rupees (free check only for 60+)",
+   "gold": "200 rupees"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "98100 45672 (eye hospital emergency line)",
+   "gold": "98100 45672"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes; exact same lenses bought within the last 6 months",
+   "gold": "no — the exception covers only lenses bought within the last 6 months"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; express is for spectacles only",
+   "gold": "no — express is for spectacles only"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - $340 + $60 rush surcharge = $400, within the $400 self-approval limit",
+   "gold": "yes — $340 + $60 rush surcharge = $400, within the $400 repair limit"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helen Okafor (studio manager) - total $405 incl. surcharge exceeds $400",
+   "gold": "Helen Okafor, the studio manager (total $405 is above $400)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tessa Brandt (owner)",
+   "gold": "Tessa Brandt, the owner"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - over $150, needs Tessa Brandt",
+   "gold": "no — the $400 limit is for repairs only; commissions above $150 need Tessa Brandt"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - commissions are never rush",
+   "gold": "no — commission orders are never offered as rush"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - weekday checks only at 8:30 and 13:30",
+   "gold": "no — weekdays only at 8:30 and 13:30"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - only the lead glazier (Rafael Nunes) may sign installation safety sign-offs",
+   "gold": "no — only the lead glazier (Rafael Nunes) may sign it"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - protective film only for repairs over $300",
+   "gold": "no — only for repairs costing more than $300"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0147 (emergency glazing line)",
+   "gold": "555-0147"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - should attach, not required (quote amount is required)",
+   "gold": "no — it is recommended (should), not required; only the quote amount is required"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "24 hours (2-hour rule applies only on Fridays)",
+   "gold": "24 hours (the 2-hour rule applies on Fridays only)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - send nothing, forward to Helen",
+   "gold": "no — forward the request to Helen; the free-sample permission is for customers"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$10 (first 3 free, $5 each for 4th and 5th)",
+   "gold": "$10 (2 tiles beyond the third × $5)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - only at the collection tent in the south-gate plaza",
+   "gold": "no — only at the tent on the south-gate square"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - if washed, bagged and undamaged",
+   "gold": "yes — 'unopened' applies only to socks"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - no proxy collection; home pickup only for elderly living alone aged 75+",
+   "gold": "no — must be delivered in person; no collection service"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - only for those aged 75+",
+   "gold": "no — the exception is only for residents over 75 living alone"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - deadline is before 17:00 on 10 Dec",
+   "gold": "no — the deadline is 17:00 on December 10"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥32 (max 4 bags per household x ¥8)",
+   "gold": "32 yuan (max 4 bags × 8 yuan)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - max 5 kg per bag",
+   "gold": "no — each bag must be at most 5 kg"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "customer-service supervisor Liu Jingyi, 0571-8836 2049 (weekdays 8:30-17:30)",
+   "gold": "Liu Jingyi (刘静怡), the property customer-service supervisor"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "customer-service supervisor",
+   "gold": "property customer-service supervisor (物业客服主管)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - posted on the two estate notice boards at the south and north gates",
+   "gold": "no — only on the complex's bulletin boards (one at the south gate, one at the north gate)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - no collection at noon (9:00-11:30, 14:00-16:30)",
+   "gold": "no — collection is 9:00–11:30 and 14:00–16:30"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "0571-8836 2049",
+   "gold": "0571-8836 2049"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - Saturday member 10% discount makes it €171, within €180",
+   "gold": "yes — 10% Saturday member discount makes it 171 euros, within the 180-euro limit"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lucía Ferrer (head of operations) - no discount on Friday, €190 > €180",
+   "gold": "Lucía Ferrer, the head of operations (no discount on Friday; 190 > 180)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tomás Ibarra (head instructor)",
+   "gold": "Tomás Ibarra, the head instructor"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - Andrés can't approve enrolments; over €300 needs Tomás Ibarra",
+   "gold": "no — only Tomás Ibarra, the head instructor, approves courses above 300 euros"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - only Marta Soler approves refunds",
+   "gold": "no — only Marta Soler may approve refunds"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€40 deposit",
+   "gold": "the 40-euro deposit"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - accompanied by Advanced-certified mother (signed medical form still required)",
+   "gold": "yes (exception: accompanied by a parent with Advanced certification or higher)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - hotel-requested change needs Lucía's approval",
+   "gold": "no — a hotel request needs Lucía Ferrer's approval"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "900 555 312 (dive medical line)",
+   "gold": "900 555 312"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - recommended, not mandatory",
+   "gold": "no — it is recommended, not required (meeting time and place are required)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Anil Kapoor (store manager)",
+   "gold": "Anil Kapoor (अनिल कपूर), the store manager"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated - approval required but approver not named",
+   "gold": "needs approval; approver not stated"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - changes over 2.00 only certified by chief optometrist Rekha Nair",
+   "gold": "no — changes above 2.00 only the chief optometrist (Rekha Nair) may certify"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - only Sunita Mehra approves refunds",
+   "gold": "no — only Sunita Mehra may approve refunds"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹1800 (40%)",
+   "gold": "1800 rupees (40% of 4500)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹4500 (full refund)",
+   "gold": "4500 rupees (full refund)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹60 (5% = ₹50, minimum ₹60)",
+   "gold": "60 rupees (5% is 50, below the 60 minimum)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - don't send; inform Anil",
+   "gold": "no — do not send it; inform Anil Kapoor"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹200 (free test only for 60+ on Wednesdays)",
+   "gold": "200 rupees"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "98100 45672 (eye hospital emergency line)",
+   "gold": "98100 45672"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - exception only for same lens bought within last 6 months",
+   "gold": "no — the exception covers only lenses bought within the last 6 months"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - express is glasses only",
+   "gold": "no — express is for spectacles only"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - $340 + $60 rush surcharge = $400, within the $400 limit",
+   "gold": "yes — $340 + $60 rush surcharge = $400, within the $400 repair limit"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Helen Okafor (studio manager) - $345 + $60 = $405 > $400",
+   "gold": "Helen Okafor, the studio manager (total $405 is above $400)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tessa Brandt (owner)",
+   "gold": "Tessa Brandt, the owner"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - over $150, needs Tessa Brandt",
+   "gold": "no — the $400 limit is for repairs only; commissions above $150 need Tessa Brandt"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - commissions are never rush",
+   "gold": "no — commission orders are never offered as rush"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - weekdays only 8:30 and 13:30",
+   "gold": "no — weekdays only at 8:30 and 13:30"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - only the lead glazier (Rafael Nunes) may sign",
+   "gold": "no — only the lead glazier (Rafael Nunes) may sign it"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - only repairs over $300",
+   "gold": "no — only for repairs costing more than $300"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0147 (emergency glazing line)",
+   "gold": "555-0147"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - recommended (should), not required",
+   "gold": "no — it is recommended (should), not required; only the quote amount is required"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "24 hours (2-hour rule applies only on Fridays)",
+   "gold": "24 hours (the 2-hour rule applies on Fridays only)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - send nothing, forward to Helen Okafor",
+   "gold": "no — forward the request to Helen; the free-sample permission is for customers"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$10 (3 free, 2 extra at $5 each)",
+   "gold": "$10 (2 tiles beyond the third × $5)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - only at the collection tent in the south-gate plaza",
+   "gold": "no — only at the tent on the south-gate square"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - sweaters accepted if undamaged, washed and bagged",
+   "gold": "yes — 'unopened' applies only to socks"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - must deliver in person; only lone elderly 75+ get home pickup",
+   "gold": "no — must be delivered in person; no collection service"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - booked before the 17:00 Dec 10 deadline",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - only for those living alone aged 75+",
+   "gold": "no — the exception is only for residents over 75 living alone"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - deadline is 17:00 on Dec 10",
+   "gold": "no — the deadline is 17:00 on December 10"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥32 (max 4 bags x ¥8)",
+   "gold": "32 yuan (max 4 bags × 8 yuan)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - limit 5 kg per bag",
+   "gold": "no — each bag must be at most 5 kg"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Liu Jingyi (customer-service supervisor), 0571-8836 2049",
+   "gold": "Liu Jingyi (刘静怡), the property customer-service supervisor"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "customer-service supervisor",
+   "gold": "property customer-service supervisor (物业客服主管)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - on estate notice boards at the south and north gates",
+   "gold": "no — only on the complex's bulletin boards (one at the south gate, one at the north gate)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - no collection at noon",
+   "gold": "no — collection is 9:00–11:30 and 14:00–16:30"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "0571-8836 2049",
+   "gold": "0571-8836 2049"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - Saturday 10% member discount makes it €171, within €180",
+   "gold": "yes — 10% Saturday member discount makes it 171 euros, within the 180-euro limit"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lucía Ferrer (head of operations) - no discount on Friday, €190 > €180",
+   "gold": "Lucía Ferrer, the head of operations (no discount on Friday; 190 > 180)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tomás Ibarra (head instructor)",
+   "gold": "Tomás Ibarra, the head instructor"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - only Tomás Ibarra can approve enrolments over €300",
+   "gold": "no — only Tomás Ibarra, the head instructor, approves courses above 300 euros"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - only Marta Soler approves refunds",
+   "gold": "no — only Marta Soler may approve refunds"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "€40 deposit",
+   "gold": "the 40-euro deposit"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes - mother is Advanced certified (signed medical form still required)",
+   "gold": "yes (exception: accompanied by a parent with Advanced certification or higher)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - hotel requests need Lucía Ferrer's approval",
+   "gold": "no — a hotel request needs Lucía Ferrer's approval"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "900 555 312 (dive medical line)",
+   "gold": "900 555 312"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the client",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - recommended, not mandatory",
+   "gold": "no — it is recommended, not required (meeting time and place are required)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Anil Kapoor (store manager)",
+   "gold": "Anil Kapoor (अनिल कपूर), the store manager"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "approval required; approver not stated",
+   "gold": "needs approval; approver not stated"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - changes over 2.00 only the chief optometrist (Rekha Nair) certifies",
+   "gold": "no — changes above 2.00 only the chief optometrist (Rekha Nair) may certify"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - only Sunita Mehra approves refunds",
+   "gold": "no — only Sunita Mehra may approve refunds"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹1800 (40%)",
+   "gold": "1800 rupees (40% of 4500)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹4500 (full refund)",
+   "gold": "4500 rupees (full refund)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹60 (5% = ₹50, minimum ₹60)",
+   "gold": "60 rupees (5% is 50, below the 60 minimum)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - don't send; inform Anil Kapoor",
+   "gold": "no — do not send it; inform Anil Kapoor"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "₹200",
+   "gold": "200 rupees"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "98100 45672 (eye hospital emergency line)",
+   "gold": "98100 45672"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer, themselves"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - bought more than 6 months ago",
+   "gold": "no — the exception covers only lenses bought within the last 6 months"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no - express is glasses only",
+   "gold": "no — express is for spectacles only"
+  }
+ ],
+ "summary": {
+  "llm05_r1": {
+   "all": [
+    46,
+    59
+   ],
+   "S": [
+    34,
+    40
+   ],
+   "F": [
+    12,
+    19
+   ],
+   "hop2": [
+    18,
+    23
+   ]
+  },
+  "llm066_r1": {
+   "all": [
+    53,
+    59
+   ],
+   "S": [
+    37,
+    40
+   ],
+   "F": [
+    16,
+    19
+   ],
+   "hop2": [
+    20,
+    23
+   ]
+  },
+  "mnc28_r1": {
+   "all": [
+    59,
+    59
+   ],
+   "S": [
+    40,
+    40
+   ],
+   "F": [
+    19,
+    19
+   ],
+   "hop2": [
+    23,
+    23
+   ]
+  },
+  "mnc28_r2": {
+   "all": [
+    59,
+    59
+   ],
+   "S": [
+    40,
+    40
+   ],
+   "F": [
+    19,
+    19
+   ],
+   "hop2": [
+    23,
+    23
+   ]
+  },
+  "mnc28x_r1": {
+   "all": [
+    59,
+    59
+   ],
+   "S": [
+    40,
+    40
+   ],
+   "F": [
+    19,
+    19
+   ],
+   "hop2": [
+    23,
+    23
+   ]
+  },
+  "mnc28x_r2": {
+   "all": [
+    59,
+    59
+   ],
+   "S": [
+    40,
+    40
+   ],
+   "F": [
+    19,
+    19
+   ],
+   "hop2": [
+    23,
+    23
+   ]
+  },
+  "original_r1": {
+   "all": [
+    59,
+    59
+   ],
+   "S": [
+    40,
+    40
+   ],
+   "F": [
+    19,
+    19
+   ],
+   "hop2": [
+    23,
+    23
+   ]
+  },
+  "summ_r1": {
+   "all": [
+    57,
+    59
+   ],
+   "S": [
+    38,
+    40
+   ],
+   "F": [
+    19,
+    19
+   ],
+   "hop2": [
+    22,
+    23
+   ]
+  },
+  "terse_r1": {
+   "all": [
+    59,
+    59
+   ],
+   "S": [
+    40,
+    40
+   ],
+   "F": [
+    19,
+    19
+   ],
+   "hop2": [
+    23,
+    23
+   ]
+  },
+  "terse_r2": {
+   "all": [
+    59,
+    59
+   ],
+   "S": [
+    40,
+    40
+   ],
+   "F": [
+    19,
+    19
+   ],
+   "hop2": [
+    23,
+    23
+   ]
+  }
+ }
+}

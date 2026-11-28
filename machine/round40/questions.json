@@ -1,0 +1,745 @@
+{
+ "written": "2026-11-28 13:01 CT by independent author (r40)",
+ "questions": [
+  {
+   "id": "§1.q1",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer requests a rush repair whose base quote is $340. May the assistant approve it on its own?",
+   "gold": "yes — $340 + $60 rush surcharge = $400, within the $400 repair limit",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q2",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A rush repair has a base quote of $345. Who must approve it?",
+   "gold": "Helen Okafor, the studio manager (total $405 is above $400)",
+   "accept": [
+    "(Helen|Okafor)"
+   ],
+   "reject": [
+    "^\\W*(Tessa|Brandt|Dmitri|Rafael)"
+   ]
+  },
+  {
+   "id": "§1.q3",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A commission order for a new panel costs $160. Who must approve it?",
+   "gold": "Tessa Brandt, the owner",
+   "accept": [
+    "(Tessa|Brandt)"
+   ],
+   "reject": [
+    "^\\W*(Helen|Okafor|Dmitri)"
+   ]
+  },
+  {
+   "id": "§1.q4",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A commission order costs $380. May the assistant accept it on its own?",
+   "gold": "no — the $400 limit is for repairs only; commissions above $150 need Tessa Brandt",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q5",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Can a new commission window be offered as a rush order?",
+   "gold": "no — commission orders are never offered as rush",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q6",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "¿Revisa el asistente la bandeja de entrada a las 11:00 de un miércoles?",
+   "gold": "no — weekdays only at 8:30 and 13:30",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q7",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "Samir Haddad, a glazier at the studio, signed an installation safety sign-off. May the assistant send it to the customer?",
+   "gold": "no — only the lead glazier (Rafael Nunes) may sign it",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q8",
+   "sec": 1,
+   "type": "F",
+   "hop": 1,
+   "q": "A repair customer's repair cost $250. Do they receive a microfibre cloth?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q9",
+   "sec": 1,
+   "type": "F",
+   "hop": 1,
+   "q": "A customer's repair cost exactly $300. Do they get the free roll of protective film?",
+   "gold": "no — only for repairs costing more than $300",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q10",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "What phone number must the assistant call when a customer reports glass falling from a window above a walkway?",
+   "gold": "555-0147",
+   "accept": [
+    "555\\W?0147"
+   ],
+   "reject": [
+    "555\\W?0174"
+   ]
+  },
+  {
+   "id": "§1.q11",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "In that falling-glass emergency, who must tape off the area beneath the window?",
+   "gold": "the customer, themselves",
+   "accept": [
+    "customer|client|they\\b|themselves"
+   ],
+   "reject": [
+    "^\\W*(the\\s+)?(assistant|glazier|studio|Rafael)\\b"
+   ]
+  },
+  {
+   "id": "§1.q12",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "When asking Helen for approval, is the assistant required to attach the photo of the panel the customer sent?",
+   "gold": "no — it is recommended (should), not required; only the quote amount is required",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q13",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "A church emails a repair inquiry on a Thursday. Within how many hours must it be answered?",
+   "gold": "24 hours (the 2-hour rule applies on Fridays only)",
+   "accept": [
+    "(?<!\\d)24(?!\\d)"
+   ],
+   "reject": [
+    "^\\W*(within\\s+)?2\\s*hours?"
+   ]
+  },
+  {
+   "id": "§1.q14",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A glass supplier asks for 3 samples of the studio's work. May the assistant send them on its own?",
+   "gold": "no — forward the request to Helen; the free-sample permission is for customers",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q15",
+   "sec": 1,
+   "type": "F",
+   "hop": 2,
+   "q": "一位顾客要求寄5块玻璃颜色样片，需要付多少钱？",
+   "gold": "$10 (2 tiles beyond the third × $5)",
+   "accept": [
+    "(?<!\\d)10(?!\\d)"
+   ],
+   "reject": [
+    "(?<!\\d)25(?!\\d)"
+   ]
+  },
+  {
+   "id": "§2.q1",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "居民可以把捐赠的衣物放在5号楼大堂吗？",
+   "gold": "no — only at the tent on the south-gate square",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q2",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "已经穿过的旧毛衣（干净、无破损）可以捐吗？",
+   "gold": "yes — 'unopened' applies only to socks",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q3",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "Are opened socks accepted?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q4",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "一位60岁、和家人同住的居民可以请物业代收衣物吗？",
+   "gold": "no — must be delivered in person; no collection service",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q5",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A 78-year-old resident who lives alone phones at 16:00 on December 10 to book a home pickup. Will volunteers collect the clothes from their home?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q6",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A 72-year-old resident who lives alone wants to book a home pickup. Is that allowed?",
+   "gold": "no — the exception is only for residents over 75 living alone",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q7",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "An 80-year-old resident living alone phones at 17:30 on December 10 to book a pickup. Is the booking within the deadline?",
+   "gold": "no — the deadline is 17:00 on December 10",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q8",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "一户居民带来5袋符合要求的衣物，最多能领取多少元代金券？",
+   "gold": "32 yuan (max 4 bags × 8 yuan)",
+   "accept": [
+    "(?<!\\d)32(?!\\d)"
+   ],
+   "reject": [
+    "(?<!\\d)40(?!\\d)"
+   ]
+  },
+  {
+   "id": "§2.q9",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "A clean, bagged bag of coats weighs 5.5 kg. Is it accepted?",
+   "gold": "no — each bag must be at most 5 kg",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q10",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "A resident wants to make a complaint about the event. Whom should they contact?",
+   "gold": "Liu Jingyi (刘静怡), the property customer-service supervisor",
+   "accept": [
+    "(Liu\\W*Jingyi|刘静怡)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q11",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "What is Liu Jingyi's (刘静怡) exact job title?",
+   "gold": "property customer-service supervisor (物业客服主管)",
+   "accept": [
+    "(客服主管|customer\\W*service\\W*(supervisor|主管))"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q12",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "捐赠清单会张贴在各楼栋吗？",
+   "gold": "no — only on the complex's bulletin boards (one at the south gate, one at the north gate)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q13",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "12月12日中午12:00可以去送衣物吗？",
+   "gold": "no — collection is 9:00–11:30 and 14:00–16:30",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q14",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "What phone number should be called to book a home pickup?",
+   "gold": "0571-8836 2049",
+   "accept": [
+    "8836\\W?2049"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q1",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Un socio del club reserva un sábado un alquiler de equipo de 190 euros a precio normal. ¿Puedes aprobarlo tú mismo?",
+   "gold": "yes — 10% Saturday member discount makes it 171 euros, within the 180-euro limit",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q2",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A club member books equipment rental at a normal price of 190 euros on a Friday. Who must approve it?",
+   "gold": "Lucía Ferrer, the head of operations (no discount on Friday; 190 > 180)",
+   "accept": [
+    "(Luc[ií]a|Ferrer)"
+   ],
+   "reject": [
+    "^\\W*(Tom[aá]s|Ibarra|Marta|Andr[eé]s)"
+   ]
+  },
+  {
+   "id": "§3.q3",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Una inscripción a un curso cuesta exactamente 300 euros. ¿Puedes confirmarla tú mismo?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q4",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A course enrollment costs 310 euros. Who must approve it?",
+   "gold": "Tomás Ibarra, the head instructor",
+   "accept": [
+    "(Tom[aá]s|Ibarra)"
+   ],
+   "reject": [
+    "^\\W*(Luc[ií]a|Ferrer|Andr[eé]s|Marta)"
+   ]
+  },
+  {
+   "id": "§3.q5",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Andrés Gil, que es instructor, aprueba una inscripción a un curso de 320 euros. ¿Es válida esa aprobación?",
+   "gold": "no — only Tomás Ibarra, the head instructor, approves courses above 300 euros",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q6",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Lucía Ferrer quiere aprobar un reembolso de 30 euros. ¿Puede hacerlo?",
+   "gold": "no — only Marta Soler may approve refunds",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q7",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "A snorkel trip with two stops in one morning: does it count as a 'double dive'?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q8",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer cancels 47 hours before departure; the port is open. How much does the customer lose?",
+   "gold": "the 40-euro deposit",
+   "accept": [
+    "(?<!\\d)40(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q9",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer cancels 10 hours before departure because the maritime authority closed the port. Do they get a full refund?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q10",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Un chico de 15 años quiere una inmersión nocturna acompañado por su madre, que tiene certificación Advanced. ¿Se puede reservar?",
+   "gold": "yes (exception: accompanied by a parent with Advanced certification or higher)",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q11",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A partner hotel emails asking to move a guest's course date, giving 7 days' notice. May the assistant make the change on its own?",
+   "gold": "no — a hotel request needs Lucía Ferrer's approval",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q12",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "What number must the assistant call when a customer reports joint pain after diving?",
+   "gold": "900 555 312",
+   "accept": [
+    "900\\W?555\\W?312"
+   ],
+   "reject": [
+    "555\\W?213"
+   ]
+  },
+  {
+   "id": "§3.q13",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "En esa emergencia, ¿quién debe permanecer tumbado y no conducir?",
+   "gold": "the customer, themselves",
+   "accept": [
+    "customer|client|diver|they\\b|themselves"
+   ],
+   "reject": [
+    "^\\W*(the\\s+)?(assistant|centre|center|doctor)\\b"
+   ]
+  },
+  {
+   "id": "§3.q14",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Must every booking confirmation include the sea forecast?",
+   "gold": "no — it is recommended, not required (meeting time and place are required)",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q15",
+   "sec": 3,
+   "type": "F",
+   "hop": 1,
+   "q": "Un alumno se inscribe en el curso Open Water. ¿Recibe una pegatina del centro?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q1",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "वारंटी के तहत फ्रेम बदलने का अनुरोध ठीक 2500 रुपये का है। क्या सहायक इसे खुद मंज़ूर कर सकता है?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q2",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A warranty frame replacement costs 2550 rupees. Who must approve it?",
+   "gold": "Anil Kapoor (अनिल कपूर), the store manager",
+   "accept": [
+    "(Anil|Kapoor|अनिल|कपूर)"
+   ],
+   "reject": [
+    "^\\W*(Sunita|Rekha|सुनीता|रेखा)"
+   ]
+  },
+  {
+   "id": "§4.q3",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A contact-lens order is 1600 rupees. Who must approve it?",
+   "gold": "needs approval; approver not stated",
+   "accept": [
+    "not\\W*(stated|named|specified|say|state)|does\\W*n.t\\W*(say|state|name)|unspecified"
+   ],
+   "reject": [
+    "(Anil|Kapoor|Sunita|Mehra|Rekha|Nair|Vikas|Joshi|अनिल|सुनीता|रेखा|विकास)"
+   ]
+  },
+  {
+   "id": "§4.q4",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "1500 रुपये का कॉन्टैक्ट लेंस ऑर्डर — क्या सहायक खुद स्वीकार कर सकता है?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q5",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "Vikas Joshi, an optometrist at the shop, certifies a new prescription where the power changed by 2.25. Is that certification valid?",
+   "gold": "no — changes above 2.00 only the chief optometrist (Rekha Nair) may certify",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q6",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "अनिल कपूर 500 रुपये का रिफंड मंज़ूर करना चाहते हैं। क्या वे ऐसा कर सकते हैं?",
+   "gold": "no — only Sunita Mehra may approve refunds",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q7",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "4500 रुपये का चश्मे का ऑर्डर लेंस कटने के बाद ग्राहक की अपनी वजह से रद्द होता है (दुकान की कोई गलती नहीं)। कितने रुपये वापस मिलेंगे?",
+   "gold": "1800 rupees (40% of 4500)",
+   "accept": [
+    "1\\W?800"
+   ],
+   "reject": [
+    "(?<!\\d)2\\W?700(?!\\d)"
+   ]
+  },
+  {
+   "id": "§4.q8",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "The same 4500-rupee order is cancelled after the lenses are cut because the shop made a mistake. How much is refunded?",
+   "gold": "4500 rupees (full refund)",
+   "accept": [
+    "4\\W?500"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q9",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "What is the home-delivery fee on a 1000-rupee order?",
+   "gold": "60 rupees (5% is 50, below the 60 minimum)",
+   "accept": [
+    "(?<!\\d)60(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q10",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "एक बीमा कंपनी किसी ग्राहक के प्रिस्क्रिप्शन की कॉपी माँगती है। क्या सहायक उसे भेज सकता है?",
+   "gold": "no — do not send it; inform Anil Kapoor",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q11",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "A 59-year-old customer has an eye check on a Wednesday. What is the fee?",
+   "gold": "200 rupees",
+   "accept": [
+    "(?<!\\d)200(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q12",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "What number must the assistant call if a customer reports a chemical splashed in their eye?",
+   "gold": "98100 45672",
+   "accept": [
+    "98100\\W?45672"
+   ],
+   "reject": [
+    "45627"
+   ]
+  },
+  {
+   "id": "§4.q13",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "उस आपातकाल में आँख 15 मिनट तक साफ़ पानी से कौन धोएगा?",
+   "gold": "the customer, themselves",
+   "accept": [
+    "customer|client|they\\b|themselves|ग्राहक"
+   ],
+   "reject": [
+    "^\\W*(the\\s+)?(assistant|shop|staff|employee|hospital)\\b"
+   ]
+  },
+  {
+   "id": "§4.q14",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer without a valid prescription wants the exact same contact lenses they bought 7 months ago. May the assistant sell them?",
+   "gold": "no — the exception covers only lenses bought within the last 6 months",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q15",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "Can contact lenses be ordered as 'express'?",
+   "gold": "no — express is for spectacles only",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  }
+ ]
+}

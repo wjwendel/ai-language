@@ -1,0 +1,1210 @@
+{
+ "facts": [
+  {
+   "id": "1.1",
+   "sec": "1",
+   "type": "S",
+   "text": "Role: email assistant for Lumen & Lead Glassworks"
+  },
+  {
+   "id": "1.2",
+   "sec": "1",
+   "type": "F",
+   "text": "Studio is a small stained-glass repair and commission studio"
+  },
+  {
+   "id": "1.3",
+   "sec": "1",
+   "type": "F",
+   "text": "Inbox is studio@lumenlead.example"
+  },
+  {
+   "id": "1.4",
+   "sec": "1",
+   "type": "F",
+   "text": "Check Mon-Fri at exactly 8:30 and 13:30"
+  },
+  {
+   "id": "1.5",
+   "sec": "1",
+   "type": "F",
+   "text": "Saturday: check only once, at 10:00"
+  },
+  {
+   "id": "1.6",
+   "sec": "1",
+   "type": "S",
+   "text": "Do not check on Sunday"
+  },
+  {
+   "id": "1.7",
+   "sec": "1",
+   "type": "F",
+   "text": "Repair order = fixing or releading an existing panel"
+  },
+  {
+   "id": "1.8",
+   "sec": "1",
+   "type": "S",
+   "text": "You may approve repair quote on your own up to $400"
+  },
+  {
+   "id": "1.9",
+   "sec": "1",
+   "type": "S",
+   "text": "Repair limit applies to total including any surcharge"
+  },
+  {
+   "id": "1.10",
+   "sec": "1",
+   "type": "S",
+   "text": "Repair quote above $400 needs approval from Helen Okafor"
+  },
+  {
+   "id": "1.11",
+   "sec": "1",
+   "type": "S",
+   "text": "Helen Okafor is studio manager"
+  },
+  {
+   "id": "1.12",
+   "sec": "1",
+   "type": "F",
+   "text": "Commission = new windows/panels designed from scratch"
+  },
+  {
+   "id": "1.13",
+   "sec": "1",
+   "type": "S",
+   "text": "You may accept commission on your own only up to $150"
+  },
+  {
+   "id": "1.14",
+   "sec": "1",
+   "type": "S",
+   "text": "Commission above $150 needs approval from Tessa Brandt"
+  },
+  {
+   "id": "1.15",
+   "sec": "1",
+   "type": "S",
+   "text": "Tessa Brandt is the owner"
+  },
+  {
+   "id": "1.16",
+   "sec": "1",
+   "type": "S",
+   "text": "Supply purchases from glass suppliers up to $90 per order, never more"
+  },
+  {
+   "id": "1.17",
+   "sec": "1",
+   "type": "F",
+   "text": "Rush repair = completion within 5 working days"
+  },
+  {
+   "id": "1.18",
+   "sec": "1",
+   "type": "F",
+   "text": "Rush adds $60 surcharge to quote"
+  },
+  {
+   "id": "1.19",
+   "sec": "1",
+   "type": "S",
+   "text": "Commission orders never offered as rush"
+  },
+  {
+   "id": "1.20",
+   "sec": "1",
+   "type": "S",
+   "text": "Rafael Nunes is lead glazier, not owner"
+  },
+  {
+   "id": "1.21",
+   "sec": "1",
+   "type": "S",
+   "text": "Samir Haddad is a glazier but not lead glazier"
+  },
+  {
+   "id": "1.22",
+   "sec": "1",
+   "type": "S",
+   "text": "Only lead glazier may sign installation safety sign-off"
+  },
+  {
+   "id": "1.23",
+   "sec": "1",
+   "type": "S",
+   "text": "Never send customer a sign-off signed by anyone else"
+  },
+  {
+   "id": "1.24",
+   "sec": "1",
+   "type": "S",
+   "text": "Only Helen Okafor may approve refunds"
+  },
+  {
+   "id": "1.25",
+   "sec": "1",
+   "type": "S",
+   "text": "Dmitri Vale is bookkeeper"
+  },
+  {
+   "id": "1.26",
+   "sec": "1",
+   "type": "S",
+   "text": "Dmitri may send invoices and payment reminders"
+  },
+  {
+   "id": "1.27",
+   "sec": "1",
+   "type": "S",
+   "text": "Dmitri may not approve refunds"
+  },
+  {
+   "id": "1.28",
+   "sec": "1",
+   "type": "S",
+   "text": "Never contact or copy Gordon Pike about anything concerning workshop lease"
+  },
+  {
+   "id": "1.29",
+   "sec": "1",
+   "type": "S",
+   "text": "Gordon Pike is former landlord"
+  },
+  {
+   "id": "1.30",
+   "sec": "1",
+   "type": "S",
+   "text": "Never give customer an installation date before Rafael confirmed it in writing"
+  },
+  {
+   "id": "1.31",
+   "sec": "1",
+   "type": "S",
+   "text": "Never share customer's home address with a supplier"
+  },
+  {
+   "id": "1.32",
+   "sec": "1",
+   "type": "S",
+   "text": "Never forward photos of client's windows to anyone"
+  },
+  {
+   "id": "1.33",
+   "sec": "1",
+   "type": "S",
+   "text": "Exception: unless client wrote 'photos OK' in their own email"
+  },
+  {
+   "id": "1.34",
+   "sec": "1",
+   "type": "F",
+   "text": "Every repair customer receives care leaflet and microfibre cloth"
+  },
+  {
+   "id": "1.35",
+   "sec": "1",
+   "type": "S",
+   "text": "Free roll of protective film only for repairs costing more than $300"
+  },
+  {
+   "id": "1.36",
+   "sec": "1",
+   "type": "S",
+   "text": "Colour samples: you may post up to 3 sample tiles free on your own"
+  },
+  {
+   "id": "1.37",
+   "sec": "1",
+   "type": "F",
+   "text": "Each tile beyond the third costs $5"
+  },
+  {
+   "id": "1.38",
+   "sec": "1",
+   "type": "S",
+   "text": "Supplier asks for samples of our work: send nothing"
+  },
+  {
+   "id": "1.39",
+   "sec": "1",
+   "type": "S",
+   "text": "Forward supplier sample request to Helen"
+  },
+  {
+   "id": "1.40",
+   "sec": "1",
+   "type": "F",
+   "text": "Free collection of damaged panels within 15 miles"
+  },
+  {
+   "id": "1.41",
+   "sec": "1",
+   "type": "S",
+   "text": "Exception: panels wider than 1.2 m always need paid van booking"
+  },
+  {
+   "id": "1.42",
+   "sec": "1",
+   "type": "S",
+   "text": "Fridays only: churches and heritage trusts answered within 2 hours"
+  },
+  {
+   "id": "1.43",
+   "sec": "1",
+   "type": "S",
+   "text": "Other repair inquiries within 24 hours"
+  },
+  {
+   "id": "1.44",
+   "sec": "1",
+   "type": "S",
+   "text": "Commission inquiries within 3 working days"
+  },
+  {
+   "id": "1.45",
+   "sec": "1",
+   "type": "S",
+   "text": "When asking Helen/Tessa for approval must state quote amount"
+  },
+  {
+   "id": "1.46",
+   "sec": "1",
+   "type": "F",
+   "text": "Should attach photo of panel if customer sent one"
+  },
+  {
+   "id": "1.47",
+   "sec": "1",
+   "type": "S",
+   "text": "Emergency trigger: glass cracking/falling from window above walkway, street or doorway"
+  },
+  {
+   "id": "1.48",
+   "sec": "1",
+   "type": "S",
+   "text": "Call emergency glazing line 555-0147 yourself immediately"
+  },
+  {
+   "id": "1.49",
+   "sec": "1",
+   "type": "S",
+   "text": "Not studio main number 555-0174"
+  },
+  {
+   "id": "1.50",
+   "sec": "1",
+   "type": "S",
+   "text": "Tell customer first: emergency glazier on the way, arrives within 90 minutes"
+  },
+  {
+   "id": "1.51",
+   "sec": "1",
+   "type": "S",
+   "text": "Tell customer second: they must tape off area beneath window themselves and keep people away until glazier arrives"
+  },
+  {
+   "id": "1.52",
+   "sec": "1",
+   "type": "S",
+   "text": "Do not promise glazier will tape off area"
+  },
+  {
+   "id": "1.53",
+   "sec": "1",
+   "type": "F",
+   "text": "Every quote email must end with exact sentence 'This quote is valid for 30 days from the date above.'"
+  },
+  {
+   "id": "1.54",
+   "sec": "1",
+   "type": "F",
+   "text": "Payment reminders (handled by Dmitri) start with 'Friendly reminder from Lumen & Lead:'"
+  },
+  {
+   "id": "1.55",
+   "sec": "1",
+   "type": "F",
+   "text": "Every Monday 9:15 send Helen summary of all open quotes"
+  },
+  {
+   "id": "1.56",
+   "sec": "1",
+   "type": "F",
+   "text": "Summary lists each customer's name, quote amount, date sent"
+  },
+  {
+   "id": "1.57",
+   "sec": "1",
+   "type": "F",
+   "text": "1st of each month 16:00 send Dmitri list of previous month's supply purchases"
+  },
+  {
+   "id": "1.58",
+   "sec": "1",
+   "type": "S",
+   "text": "If unsure repair vs commission: treat as commission and ask Tessa before replying"
+  },
+  {
+   "id": "2.1",
+   "sec": "2",
+   "type": "F",
+   "text": "Title: Sunshine Garden (阳光花园小区) winter old-clothes collection day notice"
+  },
+  {
+   "id": "2.2",
+   "sec": "2",
+   "type": "F",
+   "text": "Issuer: 阳光花园小区物业服务中心"
+  },
+  {
+   "id": "2.3",
+   "sec": "2",
+   "type": "F",
+   "text": "Addressed to all residents"
+  },
+  {
+   "id": "2.4",
+   "sec": "2",
+   "type": "F",
+   "text": "Purpose: help mountain-school children stay warm in winter"
+  },
+  {
+   "id": "2.5",
+   "sec": "2",
+   "type": "F",
+   "text": "Dates: 12月12日 and 12月13日"
+  },
+  {
+   "id": "2.6",
+   "sec": "2",
+   "type": "F",
+   "text": "Hours 9:00-11:30 and 14:00-16:30 each day"
+  },
+  {
+   "id": "2.7",
+   "sec": "2",
+   "type": "S",
+   "text": "No collection at noon"
+  },
+  {
+   "id": "2.8",
+   "sec": "2",
+   "type": "S",
+   "text": "Only collection point: recycling tent at south-gate plaza"
+  },
+  {
+   "id": "2.9",
+   "sec": "2",
+   "type": "S",
+   "text": "No collection points in building lobbies"
+  },
+  {
+   "id": "2.10",
+   "sec": "2",
+   "type": "S",
+   "text": "Do not leave clothes in stairwells or lobbies"
+  },
+  {
+   "id": "2.11",
+   "sec": "2",
+   "type": "F",
+   "text": "Accepted: winter coats, sweaters, unopened socks"
+  },
+  {
+   "id": "2.12",
+   "sec": "2",
+   "type": "S",
+   "text": "Not accepted: underwear, damaged clothes, opened socks"
+  },
+  {
+   "id": "2.13",
+   "sec": "2",
+   "type": "S",
+   "text": "Clothes must be washed clean and bagged"
+  },
+  {
+   "id": "2.14",
+   "sec": "2",
+   "type": "S",
+   "text": "Each bag max 5 kg"
+  },
+  {
+   "id": "2.15",
+   "sec": "2",
+   "type": "S",
+   "text": "Max 4 bags per household"
+  },
+  {
+   "id": "2.16",
+   "sec": "2",
+   "type": "S",
+   "text": "Must be delivered in person by household resident"
+  },
+  {
+   "id": "2.17",
+   "sec": "2",
+   "type": "S",
+   "text": "Property offers no proxy collection"
+  },
+  {
+   "id": "2.18",
+   "sec": "2",
+   "type": "S",
+   "text": "Only exception: elderly 75+ living alone"
+  },
+  {
+   "id": "2.19",
+   "sec": "2",
+   "type": "S",
+   "text": "Exception requires phone booking before 12月10日 17:00"
+  },
+  {
+   "id": "2.20",
+   "sec": "2",
+   "type": "F",
+   "text": "Volunteers collect at home"
+  },
+  {
+   "id": "2.21",
+   "sec": "2",
+   "type": "F",
+   "text": "One voucher worth 8元 per bag"
+  },
+  {
+   "id": "2.22",
+   "sec": "2",
+   "type": "S",
+   "text": "Voucher usable only at community convenience store"
+  },
+  {
+   "id": "2.23",
+   "sec": "2",
+   "type": "S",
+   "text": "Contact: 刘静怡, 物业客服主管"
+  },
+  {
+   "id": "2.24",
+   "sec": "2",
+   "type": "F",
+   "text": "Phone 0571-8836 2049"
+  },
+  {
+   "id": "2.25",
+   "sec": "2",
+   "type": "F",
+   "text": "Hours: working days 8:30-17:30"
+  },
+  {
+   "id": "2.26",
+   "sec": "2",
+   "type": "F",
+   "text": "Home-collection bookings via same number"
+  },
+  {
+   "id": "2.27",
+   "sec": "2",
+   "type": "F",
+   "text": "Donation list posted on bulletin boards after event, one at south gate and one at north gate"
+  },
+  {
+   "id": "2.28",
+   "sec": "2",
+   "type": "F",
+   "text": "Not posted separately in each building"
+  },
+  {
+   "id": "2.29",
+   "sec": "2",
+   "type": "F",
+   "text": "12月11日 15:00 volunteers set up tent at south-gate plaza"
+  },
+  {
+   "id": "2.30",
+   "sec": "2",
+   "type": "S",
+   "text": "East-side plaza parking suspended at that time"
+  },
+  {
+   "id": "2.31",
+   "sec": "2",
+   "type": "F",
+   "text": "Signed property service centre, dated 12月1日"
+  },
+  {
+   "id": "3.1",
+   "sec": "3",
+   "type": "S",
+   "text": "Role: email assistant for Centro de Buceo Arrecife Azul"
+  },
+  {
+   "id": "3.2",
+   "sec": "3",
+   "type": "F",
+   "text": "Small dive school with equipment rental"
+  },
+  {
+   "id": "3.3",
+   "sec": "3",
+   "type": "F",
+   "text": "Inbox reservas@arrecifeazul.example"
+  },
+  {
+   "id": "3.4",
+   "sec": "3",
+   "type": "F",
+   "text": "Check Mon-Sat at 7:00 and 19:00"
+  },
+  {
+   "id": "3.5",
+   "sec": "3",
+   "type": "F",
+   "text": "Sunday only once at 9:00"
+  },
+  {
+   "id": "3.6",
+   "sec": "3",
+   "type": "S",
+   "text": "May approve rental bookings yourself up to 180 euros"
+  },
+  {
+   "id": "3.7",
+   "sec": "3",
+   "type": "S",
+   "text": "Limit applies to final amount after discount"
+  },
+  {
+   "id": "3.8",
+   "sec": "3",
+   "type": "S",
+   "text": "Rental above 180 needs Lucía Ferrer approval"
+  },
+  {
+   "id": "3.9",
+   "sec": "3",
+   "type": "S",
+   "text": "Lucía Ferrer is head of operations"
+  },
+  {
+   "id": "3.10",
+   "sec": "3",
+   "type": "S",
+   "text": "May confirm course enrolments yourself up to 300 euros"
+  },
+  {
+   "id": "3.11",
+   "sec": "3",
+   "type": "S",
+   "text": "Above 300 needs Tomás Ibarra approval"
+  },
+  {
+   "id": "3.12",
+   "sec": "3",
+   "type": "S",
+   "text": "Tomás Ibarra is head instructor, not owner"
+  },
+  {
+   "id": "3.13",
+   "sec": "3",
+   "type": "S",
+   "text": "Owner is Marta Soler"
+  },
+  {
+   "id": "3.14",
+   "sec": "3",
+   "type": "S",
+   "text": "Andrés Gil is instructor, not head instructor, cannot approve enrolments"
+  },
+  {
+   "id": "3.15",
+   "sec": "3",
+   "type": "S",
+   "text": "Only Marta Soler may approve refunds"
+  },
+  {
+   "id": "3.16",
+   "sec": "3",
+   "type": "S",
+   "text": "Lucía may issue exchange vouchers"
+  },
+  {
+   "id": "3.17",
+   "sec": "3",
+   "type": "S",
+   "text": "Lucía may never approve refunds"
+  },
+  {
+   "id": "3.18",
+   "sec": "3",
+   "type": "S",
+   "text": "Never contact/cc Raúl Prieto about accounts or payments"
+  },
+  {
+   "id": "3.19",
+   "sec": "3",
+   "type": "S",
+   "text": "Raúl Prieto is former partner"
+  },
+  {
+   "id": "3.20",
+   "sec": "3",
+   "type": "F",
+   "text": "Inmersión doble = two dives same morning, one boat transfer"
+  },
+  {
+   "id": "3.21",
+   "sec": "3",
+   "type": "S",
+   "text": "Snorkel never counts as inmersión doble even with two stops"
+  },
+  {
+   "id": "3.22",
+   "sec": "3",
+   "type": "S",
+   "text": "Free cancellation up to 48h before departure"
+  },
+  {
+   "id": "3.23",
+   "sec": "3",
+   "type": "S",
+   "text": "Cancel <48h loses 40-euro deposit"
+  },
+  {
+   "id": "3.24",
+   "sec": "3",
+   "type": "S",
+   "text": "Exception: port closed by Capitanía Marítima, full refund regardless of timing"
+  },
+  {
+   "id": "3.25",
+   "sec": "3",
+   "type": "S",
+   "text": "Never confirm dive without signed medical form"
+  },
+  {
+   "id": "3.26",
+   "sec": "3",
+   "type": "S",
+   "text": "Never book night dives for under-16s"
+  },
+  {
+   "id": "3.27",
+   "sec": "3",
+   "type": "S",
+   "text": "Unless accompanied by father or mother with Advanced or higher"
+  },
+  {
+   "id": "3.28",
+   "sec": "3",
+   "type": "S",
+   "text": "Never present sea forecast as guarantee"
+  },
+  {
+   "id": "3.29",
+   "sec": "3",
+   "type": "S",
+   "text": "Course date change: once, free, by you, with at least 5 days notice"
+  },
+  {
+   "id": "3.30",
+   "sec": "3",
+   "type": "S",
+   "text": "Partner hotel requesting change on client's behalf needs Lucía approval"
+  },
+  {
+   "id": "3.31",
+   "sec": "3",
+   "type": "S",
+   "text": "Saturdays only: club members 10% off equipment rental"
+  },
+  {
+   "id": "3.32",
+   "sec": "3",
+   "type": "F",
+   "text": "Other days normal price"
+  },
+  {
+   "id": "3.33",
+   "sec": "3",
+   "type": "S",
+   "text": "Courses never discounted"
+  },
+  {
+   "id": "3.34",
+   "sec": "3",
+   "type": "S",
+   "text": "Course inquiries within 12 hours"
+  },
+  {
+   "id": "3.35",
+   "sec": "3",
+   "type": "S",
+   "text": "Rental inquiries within 24 hours"
+  },
+  {
+   "id": "3.36",
+   "sec": "3",
+   "type": "S",
+   "text": "Medical-form reminder sent 72h before dive"
+  },
+  {
+   "id": "3.37",
+   "sec": "3",
+   "type": "F",
+   "text": "Sea forecast in confirmation recommended, not mandatory"
+  },
+  {
+   "id": "3.38",
+   "sec": "3",
+   "type": "S",
+   "text": "Meeting time and meeting point mandatory"
+  },
+  {
+   "id": "3.39",
+   "sec": "3",
+   "type": "F",
+   "text": "Booking confirmation must start with exact 'Gracias por bucear con Arrecife Azul.'"
+  },
+  {
+   "id": "3.40",
+   "sec": "3",
+   "type": "F",
+   "text": "Cancellation emails end with 'Esperamos verte pronto bajo el agua.'"
+  },
+  {
+   "id": "3.41",
+   "sec": "3",
+   "type": "F",
+   "text": "Each course student gets logbook and centre sticker"
+  },
+  {
+   "id": "3.42",
+   "sec": "3",
+   "type": "S",
+   "text": "Free dive torch only for Advanced course"
+  },
+  {
+   "id": "3.43",
+   "sec": "3",
+   "type": "S",
+   "text": "Emergency trigger: joint pain, tingling or dizziness after diving"
+  },
+  {
+   "id": "3.44",
+   "sec": "3",
+   "type": "S",
+   "text": "Call dive medical line 900 555 312 yourself immediately"
+  },
+  {
+   "id": "3.45",
+   "sec": "3",
+   "type": "S",
+   "text": "Not centre phone 900 555 213"
+  },
+  {
+   "id": "3.46",
+   "sec": "3",
+   "type": "S",
+   "text": "Tell customer first: on-duty doctor calls within 15 minutes"
+  },
+  {
+   "id": "3.47",
+   "sec": "3",
+   "type": "S",
+   "text": "Tell customer second: stay lying down, drink water, not drive (himself)"
+  },
+  {
+   "id": "3.48",
+   "sec": "3",
+   "type": "S",
+   "text": "Do not say centre will pick him up"
+  },
+  {
+   "id": "3.49",
+   "sec": "3",
+   "type": "F",
+   "text": "Sunday 20:30 send Marta weekly bookings report"
+  },
+  {
+   "id": "3.50",
+   "sec": "3",
+   "type": "F",
+   "text": "Wednesday 18:00 send Andrés list of equipment needing inspection"
+  },
+  {
+   "id": "3.51",
+   "sec": "3",
+   "type": "S",
+   "text": "Customer writes English: reply English"
+  },
+  {
+   "id": "3.52",
+   "sec": "3",
+   "type": "S",
+   "text": "Any other language: reply Spanish"
+  },
+  {
+   "id": "3.53",
+   "sec": "3",
+   "type": "S",
+   "text": "Lucía's exchange vouchers expire after 6 months"
+  },
+  {
+   "id": "3.54",
+   "sec": "3",
+   "type": "S",
+   "text": "Never convert vouchers to cash"
+  },
+  {
+   "id": "4.1",
+   "sec": "4",
+   "type": "S",
+   "text": "Role: email assistant for Drishti Opticals"
+  },
+  {
+   "id": "4.2",
+   "sec": "4",
+   "type": "F",
+   "text": "Small glasses and contact-lens shop"
+  },
+  {
+   "id": "4.3",
+   "sec": "4",
+   "type": "F",
+   "text": "Inbox orders@drishtioptical.example"
+  },
+  {
+   "id": "4.4",
+   "sec": "4",
+   "type": "F",
+   "text": "Check Mon-Sat 10:00 and 17:00"
+  },
+  {
+   "id": "4.5",
+   "sec": "4",
+   "type": "S",
+   "text": "Sunday shop closed, inbox not checked"
+  },
+  {
+   "id": "4.6",
+   "sec": "4",
+   "type": "S",
+   "text": "Warranty frame replacement: approve yourself up to 2500 rupees"
+  },
+  {
+   "id": "4.7",
+   "sec": "4",
+   "type": "S",
+   "text": "Above 2500 needs Anil Kapoor approval"
+  },
+  {
+   "id": "4.8",
+   "sec": "4",
+   "type": "S",
+   "text": "Anil Kapoor is store manager"
+  },
+  {
+   "id": "4.9",
+   "sec": "4",
+   "type": "S",
+   "text": "Contact-lens orders: accept yourself up to 1500 rupees"
+  },
+  {
+   "id": "4.10",
+   "sec": "4",
+   "type": "S",
+   "text": "Above 1500 needs approval (approver unnamed)"
+  },
+  {
+   "id": "4.11",
+   "sec": "4",
+   "type": "S",
+   "text": "Rekha Nair is chief optometrist, not owner"
+  },
+  {
+   "id": "4.12",
+   "sec": "4",
+   "type": "S",
+   "text": "Owner is Sunita Mehra"
+  },
+  {
+   "id": "4.13",
+   "sec": "4",
+   "type": "S",
+   "text": "Vikas Joshi is optometrist, not chief"
+  },
+  {
+   "id": "4.14",
+   "sec": "4",
+   "type": "S",
+   "text": "Prescription change >2.00 certified only by chief optometrist"
+  },
+  {
+   "id": "4.15",
+   "sec": "4",
+   "type": "S",
+   "text": "Change up to 2.00 any optometrist may certify"
+  },
+  {
+   "id": "4.16",
+   "sec": "4",
+   "type": "S",
+   "text": "Only Sunita may approve refunds"
+  },
+  {
+   "id": "4.17",
+   "sec": "4",
+   "type": "S",
+   "text": "Anil may give store credit"
+  },
+  {
+   "id": "4.18",
+   "sec": "4",
+   "type": "S",
+   "text": "Anil may not approve refunds"
+  },
+  {
+   "id": "4.19",
+   "sec": "4",
+   "type": "S",
+   "text": "Never contact Prakash Verma about any refund dispute"
+  },
+  {
+   "id": "4.20",
+   "sec": "4",
+   "type": "S",
+   "text": "Never copy Prakash Verma on any email"
+  },
+  {
+   "id": "4.21",
+   "sec": "4",
+   "type": "S",
+   "text": "Prakash Verma is old lens supplier"
+  },
+  {
+   "id": "4.22",
+   "sec": "4",
+   "type": "S",
+   "text": "Never send customer's prescription to anyone but that customer"
+  },
+  {
+   "id": "4.23",
+   "sec": "4",
+   "type": "S",
+   "text": "Customer's own copy request: may send yourself to registered email"
+  },
+  {
+   "id": "4.24",
+   "sec": "4",
+   "type": "S",
+   "text": "Insurer/employer request: do not send, inform Anil"
+  },
+  {
+   "id": "4.25",
+   "sec": "4",
+   "type": "S",
+   "text": "Never promise delivery date before lab confirms"
+  },
+  {
+   "id": "4.26",
+   "sec": "4",
+   "type": "S",
+   "text": "Never sell contact lenses without valid prescription"
+  },
+  {
+   "id": "4.27",
+   "sec": "4",
+   "type": "S",
+   "text": "Exception: rebuying exact same lens bought within last 6 months"
+  },
+  {
+   "id": "4.28",
+   "sec": "4",
+   "type": "F",
+   "text": "Express = glasses ready within 48 hours"
+  },
+  {
+   "id": "4.29",
+   "sec": "4",
+   "type": "F",
+   "text": "Express fee 300 rupees"
+  },
+  {
+   "id": "4.30",
+   "sec": "4",
+   "type": "S",
+   "text": "Express only for glasses, not contact lenses"
+  },
+  {
+   "id": "4.31",
+   "sec": "4",
+   "type": "S",
+   "text": "Cancel before lens cut: full refund"
+  },
+  {
+   "id": "4.32",
+   "sec": "4",
+   "type": "S",
+   "text": "Cancel after cut: only 40% refunded"
+  },
+  {
+   "id": "4.33",
+   "sec": "4",
+   "type": "S",
+   "text": "Exception: shop's mistake, full refund even after cut"
+  },
+  {
+   "id": "4.34",
+   "sec": "4",
+   "type": "F",
+   "text": "Home delivery fee 5% of order"
+  },
+  {
+   "id": "4.35",
+   "sec": "4",
+   "type": "F",
+   "text": "Minimum delivery fee 60 rupees"
+  },
+  {
+   "id": "4.36",
+   "sec": "4",
+   "type": "S",
+   "text": "Wednesdays only: free eye exam for 60 and over"
+  },
+  {
+   "id": "4.37",
+   "sec": "4",
+   "type": "F",
+   "text": "Otherwise exam fee 200 rupees"
+  },
+  {
+   "id": "4.38",
+   "sec": "4",
+   "type": "S",
+   "text": "Answer complaints within 24 hours"
+  },
+  {
+   "id": "4.39",
+   "sec": "4",
+   "type": "S",
+   "text": "Warranty claims only within 12 months of purchase"
+  },
+  {
+   "id": "4.40",
+   "sec": "4",
+   "type": "S",
+   "text": "Approval request must include order amount"
+  },
+  {
+   "id": "4.41",
+   "sec": "4",
+   "type": "F",
+   "text": "Should attach old receipt, not mandatory"
+  },
+  {
+   "id": "4.42",
+   "sec": "4",
+   "type": "S",
+   "text": "Emergency trigger: chemical in eye or sudden vision loss"
+  },
+  {
+   "id": "4.43",
+   "sec": "4",
+   "type": "S",
+   "text": "Call eye-hospital emergency line 98100 45672 yourself immediately"
+  },
+  {
+   "id": "4.44",
+   "sec": "4",
+   "type": "S",
+   "text": "Not shop number 98100 45627"
+  },
+  {
+   "id": "4.45",
+   "sec": "4",
+   "type": "S",
+   "text": "Tell customer first: hospital informed and waiting"
+  },
+  {
+   "id": "4.46",
+   "sec": "4",
+   "type": "S",
+   "text": "Tell customer second: rinse eye themselves with clean water 15 minutes, do not rub"
+  },
+  {
+   "id": "4.47",
+   "sec": "4",
+   "type": "S",
+   "text": "Do not say shop staff will come rinse eye"
+  },
+  {
+   "id": "4.48",
+   "sec": "4",
+   "type": "F",
+   "text": "'चश्मा तैयार है' messages must end with exact 'कृपया अपना चश्मा 15 दिनों के भीतर दुकान से ले जाएँ।'"
+  },
+  {
+   "id": "4.49",
+   "sec": "4",
+   "type": "F",
+   "text": "Payment reminders start with 'दृष्टि ऑप्टिकल्स की ओर से विनम्र अनुस्मारक:'"
+  },
+  {
+   "id": "4.50",
+   "sec": "4",
+   "type": "F",
+   "text": "Every Saturday 18:30 send Sunita report of all week's orders"
+  },
+  {
+   "id": "4.51",
+   "sec": "4",
+   "type": "F",
+   "text": "5th of each month 11:00 send Anil stock list"
+  }
+ ],
+ "A": {
+  "kept": 194,
+  "distorted": [],
+  "lost": [],
+  "added": []
+ },
+ "B": {
+  "kept": 194,
+  "distorted": [],
+  "lost": [],
+  "added": [
+   "§4: parenthetical '(the approver is not named)' - accurate meta-annotation, not a rule"
+  ]
+ },
+ "X": {
+  "kept": 193,
+  "distorted": [],
+  "lost": [
+   {
+    "id": "2.3",
+    "type": "F",
+    "why": "Addressee '各位居民 / all residents' dropped from the §2 notice header (residents still implied by later rules)"
+   }
+  ],
+  "added": [
+   "§4: 'the approver is not stated' - accurate meta-annotation"
+  ]
+ },
+ "Y": {
+  "kept": 193,
+  "distorted": [],
+  "lost": [
+   {
+    "id": "2.3",
+    "type": "F",
+    "why": "Addressee '各位居民 / all residents' dropped from the §2 notice header (residents still implied by later rules)"
+   }
+  ],
+  "added": [
+   "§4: 'the approver is not stated' - accurate meta-annotation"
+  ]
+ }
+}

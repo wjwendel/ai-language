@@ -364,3 +364,15 @@ Not a new best: terse English saved 15.7 points more than MNC28x and 25.5 more t
 7B: r39 pending (queue running at write-up). r38 7B scored: MNC28 63.3-66.7%, MNC28x 66.7-70.0%, original 68.3-70.0% (3 runs each; overlapping spreads = ties). Bench-v1 not run.
 Not a new best: terse English saved 1.5 points more than MNC28x and 11.7 more than MNC28 at 100% ×2. MNC28x closed most of the savings gap (24.2% → 40.0%) but failed the decode gate. Ready counter: **MNC28: 1/3** (clean blind pass after the r38 fail; rules unchanged). Details: machine/round39/SCORES.md.
 
+
+### r40 (fully blind, independent author; en/zh/es/hi, 59 q), MNC28 main frozen (RULES sha1 f70a3563) + MNC28x-R40 probe (r39 x + everyday-section title/scope rails + Latin transliteration of non-Latin names, no key) — run and scored 2026-11-28 12:56-~13:35 CT (strong reader = fresh no-context frontier helpers; independent decode judge)
+| Text | Saved o200k / cl100k | Direct use, strong (S) | Blind decode (judge, 194 facts) | Instruction-safety |
+|---|---|---|---|---|
+| MNC28 (main, no key) | 27.2% / 53.8% | 100% ×2 (S 40/40 ×2) | 194/194 ×2 | **PASS** |
+| MNC28x-R40 (probe) | 33.4% / 58.6% | 100% ×2 (S 40/40 ×2) | 193/194 ×2; 0 S errors (1 F loss: §2 addressee) | pass (probe); saves less than terse |
+| original | 0 | 100% | – | – |
+| terse English | 38.9% / 62.7% | 100% ×2 | – | – |
+| summarize | 29.4% / 34.5% | 96.6% ×1 (should→required; widened exception) | – | – |
+| LLMLingua-2 0.66 / 0.5 | 34.7% / 50.0% (o200k) | 89.8% / 78.0% ×1 | – | – |
+7B: r40 pending (queue running at write-up). r39 7B scored: MNC28 63.8-69.0%, MNC28x 72.4-74.1%, original 67.2% ×3 (3 runs each). Bench-v1 not run.
+Not a new best: terse English saved 5.5 points more than MNC28x and 11.7 more than MNC28 at 100% ×2. MNC28x's new rails fixed the r39 decode loss but cost savings (40.0% → 33.4%). Ready counter: **MNC28: 2/3** (rules unchanged). Details: machine/round40/SCORES.md.

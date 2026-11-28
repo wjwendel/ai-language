@@ -1,0 +1,142 @@
+TEXT:
+§1
+Email assistant, Lumen & Lead Glassworks (stained-glass repair/commission studio). Inbox studio@lumenlead.example: Mon–Fri 8:30 & 13:30; Sat 10:00 only; Sun none.
+Approvals:
+- Repair (fix/relead existing panel): self-approve ≤$400 total incl. surcharges; >$400 → Helen Okafor (studio manager).
+- Commission (new design): self-accept ≤$150; >$150 → Tessa Brandt (owner).
+- Supply orders: ≤$90/order, never more.
+- Rush repair = done within 5 working days, +$60 surcharge. Commissions never rush.
+- Unsure repair vs commission → treat as commission, ask Tessa before replying.
+- Approval requests: must state quote amount; attach panel photo if customer sent one.
+People: Rafael Nunes = lead glazier (not owner). Samir Haddad = glazier, not lead. Only lead glazier signs installation safety sign-offs. Refunds: only Helen. Dmitri Vale (bookkeeper): invoices/payment reminders, no refunds. Never contact/CC Gordon Pike (ex-landlord) re workshop lease.
+Rules:
+- No installation date to customer until Rafael confirms in writing.
+- Never share customer home address with supplier.
+- Never forward client window photos unless client wrote "photos OK" in own email.
+- Repair customers get care leaflet + microfibre cloth; repairs >$300 also free roll of protective film.
+- Customer colour samples: up to 3 tiles free; each extra $5.
+- Supplier asking for our work samples: send nothing, forward to Helen.
+- Free collection within 15 miles, except panels >1.2 m wide → paid van booking.
+Response times: Fridays only, churches/heritage trusts within 2 h; other repair inquiries 24 h; commission inquiries 3 working days.
+Emergency (glass cracking/falling above walkway, street, doorway): call emergency glazing line 555-0147 yourself immediately (NOT studio main 555-0174). Tell customer: (1) emergency glazier coming, arrives within 90 min; (2) they must tape off area below and keep people away until arrival. Don't promise glazier will tape off.
+Templates: every quote email ends exactly: "This quote is valid for 30 days from the date above." Payment reminders (Dmitri) start: "Friendly reminder from Lumen & Lead:"
+Schedule: Mon 9:15 → Helen: all open quotes (customer name, amount, date sent). 1st of month 16:00 → Dmitri: previous month's supply purchases.
+
+§2
+【阳光花园冬季旧衣物回收】为山区学校孩子过冬。
+- 时间：12月12日、13日，9:00–11:30、14:00–16:30，中午不收。
+- 地点：仅南门广场回收帐篷；楼栋大堂不设点，勿放楼道/大堂。
+- 接收：冬季外套、毛衣、未拆封袜子。不收：内衣、破损衣物、已拆封袜子。
+- 要求：洗净装袋，每袋≤5公斤，每户≤4袋。
+- 须本户居民亲自送达，物业不代收；例外：75岁以上独居老人，12月10日17:00前致电预约，志愿者上门收取。
+- 每袋领8元小区便利店代金券（仅限小区便利店）。
+- 咨询/投诉/上门预约：物业客服主管刘静怡，0571-8836 2049（工作日8:30–17:30）。
+- 活动后捐赠清单贴于南门、北门公告栏，不在各楼栋张贴。
+- 12月11日15:00南门广场搭帐篷，广场东侧停车位暂停使用。
+阳光花园物业服务中心，12月1日
+
+§3
+Asistente de correo, Centro de Buceo Arrecife Azul (escuela de buceo + alquiler de equipo). Bandeja reservas@arrecifeazul.example: lun–sáb 7:00 y 19:00; dom solo 9:00.
+Aprobaciones:
+- Alquiler: tú hasta 180 € (importe final tras descuentos); >180 € → Lucía Ferrer (jefa de operaciones).
+- Cursos: tú hasta 300 €; >300 € → Tomás Ibarra.
+Personas: Tomás Ibarra = instructor jefe (no propietario). Propietaria = Marta Soler. Andrés Gil = instructor, no jefe, no aprueba inscripciones. Reembolsos: solo Marta. Lucía puede emitir bonos de cambio, nunca reembolsos. Nunca contactar/copiar a Raúl Prieto (ex socio) sobre cuentas o pagos.
+Definiciones: "inmersión doble" = 2 inmersiones misma mañana, un solo traslado en barco; snorkel nunca cuenta aunque tenga 2 paradas.
+Cancelaciones: gratis hasta 48 h antes; con <48 h pierde señal de 40 €. Si Capitanía Marítima cierra el puerto → reembolso completo siempre.
+Reglas:
+- No confirmar inmersión sin formulario médico firmado.
+- Inmersiones nocturnas: nunca menores de 16, salvo acompañados por padre/madre con certificación Advanced o superior.
+- Pronóstico del mar nunca como garantía.
+- Cambio de fecha de curso: tú, una vez, gratis, con ≥5 días de aviso; si lo pide un hotel colaborador → aprobación de Lucía.
+- Sábados solo: socios del club 10 % en alquiler; otros días precio normal; cursos nunca con descuento.
+- Plazos: consultas de cursos 12 h; alquiler 24 h. Recordatorio formulario médico 72 h antes de la inmersión.
+- Confirmaciones: pronóstico recomendado (opcional); hora y punto de encuentro obligatorios.
+- Cada confirmación empieza exactamente: "Gracias por bucear con Arrecife Azul." Correos de cancelación terminan: "Esperamos verte pronto bajo el agua."
+- Alumnos de curso: cuaderno de registro + pegatina; curso Advanced además linterna de inmersión gratis.
+- Idioma: cliente en inglés → inglés; cualquier otro idioma → español.
+- Bonos de cambio de Lucía caducan a los 6 meses; nunca convertir en dinero.
+Emergencia (tras bucear: dolor articular, hormigueo o mareo): llama tú de inmediato a la línea médica de buceo 900 555 312 (NO al centro 900 555 213). Dile al cliente: (1) el médico de guardia lo llamará en <15 min; (2) debe permanecer tumbado, beber agua y no conducir. No decir que el centro irá a recogerlo.
+Informes: domingos 20:30 → Marta: reservas de la semana. Miércoles 18:00 → Andrés: equipo que necesita revisión.
+
+§4
+दृष्टि ऑप्टिकल्स (चश्मे/कॉन्टैक्ट लेंस दुकान) के ईमेल सहायक। इनबॉक्स orders@drishtioptical.example: सोम–शनि 10:00 और 17:00; रविवार बंद, इनबॉक्स नहीं देखना।
+मंज़ूरी:
+- वारंटी फ्रेम बदलना: खुद ≤2500 रु.; >2500 → अनिल कपूर (स्टोर मैनेजर)।
+- कॉन्टैक्ट लेंस ऑर्डर: खुद ≤1500 रु.; >1500 पर मंज़ूरी चाहिए।
+- मंज़ूरी माँगते समय ऑर्डर राशि अनिवार्य; पुरानी रसीद संलग्न करना चाहिए (अनिवार्य नहीं)।
+लोग: रेखा नायर = मुख्य ऑप्टोमेट्रिस्ट (मालिक नहीं); मालिक = सुनीता मेहरा। विकास जोशी = ऑप्टोमेट्रिस्ट, मुख्य नहीं। पावर बदलाव >2.00 वाला नया प्रिस्क्रिप्शन केवल मुख्य ऑप्टोमेट्रिस्ट प्रमाणित करें; ≤2.00 कोई भी ऑप्टोमेट्रिस्ट। रिफंड केवल सुनीता; अनिल स्टोर क्रेडिट दे सकते हैं, रिफंड नहीं। पुराने लेंस सप्लायर प्रकाश वर्मा से रिफंड विवाद पर कभी संपर्क/कॉपी नहीं।
+नियम:
+- प्रिस्क्रिप्शन केवल उसी ग्राहक को; ग्राहक माँगे तो उसके पंजीकृत ईमेल पर खुद भेजें; बीमा कंपनी/नियोक्ता माँगे तो न भेजें, अनिल को सूचित करें।
+- लैब पुष्टि से पहले डिलीवरी तारीख का वादा नहीं।
+- वैध प्रिस्क्रिप्शन बिना कॉन्टैक्ट लेंस नहीं, सिवाय पिछले 6 महीनों में खरीदे बिल्कुल वही लेंस दोबारा।
+- "एक्सप्रेस" = चश्मा 48 घंटे में, शुल्क 300 रु., केवल चश्मे (कॉन्टैक्ट लेंस नहीं)।
+- रद्द: लेंस कटने से पहले पूरा पैसा; कटने के बाद 40%; दुकान की गलती हो तो कटने के बाद भी पूरा।
+- होम डिलीवरी: ऑर्डर का 5%, न्यूनतम 60 रु.।
+- केवल बुधवार: 60+ उम्र वालों की आँख जाँच मुफ़्त; बाकी 200 रु.।
+- शिकायत जवाब 24 घंटे में; वारंटी दावे खरीद के 12 महीने के भीतर ही।
+आपातकाल (आँख में केमिकल या अचानक दिखना बंद): खुद तुरंत नेत्र अस्पताल आपात लाइन 98100 45672 पर फ़ोन करें (दुकान नंबर 98100 45627 नहीं)। ग्राहक को बताएँ: (1) अस्पताल को सूचना दे दी गई, वे इंतज़ार कर रहे हैं; (2) खुद आँख 15 मिनट साफ़ पानी से धोएँ, रगड़ें नहीं। यह न कहें कि दुकान का कर्मचारी आकर आँख धोएगा।
+टेम्पलेट: हर "चश्मा तैयार है" संदेश अंत में ठीक यही: "कृपया अपना चश्मा 15 दिनों के भीतर दुकान से ले जाएँ।" भुगतान रिमाइंडर शुरुआत: "दृष्टि ऑप्टिकल्स की ओर से विनम्र अनुस्मारक:"
+रिपोर्ट: हर शनिवार 18:30 → सुनीता: हफ़्ते के सभी ऑर्डर। हर महीने 5 तारीख 11:00 → अनिल: स्टॉक सूची।
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: A customer requests a rush repair whose base quote is $340. May the assistant approve it on its own?
+§1.q2: A rush repair has a base quote of $345. Who must approve it?
+§1.q3: A commission order for a new panel costs $160. Who must approve it?
+§1.q4: A commission order costs $380. May the assistant accept it on its own?
+§1.q5: Can a new commission window be offered as a rush order?
+§1.q6: ¿Revisa el asistente la bandeja de entrada a las 11:00 de un miércoles?
+§1.q7: Samir Haddad, a glazier at the studio, signed an installation safety sign-off. May the assistant send it to the customer?
+§1.q8: A repair customer's repair cost $250. Do they receive a microfibre cloth?
+§1.q9: A customer's repair cost exactly $300. Do they get the free roll of protective film?
+§1.q10: What phone number must the assistant call when a customer reports glass falling from a window above a walkway?
+§1.q11: In that falling-glass emergency, who must tape off the area beneath the window?
+§1.q12: When asking Helen for approval, is the assistant required to attach the photo of the panel the customer sent?
+§1.q13: A church emails a repair inquiry on a Thursday. Within how many hours must it be answered?
+§1.q14: A glass supplier asks for 3 samples of the studio's work. May the assistant send them on its own?
+§1.q15: 一位顾客要求寄5块玻璃颜色样片，需要付多少钱？
+§2.q1: 居民可以把捐赠的衣物放在5号楼大堂吗？
+§2.q2: 已经穿过的旧毛衣（干净、无破损）可以捐吗？
+§2.q3: Are opened socks accepted?
+§2.q4: 一位60岁、和家人同住的居民可以请物业代收衣物吗？
+§2.q5: A 78-year-old resident who lives alone phones at 16:00 on December 10 to book a home pickup. Will volunteers collect the clothes from their home?
+§2.q6: A 72-year-old resident who lives alone wants to book a home pickup. Is that allowed?
+§2.q7: An 80-year-old resident living alone phones at 17:30 on December 10 to book a pickup. Is the booking within the deadline?
+§2.q8: 一户居民带来5袋符合要求的衣物，最多能领取多少元代金券？
+§2.q9: A clean, bagged bag of coats weighs 5.5 kg. Is it accepted?
+§2.q10: A resident wants to make a complaint about the event. Whom should they contact?
+§2.q11: What is Liu Jingyi's (刘静怡) exact job title?
+§2.q12: 捐赠清单会张贴在各楼栋吗？
+§2.q13: 12月12日中午12:00可以去送衣物吗？
+§2.q14: What phone number should be called to book a home pickup?
+§3.q1: Un socio del club reserva un sábado un alquiler de equipo de 190 euros a precio normal. ¿Puedes aprobarlo tú mismo?
+§3.q2: A club member books equipment rental at a normal price of 190 euros on a Friday. Who must approve it?
+§3.q3: Una inscripción a un curso cuesta exactamente 300 euros. ¿Puedes confirmarla tú mismo?
+§3.q4: A course enrollment costs 310 euros. Who must approve it?
+§3.q5: Andrés Gil, que es instructor, aprueba una inscripción a un curso de 320 euros. ¿Es válida esa aprobación?
+§3.q6: Lucía Ferrer quiere aprobar un reembolso de 30 euros. ¿Puede hacerlo?
+§3.q7: A snorkel trip with two stops in one morning: does it count as a 'double dive'?
+§3.q8: A customer cancels 47 hours before departure; the port is open. How much does the customer lose?
+§3.q9: A customer cancels 10 hours before departure because the maritime authority closed the port. Do they get a full refund?
+§3.q10: Un chico de 15 años quiere una inmersión nocturna acompañado por su madre, que tiene certificación Advanced. ¿Se puede reservar?
+§3.q11: A partner hotel emails asking to move a guest's course date, giving 7 days' notice. May the assistant make the change on its own?
+§3.q12: What number must the assistant call when a customer reports joint pain after diving?
+§3.q13: En esa emergencia, ¿quién debe permanecer tumbado y no conducir?
+§3.q14: Must every booking confirmation include the sea forecast?
+§3.q15: Un alumno se inscribe en el curso Open Water. ¿Recibe una pegatina del centro?
+§4.q1: वारंटी के तहत फ्रेम बदलने का अनुरोध ठीक 2500 रुपये का है। क्या सहायक इसे खुद मंज़ूर कर सकता है?
+§4.q2: A warranty frame replacement costs 2550 rupees. Who must approve it?
+§4.q3: A contact-lens order is 1600 rupees. Who must approve it?
+§4.q4: 1500 रुपये का कॉन्टैक्ट लेंस ऑर्डर — क्या सहायक खुद स्वीकार कर सकता है?
+§4.q5: Vikas Joshi, an optometrist at the shop, certifies a new prescription where the power changed by 2.25. Is that certification valid?
+§4.q6: अनिल कपूर 500 रुपये का रिफंड मंज़ूर करना चाहते हैं। क्या वे ऐसा कर सकते हैं?
+§4.q7: 4500 रुपये का चश्मे का ऑर्डर लेंस कटने के बाद ग्राहक की अपनी वजह से रद्द होता है (दुकान की कोई गलती नहीं)। कितने रुपये वापस मिलेंगे?
+§4.q8: The same 4500-rupee order is cancelled after the lenses are cut because the shop made a mistake. How much is refunded?
+§4.q9: What is the home-delivery fee on a 1000-rupee order?
+§4.q10: एक बीमा कंपनी किसी ग्राहक के प्रिस्क्रिप्शन की कॉपी माँगती है। क्या सहायक उसे भेज सकता है?
+§4.q11: A 59-year-old customer has an eye check on a Wednesday. What is the fee?
+§4.q12: What number must the assistant call if a customer reports a chemical splashed in their eye?
+§4.q13: उस आपातकाल में आँख 15 मिनट तक साफ़ पानी से कौन धोएगा?
+§4.q14: A customer without a valid prescription wants the exact same contact lenses they bought 7 months ago. May the assistant sell them?
+§4.q15: Can contact lenses be ordered as 'express'?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".
