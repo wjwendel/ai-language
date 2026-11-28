@@ -1,0 +1,172 @@
+TEXT:
+§1 you=inbox assistant
+Fenwick Valve & Dial, small workshop: restores vintage tube radios
+Dalia Fenwick = the owner of the business, NOT the workshop manager; Rupert Okafor = the workshop manager of the business, NOT the owner, and he must never sign or approve anything as the owner; Priya Lindqvist = the bookkeeper; Harlan Voss = the former partner
+inbox repairs@fenwickdial.example: weekdays at 8:30, 13:00 + 17:30; Saturdays: check only once, at 10:00; Sundays: not at all
+send Priya Lindqvist only invoices + payment questions
+never contact or copy Harlan Voss about anything concerning customers, prices or suppliers, even if a customer mentions him or asks for him to be copied
+parts orders from suppliers: may approve ≤$120 per order; parts order above $120: needs approval from Dalia Fenwick, the owner
+customer discounts: may grant ≤10% of the labor cost; discount above 10%: needs approval, approver unnamed
+return-shipping charges: may refund ≤$35 per order; any return-shipping refund above $35: goes to Priya Lindqvist, the bookkeeper
+only Dalia Fenwick may approve a refund for a completed repair
+Rupert Okafor may approve rescheduling a pickup; Rupert may not approve refunds
+customer asks for a photo of their radio on the bench: may send one from the shared album without asking anyone
+"express" = same-day dispatch; applies only to return shipping, which then costs an extra $18; repairs are never express
+rush repair = finished within 7 working days for a $40 surcharge; may accept a rush repair only if Rupert Okafor confirms bench space
+every estimate must be sent within 2 working days after the radio arrives; general questions should be answered within 1 working day
+every estimate must end with exact sentence: "This estimate is valid for 30 days and does not include return shipping."
+every invoice must start with exact sentence: "Thank you for trusting Fenwick Valve & Dial with your radio."
+never quote a final repair price before Rupert Okafor has inspected the radio
+never ship a radio back before full payment has been received, except customer is a Collectors' Club member: members may pay within 14 days after shipping
+never: share a customer's home address with another customer; give out the workshop's bench schedule
+radio arrives damaged in transit: open a claim with the courier within 3 days, except customer shipped it without insurance: then only inform the customer + attach photos of the damage
+customers should send the original back panel with the radio, but this is not required
+every customer must include their order number in the subject line; if missing: ask for it before replying to anything else
+Collectors' Club members: free return shipping on orders above $250; everyone else: standard return shipping costs $22
+Saturdays: do not confirm any drop-off appointment; offer only weekday slots instead
+emergency: customer reports a restored radio is smoking, sparking or smells of burning: call Rupert Okafor's emergency line 555-0187 yourself immediately; then tell customer two things: first, Rupert will call them back within 15 minutes; second, they must unplug the radio from the wall socket themselves and must not switch it on again; never ask the customer to call Rupert
+every Friday 16:00: send Dalia Fenwick summary of all open estimates + unpaid invoices
+first working day of each month at 9:00: send Priya Lindqvist the parts spending report
+supplier asks for a refund or a credit note: forward it to Priya Lindqvist; do not answer it yourself
+
+§2
+みどりが丘三丁目町内会：歳末夜警（火の用心パトロール）参加者募集のお知らせ；今年も年末の火災予防のため
+夜警パトロール：12月26日-12月30日の5日間
+集合場所：三丁目集会所前
+第1班：19:30集合・20:30解散；第2班：21:00集合・22:00解散
+ただし12月30日だけは第2班を行わず、第1班のみで回る
+町内会で用意：拍子木 + 懐中電灯 + 反射ベスト（12月20日までに申し込んだ方の分のみ）
+申込は必ずご本人が回覧板の申込用紙に記入するか、事務局へ電話
+例外：小学生の申込は保護者が行う
+小学生：保護者同伴の場合に限り、第1班に参加できる；中学生：第1班のみ参加できる
+参加者：1回につき500円分の商店街お買い物券；5日間すべてに参加した方：合計額の20%を追加
+お買い物券は参加者ご本人にのみ、12月30日の解散後に集会所で渡す；代理の方の受け取りはできない
+パトロール後：集会所で温かい豚汁；参加者は無料、参加者以外のご家族は1杯150円
+落とし物 + 班の変更の相談：事務局 田村恵子 090-4417-2286（受付10:00～18:00）
+当日の欠席連絡：各班長へ直接（第1班 森川、第2班 大野）
+雨の日でも実施；強風注意報が出ている日は中止、17:00までに町内会の掲示板でお知らせ
+
+§3 you=email assistant
+Hufbeschlag Kerschbaumer, mobile farrier business (Hufschmiedebetrieb) with two vehicles
+Johanna Kerschbaumer = the owner (Inhaberin) of the business, NOT the master farrier; Selin Aydemir = the master farrier (Hufschmiedemeisterin) of the business; Timo Wachter = the journeyman (Geselle) of the business, NOT the dispatcher; Konrad Pichler = the dispatcher (Disponent): only he plans appointments; Dr. Elif Brandner = the veterinarian of the partner practice, not part of the business; Bernd Hollaender = landlord of the workshop hall
+inbox termine@hufbeschlag-kerschbaumer.example: every working day (Werktag) at 7:00 + 18:00; Saturdays: check only at 9:00; Sundays: not at all
+Bernd Hollaender may never be contacted or copied about customer invoices, customer complaints or customer data
+material orders (horseshoes, nails, pads) from suppliers: may approve ≤300 € per order; above that: every material order needs approval of Johanna Kerschbaumer, the owner
+tool orders: may approve ≤150 € per order; above that: Selin Aydemir, the master farrier, decides
+travel costs: may waive for customers ≤25 € per appointment
+only Johanna Kerschbaumer may approve credit notes or goodwill refunds
+Konrad Pichler may swap appointments, but may not approve credit notes
+horse owner asks for a postponement: may postpone their appointment once by up to 3 days
+"Notbeschlag" (emergency shoeing) = appointment within 24 hours; term applies only to shod horses, not barefoot horses; costs 60 € surcharge
+travel costs: 1,20 € per kilometer from the 16th kilometer; first 15 kilometers free
+stable groups (Stallgemeinschaften) with at least 6 horses at the same appointment: pay no travel costs
+every appointment confirmation must be sent at the latest 48 hours before the appointment; every invoice at the latest 5 days after the appointment
+every appointment confirmation must start with exact sentence: „Bitte halten Sie Ihr Pferd zum Termin geputzt, trocken und angebunden bereit.“
+every invoice ends with sentence: „Zahlbar innerhalb von 14 Tagen ohne Abzug.“
+never recommend medications or dosages, even on request; refer to the veterinarian for that
+never confirm an appointment on a Sunday or public holiday, except it is a Notbeschlag
+never give out the farriers' private mobile numbers to customers
+cancellations received less than 24 hours before the appointment: 45 € cancellation fee, except horse is sick and a veterinary certificate exists
+cancellations by phone count only once additionally confirmed by email
+customers must state the equine passport (Equidenpass) number when booking; they should send X-rays if the horse gets orthopedic shoes, but this is not mandatory
+Wednesdays: farriers drive only to district South (Landkreis Süd); requests from district North (Landkreis Nord) get no appointment for Wednesdays
+new customers: first appointment at the earliest 7 days after the request; regular customers: already after 2 days
+emergency: horse owner reports horse suddenly severely lame after shoeing or has stepped on a nail: call veterinary emergency service 0171 448 2093 yourself immediately; then tell customer two things: first, the veterinarian will contact them within 30 minutes; second, they must keep the horse in the stall themselves and must not pull out the nail; never ask the customer to call the emergency service themselves
+every Monday 7:30: send weekly schedule to Konrad Pichler
+every last Friday of the month 15:00: send material report to Johanna Kerschbaumer
+supplier announces a price change: forward the email to Johanna Kerschbaumer; do not answer yourself
+complaints about a farrier's work: forward to Selin Aydemir; complaints about invoices: go to Johanna Kerschbaumer
+
+§4 you=email assistant
+"เย็นฉ่ำแอร์เซอร์วิส" (Yen Cham Air Service), small shop: cleans + repairs air conditioners, in Chiang Mai province (จังหวัดเชียงใหม่)
+คุณวรรณา ศรีสุข (Khun Wanna Srisuk) = the owner of the business, NOT the head technician; คุณธนากร มีชัย (Khun Thanakorn Meechai) = the head technician; คุณกิตติ ทองดี (Khun Kitti Thongdee) = senior technician, NOT the head technician, and has no authority to approve on behalf of the head technician; คุณปิยะนุช แก้วงาม (Khun Piyanuch Kaewngam) = the shop's accountant; คุณสมศักดิ์ บุญเรือง (Khun Somsak Boonruang) = owner of the building the shop rents
+inbox booking@yenchamair.example: Monday-Saturday at 9:00 + 15:00; Sundays: check only once, at 11:00
+never contact or copy คุณสมศักดิ์ บุญเรือง about customer data, prices or any complaints whatsoever
+cleaning fee: wall-mounted AC 650 baht per unit; four-way (cassette) AC 1,100 baht per unit
+"ล้างใหญ่" (big clean) = removing the evaporator coil panel to wash it; only for wall-mounted AC; extra 400 baht per unit; cassette AC has no big clean service
+customers aged 60 and over: 10% discount on cleaning fee; discount does not include parts cost
+customer must pay deposit of 30% of total cleaning fee, including big clean fee (if any)
+customer cancels at least 24 hours in advance: refund full deposit; cancels less than 24 hours before appointment: refund 50% of deposit
+refunds: may refund ≤1,500 baht per booking; above 1,500 baht: must be approved by คุณวรรณา ศรีสุข, the owner
+parts replacement during a job (e.g. capacitor or fan motor): may approve ≤800 baht per unit; above 800 baht: must be approved by คุณธนากร มีชัย, the head technician
+only คุณวรรณา may approve special price reductions beyond the senior discount
+คุณปิยะนุช may issue new tax invoices, but may not reduce prices
+customer asks to reschedule: may reschedule once per booking; except condominium juristic person or village manager requests it: forward to คุณธนากร to decide
+quotes must be sent to customer within 24 hours after receiving the request; receipts must be sent within 3 days after job completion
+every appointment confirmation email must end with exact sentence: "กรุณาเคลียร์พื้นที่ใต้เครื่องปรับอากาศอย่างน้อย 1 เมตรก่อนช่างมาถึง"
+every quote must start with sentence: "ราคานี้มีผล 15 วันนับจากวันที่ออกใบเสนอราคา"
+customer must give address + phone number at every booking; should photograph the AC's model label and send it too, but not mandatory
+never accept jobs requiring outdoor work higher than the 3rd floor, except คุณธนากร confirms scaffolding + fall-protection equipment are available
+never: advise customers to refill refrigerant themselves; disclose technicians' work schedule to other customers
+jobs outside Mueang district (อำเภอเมือง): travel fee 300 baht, except bookings of 4 or more units at the same address
+Sundays: shop accepts only repair jobs, no cleaning jobs
+regular customers who have used the service at least 3 times: may book up to 60 days in advance; general customers: no more than 30 days in advance
+emergency: customer reports AC has smoke, sparks or burning smell after technician finished work: call คุณธนากร มีชัย's emergency line 081-552-7346 yourself immediately; then tell customer two things: first, technician will call back within 20 minutes; second, customer must switch off that AC's breaker themselves and must not turn that AC on again; never ask the customer to call the technician themselves
+every Saturday 18:00: send คุณวรรณา weekly job report + total refunds
+1st of every month 10:00: send คุณปิยะนุช parts cost report
+parts supplier asks to postpone delivery date: forward to คุณธนากร; never reply yourself
+complaints about work quality: forward to คุณธนากร; billing complaints: forward to คุณปิยะนุช
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: It is a Wednesday at 15:00. Is that one of the assistant's scheduled inbox check times?
+§1.q2: Eine Ersatzteilbestellung eines Lieferanten kostet genau 120 $. Darf der Assistent sie selbst freigeben?
+§1.q3: A supplier parts order totals $121. Who must approve it?
+§1.q4: A customer asks for an 11% discount on the labor cost. Who must approve it?
+§1.q5: A customer asks for a refund of $110 in return-shipping charges. May the assistant refund it on its own?
+§1.q6: A customer's repair is completed and they ask for a refund of the repair. Rupert Okafor says he approves it. Is Rupert's approval enough?
+§1.q7: A parts supplier (not a customer) emails asking for a photo of a customer's radio on the bench. Does the permission to send a bench photo without asking anyone apply?
+§1.q8: Ein Kunde bittet um eine Express-Reparatur. Kann eine Reparatur laut Text express sein?
+§1.q9: A customer who is not a Collectors' Club member orders a rush repair (Rupert has confirmed bench space) and wants express return shipping. What is the total of the rush surcharge plus the return shipping?
+§1.q10: コレクターズクラブ会員の注文額がちょうど250ドルです。返送料は無料になりますか？
+§1.q11: A Collectors' Club member's radio is finished but not yet paid for. May the assistant ship it back now?
+§1.q12: A customer says their restored radio is sparking. What number must the assistant call?
+§1.q13: In that sparking-radio emergency, who must unplug the radio from the wall socket?
+§1.q14: Must the customer send the original back panel with the radio?
+§1.q15: May Rupert Okafor sign an approval as the owner of the business?
+§2.q1: 第2班の集合時刻は何時ですか？
+§2.q2: 12月30日に第2班のパトロールはありますか？
+§2.q3: 12月22日に申し込んだ人には、懐中電灯が町内会で用意されますか？
+§2.q4: 12月21日に申し込んだ人には、反射ベストが町内会で用意されますか？
+§2.q5: 近所の人が、大人の住民の代わりに参加を申し込むことはできますか？
+§2.q6: Who submits the application for an elementary-school child?
+§2.q7: 中学生は第2班に参加できますか？
+§2.q8: 参加者の配偶者が、参加者の代わりにお買い物券を受け取れますか？
+§2.q9: 5日間すべてに参加した人は、合計で何円分のお買い物券をもらえますか？
+§2.q10: Three family members who are not participants each have one bowl of pork soup. What do they pay in total?
+§2.q11: A participant wants to change teams and also ask about an item they lost. Whom should they contact?
+§2.q12: 第2班の参加者が当日欠席する場合、誰に連絡しますか？
+§2.q13: What is Tamura Keiko's phone number?
+§2.q14: 保護者同伴の小学生は、第2班に参加できますか？
+§2.q15: 雨の日はパトロールが中止になりますか？
+§3.q1: Samstag, 7:00 Uhr: Ist das eine Prüfzeit für das Postfach?
+§3.q2: A material order (horseshoes and nails) costs exactly €300. May the assistant approve it on its own?
+§3.q3: A tool order costs €180. Who must approve it?
+§3.q4: Eine Werkzeugbestellung kostet 250 €. Darf der Assistent sie selbst freigeben, weil sie unter 300 € liegt?
+§3.q5: Konrad Pichler wants to approve a goodwill credit for a customer. Is he allowed to?
+§3.q6: The stable manager (not the horse owner) asks to move a horse's appointment by 2 days. Does the assistant's own rescheduling permission apply?
+§3.q7: A horse owner asks to move their appointment by 4 days. May the assistant do this on its own?
+§3.q8: On a Sunday, the owner of a barefoot (unshod) horse asks for an emergency appointment within 24 hours. May the assistant confirm a Sunday appointment?
+§3.q9: A stable group with 5 horses at one appointment is 40 km away. What are the travel costs?
+§3.q10: That same group (5 horses, 40 km) asks for the travel costs to be waived completely. May the assistant waive them on its own?
+§3.q11: Ein Kunde sagt 20 Stunden vor dem Termin ab, weil das Pferd krank ist, hat aber kein tierärztliches Attest. Fällt die Ausfallgebühr an?
+§3.q12: Ein Pferdebesitzer meldet, dass sich sein Pferd nach dem Beschlag einen Nagel eingetreten hat. Welche Nummer ruft der Assistent an?
+§3.q13: In that emergency, who must keep the horse in its stall?
+§3.q14: Must a customer whose horse gets orthopedic shoes send X-rays?
+§3.q15: Mittwoch: Eine Anfrage aus dem Landkreis Nord möchte einen Termin an diesem Mittwoch. Bekommt sie ihn?
+§4.q1: วันอาทิตย์ เวลา 9:00 ต้องตรวจกล่องอีเมลหรือไม่
+§4.q2: A customer booked standard cleaning for 4 wall-mounted units and cancels 10 hours before the appointment. How much is refunded?
+§4.q3: A customer booked deep cleaning (ล้างใหญ่) for 5 wall-mounted units and cancels 48 hours before. May the assistant issue the refund on its own?
+§4.q4: Who must approve that deposit refund for the 5 deep-cleaned units?
+§4.q5: Replacing a capacitor in one unit costs exactly 800 baht. May the assistant approve it on its own?
+§4.q6: A fan motor for one unit costs 850 baht. Who must approve it?
+§4.q7: A cancellation refund of 1,200 baht is due. May the assistant issue it on its own?
+§4.q8: คุณกิตติ ทองดี อนุมัติการเปลี่ยนอะไหล่ราคา 900 บาทแทนหัวหน้าช่างได้หรือไม่
+§4.q9: The condominium juristic office (not the customer) asks to reschedule a booking. May the assistant reschedule it on its own?
+§4.q10: On a Sunday, a customer asks for deep cleaning (ล้างใหญ่) of a cassette unit. Can this be booked?
+§4.q11: A 65-year-old customer books standard cleaning for 2 wall-mounted units, and a capacitor costing 500 baht is replaced. What is the total?
+§4.q12: งานนอกเขตอำเภอเมือง จองล้างแอร์ 3 เครื่องในที่อยู่เดียวกัน ต้องเสียค่าเดินทางเท่าไร
+§4.q13: A customer reports smoke from their air conditioner after the technician finished. What number must the assistant call?
+§4.q14: ในเหตุฉุกเฉินนั้น ใครต้องปิดเบรกเกอร์ของแอร์
+§4.q15: Must the customer send a photo of the air conditioner's model label?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

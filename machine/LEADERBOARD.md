@@ -335,3 +335,17 @@ Not a new best: terse English saved 2.5 points more than MNC28x and 20.5 points 
 7B: r37 pending (queue running at write-up). r36 7B scored: MNC28 81.6% ×3 vs original 63.2-68.4%, MNC28x 63.2-71.1% (tie with original). Bench-v1 not run.
 Not a new best: terse English saved 6.8 points more than MNC28x (but slipped one safety question ×2); MNC28x failed the decode gate. Ready counter: **MNC28: 7 consecutive blind passes** (r31-r37; 3/3 bar met since r33). Details: machine/round37/SCORES.md.
 
+
+
+
+### r38 (fully blind, independent author; en/ja/de/th, 60 q), MNC28 main frozen (RULES sha1 f70a3563) + MNC28x probe ("terse + safety rails", no key) — run and scored 2026-11-28 06:54-~07:30 CT (strong reader = fresh no-context frontier helpers; independent decode judge)
+| Text | Saved o200k / cl100k | Direct use, strong (S) | Blind decode (judge, 224 facts) | Instruction-safety |
+|---|---|---|---|---|
+| MNC28 (main, no key) | 14.4% / 38.0% | 98.3% ×2 (S 44/44 ×2; 1 F scope miss ×2) | 222/224 ×2; 1 S distortion ×2 (Dec-20 qualifier widened from vests to all equipment, encoder-caused) | **FAIL** (strict decode gate) |
+| MNC28x (probe) | 24.2% / 46.1% | 100% ×2 (S 44/44 ×2) | 224/224 ×2, 0 errors | PASS (probe) |
+| original | 0 | 100% | – | – |
+| terse English | 39.9% / 59.3% | 100% ×2 | – | – |
+| summarize | 25.0% / 28.0% | 100% ×1 | – | – |
+| LLMLingua-2 0.66 / 0.5 | 39.9% / 52.3% (o200k) | 73.3% / 70.0% ×1 (lost almost all Japanese facts; 0.5 named an unstated approver) | – | – |
+7B: r38 pending. r37 7B scored: MNC28 67.8-69.5% (2 runs), MNC28x 69.5-79.7% (3 runs); original runs invalid (prompt too long for the 7B setup). Bench-v1 not run.
+Not a new best: terse English saved 15.7 points more than MNC28x and 25.5 more than MNC28 at equal accuracy. MNC28x was fully faithful but too wordy. Ready counter: **MNC28's streak ended at 7 (r31-r37); counter now 0** after the r38 decode fail (rules unchanged). Details: machine/round38/SCORES.md.

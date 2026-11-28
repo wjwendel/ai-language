@@ -1,0 +1,5586 @@
+{
+ "rows": [
+  {
+   "f": "llm05_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dalia Fenwick",
+   "gold": "Dalia Fenwick, the owner"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Dalia Fenwick",
+   "gold": "needs approval; approver not stated"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; above $35 goes to Priya Lindqvist",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Dalia Fenwick must approve (Rupert may not approve refunds)",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it applies only to the customer",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes; within 7 working days, $40 surcharge, if Rupert Okafor confirms bench space",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$80 ($40 surcharge + $22 standard + $18 express extra)",
+   "gold": "$80"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only orders above $250",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0187",
+   "gold": "555-0187 (Rupert Okafor's emergency line)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "21:00"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "the parent/guardian"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "3,000 yen"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "450 yen"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Tamura Keiko (the office)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ōno (team 2 contact)",
+   "gold": "Ono, the team 2 leader"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "090-4417-2286"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q15",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Selin Aydemir",
+   "gold": "Selin Aydemir, the master farrier"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; tool orders limit is €150, Selin Aydemir decides",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it applies only to horse owners",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; limit is 3 days",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; emergency shoeing exception applies only to shod horses",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€30",
+   "gold": "€30"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; assistant may waive only up to €25, Johanna Kerschbaumer decides",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, €45",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0171 448 2093",
+   "gold": "0171 448 2093 (veterinary emergency service)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the horse owner",
+   "gold": "the customer / horse owner"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "390 baht",
+   "gold": "390 baht"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; 1,575 baht exceeds 1,500",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Khun Wanna Srisuk",
+   "gold": "Wanna Srisuk, the owner"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Khun Thanakorn Meechai (head technician)",
+   "gold": "Thanakorn Meechai, the head technician"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,670 baht",
+   "gold": "1,670 baht"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "300 baht",
+   "gold": "300 baht"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "081-552-7346",
+   "gold": "081-552-7346 (Thanakorn Meechai's emergency line)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q15",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dalia Fenwick (owner)",
+   "gold": "Dalia Fenwick, the owner"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "needs approval; approver not stated",
+   "gold": "needs approval; approver not stated"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it goes to Priya Lindqvist (bookkeeper)",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Dalia Fenwick may approve it",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it applies only to customers",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; repairs are never express",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$80 ($40 rush + $22 standard return shipping + $18 express)",
+   "gold": "$80"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; free only above $250, so $22",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; member pays within 14 days after shipping",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0187 (Rupert Okafor's emergency line)",
+   "gold": "555-0187 (Rupert Okafor's emergency line)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "21:00"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "the parent/guardian"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "3,000 yen"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "450 yen"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Tamura Keiko (the office)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "Ono, the team 2 leader"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "090-4417-2286"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q15",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Saturdays only at 9:00",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Selin Aydemir (Hufschmiedemeisterin)",
+   "gold": "Selin Aydemir, the master farrier"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; tool orders limit is €150, Selin Aydemir decides",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Johanna Kerschbaumer may approve credits",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it applies only when the horse owner asks",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only up to 3 days",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; emergency shoeing is only for shod horses",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€30 (25 km × €1.20)",
+   "gold": "€30"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the assistant may waive only up to €25 per appointment",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; €45 fee applies without a vet certificate",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0171 448 2093 (veterinary emergency service)",
+   "gold": "0171 448 2093 (veterinary emergency service)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer (horse owner)",
+   "gold": "the customer / horse owner"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; not required",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "390 baht (50% of 780 baht deposit)",
+   "gold": "390 baht"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; refund 1,575 baht exceeds 1,500 baht",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Wanna Srisuk",
+   "gold": "Wanna Srisuk, the owner"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Thanakorn Meechai (head technician)",
+   "gold": "Thanakorn Meechai, the head technician"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sundays are repairs only and cassette units have no deep cleaning",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,670 baht (1,300 − 10% = 1,170 + 500 parts)",
+   "gold": "1,670 baht"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "300 baht",
+   "gold": "300 baht"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "081-552-7346 (Thanakorn Meechai's emergency line)",
+   "gold": "081-552-7346 (Thanakorn Meechai's emergency line)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it is recommended, not required",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; weekday checks are 8:30, 13:00 and 17:30",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; orders up to $120 may be approved",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dalia Fenwick, the owner",
+   "gold": "Dalia Fenwick, the owner"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (approval needed above 10%, but the approver is unnamed)",
+   "gold": "needs approval; approver not stated"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; above $35 it goes to Priya Lindqvist, the bookkeeper",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Dalia Fenwick may approve a refund for a completed repair, and Rupert may not approve refunds",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it applies only when a customer asks for a photo of their own radio",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; repairs are never express, express applies only to return shipping",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$80 ($40 rush + $22 standard return shipping + $18 express)",
+   "gold": "$80"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; free return shipping only for orders above $250",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; Collectors' Club members may pay within 14 days after shipping",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0187 (Rupert Okafor's emergency line)",
+   "gold": "555-0187 (Rupert Okafor's emergency line)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; requested but not required",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "21:00",
+   "gold": "21:00"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Team 1 patrols on Dec 30",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no; equipment only for those who applied by Dec 20",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only for those who applied by Dec 20",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; adults must apply themselves (circular form or phone to the office)",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the parent/guardian",
+   "gold": "the parent/guardian"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; junior high students may join only Team 1",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; vouchers are given only to the participant in person, no proxy pickup",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000 yen (5 x 500 = 2,500 plus 20% = 500)",
+   "gold": "3,000 yen"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "450 yen (3 x 150)",
+   "gold": "450 yen"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the office, Tamura Keiko, 090-4417-2286 (10:00-18:00)",
+   "gold": "Tamura Keiko (the office)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the Team 2 leader, Ōno, directly",
+   "gold": "Ono, the team 2 leader"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "090-4417-2286",
+   "gold": "090-4417-2286"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; accompanied elementary students may join only Team 1",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; held even in rain (cancelled only on strong-wind advisory days)",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; on Saturdays the inbox is checked only at 9:00",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; material orders up to €300 may be approved",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Selin Aydemir, the master farrier",
+   "gold": "Selin Aydemir, the master farrier"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the tool order limit is €150, above that Selin Aydemir decides",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Johanna Kerschbaumer may approve credit notes or goodwill refunds",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the permission applies only when the horse owner asks",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only once by up to 3 days",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Notbeschlag applies only to shod horses, so the Sunday exception does not apply",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€30 (25 km x €1.20; the group exemption needs at least 6 horses)",
+   "gold": "€30"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the assistant may waive only up to €25 per appointment",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; €45 fee, since there is no veterinary certificate",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0171 448 2093 (veterinary emergency service)",
+   "gold": "0171 448 2093 (veterinary emergency service)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the horse owner (customer) themselves",
+   "gold": "the customer / horse owner"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it is recommended but not mandatory",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Landkreis Nord gets no Wednesday appointments",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; on Sundays the inbox is checked only at 11:00",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "390 baht (50% of the 780 baht deposit)",
+   "gold": "390 baht"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; full deposit refund is 1,575 baht, above the 1,500 baht limit",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Khun Wanna Srisuk, the owner",
+   "gold": "Wanna Srisuk, the owner"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; up to 800 baht per unit may be approved",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Khun Thanakorn Meechai, the head technician",
+   "gold": "Thanakorn Meechai, the head technician"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; refunds up to 1,500 baht may be issued",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Khun Kitti has no authority to approve on behalf of the head technician",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; forward to Khun Thanakorn to decide",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; cassette units have no big clean, and Sundays accept only repair jobs",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,670 baht (1,300 less 10% = 1,170 plus 500 parts)",
+   "gold": "1,670 baht"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "300 baht",
+   "gold": "300 baht"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "081-552-7346 (Khun Thanakorn Meechai's emergency line)",
+   "gold": "081-552-7346 (Thanakorn Meechai's emergency line)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; requested but not mandatory",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; weekday checks are only at 8:30, 13:00 and 17:30",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; orders of $120 or less may be approved by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dalia Fenwick, the owner",
+   "gold": "Dalia Fenwick, the owner"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated; discounts above 10% need approval, but the approver is unnamed",
+   "gold": "needs approval; approver not stated"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; refunds above $35 go to Priya Lindqvist, the bookkeeper",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Dalia Fenwick may approve a refund for a completed repair, and Rupert may not approve refunds",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the permission covers only a customer asking for a photo of their own radio",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; repairs are never express, since express applies only to return shipping",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$80 ($40 rush surcharge + $22 standard return shipping + $18 express)",
+   "gold": "$80"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; free return shipping applies only to orders above $250, so it costs $22",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; Collectors' Club members may pay within 14 days after shipping",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0187 (Rupert Okafor's emergency line)",
+   "gold": "555-0187 (Rupert Okafor's emergency line)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer, themselves",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it is requested but not required",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "21:00",
+   "gold": "21:00"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; on December 30 only Team 1 patrols",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "no; equipment is provided only for people who apply by December 20",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; equipment is provided only for people who apply by December 20",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the person must apply themselves, either on the circular form or by phoning the office",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the parent or guardian",
+   "gold": "the parent/guardian"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; middle-school students may join Team 1 only",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; vouchers go only to the participant, and proxies cannot collect them",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000 yen (500 × 5 = 2,500 + 20% bonus of 500)",
+   "gold": "3,000 yen"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "450 yen",
+   "gold": "450 yen"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the office, Tamura Keiko, 090-4417-2286 (10:00–18:00)",
+   "gold": "Tamura Keiko (the office)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ōno, the Team 2 leader, directly",
+   "gold": "Ono, the team 2 leader"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "090-4417-2286",
+   "gold": "090-4417-2286"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; elementary students may join only Team 1, with a guardian",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the patrol runs even in rain and is cancelled only on days with a strong-wind advisory",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; on Saturdays the inbox is checked only at 9:00",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; orders of €300 or less may be approved by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Selin Aydemir, the master farrier",
+   "gold": "Selin Aydemir, the master farrier"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the tool-order limit is €150, so Selin Aydemir decides",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Johanna Kerschbaumer may approve credit notes or goodwill refunds",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the permission applies only when the horse owner asks",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the assistant may postpone by up to 3 days only",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Notbeschlag applies only to shod horses, so the Sunday exception does not apply",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€30 (25 km × €1.20; the 6-horse exemption does not apply)",
+   "gold": "€30"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the assistant may waive only up to €25 per appointment",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; the €45 fee applies because there is no veterinary certificate",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0171 448 2093 (veterinary emergency service)",
+   "gold": "0171 448 2093 (veterinary emergency service)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the horse owner (customer), themselves",
+   "gold": "the customer / horse owner"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; X-rays are recommended but not mandatory",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; requests from district North get no Wednesday appointments",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; on Sundays the inbox is checked only at 11:00",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "390 baht (50% of the 780-baht deposit)",
+   "gold": "390 baht"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the full deposit of 1,575 baht is above the 1,500-baht limit",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Khun Wanna Srisuk, the owner",
+   "gold": "Wanna Srisuk, the owner"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; parts of 800 baht or less per unit may be approved by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Khun Thanakorn Meechai, the head technician",
+   "gold": "Thanakorn Meechai, the head technician"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; refunds of 1,500 baht or less may be issued by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; he has no authority to approve on the head technician's behalf",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; forward it to Khun Thanakorn to decide",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; cassette units have no big-clean service, and Sundays take repair jobs only",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,670 baht (1,300 cleaning − 10% = 1,170 + 500 capacitor; the discount does not cover parts)",
+   "gold": "1,670 baht"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "300 baht",
+   "gold": "300 baht"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "081-552-7346 (Khun Thanakorn Meechai's emergency line)",
+   "gold": "081-552-7346 (Thanakorn Meechai's emergency line)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer, themselves",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it is requested but not mandatory",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; weekday checks are 8:30, 13:00 and 17:30",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; ≤$120 may be approved by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dalia Fenwick",
+   "gold": "Dalia Fenwick, the owner"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated; it needs approval but the approver is unnamed",
+   "gold": "needs approval; approver not stated"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; over $35 it goes to Priya Lindqvist",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Dalia Fenwick may approve a refund for a completed repair",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it applies only to a customer asking for a photo of their own radio",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; repairs are never express",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$80 ($40 rush + $22 standard return shipping + $18 express)",
+   "gold": "$80"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; free only on orders over $250",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; members may pay within 14 days after shipping",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0187 (Rupert Okafor's emergency line)",
+   "gold": "555-0187 (Rupert Okafor's emergency line)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it is requested but not required",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "21:00",
+   "gold": "21:00"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Group 1 only on Dec 30",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; flashlights are provided (only vests require applying by Dec 20)",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; vests only for those who applied by Dec 20",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the participant must apply themselves",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the guardian",
+   "gold": "the parent/guardian"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Group 1 only",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; vouchers go only to the participant, no proxy collection",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000 yen (2,500 + 20% bonus of 500)",
+   "gold": "3,000 yen"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "450 yen",
+   "gold": "450 yen"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the office, Tamura Keiko (田村恵子), 090-4417-2286, 10:00–18:00",
+   "gold": "Tamura Keiko (the office)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the Group 2 leader, 大野 (Ōno), directly",
+   "gold": "Ono, the team 2 leader"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "090-4417-2286",
+   "gold": "090-4417-2286"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; elementary schoolers may join Group 1 only",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; held even in rain (cancelled only with a strong-wind advisory)",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Saturday check is only at 9:00",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; ≤€300 may be approved by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Selin Aydemir",
+   "gold": "Selin Aydemir, the master farrier"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the tool-order limit is €150, so Selin Aydemir decides",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Johanna Kerschbaumer may approve credit notes or goodwill refunds",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the permission covers requests from the horse owner",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the assistant may postpone only by up to 3 days",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Notbeschlag applies only to shod horses, so the Sunday exception does not apply",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€30 (25 km × €1.20; fewer than 6 horses)",
+   "gold": "€30"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the assistant may waive only up to €25 per appointment",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; €45 applies since there is no vet certificate",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0171 448 2093 (veterinary emergency service)",
+   "gold": "0171 448 2093 (veterinary emergency service)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer (horse owner) themselves",
+   "gold": "the customer / horse owner"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it is requested but not mandatory",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sunday check is only at 11:00",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "390 baht (50% of the 780-baht deposit)",
+   "gold": "390 baht"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the full deposit refund is 1,575 baht, over the 1,500-baht limit",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "คุณวรรณา ศรีสุข (the owner)",
+   "gold": "Wanna Srisuk, the owner"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; ≤800 baht per unit may be approved by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "คุณธนากร มีชัย (the head technician)",
+   "gold": "Thanakorn Meechai, the head technician"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; ≤1,500 baht",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; forward it to คุณธนากร to decide",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; cassette units have no ล้างใหญ่ and Sunday has no cleaning jobs",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,670 baht (1,300 − 10% = 1,170 + 500 for parts)",
+   "gold": "1,670 baht"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "300 baht",
+   "gold": "300 baht"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "081-552-7346 (คุณธนากร มีชัย's emergency line)",
+   "gold": "081-552-7346 (Thanakorn Meechai's emergency line)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it is requested but not mandatory",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; weekday checks are 8:30, 13:00 and 17:30",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; ≤$120 may be approved by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dalia Fenwick",
+   "gold": "Dalia Fenwick, the owner"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated; it needs approval but the approver is unnamed",
+   "gold": "needs approval; approver not stated"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; over $35 goes to Priya Lindqvist",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Dalia Fenwick may approve a refund for a completed repair",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it applies only when the customer asks for a photo of their own radio",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; repairs are never express (express applies only to return shipping)",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$80 ($40 rush + $22 standard shipping + $18 express)",
+   "gold": "$80"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; free only on orders over $250",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; Collectors' Club members may pay within 14 days after shipping",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0187 (Rupert Okafor's emergency line)",
+   "gold": "555-0187 (Rupert Okafor's emergency line)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it should be sent but is not required",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "21:00",
+   "gold": "21:00"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Group 1 on Dec 30",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; flashlights are provided to participants",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; vests only for those who applied by Dec 20",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the participant must apply themselves",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the guardian",
+   "gold": "the parent/guardian"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; junior-high students may join Group 1 only",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; no collection by proxy",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000 yen (2,500 + 20% bonus of 500)",
+   "gold": "3,000 yen"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "450 yen (3 × 150 yen)",
+   "gold": "450 yen"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the office, 田村恵子 (Tamura Keiko), 090-4417-2286, 10:00–18:00",
+   "gold": "Tamura Keiko (the office)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Group 2 leader 大野 (Ōno), directly",
+   "gold": "Ono, the team 2 leader"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "090-4417-2286",
+   "gold": "090-4417-2286"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; elementary schoolers may join Group 1 only",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; held even in rain (cancelled only with a strong-wind advisory)",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Saturday check is only at 9:00",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; ≤300€ may be approved by the assistant",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Selin Aydemir",
+   "gold": "Selin Aydemir, the master farrier"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the tool-order limit is 150€, so Selin Aydemir decides",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Johanna Kerschbaumer may approve credit notes/goodwill",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the permission applies to requests from the horse owner",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only up to 3 days",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Notbeschlag applies only to shod horses, and Sunday appointments are otherwise not allowed",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "30€ (25 km × 1.20€)",
+   "gold": "€30"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the assistant may waive only ≤25€ and the costs are 30€",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; 45€, since the exemption requires a vet certificate",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0171 448 2093 (veterinary emergency service)",
+   "gold": "0171 448 2093 (veterinary emergency service)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer / horse owner"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it should be sent but is not mandatory",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Landkreis Nord gets no Wednesday appointment",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sunday check is only at 11:00",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "390 baht (50% of 780 baht deposit)",
+   "gold": "390 baht"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the full deposit refund is 1,575 baht, over the 1,500 baht limit",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "คุณวรรณา ศรีสุข (the owner)",
+   "gold": "Wanna Srisuk, the owner"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; ≤800 baht/unit",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "คุณธนากร มีชัย (head technician)",
+   "gold": "Thanakorn Meechai, the head technician"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; ≤1,500 baht",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; he has no right to approve in place of the head technician",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; forward to คุณธนากร มีชัย to decide",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; cassette units have no ล้างใหญ่ service and Sunday takes no cleaning jobs",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,670 baht (1,300 − 10% = 1,170 + 500 capacitor)",
+   "gold": "1,670 baht"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "300 baht",
+   "gold": "300 baht"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "081-552-7346 (คุณธนากร มีชัย's emergency line)",
+   "gold": "081-552-7346 (Thanakorn Meechai's emergency line)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it should be sent but is not mandatory",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; checks are at 8:30, 13:00 and 17:30 on weekdays",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; up to $120 per order is allowed",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dalia Fenwick, the owner",
+   "gold": "Dalia Fenwick, the owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated; a discount above 10% needs approval, but the approver is not named",
+   "gold": "needs approval; approver not stated"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; above $35 it goes to Priya Lindqvist, the bookkeeper",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Dalia Fenwick may approve a refund for a completed repair",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it applies only when a customer asks for a photo of their own radio",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; repairs are never express (express applies only to return shipping)",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$80 ($40 rush + $22 standard return shipping + $18 express)",
+   "gold": "$80"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; free return shipping only on orders above $250",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; members may pay within 14 days after shipping",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0187 (Rupert Okafor's emergency line)",
+   "gold": "555-0187 (Rupert Okafor's emergency line)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it is requested but not required",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "21:00",
+   "gold": "21:00"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Team 1 patrols on Dec 30",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; flashlights are provided regardless of the application date",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; vests only for those who applied by Dec 20",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the person must apply themselves (form or phone), except guardians for elementary children",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the parent/guardian",
+   "gold": "the parent/guardian"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Team 1 only",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; vouchers are given only to the participant in person, no proxies",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000 yen (2,500 + 20% bonus of 500)",
+   "gold": "3,000 yen"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "450 yen",
+   "gold": "450 yen"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Tamura Keiko at the office, 090-4417-2286 (10:00–18:00)",
+   "gold": "Tamura Keiko (the office)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the Team 2 leader, Ōno",
+   "gold": "Ono, the team 2 leader"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "090-4417-2286",
+   "gold": "090-4417-2286"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Team 1 with a guardian",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it goes ahead in rain (cancelled only for a strong wind advisory)",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; on Saturdays only at 9:00",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; up to €300 per order",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Selin Aydemir, the master farrier",
+   "gold": "Selin Aydemir, the master farrier"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the tool-order limit is €150, above that Selin Aydemir decides",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Johanna Kerschbaumer may approve credits",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the permission applies only when the horse owner asks",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the assistant may move it only up to 3 days",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; emergency shoeing applies only to shod horses, so the Sunday exception does not apply",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€30 (25 km × €1.20; fewer than 6 horses)",
+   "gold": "€30"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the assistant may waive only up to €25 per appointment",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; €45, since there is no veterinary certificate",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0171 448 2093 (veterinary emergency service)",
+   "gold": "0171 448 2093 (veterinary emergency service)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the horse owner themselves",
+   "gold": "the customer / horse owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; recommended but not required",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; on Sundays only at 11:00",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "390 baht (50% of the 780 baht deposit)",
+   "gold": "390 baht"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the full deposit refund is 1,575 baht, above the 1,500 baht limit",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Wanna Srisuk, the owner",
+   "gold": "Wanna Srisuk, the owner"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; up to 800 baht per unit",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Thanakorn Meechai, the head technician",
+   "gold": "Thanakorn Meechai, the head technician"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; up to 1,500 baht per booking",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; forward it to Thanakorn Meechai to decide",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; cassette units have no deep cleaning, and no cleaning is done on Sundays",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,670 baht (1,300 − 10% = 1,170 + 500 for the part)",
+   "gold": "1,670 baht"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "300 baht",
+   "gold": "300 baht"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "081-552-7346 (Thanakorn Meechai's emergency line)",
+   "gold": "081-552-7346 (Thanakorn Meechai's emergency line)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; recommended but not required",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no (weekday checks are 8:30, 13:00, 17:30)",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes (≤$120 is self-approved)",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dalia Fenwick (owner)",
+   "gold": "Dalia Fenwick, the owner"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (over 10% needs approval, but the approver is not named)",
+   "gold": "needs approval; approver not stated"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; over $35 goes to Priya Lindqvist",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Dalia may approve refunds for completed repairs",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it applies only to customer requests",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; repairs are never express (express is return shipping only)",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$80 ($40 rush + $22 standard return shipping + $18 express)",
+   "gold": "$80"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; free only on orders over $250",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; Club members may pay within 14 days after shipping",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0187 (Rupert's emergency line)",
+   "gold": "555-0187 (Rupert Okafor's emergency line)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer, themselves",
+   "gold": "the customer"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; requested, not required",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "21:00",
+   "gold": "21:00"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Team 1 on 12/30",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; the association provides flashlights to everyone",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; vests only for those who applied by 12/20",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the person must apply themselves",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "a parent/guardian",
+   "gold": "the parent/guardian"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Team 1 only",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only the participant in person, no proxies",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000 yen (2,500 + 20% bonus of 500)",
+   "gold": "3,000 yen"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "450 yen",
+   "gold": "450 yen"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the office, Tamura Keiko (090-4417-2286, 10:00–18:00)",
+   "gold": "Tamura Keiko (the office)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the Team 2 leader, Ōno",
+   "gold": "Ono, the team 2 leader"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "090-4417-2286",
+   "gold": "090-4417-2286"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Team 1 with a guardian",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it goes ahead in rain (cancelled only on strong-wind advisory days)",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Saturday is 9:00 only",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes (≤€300)",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Selin Aydemir",
+   "gold": "Selin Aydemir, the master farrier"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the self-approval limit for tools is €150, above that Selin decides",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Johanna Kerschbaumer",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the permission applies only to a customer's request",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; self-rescheduling is limited to ≤3 days",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; emergency shoeing is only for shod horses, and Sundays are emergency-only",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€30 (25 km × €1.20; the waiver needs ≥6 horses)",
+   "gold": "€30"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the assistant can waive at most €25 per appointment",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, €45 (a vet certificate is required for the exemption)",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0171 448 2093 (vet emergency service)",
+   "gold": "0171 448 2093 (veterinary emergency service)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer/horse owner, themselves",
+   "gold": "the customer / horse owner"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; X-rays are welcome but not required",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Wednesdays are for Landkreis Süd only",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sunday check is 11:00 only",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "390 baht (50% of a 780 baht deposit)",
+   "gold": "390 baht"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the deposit refund is 1,575 baht, over the 1,500 baht limit",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Khun Wanna Srisuk (owner)",
+   "gold": "Wanna Srisuk, the owner"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes (≤800 baht per unit)",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Khun Thanakorn Meechai (head technician)",
+   "gold": "Thanakorn Meechai, the head technician"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes (≤1,500 baht)",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; he has no authority to approve on the head technician's behalf",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; send it to Khun Thanakorn to decide",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sundays are repairs only, and cassette units have no deep cleaning",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,670 baht (1,300 − 10% = 1,170 + 500 parts)",
+   "gold": "1,670 baht"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "300 baht",
+   "gold": "300 baht"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "081-552-7346 (Khun Thanakorn's emergency line)",
+   "gold": "081-552-7346 (Thanakorn Meechai's emergency line)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer, themselves",
+   "gold": "the customer"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; recommended, not required",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; checks are 8:30, 13:00, 17:30 on weekdays",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; ≤$120 is self-approvable",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dalia Fenwick (owner)",
+   "gold": "Dalia Fenwick, the owner"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated; it needs approval, but the approver isn't named",
+   "gold": "needs approval; approver not stated"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; above $35 goes to Priya Lindqvist (bookkeeper)",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Dalia Fenwick may approve completed-repair refunds",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it applies only when a customer asks",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; repairs are never express",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$80 ($40 rush + $22 standard return shipping + $18 express)",
+   "gold": "$80"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; free only on orders over $250",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; Club members may pay within 14 days after shipping",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0187 (Rupert's emergency line)",
+   "gold": "555-0187 (Rupert Okafor's emergency line)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it should be sent but isn't required",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "21:00",
+   "gold": "21:00"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Group 1 only on Dec 30",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; flashlights are provided to everyone",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; vests only for those applying by Dec 20",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the participant must apply personally",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the guardian",
+   "gold": "the parent/guardian"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Group 1 only",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; participant only, no proxy pickup",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥3,000 (¥2,500 + 20% bonus of ¥500)",
+   "gold": "3,000 yen"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥450",
+   "gold": "450 yen"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the association office, Keiko Tamura (090-4417-2286, 10:00–18:00)",
+   "gold": "Tamura Keiko (the office)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Group 2 leader Ōno, directly",
+   "gold": "Ono, the team 2 leader"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "090-4417-2286",
+   "gold": "090-4417-2286"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; elementary students are Group 1 only",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; held in rain (cancelled only on strong-wind-advisory days)",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Saturday is 9:00 only",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; ≤€300 is self-approvable",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Selin Aydemir (master farrier)",
+   "gold": "Selin Aydemir, the master farrier"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; tool orders limit is €150; above goes to Selin Aydemir",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only Johanna Kerschbaumer may approve credits",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the permission applies when the horse owner asks",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only up to 3 days",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; emergency shoeing is for shod horses only, so the Sunday exception doesn't apply",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€30 (25 km × €1.20)",
+   "gold": "€30"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the assistant may waive only up to €25 per appointment",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; €45, waived only with a vet certificate",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0171 448 2093 (vet emergency service)",
+   "gold": "0171 448 2093 (veterinary emergency service)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the horse owner (customer) themselves",
+   "gold": "the customer / horse owner"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; X-rays should be sent but aren't mandatory",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; no Wednesday appointments for District North",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sunday check is 11:00 only",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "฿390 (50% of ฿780 deposit)",
+   "gold": "390 baht"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; full deposit refund is ฿1,575, which is over the ฿1,500 limit",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Wanna Srisuk (owner)",
+   "gold": "Wanna Srisuk, the owner"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; ≤฿800/unit is self-approvable",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Thanakorn Meechai (head technician)",
+   "gold": "Thanakorn Meechai, the head technician"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; ≤฿1,500 is self-approvable",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Kitti can't approve on the head tech's behalf",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; forward to Thanakorn Meechai to decide",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; no cleaning on Sundays and no big clean for cassettes",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "฿1,670 (฿1,300 − 10% = ฿1,170 + ฿500 part)",
+   "gold": "1,670 baht"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "฿300",
+   "gold": "300 baht"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "081-552-7346 (Thanakorn's emergency line)",
+   "gold": "081-552-7346 (Thanakorn Meechai's emergency line)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it should be sent but isn't required",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no (checks are 8:30, 13:00, 17:30)",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes (≤$120)",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Dalia Fenwick (owner)",
+   "gold": "Dalia Fenwick, the owner"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "needs approval; approver not stated",
+   "gold": "needs approval; approver not stated"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; above $35 goes to Priya Lindqvist (bookkeeper)",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; completed-repair refunds are Dalia only",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it applies only to customer requests",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; repairs are never express",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$80 ($40 rush + $22 standard + $18 express)",
+   "gold": "$80"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; free only on orders over $250",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes; Club members may pay within 14 days after shipping",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0187 (Rupert's emergency line)",
+   "gold": "555-0187 (Rupert Okafor's emergency line)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; should, not required",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "21:00",
+   "gold": "21:00"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Group 1 only",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q3",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q4",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; vests only for those applying by Dec 20",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; participant must apply personally",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the guardian",
+   "gold": "the parent/guardian"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Group 1 only",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; no proxy pickup",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥3,000",
+   "gold": "3,000 yen"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥450",
+   "gold": "450 yen"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the office, Keiko Tamura (090-4417-2286, 10:00–18:00)",
+   "gold": "Tamura Keiko (the office)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Group 2 leader Ōno, directly",
+   "gold": "Ono, the team 2 leader"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "090-4417-2286",
+   "gold": "090-4417-2286"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Group 1 only",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q15",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; held in rain",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Saturday 9:00 only",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes (≤€300)",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Selin Aydemir (master farrier)",
+   "gold": "Selin Aydemir, the master farrier"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; tool limit is €150, above goes to Selin Aydemir",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; credits are Johanna only",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it applies to horse owner requests",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only up to 3 days",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; emergency shoeing is for shod horses only",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€30 (25 km × €1.20)",
+   "gold": "€30"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; self-waiver only up to €25",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes, €45",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0171 448 2093 (vet emergency service)",
+   "gold": "0171 448 2093 (veterinary emergency service)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the horse owner themselves",
+   "gold": "the customer / horse owner"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; should, not mandatory",
+   "gold": "no, it is recommended (should), not required"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Sunday check is 11:00",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q2",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "฿390",
+   "gold": "390 baht"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; refund ฿1,575 exceeds ฿1,500",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Wanna Srisuk (owner)",
+   "gold": "Wanna Srisuk, the owner"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes (≤฿800)",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Thanakorn Meechai (head technician)",
+   "gold": "Thanakorn Meechai, the head technician"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes (≤฿1,500)",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; forward to Thanakorn to decide",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; no cleaning on Sundays and no big clean for cassettes",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "฿1,670",
+   "gold": "1,670 baht"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "฿300",
+   "gold": "300 baht"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "081-552-7346 (Thanakorn's emergency line)",
+   "gold": "081-552-7346 (Thanakorn Meechai's emergency line)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer themselves",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; should, not required",
+   "gold": "no, it is recommended (should), not required"
+  }
+ ],
+ "summary": {
+  "llm05_r1": {
+   "all": [
+    42,
+    60
+   ],
+   "S": [
+    36,
+    44
+   ],
+   "F": [
+    6,
+    16
+   ],
+   "hop2": [
+    22,
+    29
+   ]
+  },
+  "llm066_r1": {
+   "all": [
+    44,
+    60
+   ],
+   "S": [
+    39,
+    44
+   ],
+   "F": [
+    5,
+    16
+   ],
+   "hop2": [
+    23,
+    29
+   ]
+  },
+  "mnc28_r1": {
+   "all": [
+    59,
+    60
+   ],
+   "S": [
+    44,
+    44
+   ],
+   "F": [
+    15,
+    16
+   ],
+   "hop2": [
+    28,
+    29
+   ]
+  },
+  "mnc28_r2": {
+   "all": [
+    59,
+    60
+   ],
+   "S": [
+    44,
+    44
+   ],
+   "F": [
+    15,
+    16
+   ],
+   "hop2": [
+    28,
+    29
+   ]
+  },
+  "mnc28x_r1": {
+   "all": [
+    60,
+    60
+   ],
+   "S": [
+    44,
+    44
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    29,
+    29
+   ]
+  },
+  "mnc28x_r2": {
+   "all": [
+    60,
+    60
+   ],
+   "S": [
+    44,
+    44
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    29,
+    29
+   ]
+  },
+  "original_r1": {
+   "all": [
+    60,
+    60
+   ],
+   "S": [
+    44,
+    44
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    29,
+    29
+   ]
+  },
+  "summ_r1": {
+   "all": [
+    60,
+    60
+   ],
+   "S": [
+    44,
+    44
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    29,
+    29
+   ]
+  },
+  "terse_r1": {
+   "all": [
+    60,
+    60
+   ],
+   "S": [
+    44,
+    44
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    29,
+    29
+   ]
+  },
+  "terse_r2": {
+   "all": [
+    60,
+    60
+   ],
+   "S": [
+    44,
+    44
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    29,
+    29
+   ]
+  }
+ }
+}

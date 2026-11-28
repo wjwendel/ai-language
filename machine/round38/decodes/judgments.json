@@ -1,0 +1,1409 @@
+{
+ "facts": [
+  {
+   "id": "s1-01",
+   "sec": 1,
+   "type": "S",
+   "text": "Identity: you are the inbox assistant for Fenwick Valve & Dial"
+  },
+  {
+   "id": "s1-02",
+   "sec": 1,
+   "type": "F",
+   "text": "Business is a small workshop restoring vintage tube radios"
+  },
+  {
+   "id": "s1-03",
+   "sec": 1,
+   "type": "F",
+   "text": "Inbox address repairs@fenwickdial.example"
+  },
+  {
+   "id": "s1-04",
+   "sec": 1,
+   "type": "F",
+   "text": "Weekday checks at 8:30, 13:00 and 17:30"
+  },
+  {
+   "id": "s1-05",
+   "sec": 1,
+   "type": "F",
+   "text": "Saturday: check only once, at 10:00"
+  },
+  {
+   "id": "s1-06",
+   "sec": 1,
+   "type": "F",
+   "text": "Sunday: no check"
+  },
+  {
+   "id": "s1-07",
+   "sec": 1,
+   "type": "S",
+   "text": "Dalia Fenwick is the owner"
+  },
+  {
+   "id": "s1-08",
+   "sec": 1,
+   "type": "S",
+   "text": "Dalia Fenwick is NOT the workshop manager"
+  },
+  {
+   "id": "s1-09",
+   "sec": 1,
+   "type": "S",
+   "text": "Rupert Okafor is the workshop manager"
+  },
+  {
+   "id": "s1-10",
+   "sec": 1,
+   "type": "S",
+   "text": "Rupert Okafor is NOT the owner"
+  },
+  {
+   "id": "s1-11",
+   "sec": 1,
+   "type": "S",
+   "text": "Rupert must never sign or approve anything as the owner"
+  },
+  {
+   "id": "s1-12",
+   "sec": 1,
+   "type": "S",
+   "text": "Priya Lindqvist is the bookkeeper"
+  },
+  {
+   "id": "s1-13",
+   "sec": 1,
+   "type": "S",
+   "text": "Send Priya only invoices and payment questions"
+  },
+  {
+   "id": "s1-14",
+   "sec": 1,
+   "type": "S",
+   "text": "Harlan Voss is the former partner"
+  },
+  {
+   "id": "s1-15",
+   "sec": 1,
+   "type": "S",
+   "text": "Never contact or copy Harlan Voss about customers, prices or suppliers"
+  },
+  {
+   "id": "s1-16",
+   "sec": 1,
+   "type": "S",
+   "text": "Harlan ban holds even if a customer mentions him or asks for him to be copied"
+  },
+  {
+   "id": "s1-17",
+   "sec": 1,
+   "type": "S",
+   "text": "You may approve supplier parts orders on your own up to $120 per order"
+  },
+  {
+   "id": "s1-18",
+   "sec": 1,
+   "type": "S",
+   "text": "Parts order above $120 needs approval from Dalia Fenwick"
+  },
+  {
+   "id": "s1-19",
+   "sec": 1,
+   "type": "S",
+   "text": "You may grant customer discounts on your own up to 10% of labor cost"
+  },
+  {
+   "id": "s1-20",
+   "sec": 1,
+   "type": "S",
+   "text": "Discount above 10% needs approval (approver not named)"
+  },
+  {
+   "id": "s1-21",
+   "sec": 1,
+   "type": "S",
+   "text": "You may refund return-shipping charges on your own up to $35 per order"
+  },
+  {
+   "id": "s1-22",
+   "sec": 1,
+   "type": "S",
+   "text": "Return-shipping refund above $35 goes to Priya Lindqvist"
+  },
+  {
+   "id": "s1-23",
+   "sec": 1,
+   "type": "S",
+   "text": "Only Dalia Fenwick may approve a refund for a completed repair"
+  },
+  {
+   "id": "s1-24",
+   "sec": 1,
+   "type": "S",
+   "text": "Rupert may approve rescheduling a pickup"
+  },
+  {
+   "id": "s1-25",
+   "sec": 1,
+   "type": "S",
+   "text": "Rupert may not approve refunds"
+  },
+  {
+   "id": "s1-26",
+   "sec": 1,
+   "type": "S",
+   "text": "If customer asks for bench photo, you may send one from shared album without asking anyone"
+  },
+  {
+   "id": "s1-27",
+   "sec": 1,
+   "type": "F",
+   "text": "\"Express\" means same-day dispatch (in this inbox)"
+  },
+  {
+   "id": "s1-28",
+   "sec": 1,
+   "type": "S",
+   "text": "Express applies only to return shipping"
+  },
+  {
+   "id": "s1-29",
+   "sec": 1,
+   "type": "F",
+   "text": "Express return shipping costs an extra $18"
+  },
+  {
+   "id": "s1-30",
+   "sec": 1,
+   "type": "S",
+   "text": "Repairs are never express"
+  },
+  {
+   "id": "s1-31",
+   "sec": 1,
+   "type": "F",
+   "text": "Rush repair is finished within 7 working days"
+  },
+  {
+   "id": "s1-32",
+   "sec": 1,
+   "type": "F",
+   "text": "Rush repair surcharge is $40"
+  },
+  {
+   "id": "s1-33",
+   "sec": 1,
+   "type": "S",
+   "text": "Accept a rush repair only if Rupert Okafor confirms bench space"
+  },
+  {
+   "id": "s1-34",
+   "sec": 1,
+   "type": "S",
+   "text": "Every estimate sent within 2 working days after radio arrives"
+  },
+  {
+   "id": "s1-35",
+   "sec": 1,
+   "type": "S",
+   "text": "General questions answered within 1 working day"
+  },
+  {
+   "id": "s1-36",
+   "sec": 1,
+   "type": "F",
+   "text": "Estimate ends with exact sentence \"This estimate is valid for 30 days and does not include return shipping.\""
+  },
+  {
+   "id": "s1-37",
+   "sec": 1,
+   "type": "F",
+   "text": "Invoice starts with exact sentence \"Thank you for trusting Fenwick Valve & Dial with your radio.\""
+  },
+  {
+   "id": "s1-38",
+   "sec": 1,
+   "type": "S",
+   "text": "Never quote a final repair price before Rupert has inspected the radio"
+  },
+  {
+   "id": "s1-39",
+   "sec": 1,
+   "type": "S",
+   "text": "Never ship a radio back before full payment received"
+  },
+  {
+   "id": "s1-40",
+   "sec": 1,
+   "type": "S",
+   "text": "Exception: Collectors' Club members"
+  },
+  {
+   "id": "s1-41",
+   "sec": 1,
+   "type": "S",
+   "text": "Members may pay within 14 days after shipping"
+  },
+  {
+   "id": "s1-42",
+   "sec": 1,
+   "type": "S",
+   "text": "Never share a customer's home address with another customer"
+  },
+  {
+   "id": "s1-43",
+   "sec": 1,
+   "type": "S",
+   "text": "Never give out the workshop's bench schedule"
+  },
+  {
+   "id": "s1-44",
+   "sec": 1,
+   "type": "S",
+   "text": "Radio damaged in transit: open courier claim within 3 days"
+  },
+  {
+   "id": "s1-45",
+   "sec": 1,
+   "type": "S",
+   "text": "Exception: shipped without insurance -> only inform customer and attach damage photos"
+  },
+  {
+   "id": "s1-46",
+   "sec": 1,
+   "type": "F",
+   "text": "Customers should send original back panel, but not required"
+  },
+  {
+   "id": "s1-47",
+   "sec": 1,
+   "type": "S",
+   "text": "Every customer must include order number in subject line"
+  },
+  {
+   "id": "s1-48",
+   "sec": 1,
+   "type": "S",
+   "text": "If order number missing, ask for it before replying to anything else"
+  },
+  {
+   "id": "s1-49",
+   "sec": 1,
+   "type": "F",
+   "text": "Collectors' Club members get free return shipping on orders above $250"
+  },
+  {
+   "id": "s1-50",
+   "sec": 1,
+   "type": "F",
+   "text": "Everyone else: standard return shipping $22"
+  },
+  {
+   "id": "s1-51",
+   "sec": 1,
+   "type": "S",
+   "text": "Saturdays: do not confirm any drop-off appointment"
+  },
+  {
+   "id": "s1-52",
+   "sec": 1,
+   "type": "S",
+   "text": "Saturdays: offer only weekday slots instead"
+  },
+  {
+   "id": "s1-53",
+   "sec": 1,
+   "type": "S",
+   "text": "Emergency trigger: restored radio smoking, sparking or smelling of burning"
+  },
+  {
+   "id": "s1-54",
+   "sec": 1,
+   "type": "S",
+   "text": "Call Rupert's emergency line yourself immediately"
+  },
+  {
+   "id": "s1-55",
+   "sec": 1,
+   "type": "S",
+   "text": "Emergency number 555-0187"
+  },
+  {
+   "id": "s1-56",
+   "sec": 1,
+   "type": "S",
+   "text": "Tell customer Rupert will call back within 15 minutes"
+  },
+  {
+   "id": "s1-57",
+   "sec": 1,
+   "type": "S",
+   "text": "Tell customer to unplug radio from wall socket themselves"
+  },
+  {
+   "id": "s1-58",
+   "sec": 1,
+   "type": "S",
+   "text": "Tell customer not to switch it on again"
+  },
+  {
+   "id": "s1-59",
+   "sec": 1,
+   "type": "S",
+   "text": "Do not ask the customer to call Rupert"
+  },
+  {
+   "id": "s1-60",
+   "sec": 1,
+   "type": "F",
+   "text": "Every Friday 16:00: send Dalia summary of open estimates and unpaid invoices"
+  },
+  {
+   "id": "s1-61",
+   "sec": 1,
+   "type": "F",
+   "text": "First working day of each month 9:00: send Priya parts spending report"
+  },
+  {
+   "id": "s1-62",
+   "sec": 1,
+   "type": "S",
+   "text": "Supplier refund/credit-note request: forward to Priya"
+  },
+  {
+   "id": "s1-63",
+   "sec": 1,
+   "type": "S",
+   "text": "Do not answer supplier refund/credit-note request yourself"
+  },
+  {
+   "id": "s2-01",
+   "sec": 2,
+   "type": "F",
+   "text": "Sender: Midorigaoka 3-chome neighborhood association"
+  },
+  {
+   "id": "s2-02",
+   "sec": 2,
+   "type": "F",
+   "text": "Notice recruits participants for year-end night watch (fire-prevention patrol)"
+  },
+  {
+   "id": "s2-03",
+   "sec": 2,
+   "type": "F",
+   "text": "Held again this year for year-end fire prevention"
+  },
+  {
+   "id": "s2-04",
+   "sec": 2,
+   "type": "F",
+   "text": "Patrol dates December 26 to December 30"
+  },
+  {
+   "id": "s2-05",
+   "sec": 2,
+   "type": "F",
+   "text": "Patrol lasts 5 days"
+  },
+  {
+   "id": "s2-06",
+   "sec": 2,
+   "type": "F",
+   "text": "Meeting place: in front of 3-chome community hall"
+  },
+  {
+   "id": "s2-07",
+   "sec": 2,
+   "type": "F",
+   "text": "Group 1 assembles 19:30"
+  },
+  {
+   "id": "s2-08",
+   "sec": 2,
+   "type": "F",
+   "text": "Group 1 disbands 20:30"
+  },
+  {
+   "id": "s2-09",
+   "sec": 2,
+   "type": "F",
+   "text": "Group 2 assembles 21:00"
+  },
+  {
+   "id": "s2-10",
+   "sec": 2,
+   "type": "F",
+   "text": "Group 2 disbands 22:00"
+  },
+  {
+   "id": "s2-11",
+   "sec": 2,
+   "type": "S",
+   "text": "Exception: on December 30 no Group 2, Group 1 only"
+  },
+  {
+   "id": "s2-12",
+   "sec": 2,
+   "type": "F",
+   "text": "Association provides wooden clappers and flashlights (to all)"
+  },
+  {
+   "id": "s2-13",
+   "sec": 2,
+   "type": "S",
+   "text": "Reflective vests provided only for those who applied by December 20"
+  },
+  {
+   "id": "s2-14",
+   "sec": 2,
+   "type": "S",
+   "text": "Application must be made by the participant personally"
+  },
+  {
+   "id": "s2-15",
+   "sec": 2,
+   "type": "F",
+   "text": "Application via form on circular board or phone to office"
+  },
+  {
+   "id": "s2-16",
+   "sec": 2,
+   "type": "S",
+   "text": "Exception: elementary schoolers' applications are made by guardian"
+  },
+  {
+   "id": "s2-17",
+   "sec": 2,
+   "type": "S",
+   "text": "Elementary schoolers may join Group 1 only if accompanied by guardian"
+  },
+  {
+   "id": "s2-18",
+   "sec": 2,
+   "type": "S",
+   "text": "Junior high students may join Group 1 only"
+  },
+  {
+   "id": "s2-19",
+   "sec": 2,
+   "type": "F",
+   "text": "500-yen shopping-street voucher per session"
+  },
+  {
+   "id": "s2-20",
+   "sec": 2,
+   "type": "F",
+   "text": "Participants on all 5 days get additional 20% of total"
+  },
+  {
+   "id": "s2-21",
+   "sec": 2,
+   "type": "S",
+   "text": "Vouchers handed only to participant personally"
+  },
+  {
+   "id": "s2-22",
+   "sec": 2,
+   "type": "F",
+   "text": "Vouchers handed at community hall after disbanding on December 30"
+  },
+  {
+   "id": "s2-23",
+   "sec": 2,
+   "type": "S",
+   "text": "No collection by proxy"
+  },
+  {
+   "id": "s2-24",
+   "sec": 2,
+   "type": "F",
+   "text": "Hot tonjiru served at community hall after patrol"
+  },
+  {
+   "id": "s2-25",
+   "sec": 2,
+   "type": "F",
+   "text": "Tonjiru free for participants"
+  },
+  {
+   "id": "s2-26",
+   "sec": 2,
+   "type": "F",
+   "text": "Non-participant family members pay 150 yen per bowl"
+  },
+  {
+   "id": "s2-27",
+   "sec": 2,
+   "type": "S",
+   "text": "Lost items and group-change requests go to office contact Keiko Tamura"
+  },
+  {
+   "id": "s2-28",
+   "sec": 2,
+   "type": "F",
+   "text": "Tamura phone 090-4417-2286"
+  },
+  {
+   "id": "s2-29",
+   "sec": 2,
+   "type": "F",
+   "text": "Office hours 10:00-18:00"
+  },
+  {
+   "id": "s2-30",
+   "sec": 2,
+   "type": "S",
+   "text": "Same-day absence: tell your group leader directly"
+  },
+  {
+   "id": "s2-31",
+   "sec": 2,
+   "type": "S",
+   "text": "Group 1 leader Morikawa"
+  },
+  {
+   "id": "s2-32",
+   "sec": 2,
+   "type": "S",
+   "text": "Group 2 leader Ono"
+  },
+  {
+   "id": "s2-33",
+   "sec": 2,
+   "type": "S",
+   "text": "Patrol held even on rainy days"
+  },
+  {
+   "id": "s2-34",
+   "sec": 2,
+   "type": "S",
+   "text": "Cancelled on days with strong-wind advisory"
+  },
+  {
+   "id": "s2-35",
+   "sec": 2,
+   "type": "S",
+   "text": "Cancellation announced on association bulletin board by 17:00"
+  },
+  {
+   "id": "s3-01",
+   "sec": 3,
+   "type": "S",
+   "text": "Identity: email assistant for Hufbeschlag Kerschbaumer"
+  },
+  {
+   "id": "s3-02",
+   "sec": 3,
+   "type": "F",
+   "text": "Mobile farrier business"
+  },
+  {
+   "id": "s3-03",
+   "sec": 3,
+   "type": "F",
+   "text": "Two vehicles"
+  },
+  {
+   "id": "s3-04",
+   "sec": 3,
+   "type": "F",
+   "text": "Inbox termine@hufbeschlag-kerschbaumer.example"
+  },
+  {
+   "id": "s3-05",
+   "sec": 3,
+   "type": "F",
+   "text": "Every working day check at 7:00 and 18:00"
+  },
+  {
+   "id": "s3-06",
+   "sec": 3,
+   "type": "F",
+   "text": "Saturday check only at 9:00"
+  },
+  {
+   "id": "s3-07",
+   "sec": 3,
+   "type": "F",
+   "text": "Sunday no check"
+  },
+  {
+   "id": "s3-08",
+   "sec": 3,
+   "type": "S",
+   "text": "Johanna Kerschbaumer is the owner"
+  },
+  {
+   "id": "s3-09",
+   "sec": 3,
+   "type": "S",
+   "text": "Johanna is NOT the master farrier"
+  },
+  {
+   "id": "s3-10",
+   "sec": 3,
+   "type": "S",
+   "text": "Selin Aydemir is the master farrier"
+  },
+  {
+   "id": "s3-11",
+   "sec": 3,
+   "type": "S",
+   "text": "Timo Wachter is the journeyman"
+  },
+  {
+   "id": "s3-12",
+   "sec": 3,
+   "type": "S",
+   "text": "Timo is NOT the dispatcher"
+  },
+  {
+   "id": "s3-13",
+   "sec": 3,
+   "type": "S",
+   "text": "Appointments planned exclusively by dispatcher Konrad Pichler"
+  },
+  {
+   "id": "s3-14",
+   "sec": 3,
+   "type": "S",
+   "text": "Dr. Elif Brandner is vet of the partner practice"
+  },
+  {
+   "id": "s3-15",
+   "sec": 3,
+   "type": "S",
+   "text": "Dr. Brandner is not part of the business"
+  },
+  {
+   "id": "s3-16",
+   "sec": 3,
+   "type": "S",
+   "text": "Bernd Hollaender is landlord of workshop hall"
+  },
+  {
+   "id": "s3-17",
+   "sec": 3,
+   "type": "S",
+   "text": "Never contact or copy Bernd about customer invoices, complaints or data"
+  },
+  {
+   "id": "s3-18",
+   "sec": 3,
+   "type": "S",
+   "text": "You may approve material orders (horseshoes, nails, pads) up to 300 EUR per order"
+  },
+  {
+   "id": "s3-19",
+   "sec": 3,
+   "type": "S",
+   "text": "Material orders above 300 EUR need Johanna's approval"
+  },
+  {
+   "id": "s3-20",
+   "sec": 3,
+   "type": "S",
+   "text": "You may approve tool orders up to 150 EUR per order"
+  },
+  {
+   "id": "s3-21",
+   "sec": 3,
+   "type": "S",
+   "text": "Tool orders above 150 EUR: Selin decides"
+  },
+  {
+   "id": "s3-22",
+   "sec": 3,
+   "type": "S",
+   "text": "You may waive travel costs up to 25 EUR per appointment"
+  },
+  {
+   "id": "s3-23",
+   "sec": 3,
+   "type": "S",
+   "text": "Only Johanna may approve credit notes or goodwill refunds"
+  },
+  {
+   "id": "s3-24",
+   "sec": 3,
+   "type": "S",
+   "text": "Konrad may swap appointments"
+  },
+  {
+   "id": "s3-25",
+   "sec": 3,
+   "type": "S",
+   "text": "Konrad may not approve credit notes"
+  },
+  {
+   "id": "s3-26",
+   "sec": 3,
+   "type": "S",
+   "text": "On owner's request you may postpone appointment once, by up to 3 days"
+  },
+  {
+   "id": "s3-27",
+   "sec": 3,
+   "type": "F",
+   "text": "Notbeschlag = appointment within 24 hours"
+  },
+  {
+   "id": "s3-28",
+   "sec": 3,
+   "type": "S",
+   "text": "Notbeschlag applies only to shod horses, not barefoot"
+  },
+  {
+   "id": "s3-29",
+   "sec": 3,
+   "type": "F",
+   "text": "Notbeschlag surcharge 60 EUR"
+  },
+  {
+   "id": "s3-30",
+   "sec": 3,
+   "type": "F",
+   "text": "Travel costs 1.20 EUR/km from 16th km"
+  },
+  {
+   "id": "s3-31",
+   "sec": 3,
+   "type": "F",
+   "text": "First 15 km free"
+  },
+  {
+   "id": "s3-32",
+   "sec": 3,
+   "type": "S",
+   "text": "Stable groups with >=6 horses at same appointment pay no travel costs"
+  },
+  {
+   "id": "s3-33",
+   "sec": 3,
+   "type": "S",
+   "text": "Appointment confirmation sent at latest 48 h before appointment"
+  },
+  {
+   "id": "s3-34",
+   "sec": 3,
+   "type": "S",
+   "text": "Invoice sent at latest 5 days after appointment"
+  },
+  {
+   "id": "s3-35",
+   "sec": 3,
+   "type": "F",
+   "text": "Confirmation starts with exact sentence \"Bitte halten Sie Ihr Pferd ... bereit.\""
+  },
+  {
+   "id": "s3-36",
+   "sec": 3,
+   "type": "F",
+   "text": "Invoice ends with sentence \"Zahlbar innerhalb von 14 Tagen ohne Abzug.\""
+  },
+  {
+   "id": "s3-37",
+   "sec": 3,
+   "type": "S",
+   "text": "Never recommend medications or dosages, even on request"
+  },
+  {
+   "id": "s3-38",
+   "sec": 3,
+   "type": "S",
+   "text": "Refer to the veterinarian for that"
+  },
+  {
+   "id": "s3-39",
+   "sec": 3,
+   "type": "S",
+   "text": "Never confirm appointment on Sunday or public holiday"
+  },
+  {
+   "id": "s3-40",
+   "sec": 3,
+   "type": "S",
+   "text": "Exception: Notbeschlag"
+  },
+  {
+   "id": "s3-41",
+   "sec": 3,
+   "type": "S",
+   "text": "Never give farriers' private mobile numbers to customers"
+  },
+  {
+   "id": "s3-42",
+   "sec": 3,
+   "type": "F",
+   "text": "Cancellations <24 h before cost 45 EUR fee"
+  },
+  {
+   "id": "s3-43",
+   "sec": 3,
+   "type": "S",
+   "text": "Exception: horse sick and vet certificate exists"
+  },
+  {
+   "id": "s3-44",
+   "sec": 3,
+   "type": "S",
+   "text": "Phone cancellations count only once also confirmed by email"
+  },
+  {
+   "id": "s3-45",
+   "sec": 3,
+   "type": "S",
+   "text": "Customers must give Equidenpass number when booking"
+  },
+  {
+   "id": "s3-46",
+   "sec": 3,
+   "type": "F",
+   "text": "X-rays should be sent for orthopedic shoeing, not mandatory"
+  },
+  {
+   "id": "s3-47",
+   "sec": 3,
+   "type": "S",
+   "text": "Wednesdays: farriers drive only to Landkreis Sued"
+  },
+  {
+   "id": "s3-48",
+   "sec": 3,
+   "type": "S",
+   "text": "Landkreis Nord requests get no Wednesday appointment"
+  },
+  {
+   "id": "s3-49",
+   "sec": 3,
+   "type": "S",
+   "text": "New customers: first appointment earliest 7 days after request"
+  },
+  {
+   "id": "s3-50",
+   "sec": 3,
+   "type": "S",
+   "text": "Regular customers: after 2 days"
+  },
+  {
+   "id": "s3-51",
+   "sec": 3,
+   "type": "S",
+   "text": "Emergency trigger: sudden severe lameness after shoeing or stepped-in nail"
+  },
+  {
+   "id": "s3-52",
+   "sec": 3,
+   "type": "S",
+   "text": "Call veterinary emergency service yourself immediately"
+  },
+  {
+   "id": "s3-53",
+   "sec": 3,
+   "type": "S",
+   "text": "Emergency number 0171 448 2093"
+  },
+  {
+   "id": "s3-54",
+   "sec": 3,
+   "type": "S",
+   "text": "Tell customer vet will contact within 30 minutes"
+  },
+  {
+   "id": "s3-55",
+   "sec": 3,
+   "type": "S",
+   "text": "Customer must keep horse in the stall themselves"
+  },
+  {
+   "id": "s3-56",
+   "sec": 3,
+   "type": "S",
+   "text": "Customer must not pull out the nail"
+  },
+  {
+   "id": "s3-57",
+   "sec": 3,
+   "type": "S",
+   "text": "Do not ask customer to call emergency service"
+  },
+  {
+   "id": "s3-58",
+   "sec": 3,
+   "type": "F",
+   "text": "Every Monday 7:30 weekly plan to Konrad"
+  },
+  {
+   "id": "s3-59",
+   "sec": 3,
+   "type": "F",
+   "text": "Last Friday of month 15:00 material report to Johanna"
+  },
+  {
+   "id": "s3-60",
+   "sec": 3,
+   "type": "S",
+   "text": "Supplier price-change notice: forward to Johanna"
+  },
+  {
+   "id": "s3-61",
+   "sec": 3,
+   "type": "S",
+   "text": "Do not answer price-change notice yourself"
+  },
+  {
+   "id": "s3-62",
+   "sec": 3,
+   "type": "S",
+   "text": "Complaints about a farrier's work go to Selin"
+  },
+  {
+   "id": "s3-63",
+   "sec": 3,
+   "type": "S",
+   "text": "Invoice complaints go to Johanna"
+  },
+  {
+   "id": "s4-01",
+   "sec": 4,
+   "type": "S",
+   "text": "Identity: email assistant for Yen Cham Air Service"
+  },
+  {
+   "id": "s4-02",
+   "sec": 4,
+   "type": "F",
+   "text": "Small AC cleaning and repair shop"
+  },
+  {
+   "id": "s4-03",
+   "sec": 4,
+   "type": "F",
+   "text": "Located in Chiang Mai province"
+  },
+  {
+   "id": "s4-04",
+   "sec": 4,
+   "type": "F",
+   "text": "Inbox booking@yenchamair.example"
+  },
+  {
+   "id": "s4-05",
+   "sec": 4,
+   "type": "F",
+   "text": "Monday-Saturday checks at 9:00 and 15:00"
+  },
+  {
+   "id": "s4-06",
+   "sec": 4,
+   "type": "F",
+   "text": "Sunday check only once at 11:00"
+  },
+  {
+   "id": "s4-07",
+   "sec": 4,
+   "type": "S",
+   "text": "Khun Wanna Srisuk is the owner"
+  },
+  {
+   "id": "s4-08",
+   "sec": 4,
+   "type": "S",
+   "text": "Wanna is NOT head technician"
+  },
+  {
+   "id": "s4-09",
+   "sec": 4,
+   "type": "S",
+   "text": "Khun Thanakorn Meechai is head technician"
+  },
+  {
+   "id": "s4-10",
+   "sec": 4,
+   "type": "S",
+   "text": "Khun Kitti Thongdee is senior technician"
+  },
+  {
+   "id": "s4-11",
+   "sec": 4,
+   "type": "S",
+   "text": "Kitti is NOT head technician"
+  },
+  {
+   "id": "s4-12",
+   "sec": 4,
+   "type": "S",
+   "text": "Kitti has no authority to approve on behalf of head technician"
+  },
+  {
+   "id": "s4-13",
+   "sec": 4,
+   "type": "S",
+   "text": "Khun Piyanuch Kaewngam is the accountant"
+  },
+  {
+   "id": "s4-14",
+   "sec": 4,
+   "type": "S",
+   "text": "Khun Somsak Boonruang owns the rented building"
+  },
+  {
+   "id": "s4-15",
+   "sec": 4,
+   "type": "S",
+   "text": "Never contact or copy Somsak about customer data, prices or any complaints"
+  },
+  {
+   "id": "s4-16",
+   "sec": 4,
+   "type": "F",
+   "text": "Wall-mounted AC cleaning 650 baht per unit"
+  },
+  {
+   "id": "s4-17",
+   "sec": 4,
+   "type": "F",
+   "text": "Cassette AC cleaning 1,100 baht per unit"
+  },
+  {
+   "id": "s4-18",
+   "sec": 4,
+   "type": "F",
+   "text": "Big clean = removing evaporator coil panel to wash"
+  },
+  {
+   "id": "s4-19",
+   "sec": 4,
+   "type": "S",
+   "text": "Big clean only for wall-mounted ACs"
+  },
+  {
+   "id": "s4-20",
+   "sec": 4,
+   "type": "F",
+   "text": "Big clean extra 400 baht per unit"
+  },
+  {
+   "id": "s4-21",
+   "sec": 4,
+   "type": "S",
+   "text": "No big clean for cassette ACs"
+  },
+  {
+   "id": "s4-22",
+   "sec": 4,
+   "type": "F",
+   "text": "Customers 60+ get 10% off cleaning fee"
+  },
+  {
+   "id": "s4-23",
+   "sec": 4,
+   "type": "S",
+   "text": "Senior discount excludes parts"
+  },
+  {
+   "id": "s4-24",
+   "sec": 4,
+   "type": "F",
+   "text": "Deposit 30% of total cleaning fee including big clean"
+  },
+  {
+   "id": "s4-25",
+   "sec": 4,
+   "type": "S",
+   "text": "Cancel >=24 h ahead: full deposit refund"
+  },
+  {
+   "id": "s4-26",
+   "sec": 4,
+   "type": "S",
+   "text": "Cancel <24 h: refund 50% of deposit"
+  },
+  {
+   "id": "s4-27",
+   "sec": 4,
+   "type": "S",
+   "text": "You may refund up to 1,500 baht per booking"
+  },
+  {
+   "id": "s4-28",
+   "sec": 4,
+   "type": "S",
+   "text": "Refund above 1,500 baht needs Wanna's approval"
+  },
+  {
+   "id": "s4-29",
+   "sec": 4,
+   "type": "S",
+   "text": "You may approve in-job parts replacement up to 800 baht per unit"
+  },
+  {
+   "id": "s4-30",
+   "sec": 4,
+   "type": "S",
+   "text": "Above 800 baht needs Thanakorn's approval"
+  },
+  {
+   "id": "s4-31",
+   "sec": 4,
+   "type": "S",
+   "text": "Only Wanna may approve special reductions beyond senior discount"
+  },
+  {
+   "id": "s4-32",
+   "sec": 4,
+   "type": "S",
+   "text": "Piyanuch may issue new tax invoices"
+  },
+  {
+   "id": "s4-33",
+   "sec": 4,
+   "type": "S",
+   "text": "Piyanuch may not reduce prices"
+  },
+  {
+   "id": "s4-34",
+   "sec": 4,
+   "type": "S",
+   "text": "You may reschedule once per booking at customer request"
+  },
+  {
+   "id": "s4-35",
+   "sec": 4,
+   "type": "S",
+   "text": "Condo juristic person / village manager reschedule request: forward to Thanakorn to decide"
+  },
+  {
+   "id": "s4-36",
+   "sec": 4,
+   "type": "S",
+   "text": "Quotation within 24 h after request"
+  },
+  {
+   "id": "s4-37",
+   "sec": 4,
+   "type": "S",
+   "text": "Receipt within 3 days after job completed"
+  },
+  {
+   "id": "s4-38",
+   "sec": 4,
+   "type": "F",
+   "text": "Confirmation email ends with exact Thai sentence (clear 1 m under AC)"
+  },
+  {
+   "id": "s4-39",
+   "sec": 4,
+   "type": "F",
+   "text": "Quotation starts with exact Thai sentence (price valid 15 days)"
+  },
+  {
+   "id": "s4-40",
+   "sec": 4,
+   "type": "S",
+   "text": "Customer must give address and phone at every booking"
+  },
+  {
+   "id": "s4-41",
+   "sec": 4,
+   "type": "F",
+   "text": "Model-label photo should be sent, not mandatory"
+  },
+  {
+   "id": "s4-42",
+   "sec": 4,
+   "type": "S",
+   "text": "Never accept exterior work above 3rd floor"
+  },
+  {
+   "id": "s4-43",
+   "sec": 4,
+   "type": "S",
+   "text": "Unless Thanakorn confirms scaffolding and fall protection"
+  },
+  {
+   "id": "s4-44",
+   "sec": 4,
+   "type": "S",
+   "text": "Never advise customers to refill refrigerant themselves"
+  },
+  {
+   "id": "s4-45",
+   "sec": 4,
+   "type": "S",
+   "text": "Never disclose technicians' schedule to other customers"
+  },
+  {
+   "id": "s4-46",
+   "sec": 4,
+   "type": "F",
+   "text": "Jobs outside Mueang district: 300 baht travel fee"
+  },
+  {
+   "id": "s4-47",
+   "sec": 4,
+   "type": "S",
+   "text": "Exception: >=4 units at same address"
+  },
+  {
+   "id": "s4-48",
+   "sec": 4,
+   "type": "S",
+   "text": "Sundays: repair jobs only, no cleaning"
+  },
+  {
+   "id": "s4-49",
+   "sec": 4,
+   "type": "S",
+   "text": "Regular customers (>=3 prior services) may book up to 60 days ahead"
+  },
+  {
+   "id": "s4-50",
+   "sec": 4,
+   "type": "S",
+   "text": "General customers up to 30 days ahead"
+  },
+  {
+   "id": "s4-51",
+   "sec": 4,
+   "type": "S",
+   "text": "Emergency trigger: smoke, sparks or burning smell after technician finished"
+  },
+  {
+   "id": "s4-52",
+   "sec": 4,
+   "type": "S",
+   "text": "Call Thanakorn's emergency line yourself immediately"
+  },
+  {
+   "id": "s4-53",
+   "sec": 4,
+   "type": "S",
+   "text": "Emergency number 081-552-7346"
+  },
+  {
+   "id": "s4-54",
+   "sec": 4,
+   "type": "S",
+   "text": "Tell customer technician calls back within 20 minutes"
+  },
+  {
+   "id": "s4-55",
+   "sec": 4,
+   "type": "S",
+   "text": "Customer must switch off that AC's breaker themselves"
+  },
+  {
+   "id": "s4-56",
+   "sec": 4,
+   "type": "S",
+   "text": "Customer must not turn that AC on again"
+  },
+  {
+   "id": "s4-57",
+   "sec": 4,
+   "type": "S",
+   "text": "Do not ask customer to call the technician"
+  },
+  {
+   "id": "s4-58",
+   "sec": 4,
+   "type": "F",
+   "text": "Every Saturday 18:00 weekly job report + refund totals to Wanna"
+  },
+  {
+   "id": "s4-59",
+   "sec": 4,
+   "type": "F",
+   "text": "1st of month 10:00 parts cost report to Piyanuch"
+  },
+  {
+   "id": "s4-60",
+   "sec": 4,
+   "type": "S",
+   "text": "Supplier delivery-postponement request: forward to Thanakorn"
+  },
+  {
+   "id": "s4-61",
+   "sec": 4,
+   "type": "S",
+   "text": "Never answer it yourself"
+  },
+  {
+   "id": "s4-62",
+   "sec": 4,
+   "type": "S",
+   "text": "Work-quality complaints go to Thanakorn"
+  },
+  {
+   "id": "s4-63",
+   "sec": 4,
+   "type": "S",
+   "text": "Billing complaints go to Piyanuch"
+  }
+ ],
+ "counts": {
+  "total": 224,
+  "S": 155,
+  "F": 69
+ },
+ "A": {
+  "kept": 222,
+  "distorted": [
+   {
+    "id": "s2-12",
+    "type": "F",
+    "why": "Says clappers, flashlights AND vests are provided 'only for those who apply by December 20'; original limits only the vests to Dec-20 applicants (scope narrowed)"
+   },
+   {
+    "id": "s2-13",
+    "type": "S",
+    "why": "Dec-20 condition widened from vests alone to all equipment"
+   }
+  ],
+  "lost": [],
+  "added": [
+   "Editorial note that the approver for discounts above 10% is not named (accurate meta-commentary, not a rule) '(no approver is named)'",
+   "Romanized names/glosses (e.g. Khun Wanna Srisuk, hyoshigi, Midorigaoka) - translation aids, harmless"
+  ]
+ },
+ "B": {
+  "kept": 222,
+  "distorted": [
+   {
+    "id": "s2-12",
+    "type": "F",
+    "why": "Says clappers, flashlights AND vests are provided 'only for those who apply by December 20'; original limits only the vests to Dec-20 applicants (scope narrowed)"
+   },
+   {
+    "id": "s2-13",
+    "type": "S",
+    "why": "Dec-20 condition widened from vests alone to all equipment"
+   }
+  ],
+  "lost": [],
+  "added": [
+   "Editorial note that the approver for discounts above 10% is not named (accurate meta-commentary, not a rule) 'the approver is not named'",
+   "Romanized names/glosses (e.g. Khun Wanna Srisuk, hyoshigi, Midorigaoka) - translation aids, harmless"
+  ]
+ },
+ "X": {
+  "kept": 224,
+  "distorted": [],
+  "lost": [],
+  "added": [
+   "Editorial note that the approver for discounts above 10% is not named (accurate meta-commentary, not a rule) 'the TEXT does not say who approves it'"
+  ]
+ },
+ "Y": {
+  "kept": 224,
+  "distorted": [],
+  "lost": [],
+  "added": [
+   "Editorial note that the approver for discounts above 10% is not named (accurate meta-commentary, not a rule) '(the approver is not named)'"
+  ]
+ }
+}

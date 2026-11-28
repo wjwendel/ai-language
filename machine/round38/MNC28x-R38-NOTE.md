@@ -1,0 +1,10 @@
+1. Encoded only from round38/originals.txt into payload_mnc28x.txt (§1 EN radio workshop, §2 JA night-watch notice, §3 DE farrier, §4 TH AC service). Did not open round38_sealed/ or any questions.json.
+2. No shared §0 key or schema this time. Every section is terse telegraphic English slot lines. Names, the inbox address, exact quoted sentences, the Thai term ล้างใหญ่, "Notbeschlag" and the Japanese place/person names stay in their original script.
+3. Rail 1 (actor): every trigger names who acts ("Customer asks for photo...: you may", "Supplier asks...", "Horse owner asks...", "Condo juristic person or village manager asks...").
+4. Rail 2 (scope): reflective vests only for those who applied by Dec 20; elementary schoolers join Group 1 only with a guardian; Collectors' Club free return shipping only on orders >$250; ล้างใหญ่ only for wall-mounted AC.
+5. Rail 3 (modality): should/may/must/only kept as written. §1 "general questions should be answered"; §3 invoice "ends with" (no must in the original); §3/§4 X-rays/model-label photo "should ... not mandatory".
+6. Rail 4 (identity): who-is-who lines come first and use THE/NOT THE. §4 กิตติ = "senior technician" with no added article, because Thai has none; Harlan Voss = "the former partner", as written.
+7. Rail 5 (limits): each approver sits on its own limit line. The §1 discount >10% gets "approver unnamed"; §1 return-shipping refunds >$35 "goes to Priya" (that is the original's verb).
+8. Rails 6–8: exceptions stay on the same line as their prohibition. Each never-rule has its own line, and no safety rule is in parentheses or after "|". Definitions keep their noun ("express" = same-day dispatch). Emergency lines say "you call N yourself" + "customer must ... themselves" + "Do not ask customer to call".
+9. Nothing added: no year (Dec dates are as given), no extra approver, no weekday beyond the original. Deadlines (2 working days, 1 working day, 48 hours, 5 days, 24 hours, 3 days) are verbatim in meaning.
+10. Result: o200k 3589 -> 2721 tokens (24.2% saving). Most of the cost is in the verbatim Thai/Japanese names and the quoted sentences, which the rails say must not be compressed.
