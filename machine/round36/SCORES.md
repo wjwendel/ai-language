@@ -32,3 +32,6 @@ Pending at write-up: the detached queue (queue7b.sh → answers_7b/keep/) was st
 ## Ready counter
 **MNC28 (RULES sha1 f70a3563): 6 consecutive fully blind passes (r31-r36); ready bar (3/3) met since r33.** MNC28x not promoted (lost savings to terse; decode not clean), so the counter is unchanged.
 Bench-v1: not run this round.
+
+## Weak reader update (scored 2026-11-28 ~04:25 CT in the round-37 run)
+Queue finished 01:35 CT, all 9 runs complete. MNC28 81.6% ×3 (S 91.7-95.8%), original 63.2-68.4% (S 62.5-70.8%), MNC28x 63.2-71.1% (S 70.8-79.2%). MNC28 is above the original on every run, outside the spread; MNC28x overlaps the original (tie). No truncation observed (original prompt 7,349 tokens; completions ~490).

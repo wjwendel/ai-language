@@ -1,0 +1,134 @@
+TEXT:
+§1
+Role: email assistant, Brightwater Harp Workshop (builds/restrings/regulates/repairs lever & pedal harps). Inbox workshop@brightwaterharps.example.
+Check: Mon–Sat 8:30 & 15:00; Sun 12:00 only. No other times.
+People: Corwin Dalby = owner. Ilse Marrow = workshop manager (NOT owner). Tobias Fenn = showroom supervisor (not manager); his approval never replaces Ilse's. Petra Vance = outside bookkeeper: never CC on customer complaints; OK on ordinary invoices.
+Approvals:
+- Refunds (any amount): Corwin only. Ilse may approve schedule changes & replacement parts, not refunds.
+- Restringing discount: self ≤$40/harp; >$40 → Ilse. Regulation discount (any amount) → Corwin.
+- Repair estimates: self ≤$600; >$600 → approval before sending.
+- String set orders: self ≤12 sets/week; more → Ilse.
+Fees/terms: Rental deposit $150; none if customer rented ≥3 times before. New-harp commission deposit 30% of agreed price. "Loaner" = free lap harp while customer's harp is in for repair; any other borrowed harp = paid rental. String-height check: free Saturdays for Harp Circle student group members only; otherwise $25.
+Response times: repair inquiries ≤24h; commission inquiries ≤3 working days.
+Never: promise commissioned-harp delivery date unless Corwin wrote it in order notes; give a customer's home address (even to claimed friends); quote pedal harp regulation prices by email (invite to showroom).
+Pickup: showroom, 2nd floor. Workshop (ground floor) closed to visitors.
+Reply format: repair replies end exactly "Please do not retune the harp before it reaches us." Rental replies start "Thank you for choosing Brightwater." Mention free online string-care video (should); include order number whenever one exists (must).
+Emergency (harp fell in showroom & someone hurt, or smoke in building): YOU call Riverside Fire Watch 555-0193-4471 (don't ask customer to call). Tell customer: help called & on its way; leave by side stairs, wait in car park. Then inform Ilse.
+Reports: Fri 17:00 → Ilse: open repair tickets + overdue replies. 1st working day of month → Corwin: previous month's deposits.
+Unsure: hold & ask Ilse; refund questions → Corwin only.
+String charts: may attach standard lever harp chart; pedal harp charts only after Ilse checks model.
+
+§2
+阳光里小区东门电动自行车充电棚6月17日启用，登记通知：
+1. 对象：本小区业主及登记在册租户。车辆：电动自行车，及3月1日后购买的电动三轮车（3月1日前购买的暂不登记）。
+2. 时间：6月3日–14日，9:00–11:30、14:00–17:00；6月8日仅上午；6月10日停办。地点：3号楼1楼物业办公室。
+3. 须车主本人持身份证+购车发票办理，不可代办。例外：70岁以上行动不便老人可由家属代办，须提前一天电话预约。
+4. 每车一张充电卡。月卡30元/辆，季卡80元/辆；卡押金20元/张，退卡全退。丢失或损坏补办10元/张。
+5. 电池鼓包或充电器破损车辆禁入，经物业检查合格后方可重新登记。
+6. 开放6:00–23:00；单次充电≤4小时；23:00后禁止充电。
+7. 每户最多两辆。
+8. 禁止在楼道或家中充电。
+咨询/投诉：物业管理员邵立新 138-0571-2246（工作日8:30–17:30）。夜间紧急：值班室 0571-8862-4410。
+阳光里小区物业服务中心，5月28日。
+
+§3
+Rôle : assistant e-mail, Sellerie du Vieux Pont (selles sur mesure, réparation brides/licols, vente produits d'entretien du cuir). Boîte contact@sellerie-vieuxpont.example.
+Consultation : lun–ven 9h00 et 14h30 ; sam 10h00 seulement ; dim jamais.
+Personnes : Hélène Garnier = gérante. Camille Roussel = responsable d'atelier (PAS gérante). Margaux Lefèvre = responsable stand salons ; son accord ne remplace jamais celui de Camille. Didier Fauchon (ancien associé) : ne jamais contacter ni mettre en copie sur commandes de selles en cours.
+Validations :
+- Retouches de selle : seul ≤180 € ; >180 € → Camille.
+- Devis réparation brides/licols : seul ≤90 € ; >90 € → Hélène.
+- Geste commercial : seul ≤15 € uniquement sur produits d'entretien ; sur selle ou bride, tout montant → Hélène.
+- Retour selle sur mesure : Hélène seule. Retour produit d'entretien non ouvert ≤14 j après livraison : Camille peut accepter.
+Conditions : « Essai » = prêt d'une selle d'occasion 7 jours, caution 300 € ; jamais pour selles neuves. Livraison gratuite dès 120 €, sauf selles : toujours 45 €. Mercredi seulement : licenciés du club Les Étriers d'Argent −10 % sur produits d'entretien (pas sur brides).
+Délais : devis ≤48 h. Réclamation reçue avant 14h30 → réponse le jour même avant 18h00 ; sinon lendemain avant midi.
+Interdits : photos de l'atelier (sauf client avec selle sur mesure demandant l'avancement) ; prix d'achat des cuirs ; date précise de livraison d'une selle sur mesure (indiquer seulement le mois).
+Formats : réponse à réclamation commence exactement par « Nous sommes désolés pour ce désagrément. » Confirmation de commande se termine par « À bientôt au Vieux Pont. » Proposer un rendez-vous d'essayage pour chaque selle sur mesure (recommandé) ; numéro de commande obligatoire dans toute réponse qui en a un.
+Retrait : comptoir 1er étage ; atelier du rez-de-chaussée fermé au public.
+Urgence (cavalier tombé et blessé car sangle/étrivière achetée chez nous a cédé) : appelez VOUS-MÊME Cheval Secours 04 71 55 82 30 (ne pas demander au client). Dites au client : secours prévenus et en route ; conserver lui-même la pièce cassée sans la réparer ni la jeter. Puis prévenir Hélène.
+Rapports : lundi 8h30 → Camille : selles sur mesure en fabrication. Jeudi 16h00 → Hélène : stock produits d'entretien.
+Doute : mettre en attente, demander à Camille ; retours de selles sur mesure → Hélène uniquement.
+Gravure d'initiales : ≤4 lettres acceptée ; au-delà → Camille.
+
+§4
+Vai trò: trợ lý email Lò Nung Minh Khang (sửa lò nung gốm điện & gas). Hộp thư hotro@lonungminhkhang.example.
+Kiểm tra: T2–T7 lúc 7:30 và 16:00; CN chỉ 10:00.
+Nhân sự: Ông Lạc Văn Định = chủ. Bà Trịnh Thu Hà = trưởng nhóm kỹ thuật (KHÔNG phải chủ). Anh Phùng Quốc Bảo = trưởng ca kỹ thuật; đồng ý của anh không thay phê duyệt của bà Hà. Ông Mạc Tuấn (NCC gạch chịu lửa): không bao giờ liên hệ/CC về khiếu nại khách.
+Phí & phê duyệt:
+- Phí kiểm tra tại chỗ 600.000đ/lò. Tự giảm ≤200.000đ; >200.000đ → bà Hà.
+- Báo giá thay điện trở: tự xác nhận ≤3.000.000đ; trên → ông Định. Báo giá thay bộ điều khiển nhiệt (mọi mức) → phải được duyệt trước khi gửi.
+- Hoàn tiền: chỉ ông Định. Bà Hà duyệt đổi lịch, không duyệt hoàn tiền.
+- Hủy lịch trong 24h trước hẹn: phí 25% phí kiểm tra; sớm hơn miễn phí, trừ khách đã hủy ≥2 lần trước đó trong cùng tháng (luôn trả phí).
+- Xây lại toàn bộ lò: cọc 40% báo giá.
+- "Khẩn" = kỹ thuật viên đến trong ngày; chỉ lò điện (không lò gas); phụ phí 350.000đ.
+- Phí đi lại 150.000đ; miễn chỉ vào thứ Bảy cho trường dạy gốm có hợp đồng bảo trì năm.
+- Đơn tấm kê lò: tự xác nhận ≤10 tấm; lớn hơn → chờ anh Bảo kiểm tồn kho.
+Thời hạn: báo giá ≤2 ngày làm việc; khiếu nại ≤4 giờ.
+Cấm: hướng dẫn khách tự thay điện trở (trừ trường dạy gốm có hợp đồng bảo trì năm); hứa giờ đến chính xác (chỉ nêu sáng/chiều).
+Mẫu câu: email xác nhận lịch hẹn kết thúc chính xác "Vui lòng để lò nguội hoàn toàn trước khi kỹ thuật viên đến." Trả lời khiếu nại bắt đầu "Minh Khang xin lỗi vì sự bất tiện này." Nên gợi ý khách chụp nhãn thông số lò; bắt buộc ghi số seri lò trong mọi phiếu yêu cầu.
+Tiếp nhận: khách mang bộ điều khiển đến quầy tầng 2; xưởng tầng trệt không tiếp khách.
+Khẩn cấp (lò bốc khói, mùi khét, tia lửa điện): BẠN tự gọi ngay cứu hộ kỹ thuật 0909 555 318 (không yêu cầu khách gọi). Báo khách: kỹ thuật viên đang đến; khách tự ngắt cầu dao tổng của lò và tránh xa khu vực lò.
+Báo cáo: T6 17:30 → bà Hà: tổng hợp lịch hẹn tuần sau. Ngày 1 hằng tháng → ông Định: danh sách khoản đặt cọc đã nhận.
+
+QUESTIONS (each is about the section named in its ID):
+§1.q1: Is the inbox checked at 11:00 on a Wednesday?
+§1.q2: A customer asks for a 40-dollar discount on restringing one harp. May the assistant grant it on its own?
+§1.q3: A customer asks for a 41-dollar discount on restringing one harp. Who must approve it?
+§1.q4: Un client demande une remise de 20 dollars sur un travail de régulation (regulation work). L'assistant peut-il l'accorder seul ?
+§1.q5: A repair estimate comes to 605 dollars. Who must approve it before it is sent?
+§1.q6: A repair estimate comes to exactly 600 dollars. May the assistant confirm it on its own?
+§1.q7: Tobias Fenn says he approves a 55-dollar restringing discount for one harp. May the assistant grant it on that basis alone?
+§1.q8: May Ilse Marrow sign a letter as the owner of Brightwater Harp Workshop?
+§1.q9: Un samedi, un membre du groupe Harp Circle demande une vérification de la hauteur des cordes (string-height check). Combien cela coûte-t-il ?
+§1.q10: The agreed price of a commissioned harp is 4,800 dollars. How much is the deposit?
+§1.q11: Một khách đã thuê đàn của xưởng hai lần trước đây muốn thuê một cây đàn hạc. Khách phải đặt cọc bao nhiêu?
+§1.q12: A customer emails that she can see smoke in the building. What phone number must the assistant call itself?
+§1.q13: In that smoke emergency, who must leave by the side stairs and wait in the car park: the assistant or the customer?
+§1.q14: Ilse has emailed the assistant that a commissioned harp will be ready on 3 May, but Corwin has written no date in the order notes. May the assistant promise the customer that delivery date?
+§1.q15: Is mentioning the free online string-care video in replies required?
+§2.q1: On what date does the charging shed open for use?
+§2.q2: 一位居民1月购买的电动自行车可以参加本次登记吗？
+§2.q3: 一辆2月20日购买的电动三轮车可以参加本次登记吗？
+§2.q4: 一位45岁的车主能否让邻居替他办理登记？
+§2.q5: 一位75岁行动不便的老人，家属当天没有预约，直接来物业办公室代办。可以办理吗？
+§2.q6: 6月8日下午15:00可以办理登记吗？
+§2.q7: Can a resident register at 11:40 on June 11?
+§2.q8: A household registers two vehicles, each with a quarterly card. How much do they pay in total at first registration, including deposits?
+§2.q9: 一户丢失了一张充电卡，又损坏了另一张充电卡，补办共需多少钱？
+§2.q10: A vehicle's battery is fine, but its charger is cracked. May it enter the charging shed?
+§2.q11: 晚上10:30开始充电，最晚可以充到几点？
+§2.q12: What phone number should residents call with questions or complaints?
+§2.q13: A household wants to register a third vehicle. Is that allowed?
+§2.q14: 登记地点在哪里？
+§3.q1: Le samedi à 14 h 30, l'assistant consulte-t-il la boîte de réception ?
+§3.q2: A saddle alteration costs exactly 180 euros. May the assistant accept it on its own?
+§3.q3: Une retouche de selle coûte 185 euros. Qui doit la valider ?
+§3.q4: A headcollar repair estimate is 90 euros. May the assistant confirm it on its own?
+§3.q5: A bridle repair estimate is 95 euros. Who must approve it?
+§3.q6: A customer ordering a bridle asks for a 10-euro goodwill gesture. May the assistant grant it on its own?
+§3.q7: Un client qui commande des produits d'entretien demande un geste commercial de 16 euros. L'assistant peut-il l'accorder seul ?
+§3.q8: Margaux Lefèvre approves a 200-euro saddle alteration. Is her approval sufficient?
+§3.q9: Un client peut-il obtenir un « essai » d'une selle neuve ?
+§3.q10: On a Wednesday, a licensed rider of Les Étriers d'Argent buys 60 euros of leather-care products. How much do they pay for the products after the discount?
+§3.q11: A customer buys a saddle for 1,850 euros. What is the total including delivery?
+§3.q12: A complaint arrives at 14:35. By when must the reply be sent?
+§3.q13: A customer writes that a rider was injured when a girth bought from the shop broke. What phone number must the assistant call itself?
+§3.q14: Dans ce cas d'urgence, qui doit conserver la pièce cassée : l'assistant ou le client ?
+§3.q15: A customer whose bridle is being repaired asks for photos of the workshop showing the progress. May the assistant send them?
+§4.q1: Vào thứ Ba lúc 12:00, trợ lý có kiểm tra hộp thư không?
+§4.q2: A customer asks for an inspection-fee discount of exactly 200,000 dong. May the assistant grant it on its own?
+§4.q3: Khách xin giảm phí kiểm tra 210.000 đồng. Ai phải phê duyệt?
+§4.q4: A heating-element replacement quote is exactly 3,000,000 dong. May the assistant confirm it on its own?
+§4.q5: A heating-element replacement quote is 3,050,000 dong. Who must approve it?
+§4.q6: A temperature-controller replacement quote is 900,000 dong. May the assistant confirm it on its own?
+§4.q7: Who must approve that 900,000-dong temperature-controller quote?
+§4.q8: Khách hủy lịch 20 giờ trước buổi hẹn. Phí hủy là bao nhiêu?
+§4.q9: A customer who has already cancelled twice this month cancels a third appointment 30 hours ahead. How much is the cancellation fee?
+§4.q10: A full kiln rebuild is quoted at 7,500,000 dong. How much is the deposit?
+§4.q11: Can a customer with a gas kiln get the "khẩn" (same-day) service?
+§4.q12: Thứ Bảy, một trường dạy gốm có hợp đồng bảo trì năm yêu cầu kiểm tra khẩn một lò điện. Tổng chi phí (phí kiểm tra + phụ phí khẩn + phí đi lại) là bao nhiêu?
+§4.q13: A customer reports sparks coming from the kiln. What phone number must the assistant call itself?
+§4.q14: Trong tình huống khẩn cấp đó, ai phải ngắt cầu dao tổng của lò: trợ lý hay khách?
+§4.q15: A pottery school without an annual maintenance contract asks how to replace a heating element itself. May the assistant instruct them?
+
+Answer using only the TEXT. Some questions describe a situation and ask what to do or whether something is allowed; apply every rule in the TEXT that bears on it. Reply with one JSON object only, mapping each question ID to a short answer string (start yes/no questions with "yes" or "no"). Answer in English. If the TEXT does not say, answer "not stated".

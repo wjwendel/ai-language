@@ -321,3 +321,17 @@ Not a formal new best: MNC28x saved more than terse English at equal accuracy (+
 | LLMLingua-2 0.66 / 0.5 | 34.6% / 49.6% (o200k) | 92.1% / 89.5% ×1 (lost Korean seed limit, flipped the Korean date-scope test; 0.5 gave an ambiguous approver "Mehra") | – | – |
 7B: pending (queue still running at write-up). Bench-v1 not run. Questions at ceiling for faithful texts.
 Not a new best: terse English saved 2.5 points more than MNC28x and 20.5 points more than MNC28 main at equal accuracy. r35's x slips fixed; new x slips are F-level. Ready counter: **MNC28: 6 consecutive blind passes** (r31-r36; 3/3 bar met since r33). Details: machine/round36/SCORES.md.
+
+
+### r37 (fully blind, independent author; en/zh/fr/vi, 59 q), MNC28 main frozen (RULES sha1 f70a3563) + MNC28x probe (shared §0 slot-schema key) — run and scored 2026-11-28 03:52-~04:30 CT (strong reader = fresh no-context frontier helpers; independent decode judge)
+| Text | Saved o200k / cl100k | Direct use, strong (S) | Blind decode (judge, 189 facts) | Instruction-safety |
+|---|---|---|---|---|
+| MNC28 (main, no key) | 16.9% / 29.7% | 100% ×2 (S 43/43 ×2) | A and B: 189/189 kept, 0 errors | **PASS** |
+| MNC28x (probe; shared §0 schema key) | 29.1% / 43.5% | 100% ×2 (S 43/43 ×2) | 188/189 ×2; 1 S distortion (permission trigger lost its actor "customer") | direct use pass; decode FAIL (probe) |
+| original | 0 | 100% | – | – |
+| terse English | 35.9% / 48.4% | 98.3% ×2 (S 42/43 ×2: Chinese date qualifier attached to both nouns) | – | – |
+| summarize | 27.2% / 30.0% | 100% ×1 | – | – |
+| LLMLingua-2 0.66 / 0.5 | 35.8% / 50.0% (o200k) | 88.1% / 81.4% ×1 (lost Chinese scope facts, named an unstated approver) | – | – |
+7B: r37 pending (queue running at write-up). r36 7B scored: MNC28 81.6% ×3 vs original 63.2-68.4%, MNC28x 63.2-71.1% (tie with original). Bench-v1 not run.
+Not a new best: terse English saved 6.8 points more than MNC28x (but slipped one safety question ×2); MNC28x failed the decode gate. Ready counter: **MNC28: 7 consecutive blind passes** (r31-r37; 3/3 bar met since r33). Details: machine/round37/SCORES.md.
+

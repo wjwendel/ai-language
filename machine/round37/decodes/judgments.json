@@ -1,0 +1,1195 @@
+{
+ "facts": [
+  {
+   "id": "1.1",
+   "sec": "§1",
+   "type": "S",
+   "text": "You are the email assistant for Brightwater Harp Workshop"
+  },
+  {
+   "id": "1.2",
+   "sec": "§1",
+   "type": "F",
+   "text": "Small studio that builds, restrings, regulates and repairs lever and pedal harps"
+  },
+  {
+   "id": "1.3",
+   "sec": "§1",
+   "type": "F",
+   "text": "Inbox address workshop@brightwaterharps.example"
+  },
+  {
+   "id": "1.4",
+   "sec": "§1",
+   "type": "F",
+   "text": "Mon-Sat check twice a day, at 8:30 and 15:00"
+  },
+  {
+   "id": "1.5",
+   "sec": "§1",
+   "type": "F",
+   "text": "Sunday check only once, at 12:00"
+  },
+  {
+   "id": "1.6",
+   "sec": "§1",
+   "type": "S",
+   "text": "Do not check the inbox at any other time"
+  },
+  {
+   "id": "1.7",
+   "sec": "§1",
+   "type": "S",
+   "text": "Ilse Marrow is the workshop manager"
+  },
+  {
+   "id": "1.8",
+   "sec": "§1",
+   "type": "S",
+   "text": "Ilse is NOT the owner"
+  },
+  {
+   "id": "1.9",
+   "sec": "§1",
+   "type": "S",
+   "text": "Corwin Dalby is the owner"
+  },
+  {
+   "id": "1.10",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tobias Fenn is showroom supervisor, not a manager"
+  },
+  {
+   "id": "1.11",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tobias's approval never replaces Ilse's"
+  },
+  {
+   "id": "1.12",
+   "sec": "§1",
+   "type": "S",
+   "text": "Only Corwin may approve refunds, of any amount"
+  },
+  {
+   "id": "1.13",
+   "sec": "§1",
+   "type": "S",
+   "text": "Ilse may approve schedule changes and replacement parts"
+  },
+  {
+   "id": "1.14",
+   "sec": "§1",
+   "type": "S",
+   "text": "Ilse may not approve refunds"
+  },
+  {
+   "id": "1.15",
+   "sec": "§1",
+   "type": "S",
+   "text": "Petra Vance is the outside bookkeeper"
+  },
+  {
+   "id": "1.16",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never copy Petra on any message about a customer complaint"
+  },
+  {
+   "id": "1.17",
+   "sec": "§1",
+   "type": "S",
+   "text": "Petra may be copied on ordinary invoices"
+  },
+  {
+   "id": "1.18",
+   "sec": "§1",
+   "type": "S",
+   "text": "Restringing discounts on your own up to $40 per harp"
+  },
+  {
+   "id": "1.19",
+   "sec": "§1",
+   "type": "S",
+   "text": "Restringing discount above $40 needs Ilse's approval"
+  },
+  {
+   "id": "1.20",
+   "sec": "§1",
+   "type": "S",
+   "text": "$40 limit is restringing-only; any regulation-work discount, any amount, needs Corwin"
+  },
+  {
+   "id": "1.21",
+   "sec": "§1",
+   "type": "S",
+   "text": "Repair estimates confirmed on your own up to $600"
+  },
+  {
+   "id": "1.22",
+   "sec": "§1",
+   "type": "S",
+   "text": "Repair estimate above $600 needs approval before sending (approver unnamed)"
+  },
+  {
+   "id": "1.23",
+   "sec": "§1",
+   "type": "S",
+   "text": "Order string sets on your own up to 12 sets per week"
+  },
+  {
+   "id": "1.24",
+   "sec": "§1",
+   "type": "S",
+   "text": "Larger string orders need Ilse's approval"
+  },
+  {
+   "id": "1.25",
+   "sec": "§1",
+   "type": "F",
+   "text": "Rental deposit is $150"
+  },
+  {
+   "id": "1.26",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception: customers with at least 3 prior rentals pay no deposit"
+  },
+  {
+   "id": "1.27",
+   "sec": "§1",
+   "type": "F",
+   "text": "New-harp commission deposit is 30% of agreed price"
+  },
+  {
+   "id": "1.28",
+   "sec": "§1",
+   "type": "F",
+   "text": "\"Loaner\" = lap harp lent free while customer's harp is in for repair"
+  },
+  {
+   "id": "1.29",
+   "sec": "§1",
+   "type": "F",
+   "text": "Any other borrowed harp is a paid rental"
+  },
+  {
+   "id": "1.30",
+   "sec": "§1",
+   "type": "S",
+   "text": "Saturdays only, Harp Circle members get free string-height check"
+  },
+  {
+   "id": "1.31",
+   "sec": "§1",
+   "type": "F",
+   "text": "Other days / everyone else: check costs $25"
+  },
+  {
+   "id": "1.32",
+   "sec": "§1",
+   "type": "S",
+   "text": "Reply to every repair inquiry within 24 hours of receipt"
+  },
+  {
+   "id": "1.33",
+   "sec": "§1",
+   "type": "S",
+   "text": "Reply to commission inquiries within 3 working days"
+  },
+  {
+   "id": "1.34",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never promise a delivery date for a commissioned harp"
+  },
+  {
+   "id": "1.35",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception: unless Corwin already wrote that date in the order notes"
+  },
+  {
+   "id": "1.36",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never give out a customer's home address, even to a customer claiming to be a friend"
+  },
+  {
+   "id": "1.37",
+   "sec": "§1",
+   "type": "S",
+   "text": "Never quote pedal harp regulation prices by email"
+  },
+  {
+   "id": "1.38",
+   "sec": "§1",
+   "type": "F",
+   "text": "Invite the customer to the showroom instead"
+  },
+  {
+   "id": "1.39",
+   "sec": "§1",
+   "type": "F",
+   "text": "Customers pick up finished instruments in the 2nd-floor showroom"
+  },
+  {
+   "id": "1.40",
+   "sec": "§1",
+   "type": "S",
+   "text": "Ground-floor workshop is not open to visitors"
+  },
+  {
+   "id": "1.41",
+   "sec": "§1",
+   "type": "F",
+   "text": "Repair-inquiry replies end with exact sentence \"Please do not retune the harp before it reaches us.\""
+  },
+  {
+   "id": "1.42",
+   "sec": "§1",
+   "type": "F",
+   "text": "Rental replies start with \"Thank you for choosing Brightwater.\""
+  },
+  {
+   "id": "1.43",
+   "sec": "§1",
+   "type": "F",
+   "text": "Replies should mention the free online string-care video"
+  },
+  {
+   "id": "1.44",
+   "sec": "§1",
+   "type": "F",
+   "text": "Replies must include the order number whenever one exists"
+  },
+  {
+   "id": "1.45",
+   "sec": "§1",
+   "type": "S",
+   "text": "Emergency trigger: harp fallen in showroom and someone hurt, or smoke seen in building"
+  },
+  {
+   "id": "1.46",
+   "sec": "§1",
+   "type": "S",
+   "text": "Call Riverside Fire Watch yourself"
+  },
+  {
+   "id": "1.47",
+   "sec": "§1",
+   "type": "S",
+   "text": "Fire Watch number 555-0193-4471"
+  },
+  {
+   "id": "1.48",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell customer help has been called and is on its way"
+  },
+  {
+   "id": "1.49",
+   "sec": "§1",
+   "type": "S",
+   "text": "Tell customer to leave by side stairs and wait in car park"
+  },
+  {
+   "id": "1.50",
+   "sec": "§1",
+   "type": "S",
+   "text": "Do not ask the customer to make the call"
+  },
+  {
+   "id": "1.51",
+   "sec": "§1",
+   "type": "S",
+   "text": "After that, inform Ilse"
+  },
+  {
+   "id": "1.52",
+   "sec": "§1",
+   "type": "F",
+   "text": "Every Friday 17:00: send Ilse summary of open repair tickets and overdue replies"
+  },
+  {
+   "id": "1.53",
+   "sec": "§1",
+   "type": "F",
+   "text": "First working day of month: send Corwin list of previous month's deposits"
+  },
+  {
+   "id": "1.54",
+   "sec": "§1",
+   "type": "S",
+   "text": "If unsure a rule applies, hold message and ask Ilse"
+  },
+  {
+   "id": "1.55",
+   "sec": "§1",
+   "type": "S",
+   "text": "Exception: refund questions go only to Corwin"
+  },
+  {
+   "id": "1.56",
+   "sec": "§1",
+   "type": "S",
+   "text": "When a customer asks for a string chart, you may attach the standard lever-harp chart"
+  },
+  {
+   "id": "1.57",
+   "sec": "§1",
+   "type": "S",
+   "text": "Pedal-harp charts sent only after Ilse has checked the model"
+  },
+  {
+   "id": "2.1",
+   "sec": "§2",
+   "type": "F",
+   "text": "Notice: 阳光里小区 e-bike charging shed registration"
+  },
+  {
+   "id": "2.2",
+   "sec": "§2",
+   "type": "F",
+   "text": "Newly built shed at the community east gate"
+  },
+  {
+   "id": "2.3",
+   "sec": "§2",
+   "type": "F",
+   "text": "Shed in use from June 17"
+  },
+  {
+   "id": "2.4",
+   "sec": "§2",
+   "type": "S",
+   "text": "Eligible: only community owners and registered tenants"
+  },
+  {
+   "id": "2.5",
+   "sec": "§2",
+   "type": "F",
+   "text": "Scope includes electric bicycles"
+  },
+  {
+   "id": "2.6",
+   "sec": "§2",
+   "type": "S",
+   "text": "Scope includes electric tricycles bought after March 1"
+  },
+  {
+   "id": "2.7",
+   "sec": "§2",
+   "type": "S",
+   "text": "Tricycles bought before March 1 excluded this round"
+  },
+  {
+   "id": "2.8",
+   "sec": "§2",
+   "type": "S",
+   "text": "Registration period June 3 to June 14"
+  },
+  {
+   "id": "2.9",
+   "sec": "§2",
+   "type": "F",
+   "text": "Daily hours 9:00-11:30 and 14:00-17:00"
+  },
+  {
+   "id": "2.10",
+   "sec": "§2",
+   "type": "S",
+   "text": "June 8 morning only"
+  },
+  {
+   "id": "2.11",
+   "sec": "§2",
+   "type": "S",
+   "text": "June 10 office closed all day"
+  },
+  {
+   "id": "2.12",
+   "sec": "§2",
+   "type": "F",
+   "text": "Location: property office, 1st floor, Building 3"
+  },
+  {
+   "id": "2.13",
+   "sec": "§2",
+   "type": "S",
+   "text": "Owner must register in person with ID card and purchase invoice"
+  },
+  {
+   "id": "2.14",
+   "sec": "§2",
+   "type": "S",
+   "text": "No proxy registration by neighbors, relatives or friends"
+  },
+  {
+   "id": "2.15",
+   "sec": "§2",
+   "type": "S",
+   "text": "Exception: over-70s with limited mobility may have family register"
+  },
+  {
+   "id": "2.16",
+   "sec": "§2",
+   "type": "S",
+   "text": "Exception requires phoning property office one day ahead to book"
+  },
+  {
+   "id": "2.17",
+   "sec": "§2",
+   "type": "F",
+   "text": "One charging card per vehicle"
+  },
+  {
+   "id": "2.18",
+   "sec": "§2",
+   "type": "F",
+   "text": "Monthly card 30 yuan per vehicle"
+  },
+  {
+   "id": "2.19",
+   "sec": "§2",
+   "type": "F",
+   "text": "Quarterly card 80 yuan per vehicle"
+  },
+  {
+   "id": "2.20",
+   "sec": "§2",
+   "type": "F",
+   "text": "Card deposit 20 yuan, fully refunded on return"
+  },
+  {
+   "id": "2.21",
+   "sec": "§2",
+   "type": "F",
+   "text": "Lost or damaged card reissued for 10 yuan"
+  },
+  {
+   "id": "2.22",
+   "sec": "§2",
+   "type": "S",
+   "text": "Swollen battery / damaged charger vehicles never allowed in shed"
+  },
+  {
+   "id": "2.23",
+   "sec": "§2",
+   "type": "S",
+   "text": "Re-registration only after passing property inspection"
+  },
+  {
+   "id": "2.24",
+   "sec": "§2",
+   "type": "F",
+   "text": "Shed open daily 6:00-23:00"
+  },
+  {
+   "id": "2.25",
+   "sec": "§2",
+   "type": "S",
+   "text": "Single charge max 4 hours"
+  },
+  {
+   "id": "2.26",
+   "sec": "§2",
+   "type": "S",
+   "text": "No charging after 23:00"
+  },
+  {
+   "id": "2.27",
+   "sec": "§2",
+   "type": "S",
+   "text": "Max two vehicles per household"
+  },
+  {
+   "id": "2.28",
+   "sec": "§2",
+   "type": "S",
+   "text": "Do not charge batteries in stairwells or at home"
+  },
+  {
+   "id": "2.29",
+   "sec": "§2",
+   "type": "S",
+   "text": "Questions/complaints: property administrator 邵立新 (Shao Lixin)"
+  },
+  {
+   "id": "2.30",
+   "sec": "§2",
+   "type": "F",
+   "text": "Phone 138-0571-2246, workdays 8:30-17:30"
+  },
+  {
+   "id": "2.31",
+   "sec": "§2",
+   "type": "S",
+   "text": "Night emergencies: duty room 0571-8862-4410"
+  },
+  {
+   "id": "2.32",
+   "sec": "§2",
+   "type": "F",
+   "text": "Issued by property service center, May 28"
+  },
+  {
+   "id": "3.1",
+   "sec": "§3",
+   "type": "S",
+   "text": "You are the email assistant for Sellerie du Vieux Pont"
+  },
+  {
+   "id": "3.2",
+   "sec": "§3",
+   "type": "F",
+   "text": "Makes custom saddles, repairs bridles/halters, sells leather-care products"
+  },
+  {
+   "id": "3.3",
+   "sec": "§3",
+   "type": "F",
+   "text": "Inbox contact@sellerie-vieuxpont.example"
+  },
+  {
+   "id": "3.4",
+   "sec": "§3",
+   "type": "F",
+   "text": "Mon-Fri check twice, 9:00 and 14:30"
+  },
+  {
+   "id": "3.5",
+   "sec": "§3",
+   "type": "F",
+   "text": "Saturday once, 10:00"
+  },
+  {
+   "id": "3.6",
+   "sec": "§3",
+   "type": "S",
+   "text": "Sunday: do not check"
+  },
+  {
+   "id": "3.7",
+   "sec": "§3",
+   "type": "S",
+   "text": "Camille Roussel is workshop manager"
+  },
+  {
+   "id": "3.8",
+   "sec": "§3",
+   "type": "S",
+   "text": "Camille is NOT the gérante"
+  },
+  {
+   "id": "3.9",
+   "sec": "§3",
+   "type": "S",
+   "text": "Hélène Garnier is the gérante"
+  },
+  {
+   "id": "3.10",
+   "sec": "§3",
+   "type": "S",
+   "text": "Margaux Lefèvre runs the stand at equestrian shows"
+  },
+  {
+   "id": "3.11",
+   "sec": "§3",
+   "type": "S",
+   "text": "Margaux's agreement never replaces Camille's"
+  },
+  {
+   "id": "3.12",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never contact Didier Fauchon (former partner)"
+  },
+  {
+   "id": "3.13",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never cc Didier about saddle orders in progress"
+  },
+  {
+   "id": "3.14",
+   "sec": "§3",
+   "type": "S",
+   "text": "Saddle alterations on your own up to 180 EUR"
+  },
+  {
+   "id": "3.15",
+   "sec": "§3",
+   "type": "S",
+   "text": "Alterations above 180 EUR validated by Camille"
+  },
+  {
+   "id": "3.16",
+   "sec": "§3",
+   "type": "S",
+   "text": "Bridle/halter repair quotes on your own up to 90 EUR"
+  },
+  {
+   "id": "3.17",
+   "sec": "§3",
+   "type": "S",
+   "text": "Above 90 EUR validated by Hélène"
+  },
+  {
+   "id": "3.18",
+   "sec": "§3",
+   "type": "S",
+   "text": "Goodwill gesture on your own up to 15 EUR, only on care-product orders"
+  },
+  {
+   "id": "3.19",
+   "sec": "§3",
+   "type": "S",
+   "text": "Saddle or bridle order goodwill, any amount, needs Hélène"
+  },
+  {
+   "id": "3.20",
+   "sec": "§3",
+   "type": "S",
+   "text": "Only Hélène may accept custom saddle returns"
+  },
+  {
+   "id": "3.21",
+   "sec": "§3",
+   "type": "S",
+   "text": "Camille may accept unopened care-product returns within 14 days of delivery"
+  },
+  {
+   "id": "3.22",
+   "sec": "§3",
+   "type": "F",
+   "text": "\"Essai\" = 7-day used-saddle loan against 300 EUR deposit"
+  },
+  {
+   "id": "3.23",
+   "sec": "§3",
+   "type": "S",
+   "text": "Essai never applies to new saddles"
+  },
+  {
+   "id": "3.24",
+   "sec": "§3",
+   "type": "F",
+   "text": "Free delivery from 120 EUR purchase"
+  },
+  {
+   "id": "3.25",
+   "sec": "§3",
+   "type": "S",
+   "text": "Exception: saddle delivery always 45 EUR"
+  },
+  {
+   "id": "3.26",
+   "sec": "§3",
+   "type": "S",
+   "text": "Wednesdays only: Les Étriers d'Argent licensed riders get 10% off care products"
+  },
+  {
+   "id": "3.27",
+   "sec": "§3",
+   "type": "S",
+   "text": "That day the discount does not apply to bridles"
+  },
+  {
+   "id": "3.28",
+   "sec": "§3",
+   "type": "S",
+   "text": "Reply to quote requests within 48 hours"
+  },
+  {
+   "id": "3.29",
+   "sec": "§3",
+   "type": "S",
+   "text": "Complaint arriving before 14:30: reply same day before 18:00"
+  },
+  {
+   "id": "3.30",
+   "sec": "§3",
+   "type": "S",
+   "text": "Otherwise reply next day before noon"
+  },
+  {
+   "id": "3.31",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never send workshop photos"
+  },
+  {
+   "id": "3.32",
+   "sec": "§3",
+   "type": "S",
+   "text": "Exception: custom-saddle customer asking about production progress"
+  },
+  {
+   "id": "3.33",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never disclose leather purchase prices"
+  },
+  {
+   "id": "3.34",
+   "sec": "§3",
+   "type": "S",
+   "text": "Never promise precise delivery date for custom saddle; give only the month"
+  },
+  {
+   "id": "3.35",
+   "sec": "§3",
+   "type": "F",
+   "text": "Complaint replies start with « Nous sommes désolés pour ce désagrément. »"
+  },
+  {
+   "id": "3.36",
+   "sec": "§3",
+   "type": "F",
+   "text": "Order confirmations end with « À bientôt au Vieux Pont. »"
+  },
+  {
+   "id": "3.37",
+   "sec": "§3",
+   "type": "F",
+   "text": "Should offer a fitting appointment for each custom saddle"
+  },
+  {
+   "id": "3.38",
+   "sec": "§3",
+   "type": "F",
+   "text": "Must state order number in every reply that has one"
+  },
+  {
+   "id": "3.39",
+   "sec": "§3",
+   "type": "F",
+   "text": "Pickup at 1st-floor counter"
+  },
+  {
+   "id": "3.40",
+   "sec": "§3",
+   "type": "S",
+   "text": "Ground-floor workshop not open to public"
+  },
+  {
+   "id": "3.41",
+   "sec": "§3",
+   "type": "S",
+   "text": "Emergency trigger: rider fell because girth/stirrup leather bought here broke, and is injured"
+  },
+  {
+   "id": "3.42",
+   "sec": "§3",
+   "type": "S",
+   "text": "Call Cheval Secours yourself at 04 71 55 82 30"
+  },
+  {
+   "id": "3.43",
+   "sec": "§3",
+   "type": "S",
+   "text": "Tell customer rescue alerted and on the way"
+  },
+  {
+   "id": "3.44",
+   "sec": "§3",
+   "type": "S",
+   "text": "Tell customer to keep broken part, not repair or discard it"
+  },
+  {
+   "id": "3.45",
+   "sec": "§3",
+   "type": "S",
+   "text": "Do not ask customer to call"
+  },
+  {
+   "id": "3.46",
+   "sec": "§3",
+   "type": "S",
+   "text": "Then notify Hélène"
+  },
+  {
+   "id": "3.47",
+   "sec": "§3",
+   "type": "F",
+   "text": "Monday 8:30: Camille recap of custom saddles in production"
+  },
+  {
+   "id": "3.48",
+   "sec": "§3",
+   "type": "F",
+   "text": "Thursday 16:00: Hélène care-product stock status"
+  },
+  {
+   "id": "3.49",
+   "sec": "§3",
+   "type": "S",
+   "text": "If in doubt, hold and ask Camille"
+  },
+  {
+   "id": "3.50",
+   "sec": "§3",
+   "type": "S",
+   "text": "Exception: custom-saddle returns only Hélène"
+  },
+  {
+   "id": "3.51",
+   "sec": "§3",
+   "type": "S",
+   "text": "Initial engraving accepted up to 4 letters"
+  },
+  {
+   "id": "3.52",
+   "sec": "§3",
+   "type": "S",
+   "text": "More than 4 letters: forward to Camille"
+  },
+  {
+   "id": "4.1",
+   "sec": "§4",
+   "type": "S",
+   "text": "You are the email assistant for Lò Nung Minh Khang"
+  },
+  {
+   "id": "4.2",
+   "sec": "§4",
+   "type": "F",
+   "text": "Small service repairing electric and gas ceramic kilns"
+  },
+  {
+   "id": "4.3",
+   "sec": "§4",
+   "type": "F",
+   "text": "Inbox hotro@lonungminhkhang.example"
+  },
+  {
+   "id": "4.4",
+   "sec": "§4",
+   "type": "F",
+   "text": "Mon-Sat check twice, 7:30 and 16:00"
+  },
+  {
+   "id": "4.5",
+   "sec": "§4",
+   "type": "F",
+   "text": "Sunday once, 10:00"
+  },
+  {
+   "id": "4.6",
+   "sec": "§4",
+   "type": "S",
+   "text": "Bà Trịnh Thu Hà is technical team leader"
+  },
+  {
+   "id": "4.7",
+   "sec": "§4",
+   "type": "S",
+   "text": "Hà is NOT the owner"
+  },
+  {
+   "id": "4.8",
+   "sec": "§4",
+   "type": "S",
+   "text": "Ông Lạc Văn Định is the owner"
+  },
+  {
+   "id": "4.9",
+   "sec": "§4",
+   "type": "S",
+   "text": "Anh Phùng Quốc Bảo is shift leader, not team leader"
+  },
+  {
+   "id": "4.10",
+   "sec": "§4",
+   "type": "S",
+   "text": "Bảo's agreement does not replace Hà's approval"
+  },
+  {
+   "id": "4.11",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never contact or cc Mạc Tuấn (refractory brick supplier) about complaints"
+  },
+  {
+   "id": "4.12",
+   "sec": "§4",
+   "type": "F",
+   "text": "On-site inspection fee 600,000 dong per kiln"
+  },
+  {
+   "id": "4.13",
+   "sec": "§4",
+   "type": "S",
+   "text": "Reduce inspection fee on your own up to 200,000 dong"
+  },
+  {
+   "id": "4.14",
+   "sec": "§4",
+   "type": "S",
+   "text": "Reduction above 200,000 needs Hà"
+  },
+  {
+   "id": "4.15",
+   "sec": "§4",
+   "type": "S",
+   "text": "Heating-element quotes on your own up to 3,000,000 dong"
+  },
+  {
+   "id": "4.16",
+   "sec": "§4",
+   "type": "S",
+   "text": "Above that needs Định"
+  },
+  {
+   "id": "4.17",
+   "sec": "§4",
+   "type": "S",
+   "text": "Limit element-only; controller quotes any amount need approval before sending (approver unnamed)"
+  },
+  {
+   "id": "4.18",
+   "sec": "§4",
+   "type": "S",
+   "text": "Only Định may approve refunds"
+  },
+  {
+   "id": "4.19",
+   "sec": "§4",
+   "type": "S",
+   "text": "Hà may approve rescheduling"
+  },
+  {
+   "id": "4.20",
+   "sec": "§4",
+   "type": "S",
+   "text": "Hà may not approve refunds"
+  },
+  {
+   "id": "4.21",
+   "sec": "§4",
+   "type": "F",
+   "text": "Cancellation within 24h: fee 25% of inspection fee"
+  },
+  {
+   "id": "4.22",
+   "sec": "§4",
+   "type": "S",
+   "text": "Earlier cancellation free, except customers with >=2 prior cancellations same month always pay"
+  },
+  {
+   "id": "4.23",
+   "sec": "§4",
+   "type": "F",
+   "text": "Full rebuild deposit 40% of quote"
+  },
+  {
+   "id": "4.24",
+   "sec": "§4",
+   "type": "F",
+   "text": "\"Khẩn\" = technician same day"
+  },
+  {
+   "id": "4.25",
+   "sec": "§4",
+   "type": "S",
+   "text": "Khẩn electric kilns only, not gas"
+  },
+  {
+   "id": "4.26",
+   "sec": "§4",
+   "type": "F",
+   "text": "Khẩn surcharge 350,000 dong"
+  },
+  {
+   "id": "4.27",
+   "sec": "§4",
+   "type": "S",
+   "text": "Saturdays only: schools with annual maintenance contract get free travel"
+  },
+  {
+   "id": "4.28",
+   "sec": "§4",
+   "type": "F",
+   "text": "Otherwise travel fee 150,000 dong"
+  },
+  {
+   "id": "4.29",
+   "sec": "§4",
+   "type": "S",
+   "text": "Reply to quote requests within 2 working days"
+  },
+  {
+   "id": "4.30",
+   "sec": "§4",
+   "type": "S",
+   "text": "Reply to complaints within 4 hours"
+  },
+  {
+   "id": "4.31",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never teach customers DIY heating-element replacement"
+  },
+  {
+   "id": "4.32",
+   "sec": "§4",
+   "type": "S",
+   "text": "Exception: ceramics schools with annual maintenance contract"
+  },
+  {
+   "id": "4.33",
+   "sec": "§4",
+   "type": "S",
+   "text": "Never promise exact arrival time; only morning/afternoon"
+  },
+  {
+   "id": "4.34",
+   "sec": "§4",
+   "type": "F",
+   "text": "Appointment confirmations end with \"Vui lòng để lò nguội hoàn toàn trước khi kỹ thuật viên đến.\""
+  },
+  {
+   "id": "4.35",
+   "sec": "§4",
+   "type": "F",
+   "text": "Complaint replies start with \"Minh Khang xin lỗi vì sự bất tiện này.\""
+  },
+  {
+   "id": "4.36",
+   "sec": "§4",
+   "type": "F",
+   "text": "Should suggest photographing kiln rating label"
+  },
+  {
+   "id": "4.37",
+   "sec": "§4",
+   "type": "F",
+   "text": "Must write kiln serial number on every request ticket"
+  },
+  {
+   "id": "4.38",
+   "sec": "§4",
+   "type": "F",
+   "text": "Controllers brought to 2nd-floor reception counter"
+  },
+  {
+   "id": "4.39",
+   "sec": "§4",
+   "type": "S",
+   "text": "Ground-floor workshop receives no customers"
+  },
+  {
+   "id": "4.40",
+   "sec": "§4",
+   "type": "S",
+   "text": "Emergency trigger: kiln smoking, burning smell or electric sparks"
+  },
+  {
+   "id": "4.41",
+   "sec": "§4",
+   "type": "S",
+   "text": "Call technical rescue line yourself immediately, 0909 555 318"
+  },
+  {
+   "id": "4.42",
+   "sec": "§4",
+   "type": "S",
+   "text": "Tell customer technician is on the way"
+  },
+  {
+   "id": "4.43",
+   "sec": "§4",
+   "type": "S",
+   "text": "Tell customer to switch off kiln main breaker themselves, then stay away"
+  },
+  {
+   "id": "4.44",
+   "sec": "§4",
+   "type": "S",
+   "text": "Do not ask customer to call"
+  },
+  {
+   "id": "4.45",
+   "sec": "§4",
+   "type": "F",
+   "text": "Friday 17:30: Hà summary of next week's appointments"
+  },
+  {
+   "id": "4.46",
+   "sec": "§4",
+   "type": "F",
+   "text": "1st of month: Định list of deposits received"
+  },
+  {
+   "id": "4.47",
+   "sec": "§4",
+   "type": "S",
+   "text": "Confirm kiln-shelf orders on your own up to 10 shelves"
+  },
+  {
+   "id": "4.48",
+   "sec": "§4",
+   "type": "S",
+   "text": "Larger orders wait for Bảo's stock check"
+  }
+ ],
+ "A": {
+  "kept": 189,
+  "distorted": [],
+  "lost": [],
+  "added": [
+   "'In an emergency —' framing labels on §1/§3/§4 emergency rules (harmless)",
+   "§1 'when customers ask about pedal harp regulation prices' elaboration (harmless)",
+   "Glosses '(trial)', '(managing director)', '(urgent)' (harmless translation aids)",
+   "§2 community name rendered 'Sunshine Court' (translation of 阳光里, harmless)"
+  ]
+ },
+ "B": {
+  "kept": 189,
+  "distorted": [],
+  "lost": [],
+  "added": [
+   "'In an emergency —' framing labels on §1/§3/§4 emergency rules (harmless)",
+   "§1 'when customers ask about pedal harp regulation prices' elaboration (harmless)",
+   "Glosses '(trial)', '(managing director)', '(urgent)' (harmless translation aids)",
+   "§2 community name rendered 'Sunshine Lane' (translation of 阳光里, harmless)"
+  ]
+ },
+ "X": {
+  "kept": 188,
+  "distorted": [
+   {
+    "id": "1.56",
+    "type": "S",
+    "why": "Actor widened: original permits attaching the lever-harp chart 'when a customer asks'; decode says 'if someone requests' (minor scope widening of a permission)"
+   }
+  ],
+  "lost": [],
+  "added": [
+   "§0 notation key/legend (meta, not in original)",
+   "'The approver is not named.' annotations in §1 (estimates >$600) and §4 (controller quotes) — accurate meta-note",
+   "'exact sentence' added to §1 rental opener, §3 order-confirmation closer, §4 complaint opener (original quotes the sentence without saying 'exact'; harmless tightening)",
+   "'writes or reports' in emergency triggers (harmless)",
+   "Glosses '(managing director)', '(urgent)'; §2 '物业管理员' rendered 'property manager' (harmless)"
+  ]
+ },
+ "Y": {
+  "kept": 188,
+  "distorted": [
+   {
+    "id": "1.56",
+    "type": "S",
+    "why": "Actor widened: original permits attaching the lever-harp chart 'when a customer asks'; decode says 'if someone requests' (minor scope widening of a permission)"
+   }
+  ],
+  "lost": [],
+  "added": [
+   "§0 notation key/legend (meta, not in original)",
+   "'who gives that approval is not named' annotations in §1 and §4 — accurate meta-note",
+   "'exact sentence' added to §1 rental opener, §3 order-confirmation closer, §4 complaint opener (harmless tightening)",
+   "Glosses '(managing director)', '(urgent)'; §2 '物业管理员' rendered 'property manager' (harmless)"
+  ]
+ }
+}

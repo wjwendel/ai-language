@@ -1,0 +1,745 @@
+{
+ "written": "2026-11-28 (2026-11-28 03:58 CT) by independent author (r36)",
+ "questions": [
+  {
+   "id": "§1.q1",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Is the inbox checked at 11:00 on a Wednesday?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q2",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer asks for a 40-dollar discount on restringing one harp. May the assistant grant it on its own?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q3",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer asks for a 41-dollar discount on restringing one harp. Who must approve it?",
+   "gold": "Ilse Marrow (the workshop manager)",
+   "accept": [
+    "ilse|marrow"
+   ],
+   "reject": [
+    "corwin|dalby|tobias|fenn"
+   ]
+  },
+  {
+   "id": "§1.q4",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "Un client demande une remise de 20 dollars sur un travail de régulation (regulation work). L'assistant peut-il l'accorder seul ?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q5",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A repair estimate comes to 605 dollars. Who must approve it before it is sent?",
+   "gold": "needs approval, approver not stated",
+   "accept": [
+    "not\\W*(stated|named|specified|say|state)|does\\W*n.t\\W*(say|state|name)|unspecified"
+   ],
+   "reject": [
+    "ilse|marrow|corwin|dalby|tobias|fenn|petra|vance"
+   ]
+  },
+  {
+   "id": "§1.q6",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A repair estimate comes to exactly 600 dollars. May the assistant confirm it on its own?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q7",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "Tobias Fenn says he approves a 55-dollar restringing discount for one harp. May the assistant grant it on that basis alone?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q8",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "May Ilse Marrow sign a letter as the owner of Brightwater Harp Workshop?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q9",
+   "sec": 1,
+   "type": "F",
+   "hop": 2,
+   "q": "Un samedi, un membre du groupe Harp Circle demande une vérification de la hauteur des cordes (string-height check). Combien cela coûte-t-il ?",
+   "gold": "free",
+   "accept": [
+    "free|no\\W*(charge|cost)|(?<!\\d)0(?!\\d)|nothing|zero|gratuit"
+   ],
+   "reject": [
+    "(?<!\\d)25(?!\\d)"
+   ]
+  },
+  {
+   "id": "§1.q10",
+   "sec": 1,
+   "type": "F",
+   "hop": 1,
+   "q": "The agreed price of a commissioned harp is 4,800 dollars. How much is the deposit?",
+   "gold": "1,440 dollars",
+   "accept": [
+    "1\\W?440(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q11",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "Một khách đã thuê đàn của xưởng hai lần trước đây muốn thuê một cây đàn hạc. Khách phải đặt cọc bao nhiêu?",
+   "gold": "150 dollars",
+   "accept": [
+    "(?<!\\d)150(?!\\d)"
+   ],
+   "reject": [
+    "^\\W*(no|none|zero|0)\\b"
+   ]
+  },
+  {
+   "id": "§1.q12",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer emails that she can see smoke in the building. What phone number must the assistant call itself?",
+   "gold": "555-0193-4471 (Riverside Fire Watch)",
+   "accept": [
+    "555\\W?0193\\W?4471"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q13",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "In that smoke emergency, who must leave by the side stairs and wait in the car park: the assistant or the customer?",
+   "gold": "the customer",
+   "accept": [
+    "customer|client|khách"
+   ],
+   "reject": [
+    "^\\W*(the\\W*)?(assistant|assistante?|trợ\\W*lý)\\b"
+   ]
+  },
+  {
+   "id": "§1.q14",
+   "sec": 1,
+   "type": "S",
+   "hop": 2,
+   "q": "Ilse has emailed the assistant that a commissioned harp will be ready on 3 May, but Corwin has written no date in the order notes. May the assistant promise the customer that delivery date?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§1.q15",
+   "sec": 1,
+   "type": "S",
+   "hop": 1,
+   "q": "Is mentioning the free online string-care video in replies required?",
+   "gold": "recommended (should), not required",
+   "accept": [
+    "recommend|not\\W*(strictly\\W*)?(required|mandatory|obligatory)|optional|should"
+   ],
+   "reject": [
+    "^\\W*yes\\b"
+   ]
+  },
+  {
+   "id": "§2.q1",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "On what date does the charging shed open for use?",
+   "gold": "June 17",
+   "accept": [
+    "june\\W*17|17\\W*(th\\W*)?(of\\W*)?june|6\\W?[/月.-]\\W?17"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q2",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "一位居民1月购买的电动自行车可以参加本次登记吗？",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q3",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "一辆2月20日购买的电动三轮车可以参加本次登记吗？",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q4",
+   "sec": 2,
+   "type": "S",
+   "hop": 1,
+   "q": "一位45岁的车主能否让邻居替他办理登记？",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q5",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "一位75岁行动不便的老人，家属当天没有预约，直接来物业办公室代办。可以办理吗？",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q6",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "6月8日下午15:00可以办理登记吗？",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q7",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "Can a resident register at 11:40 on June 11?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q8",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "A household registers two vehicles, each with a quarterly card. How much do they pay in total at first registration, including deposits?",
+   "gold": "200 yuan",
+   "accept": [
+    "(?<!\\d)200(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q9",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "一户丢失了一张充电卡，又损坏了另一张充电卡，补办共需多少钱？",
+   "gold": "20 yuan",
+   "accept": [
+    "(?<!\\d)20(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q10",
+   "sec": 2,
+   "type": "S",
+   "hop": 2,
+   "q": "A vehicle's battery is fine, but its charger is cracked. May it enter the charging shed?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q11",
+   "sec": 2,
+   "type": "F",
+   "hop": 2,
+   "q": "晚上10:30开始充电，最晚可以充到几点？",
+   "gold": "23:00 (11 pm)",
+   "accept": [
+    "23:00|11\\s*(p\\.?m|o.clock\\W*(at\\W*)?night)|23\\s*h|23点|23\\.00"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q12",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "What phone number should residents call with questions or complaints?",
+   "gold": "138-0571-2246 (Shao Lixin)",
+   "accept": [
+    "138\\W?0571\\W?2246"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q13",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "A household wants to register a third vehicle. Is that allowed?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§2.q14",
+   "sec": 2,
+   "type": "F",
+   "hop": 1,
+   "q": "登记地点在哪里？",
+   "gold": "property office, 1st floor of Building 3",
+   "accept": [
+    "building\\W*(no\\.?\\W*)?3|3号楼|#\\W?3|bldg\\W*3",
+    "1\\W*(st)?\\W*(floor|fl\\b|f\\b)|first\\W*floor|ground\\W*floor|1楼|floor\\W*1"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q1",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Le samedi à 14 h 30, l'assistant consulte-t-il la boîte de réception ?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q2",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A saddle alteration costs exactly 180 euros. May the assistant accept it on its own?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q3",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Une retouche de selle coûte 185 euros. Qui doit la valider ?",
+   "gold": "Camille Roussel",
+   "accept": [
+    "camille|roussel"
+   ],
+   "reject": [
+    "h[ée]l[èe]ne|garnier|margaux|lef[èe]vre"
+   ]
+  },
+  {
+   "id": "§3.q4",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A headcollar repair estimate is 90 euros. May the assistant confirm it on its own?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q5",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A bridle repair estimate is 95 euros. Who must approve it?",
+   "gold": "Hélène Garnier",
+   "accept": [
+    "h[ée]l[èe]ne|garnier"
+   ],
+   "reject": [
+    "camille|roussel|margaux|lef[èe]vre"
+   ]
+  },
+  {
+   "id": "§3.q6",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer ordering a bridle asks for a 10-euro goodwill gesture. May the assistant grant it on its own?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q7",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Un client qui commande des produits d'entretien demande un geste commercial de 16 euros. L'assistant peut-il l'accorder seul ?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q8",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Margaux Lefèvre approves a 200-euro saddle alteration. Is her approval sufficient?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q9",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "Un client peut-il obtenir un « essai » d'une selle neuve ?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q10",
+   "sec": 3,
+   "type": "F",
+   "hop": 2,
+   "q": "On a Wednesday, a licensed rider of Les Étriers d'Argent buys 60 euros of leather-care products. How much do they pay for the products after the discount?",
+   "gold": "54 euros",
+   "accept": [
+    "(?<!\\d)54(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q11",
+   "sec": 3,
+   "type": "F",
+   "hop": 2,
+   "q": "A customer buys a saddle for 1,850 euros. What is the total including delivery?",
+   "gold": "1,895 euros",
+   "accept": [
+    "1\\W?895(?!\\d)"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q12",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A complaint arrives at 14:35. By when must the reply be sent?",
+   "gold": "the next day before noon",
+   "accept": [
+    "next|following|tomorrow|lendemain",
+    "noon|midi|12"
+   ],
+   "reject": [
+    "18"
+   ]
+  },
+  {
+   "id": "§3.q13",
+   "sec": 3,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer writes that a rider was injured when a girth bought from the shop broke. What phone number must the assistant call itself?",
+   "gold": "04 71 55 82 30 (Cheval Secours)",
+   "accept": [
+    "04\\W?71\\W?55\\W?82\\W?30"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§3.q14",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "Dans ce cas d'urgence, qui doit conserver la pièce cassée : l'assistant ou le client ?",
+   "gold": "the customer",
+   "accept": [
+    "customer|client|khách"
+   ],
+   "reject": [
+    "^\\W*(the\\W*)?(assistant|assistante?|trợ\\W*lý)\\b"
+   ]
+  },
+  {
+   "id": "§3.q15",
+   "sec": 3,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer whose bridle is being repaired asks for photos of the workshop showing the progress. May the assistant send them?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q1",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Vào thứ Ba lúc 12:00, trợ lý có kiểm tra hộp thư không?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q2",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer asks for an inspection-fee discount of exactly 200,000 dong. May the assistant grant it on its own?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q3",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Khách xin giảm phí kiểm tra 210.000 đồng. Ai phải phê duyệt?",
+   "gold": "Trịnh Thu Hà (technical team leader)",
+   "accept": [
+    "trịnh|trinh|\\bh[àa]\\b"
+   ],
+   "reject": [
+    "định|\\bdinh\\b|bảo|\\bbao\\b|lạc|\\blac\\b"
+   ]
+  },
+  {
+   "id": "§4.q4",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A heating-element replacement quote is exactly 3,000,000 dong. May the assistant confirm it on its own?",
+   "gold": "yes",
+   "accept": [
+    "^\\W*yes\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q5",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A heating-element replacement quote is 3,050,000 dong. Who must approve it?",
+   "gold": "Lạc Văn Định (the owner)",
+   "accept": [
+    "định|\\bdinh\\b"
+   ],
+   "reject": [
+    "trịnh|trinh|\\bh[àa]\\b|bảo|\\bbao\\b"
+   ]
+  },
+  {
+   "id": "§4.q6",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A temperature-controller replacement quote is 900,000 dong. May the assistant confirm it on its own?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q7",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "Who must approve that 900,000-dong temperature-controller quote?",
+   "gold": "needs approval, approver not stated",
+   "accept": [
+    "not\\W*(stated|named|specified|say|state)|does\\W*n.t\\W*(say|state|name)|unspecified"
+   ],
+   "reject": [
+    "trịnh|trinh|\\bh[àa]\\b|định|\\bdinh\\b|bảo|\\bbao\\b|tuấn|tuan|lạc|phùng|phung"
+   ]
+  },
+  {
+   "id": "§4.q8",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "Khách hủy lịch 20 giờ trước buổi hẹn. Phí hủy là bao nhiêu?",
+   "gold": "150,000 dong",
+   "accept": [
+    "150\\W?000|150\\s*k\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q9",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A customer who has already cancelled twice this month cancels a third appointment 30 hours ahead. How much is the cancellation fee?",
+   "gold": "150,000 dong",
+   "accept": [
+    "150\\W?000|150\\s*k\\b"
+   ],
+   "reject": [
+    "^\\W*(no|none|zero|free)\\b"
+   ]
+  },
+  {
+   "id": "§4.q10",
+   "sec": 4,
+   "type": "F",
+   "hop": 1,
+   "q": "A full kiln rebuild is quoted at 7,500,000 dong. How much is the deposit?",
+   "gold": "3,000,000 dong",
+   "accept": [
+    "3\\W?000\\W?000|3\\s*million"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q11",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "Can a customer with a gas kiln get the \"khẩn\" (same-day) service?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q12",
+   "sec": 4,
+   "type": "F",
+   "hop": 2,
+   "q": "Thứ Bảy, một trường dạy gốm có hợp đồng bảo trì năm yêu cầu kiểm tra khẩn một lò điện. Tổng chi phí (phí kiểm tra + phụ phí khẩn + phí đi lại) là bao nhiêu?",
+   "gold": "950,000 dong",
+   "accept": [
+    "950\\W?000|950\\s*k\\b"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q13",
+   "sec": 4,
+   "type": "S",
+   "hop": 1,
+   "q": "A customer reports sparks coming from the kiln. What phone number must the assistant call itself?",
+   "gold": "0909 555 318",
+   "accept": [
+    "0909\\W?555\\W?318"
+   ],
+   "reject": []
+  },
+  {
+   "id": "§4.q14",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "Trong tình huống khẩn cấp đó, ai phải ngắt cầu dao tổng của lò: trợ lý hay khách?",
+   "gold": "the customer",
+   "accept": [
+    "customer|client|khách"
+   ],
+   "reject": [
+    "^\\W*(the\\W*)?(assistant|assistante?|trợ\\W*lý)\\b"
+   ]
+  },
+  {
+   "id": "§4.q15",
+   "sec": 4,
+   "type": "S",
+   "hop": 2,
+   "q": "A pottery school without an annual maintenance contract asks how to replace a heating element itself. May the assistant instruct them?",
+   "gold": "no",
+   "accept": [
+    "^\\W*no\\b"
+   ],
+   "reject": []
+  }
+ ]
+}

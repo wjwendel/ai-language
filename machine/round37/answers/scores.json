@@ -1,0 +1,5496 @@
+{
+ "rows": [
+  {
+   "f": "llm05_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ilse Marrow",
+   "gold": "Ilse Marrow (the workshop manager)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; discounts on that work need Corwin Dalby's approval",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (above 600 dollars needs approval; approver not named)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Tobias's approval does not replace Ilse's",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; she is workshop manager, not owner (owner is Corwin Dalby)",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "free",
+   "gold": "free"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,440 dollars",
+   "gold": "1,440 dollars"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "150 dollars",
+   "gold": "150 dollars"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0193-4471 (Riverside Fire Watch)",
+   "gold": "555-0193-4471 (Riverside Fire Watch)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer (leave the building and wait in the car park); side stairs not stated",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only if Corwin has written it in the order notes",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§1.q15",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "recommended (should), not required"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "June 17",
+   "gold": "June 17"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the owner must register in person",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes; family may register for those over 70 with limited mobility (no appointment requirement stated)",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; morning hours end at 11:30",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "200 yuan",
+   "gold": "200 yuan"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "20 yuan"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "2:30 a.m. (max 4 hours)",
+   "gold": "23:00 (11 pm)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "138-0571-2246 (Shao Lixin, workdays 8:30-17:00); otherwise duty room 0571-8862-4410",
+   "gold": "138-0571-2246 (Shao Lixin)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "Property management office, 1st floor, Building 3",
+   "gold": "property office, 1st floor of Building 3"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Roussel",
+   "gold": "Camille Roussel"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hélène Garnier",
+   "gold": "Hélène Garnier"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; needs Hélène Garnier's approval",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; limit is 15 euros",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Margaux does not replace Camille",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; trials are only for used saddles",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "54 euros",
+   "gold": "54 euros"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,895 euros (45 euros delivery for saddles)",
+   "gold": "1,895 euros"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "next day before noon",
+   "gold": "the next day before noon"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "04 71 55 82 30 (Cheval Secours)",
+   "gold": "04 71 55 82 30 (Cheval Secours)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§3.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; photos only for custom saddles in production",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Bà Trịnh Thu Hà",
+   "gold": "Trịnh Thu Hà (technical team leader)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ông Lạc Văn Định",
+   "gold": "Lạc Văn Định (the owner)"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; needs prior approval",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Ông Lạc Văn Định",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150,000 dong (25% of the inspection fee)",
+   "gold": "150,000 dong"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "150,000 dong"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000,000 dong",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; electric kilns only",
+   "gold": "no"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "950,000 dong",
+   "gold": "950,000 dong"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0909 555 318",
+   "gold": "0909 555 318"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm05_r1",
+   "id": "§4.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only pottery schools with a maintenance contract",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ilse Marrow",
+   "gold": "Ilse Marrow (the workshop manager)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; discounts on regulation work need Corwin Dalby's approval",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (estimates above 600 dollars need approval, but the approver is not named)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Tobias's approval never replaces Ilse's, and above 40 dollars needs Ilse's approval",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; she is the workshop manager, not the owner (Corwin Dalby is the owner)",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "free",
+   "gold": "free"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,440 dollars",
+   "gold": "1,440 dollars"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "150 dollars (only customers who rented three times before pay no deposit)",
+   "gold": "150 dollars"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0193-4471 (Riverside Fire Watch)",
+   "gold": "555-0193-4471 (Riverside Fire Watch)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer (must leave the building and wait in the car park; side stairs not stated)",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only if Corwin has written the date in the order notes",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§1.q15",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no; replies that mention it must include the order number",
+   "gold": "recommended (should), not required"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "June 17",
+   "gold": "June 17"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "yes; family may register for residents over 70 with limited mobility (appointment rule not stated)",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; June 8 is morning only",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "200 yuan",
+   "gold": "200 yuan"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "20 yuan",
+   "gold": "20 yuan"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "2:30 a.m. (max 4 hours)",
+   "gold": "23:00 (11 pm)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "138-0571-2246 (property manager Shao Lixin, workdays 8:30-17:30)",
+   "gold": "138-0571-2246 (Shao Lixin)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 0,
+   "final": 0,
+   "answer": "not stated",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "property office, 1st floor of Building 3",
+   "gold": "property office, 1st floor of Building 3"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Saturday is checked once at 10:00",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Roussel",
+   "gold": "Camille Roussel"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hélène Garnier",
+   "gold": "Hélène Garnier"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; gestures on bridle orders need Hélène's approval",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; limit is 15 euros",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; her approval does not replace Camille's, who must approve above 180 euros",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; essai does not apply to new saddles",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "54 euros",
+   "gold": "54 euros"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,895 euros (saddles do not get free delivery; 45 euros)",
+   "gold": "1,895 euros"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "next day before noon",
+   "gold": "the next day before noon"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "04 71 55 82 30 (Cheval Secours)",
+   "gold": "04 71 55 82 30 (Cheval Secours)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§3.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only for customers who ordered a custom saddle asking about its fabrication",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Trịnh Thu Hà",
+   "gold": "Trịnh Thu Hà (technical team leader)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lạc Văn Định",
+   "gold": "Lạc Văn Định (the owner)"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; temperature-controller replacement quotes need prior approval",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "Lạc Văn Định",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150,000 dong",
+   "gold": "150,000 dong"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "150,000 dong",
+   "gold": "150,000 dong"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000,000 dong",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; urgent service is for electric kilns only",
+   "gold": "no"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "950,000 dong",
+   "gold": "950,000 dong"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0909 555 318",
+   "gold": "0909 555 318"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "llm066_r1",
+   "id": "§4.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only pottery schools with an annual maintenance contract",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ilse Marrow",
+   "gold": "Ilse Marrow (the workshop manager)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, any regulation discount needs Corwin Dalby's approval",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (approval required, approver not named)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Ilse's approval is needed; Tobias's does not replace it",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, she is the workshop manager, not the owner",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "free",
+   "gold": "free"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,440 dollars",
+   "gold": "1,440 dollars"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "150 dollars",
+   "gold": "150 dollars"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0193-4471",
+   "gold": "555-0193-4471 (Riverside Fire Watch)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§1.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is recommended (should), not required",
+   "gold": "recommended (should), not required"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "June 17",
+   "gold": "June 17"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the family must book by phone one day in advance",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, June 8 is morning only",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "200 yuan",
+   "gold": "200 yuan"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "20 yuan",
+   "gold": "20 yuan"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "23:00",
+   "gold": "23:00 (11 pm)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "138-0571-2246 (Shao Lixin, weekdays 8:30-17:30)",
+   "gold": "138-0571-2246 (Shao Lixin)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "property office, 1st floor, Building 3",
+   "gold": "property office, 1st floor of Building 3"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Roussel",
+   "gold": "Camille Roussel"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hélène Garnier",
+   "gold": "Hélène Garnier"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Hélène must validate it",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Camille must validate it",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "54 euros",
+   "gold": "54 euros"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,895 euros",
+   "gold": "1,895 euros"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "next day before noon",
+   "gold": "the next day before noon"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "04 71 55 82 30",
+   "gold": "04 71 55 82 30 (Cheval Secours)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§3.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "bà Trịnh Thu Hà",
+   "gold": "Trịnh Thu Hà (technical team leader)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "ông Lạc Văn Định",
+   "gold": "Lạc Văn Định (the owner)"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150,000 dong",
+   "gold": "150,000 dong"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "150,000 dong",
+   "gold": "150,000 dong"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000,000 dong",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "950,000 dong",
+   "gold": "950,000 dong"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0909 555 318",
+   "gold": "0909 555 318"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r1",
+   "id": "§4.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ilse Marrow",
+   "gold": "Ilse Marrow (the workshop manager)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Corwin must approve",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Ilse's approval is required",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "free",
+   "gold": "free"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,440 dollars",
+   "gold": "1,440 dollars"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "150 dollars",
+   "gold": "150 dollars"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0193-4471",
+   "gold": "555-0193-4471 (Riverside Fire Watch)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§1.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is recommended (should), not required",
+   "gold": "recommended (should), not required"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "June 17",
+   "gold": "June 17"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "200 yuan",
+   "gold": "200 yuan"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "20 yuan",
+   "gold": "20 yuan"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "23:00",
+   "gold": "23:00 (11 pm)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "138-0571-2246",
+   "gold": "138-0571-2246 (Shao Lixin)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "property office, 1st floor, Building 3",
+   "gold": "property office, 1st floor of Building 3"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Roussel",
+   "gold": "Camille Roussel"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hélène Garnier",
+   "gold": "Hélène Garnier"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "54 euros",
+   "gold": "54 euros"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,895 euros",
+   "gold": "1,895 euros"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "next day before noon",
+   "gold": "the next day before noon"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "04 71 55 82 30",
+   "gold": "04 71 55 82 30 (Cheval Secours)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§3.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "bà Trịnh Thu Hà",
+   "gold": "Trịnh Thu Hà (technical team leader)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "ông Lạc Văn Định",
+   "gold": "Lạc Văn Định (the owner)"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150,000 dong",
+   "gold": "150,000 dong"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "150,000 dong",
+   "gold": "150,000 dong"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000,000 dong",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "950,000 dong",
+   "gold": "950,000 dong"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0909 555 318",
+   "gold": "0909 555 318"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28_r2",
+   "id": "§4.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ilse Marrow",
+   "gold": "Ilse Marrow (the workshop manager)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Corwin Dalby must approve",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Ilse must approve",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "free",
+   "gold": "free"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$1,440",
+   "gold": "1,440 dollars"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "$150",
+   "gold": "150 dollars"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0193-4471",
+   "gold": "555-0193-4471 (Riverside Fire Watch)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§1.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; recommended (should), not required",
+   "gold": "recommended (should), not required"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "June 17",
+   "gold": "June 17"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; family must phone property 1 day ahead to book",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "200 yuan",
+   "gold": "200 yuan"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "20 yuan",
+   "gold": "20 yuan"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "23:00",
+   "gold": "23:00 (11 pm)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "138-0571-2246 (property manager 邵立新, workdays 8:30-17:30)",
+   "gold": "138-0571-2246 (Shao Lixin)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "property office, Building 3, 1st floor",
+   "gold": "property office, 1st floor of Building 3"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Roussel",
+   "gold": "Camille Roussel"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hélène Garnier",
+   "gold": "Hélène Garnier"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Hélène must approve",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Camille must approve",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€54",
+   "gold": "54 euros"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€1,895",
+   "gold": "1,895 euros"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "next day before noon",
+   "gold": "the next day before noon"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "04 71 55 82 30",
+   "gold": "04 71 55 82 30 (Cheval Secours)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§3.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Trịnh Thu Hà",
+   "gold": "Trịnh Thu Hà (technical team leader)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lạc Văn Định",
+   "gold": "Lạc Văn Định (the owner)"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150,000 dong",
+   "gold": "150,000 dong"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "150,000 dong",
+   "gold": "150,000 dong"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000,000 dong",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "950,000 dong",
+   "gold": "950,000 dong"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0909 555 318",
+   "gold": "0909 555 318"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r1",
+   "id": "§4.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ilse Marrow",
+   "gold": "Ilse Marrow (the workshop manager)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Corwin Dalby must approve",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Ilse Marrow must approve",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Corwin Dalby is the owner",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "free",
+   "gold": "free"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$1,440",
+   "gold": "1,440 dollars"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "$150",
+   "gold": "150 dollars"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0193-4471",
+   "gold": "555-0193-4471 (Riverside Fire Watch)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§1.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it is recommended (should), not required",
+   "gold": "recommended (should), not required"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "June 17",
+   "gold": "June 17"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; family must phone the property 1 day ahead to book",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; June 8 is morning only",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "200 yuan",
+   "gold": "200 yuan"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "20 yuan",
+   "gold": "20 yuan"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "23:00",
+   "gold": "23:00 (11 pm)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "138-0571-2246 (property manager 邵立新, workdays 8:30-17:30)",
+   "gold": "138-0571-2246 (Shao Lixin)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; max 2 vehicles per household",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "property office, Building 3, 1st floor",
+   "gold": "property office, 1st floor of Building 3"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Roussel",
+   "gold": "Camille Roussel"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hélène Garnier",
+   "gold": "Hélène Garnier"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Hélène Garnier must approve",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Camille Roussel must approve",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€54",
+   "gold": "54 euros"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€1,895",
+   "gold": "1,895 euros"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "next day before noon",
+   "gold": "the next day before noon"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "04 71 55 82 30",
+   "gold": "04 71 55 82 30 (Cheval Secours)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§3.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Trịnh Thu Hà",
+   "gold": "Trịnh Thu Hà (technical team leader)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lạc Văn Định",
+   "gold": "Lạc Văn Định (the owner)"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150,000 dong",
+   "gold": "150,000 dong"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "150,000 dong",
+   "gold": "150,000 dong"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000,000 dong",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "950,000 dong",
+   "gold": "950,000 dong"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0909 555 318",
+   "gold": "0909 555 318"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "mnc28x_r2",
+   "id": "§4.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ilse Marrow",
+   "gold": "Ilse Marrow (the workshop manager)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; any regulation discount needs Corwin Dalby's approval",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Tobias's approval never replaces Ilse's, so Ilse must approve",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; she is the workshop manager, not the owner (Corwin Dalby is)",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "free",
+   "gold": "free"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,440 dollars",
+   "gold": "1,440 dollars"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "150 dollars",
+   "gold": "150 dollars"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0193-4471",
+   "gold": "555-0193-4471 (Riverside Fire Watch)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§1.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it is recommended (should), not required",
+   "gold": "recommended (should), not required"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "June 17",
+   "gold": "June 17"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; family must phone the property office to book one day in advance",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; June 8 is morning only",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "200 yuan",
+   "gold": "200 yuan"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "20 yuan",
+   "gold": "20 yuan"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "23:00",
+   "gold": "23:00 (11 pm)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "138-0571-2246",
+   "gold": "138-0571-2246 (Shao Lixin)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "the property office on the 1st floor of Building 3",
+   "gold": "property office, 1st floor of Building 3"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Roussel",
+   "gold": "Camille Roussel"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hélène Garnier",
+   "gold": "Hélène Garnier"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it needs Hélène Garnier's approval",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Camille's approval is required",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "54 euros",
+   "gold": "54 euros"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "1,895 euros",
+   "gold": "1,895 euros"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the next day before noon",
+   "gold": "the next day before noon"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "04 71 55 82 30",
+   "gold": "04 71 55 82 30 (Cheval Secours)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r1",
+   "id": "§3.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Trịnh Thu Hà",
+   "gold": "Trịnh Thu Hà (technical team leader)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lạc Văn Định",
+   "gold": "Lạc Văn Định (the owner)"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150,000 dong",
+   "gold": "150,000 dong"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "150,000 dong",
+   "gold": "150,000 dong"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000,000 dong",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "950,000 dong",
+   "gold": "950,000 dong"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0909 555 318",
+   "gold": "0909 555 318"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "original_r1",
+   "id": "§4.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ilse Marrow",
+   "gold": "Ilse Marrow (the workshop manager)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, regulation discounts of any amount need Corwin Dalby",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (approval required before sending; approver not named)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Ilse must approve (Tobias's approval never replaces hers)",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Ilse is not the owner (Corwin Dalby is)",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "free",
+   "gold": "free"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$1,440",
+   "gold": "1,440 dollars"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "$150",
+   "gold": "150 dollars"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0193-4471 (Riverside Fire Watch)",
+   "gold": "555-0193-4471 (Riverside Fire Watch)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§1.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no (recommended, not required)",
+   "gold": "recommended (should), not required"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "June 17",
+   "gold": "June 17"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no (family proxy requires phone appointment one day in advance)",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "200 yuan",
+   "gold": "200 yuan"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "20 yuan",
+   "gold": "20 yuan"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "23:00",
+   "gold": "23:00 (11 pm)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "138-0571-2246 (Shao Lixin)",
+   "gold": "138-0571-2246 (Shao Lixin)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "property office, 1st floor, Building 3",
+   "gold": "property office, 1st floor of Building 3"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Roussel",
+   "gold": "Camille Roussel"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hélène Garnier",
+   "gold": "Hélène Garnier"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Hélène must approve",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no (self limit is €15)",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Camille must approve",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€54",
+   "gold": "54 euros"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€1,895",
+   "gold": "1,895 euros"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "by noon the next day",
+   "gold": "the next day before noon"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "04 71 55 82 30 (Cheval Secours)",
+   "gold": "04 71 55 82 30 (Cheval Secours)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§3.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ms. Trịnh Thu Hà",
+   "gold": "Trịnh Thu Hà (technical team leader)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Mr. Lạc Văn Định",
+   "gold": "Lạc Văn Định (the owner)"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (must be approved before sending; approver not named)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150,000 dong",
+   "gold": "150,000 dong"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "150,000 dong",
+   "gold": "150,000 dong"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000,000 dong",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "950,000 dong",
+   "gold": "950,000 dong"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0909 555 318",
+   "gold": "0909 555 318"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "summ_r1",
+   "id": "§4.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ilse Marrow",
+   "gold": "Ilse Marrow (the workshop manager)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; any regulation discount requires Corwin Dalby",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (approval required before sending, approver not named)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Ilse's approval is required",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; the owner is Corwin Dalby",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "free",
+   "gold": "free"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$1,440",
+   "gold": "1,440 dollars"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "$150",
+   "gold": "150 dollars"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0193-4471 (Riverside Fire Watch)",
+   "gold": "555-0193-4471 (Riverside Fire Watch)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§1.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; it is recommended (should), not required",
+   "gold": "recommended (should), not required"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "June 17",
+   "gold": "June 17"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no; only vehicles bought after March 1 are covered",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; family must phone for an appointment one day ahead",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; June 8 is mornings only",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; morning registration ends at 11:30",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥200",
+   "gold": "200 yuan"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥20",
+   "gold": "20 yuan"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; only after passing property inspection and re-registering",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "23:00",
+   "gold": "23:00 (11 pm)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "138-0571-2246 (Shao Lixin, workdays 8:30–17:30)",
+   "gold": "138-0571-2246 (Shao Lixin)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "property office, Building 3, 1st floor",
+   "gold": "property office, 1st floor of Building 3"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Roussel",
+   "gold": "Camille Roussel"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hélène Garnier",
+   "gold": "Hélène Garnier"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Hélène must approve",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no (approver above €15 not stated)",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no; Camille's approval is required",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€54",
+   "gold": "54 euros"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€1,895",
+   "gold": "1,895 euros"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "next day before noon",
+   "gold": "the next day before noon"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "04 71 55 82 30 (Cheval Secours)",
+   "gold": "04 71 55 82 30 (Cheval Secours)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§3.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Trịnh Thu Hà",
+   "gold": "Trịnh Thu Hà (technical team leader)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lạc Văn Định",
+   "gold": "Lạc Văn Định (the owner)"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated (approval required before sending, approver not named)",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150,000 VND",
+   "gold": "150,000 dong"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "150,000 VND",
+   "gold": "150,000 dong"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000,000 VND",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "950,000 VND",
+   "gold": "950,000 dong"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0909 555 318",
+   "gold": "0909 555 318"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r1",
+   "id": "§4.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Ilse Marrow",
+   "gold": "Ilse Marrow (the workshop manager)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, any regulation discount needs Corwin Dalby",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Ilse's approval is required",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, the owner is Corwin Dalby",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "free",
+   "gold": "free"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "$1,440",
+   "gold": "1,440 dollars"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "$150",
+   "gold": "150 dollars"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "555-0193-4471",
+   "gold": "555-0193-4471 (Riverside Fire Watch)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§1.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, it is recommended (should), not required",
+   "gold": "recommended (should), not required"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q1",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "June 17",
+   "gold": "June 17"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q2",
+   "type": "S",
+   "auto": 0,
+   "final": 0,
+   "answer": "no",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, an appointment must be phoned in one day ahead",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q6",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q7",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥200",
+   "gold": "200 yuan"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q9",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "¥20",
+   "gold": "20 yuan"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q10",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "23:00",
+   "gold": "23:00 (11 pm)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "138-0571-2246 (Shao Lixin)",
+   "gold": "138-0571-2246 (Shao Lixin)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q13",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§2.q14",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "property office, Building 3, 1st floor",
+   "gold": "property office, 1st floor of Building 3"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Camille Roussel",
+   "gold": "Camille Roussel"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Hélène Garnier",
+   "gold": "Hélène Garnier"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Hélène must approve",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q8",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no, Camille's approval is required",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€54",
+   "gold": "54 euros"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q11",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "€1,895",
+   "gold": "1,895 euros"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q12",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "next day before noon",
+   "gold": "the next day before noon"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "04 71 55 82 30",
+   "gold": "04 71 55 82 30 (Cheval Secours)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§3.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q1",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q2",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q3",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Trịnh Thu Hà",
+   "gold": "Trịnh Thu Hà (technical team leader)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q4",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "yes",
+   "gold": "yes"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q5",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "Lạc Văn Định",
+   "gold": "Lạc Văn Định (the owner)"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q6",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q7",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "not stated",
+   "gold": "needs approval, approver not stated"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q8",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "150,000 VND",
+   "gold": "150,000 dong"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q9",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "150,000 VND",
+   "gold": "150,000 dong"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q10",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "3,000,000 VND",
+   "gold": "3,000,000 dong"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q11",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q12",
+   "type": "F",
+   "auto": 1,
+   "final": 1,
+   "answer": "950,000 VND",
+   "gold": "950,000 dong"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q13",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "0909 555 318",
+   "gold": "0909 555 318"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q14",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "the customer",
+   "gold": "the customer"
+  },
+  {
+   "f": "terse_r2",
+   "id": "§4.q15",
+   "type": "S",
+   "auto": 1,
+   "final": 1,
+   "answer": "no",
+   "gold": "no"
+  }
+ ],
+ "summary": {
+  "llm05_r1": {
+   "all": [
+    48,
+    59
+   ],
+   "S": [
+    36,
+    43
+   ],
+   "F": [
+    12,
+    16
+   ],
+   "hop2": [
+    20,
+    28
+   ]
+  },
+  "llm066_r1": {
+   "all": [
+    52,
+    59
+   ],
+   "S": [
+    38,
+    43
+   ],
+   "F": [
+    14,
+    16
+   ],
+   "hop2": [
+    23,
+    28
+   ]
+  },
+  "mnc28_r1": {
+   "all": [
+    59,
+    59
+   ],
+   "S": [
+    43,
+    43
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    28,
+    28
+   ]
+  },
+  "mnc28_r2": {
+   "all": [
+    59,
+    59
+   ],
+   "S": [
+    43,
+    43
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    28,
+    28
+   ]
+  },
+  "mnc28x_r1": {
+   "all": [
+    59,
+    59
+   ],
+   "S": [
+    43,
+    43
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    28,
+    28
+   ]
+  },
+  "mnc28x_r2": {
+   "all": [
+    59,
+    59
+   ],
+   "S": [
+    43,
+    43
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    28,
+    28
+   ]
+  },
+  "original_r1": {
+   "all": [
+    59,
+    59
+   ],
+   "S": [
+    43,
+    43
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    28,
+    28
+   ]
+  },
+  "summ_r1": {
+   "all": [
+    59,
+    59
+   ],
+   "S": [
+    43,
+    43
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    28,
+    28
+   ]
+  },
+  "terse_r1": {
+   "all": [
+    58,
+    59
+   ],
+   "S": [
+    42,
+    43
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    27,
+    28
+   ]
+  },
+  "terse_r2": {
+   "all": [
+    58,
+    59
+   ],
+   "S": [
+    42,
+    43
+   ],
+   "F": [
+    16,
+    16
+   ],
+   "hop2": [
+    27,
+    28
+   ]
+  }
+ }
+}
